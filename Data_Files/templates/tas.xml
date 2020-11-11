@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+<!--Travellers' Aid Society Access Terminal
+     TAS.XML initialization file
+
+NOTE : the attributes must follow the below order and format :
+Set era for resources
+1 = Classic / MegaTraveller 1070 - 1116
+2 = Traveller the New Era 1116 + (1200)
+3 = Milieu 0 (T4)
+4 = Custom
+5 = T5(not implemented yet - 09 / 2016
+
+Set Current Year(ie 1085)
+Set Current Day(1 - 365)
+
+Access levels range from 0 to 10
+0 = basic user
+1 = TAS charter membership
+2 - 9 are members with access to special areas
+10 = Administrator(Referee)
+
+Set access level number for each area for access
+
+ALNAVLIB = Navigation Library
+ALNAVFLEET = Sector Fleet Information
+ALNEWS = TAS News Service
+ALLIBDATA = Library Data
+ALACCNT = Account Services
+ALCLASS = Classifieds
+ALMERC = Classifieds - Missions / Mercenary tickets
+ALXBT = Xboat Communication Message Services
+ALSPECCOLL = Special Collections Library access-->
+<attributes version="3.0" era="1" year="1107" day="60" ALNAVLIB="2" ALNAVFLEET="4" ALNEWS="1" ALLIBDATA="3" ALACCNT="0" ALCLASS="1" ALMERC="4" ALXBT="1" ALSPECCOLL="4" />
+</xml>

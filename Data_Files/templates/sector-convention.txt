@@ -1,0 +1,136 @@
+         DATAFILE FORMAT
+                  The format of a sample datafile is shown below:
+
+----------------------------------------------------------------------------------
+@SUB-SECTOR:The Narrows SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2710 2511  0 1
+$2710 2908  0 0
+$2908 2806  0 0
+$2806 2906  0 0
+$2908 3208  0 0
+$3208 3508  1 0
+#
+# Borders or political boundaries
+^2503 1
+^2503 2
+^2503 3
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Ackaeck       2502 B586757-9  H Ag Ri              314 Vh K7 V
+Kidagir       2503 X242324-5    Lo Ni Po        R  522 Vh M8 V
+PLUNGE        2505 B2409CC-E  H Hi In Po De        824 Vh G7 V
+Jed           2506 C757863-6  C                    913 Vh M4 V G1 III
+Chosen        2603 C534544-8    Ni                 303 Vh M1 V
+
+----------------------------------------------------------------------------------
+
+          Each line is read from the file in turn.  The first charcter
+          of the file (the tag) determines what the data on that line
+          represents.
+
+          #    The line is a for any comments
+
+          @    The line names the SECTOR/SUB-SECTOR for the file.
+               Display this information across the top of the map,
+               after dropping the tag. No space after colon :
+
+          $    The line contains a segment in a trade or X-boat route.
+               The first 2 fields are the beginning and ending hex
+               locations.  The last 2 fields are offsets for the
+               the end location if it is outside the border of the
+               sector currently being displayed.  If this type of
+               segment is being entered, the segment end that is
+               INSIDE the subsector must always be listed first.
+               The offets indicate in which direction the destination
+               is off the map, but are not required to indicate how
+               far.  For the X coordinate, -1 is to the left and 1 is
+               to the right.  For the Y coordinate, -1 is up (this is
+               X Windows, remember?) and 1 is down.  Segments with
+               both ends outside the subsector cannot be used.  All
+               4 fields MUST appear in the columns shown.
+
+          ^    The line contains a segment of a political, military, or
+               cultural boundary.  The first field is the hex location
+               and the second field is the edge of the hex.  Hex edges
+               are numbered from 0 to 5, clockwise, starting with the
+               top edge.
+
+          Any line in the file starting with a character other than
+          those listed above is assumed to be an entry for a star system
+          within that subsector and must be in the format shown above.
+          Each star system entry contains (from left to right) name,
+          hex location, UPP code, Base code, system notes, TAS zone code,
+          pop. multiplier/asteroid belt/gas giant data, allegiance code,
+          and star types.  These field MUST appear in the columns shown.
+
+ 
+
+Political Boarders:
+  The next values are the 6 points of each hex, arranged in CoordModePrev. 
+  format.  The 1st value is filled in during each pass thru      0        
+  a double 'for' loop.  The points are ordered as follows:    5/   \1      
+                                                              4\___/2 
+                                                                 3      
+
+  The next values are the 6 points of each hex, arranged in CoordModeAbs.  
+  format (sort of).  Each point is an absolute value, relative to the      
+  0th [x,y] point in the array.  This is used for rendering static borders 
+  loaded from the data file, rather than entered interactively.  The point 
+  ordering is the same as that in the hex_pts array (above).               
+
+Each segment listed in the datefile has the following format (starting in column 0):                    
+
+                 ^nnnn m
+
+Following the carat (^), the nnnn value is the hex number and the m value 
+is the side of the hex.  Valid values for n are 0-5, with the top edge of 
+the hex as the 0 edge, and the other edges numbered clockwise.
+
+Zones:
+R = Red Zone
+A = Amber Zone
+
+Bases:
+
+ 
+- No Bases
+0 No Bases
+1 Trading Post
+2 Trading Post & Naval Base
+3 Trading Post & Scout Base 
+4 Reserved
+5 Reserved
+6 Reserved
+7 Reserved
+8 Reserved
+9 Reserved
+A Naval Base and Scout Base. 
+B Naval Base and Scout Way Station. 
+C Corsair Base. 
+D Naval Depot. 
+E Scout Base and Minor Naval Base. 
+F Scout Way Station and Minor Naval Base. 
+G Minor Naval Base and Corsair Base. 
+H Naval Base and Corsair Base. 
+J Planetary Base and Minor Naval Base. 
+K Naval Base and Planetary Base. 
+L Minor Naval Base. 
+M Naval Base and Minor Naval Base. 
+N Naval Base. 
+P Planetary Base. 
+Q Planetary Base and Corsair Base. 
+R Scout Base and Planetary Base, Aslan. 
+S Scout Base. 
+T Tlaukhu 
+U Reserved 
+V Reserved 
+W Scout Way Station. 
+X Scout Way Station and Planetary Base. 
+Y Reserved 
+Z Zhodane
+

@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!--Travellers' Aid Society Access Terminal
+     ACCOUNT.XML initialization file
+
+NOTE : Each record / account entry must follow the below order and format :
+MEMNUM = TAS Membership number 1 - 199
+NAME = user name[up to 15 characters]
+PW = password[up to 15 characters]
+UPP = UPP of the character[ex:777777]
+HW = Homeworld
+RA = Race
+CURRSEC = Current sector number
+CURRHEX = Current hex location
+CURRSUBSEC= Current subsector letter
+AL = access level[number]
+MARKERX = X coordinates for hex marker
+MARKERY = Y coordinates for hex marker
+HIDDENTASMEMBER = flag to hide account 0 = not hidden 1 = hidden
+-->
+
+<users>
+<membership MEMNUM = "1" NAME = "ADMIN" PASSWORD = "CTHULHU" UPP = "FFFFFJ" HOMEWORLD = "Regina" RACE = "Droyne" CURRSEC = "-2" CURRHEX = "0" CURRSUBSEC="" AL = "10" MARKERX = "0"  MARKERY = "0" HIDDENTASMEMBER = "0" />
+<membership MEMNUM = "2" NAME = "JOHN SMITH" PASSWORD = "BONK" UPP = "777777" HOMEWORLD = " " RACE = " " CURRSEC = "-2" CURRHEX = "0" CURRSUBSEC="" AL = "3" MARKERX = "0"  MARKERY = "0" HIDDENTASMEMBER = "0" />
+<membership MEMNUM = "3" NAME = "BILL" PASSWORD = "WOW" UPP = "7A7B7B" HOMEWORLD = "Regina" RACE = "Aslan" CURRSEC = "59" CURRHEX = "2007" CURRSUBSEC="" AL = "4" MARKERX = "189"  MARKERY = "341" HIDDENTASMEMBER = "0" />
+<membership MEMNUM = "4" NAME = "BILLY" PASSWORD = "NOG" UPP = "7A7B7B" HOMEWORLD = "Regina" RACE = "Droyne" CURRSEC = "-2" CURRHEX = "0" CURRSUBSEC="" AL = "1" MARKERX = "0"  MARKERY = "0" HIDDENTASMEMBER = "0" />
+</users>
+</xml>
