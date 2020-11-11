@@ -1,0 +1,6 @@
+RCES MIL TRAFFIC, CLASS: PUBINFO, DISTRIBUTION: UNLTD, AUTHORITY LCDR LUCAS RCES HQ AUBAINE (0738/AUBAINE, A78A884-C), 108-1201
+RCES has modified its deployment policy so that its Aurora-class clippers and their associated Manta-class fueler will no longer be considered indivisible tactical units. Each clipper constructed has been delivered with a Manta fuel which, until now, her deployed, trained, and operated exclusively with the clipper it was delivered with.
+
+Under the new policy, Mantas will be assigned to clippers on an as-available basis, to simplify maintenance, repair and deployment scheduling. This policy has come n response to the difficulty in getting Cull CTAILNO 20062F) repaired in time to deploy witl mothership Eos (TAILNO 10062).
+
+Rather than delaying the departure of Eos on her coming cruise, it was decided to give her Eagle (TAILNO 20071 F) which had just returned with Aube (TAILNO 10071). New built Manta-class fuelers will be assigned tail numbers the main series, rather than in a subsidiary series, and existing Mantas will be redesignated as opportunity allows.
