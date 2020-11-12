@@ -1,0 +1,51 @@
+@SUB-SECTOR:Zarontse SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Chiel         0911 C7B0757-8  X De          S2     803 Zh M3 V M8 D
+Zhdadlvipr    0912 E561000-6    Ba Lo Ni           420 Zh K4 V
+Aatiant       0914 C9C378A-9    Fl                 120 Zh M2 V
+Divriafliadr  0915 E250836-4    De Po              214 Zh F1 V
+Dlor          0917 C998320-9  X Lo Ni       SA     803 Zh M6 V M2 D
+Tlinztifr     0919 D763675-1    Ni Ri              904 Zh M5 V
+Rnzhia        1012 C424489-A  Z Ni                 423 Zh M3 II
+Vaabiets      1013 C6A2787-8    Fl              A  620 Zh M1 V
+Ishteqr       1014 AAB6A83-B  Z Fl Hi              410 Zh M9 V
+Dofrdiz       1015 D87A200-5  Z Lo Ni Wa           800 Zh G8 V
+Antsezh       1017 X5529CC-0    Hi Po       SF  R  704 Zh M3 V M1 D
+Zhdenmianch   1018 E74A463-9    Ni Wa              100 Zh K2 D
+Ivie          1019 B586887-6    Ri                 614 Zh F5 III
+Afrjiaach     1113 B463330-C  Z Lo Ni              804 Zh M4 V
+Okrstaze      1114 B250358-C    De Lo Ni Po        922 Zh F9 V
+Jianchie      1211 B200001-9    Lo Ni Va    S2     814 Zh F8 V M5 V
+Bri Danef     1212 C698457-9  Z Ni          S9     124 Zh F0 V M8 D
+Dianjat       1213 B625121-9    Lo Ni              224 Zh A6 V
+Aazhia        1215 B57398A-A    Hi In              914 Zh F4 V
+Tli'i'        1217 EAB6467-8    Fl Ni           A  913 Zh M4 V
+Jdiakiel      1218 D562456-7    Ni                 202 Zh M8 V
+Izdants Ovia  1219 B7B1310-8    Fl Lo Ni           534 Zh M8 II
+Ifrkaz        1311 C535200-6    Lo Ni       S7     513 Zh M4 V M3 V
+Zhdieldlanz   1312 X75A855-5    Wa              R  724 Zh M9 V
+Irdyarut      1314 B46477C-A  Z Ag Ri           A  304 Dr M4 D
+Saliavl       1317 C322367-A  Z Lo Ni Po           401 Zh M9 III
+Pleshpel      1318 A246633-8  Z Ag Ni       S9     700 Zh G0 V M9 D
+Vrer          1319 C255410-7  Z Ni          S2F A  802 Zh F5 D M1 D M9 D
+Viechedanshia 1320 A889633-D    Lo Ni              710 Zh K7 V
+Ka'           1411 C524411-7    Ni          S2     321 Zh K3 V M9 D
+Vieler        1413 C767300-6    Lo Ni       SA     913 Zh M7 V M0 D
+Oqentake      1417 C8B1633-9  Z Fl Ni              103 Zh M6 V
+Chibrsiaf     1419 X7B3000-0    Ba Fl Lo Ni S6  R  630 Zh K4 V M2 D
+Neshash       1420 B637731-A                S7     602 Zh K1 D M1 D
+Yavzdi        1513 B352104-B  X Lo Ni Po           412 Zh M6 V
+Zarontse      1516 AAF5338-E  Z Fl Lo Ni Cp        101 Zh A0 V
+Kralvra       1519 B140135-B  Z De Lo Ni Po        904 Zh K4 V
+Pienopl       1613 C779978-9                S1     414 Zh G1 V M4 D
+Avshtich E'   1615 D400588-7    Ni Va       S8  A  800 Zh M7 V M8 D
+Tlie'vietl    1616 C897125-7  Z Lo Ni              504 Zh F3 V
+Zderav        1618 D7A2000-0    Ba Fl Lo Ni S9     303 Zh M2 V M8 D
+Eflia'chal    1619 B56689D-9    Ri                 700 Zh K4 V

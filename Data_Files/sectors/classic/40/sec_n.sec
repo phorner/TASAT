@@ -1,0 +1,56 @@
+@SUB-SECTOR:Dintzhdevrieziz SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0934 0831 -1 0 13
+$0934 1136 0 0 13
+$1038 0738 -1 0 13
+$1136 1137 0 0 13
+$1137 1038 0 0 13
+$1137 1336 0 0 13
+$1238 1336 0 0 13
+$1238 1240 0 0 13
+$1240 1102 0 1 13
+$1336 1435 0 0 13
+$1435 1535 0 0 13
+$1535 1634 0 0 13
+$1634 1834 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tlieshdlie    0931 E436587-6    Ni                 202 Zh M7 V               
+I'chieyidrble 0934 D875223-6  Z Lo Ni              400 Zh M4 V               
+Vienzheezh    0936 E373576-5    Ag Ni              522 Zh F4 V               
+Zditschiiadl  0937 X552300-0    Lo Ni Po        R  605 Zh F1 V M0 D M5 D       
+Prela         1035 C689000-0    Ba Lo Ni           004 Zh F8 V               
+Tlechkrisha   1038 B000310-B  Z As Lo Ni           800 Zh M6 V               
+Enzhlavltliep 1039 C8C9AB9-A    Fl Hi In           803 Zh F3 V               
+Chiaqlneqr    1040 C688200-8    Lo Ni              404 Zh K9 V               
+Chtintse      1133 X455655-0    Ag Ni           R  601 Zh F3 V               
+Diazhtia      1136 B43078B-7  Z De Na Po           600 Zh M8 V               
+Ianziam       1137 D57599C-8  Z Hi In              711 Zh F5 V M3 D           
+Siavrdrrat    1231 C232320-8    Lo Ni Po           203 Zh F4 V               
+Ache          1232 E210233-9    Lo Ni              107 Zh M3 V M1 II          
+Chtochtiadl   1233 B526410-B    Ni                 201 Zh M5 III M1 D         
+Paqltsianzefl 1235 C100366-7    Lo Ni Va           502 Zh M2 V               
+Irapratlpiat  1236 B441555-D    Ni Po              124 Zh K8 V               
+Vlenshfiekadr 1237 E36798A-5    Hi In              920 Zh F0 V               
+Oplkiqlianzh  1238 D230567-8  Z De Ni Po           805 Zh F9 III M4 V         
+Friaprche     1240 B9D2112-7  Z Fl Lo Ni           713 Zh F3 V M2 D           
+Natle         1331 C200443-7    Ni Va              744 Zh K0 III M8 V         
+Zdoqrche      1332 C75849D-7    Ni                 725 Zh K7 V M4 D           
+Kleashfla     1333 C88A855-7    Ri Wa              600 Zh M4 V               
+Chtedlchedl   1335 C343422-8    Ni Po              214 Zh F3 V               
+Anchishriatl  1336 B4039EB-B  Z Hi Ic Na Va        214 Zh F4 D M1 D           
+Enzstits      1432 E578200-8    Lo Ni              104 Zh F9 V M5 D           
+Badrredlons   1435 B250413-B  Z De Ni Po           416 Zh F9 V M6 D           
+Bra'tlidl     1438 C300420-8    Ni Va              822 Zh K7 V               
+Zibrboplaol   1440 B34768C-6    Ag Ni              604 Zh F5 V               
+Bafanzabr     1531 B2129DC-9    Hi Ic Na           600 Zh G3 V M0 D           
+Eljiechfadr   1535 C324430-9  Z Ni                 303 Zh M7 V M0 D           
+Tlitzdiser    1536 D758000-0    Ba Lo Ni           000 Zh F3 V               
+Vrialinzpie   1538 C435433-B    Ni                 601 Zh M8 V M2 V M0 D       
+Chteqriaiakl  1631 C678736-5    Ag                 705 Zh F2 V M6 D           
+Eflcha        1634 B746200-C  Z Lo Ni              101 Zh F6 V               
+Rtetlvla      1635 C769352-A    Lo Ni              115 Zh F3 V M0 D           
+Daknatstiant  1636 D777788-5    Ag                 701 Zh F1 V

@@ -1,0 +1,44 @@
+@SUB-SECTOR:Viaplash SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Estetchtiar   0101 E672373-5    Lo Ni              402 Zh F7 V
+Zhdakl        0105 E74577C-5    Ag                 812 Zh M9 V
+Iakladr       0107 C544620-6    Ag Ni S9           803 Zh K9 V M7 D
+Qrariekl      0109 D695641-5  Z Ag Ni              313 Zh M5 V
+Stenshiniej   0204 B696200-7  Z Lo Ni       S6     701 Zh M4 D M1 D
+Dopriaq       0209 D544333-7    Lo Ni              104 Zh G4 D
+Itskien       0210 B57189B-A                S2     201 Zh M6 V M2 D
+Fiazhotl      0302 B79949A-A    Ni          S3     603 Zh F3 III M6 V
+Te Enssach    0303 C433237-6    Lo Ni Po           104 Zh M7 V
+Drievl        0304 D342425-7    Ni Po       S5     124 Zh F2 V M8 D
+Blielchanj    0305 E8A3430-8    Fl Ni              200 Zh M3 III
+Onchpriatl    0306 C674755-9  Z Ag                 203 Zh F4 V
+Tliedevrfans  0307 E425334-7    Lo Ni              502 Zh M1 V
+Nibriet Jdav  0308 C000567-8    As Ni              503 Zh M0 V
+A'e Krrnzha   0401 B524756-9  Z             S0     802 Zh M3 V M9 V
+Tlave         0402 C857213-9  Z Lo Ni       SB     513 Zh K1 V M7 D
+Stefiavolzh   0403 A896624-8  Z Ag Ni              123 Zh G3 V
+Zdav A'       0405 B252300-B    Lo Ni Po    S7     204 Zh M2 V M5 D
+Elprianch     0406 A554AEC-B  Z Hi                 520 Zh F3 V
+Kiablibrazh   0407 D610455-9    Ni                 310 Zh M5 V
+Ziebr         0410 C494525-A  X Ag Ni       S3     803 Zh M3 V M7 D
+Bezoprstavria 0501 D4019AA-A    Hi Ic Na Va S0     805 Zh G8 V M6 D
+Ebria         0504 B999538-A    Ni                 611 Zh F7 D
+Ajtloq        0507 BAF6621-6  Z Fl Ni              511 Zh K1 V
+Drianj Da     0509 A464778-8  Z Ag Ri       S0     104 Zh F7 V M0 D
+Ia'tsanch     0604 C65757A-5    Ag Ni              703 Zh M5 V
+Anzhiat       0605 E273446-7    Ni          SB     503 Zh F3 V M2 D
+Platdrial     0609 D546268-5    Lo Ni              903 Zh G2 V
+Zianttlons    0610 D449722-5                       313 Zh M6 V
+Abrni         0701 B79468A-8    Ag Ni              700 Zh M4 V
+Viaplash      0702 A7636A9-B    Ni Cp              803 Zh K3 V
+Ashja'        0704 B526045-9    Lo Ni              820 Zh M1 V
+E'tevrtsienzh 0705 C75A5AA-A  Z Ni Wa       S9     620 Zh M2 II M1 V
+Iablia        0805 C44559E-6    Ag Ni              104 Zh F7 V
+Tapiat        0810 C221555-A    Ni Po           A  404 Zh F3 V

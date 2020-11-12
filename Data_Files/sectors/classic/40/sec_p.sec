@@ -1,0 +1,59 @@
+@SUB-SECTOR:Zdiadlevepra SECTOR: Usingou
+#
+# Trade routes within the subsector
+$2535 2636 0 0 13
+$2535 2933 0 0 13
+$2636 2938 0 0 13
+$2636 2237 -1 0 13
+$2933 3233 0 0 13
+$2938 3037 0 0 13
+$2938 3039 0 0 13
+$3037 3138 0 0 13
+$3136 3037 0 0 13
+$3039 3240 0 0 13
+$3233 0232 1 0 13
+$3240 3204 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tlavl Ia      2532 A79589D-9                       204 Zh M3 V M4 D
+Drants        2533 E210311-8    Lo Ni              205 Zh F1 III
+Lavarblietl   2535 B426410-9  X Ni                 402 Zh K3 V
+Briprtliesav  2536 C795100-6    Lo Ni              401 Zh F0 V
+Zhdietsevre   2537 D9B2620-8    Fl Ni              404 Zh M6 V
+Ongaeghz      2631 E749563-6  C Ni                 504 Va A9 IV M7 D
+Plintspiedl   2633 CAC4759-9    Fl                 705 Zh M6 V M5 D
+Krpriachtie   2636 C585654-4  Z Ag Ni Ri           205 Zh M3 V
+Qatliee'      2638 B889211-9    Lo Ni              814 Zh F6 IV
+Vashtebl      2734 C495658-A    Ag Ni              122 Zh K4 V M1 D
+Zhdeeql       2735 B99869D-A    Ag Ni              314 Zh F0 IV
+Fiaerrinzh    2736 C536234-6    Lo Ni              702 Zh M6 V
+Lanse Sho'    2740 BA7A335-B    Lo Ni Wa           604 Zh M1 V
+Adedrtlal     2833 A656797-9    Ag                 804 Zh K0 V
+Koavrtivr     2836 B8859BE-C    Hi                 213 Zh M6 V
+Shok Ons      2838 X8C4761-9    Fl              R  102 Zh F7 V
+Anzchiefr     2839 E596778-6    Ag                 732 Zh F4 V
+Ogz           2931 B411574-8  H Ic Ni Z0           224 Va F3 V
+Sarrsarz      2932 D336874-6                       112 Va G1 IV M3 V
+Idliaosh      2933 B000303-A  Z As Lo Ni           614 Zh M6 V
+Zhdoiesh      2934 A200532-E    Ni Va              702 Zh K8 V
+Adltsap       2936 B526986-D    Hi In              220 Zh M3 II
+Tliabr Ons    2937 B79A443-8    Ni Wa              805 Zh M5 V
+Ants          2938 B0009BD-C  Z As Hi In Na        313 Zh M5 V
+Jablnishoz    2939 B595AAC-C    Hi In              910 Zh M9 V
+Bartsel       3033 E549554-9    Ni                 522 Zh K7 V M9 D
+Jdianzhili    3035 D655345-7    Lo Ni              424 Zh M2 V M3 D
+Anshdem       3037 B768465-B  Z Ni                 400 Zh K7 V
+Daflanzhr     3039 C340212-9  Z De Lo Ni Po        202 Zh M8 V M9 D
+Stansinz      3040 D666034-6    Lo Ni              604 Zh M4 V
+Zdi'chaf      3135 C000441-C    As Ni              405 Zh A6 V
+Dalkr         3136 DAA6114-8  Z Fl Lo Ni           304 Zh K4 V M2 D
+Iadriefria    3138 C342420-6  Z Ni Po              700 Zh M0 V
+Krianstabr    3140 D726634-7    Ni                 602 Zh M2 V M0 V
+Kfaethugh     3231 E584645-5    Ag Ni Ri           310 Va M1 V
+Qranchava     3232 D896336-7    Lo Ni              810 Zh M4 V M5 D
+Eberish       3233 D78579A-5  Z Ag Ri           A  622 Zh K3 V
+Shombrie'prak 3235 B473025-B    Lo Ni              910 Zh M8 V M9 D
+Yiranz        3237 E300578-7    Ni Va              703 Zh M7 V G7 D
+Iepriats      3240 D886698-1  X Ag Ni Ri           303 Zh G5 V

@@ -1,0 +1,27 @@
+@SUB-SECTOR: Tekli SECTOR: Usingou
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uu            2512 B210000-0    Ba Lo Ni           012 Vp M3 II              
+Gnagvouregar  2612 B575647-9  G Ag Ni              634 Vp F5 V F9 V           
+Aea           2614 C6A249A-7  G Fl Ni              500 Vp M5 V               
+Ighkfaedh     2616 A000454-D  G As Ni              500 Vp M6 III             
+Kfondhoenkog  2711 C454346-7  H Lo Ni              215 Vp F4 V G4 D           
+Zoekoksilloen 2713 B438430-A    Ni                 710 Vp F2 V               
+Aeaeg         2718 A99A567-B    Ni Wa              523 Vp F2 V               
+Gaeksakhugh   2816 B858776-A    Ag                 614 Vp F9 V M0 D           
+Koghagtog     2818 BAB7975-A    Fl Hi In           413 Vp K2 V               
+Dhorrghrer    2819 E98A223-7    Lo Ni Wa           510 Vp F7 V               
+Kfaekhan      2915 D000875-6    As Na              214 Vp F8 D               
+Ksoenokhllun  2916 B557872-9                       703 Vp F8 V M4 D           
+Khakenaegh    3113 C53A789-6  H Wa                 506 Vp M7 V M6 D           
+Dhoififous    3114 D323698-8    Na Ni Po           103 Vp F9 II M7 V          
+Agzou         3115 E799640-4    Ni                 803 Vp F6 V M2 D           
+Aekfethoug    3116 C438320-8  G Lo Ni              404 Vp M8 V               
+Ruegtaelekh   3120 C591775-4                       424 Vp F1 V               
+Thiae         3212 D889774-2                       322 Vp F2 V M1 D           
+Dziradz       3217 C44456B-6    Ag Ni              302 Vp M0 V               
+Fakhuetsaeth  3220 B9B5100-9  G Fl Lo Ni           204 Vp M5 V

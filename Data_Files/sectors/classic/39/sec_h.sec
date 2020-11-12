@@ -1,0 +1,41 @@
+@SUB-SECTOR:Plialr SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tlia'         2511 D237655-6    Ni          S3     124 Zh M5 V M3 V
+Dria'azienta  2514 A202767-E    Ic Na              403 Zh M3 V
+Vranjeshiq    2515 A366558-C  Z Ag Ni              905 Zh M2 III
+Shtofia       2612 D877554-5    Ag Ni              923 Zh F0 V
+Eshnenz       2614 B303143-9    Ic Lo Ni    SB     300 Zh M2 V M8 D
+Efench A'     2615 B692110-B  Z Lo Ni              814 Zh K4 D
+Chti'astepl   2616 C350201-A  Z De Lo Ni Po        600 Zh M2 V
+Jeklzhdat     2618 B100332-C  Z Lo Ni              404 Zh M1 V
+Fiadria E'    2711 A330856-E    De Na Po    SB     801 Zh M3 V M3 D
+Qrie          2712 A666665-C  Y Ag Ni Ri           224 Zh F7 D
+Strvlia       2714 E677875-5                       504 Zh G2 V
+Osebr         2715 C322ACB-9    Hi In Na Po S7     700 Zh M2 V M4 V
+Tlianshan     2812 C649258-7    Lo Ni              800 Zh M9 V
+Plialr        2813 A5259BF-D  Z Hi In Cp    S0     400 Zh G2 V M6 D
+Ileche        2815 B7847AA-5  Z Ag          S1     313 Zh M9 V M1 D
+Shiabria      2818 C999244-A    Lo Ni              312 Zh K9 V
+Senso Ja      2819 B614203-9  Z Ic Lo Ni           300 Zh K1 V
+Chadrnifr     2912 C5558A6-3  Z                    424 Zh M4 V
+Zde Tiati     2920 B4138CD-C  Z Ic Na              724 Zh M4 V
+Pefrtlanch    3013 C75A831-7    Wa                 603 Zh G8 V
+Toch Azazhde  3018 D120412-9  Z De Ni Po           700 Zh M5 V
+Ibipjabresh   3019 D9D6310-8    Fl Lo Ni           823 Zh M5 V
+Stoqiash      3020 E100577-7    Ni          S6     103 Zh M4 V K7 D
+Tlinzhiat     3111 E343544-5    Ni Po       S3     424 Zh M8 V M0 D
+Fia'ie'       3112 A3106B9-D    Na Ni              504 Zh M8 V
+Izieazh       3113 B130656-B    De Na Ni Po        615 Zh K4 V
+Ientseshtil   3115 C87A8AA-6    Wa          S6     302 Zh M0 V M8 D
+Zdavrseprpia  3116 B541655-B  X Ni Po       S1     614 Zh G1 V M3 D
+Eranchabr     3117 E337342-7    Lo Ni              120 Zh G0 II
+Votaanch      3212 B515799-A  X Ic          S9     214 Zh M5 V M3 D
+Draia         3214 B000576-9    As Ni              704 Zh M4 V
+Deshvlo'o     3217 C775579-5    Ag Ni              900 Zh M2 D

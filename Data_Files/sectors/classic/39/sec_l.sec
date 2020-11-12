@@ -1,0 +1,49 @@
+@SUB-SECTOR:Etsial SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Avriets       2522 C769586-9    Ni                 603 Zh K7 V
+Dlibrinzia    2523 D24247A-8  Z Ni Po              712 Zh M6 V
+Lielbre'      2524 E558553-7    Ag Ni       SA     502 Zh M0 V M6 D
+Shtaefia      2526 A360ACG-D    De Hi       S3     504 Zh K4 IV M1 D
+Liadr         2527 X567510-0    Ag Ni       S6  R  701 Zh M2 V M7 D
+Adreflfient   2529 B545746-A    Ag                 324 Zh F8 V
+Vrrnsh        2530 C00055A-D  Z As Ni              501 Zh M7 V
+Ja'tlievr     2622 A9B6463-E    Fl Ni              420 Zh G7 D
+Iadrdad       2623 B353400-D    Ni Po              802 Zh M4 V
+Chezshietlant 2624 B590036-6    De Lo Ni    S8F    102 Zh M2 V M7 V
+Chtam         2626 A7448BE-B  X                    204 Zh K2 V
+Edostak       2627 E241677-5    Ni Po              403 Zh K8 D
+Iprienjieril  2628 C210402-7    Ni                 425 Zh K0 III
+Adial Az      2629 C696653-9    Ag Ni       S2     704 Zh M7 III M9 D
+Eiler'zhde    2630 C65A330-A    Lo Ni Wa    SA     911 Zh M4 V M3 D
+Ietljiak      2721 A120433-B  Y De Ni Po    S0     902 Zh M8 V M0 D
+Pliastebr     2722 E594556-5    Ag Ni           A  114 Zh G0 V
+Jesinse       2727 C7A6455-8    Fl Ni       SB  A  814 Zh G1 III M3 V
+Piatsjdotl    2729 B31097A-D  Z Hi Na       S0     114 Zh A1 V K8 D
+Qia'jdo       2821 C68A314-B  Z Lo Ni Wa    SA  A  403 Zh K6 V M2 V
+Vra'atlint    2823 B87A677-9  Z Ni Wa       S2     423 Zh M8 V M6 D
+Viedriez      2824 A889659-B    Ni Ri Cp           902 Zh M0 V
+Diachtapl     2827 E562988-3    Hi                 604 Zh M7 V
+Bro'pieqr     2922 C684130-4    Lo Ni       S6     803 Zh M1 V M2 D
+Jdinchedrfre  2927 D6A0000-0    Ba De Lo Ni        202 Zh G5 D
+Delfienzh     2930 D247510-7  Z Ag Ni              200 Zh K6 V
+Evdia         3022 B330523-8    De Ni Po           314 Zh A6 V
+Natsansh      3023 C666769-6    Ag Ri              223 Zh M0 V
+Ste'tlia      3024 A410643-E  Z Na Ni              500 Zh M5 III
+Te Ninzh      3025 D8B2756-8    Fl          SA     712 Zh M3 V M4 V
+Mavieer       3026 B4118A9-8    Ic Na              524 Zh K9 V
+Dlodadlia     3028 B627851-7  Z                    900 Zh M0 D
+Idliav        3029 A8A4AC9-E    Fl Hi              201 Zh G9 IV
+Fojlebranzh   3121 C10057B-8  Z Ni Va       S9     704 Zh M7 V M5 D
+Aqrjia        3123 C247557-8  Z Ag Ni              901 Zh M3 V
+Zdebrans      3127 B6725A9-A  Z Ni                 303 Zh M7 II
+Yieklaedr     3129 X500AAF-7    Hi Na Va        R  203 Zh M5 V
+Roch          3224 D363476-8    Ni          S7     903 Zh K0 V M3 D
+Jenadr        3226 D361794-4    Ri                 705 Zh K1 V
+Ipryiaeavr    3227 D000577-7    As Ni              704 Zh F4 V

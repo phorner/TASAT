@@ -1,0 +1,42 @@
+@SUB-SECTOR:Bazi  SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Jdefa         2505 E857443-7    Ni          S8     403 Zh M3 V M0 D
+Kieshi A'     2506 B685977-B  X Hi                 823 Zh M5 V
+Zdrdlia       2508 C99A595-A  Z Ni Wa       S5     902 Zh M3 V K1 D
+Arklif        2509 E130363-8    De Lo Ni Po        502 Zh K3 IV
+Zdodrtlepr    2606 B343201-8    Lo Ni Po    S6     424 Zh A7 D K4 D
+Ietleya       2607 E437562-6    Ni          S1     303 Zh K3 V M4 D
+Manshiapl     2608 C4109AD-9  Z Hi Na       S7     310 Zh M1 V M9 D
+Vlatl         2610 C458599-8  Z Ag Ni              904 Zh K7 V
+Ofribrcho'azh 2701 A66A667-9    Ni Ri Wa           404 Zh M3 V
+Stiazbre      2703 D245723-5    Ag          SF     803 Zh G4 IV M9 D
+Vli           2704 C230100-9    De Lo Ni Po        813 Zh K8 V
+Tanzhit       2705 C628530-A  Z Ni                 323 Zh F5 V
+Aqsha         2706 C5669BC-9    Hi          SD     401 Zh F9 V M7 D
+Beviadl       2708 A565754-8  Z Ag Ri       S6     813 Zh M4 V M6 D
+Zhdenshdlia   2709 A8A28AB-9    Fl          S1     402 Zh F7 D M6 D
+Iashbradr     2710 A68A000-9    Ba Lo Ni Wa        702 Zh F8 V
+Tlelodldia'se 2803 E5435AF-7    Ni Po       SA     612 Zh M7 V M8 D
+Jia'stikr     2902 B563550-A    Ni                 514 Zh F0 V
+Yiedravr      2904 A120120-C  X De Lo Ni Po        534 Zh K8 V
+Plentapla     2907 E79A003-6    Lo Ni Wa           902 Zh K6 V
+Vlepiat       2908 C220510-8  Z De Ni Po    S8     714 Zh M6 V M2 D
+Tinzhiaz      3006 C596889-6                S9     201 Zh F0 V M0 D
+Zdiatiadl     3007 A302AAD-E  Z Hi Ic Na Va Cp     304 Zh M8 V
+Ninshiaiach   3008 A303554-D  Z Ic Ni Va           203 Zh M0 V
+Mie'a         3010 B858688-8  Z Ag Ni       S3     903 Zh G3 IV M5 V
+Inshkoa       3101 D100301-9  Z Lo Ni              503 Zh M4 V
+Atliakritl    3102 E996535-7    Ag Ni              804 Zh F8 V
+Dezhr'        3104 E88A584-6    Ni Wa       S3     200 Zh F0 V M7 D
+Tsialebr      3110 A695634-8    Ag Ni       S9     304 Zh K8 V M2 D
+Te Evrmach    3205 E85A732-6  X Wa          S1     103 Zh M9 V M3 D
+Dozhbresh     3206 D7A0000-0    Ba De Lo Ni        204 Zh M3 III
+Brakr         3207 B7B6222-B    Fl Lo Ni    S7     204 Zh M1 V M3 D
+Nomapr A'     3209 D8C6458-9  Z Fl Ni              402 Zh M9 III

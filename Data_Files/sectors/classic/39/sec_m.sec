@@ -1,0 +1,45 @@
+@SUB-SECTOR:Pinsia SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Avredle       0132 A733AAA-E    Hi In Na Po S0     103 Zh F6 V M3 D
+Siechtant     0136 X698000-0    Ba Lo Ni        R  903 Zh M5 V
+E'sinz        0137 A641A6A-E    Hi In Po           813 Zh M3 V
+Anienj        0232 A55A443-D  X Ni Wa Cp    SF     904 Zh M5 V M8 D
+Idripdeia     0234 C200786-7    Na                 500 Zh M5 V
+Tiadle        0236 A66A730-E    Ni Wa              923 Zh F6 III
+Yriach        0240 D564683-4  X Ag Ni Ri           901 Zh F8 V
+Pansael       0331 X447000-0    Ba Lo Ni    S0  R  613 Zh M7 V M6 D
+Zhianchabia   0333 C8A2446-9    Fl Ni              400 Zh M1 V
+Rashent       0334 A7B4349-E    Fl Lo Ni    S2     600 Zh G4 V M9 D
+Qiachna       0336 C8A2489-8  Z Fl Ni       SD     814 Zh M1 V M3 V
+Jdiazhpraa    0337 D676599-5    Ag Ni              902 Zh M2 V
+Flitlazh      0339 A6A1ADD-E    Fl Hi       S8     502 Zh F3 D M2 D
+Te Zdekrin    0431 B410657-E    Ni          SB     600 Zh M7 D M3 D
+Zdents        0432 B558487-6    Ni                 403 Zh M0 V
+Brienanrzh    0433 B53337A-A    Lo Ni Po    SB     102 Zh G1 V M1 D
+Zhdariansh    0434 B2328B7-C    Na Po       S9     104 Zh M7 V M5 V
+Ieninsha      0438 A1408AB-E  Z De Po       S9     612 Zh M3 V M6 D
+Eizrash       0439 C674520-5    Ag Ni              623 Zh G4 V
+Iediliel      0532 B540301-6    De Lo Ni Po S2     715 Zh M1 V M6 D
+Ratlya        0534 B334331-8    Lo Ni              605 Zh A3 V
+Ziashanz      0535 C3857A6-8    Ag          S9     400 Zh F9 V M7 V
+Chtishtacha   0632 C8C0534-9    De Ni              212 Zh A9 V
+Zdonzh A'     0633 D697004-5  Z Lo Ni              612 Zh M6 V
+Efrye         0634 B561534-7  Z Ni                 714 Zh M7 V
+Adljiamianzh  0635 B554333-B    Lo Ni       S3     401 Zh M4 V M7 V
+Pinsia        0636 A341779-C  X Po                 923 Zh F4 V
+Nejebl        0637 C30086A-A    Na Va              604 Zh K9 V
+Jodmesh       0638 B439432-B  Z Ni                 405 Zh K1 IV
+Aivr          0733 C6658DE-4                       603 Zh M8 D
+Zhdiashatlibl 0735 C22768C-7    Ni          S1     814 Zh G7 III M4 D
+Bronshiansh   0737 D774200-5    Lo Ni              523 Zh M1 D
+Brintsa       0831 B87A258-E    Lo Ni Wa    S19    100 Zh F2 D M1 D M1 D
+Anzhapema     0832 B200220-9    Lo Ni              505 Zh M4 V
+Ditlients     0834 A6269ED-E    Hi In              112 Zh G6 V
+Vliatla       0837 A664645-B  Z Ag Ni Ri           624 Zh M0 V

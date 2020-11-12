@@ -1,0 +1,42 @@
+@SUB-SECTOR:Ordiapr  SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Qatl          0921 A465310-C  Z Lo Ni       SC     303 Zh M5 V M4 D
+Yanzhtlaz     0929 D8B4000-0    Ba Fl Lo Ni        324 Zh M6 V
+Panzhia       1022 C5A1622-8    Fl Ni              920 Zh M1 II
+Blachtefl     1023 D7B49B8-9    Fl Hi       S8     400 Zh K5 V M7 D
+Qraql         1025 CA9A340-A  Z Lo Ni Wa           104 Zh G0 IV
+Driatsazh     1026 D625544-7    Ni              A  112 Zh M5 V
+Oabr          1028 A300565-C    Ni Va              303 Zh M0 V
+Chte'ste      1029 C89AAAC-D    Hi Wa       S0     615 Zh M8 V M0 D
+Aradiadash    1030 A400855-E  Z Na Cp       S3     404 Zh K0 V M8 D
+Krne          1124 D5726AF-6    Ni          SC     203 Zh K5 V M0 D
+Tsevrshtabre  1125 B58396A-A  Z Hi                 713 Zh G1 V
+Tansh         1126 C410233-A    Lo Ni       S3     903 Zh G5 V M4 D
+Davra Da      1129 A524676-8  Z Ni          S2     921 Zh M7 V M8 D
+Ordliapr      1221 A79A742-9  X Wa                 120 Zh M8 V
+Ienzchtianzh  1222 C9B6AC8-8    Fl Hi       S29    302 Zh F9 V M9 D M5 D
+Iashie        1225 A747020-7    Lo Ni       S3     510 Zh M5 V M2 D
+Omins         1227 B350577-A  X De Ni Po    S5F    834 Zh M4 D M6 D M1 D
+Iebliar       1230 C74958B-A    Ni                 300 Zh K1 V
+Tlonsh        1322 E655564-2    Ag Ni       S3     104 Zh M8 V M8 D
+Yaql          1323 E74A310-9    Lo Ni Wa    SC     202 Zh M1 V M0 D
+Chobnia       1327 B58147A-7    Ni                 713 Zh M7 V
+Biradakr      1330 E56689A-4    Ri                 210 Zh G6 V
+Fibronzhklifr 1421 C595342-7  Z Lo Ni              213 Zh M4 V
+Odlanj        1424 A335355-E    Lo Ni       S6     902 Zh M8 V M2 D
+Rie'chovr     1521 C000777-8    As Na              503 Zh F6 V
+Flianj        1522 D656873-3                       704 Zh G9 V
+Dliavrrid     1524 C666222-4  Z Lo Ni              602 Zh M1 V
+Jdinik        1528 B65579B-9  Z Ag          S0     600 Zh M7 D G4 D
+Zhdashinobr   1529 E272100-5    Lo Ni              212 Zh G7 V
+Tsiavans      1621 B492330-C    Lo Ni              404 Zh F0 V
+Zeltsiants    1626 C446130-A    Lo Ni       S8     503 Zh M2 D M0 D
+Jivafie       1627 A789357-C    Lo Ni       S7     703 Zh M6 V M5 D
+Tsezdietl     1630 C572534-6    Ni                 300 Zh M6 V

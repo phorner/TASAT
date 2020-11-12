@@ -1,0 +1,15 @@
+40 - Usingou Sector - Credits
+------------------------
+
+The Usingou Sector data was created by John G. Wood,
+except for subsectors O and P which were created by
+James Kundert.
+
+Star positions were taken (as closely as possible) from
+the dot map in Vilani & Vargr, as were allegiances;
+subsector names come from James Kundert.
+
+# data mostly by John Wood (John@elvw.demon.co.uk); see his website at
+# http://www.elvw.demon.co.uk/Traveller/
+# subsectors O and P by James Kundert
+# removed Vazia and Tanjchiadda, which are duplicate worlds

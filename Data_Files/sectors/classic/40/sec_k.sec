@@ -1,0 +1,39 @@
+@SUB-SECTOR: Tliaqlvie SECTOR: Usingou
+#
+# Trade routes within the subsector
+$1726 1526 -1 0 13
+$1726 1825 0 0 13
+$1825 1927 0 0 13
+$1829 1430 -1 0 13
+$1829 2028 0 0 13
+$1927 2028 0 0 13
+$2028 2331 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Divrre        1726 B310533-B  Z Ni                 301 Zh M6 V               
+Kaplbriabr    1727 B300873-8    Na Va              800 Zh F3 V               
+Pleplidlat    1824 B68697A-A    Hi In              902 Zh F7 V               
+Jdovrievrbril 1825 C774353-6  Z Lo Ni              813 Zh F3 V               
+Tseqjdevlnebl 1826 C528300-A    Lo Ni              911 Zh M0 V M3 D           
+Stazdovare    1827 C572746-6                       610 Zh F2 V M5 D           
+Srzdazh       1828 C6749CC-5    Hi In              303 Zh F2 V               
+Vinjvriepram  1829 B57A520-8  Z Ni Wa              605 Zh G6 V M0 D           
+Gvoguek       1921 B86A879-9    Wa                 903 Va F1 V               
+Alenzh        1927 D336342-6  Z Lo Ni              305 Zh A1 V               
+Pliatrialinz  1930 BAC5400-9    Fl Ni              304 Zh M0 V               
+Vagarr        2025 D696475-5    Ni                 223 Va F6 V M4 D           
+Kaghzouraek   2026 A737310-9    Lo Ni              404 Va M6 V               
+Depriale      2028 A898320-8  Y Lo Ni              303 Zh F1 V M1 D           
+Knoghou       2127 C545649-5    Ag Ni              710 Va F3 V               
+Altsepzdibia  2130 B6A2642-A    Fl Ni              812 Zh G7 IV              
+Soethezllerr  2223 B647115-5  G Lo Ni              404 Vp F2 V M4 D           
+Gnikghughang  2225 D632876-7    Na Po              402 Vp G1 V M4 D           
+Gvoenoekagno  2226 B77487C-3                       123 Vp K2 V               
+Iughaengoen   2227 C454449-9    Ni                 801 Va G5 V               
+Kourrghzungak 2322 A311244-9  G Ic Lo Ni           102 Vp F7 IV              
+Thueaeth      2323 A301638-E  H Ic Na Ni Va        605 Vp F7 V K0 D M2 D       
+Faerzkersgaes 2425 C78A752-6  G Ri Wa              801 Vp M0 V               
+Aekfazvak     2426 B000347-A  G As Lo Ni           101 Vp M3 II              
+Ghuegoutsoen  2430 B448424-8    Ni                 912 Va G9 VI

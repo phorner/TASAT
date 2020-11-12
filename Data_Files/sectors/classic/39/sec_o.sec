@@ -1,0 +1,39 @@
+@SUB-SECTOR:Jitiedl SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zdov          1731 B57869C-5  Z Ag Ni       S2     803 Zh M7 V M5 D
+Zazashasak    1737 B7A1889-8  Z Fl                 514 Zh K0 V
+Elchta'       1738 B345889-9  Z                    113 Zh K1 V
+Ansia         1832 A556527-8  Z Ag Ni       S8     702 Zh K5 V M1 D
+Bia'ieloch    1833 C221624-9    Na Ni Po           210 Zh F3 II
+Qrchorie      1839 B484885-6    Ri                 304 Zh M3 V
+Janzzhdel     1840 C490233-6    De Lo Ni    S6     603 Zh K1 D M4 D
+Eshbelebiebr  1933 D38389E-5  Z Ri          SA     414 Zh M7 V M5 D
+Jdechtozi     1935 D7A6256-8    Fl Lo Ni           903 Zh F8 V
+Shtonjchti    1938 D886668-1    Ag Ni Ri           504 Zh G9 V
+Atskodi'      1940 B9A3666-8    Fl Ni       SF     620 Zh F1 IV M0 D
+Shiabradl     2031 C000000-B    As Ba Lo Ni        702 Zh M1 III
+Edloch        2034 A665468-9  X Ni                 101 Zh F2 V
+Daprkrien     2036 A201578-A  X Ic Ni       S2     304 Zh M0 V M1 D
+Jadr          2038 B270324-7    De Lo Ni    SF     220 Zh A5 V G8 D
+Zietspinje    2131 X311000-0    Ba Ic Lo Ni     R  802 Zh M7 V
+Ainzzil       2134 C8B4777-8    Fl                 113 Zh F1 II
+Kiebriatl     2136 C110663-B    Na Ni       S3     601 Zh G8 V M7 D
+Zhdieshiadl   2138 E453623-4    Ni Po              715 Zh F5 V
+Tla'          2140 C224774-8  Z                    804 Zh M5 V
+Kidladr       2233 C463100-B    Lo Ni       S3     303 Zh M9 V M6 D
+Zientsal      2240 C627133-7    Lo Ni              824 Zh M4 V
+Tlonzjats     2334 E333655-8    Na Ni Po           414 Zh K8 V
+Jitiedl       2337 A110555-E    Ni Cp              514 Zh K5 V
+Vipti'        2340 C200669-7    Na Ni              803 Zh M0 V
+Merchti       2434 E46549C-4    Ni                 210 Zh M0 V
+I'zhda        2435 B200797-8  X Na                 704 Zh M2 V
+Oshstodl      2437 A566610-A  Z Ag Ni              912 Zh F6 V
+Jdiepliav     2438 E779ABA-B    Hi In       SB     724 Zh F5 V M7 V
+Qrenzhame     2439 C835448-8    Ni                 500 Zh F7 V

@@ -1,0 +1,45 @@
+@SUB-SECTOR:Abrr SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Afrria        1718 C203861-8  Z Ic Na Va           101 Zh M3 V
+Vitshiedr     1719 B554788-6  Z Ag          SB     504 Zh M2 V M7 D
+Fla'tichtal   1813 A877003-B  X Lo Ni       S5     702 Zh M6 V M2 D
+Shtia         1814 A594852-A                S4     614 Zh M5 V K1 D
+Zadneeplzhier 1816 E000358-B    As Lo Ni    S8     104 Zh M2 V M9 D
+Tlach         1818 E9A6000-0    Ba Fl Lo Ni S1F    204 Zh M3 III M1 V M0 D
+Qriazae       1819 E645347-6    Lo Ni              410 Zh F8 V
+Jetsdaansh    1911 D753677-3  X Ni Po              501 Zh M2 D
+Vie'eshtaj    1917 D355975-7    Hi                 200 Zh G0 IV
+Tietsshie'anz 1918 A367445-E  Y Ni                 313 Zh F4 V
+Re'shietlezh  1920 B66879B-5  Z Ag Ri       S2     604 Zh M9 V M6 D
+Ushaddax      2013 E558446-7    Ni                 604 Ax G1 V
+Aqinj A'      2015 E654212-5    Lo Ni              504 Zh G5 V
+Ievripla      2016 D1007A6-7  Z Na              A  324 Zh F6 V
+Tsachi        2018 A869323-E    Lo Ni Cp           213 Zh F9 V
+Tlazzhats     2111 C225697-9    Ni          SA     514 Zh K4 V M6 D
+Daxia         2114 E303520-9    Ic Ni Va    SF     304 Ax K9 V M6 D
+Zhadrdlins    2118 D65A475-6    Ni Wa       S3     803 Zh M5 V M8 D
+Okriadr       2119 C424345-7    Lo Ni              204 Zh M0 V
+I'diedrid     2120 C556576-5    Ag Ni              404 Zh G9 V
+Jdelo         2211 A868745-B  Z Ag Ri              724 Zh M4 V
+Amaxu         2213 B582443-9    Ni                 313 Ax F6 V
+Addax         2214 A9D2744-D  Z Ag Ri Cr           204 Ax M1 V
+Drunshu       2216 D72A455-7    Ni Wa              803 Ax K8 V
+Zdiedliv      2218 B300456-D  X Ni Va              104 Zh F7 V
+Umashaxar     2314 B000355-E    As Lo Ni    S1     201 Ax M3 V M1 D
+Shantusax     2316 D84A55A-6    Ni Wa              802 Ax M9 V
+Korubal       2317 A200100-A    Lo Ni       S1     303 Ax G0 V M1 D
+Vlol          2319 C30157A-7    Ic Ni              923 Zh F9 V
+Jdianchdlebr  2320 E676ABC-7    Hi In       S3     704 Zh M1 D M5 D
+Inchij        2411 B5A0405-B    De Ni       S0     304 Zh M8 V K3 D
+Mesh Tuxar    2414 B3015AD-C    Ic Ni Va           120 Ax M4 V
+Nasaxu Ar     2415 E865889-3    Ri                 512 Ax M6 V
+Penzdrons     2417 B4748B8-8  Z             S3     822 Zh M6 V K3 D
+Dliadiets     2419 C97A8AC-6    Wa          S8     703 Zh M4 V M3 D
+Sie'aqr       2420 D300502-9    Ni Va              203 Zh G2 V

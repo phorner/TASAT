@@ -1,0 +1,494 @@
+@SECTOR:Usingou
+# data mostly by John Wood (John@elvw.demon.co.uk); see his website at
+# http://www.elvw.demon.co.uk/Traveller/
+# subsectors O and P by James Kundert
+# removed Vazia and Tanjchiadda, which are duplicate worlds
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Jadljetefl    0101 B200425-B    Ni Va              310 Zh F5 V               
+Tsianzenszhdo 0103 X468732-2    Ag              F  205 Zh G8 V               
+Ienazizhdol   0104 A534743-9  Z                    902 Zh M3 V               
+Iantspridlepl 0106 B535840-9  Z                    223 Zh G3 V               
+Chtaleklrrkl  0107 B552635-9    Ni Po              304 Zh K9 V M3 D           
+Jaitnab       0109 A343475-9    Ni Po              703 Zh F0 V               
+Tlaplezhprel  0110 B4377B6-7  Z                    303 Zh K4 IV              
+Frezhietsed   0114 C783663-5    Ag Ni Ri        U  412 Zh G5 V               
+Nivrdiatia    0115 C789410-6    Ni              U  904 Zh F3 V               
+Qiejiklni     0116 E774427-5    Ni                 701 Zh F8 V               
+Dlashte       0119 C543510-8  Z Ag Ni Po           802 Zh F6 V M1 D           
+Shipebr       0125 X32369A-7    Na Ni Po        F  324 Zh M1 V M6 D           
+Iefriaqrbrefl 0127 B758655-6    Ag Ni              604 Zh G6 V               
+O'staz        0128 A000524-E  Z As Ni              521 Zh M0 V M4 D           
+Iense         0129 C371679-9    Ni                 414 Zh G8 V               
+Fliapplav     0131 C20088A-7    Na Va              603 Zh F9 V               
+Deifr         0132 B597774-9    Ag                 825 Zh F2 V F8 V M4 D       
+Satkintkant   0134 D788353-7  Z Lo Ni           U  836 Zh F5 V M6 D           
+Ietqlaz       0135 C511310-7    Ic Lo Ni           801 Zh M7 V               
+Tiodrsedlie   0138 X4207A8-7    De Na Po        F  202 Zh G2 V                           
+Qrashiyaflam  0139 B210553-A    Ni                 122 Zh K3 V                  
+Ziashovrchakr 0140 C66999A-B  Z Hi In              203 Zh F1 V               
+Plialzeardaqr 0204 C3106B9-7    Na Ni              413 Zh K4 V               
+Ipliadl       0205 E441ACD-8    Hi In Po           203 Zh F0 V M2 D           
+Zhdilqlia     0207 B656100-8    Lo Ni              703 Zh F2 V               
+Senzprerez    0208 B7A4689-8    Fl Ni           U  900 Zh M4 III             
+Jinsli        0211 D456541-7    Ag Ni              522 Zh F4 V               
+Chivtsrm      0212 D201100-A    Ic Lo Ni Va        110 Zh M1 V               
+Veqde         0216 X477855-5                    F  205 Zh K9 V M6 D           
+Zazher        0218 B886352-A    Lo Ni              403 Zh F3 V M6 D           
+Dratldieve    0219 C10038C-C    Lo Ni Va           429 Zh G3 V M8 D M7 D       
+Iepzhda       0220 B51089A-8    Na                 400 Zh F6 V               
+Iashiedr      0221 B878857-7                       803 Zh F1 V M1 D           
+Apllestenzh   0222 A223314-C  Z Lo Ni Po           222 Zh M2 II              
+Rqliachi      0226 C4105A9-7    Ni                 802 Zh M6 V               
+Tsiprierfie   0227 A510437-B  Z Ni                 901 Zh M0 V M1 D           
+Tlaiemveqchta 0229 E535466-6    Ni                 124 Zh F4 V M2 D           
+Zhafleam      0235 B433313-A    Lo Ni Po           813 Zh M5 V               
+Lontzda       0236 B320997-B  Z De Hi In Na Po     505 Zh M5 V M3 D           
+Kienzhafi     0237 D95A224-5    Lo Ni Wa           800 Zh F9 V               
+Ianchzarzh    0239 B866730-8    Ag                 408 Zh F2 V M2 D           
+Blichshe      0301 C201776-8    Ic Na Va           704 Zh M7 V               
+Drovrbro'     0304 B879665-6    Ni                 904 Zh F2 V               
+Siatlsidez    0310 E0007AB-7    As Na              702 Zh M6 V               
+Yedrvrakl     0312 E210788-7    Na                 715 Zh K9 V M6 V           
+Zhdafldefrash 0315 E573744-5    Ag                 404 Zh K8 V               
+Anchiefl      0316 A776400-C  Z Ni                 400 Zh F4 V               
+Iqreiel       0317 C581542-7    Ni                 932 Zh K3 V M2 D           
+Chtostit      0319 D565433-7    Ni                 700 Zh F0 V M6 D           
+Fitlibrepl    0321 B526630-8    Ni                 502 Zh G1 V M0 V           
+Ieziefl       0324 B000000-7  X As Ba Lo Ni        805 Zh F1 V M7 D           
+Tliefllentapr 0325 B564632-9    Ag Ni              314 Zh F7 V               
+Dentszimar    0327 C887784-3    Ag Ri              414 Zh F9 V M0 D           
+Defridlie     0329 X595330-5    Lo Ni           F  102 Zh F8 V M8 D           
+Piaraqlsta    0334 B8A4231-B    Fl Lo Ni           602 Zh M8 V               
+Zdeshechenz   0338 E77A200-7    Lo Ni Wa        U  701 Zh K1 V               
+Vibnans       0339 C11068A-9    Na Ni           U  402 Zh M8 V               
+Ivlzhdenzh    0340 X691795-5                    F  600 Zh G2 V               
+Riezive       0401 C899514-8    Ni                 902 Zh M1 V               
+Ifsenjasiakr  0403 A677532-D  Z Ag Ni              205 Zh F3 V M2 D           
+Tlishkriazdrt 0404 C445867-9  Z                    314 Zh F0 V               
+Ababl         0407 D593524-5    Ag Ni              712 Zh K3 V M2 D           
+Jrnshflansh   0409 C381675-7    Ni Ri              203 Zh M7 V M3 D           
+Tsipbipl      0410 C9A4720-8    Fl                 900 Zh M5 V               
+Ievzhdil      0412 B436220-C  Z Lo Ni              100 Zh M0 V M1 D           
+Tladqle       0414 C67A500-C    Ni Wa              513 Zh F7 V M1 V M7 D       
+Piaflstodlezh 0416 C572225-9    Lo Ni              300 Zh M3 V               
+Klachtiapl    0419 B335588-8  Z Ni              U  203 Zh G1 IV M0 V          
+Stieipr       0422 C450565-9    De Ni Po           912 Zh F2 V               
+Brrnzens      0429 B100359-D    Lo Ni Va           102 Zh M3 V M3 D           
+Chtezvezfrie  0430 B150542-9    De Ni Po           103 Zh F1 V               
+Navivriensh   0431 C98A654-B    Ni Ri Wa           816 Zh G4 V M4 D           
+Yaiavl        0433 E000333-A    As Lo Ni           800 Zh F9 V M2 D           
+Ianzpazhcheql 0435 E9C5ACC-9    Fl Hi In        U  306 Zh F1 V M8 D F4 V       
+Kiprzanchpom  0436 A858547-A  Z Ag Ni              310 Zh F0 V M2 D           
+Iyenttint     0437 C969100-A  Z Lo Ni              400 Zh F2 V               
+Ieqrafrde     0439 A400443-C  Z Ni Va              714 Zh F1 II              
+Qloidaans     0440 E335143-6    Lo Ni              604 Zh M2 V               
+Rache         0501 B451799-9    Po                 206 Zh F5 V M4 D           
+Iafrtlieets   0506 D554447-7    Ni              U  503 Zh F1 V               
+Ejoshcheakl   0511 B434424-B  X Ni                 215 Zh F8 V M1 D           
+Zhijshezhie   0514 C335340-9  Z Lo Ni              521 Zh F1 IV              
+Ridadrjiach   0516 C160635-5    De Ni              223 Zh F4 V M0 D           
+Kiqkrrbish    0518 C160777-A    De Ri              114 Zh F1 V M3 D           
+Dlantszdiqref 0519 B573344-A  Z Lo Ni              804 Zh F7 V               
+Kazhdet       0520 B737500-A  Z Ni                 404 Zh M6 V               
+Ilieflie      0527 C52668A-7    Ni                 700 Zh M0 III             
+Piepievr      0529 C5769CC-8  Z Hi In           U  313 Zh F7 V               
+Ianzhvleia    0530 C442316-8  Z Lo Ni Po           313 Zh G2 V               
+Tlinjitanj    0538 D656666-2    Ag Ni              304 Zh F7 V M7 V           
+Qravlaqrbazha 0539 B346777-7    Ag                 102 Zh F2 V               
+Tsantlitsiaj  0540 B847461-7    Ni                 500 Zh F4 V M3 D           
+Afltlibr      0602 C310645-7    Na Ni              312 Zh M8 V               
+Steshtiblinsh 0603 D450364-4  Z De Lo Ni Po        400 Zh F3 V               
+Banzstotl     0611 C7A7663-8    Fl Ni              900 Zh F8 V               
+Miapltlem     0613 A243349-D    Lo Ni Po           811 Zh F6 V M3 D           
+Sietlzdie'    0617 B300442-C  Z Ni Va              713 Zh K5V  M5 D           
+Zhdazhaq      0622 X97A765-5    Wa              F  515 Zh M7 V M3 D           
+Fabred        0628 A341779-9  Z Po                 205 Zh F6 V               
+Draklteshse   0629 B348884-B                       215 Zh M8 V               
+Freqsteblmedr 0630 B241644-A    Ni Po              122 Zh F0 V               
+Shtatli'      0632 D54469A-5    Ag Ni              702 Zh F8 V               
+Riapriedr     0635 EAE3A89-8    Fl Hi In           203 Zh F5 V               
+Ijstare       0637 B8A0798-8    De                 913 Zh G1 II              
+Devlfreliesh  0701 A529754-E                       903 Zh M7 V               
+Vrittli       0702 A100214-E  Z Lo Ni Va           402 Zh G6 V               
+Eplob         0704 B328533-D    Ni                 805 Zh G1 V M6 D           
+Diaprniedrsa  0705 A542221-C    Lo Ni Po           634 Zh F7 V M8 D           
+Chtatsplierol 0707 A749364-E    Lo Ni              301 Zh F9 V               
+Oprrizhedl    0712 A6455A9-8    Ag Ni              605 Zh F2 V M1 D           
+Siaabzhi      0714 B565869-9  Z Ri                 605 Zh F7 V               
+Chechedrsta   0715 C501AB6-C  Z Hi Ic Na Va        500 Zh F1 V               
+O'branzdli    0723 A52778D-8  Z                    302 Zh M3 V               
+Idzhdaiash    0726 C400338-B    Lo Ni Va           201 Zh M5 V               
+Rzhe          0731 D5526B7-6    Ni Po              602 Zh F4 V               
+Iezhoql       0733 E11048C-7    Ni                 403 Zh M8 V               
+Diliefidr     0738 A759253-E  X Lo Ni              704 Zh G3 V               
+Blianjpotsfie 0739 A528666-B    Ni                 703 Zh M2 V               
+Vazhe         0801 C100100-C    Lo Ni Va           804 Zh M0 V               
+Ajdrnch       0802 A574687-C    Ag Ni              203 Zh F7 V               
+Fralliabl     0803 B664579-B    Ag Ni              302 Zh F2 V               
+Iazniench     0804 E5868BC-2                       108 Zh K2 V M8 D           
+Idrzhdrbepr   0806 E664664-2    Ag Ni Ri           913 Zh F5 V               
+Sheklzdiibr   0809 B585AFD-9  Z Hi In              415 Zh G3 V               
+Fitsetl       0810 C3008CD-9    Na Va              412 Zh F0 V               
+Tlientsatl    0813 D440538-7    De Ni Po           611 Zh F9 V               
+Miablstaprez  0822 X774775-5    Ag              F  800 Zh F0 V               
+Epfintsez     0826 X32088C-7    De Na Po        F  403 Zh F8 V               
+Brezaiafl     0828 B55547B-7  Z Ni              U  602 Zh F3 V               
+Vrflrinanshya 0829 C435689-6    Ni              U  400 Zh F2 IV              
+Klabiettleja  0831 A420248-A  Z De Lo Ni Po        220 Zh M7 V               
+Zeshtient     0832 C310441-7    Ni                 708 Zh M4 V M6 D           
+Zieplbraz     0833 C434554-C    Ni                 714 Zh G2 V M0 D           
+Tlianz        0834 C445415-8    Ni                 304 Zh F7 V               
+Bapeenj       0835 C549788-5                       513 Zh F2 V M2 D           
+Sishtatjdekre 0838 B5A089B-8    De                 301 Zh F9 V               
+Shiantsrm     0904 E764676-6    Ag Ni Ri           933 Zh F7 V               
+Chabob        0905 CAC6AA8-D    Fl Hi In           801 Zh F2 V               
+Vomchiazhetl  0909 B535778-6                    U  203 Zh F9 V               
+Dlaeie        0911 C6A07BA-8    De                 222 Zh M5 V               
+Aekoblprebr   0912 B8B5555-9    Fl Ni              803 Zh M4 V               
+Flevklrtl     0916 D9B288A-8  Z Fl                 315 Zh M8 V M1 D           
+Zhdidnianj    0918 A353669-A  Y Ag Ni Po           202 Zh F1 V               
+Nadrie        0919 A543631-B  Z Ag Ni Po           600 Zh F8 V               
+Naqibkla      0921 B8A0437-8    De Ni              314 Zh F3 IV M1 D          
+Pieshqar      0923 A6B4576-C  Z Fl Ni              512 Zh K7 V M1 D M0 III     
+Friansklaiach 0924 C572520-5  Z Ni                 110 Zh F1 V               
+Kloshfriear   0929 C130240-9    De Lo Ni Po        704 Zh M5 V M0 D           
+Tlieshdlie    0931 E436587-6    Ni                 202 Zh M7 V               
+I'chieyidrble 0934 D875223-6  Z Lo Ni              400 Zh M4 V               
+Vienzheezh    0936 E373576-5    Ag Ni              522 Zh F4 V               
+Zditschiiadl  0937 X552300-0    Lo Ni Po        F  605 Zh F1 V M0 D M5 D       
+Sobrsiel      1004 C547556-5    Ag Ni              903 Zh M8 V               
+Prablzhdanjab 1006 E452985-6    Hi In Po           803 Zh F7 V               
+Zhdieonzh     1007 C967477-4    Ni                 502 Zh M4 V M6 D           
+Shievinshstob 1009 C879300-8    Lo Ni              704 Zh F2 V               
+Shrchaqr      1014 B260530-C    De Ni              717 Zh F7 V M6 D           
+Ichedrchins   1015 C759441-9  Z Ni                 612 Zh F5 V               
+Pinja         1016 E663324-7    Lo Ni              913 Zh G1 V M7 D           
+Vlrtlo        1019 E140563-5    De Ni Po           503 Zh G8 V               
+Fiachi'chr    1020 B666697-8  Z Ag Ni Ri           525 Zh K3 V M1 D           
+Flanstsie     1021 E2409A9-8    De Hi In Po        300 Zh F5 V M3 D           
+Sienzchie     1022 A8969BE-A    Hi In              603 Zh G2 V               
+Nanjechchtaeq 1024 D444112-5    Lo Ni              210 Zh F8 V M6 D           
+Bribrzhaldloq 1026 C130466-B    De Ni Po           434 Zh F2 V               
+Bemnamezh     1028 B544977-9    Hi In              902 Zh F4 V               
+Odrshabrviad  1029 B665584-6  X Ag Ni              912 Zh F8 V M2 D           
+Fradlzhe      1030 C1208AE-8    De Na Po           313 Zh F7 V               
+Prela         1035 C689000-0    Ba Lo Ni           004 Zh F8 V               
+Tlechkrisha   1038 B000310-B  Z As Lo Ni           800 Zh M6 V               
+Enzhlavltliep 1039 C8C9AB9-A    Fl Hi In           803 Zh F3 V               
+Chiaqlneqr    1040 C688200-8    Lo Ni              404 Zh K9 V               
+Rarfrplaal    1106 D8547A7-5    Ag                 104 Zh F3 V               
+Iejshtalzdapl 1112 E778200-6    Lo Ni              210 Zh G5 V               
+Inzserav      1113 B210686-8    Na Ni              515 Zh K6 V M5 D M6 V M4 D   
+Shtadrchteba  1115 D230545-6    De Ni Po           516 Zh M4 V M3 D           
+Zanchqlaztsi  1117 B66637A-7    Lo Ni              610 Zh F0 V               
+Pifrqliteql   1118 D311764-8  Z Ic Na              903 Zh M2 V               
+Ishdlefafr    1119 B410200-C    Lo Ni              205 Zh M6 V               
+Sri           1121 BA8A544-B    Ni Wa              200 Zh F9 V               
+Zhiezhveebl   1123 D000242-7  Z As Lo Ni           917 Zh M4 V M7 D           
+Shtadre'ianch 1126 E65877A-4    Ag                 305 Zh F0 V F3 V           
+Iapltlepedr   1127 C624534-9    Ni              U  300 Zh M1 V               
+Ieklstiav     1128 E427746-7                       300 Zh M2 V               
+Shenchonchenz 1129 D9587A8-1    Ag                 800 Zh F7 V               
+Chtintse      1133 X455655-0    Ag Ni           F  601 Zh F3 V               
+Diazhtia      1136 B43078B-7  Z De Na Po           600 Zh M8 V               
+Ianziam       1137 D57599C-8  Z Hi In              711 Zh F5 V M3 D           
+Plrkldibl     1204 C434588-B    Ni                 201 Zh M8 V               
+Sienjpreenz   1207 B570430-A  Z De Ni              304 Zh M4 V M4 D           
+Stibrlietshta 1209 CA7A535-7    Ni Wa              604 Zh F2 V M3 D           
+Iensheqr      1229 E100845-8    Na Va              514 Zh F7 V M1 D           
+Idlple        1230 C522659-A    Na Ni Po           710 Zh M2 V               
+Siavrdrrat    1231 C232320-8    Lo Ni Po           203 Zh F4 V               
+Ache          1232 E210233-9    Lo Ni              107 Zh M3 V M1 II          
+Chtochtiadl   1233 B526410-B    Ni                 201 Zh M5 III M1 D         
+Paqltsianzefl 1235 C100366-7    Lo Ni Va           502 Zh M2 V               
+Irapratlpiat  1236 B441555-D    Ni Po              124 Zh K8 V               
+Vlenshfiekadr 1237 E36798A-5    Hi In              920 Zh F0 V               
+Oplkiqlianzh  1238 D230567-8  Z De Ni Po           805 Zh F9 III M4 V         
+Friaprche     1240 B9D2112-7  Z Fl Lo Ni           713 Zh F3 V M2 D           
+Patldie       1301 D646647-5    Ag Ni              203 Zh F3 V M6 D           
+Krelibrlabr   1302 D497643-7    Ag Ni              824 Zh F3 V               
+Ieqdrekavl    1303 D694783-5    Ag                 300 Zh M7 V M4 D           
+Ditlfinch     1306 C571464-9    Ni                 102 Zh F8 V               
+Brazde        1309 B200200-C    Lo Ni Va           602 Zh M2 V               
+Tlibltlechja  1313 C336465-7    Ni                 613 Zh F3 V M3 D           
+Fliestezhdibl 1314 C453695-6    Ag Ni Po           421 Zh F9 V               
+Kledlvlipl    1315 C242578-9  Z Ni Po              813 Zh F6 V               
+Zhoiansdrant  1316 AA76766-C    Ag                 103 Zh F5 V               
+Ezdlashfleq   1317 E665332-6    Lo Ni              804 Zh F3 V               
+Tsiplzdarbaq  1318 C658987-7    Hi In              813 Zh F6 V               
+Sefliezedl    1319 B110336-9    Lo Ni              800 Zh M5 V               
+Etsamdap      1322 C38489A-8    Ri                 504 Zh F9 V M0 D           
+Priafevajal   1323 B260642-6    De Ni Ri           404 Zh G1 V               
+Qleprieir     1325 B8B8569-9    Fl Ni              903 Zh F6 IV M6 V          
+Batlpat       1326 A6859EE-B    Hi In              310 Zh F2 V               
+Srdrqlaf      1329 E556544-7    Ag Ni              104 Zh F2 V               
+Natle         1331 C200443-7    Ni Va              744 Zh K0 III M8 V         
+Zdoqrche      1332 C75849D-7    Ni                 725 Zh K7 V M4 D           
+Kleashfla     1333 C88A855-7    Ri Wa              600 Zh M4 V               
+Chtedlchedl   1335 C343422-8    Ni Po              214 Zh F3 V               
+Anchishriatl  1336 B4039EB-B  Z Hi Ic Na Va        214 Zh F4 D M1 D           
+Dlifie'iabeb  1403 B44248B-A  Z Ni Po              813 Zh K2 V               
+Akzdeedrriats 1405 E89A533-5    Ni Wa              612 Zh G0 V               
+Chtenchzo     1406 C484788-9  Z Ag Ri              412 Zh F8 V               
+Melfrieensje  1408 A000843-A  Z As Na              403 Zh F7 D               
+Chazshteyia   1411 A686554-C  Z Ag Ni              703 Zh G0 V M1 D           
+Diafriapl     1412 C335524-7    Ni                 903 Zh G2 V               
+Chtianshkrets 1413 D7A3210-8    Fl Lo Ni           436 Zh F6 V M1 D           
+Ezhpliqel     1419 B662314-6  Z Lo Ni              701 Zh F9 V M1 D           
+Ebamplench    1422 C7A2678-8    Fl Ni              203 Zh G7 V M5 D           
+Eqklrbbiens   1425 A7B3261-D    Fl Lo Ni           101 Zh M2 V               
+Chtenzhyofre  1427 B100667-B    Na Ni Va           400 Zh M2 V               
+Adrzhaziaql   1430 A585555-C  Z Ag Ni              912 Zh F7 V M1 D           
+Enzstits      1432 E578200-8    Lo Ni              104 Zh F9 V M5 D           
+Badrredlons   1435 B250413-B  Z De Ni Po           416 Zh F9 V M6 D           
+Bra'tlidl     1438 C300420-8    Ni Va              822 Zh K7 V               
+Zibrboplaol   1440 B34768C-6    Ag Ni              604 Zh F5 V               
+Miflyats      1501 A240627-D  Z De Ni Po           234 Zh F9 V M6 D           
+Zdianchshtia  1502 B100643-C    Na Ni Va        U  303 Zh M2 V               
+Refrzhdia'    1503 B2427A8-B  Z Po                 504 Zh F0 V M2 D           
+Shtabshtiaial 1504 A783988-D  Z Hi In              203 Zh K9 V               
+Abajiachiats  1505 E739AA8-C    Hi In              303 Zh F5 V               
+Iadrkinszher  1508 B6A5566-9  Z Fl Ni           U  105 Zh M4 V M4 D           
+Datliatl      1511 B686350-7  Z Lo Ni           U  900 Zh F1 V               
+Afrzhal       1512 A580000-0    Ba De Lo Ni        003 Zh F5 V M3 D           
+Tlifiemdrezh  1514 B543656-6  Z Ag Ni Po           703 Zh F6 V M3 D           
+Kievritlipkla 1519 C6329CB-6  Z Hi In Na Po        601 Zh G4 V               
+Dezitlzhdinzh 1520 C575756-9    Ag                 902 Zh K4 V               
+Zhdokrbsiej   1522 B54887C-7  Z                    310 Zh F7 V M2 D           
+Flostiej      1525 B332500-E    Ni Po           U  314 Zh M0 V M4 D           
+Bieiazhanz    1526 A552942-A  Z Hi In Po           802 Zh F4 V               
+Iavlia        1529 C665536-8    Ag Ni              401 Zh F2 V               
+Bafanzabr     1531 B2129DC-9    Hi Ic Na           600 Zh G3 V M0 D           
+Eljiechfadr   1535 C324430-9  Z Ni                 303 Zh M7 V M0 D           
+Tlitzdiser    1536 D758000-0    Ba Lo Ni           000 Zh F3 V               
+Vrialinzpie   1538 C435433-B    Ni                 601 Zh M8 V M2 V M0 D       
+Chrqaplchrbl  1604 B200553-A    Ni Va              413 Zh F6 V               
+Tlanshmelne   1607 A64A500-C  Z Ni Wa              813 Zh F8 V M4 D           
+Tliansirafred 1609 AAAA112-D    Fl Lo Ni Wa        913 Zh F0 IV M8 V          
+Iala'yash     1610 E9A3200-8    Fl Lo Ni           410 Zh F5 V               
+Fevlpaieen    1621 A786774-8    Ag Ri              611 Zh F8 V               
+Iqrchiipl     1625 E9569A5-4    Hi In              703 Zh F1 V               
+Zdiebieqdlaz  1626 C97A76A-A    Wa                 603 Zh F6 V M8 D           
+Friebeblinz   1629 X402563-7    Ic Ni Va        F  401 Zh K0 V               
+Chteqriaiakl  1631 C678736-5    Ag                 705 Zh F2 V M6 D           
+Eflcha        1634 B746200-C  Z Lo Ni              101 Zh F6 V               
+Rtetlvla      1635 C769352-A    Lo Ni              115 Zh F3 V M0 D           
+Daknatstiant  1636 D777788-5    Ag                 701 Zh F1 V               
+Plenchzdiepr  1703 A65A779-C    Wa                 104 Zh F9 V               
+Ezdo          1704 B442742-7    Po                 413 Zh K7 V M3 D           
+Zdenzchach    1705 B529830-7                       406 Zh K0 V M3 D           
+Brzhzde       1706 C64A766-7    Wa                 101 Zh F1 V               
+Dovre'        1711 EAB7575-8    Fl Ni              702 Zh G6 V M7 D           
+Vriaozbench   1713 A323253-E    Lo Ni Po           103 Zh M4 V               
+Yibrjderiebl  1714 E77A000-5    Ba Lo Ni Wa        706 Zh F5 V M2 D           
+Iedlsazo      1719 C110000-7    Ba Lo Ni           500 Zh M7 V               
+Divrre        1726 B310533-B  Z Ni                 301 Zh M6 V               
+Kaplbriabr    1727 B300873-8    Na Va              800 Zh F3 V               
+Finzhdlrvl    1731 D523562-7    Ni Po              105 Zh M1 V
+Ier Lal       1734 A989434-C    Ni Cp              202 Zh F6 V M6 D
+Drietlqliata  1803 A7B6676-A  X Fl Ni              202 Zh M1 V               
+Tletliniabl   1804 C7B2436-9    Fl Ni              600 Zh M3 V               
+Pleplidlat    1824 B68697A-A    Hi In              902 Zh F7 V               
+Jdovrievrbril 1825 C774353-6  Z Lo Ni              813 Zh F3 V               
+Tseqjdevlnebl 1826 C528300-A    Lo Ni              911 Zh M0 V M3 D           
+Stazdovare    1827 C572746-6                       610 Zh F2 V M5 D           
+Srzdazh       1828 C6749CC-5    Hi In              303 Zh F2 V               
+Vinjvriepram  1829 B57A520-8  Z Ni Wa              605 Zh G6 V M0 D           
+Ail Ashe      1834 D110277-8  Z Lo Ni              302 Zh M4 V
+Kinshklianzh  1835 C67945A-7  Z Ni                 112 Zh M8 V M3 V
+Jdatlo        1836 C200657-A    Na Ni Va           204 Zh G4 V
+Ezyrvr        1837 A353830-8  Z Po                 613 Zh F2 V
+Dlinjrons     1839 C7787BE-6  Z Ag              U  723 Zh K8 V
+Qlierqliejez  1904 E350252-6    De Lo Ni Po        723 Zh F1 V M7 D           
+Rprqlia       1905 X7476A9-5    Ag Ni           F  710 Zh M8 V               
+Niedrseedl    1908 B565324-A  Z Lo Ni              802 Zh M6 V               
+Ketlietienzh  1909 C657347-4    Lo Ni              213 Zh G1 V               
+Khoullghukh   1917 B539547-B  G Ni                 622 Va M0 III             
+Eiao          1920 A300563-A  H Ni Va              605 Va M8 V M8 D           
+Gvoguek       1921 B86A879-9    Wa                 903 Va F1 V               
+Alenzh        1927 D336342-6  Z Lo Ni              305 Zh A1 V               
+Pliatrialinz  1930 BAC5400-9    Fl Ni              304 Zh M0 V               
+Riv           1933 E240488-7    De Ni Po           202 Zh G7 V
+Siplyievo     1934 D671521-5  Z Ni                 801 Zh M4 V
+Tsoniab       1935 D000310-7    As Lo Ni           804 Zh M0 V
+Zheianj       1937 C6578BE-3  Z                    710 Zh M0 V
+Piablzdaa     2002 E76769A-6    Ag Ni Ri           715 Zh K8 V               
+Aviadrpi      2004 D999455-9    Ni                 303 Zh F6 V               
+Brfrkralifl   2005 C758694-7    Ag Ni              802 Zh M4 V               
+Ejifrste      2009 B687534-B    Ag Ni              103 Zh F5 V               
+Ighksigoug    2011 E8B596A-9  C Fl Hi In           703 Va F5 V M3 D           
+Vouthourroel  2014 A765650-9    Ag Ni Ri           114 Vp G6 V               
+Vaekfue       2020 D267688-3  G Ag Ni              702 Va F7 V               
+Vagarr        2025 D696475-5    Ni                 223 Va F6 V M4 D           
+Kaghzouraek   2026 A737310-9    Lo Ni              404 Va M6 V               
+Depriale      2028 A898320-8  Y Lo Ni              303 Zh F1 V M1 D           
+Kafivr        2031 E4846BA-2    Ag Ni              104 Zh G3 V
+Shiansar      2033 A210201-C  Z Lo Ni              804 Zh M8 V
+Yainzh        2034 B491340-A    Lo Ni              811 Zh F6 V M4 D
+Ebzdeplpie    2101 C649896-9                       904 Zh F3 V M4 D           
+Miprsakint    2102 C1009CB-D  Z Hi Na Va        U  504 Zh F0 D               
+Qrins         2103 E655337-5    Lo Ni              302 Zh F8 V M4 D           
+Prevzdi       2106 C522665-7    Na Ni Po           343 Zh K1 V M0 D           
+Zhdiepryiaevl 2107 D7A3120-8    Fl Lo Ni           505 Zh K8 V M3 V           
+Uvethodhaeng  2114 C561496-9    Ni                 800 Vp F9 V M6 D           
+Knoghou       2127 C545649-5    Ag Ni              710 Va F3 V               
+Altsepzdibia  2130 B6A2642-A    Fl Ni              812 Zh G7 IV              
+Rljek         2131 C324563-B    Ni                 324 Zh M9 V
+Onzaqle       2132 B000458-B    As Ni              914 Zh M6 V M7 D
+Ialiel        2133 B7A1965-C    Fl Hi              610 Zh M2 V M7 D
+Kef A'        2134 B668200-8    Lo Ni              624 Zh M3 V
+Achiatlie     2135 A7A0635-D  Z De Ni              514 Zh F1 V M7 V M5 D
+Oz Ie'bria    2137 D799210-5    Lo Ni           U  504 Zh M2 V
+Fliaqzdaint   2205 C451775-5  Z Po                 811 Zh F3 V               
+Gvoutsaedhgaz 2209 B753555-8  G Ag Ni Po           804 Va F1 V               
+Ninuz         2210 B64A310-C    Lo Ni Wa           914 Va F5 V M3 D           
+Ksuedhei      2212 C687576-9    Ag Ni              512 Vp F0 V               
+Vokorkhoereg  2213 C87A7CC-4  H Wa                 325 Vp F2 V M0 D           
+Aekhue        2214 B78A579-A  G Ni Wa              603 Vp M6 V M4 D           
+Kfoezangsaeng 2216 EAD2546-2    Fl Ni              922 Vp M3 V M1 D           
+Aetsoghue     2218 B557320-A    Lo Ni              803 Vp F8 VI              
+Llivusae      2220 B4679AA-7    Hi In              307 Vp F2 V M7 D M6 D       
+Soethezllerr  2223 B647115-5  G Lo Ni              404 Vp F2 V M4 D           
+Gnikghughang  2225 D632876-7    Na Po              402 Vp G1 V M4 D           
+Gvoenoekagno  2226 B77487C-3                       123 Vp K2 V               
+Iughaengoen   2227 C454449-9    Ni                 801 Va G5 V               
+Dlanzhek      2232 C220676-7    De Na Ni Po        603 Zh M2 V
+Siara         2236 A436434-E    Ni                 321 Zh K1 V
+Tlia'diebl    2237 C223644-7  X Na Ni Po           304 Zh M2 V M5 V
+Plaplyensh    2305 C873535-7    Ag Ni           U  812 Zh F2 V M7 V M2 D       
+Palavl        2306 E264122-8    Lo Ni              602 Zh F2 V               
+Khekhgzakgvog 2315 B526A76-F  G Hi In              200 Vp F2 V               
+Zoerroel      2316 E533448-3    Ni Po              503 Vp M8 V               
+Urzuegksaekh  2317 B96AA75-E    Hi In Wa           114 Vp K1 V               
+Gvuekuer      2319 E889546-6  C Ni                 603 Vp F1 V M5 D           
+Zegagh        2320 B236779-C                       422 Vp M0 V M7 D           
+Kourrghzungak 2322 A311244-9  G Ic Lo Ni           102 Vp F7 IV              
+Thueaeth      2323 A301638-E  H Ic Na Ni Va        605 Vp F7 V K0 D M2 D       
+Fitl          2331 A7A2AA7-E  Z Fl Hi              424 Zh M9 V M3 V
+Zhiztidr      2333 B344657-7    Ag Ni              810 Zh K4 V
+Te' Jda       2336 E471000-0    Ba Ni              000 Zh K1 V M5 D
+Iavenchdal    2337 E878664-5    Ag Ni           U  603 Zh M2 V
+Qrantseqr     2340 E567400-7    Ni                 614 Zh M4 V
+Epletplish    2401 C669694-5    Ni Ri              613 Zh F2 V M6 D           
+Nizhvrebnov   2404 B754720-8    Ag                 205 Zh F9 V               
+Idlatsviel    2405 C510446-8    Ni                 800 Zh M4 V               
+Ksoeonogh     2413 D4317AC-5    Na Po              100 Vp A3 V               
+Aekakh        2415 A512300-D  C Ic Lo Ni           405 Vp M5 V M4 VI          
+Vegnon        2416 A436664-D  G Ni                 121 Vp M4 V M7 D G9 V       
+Faerzkersgaes 2425 C78A752-6  G Ri Wa              801 Vp M0 V               
+Aekfazvak     2426 B000347-A  G As Lo Ni           101 Vp M3 II              
+Ghuegoutsoen  2430 B448424-8    Ni                 912 Va G9 VI              
+Rats          2431 C89A542-7    Ni Wa              105 Zh M9 V
+A'ie Jelde    2432 E696596-5    Ag Ni              500 Zh M4 V
+Kebiach       2434 A210430-D    Ni                 205 Zh M4 V
+Yiflont       2435 E5847AD-1    Ag                 324 Zh M8 V
+Yoprchtianch  2436 D797564-5    Ag Ni              902 Zh K8 V
+Odlse Dabr    2439 C300101-C  X Lo Ni              123 Zh M1 V M7 D
+Ziae'shtieatl 2502 B235875-A                       712 Zh F2 V M3 D           
+Rabrij        2504 B2316A5-B  Z Na Ni Po           212 Zh F3 V               
+Dongang       2509 B729557-D  H Ni                 803 Vp M7 V               
+Uu            2512 B210000-0    Ba Lo Ni           012 Vp M3 II              
+Gigghuerra    2524 C5A4596-3  C Fl Ni              712 Vp K3 IV M5 VI         
+Alloers       2525 B444789-6    Ag                 102 Vp F7 V               
+Ksukaengkerrg 2528 C626675-6  G Ni                 204 Vp M0 III M6 V         
+Tlavl Ia      2532 A79589D-9                       204 Zh M3 V M4 D
+Drants        2533 E210311-8    Lo Ni              205 Zh F1 III
+Lavarblietl   2535 B426410-9  X Ni                 402 Zh K3 V
+Briprtliesav  2536 C795100-6    Lo Ni              401 Zh F0 V
+Zhdietsevre   2537 D9B2620-8    Fl Ni              404 Zh M6 V
+Abrjdeplklev  2601 C884475-6  Z Ni                 820 Zh F1 V M4 D           
+Orzouraenuen  2605 B87778A-5    Ag                 502 Va M6 V M6 D           
+Gvarrggvueng  2606 B7926BA-7  G Ni                 902 Va F2 V               
+Aragh         2607 D23087A-1    De Na Po           713 Va F3 V               
+Forasoknurr   2609 C443554-7    Ag Ni Po           610 Vp F7 VI              
+Gnagvouregar  2612 B575647-9  G Ag Ni              634 Vp F5 V F9 V           
+Aea           2614 C6A249A-7  G Fl Ni              500 Vp M5 V               
+Ighkfaedh     2616 A000454-D  G As Ni              500 Vp M6 III             
+Retskalluekh  2623 A485655-8    Ag Ni Ri           325 Vp M6 VI M8 D          
+Khoezoun      2626 X651785-0    Po              R  311 Vp F3 V               
+Ghighorran    2629 E444464-2    Ni                 400 Va F1 V M3 D           
+Ongaeghz      2631 E749563-6  C Ni                 504 Va A9 IV M7 D
+Plintspiedl   2633 CAC4759-9    Fl                 705 Zh M6 V M5 D
+Krpriachtie   2636 C585654-4  Z Ag Ni Ri           205 Zh M3 V
+Qatliee'      2638 B889211-9    Lo Ni              814 Zh F6 IV
+Thuengaela    2705 B000265-9    As Lo Ni           212 Va M0 V               
+Kfaththaell   2709 A100778-8  G Na Va              303 Vp F4 V               
+Rroakhin      2710 B447577-8  G Ag Ni              20C Vp G8 V M1 D G1 D       
+Kfondhoenkog  2711 C454346-7  H Lo Ni              215 Vp F4 V G4 D           
+Zoekoksilloen 2713 B438430-A    Ni                 710 Vp F2 V               
+Aeaeg         2718 A99A567-B    Ni Wa              523 Vp F2 V               
+Vashtebl      2734 C495658-A    Ag Ni              122 Zh K4 V M1 D
+Zhdeeql       2735 B99869D-A    Ag Ni              314 Zh F0 IV
+Fiaerrinzh    2736 C536234-6    Lo Ni              702 Zh M6 V
+Lanse Sho'    2740 BA7A335-B    Lo Ni Wa           604 Zh M1 V
+Riensh        2801 D220451-7    De Ni Po           701 Zh M0 V               
+Uekougidzoeng 2808 B3409DE-9    De Hi In Po        904 Vp F6 V M3 D           
+Vorrgoee      2809 A647553-7  G Ag Ni              510 Vp F0 V M2 D           
+Oazaerrghoell 2810 C546888-2  G                    310 Vp F4 V               
+Gaeksakhugh   2816 B858776-A    Ag                 614 Vp F9 V M0 D           
+Koghagtog     2818 BAB7975-A    Fl Hi In           413 Vp K2 V               
+Dhorrghrer    2819 E98A223-7    Lo Ni Wa           510 Vp F7 V               
+Ugul          2825 C875978-9  G Hi In              622 Vp F9 V                
+Agvalae       2827 A77A596-8  G Ni Wa              312 Vp F9 V               
+Karsrrukksoks 2830 E73A544-9    Ni Wa              402 Va K9 V               
+Adedrtlal     2833 A656797-9    Ag                 804 Zh K0 V
+Koavrtivr     2836 B8859BE-C    Hi                 213 Zh M6 V
+Shok Ons      2838 X8C4761-9    Fl              F  102 Zh F7 V
+Anzchiefr     2839 E596778-6    Ag                 732 Zh F4 V
+Zhetspo       2903 C622879-8  X Na Po              412 Zh F5 V               
+Kherzlaenighz 2910 C868756-4  H Ag Ri              413 Vp G9 V               
+Kfaekhan      2915 D000875-6    As Na              214 Vp F8 D               
+Ksoenokhllun  2916 B557872-9                       703 Vp F8 V M4 D           
+Vizanuelir    2924 C885244-3  H Lo Ni              505 Vp F5 V M2 D           
+Ghadeg        2925 A533457-A    Ni Po              313 Vp M3 V M3 D           
+Nitsaeller    2927 A5A0410-9  G De Ni              314 Vp K0 V               
+Kfinegh       2929 A100245-B    Lo Ni Va           203 Va M4 D M3 D           
+Ogz           2931 B411574-8  H Ic Ni Z0           224 Va F3 V
+Sarrsarz      2932 D336874-6                       112 Va G1 IV M3 V
+Idliaosh      2933 B000303-A  Z As Lo Ni           614 Zh M6 V
+Zhdoiesh      2934 A200532-E    Ni Va              702 Zh K8 V
+Adltsap       2936 B526986-D    Hi In              220 Zh M3 II
+Tliabr Ons    2937 B79A443-8    Ni Wa              805 Zh M5 V
+Ants          2938 B0009BD-C  Z As Hi In Na        313 Zh M5 V
+Jablnishoz    2939 B595AAC-C    Hi In              910 Zh M9 V
+Dripliestavl  3001 C437554-A    Ni                 202 Zh G2 V               
+Steshnino     3003 C4498CB-8                       903 Zh K3 V               
+Ksokhuen      3005 B665100-8  G Lo Ni              812 Va G6 V M1 D           
+Aeren         3008 D6569BC-1    Hi In              213 Vp F6 VI              
+Vathdzoenksen 3010 A764200-B  G Lo Ni              914 Vp G0 V               
+Oekhkuk       3027 E331512-5    Ni Po              404 Vp G7 V               
+Noentsazuek   3030 C526100-9    Lo Ni              901 Va M3 V               
+Bartsel       3033 E549554-9    Ni                 522 Zh K7 V M9 D
+Jdianzhili    3035 D655345-7    Lo Ni              424 Zh M2 V M3 D
+Anshdem       3037 B768465-B  Z Ni                 400 Zh K7 V
+Daflanzhr     3039 C340212-9  Z De Lo Ni Po        202 Zh M8 V M9 D
+Stansinz      3040 D666034-6    Lo Ni              604 Zh M4 V
+Thugnun       3108 B539311-9  G Lo Ni              704 Vp M0 V M6 D           
+Ozuega        3109 D97AABB-A    Hi In Wa           700 Vp F0 V               
+Kfanen        3110 C493531-3  G Ag Ni              203 Vp F5 V               
+Khakenaegh    3113 C53A789-6  H Wa                 506 Vp M7 V M6 D           
+Dhoififous    3114 D323698-8    Na Ni Po           103 Vp F9 II M7 V          
+Agzou         3115 E799640-4    Ni                 803 Vp F6 V M2 D           
+Aekfethoug    3116 C438320-8  G Lo Ni              404 Vp M8 V               
+Ruegtaelekh   3120 C591775-4                       424 Vp F1 V               
+Ghaae         3128 E759300-5    Lo Ni              603 Vp F9 V M4 D           
+Rakgaerz      3130 E988584-3    Ag Ni              812 Va F4 V               
+Zdi'chaf      3135 C000441-C    As Ni              405 Zh A6 V
+Dalkr         3136 DAA6114-8  Z Fl Lo Ni           304 Zh K4 V M2 D
+Iadriefria    3138 C342420-6  Z Ni Po              700 Zh M0 V
+Krianstabr    3140 D726634-7    Ni                 602 Zh M2 V M0 V
+Biezchodl     3201 B6A3210-A  Z Fl Lo Ni           500 Zh M8 V               
+Thiae         3212 D889774-2                       322 Vp F2 V M1 D           
+Dziradz       3217 C44456B-6    Ag Ni              302 Vp M0 V               
+Fakhuetsaeth  3220 B9B5100-9  G Fl Lo Ni           204 Vp M5 V               
+Khighugho     3225 B254523-8    Ag Ni              205 Vp F5 V               
+Kfaethugh     3231 E584645-5    Ag Ni Ri           310 Va M1 V
+Qranchava     3232 D896336-7    Lo Ni              810 Zh M4 V M5 D
+Eberish       3233 D78579A-5  Z Ag Ri           U  622 Zh K3 V
+Shombrie'prak 3235 B473025-B    Lo Ni              910 Zh M8 V M9 D
+Yiranz        3237 E300578-7    Ni Va              703 Zh M7 V G7 D
+Iepriats      3240 D886698-1  X Ag Ni Ri           303 Zh G5 V

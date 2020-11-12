@@ -1,0 +1,58 @@
+@SUB-SECTOR: Anshernieprlenzh SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0134 0236 0 0 13
+$0134 3134 -1 0 13
+$0140 3140 -1 0 13
+$0140 0439 0 0 13
+$0236 0436 0 0 13
+$0436 0437 0 0 13
+$0437 0738 0 0 13
+$0439 0738 0 0 13
+$0738 1038 1 0 13
+$0831 0530 0 -1 13
+$0831 0934 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Fliapplav     0131 C20088A-7    Na Va              603 Zh F9 V               
+Deifr         0132 B597774-9    Ag                 825 Zh F2 V F8 V M4 D       
+Satkintkant   0134 D788353-7  Z Lo Ni           A  836 Zh F5 V M6 D           
+Ietqlaz       0135 C511310-7    Ic Lo Ni           801 Zh M7 V               
+Tiodrsedlie   0138 X4207A8-7    De Na Po        R  202 Zh G2 V               
+Qrashiyaflam  0139 B210553-A    Ni                 122 Zh K3 V               
+Vazia         0139 E456259-8    Lo Ni              615 Zh G2 V               
+Tanjchiadda   0140 A675653-B    Ag Ni              803 Zh F7 V               
+Ziashovrchakr 0140 C66999A-B  Z Hi In              203 Zh F1 V               
+Zhafleam      0235 B433313-A    Lo Ni Po           813 Zh M5 V               
+Lontzda       0236 B320997-B  Z De Hi In Na Po     505 Zh M5 V M3 D           
+Kienzhafi     0237 D95A224-5    Lo Ni Wa           800 Zh F9 V               
+Ianchzarzh    0239 B866730-8    Ag                 408 Zh F2 V M2 D           
+Piaraqlsta    0334 B8A4231-B    Fl Lo Ni           602 Zh M8 V               
+Zdeshechenz   0338 E77A200-7    Lo Ni Wa        A  701 Zh K1 V               
+Vibnans       0339 C11068A-9    Na Ni           A  402 Zh M8 V               
+Ivlzhdenzh    0340 X691795-5                    R  600 Zh G2 V               
+Navivriensh   0431 C98A654-B    Ni Ri Wa           816 Zh G4 V M4 D           
+Yaiavl        0433 E000333-A    As Lo Ni           800 Zh F9 V M2 D           
+Ianzpazhcheql 0435 E9C5ACC-9    Fl Hi In        A  306 Zh F1 V M8 D F4 V       
+Kiprzanchpom  0436 A858547-A  Z Ag Ni              310 Zh F0 V M2 D           
+Iyenttint     0437 C969100-A  Z Lo Ni              400 Zh F2 V               
+Ieqrafrde     0439 A400443-C  Z Ni Va              714 Zh F1 II              
+Qloidaans     0440 E335143-6    Lo Ni              604 Zh M2 V               
+Tlinjitanj    0538 D656666-2    Ag Ni              304 Zh F7 V M7 V           
+Qravlaqrbazha 0539 B346777-7    Ag                 102 Zh F2 V               
+Tsantlitsiaj  0540 B847461-7    Ni                 500 Zh F4 V M3 D           
+Shtatli'      0632 D54469A-5    Ag Ni              702 Zh F8 V               
+Riapriedr     0635 EAE3A89-8    Fl Hi In           203 Zh F5 V               
+Ijstare       0637 B8A0798-8    De                 913 Zh G1 II              
+Rzhe          0731 D5526B7-6    Ni Po              602 Zh F4 V               
+Iezhoql       0733 E11048C-7    Ni                 403 Zh M8 V               
+Diliefidr     0738 A759253-E  X Lo Ni              704 Zh G3 V               
+Blianjpotsfie 0739 A528666-B    Ni                 703 Zh M2 V               
+Klabiettleja  0831 A420248-A  Z De Lo Ni Po        220 Zh M7 V               
+Zeshtient     0832 C310441-7    Ni                 708 Zh M4 V M6 D           
+Zieplbraz     0833 C434554-C    Ni                 714 Zh G2 V M0 D           
+Tlianz        0834 C445415-8    Ni                 304 Zh F7 V               
+Bapeenj       0835 C549788-5                       513 Zh F2 V M2 D           
+Sishtatjdekre 0838 B5A089B-8    De                 301 Zh F9 V

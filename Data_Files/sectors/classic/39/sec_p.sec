@@ -1,0 +1,40 @@
+@SUB-SECTOR:Iadriav SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ajevr         2531 BAC6521-9    Fl Ni              903 Zh M0 D
+Iansitl       2535 C451848-8    Po                 402 Zh K7 V
+Bialjetl      2631 B666520-A    Ag Ni              924 Zh G0 V
+Tliejta'      2632 A693416-A  X Ni                 202 Zh G0 V
+Iali          2633 A481487-C    Ni                 303 Zh K6 V
+Tliav         2637 B7A1789-9    Fl                 623 Zh K4 V
+Tsada         2640 B450433-9  Z De Ni Po           424 Zh A3 IV
+Tlanzmiechel  2731 C99A245-B  Z Lo Ni Wa           903 Zh F7 D
+Evdial        2732 C561569-9    Ni          S3     603 Zh M6 V M1 D
+A've          2735 A665545-C  Y Ag Ni              513 Zh M3 D
+Tlovibr       2736 D955851-3                S1     120 Zh M1 V M4 D
+Zdachne'      2737 D7B3310-8    Fl Lo Ni           415 Zh F7 III
+Bliejanzh     2738 E361669-3    Ni Ri              514 Zh M9 V
+Zdatsef Da    2739 B45478C-B  Z Ag          S3     320 Zh K1 V M2 V
+Debr          2740 C788666-7  Z Ag Ni Ri           202 Zh M2 V
+Pli'zhdans    2833 C976648-5    Ag Ni       S9  A  214 Zh G2 V M2 D
+Ketlvapr      2834 B9C59BB-C    Fl Hi       S7  A  103 Zh K4 IV M2 D
+A'rench       2837 C210200-A    Lo Ni              914 Zh K4 IV
+Rizhzde'o     2839 C59738A-8    Lo Ni              115 Zh M9 V
+Ta Iefyans    2931 A425AA5-E    Hi                 814 Zh M3 V
+Itlbadr       2935 X646000-0    Ba Lo Ni    S3  R  904 Zh K2 V M2 D
+Iadriav       2937 A748441-D  Z Ni Cp       S8     723 Zh F9 D M6 D
+Riaqshedi     2939 E763120-3    Lo Ni              425 Zh M8 V
+E'brinsh      3031 E774510-6    Ag Ni              502 Zh M6 V
+Zhdizant      3033 A959898-A  Z                    500 Zh G1 V
+Vidbrianch    3035 C000954-D    As Hi Na    S2  A  603 Zh F4 V M6 D
+Jirdafra      3132 B7B1527-B    Fl Ni              205 Zh A5 V
+Fanzpriash    3134 X610000-0    Ba Lo Ni        R  805 Zh M6 V
+Ienzhbria     3135 C130513-9  X De Ni Po    SA     904 Zh G1 IV M8 D
+Tloqe         3238 A778559-D  X Ag Ni       S9     903 Zh A4 V M4 D
+Edach         3240 E677653-5    Ag Ni              823 Zh M0 V

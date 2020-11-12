@@ -1,0 +1,49 @@
+@SUB-SECTOR:Echrets SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ashanedli     0121 E200433-7    Ni              A  702 Zh M3 V
+Tlrienz       0122 B544720-A  Z Ag          S5     211 Zh K5 V M1 V
+Afrapr        0123 B9B56AD-B  Z Fl Ni       SC     303 Zh M0 III M9 V
+Ietflatliabr  0124 A326657-D    Ni                 913 Zh M0 V
+Ashtsebr      0125 C539456-A  Z Ni                 312 Zh M7 V
+Te Chtalinj   0127 D687533-6  Z Ag Ni              214 Zh M0 III
+Abrsezh       0128 D100324-7    Lo Ni              312 Zh M4 V
+Kianch I'     0129 D8C0455-9    De Ni              804 Zh K3 V
+Dloradr       0223 B257789-9  Z Ag                 303 Zh M0 V
+Ieprodr       0224 B796000-A    Ba Lo Ni           404 Zh M1 V
+Tanshia       0225 B6758B7-A  Z             S6     104 Zh K9 V M0 D
+Qalo          0228 A677755-D  X Ag                 305 Zh F0 V
+Ekradr        0328 C58A557-A    Ni Wa       S1     503 Zh M6 V M6 D
+Yivazzdi      0421 B237201-B    Lo Ni              300 Zh F2 V
+O'viazhav     0423 A794510-C    Ag Ni       SA     704 Zh F9 V M7 D
+Aldiedria     0424 A202220-D    Ic Lo Ni Va S0     303 Zh M9 III M9 V
+Echrets       0426 A572335-D    Lo Ni Cp           913 Zh G8 II
+Idshozh       0430 E413521-7    Ic Ni       SE     313 Zh M5 V M1 D
+Itschtia      0521 A636AEF-E    Hi In              922 Zh M0 V
+Briej         0523 E778121-6    Lo Ni              321 Zh M7 V
+Vanie         0524 A1308CE-E  Z De Na Po    S9     724 Zh M9 V M6 D
+Shtizatl      0529 BA6A652-C    Ni Ri Wa           402 Zh M1 V
+Frant         0530 A1008B8-D  Z Na Va              802 Zh K7 II
+Oia           0622 C613532-A    Ic Ni           A  623 Zh M9 V
+Dla'zhdievl   0623 D40266B-7  Z Ic Na Ni Va        903 Zh G0 V
+Seblia        0624 C868300-8    Lo Ni              220 Zh M8 V
+E'ta          0627 B456645-B  Z Ag Ni              403 Zh M9 D
+Kia Inch      0628 B490464-A  Z De Ni              812 Zh K9 D
+Brali         0630 B85645A-C    Ni          SD     805 Zh K8 D M6 D
+Chtiepldia    0724 C581223-9    Lo Ni           A  400 Zh M0 V
+Plianzhikr    0726 A37399B-E  X Hi In       S9     824 Zh M9 V M7 D
+Brasiavr      0728 E537996-6    Hi In              903 Zh F4 V
+Eliensh       0729 A362886-B    Ni          S2     723 Zh F5 V M2 D
+Bazhdial      0730 E62A423-9    Ni Wa       S7     623 Zh M2 V M7 D
+Kiabla        0821 B87756A-B    Ag Ni       S1     214 Zh G0 V M1 D
+Enzhna        0823 A584843-C    Ri          S1     700 Zh M6 V M5 D
+Chozherans    0824 B8A27BC-A    Fl              A  803 Zh M8 V
+Shtelians     0825 C44659E-5    Ag Ni       S6     303 Zh M0 V M7 V
+Avizazash     0828 A482553-E  X Ni          SA     704 Zh M9 V G9 D
+Velshtovl     0830 D495264-6    Lo Ni       SB     204 Zh M8 V M4 D

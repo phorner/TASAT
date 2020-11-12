@@ -1,0 +1,48 @@
+@SUB-SECTOR:A'klo SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Astatl        0113 E435666-6    Ni                 410 Zh M4 V
+Tenji         0115 E231866-7    Na Po S8           800 Zh K7 V M4 V
+Vlievdiatl    0116 C784630-5    Ag Ni              904 Zh K6 V
+Driedach      0118 D8A6000-0  Z Ba Fl Ni Lo S3     904 Zh F3 V M2 D
+Tepiach       0212 C330352-C    De Lo Ni Po S3     203 Zh M0 V M7 D
+Arvrians      0217 BA9A599-D  Z Ni Wa       S9     813 Zh M3 V M1 V
+Nipriabl      0220 A110123-C    Lo Ni              710 Zh M1 V
+Sefr          0314 B474789-B  Z Ag                 410 Zh M8 V
+Rziad         0318 B749576-B  Z Ni                 202 Zh M5 D
+Klejtakriepl  0319 B338310-9  Z Lo Ni              600 Zh M0 V
+A'klo         0320 A000400-E    As Ni       S2     432 Zh G2 IV M0 V
+Kizdant       0412 C20058B-A    Ni Va       SD     423 Zh M5 V M6 D
+Zhdavrmazh    0414 A647777-B  Z Ag          SA     120 Zh G5 V M1 D
+Jantsiaravr   0415 C685301-9    Lo Ni              324 Zh M8 D
+Diakra        0416 C9C5662-9    Fl Ni              705 Zh G2 II
+Eshil         0418 A887898-C  Y Ri                 804 Zh M2 V
+Priat         0419 C26078A-6  Z De Ri              324 Zh M2 D
+Staliaql      0420 B76A615-7  Z Ni Wa              404 Zh M8 V
+Ie'ia         0514 A200A87-E  Z Hi Na Va           714 Zh M7 V
+Yienze        0517 B577576-6  Z Ag Ni              520 Zh M2 V
+Ontsiiaz      0518 B6269CH-B  Z Hi In              714 Zh M8 V
+Te Avri       0613 A675568-D  Z Ag Ni       SA     904 Zh K0 V M2 V
+Eqiatl        0614 A252343-D    Lo Ni Po Cp        603 Zh M3 D
+Injvianch     0615 B384772-7    Ag Ri              203 Zh A2 V
+Odepl         0616 E653540-3    Ni Po              525 Zh M1 V
+Ielzantsi     0617 B454652-B    Ag Ni              100 Zh F2 V
+Chtevlia      0618 B53677B-B                       600 Zh M7 V
+Azrdr         0619 B120640-A  Z De Na Ni Po S7     801 Zh M3 V M1 D
+Ierits        0711 D472665-5    Ni          S1     404 Zh M5 V M7 D
+Tieiats       0714 B549576-8  Z Ni          SA     613 Zh K3 V M7 D
+Plevyatl      0716 C766300-7    Lo Ni       S0  A  213 Zh M5 V M3 D
+Nazhchtiedl   0719 B878330-6    Lo Ni              202 Zh M1 V
+Jdiadrtlane   0720 C110100-9    Lo Ni              600 Zh F6 V
+Jafranjzdam   0812 B797987-7  Z In          S8     803 Zh F1 V M4 V
+Kidriaqrezia  0813 A323533-A    Ni Po       S8     605 Zh F7 IV M6 D
+Dekjdatl      0814 B5336BE-B    Na Ni Po           914 Zh M3 V
+Ashnazhenikl  0815 C443578-9    Ni Po              700 Zh M0 V
+Int           0816 A69A433-A    Ni Wa       S3A    620 Zh M2 V M9 D M1 D
+Jedlianz      0818 C445458-8    Ni                 123 Zh M6 V

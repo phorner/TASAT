@@ -1,0 +1,56 @@
+@SUB-SECTOR: Iavdeiev SECTOR: Usingou
+#
+# Trade routes within the subsector
+$1834 1634 -1 0 13
+$1834 1934 0 0 13
+$1835 1937 0 0 13
+$1837 1839 0 0 13
+$1839 1701 0 1 13
+$1934 2033 0 0 13
+$1937 1837 0 0 13
+$2033 1835 0 0 13
+$2033 2135 0 0 13
+$2033 2331 0 0 13
+$2135 2237 0 0 13
+$2237 2636 1 0 13
+$2331 2028 0 -1 13
+$2237 2439 0 0 13
+$2439 2202 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Finzhdlrvl    1731 D523562-7    Ni Po              105 Zh M1 V
+Ier Lal       1734 A989434-C    Ni Cp              202 Zh F6 V M6 D
+Ail Ashe      1834 D110277-8  Z Lo Ni              302 Zh M4 V
+Kinshklianzh  1835 C67945A-7  Z Ni                 112 Zh M8 V M3 V
+Jdatlo        1836 C200657-A    Na Ni Va           204 Zh G4 V
+Ezyrvr        1837 A353830-8  Z Po                 613 Zh F2 V
+Dlinjrons     1839 C7787BE-6  Z Ag              A  723 Zh K8 V
+Riv           1933 E240488-7    De Ni Po           202 Zh G7 V
+Siplyievo     1934 D671521-5  Z Ni                 801 Zh M4 V
+Tsoniab       1935 D000310-7    As Lo Ni           804 Zh M0 V
+Zheianj       1937 C6578BE-3  Z                    710 Zh M0 V
+Kafivr        2031 E4846BA-2    Ag Ni              104 Zh G3 V
+Shiansar      2033 A210201-C  Z Lo Ni              804 Zh M8 V
+Yainzh        2034 B491340-A    Lo Ni              811 Zh F6 V M4 D
+Rljek         2131 C324563-B    Ni                 324 Zh M9 V
+Onzaqle       2132 B000458-B    As Ni              914 Zh M6 V M7 D
+Ialiel        2133 B7A1965-C    Fl Hi              610 Zh M2 V M7 D
+Kef A'        2134 B668200-8    Lo Ni              624 Zh M3 V
+Achiatlie     2135 A7A0635-D  Z De Ni              514 Zh F1 V M7 V M5 D
+Oz Ie'bria    2137 D799210-5    Lo Ni           A  504 Zh M2 V
+Dlanzhek      2232 C220676-7    De Na Ni Po        603 Zh M2 V
+Siara         2236 A436434-E    Ni                 321 Zh K1 V
+Tlia'diebl    2237 C223644-7  X Na Ni Po           304 Zh M2 V M5 V
+Fitl          2331 A7A2AA7-E  Z Fl Hi              424 Zh M9 V M3 V
+Zhiztidr      2333 B344657-7    Ag Ni              810 Zh K4 V
+Te' Jda       2336 E471000-0    Ba Ni              000 Zh K1 V M5 D
+Iavenchdal    2337 E878664-5    Ag Ni           A  603 Zh M2 V
+Qrantseqr     2340 E567400-7    Ni                 614 Zh M4 V
+Rats          2431 C89A542-7    Ni Wa              105 Zh M9 V
+A'ie Jelde    2432 E696596-5    Ag Ni              500 Zh M4 V
+Kebiach       2434 A210430-D    Ni                 205 Zh M4 V
+Yiflont       2435 E5847AD-1    Ag                 324 Zh M8 V
+Yoprchtianch  2436 D797564-5    Ag Ni              902 Zh K8 V
+Odlse Dabr    2439 C300101-C  X Lo Ni              123 Zh M1 V M7 D

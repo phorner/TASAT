@@ -1,0 +1,55 @@
+@SUB-SECTOR: Keditlye  SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0916 0715 -1 0 13
+$0916 0918 0 0 13
+$0916 1015 0 0 13
+$0918 0617 -1 0 13
+$0918 0919 0 0 13
+$0918 1118 0 0 13
+$0919 1020 0 0 13
+$1015 1315 0 0 13
+$1020 1123 0 1 13
+$1118 1419 0 0 13
+$1315 1514 0 0 13
+$1411 1511 0 0 13
+$1419 1519 0 0 13
+$1511 1408 0 -1 13
+$1514 1411 0 0 13
+$1519 1522 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Dlaeie        0911 C6A07BA-8    De                 222 Zh M5 V               
+Aekoblprebr   0912 B8B5555-9    Fl Ni              803 Zh M4 V               
+Flevklrtl     0916 D9B288A-8  Z Fl                 315 Zh M8 V M1 D           
+Zhdidnianj    0918 A353669-A  Y Ag Ni Po           202 Zh F1 V               
+Nadrie        0919 A543631-B  Z Ag Ni Po           600 Zh F8 V               
+Shrchaqr      1014 B260530-C    De Ni              717 Zh F7 V M6 D           
+Ichedrchins   1015 C759441-9  Z Ni                 612 Zh F5 V               
+Pinja         1016 E663324-7    Lo Ni              913 Zh G1 V M7 D           
+Vlrtlo        1019 E140563-5    De Ni Po           503 Zh G8 V               
+Fiachi'chr    1020 B666697-8  Z Ag Ni Ri           525 Zh K3 V M1 D           
+Iejshtalzdapl 1112 E778200-6    Lo Ni              210 Zh G5 V               
+Inzserav      1113 B210686-8    Na Ni              515 Zh K6 V M5 D M6 V M4 D   
+Shtadrchteba  1115 D230545-6    De Ni Po           516 Zh M4 V M3 D           
+Zanchqlaztsi  1117 B66637A-7    Lo Ni              610 Zh F0 V               
+Pifrqliteql   1118 D311764-8  Z Ic Na              903 Zh M2 V               
+Ishdlefafr    1119 B410200-C    Lo Ni              205 Zh M6 V               
+Tlibltlechja  1313 C336465-7    Ni                 613 Zh F3 V M3 D           
+Fliestezhdibl 1314 C453695-6    Ag Ni Po           421 Zh F9 V               
+Kledlvlipl    1315 C242578-9  Z Ni Po              813 Zh F6 V               
+Zhoiansdrant  1316 AA76766-C    Ag                 103 Zh F5 V               
+Ezdlashfleq   1317 E665332-6    Lo Ni              804 Zh F3 V               
+Tsiplzdarbaq  1318 C658987-7    Hi In              813 Zh F6 V               
+Sefliezedl    1319 B110336-9    Lo Ni              800 Zh M5 V               
+Chazshteyia   1411 A686554-C  Z Ag Ni              703 Zh G0 V M1 D           
+Diafriapl     1412 C335524-7    Ni                 903 Zh G2 V               
+Chtianshkrets 1413 D7A3210-8    Fl Lo Ni           436 Zh F6 V M1 D           
+Ezhpliqel     1419 B662314-6  Z Lo Ni              701 Zh F9 V M1 D           
+Datliatl      1511 B686350-7  Z Lo Ni           A  900 Zh F1 V               
+Afrzhal       1512 A580000-0    Ba De Lo Ni        003 Zh F5 V M3 D           
+Tlifiemdrezh  1514 B543656-6  Z Ag Ni Po           703 Zh F6 V M3 D           
+Kievritlipkla 1519 C6329CB-6  Z Hi In Na Po        601 Zh G4 V               
+Dezitlzhdinzh 1520 C575756-9    Ag                 902 Zh K4 V

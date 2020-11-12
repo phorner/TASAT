@@ -1,0 +1,31 @@
+@SUB-SECTOR: Etszdili SECTOR: Usingou
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Dovre'        1711 EAB7575-8    Fl Ni              702 Zh G6 V M7 D           
+Vriaozbench   1713 A323253-E    Lo Ni Po           103 Zh M4 V               
+Yibrjderiebl  1714 E77A000-5    Ba Lo Ni Wa        706 Zh F5 V M2 D           
+Iedlsazo      1719 C110000-7    Ba Lo Ni           500 Zh M7 V               
+Khoullghukh   1917 B539547-B  G Ni                 622 Va M0 III             
+Eiao          1920 A300563-A  H Ni Va              605 Va M8 V M8 D           
+Ighksigoug    2011 E8B596A-9  C Fl Hi In           703 Va F5 V M3 D           
+Vouthourroel  2014 A765650-9    Ag Ni Ri           114 Vp G6 V               
+Vaekfue       2020 D267688-3  G Ag Ni              702 Va F7 V               
+Uvethodhaeng  2114 C561496-9    Ni                 800 Vp F9 V M6 D           
+Ksuedhei      2212 C687576-9    Ag Ni              512 Vp F0 V               
+Vokorkhoereg  2213 C87A7CC-4  H Wa                 325 Vp F2 V M0 D           
+Aekhue        2214 B78A579-A  G Ni Wa              603 Vp M6 V M4 D           
+Kfoezangsaeng 2216 EAD2546-2    Fl Ni              922 Vp M3 V M1 D           
+Aetsoghue     2218 B557320-A    Lo Ni              803 Vp F8 VI              
+Llivusae      2220 B4679AA-7    Hi In              307 Vp F2 V M7 D M6 D       
+Khekhgzakgvog 2315 B526A76-F  G Hi In              200 Vp F2 V               
+Zoerroel      2316 E533448-3    Ni Po              503 Vp M8 V               
+Urzuegksaekh  2317 B96AA75-E    Hi In Wa           114 Vp K1 V               
+Gvuekuer      2319 E889546-6  C Ni                 603 Vp F1 V M5 D           
+Zegagh        2320 B236779-C                       422 Vp M0 V M7 D           
+Ksoeonogh     2413 D4317AC-5    Na Po              100 Vp A3 V               
+Aekakh        2415 A512300-D  C Ic Lo Ni           405 Vp M5 V M4 VI          
+Vegnon        2416 A436664-D  G Ni                 121 Vp M4 V M7 D G9 V

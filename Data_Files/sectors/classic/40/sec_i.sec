@@ -1,0 +1,50 @@
+@SUB-SECTOR: Anshnieprlenzh SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0128 3128 -1 0 13
+$0128 0227 0 0 13
+$0222 0324 0 0 13
+$0222 0520 0 -1 13
+$0227 0324 0 0 13
+$0227 0529 0 0 13
+$0324 0723 0 0 13
+$0529 0530 0 0 13
+$0529 0628 0 0 13
+$0530 0831 0 1 13
+$0628 0828 0 0 13
+$0723 0923 1 0 13
+$0828 1029 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Shipebr       0125 X32369A-7    Na Ni Po        R  324 Zh M1 V M6 D           
+Iefriaqrbrefl 0127 B758655-6    Ag Ni              604 Zh G6 V               
+O'staz        0128 A000524-E  Z As Ni              521 Zh M0 V M4 D           
+Iense         0129 C371679-9    Ni                 414 Zh G8 V               
+Iashiedr      0221 B878857-7                       803 Zh F1 V M1 D           
+Apllestenzh   0222 A223314-C  Z Lo Ni Po           222 Zh M2 II              
+Rqliachi      0226 C4105A9-7    Ni                 802 Zh M6 V               
+Tsiprierfie   0227 A510437-B  Z Ni                 901 Zh M0 V M1 D           
+Tlaiemveqchta 0229 E535466-6    Ni                 124 Zh F4 V M2 D           
+Fitlibrepl    0321 B526630-8    Ni                 502 Zh G1 V M0 V           
+Ieziefl       0324 B000000-7  X As Ba Lo Ni        805 Zh F1 V M7 D           
+Tliefllentapr 0325 B564632-9    Ag Ni              314 Zh F7 V               
+Dentszimar    0327 C887784-3    Ag Ri              414 Zh F9 V M0 D           
+Defridlie     0329 X595330-5    Lo Ni           R  102 Zh F8 V M8 D           
+Stieipr       0422 C450565-9    De Ni Po           912 Zh F2 V               
+Brrnzens      0429 B100359-D    Lo Ni Va           102 Zh M3 V M3 D           
+Chtezvezfrie  0430 B150542-9    De Ni Po           103 Zh F1 V               
+Ilieflie      0527 C52668A-7    Ni                 700 Zh M0 III             
+Piepievr      0529 C5769CC-8  Z Hi In           A  313 Zh F7 V               
+Ianzhvleia    0530 C442316-8  Z Lo Ni Po           313 Zh G2 V               
+Zhdazhaq      0622 X97A765-5    Wa              R  515 Zh M7 V M3 D           
+Fabred        0628 A341779-9  Z Po                 205 Zh F6 V               
+Draklteshse   0629 B348884-B                       215 Zh M8 V               
+Freqsteblmedr 0630 B241644-A    Ni Po              122 Zh F0 V               
+O'branzdli    0723 A52778D-8  Z                    302 Zh M3 V               
+Idzhdaiash    0726 C400338-B    Lo Ni Va           201 Zh M5 V               
+Miablstaprez  0822 X774775-5    Ag              R  800 Zh F0 V               
+Epfintsez     0826 X32088C-7    De Na Po        R  403 Zh F8 V               
+Brezaiafl     0828 B55547B-7  Z Ni              A  602 Zh F3 V               
+Vrflrinanshya 0829 C435689-6    Ni              A  400 Zh F2 IV

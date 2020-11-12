@@ -1,0 +1,4 @@
+Tienspevnekr - Credits
+from compiled HIWG files.  Apparently by James "Farstar" Kundert
+Created from sectorfile using sec2gal at 12:35 7/8-2001.
+sec2gal by BeRKA http://zho.berka.com/

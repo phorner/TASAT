@@ -1,0 +1,55 @@
+@SUB-SECTOR: Zhdensh SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0119 3119 -1 0 13
+$0119 0419 0 0 13
+$0316 3116 -1 0 13
+$0316 0617 0 0 13
+$0412 0110 0 -1 13
+$0412 0511 0 0 13
+$0412 0514 0 0 13
+$0419 0519 0 0 13
+$0511 0809 0 -1 13
+$0514 0714 0 0 13
+$0519 0520 0 0 13
+$0519 0617 0 0 13
+$0520 0222 0 1 13
+$0617 0918 1 0 13
+$0714 0715 0 0 13
+$0715 0916 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Frezhietsed   0114 C783663-5    Ag Ni Ri        A  412 Zh G5 V               
+Nivrdiatia    0115 C789410-6    Ni              A  904 Zh F3 V               
+Qiejiklni     0116 E774427-5    Ni                 701 Zh F8 V               
+Dlashte       0119 C543510-8  Z Ag Ni Po           802 Zh F6 V M1 D           
+Jinsli        0211 D456541-7    Ag Ni              522 Zh F4 V               
+Chivtsrm      0212 D201100-A    Ic Lo Ni Va        110 Zh M1 V               
+Veqde         0216 X477855-5                    R  205 Zh K9 V M6 D           
+Zazher        0218 B886352-A    Lo Ni              403 Zh F3 V M6 D           
+Dratldieve    0219 C10038C-C    Lo Ni Va           429 Zh G3 V M8 D M7 D       
+Iepzhda       0220 B51089A-8    Na                 400 Zh F6 V               
+Yedrvrakl     0312 E210788-7    Na                 715 Zh K9 V M6 V           
+Zhdafldefrash 0315 E573744-5    Ag                 404 Zh K8 V               
+Anchiefl      0316 A776400-C  Z Ni                 400 Zh F4 V               
+Iqreiel       0317 C581542-7    Ni                 932 Zh K3 V M2 D           
+Chtostit      0319 D565433-7    Ni                 700 Zh F0 V M6 D           
+Ievzhdil      0412 B436220-C  Z Lo Ni              100 Zh M0 V M1 D           
+Tladqle       0414 C67A500-C    Ni Wa              513 Zh F7 V M1 V M7 D       
+Piaflstodlezh 0416 C572225-9    Lo Ni              300 Zh M3 V               
+Klachtiapl    0419 B335588-8  Z Ni              A  203 Zh G1 IV M0 V          
+Ejoshcheakl   0511 B434424-B  X Ni                 215 Zh F8 V M1 D           
+Zhijshezhie   0514 C335340-9  Z Lo Ni              521 Zh F1 IV              
+Ridadrjiach   0516 C160635-5    De Ni              223 Zh F4 V M0 D           
+Kiqkrrbish    0518 C160777-A    De Ri              114 Zh F1 V M3 D           
+Dlantszdiqref 0519 B573344-A  Z Lo Ni              804 Zh F7 V               
+Kazhdet       0520 B737500-A  Z Ni                 404 Zh M6 V               
+Banzstotl     0611 C7A7663-8    Fl Ni              900 Zh F8 V               
+Miapltlem     0613 A243349-D    Lo Ni Po           811 Zh F6 V M3 D           
+Sietlzdie'    0617 B300442-C  Z Ni Va              713 Zh K5 V M5 D           
+Oprrizhedl    0712 A6455A9-8    Ag Ni              605 Zh F2 V M1 D           
+Siaabzhi      0714 B565869-9  Z Ri                 605 Zh F7 V               
+Chechedrsta   0715 C501AB6-C  Z Hi Ic Na Va        500 Zh F1 V               
+Tlientsatl    0813 D440538-7    De Ni Po           611 Zh F9 V

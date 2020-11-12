@@ -1,0 +1,54 @@
+@SUB-SECTOR: Eshiensdiazh  SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0104 0106 0 0 13
+$0106 3207 -1 0 13
+$0110 3207 -1 0 13
+$0110 0412 0 1 13
+$0403 0603 0 0 13
+$0403 0404 0 0 13
+$0404 0104 0 0 13
+$0603 0702 0 0 13
+$0702 0739 0 -1 13
+$0809 0511 0 1 13
+$0809 1207 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Jadljetefl    0101 B200425-B    Ni Va              310 Zh F5 V               
+Tsianzenszhdo 0103 X468732-2    Ag              R  205 Zh G8 V               
+Ienazizhdol   0104 A534743-9  Z                    902 Zh M3 V               
+Iantspridlepl 0106 B535840-9  Z                    223 Zh G3 V               
+Chtaleklrrkl  0107 B552635-9    Ni Po              304 Zh K9 V M3 D           
+Jaitnab       0109 A343475-9    Ni Po              703 Zh F0 V               
+Tlaplezhprel  0110 B4377B6-7  Z                    303 Zh K4 IV              
+Plialzeardaqr 0204 C3106B9-7    Na Ni              413 Zh K4 V               
+Ipliadl       0205 E441ACD-8    Hi In Po           203 Zh F0 V M2 D           
+Zhdilqlia     0207 B656100-8    Lo Ni              703 Zh F2 V               
+Senzprerez    0208 B7A4689-8    Fl Ni           A  900 Zh M4 III             
+Blichshe      0301 C201776-8    Ic Na Va           704 Zh M7 V               
+Drovrbro'     0304 B879665-6    Ni                 904 Zh F2 V               
+Siatlsidez    0310 E0007AB-7    As Na              702 Zh M6 V               
+Riezive       0401 C899514-8    Ni                 902 Zh M1 V               
+Ifsenjasiakr  0403 A677532-D  Z Ag Ni              205 Zh F3 V M2 D           
+Tlishkriazdrt 0404 C445867-9  Z                    314 Zh F0 V               
+Ababl         0407 D593524-5    Ag Ni              712 Zh K3 V M2 D           
+Jrnshflansh   0409 C381675-7    Ni Ri              203 Zh M7 V M3 D           
+Tsipbipl      0410 C9A4720-8    Fl                 900 Zh M5 V               
+Rache         0501 B451799-9    Po                 206 Zh F5 V M4 D           
+Iafrtlieets   0506 D554447-7    Ni              A  503 Zh F1 V               
+Afltlibr      0602 C310645-7    Na Ni              312 Zh M8 V               
+Steshtiblinsh 0603 D450364-4  Z De Lo Ni Po        400 Zh F3 V               
+Devlfreliesh  0701 A529754-E                       903 Zh M7 V               
+Vrittli       0702 A100214-E  Z Lo Ni Va           402 Zh G6 V               
+Eplob         0704 B328533-D    Ni                 805 Zh G1 V M6 D           
+Diaprniedrsa  0705 A542221-C    Lo Ni Po           634 Zh F7 V M8 D           
+Chtatsplierol 0717 A749364-E    Lo Ni              301 Zh F9 V               
+Vazhe         0801 C100100-C    Lo Ni Va           804 Zh M0 V               
+Ajdrnch       0802 A574687-C    Ag Ni              203 Zh F7 V               
+Fralliabl     0803 B664579-B    Ag Ni              302 Zh F2 V               
+Iazniench     0804 E5868BC-2                       108 Zh K2 V M8 D           
+Idrzhdrbepr   0806 E664664-2    Ag Ni Ri           913 Zh F5 V               
+Sheklzdiibr   0809 B585AFD-9  Z Hi In              415 Zh G3 V               
+Fitsetl       0810 C3008CD-9    Na Va              412 Zh F0 V

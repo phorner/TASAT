@@ -1,0 +1,25 @@
+@SUB-SECTOR: Ianshepl SECTOR: Usingou
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Retskalluekh  2623 A485655-8    Ag Ni Ri           325 Vp M6 VI M8 D          
+Gigghuerra    2524 C5A4596-3  C Fl Ni              712 Vp K3 IV M5 VI         
+Vizanuelir    2924 C885244-3  H Lo Ni              505 Vp F5 V M2 D           
+Ghadeg        2925 A533457-A    Ni Po              313 Vp M3 V M3 D           
+Khighugho     3225 B254523-8    Ag Ni              205 Vp F5 V               
+Alloers       2525 B444789-6    Ag                 102 Vp F7 V               
+Ugul          2825 C875978-9  G Hi In              622 Vp F9 V               
+Khoezoun      2626 X651785-0    Po              R  311 Vp F3 V               
+Nitsaeller    2927 A5A0410-9  G De Ni              314 Vp K0 V               
+Agvalae       2827 A77A596-8  G Ni Wa              312 Vp F9 V               
+Oekhkuk       3027 E331512-5    Ni Po              404 Vp G7 V               
+Ksukaengkerrg 2528 C626675-6  G Ni                 204 Vp M0 III M6 V         
+Ghaae         3128 E759300-5    Lo Ni              603 Vp F9 V M4 D           
+Kfinegh       2929 A100245-B    Lo Ni Va           203 Va M4 D M3 D           
+Ghighorran    2629 E444464-2    Ni                 400 Va F1 V M3 D           
+Noentsazuek   3030 C526100-9    Lo Ni              901 Va M3 V               
+Karsrrukksoks 2830 E73A544-9    Ni Wa              402 Va K9 V               
+Rakgaerz      3130 E988584-3    Ag Ni              812 Va F4 V

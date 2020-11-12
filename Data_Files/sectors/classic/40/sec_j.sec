@@ -1,0 +1,53 @@
+@SUB-SECTOR:Dlazdiaz Shtiaklbo SECTOR: Usingou
+#
+# Trade routes within the subsector
+$0923 0723 -1 0 13
+$0923 0924 0 0 13
+$0924 1123 0 0 13
+$1029 0828 -1 0 13
+$1029 1430 0 0 13
+$1123 1020 0 -1 13
+$1430 1829 1 0 13
+$1522 1519 0 -1 13
+$1522 1526 0 0 13
+$1526 1726 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Naqibkla      0921 B8A0437-8    De Ni              314 Zh F3 IV M1 D          
+Pieshqar      0923 A6B4576-C  Z Fl Ni              512 Zh K7 V M1 D M0 III     
+Friansklaiach 0924 C572520-5  Z Ni                 110 Zh F1 V               
+Kloshfriear   0929 C130240-9    De Lo Ni Po        704 Zh M5 V M0 D           
+Flanstsie     1021 E2409A9-8    De Hi In Po        300 Zh F5 V M3 D           
+Sienzchie     1022 A8969BE-A    Hi In              603 Zh G2 V               
+Nanjechchtaeq 1024 D444112-5    Lo Ni              210 Zh F8 V M6 D           
+Bribrzhaldloq 1026 C130466-B    De Ni Po           434 Zh F2 V               
+Bemnamezh     1028 B544977-9    Hi In              902 Zh F4 V               
+Odrshabrviad  1029 B665584-6  X Ag Ni              912 Zh F8 V M2 D           
+Fradlzhe      1030 C1208AE-8    De Na Po           313 Zh F7 V               
+Sri           1121 BA8A544-B    Ni Wa              200 Zh F9 V               
+Zhiezhveebl   1123 D000242-7  Z As Lo Ni           917 Zh M4 V M7 D           
+Shtadre'ianch 1126 E65877A-4    Ag                 305 Zh F0 V F3 V           
+Iapltlepedr   1127 C624534-9    Ni              A  300 Zh M1 V               
+Ieklstiav     1128 E427746-7                       300 Zh M2 V               
+Shenchonchenz 1129 D9587A8-1    Ag                 800 Zh F7 V               
+Iensheqr      1229 E100845-8    Na Va              514 Zh F7 V M1 D           
+Idlple        1230 C522659-A    Na Ni Po           710 Zh M2 V               
+Etsamdap      1322 C38489A-8    Ri                 504 Zh F9 V M0 D           
+Priafevajal   1323 B260642-6    De Ni Ri           404 Zh G1 V               
+Qleprieir     1325 B8B8569-9    Fl Ni              903 Zh F6 IV M6 V          
+Batlpat       1326 A6859EE-B    Hi In              310 Zh F2 V               
+Srdrqlaf      1329 E556544-7    Ag Ni              104 Zh F2 V               
+Ebamplench    1422 C7A2678-8    Fl Ni              203 Zh G7 V M5 D           
+Eqklrbbiens   1425 A7B3261-D    Fl Lo Ni           101 Zh M2 V               
+Chtenzhyofre  1427 B100667-B    Na Ni Va           400 Zh M2 V               
+Adrzhaziaql   1430 A585555-C  Z Ag Ni              912 Zh F7 V M1 D           
+Zhdokrbsiej   1522 B54887C-7  Z                    310 Zh F7 V M2 D           
+Flostiej      1525 B332500-E    Ni Po           A  314 Zh M0 V M4 D           
+Bieiazhanz    1526 A552942-A  Z Hi In Po           802 Zh F4 V               
+Iavlia        1529 C665536-8    Ag Ni              401 Zh F2 V               
+Fevlpaieen    1621 A786774-8    Ag Ri              611 Zh F8 V               
+Iqrchiipl     1625 E9569A5-4    Hi In              703 Zh F1 V               
+Zdiebieqdlaz  1626 C97A76A-A    Wa                 603 Zh F6 V M8 D           
+Friebeblinz   1629 X402563-7    Ic Ni Va        R  401 Zh K0 V

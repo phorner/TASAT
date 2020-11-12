@@ -1,0 +1,46 @@
+@SUB-SECTOR:Neqloch SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tsodr         0931 BA97544-B    Ag Ni              500 Zh M4 V
+Klidlyi'ech   0932 A400421-E    Ni          S2     923 Zh M8 V M4 D
+Fiat          0933 D86A454-7  Z Ni Wa       S8     202 Zh M6 V M9 D
+Bavra         0934 D534524-6    Ni          S8     801 Zh G2 V M6 D
+Zhanjtlia     0935 A677976-D    Hi In       S3     310 Zh M3 V M5 D
+Enche         0938 C534565-A    Ni          S2     420 Zh M8 V M3 V
+Bezzhdon      1033 D348878-5  Z                    620 Zh K4 V
+Edsiabr       1034 C431238-7  Z Lo Ni Po        A  603 Zh M0 D
+Jdienzhaqze   1035 B552889-9  Z Po                 204 Zh M1 V
+Azachan       1037 B243568-7    Ni Po       S0     605 Zh F4 V M3 D
+Dabra         1038 AAC366A-A  Z Fl Ni              702 Zh M0 V
+Tleqrish      1040 C235634-7    Ni          S7     603 Zh M5 V M7 D
+Tsivri        1132 C300100-7    Lo Ni Va           620 Zh M4 V
+Irse' A'      1133 C464466-9  Z Ni                 600 Zh M7 V
+Zhadlezh      1135 X663AC8-3    Hi              R  902 Zh G5 V
+Shatia        1137 C000348-A    As Lo Ni           305 Zh M6 V
+Jazh          1232 B977662-8    Ag Ni              822 Zh M0 V
+Tleqzo        1234 A6119BG-B    Hi Ic Na    S9     224 Zh M3 V M2 D
+Dlalen        1235 B512642-B    Ic Na Ni    S0     102 Zh M7 V M6 D
+Kiant         1238 A774777-A    Ag          S3     504 Zh M8 V M3 D
+Abrierniash   1239 D230A84-C    De Hi In Na Po  A  302 Zh F0 III
+Etsdliash     1335 E787355-4    Lo Ni              400 Zh M4 V
+Bredrzdiel    1337 A6347CB-B  Z             S3     303 Zh K4 V M9 D
+Prenstla      1338 C449698-7    Ni              A  903 Zh K8 V
+Rvish         1340 C847102-6  Z Lo Ni              610 Zh M9 V
+Jdiatlavr     1431 D616677-7    Ic Ni              810 Zh M0 V
+Ae'lio        1432 B635437-C    Ni                 520 Zh F3 II
+Neqloch       1433 B576401-C  Z Ni Cp              405 Zh F2 IV
+Ziaksebr      1434 A8A6200-E  Z Fl Lo Ni    S2     503 Zh M1 V M6 D
+Ratschevek    1436 A000775-D    As Na              910 Zh G8 IV
+Na Friezhi    1438 A510345-B    Lo Ni              523 Zh M5 V
+Ezhiem        1531 B783666-9  X Ni Ri              515 Zh G5 V
+Kia'zabri     1533 D10066B-7    Na Ni       S2     110 Zh M8 V M9 D
+Zhdieshdi     1534 A413000-A    Ba Ic Lo Ni SC     902 Zh F5 IV M1 V
+Ash           1632 E675410-5    Ni          S0     801 Zh M2 V M5 D
+Deldrifl      1634 B000A78-D    As Hi Na    SB     714 Zh M7 III M4 D
+Tlatidranch   1636 E411523-7    Ic Ni              503 Zh F2 II

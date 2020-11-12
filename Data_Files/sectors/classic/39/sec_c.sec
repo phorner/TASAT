@@ -1,0 +1,42 @@
+@SUB-SECTOR:Eaflia  SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zhdashi       1704 C9A6101-B    Fl Lo Ni           903 Zh M1 V
+Afli'inint    1706 A547777-C  Z Ag                 402 Zh F6 D
+Viantsedr     1708 C2009CC-A    Hi Na Va    S9  A  823 Zh K6 D M8 D
+Melpia        1709 E673100-5    Lo Ni              701 Zh M1 V
+Azzhdof       1801 A99A467-E  Z Ni Wa              504 Zh G0 V
+Nalni'ie      1804 E444552-5    Ag Ni       S3     803 Zh M0 D M4 D
+Fliqr         1805 E8D5522-4    Fl Ni       SA     303 Zh M4 V M7 V
+Retsshienj    1806 X797000-0    Ba Lo Ni    S2  R  400 Zh M0 D M6 D
+Zhiltlanz     1807 E320234-7  X De Lo Ni Po S1  A  701 Zh F2 V M3 D
+Yiavree       1902 D6A4000-0  Z Ba Fl Lo Ni S9     404 Zh M8 V M2 D
+Sivliezh      1904 E000655-A    As Na Ni           814 Zh F4 V
+Vrietsshafens 1905 D45369B-4    Ni Po              923 Zh M9 III
+Izhniach      1906 B883645-9    Ni Ri       SF1    604 Zh M9 V M6 V M4 D
+Kiear         2002 E462222-5    Lo Ni       SD     804 Zh M3 V M9 V
+Jdalifensh    2003 B354100-C  X Lo Ni              423 Zh F4 V
+Vlansbedl     2101 C400346-B    Lo Ni Va    S3  A  803 Zh M2 V M2 D
+Chtokra       2103 B10058A-A    Ni Va       S1     425 Zh G9 IV M3 V
+Jdiancha      2105 B510334-7    Lo Ni       S0     200 Zh M5 V M0 V
+Zhiv          2107 XAD4AFE-4    Fl Hi           R  203 Zh A4 V
+Inteianzh     2109 B89A9CD-B    Hi Wa       S7     910 Zh M4 V K3 D
+Zhdiafebr     2110 C67A400-8    Ni Wa       S7     404 Zh G1 V M4 D
+Ie'jdom       2201 D7378AE-6                    A  112 Zh M1 V
+She'atadl     2205 A548300-D  Z Lo Ni Cp           600 Zh M4 V
+Eaflia        2207 A665778-B  Z Ag Ri       S2     404 Zh M2 V K9 D
+Stiansaibr    2208 B140643-C    De Ni Po    SA     402 Zh M3 V M3 V
+Dlie          2301 B755535-8    Ag Ni              104 Zh M4 V
+Azhierebr     2302 A674946-E  Z Hi In              903 Zh G4 V
+Dlens         2303 B385776-8    Ag Ri              922 Zh M4 V
+Edlia         2307 C546201-8    Lo Ni           A  300 Zh M2 V
+Krich         2309 E733443-6    Ni Po              505 Zh K8 V
+Yepietl       2310 B542420-8  Z Ni Po       S2     312 Zh M3 D M3 D
+Adriadr       2402 E9A3000-0    Ba Fl Lo Ni        903 Zh M4 V
+Salzdi        2410 A766300-8    Lo Ni              104 Zh K3 V

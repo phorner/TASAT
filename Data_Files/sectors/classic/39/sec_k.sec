@@ -1,0 +1,49 @@
+@SUB-SECTOR:Jianjshte SECTOR:Tienspevnekr
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Azdezvropr    1721 C363683-7    Ni Ri       S3     515 Zh M3 V M4 D
+Oprqent       1722 B230256-A  Z De Lo Ni Po SB     813 Zh M4 V M1 D
+Piritle       1724 E541401-8    Ni Po              120 Zh M4 V
+Niecha        1725 A55549A-C  X Ni          S3     803 Zh M4 V M3 D
+Tlich         1727 B779599-8    Ni                 202 Zh G1 V
+Adidiedr      1728 A221443-E  Z Ni Po              310 Zh F5 V
+Libliemiash   1729 D889520-3  Z Ni          SA     400 Zh M7 D G2 D
+Olevr         1821 C7A468A-8    Fl Ni              803 Zh F0 V
+Siskayas      1822 C5877X7-5    Ag Ri An    S0  A  603 Dr M1 V M8 D
+Tazdlri       1826 E300687-7    Na Ni Va           403 Zh M9 V
+Fre'niens     1827 A667A99-C    Hi                 212 Zh M6 V
+Piarezh       1830 D483100-7    Lo Ni              610 Zh M6 V
+Jde'lanz      1922 D336357-6    Lo Ni              220 Zh M7 V
+Chalo         1924 D564000-5    Ba Lo Ni    SF     820 Zh M8 V M8 D
+Vedochzhe     1925 A531510-D    Ni Po              903 Zh M3 V
+Jeshechiedodl 1928 E627000-0    Ba Lo Ni    S9     804 Zh K4 V M0 D
+Dlazhqetl     1929 D3328A9-6  Z Na Po           A  713 Zh F8 V
+Sheklianze    1930 E777132-5    Lo Ni              803 Zh G1 V
+Alstonchebr   2023 D34776A-5    Ag          SC     804 Zh K6 D M6 D
+Idldliats     2024 A475562-E  X Ag Ni       S0     214 Zh K5 V M0 D
+Chta'ats      2029 E7B0113-8    De Lo Ni    S2     504 Zh G8 IV M3 V
+Zhdadiekr     2121 B471886-9                       800 Zh M6 V
+Onjdinz       2124 C254450-B    Ni          SF     320 Zh G6 D M4 D
+Aflsanshie    2125 B000823-C    As Na       S2     401 Zh M2 D M0 D
+Iazdodl       2126 A62299A-E    Na Po       S38    423 Zh M7 II M0 V M5 D
+Jianjshte     2128 B9D1459-B  Z Fl Ni Cp           902 Zh M7 V
+Yiafr         2130 B622631-A  Z Na Ni Po           224 Zh M3 V
+Itliaplshopl  2221 E9A4000-0    Ba Fl Lo Ni     A  914 Zh M1 V
+Briaoffrach   2225 A624121-D    Lo Ni       S7     200 Zh F2 V M6 D
+Antsietlo     2226 C461664-7    Ni Ri              621 Zh F5 V
+Atlilesh      2227 C867412-8    Ni          S3     103 Zh K8 V M4 D
+Priavrshto    2230 C510510-7    Ni              A  305 Zh G5 V
+Zhdensanz     2322 B678769-5  X Ag                 904 Zh K6 D
+Dijiafr       2326 C000742-7  Z As Na              601 Zh F0 II
+Tlibr         2329 C6A2795-8    Fl          S9     303 Zh M2 D M3 D
+Iachints      2330 B358235-B  Z Lo Ni       S0     713 Zh F7 V M7 D
+Zdevledr      2422 E5109DD-7    Hi Na       SF  A  703 Zh M0 V M4 D
+Dedrtlidratl  2423 E989961-9    Hi                 700 Zh F9 V
+Anzhfrinsach  2427 A674698-C    Ag Ni       S5     300 Zh M0 V M9 D
+Penshadr      2430 D539534-6  Z Ni          SA     400 Zh F0 V M3 D

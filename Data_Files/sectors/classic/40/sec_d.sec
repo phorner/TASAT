@@ -1,0 +1,38 @@
+@SUB-SECTOR: Asepsedvl SECTOR: Usingou
+#
+# Trade routes within the subsector
+$2504 2205 -1 0 13
+$2504 2601 0 0 13
+$2601 2903 0 0 13
+$2903 3201 0 0 13
+$3201 0104 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ziae'shtieatl 2502 B235875-A                       712 Zh F2 V M3 D           
+Rabrij        2504 B2316A5-B  Z Na Ni Po           212 Zh F3 V               
+Dongang       2509 B729557-D  H Ni                 803 Vp M7 V               
+Abrjdeplklev  2601 C884475-6  Z Ni                 820 Zh F1 V M4 D           
+Orzouraenuen  2605 B87778A-5    Ag                 502 Va M6 V M6 D           
+Gvarrggvueng  2606 B7926BA-7  G Ni                 902 Va F2 V               
+Aragh         2607 D23087A-1    De Na Po           713 Va F3 V               
+Forasoknurr   2609 C443554-7    Ag Ni Po           610 Vp F7 VI              
+Thuengaela    2705 B000265-9    As Lo Ni           212 Va M0 V               
+Kfaththaell   2709 A100778-8  G Na Va              303 Vp F4 V               
+Rroakhin      2710 B447577-8  G Ag Ni              20C Vp G8 V M1 D G1 D       
+Riensh        2801 D220451-7    De Ni Po           701 Zh M0 V               
+Uekougidzoeng 2808 B3409DE-9    De Hi In Po        904 Vp F6 V M3 D           
+Vorrgoee      2809 A647553-7  G Ag Ni              510 Vp F0 V M2 D           
+Oazaerrghoell 2810 C546888-2  G                    310 Vp F4 V               
+Zhetspo       2903 C622879-8  X Na Po              412 Zh F5 V               
+Kherzlaenighz 2910 C868756-4  H Ag Ri              413 Vp G9 V               
+Dripliestavl  3001 C437554-A    Ni                 202 Zh G2 V               
+Steshnino     3003 C4498CB-8                       903 Zh K3 V               
+Ksokhuen      3005 B665100-8  G Lo Ni              812 Va G6 V M1 D           
+Aeren         3008 D6569BC-1    Hi In              213 Vp F6 VI              
+Vathdzoenksen 3010 A764200-B  G Lo Ni              914 Vp G0 V               
+Thugnun       3108 B539311-9  G Lo Ni              704 Vp M0 V M6 D           
+Ozuega        3109 D97AABB-A    Hi In Wa           700 Vp F0 V               
+Kfanen        3110 C493531-3  G Ag Ni              203 Vp F5 V               
+Biezchodl     3201 B6A3210-A  Z Fl Lo Ni           500 Zh M8 V

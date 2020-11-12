@@ -1,0 +1,41 @@
+@SUB-SECTOR: Atla  SECTOR: Usingou
+#
+# Trade routes within the subsector
+$1803 1503 -1 0 13
+$1803 2102 0 0 13
+$1803 2205 0 0 13
+$1908 1607 -1 0 13
+$1908 2205 0 0 13
+$2102 2139 0 -1 13
+$2205 2504 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Plenchzdiepr  1703 A65A779-C    Wa                 104 Zh F9 V               
+Ezdo          1704 B442742-7    Po                 413 Zh K7 V M3 D           
+Zdenzchach    1705 B529830-7                       406 Zh K0 V M3 D           
+Brzhzde       1706 C64A766-7    Wa                 101 Zh F1 V               
+Drietlqliata  1803 A7B6676-A  X Fl Ni              202 Zh M1 V               
+Tletliniabl   1804 C7B2436-9    Fl Ni              600 Zh M3 V               
+Qlierqliejez  1904 E350252-6    De Lo Ni Po        723 Zh F1 V M7 D           
+Rprqlia       1905 X7476A9-5    Ag Ni           R  710 Zh M8 V               
+Niedrseedl    1908 B565324-A  Z Lo Ni              802 Zh M6 V               
+Ketlietienzh  1909 C657347-4    Lo Ni              213 Zh G1 V               
+Piablzdaa     2002 E76769A-6    Ag Ni Ri           715 Zh K8 V               
+Aviadrpi      2004 D999455-9    Ni                 303 Zh F6 V               
+Brfrkralifl   2005 C758694-7    Ag Ni              802 Zh M4 V               
+Ejifrste      2009 B687534-B    Ag Ni              103 Zh F5 V               
+Ebzdeplpie    2101 C649896-9                       904 Zh F3 V M4 D           
+Miprsakint    2102 C1009CB-D  Z Hi Na Va        A  504 Zh F0 D               
+Qrins         2103 E655337-5    Lo Ni              302 Zh F8 V M4 D           
+Prevzdi       2106 C522665-7    Na Ni Po           343 Zh K1 V M0 D           
+Zhdiepryiaevl 2107 D7A3120-8    Fl Lo Ni           505 Zh K8 V M3 V           
+Fliaqzdaint   2205 C451775-5  Z Po                 811 Zh F3 V               
+Gvoutsaedhgaz 2209 B753555-8  G Ag Ni Po           804 Va F1 V               
+Ninuz         2210 B64A310-C    Lo Ni Wa           914 Va F5 V M3 D           
+Plaplyensh    2305 C873535-7    Ag Ni           A  812 Zh F2 V M7 V M2 D       
+Palavl        2306 E264122-8    Lo Ni              602 Zh F2 V               
+Epletplish    2401 C669694-5    Ni Ri              613 Zh F2 V M6 D           
+Nizhvrebnov   2404 B754720-8    Ag                 205 Zh F9 V               
+Idlatsviel    2405 C510446-8    Ni                 800 Zh M4 V

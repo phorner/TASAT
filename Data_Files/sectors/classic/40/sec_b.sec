@@ -1,0 +1,50 @@
+@SUB-SECTOR: Apbisharzie SECTOR: Usingou
+#
+# Trade routes within the subsector
+$1207 0809 -1 0 13
+$1207 1408 0 0 13
+$1403 1503 0 0 13
+$1403 1504 0 0 13
+$1406 1207 0 0 13
+$1408 1508 0 0 13
+$1408 1511 0 1 13
+$1501 1539 0 -1 13
+$1501 1503 0 0 13
+$1503 1803 1 0 13
+$1504 1406 0 0 13
+$1508 1607 0 0 13
+$1607 1908 1 0 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Shiantsrm     0904 E764676-6    Ag Ni Ri           933 Zh F7 V               
+Chabob        0905 CAC6AA8-D    Fl Hi In           801 Zh F2 V               
+Vomchiazhetl  0909 B535778-6                    A  203 Zh F9 V               
+Sobrsiel      1004 C547556-5    Ag Ni              903 Zh M8 V               
+Prablzhdanjab 1006 E452985-6    Hi In Po           803 Zh F7 V               
+Zhdieonzh     1007 C967477-4    Ni                 502 Zh M4 V M6 D          
+Shievinshstob 1009 C879300-8    Lo Ni              704 Zh F2 V               
+Rarfrplaal    1106 D8547A7-5    Ag                 104 Zh F3 V               
+Plrkldibl     1204 C434588-B    Ni                 201 Zh M8 V               
+Sienjpreenz   1207 B570430-A  Z De Ni              304 Zh M4 V M4 D           
+Stibrlietshta 1209 CA7A535-7    Ni Wa              604 Zh F2 V M3 D           
+Patldie       1301 D646647-5    Ag Ni              203 Zh F3 V M6 D           
+Krelibrlabr   1302 D497643-7    Ag Ni              824 Zh F3 V               
+Ieqdrekavl    1303 D694783-5    Ag                 300 Zh M7 V M4 D           
+Ditlfinch     1306 C571464-9    Ni                 102 Zh F8 V               
+Brazde        1309 B200200-C    Lo Ni Va           602 Zh M2 V               
+Dlifie'iabeb  1403 B44248B-A  Z Ni Po              813 Zh K2 V               
+Akzdeedrriats 1405 E89A533-5    Ni Wa              612 Zh G0 V               
+Chtenchzo     1406 C484788-9  Z Ag Ri              412 Zh F8 V               
+Melfrieensje  1408 A000843-A  Z As Na              403 Zh F7 D               
+Miflyats      1501 A240627-D  Z De Ni Po           234 Zh F9 V M6 D           
+Zdianchshtia  1502 B100643-C    Na Ni Va        A  303 Zh M2 V               
+Refrzhdia'    1503 B2427A8-B  Z Po                 504 Zh F0 V M2 D           
+Shtabshtiaial 1504 A783988-D  Z Hi In              203 Zh K9 V               
+Abajiachiats  1505 E739AA8-C    Hi In              303 Zh F5 V               
+Iadrkinszher  1508 B6A5566-9  Z Fl Ni           A  105 Zh M4 V M4 D           
+Chrqaplchrbl  1604 B200553-A    Ni Va              413 Zh F6 V               
+Tlanshmelne   1607 A64A500-C  Z Ni Wa              813 Zh F8 V M4 D           
+Tliansirafred 1609 AAAA112-D    Fl Lo Ni Wa        913 Zh F0 IV M8 V          
+Iala'yash     1610 E9A3200-8    Fl Lo Ni           410 Zh F5 V 
