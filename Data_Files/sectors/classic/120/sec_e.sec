@@ -1,0 +1,53 @@
+@SUB-SECTOR:Valc SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gagim         0112 C541667-6                       210 Cu  
+Ghana         0114 X234000-0    Ba Lo              024     
+Ar-udam       0118 E454243-8  N Lo                 804 Gi  
+Vale          0211 A55AAAA-E    Hi Wa              102 Cu  
+Ikikiidi      0214 X9B8000-0    Ba Fl Lo           034    
+Ar-ashid      0218 D9A1415-9  S Fl                 323 Gi 
+Akhemik       0312 B899633-B    Ag                 800 Cu 
+Alloo         0313 X300000-0    Ba Lo Va           024    
+Ibadan        0314 X221000-0    Ba Lo              024    
+Mimosa        0315 E483211-4    Lo                 722 Na 
+Lusu          0316 D344422-8    Lo                 403 Na 
+Sagigiri      0317 X110000-0    Ba Lo              004    
+Ar-gniiv      0320 A7659AC-C  N Hi                 215 Gi 
+Luresh        0411 A8639B9-A  N Hi                 420 Cu 
+Rashidah      0416 B340466-8  M De                 403 Na 
+Maikaguun     0514 X327000-0    Ba Lo              003    
+Lishir        0515 E54026B-5    De Lo              710 Na 
+Eramasi       0517 C570424-7  M De                 513 Na 
+Daaku         0518 X210000-0    Ba Lo              000    
+Abukaw        0615 D6B2357-9    Fl Lo              415 Na 
+Sikuriir      0616 D432360-7    Lo                 903 Na 
+Arurshim      0713 X201000-0    Ba Ic Lo Va        013    
+Ugig          0719 X8C6000-0    Ba Fl Lo           003    
+Liikhadukim   0812 X310000-0    Ba Lo              023    
+Kanidu        0815 X310000-0    Ba Lo              002    
+Brooklyn      0817 D424574-8                       225 Na 
+Kuudagim      0818 X412000-0    Ba Ic Lo           003    
+Aaringii      0820 X100000-0    Ba Lo Va           004    

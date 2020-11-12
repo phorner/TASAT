@@ -1,0 +1,32 @@
+@SUB-SECTOR:Slooda SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ogdrifhalthuan1732 B9D3724-F    Fl                 200 Hv G1 V M0 V
+Hat Guask     1733 C200612-A    Na Ni Va           614 Hv K2 V
+De Ah         1735 A100505-C  L Ni Va              913 Hv G9 III M2 V
+Aphlon        1831 B9B68T5-D    Fl                 703 Hv M4 V
+Keq Taucel    1832 D472665-8    Ni                 103 Hv G0 V
+Oski          1835 B300661-D    Na Ni Va           513 Hv F7 V
+Pookip        1837 C332404-D  M Ni Po              500 Hv K8 V M8 V
+Guavdax VII   1838 B445562-F    Ag Ni Hp           600 Hv A2 V M8 V
+Ka Lunathufair1934 A6568T6-G    Gl                 904 Hv K4 V
+Raskgiftdroora2031 C130465-5    Ni Po De Nh     A  700 Hv A8 V G9 V
+Raluldfunenu  2032 B7457S4-C  M Ag                 600 Hv F8 V M8 V
+Om Calinuq    2033 A6957S2-F  E Ag                 603 Hv K9 V M3 V F3 D
+Umnaciamen    2131 C6356S6-F  M Ni                 304 Hv K1 V
+Ycooskkirn    2132 A336206-F  L Lo Ni              511 Hv K8 V
+Dophluather   2133 A6968S3-G  L Cp                 101 Hv K9 V
+Ecphlenfaed   2140 D8858T1-E    Ri St              200 Hv K7 V M1 V
+Poo Ni        2236 A3268TA-A  E Nh                 322 Hv K3 V M3 V
+Atnat         2239 D110962-D    H0 Na Hi In        602 Hv K1 V
+Anaroobloa    2240 C657306-D  M Lo Ni Hp           600 Hv K1 V M4 V
+Tinkoq        2334 B95A506-C    Ni Wa              200 Hv K1 V
+Neack         2336 B566662-D    Ag Ni Ri Hn        722 Hv F4 V M0 V
+Aqimu         2338 A4757S5-G    Ag Hn              200 Hv F5 V
+Sanvuavauq    2439 C552603-B    Ni Po              413 Hv G2 V M8 V

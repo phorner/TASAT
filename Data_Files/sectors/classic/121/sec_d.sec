@@ -1,0 +1,44 @@
+@SUB-SECTOR:Nynom SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Wraf          2501 E8869T1-A    H0 Hi              800 Hv M0 V M9 V
+Daenfoonfark  2504 A334322-E    Lo Ni              802 Hv G3 IV M9 V
+Guadafatpofon 2505 B736502-B  M Ni                 403 Hv G8 V
+Ta Nakaenaval 2506 C410664-5    Na Ni Nh        A  712 Hv A1 V
+Caslivluc     2602 C555326-D    Lo Ni Hp           901 Hv G2 V
+Nooruir       2608 E759105-7    Lo Ni              502 Hv K6 V
+Mamooh        2610 BAB38T4-F    Fl                 323 Hv G5 V
+Gale          2704 B582416-E    Ni                 200 Hv M0 V
+Gepoonuin     2705 C422465-D    Ni Po              302 Hv G1 V
+Oileftarkomcae2709 A340365-A  E Lo Ni Po De Nh     402 Hv K6 V G5 D
+Epufool       2710 B442613-F  L Ni Po              200 Hv K5 V
+Renep         2805 D474AS3-C    H0 Hi In Hp        101 Hv K1 V
+Gask          2808 X869731-2    Nh              R  821 Hf F5 V
+Oskdrankirk   2809 C220521-D    Ni Po De           723 Hv G2 V
+Arne          2903 C7788S5-F    Gl                 313 Hv K3 V
+Uahgoin III   2908 C322511-D    Ni Po              522 Hv G1 V
+Gafaqax       2910 C1007S1-D  M Na Va              504 Hv M1 V
+(Barren)      3002 E528000-0    Ba Lo Ni           002 -- K4 V M3 V
+Phluafgendixan3004 C652422-E    Ni Po              510 Hv K8 V M0 V
+Nua Gackdati  3005 B573725-F    Hp                 700 Hv K1 V M2 V
+Uskfanuar     3006 D625722-E                       914 Hv F0 V G9 D
+Utvoor        3007 E424565-4    Ni Nh           A  424 Hv G4 V K7 D
+Slan Trumoon  3008 C8B5326-B    Fl Lo Ni           101 Hv M5 V
+Eedesk        3009 B72A267-D    Lo Ni Wa Nh        800 Hv G9 IV K4 V
+(Filterers)   3102 D948A9A-8    Hi In              212 Na M0 V
+Jedron        3103 C645532-7  M Ag Ni Hp           210 Na G6 V
+Er Niskaphlaxa3105 D454464-C    Ni Hp              514 Hv F3 V
+Ka Cuqavackaap3106 C200405-C    Ni Va              914 Hv M0 V M3 V
+Andre         3108 C777961-C    H0 Hi In Gl        203 Hv K8 V
+Aokorurnanglir3109 C783203-9  F Lo Ni St           802 Hv K2 V
+Katana        3203 A858778-A  J Ag                 900 Na K2 V
+(Sauna)       3204 E884000-0    Ba Lo Ni St        000 -- A7 V
+Loqaock       3206 E777405-9    Ni                 300 Hv G5 V
+Fun           3207 D879301-E    Lo Ni              102 Hv K2 V
+Sispo III     3209 B444726-F  M Ag Hp Cp           414 Hv G2 V

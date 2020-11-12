@@ -1,0 +1,55 @@
+@SUB-SECTOR:Ijuw SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ikukag        2502 X526000-0    Ba Lo              015    
+Foster        2509 X130000-0    Ba De Lo           002    
+Vigilson      2606 X200000-0    Ba Lo Va           004    
+Stonybrook    2607 E74A998-6    Hi Wa              400 Na 
+Nkiru         2608 X8C6000-0    Ba Fl Lo           023    
+Liirsam       2701 X301000-0    Ba Ic Lo Va        004    
+Lignaam       2704 X500000-0    Ba Lo Va           024    
+Nzegwu        2705 X000000-0    As Ba Lo           000    
+Ashkulir      2710 X330000-0    Ba De Lo           004    
+Oyewumi       2803 X638000-0    Ba Lo              014    
+Arudniku      2807 X350000-0    Ba De Lo           002    
+Uzugas        2808 X97A000-0    Ba Lo Wa           003    
+Lagadilur     2810 X8A4000-0    Ba Fl Lo           013    
+Mikenalu      2905 X326000-0    Ba Lo              013    
+Oyeronke      2908 X300000-0    Ba Lo Va           002    
+Khurkum       2910 X427000-0    Ba Lo              012    
+Ijuw          3001 A353A99-F  N Hi                 114 Cr 
+Aidoo         3002 B699562-9    Ag                 902 Cr 
+Pa-she        3004 D469473-9                       213 Cr 
+Uuk-lam       3006 C444468-8                       304 Cr 
+Gis-ru        3007 B626568-B  N                    505 Cr 
+Gig-nir       3009 A79678B-A  M Ag                 903 Cr 
+Ki-ze         3010 A571988-B  N Hi                 905 Cr 
+Zap-du        3103 C461779-B                       414 Cr 
+Pushik        3109 A763635-9                       310 Cr 
+Sha-gal       3110 A58698B-9  M Hi                 623 Cr 
+Man-dag       3201 C336457-E  S                    123 Cr 
+Lish-nar      3205 C489552-8    Ag                 104 Cr 
+In-ru         3206 B672879-B                       804 Cr 
+Ibu-khe       3210 A3679DB-D  N Hi                 202 Cr 

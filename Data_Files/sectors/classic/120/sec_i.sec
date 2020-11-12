@@ -1,0 +1,59 @@
+@SUB-SECTOR:Zej SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ghi-khup'l    0125 C442546-9                       512 Gi  
+Simubu        0127 X340000-0    Ba De Lo           002     
+Dii           0128 X6A6000-0    Ba Fl Lo           014     
+Girkaramka    0130 X232000-0    Ba Lo              010     
+Ar-khim       0222 A48797B-E  N Hi                 120 Gi 
+Ghi-dukez     0223 B7A477A-9    Fl                 511 Gi 
+Ar-migu       0224 B666520-8  N Ag                 302 Gi 
+Anku          0225 X000000-0    As Ba Lo           003    
+Ramathaim     0226 X410000-0    Ba Lo              013    
+Anis          0229 X210000-0    Ba Lo              000    
+Kimanun       0230 A669348-B  N Lo                 901 Lp 
+Ar-gimu       0321 A788752-9  N Ag                 913 Gi 
+Ghi-dan'l     0322 A64A889-C    Wa                 102 Gi 
+Ar-ha         0324 C7A3335-9  S Fl Lo              503 Gi 
+Kenaz         0326 X200000-0    Ba Lo Va           013    
+Jeheil        0328 X110000-0    Ba Lo              000    
+Ladel         0330 B527630-7                       504 Lp 
+Khishi        0428 C537774-8                       104 Lp 
+Khinki        0430 A87A662-C    Ag Wa              303 Lp 
+Ishza         0521 X311000-0    Ba Ic Lo           012    
+Jagur         0522 X372000-0    Ba Lo              004    
+Nupam         0526 X344000-0    Ba Lo              000    
+Amam          0527 C663552-7                       201 Lp 
+Bi            0529 B42388D-7  N                    102 Lp 
+Kan           0530 A5816AB-7  M                    113 Lp 
+Rabmag        0622 X310000-0    Ba Lo              000    
+Sopater       0623 X000000-0    As Ba Lo           003    
+Pukim         0625 C996552-A    Ag                 400 Lp 
+Bala          0628 A265968-D  2 Hi                 203 Lp 
+Siza          0724 D977210-7    Lo                 903 Lp 
+Sligara       0729 AA57874-7                       513 Lp 
+Fitchburg     0824 D74976A-5    Ag                 705 Lp 
+Ahira         0826 X235000-0    Ba Lo              014    
+Rechah        0827 XAB4000-0    Ba Fl Lo           012    

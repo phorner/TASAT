@@ -1,0 +1,39 @@
+@SUB-SECTOR:Marnoen SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Triimaskyphl  0902 C6A2169-6    Fl Lo Ni Nh     A  422 Hv F0 II
+Acatirerne    0903 D0006S5-9    Na Ni As           613 Hv F4 V
+Tepav         0908 D899622-8    Ni                 100 Hv A1 V
+Na Ungigeunu  1001 C4209S5-D    Na Hi In Po De     823 Hv K9 V
+Of Phlagist   1002 C3327T3-6  M Na Po Nh        A  122 Hv G8 V
+Triartoockoot 1003 X435574-4    Ni Nh           R  305 Hf K6 V
+Oxoox         1006 C674605-D  M Ag Ni Hp           802 Hv K1 V M7 V
+Emfanauthe    1009 A657466-F  L Ni Hp              220 Hv G9 V K0 V K3 V G6 D
+Dresgacoxorn  1104 C400562-B    Ni Va              813 Hv K0 V M9 V
+Tinuac        1106 B63366B-6    Na Ni Po Nh     A  702 Hv F6 V G9 V
+Miunkof       1108 D7B0666-C    Ni De              124 Hv A5 V
+Olwrironat    1201 A887713-E  L Ag Ri              133 Hv K9 V
+Inlar II      1202 C723666-9    Na Ni Po           400 Hv K0 V M4 V
+Thedrengaoth  1210 C203313-B    Lo Ni Va Ic        212 Hv G2 III
+Klarwrurus    1302 C6886S6-9    Ag Ni Ri           803 Hv K2 V
+Oonlacaqoic   1309 B859102-F    Lo Ni              704 Hv K9 V
+Oolda         1310 B525405-C    Ni                 700 Hv F7 V
+Luiteldapfuar 1402 D304961-C    H0 Hi In Va Ic     503 Hv M8 V M2 V
+Adec          1403 C753401-E  M Ni Po              310 Hv K2 V M4 V
+Luspoe        1406 A471404-F    Ni Cp              301 Hv F8 V K3 V
+Ithern        1408 B6A3567-B    Fl Ni Nh           202 Hv K6 V K0 V
+Nafaacklenoc  1410 A402601-E  L Na Ni Va Ic        611 Hv A2 V
+Ni Lixoskoask 1504 DA72202-9    Lo Ni Gl           602 Hv K4 V
+Tenernnerra   1508 C5428T8-8    Po                 611 Hv K0 V
+Eskoaflih     1510 C580615-D    Ni Ri De           721 Hv A9 V F7 V
+Aaxuethdrac   1601 C797401-C    Ni                 902 Hv G2 V M6 V
+Melan         1604 C4557S2-D  M Ag Hp              512 Hv G8 V K7 V
+Geninsloostuen1605 B100303-F    Lo Ni Va           823 Hv M3 V
+Axtiqestsil   1607 E3009T2-C    H0 Na Hi In Va     203 Hv M7 V
+Pedporn       1610 B644663-E  L Ag Ni Hp           802 Hv A0 V

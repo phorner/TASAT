@@ -1,0 +1,44 @@
+@SUB-SECTOR:Yuddunn SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gushila       0138 A53A843-A  N Wa                 610 Lp  
+Malibu        0232 E6879DF-5    Hi                 214 Lp 
+Rimere        0237 A8C7300-9    Fl Lo              900 Lp 
+Limaasa       0239 A45647A-A  N                    823 Lp 
+Idagar        0331 A253778-C                       702 Lp 
+Agbashku      0336 A360998-C  N De Hi              101 Lp 
+Narluu        0337 C727352-A    Lo                 402 Lp 
+Udedi         0339 A52A7BD-D  N Wa                 704 Lp 
+Jend          0431 AA5A9C9-D  J Ag Hi Wa        A  202 Lp 
+Sakid         0432 B9D7400-7                       423 Lp 
+Sumi          0434 D897210-7    Lo                 503 Lp 
+Imikikema     0436 C614213-9    Ic Lo              114 Lp 
+Surdasid      0531 A682989-B  M Hi                 913 Lp 
+Shimu         0537 E99A546-6    Ag Wa              310 Lp 
+Shus          0539 E58A776-5    Ag Wa              513 Lp 
+Gamiki        0632 C782451-8                       301 Lp 
+Mikashiras    0732 D67A200-9  S Lo Wa              604 Lp 
+Shazash       0740 X100000-0    Ba Lo Va           004    
+Ice Flake     0839 X755200-2    Lo                 400 Na 

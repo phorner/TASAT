@@ -1,0 +1,61 @@
+@SUB-SECTOR:Persas SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kumu          1723 D989773-2    Ag                 514 Na 
+Jenna         1724 D386310-8    Lo                 203 Na 
+Gursira       1725 D8B4210-7    Fl Lo              914 Na 
+Dukan         1822 D888254-5    Lo                 321 Na 
+Himonga       1823 D275200-7    Lo                 400 Na 
+Iishushi      1824 E502210-8    Ic Lo Va           600 Na 
+Chuma Kalu    1827 X433000-0    Ba Lo              003    
+Mud           1828 B685559-8    Ag                 802 Na 
+Lumari        1829 C3669BD-B    Hi                 904 Na 
+Pegirid       1830 X100000-0    Ba Lo Va           000    
+Gakisha       1921 C642A9A-B  N Hi                 100 Na 
+Adiida        1922 D322200-7    Lo                 114 Na 
+Lagiir        1925 X000000-0    As Ba Lo           000    
+Woodstock     1930 BAC4464-A  N Fl                 604 Na 
+Awano         2023 E201200-A    Ic Lo Va           404 Na 
+Agadu         2026 BA8A854-C  M Wa                 100 Na 
+Gika          2027 B746455-8                       904 Na 
+Amidsha       2124 X546000-0    Ba Lo              004    
+Anthonia      2125 C746200-8    Lo                 120 Na 
+Skokie        2126 B445769-9    Ag                 103 Na 
+Mugambi       2127 B879465-9                       524 Na 
+Dadem         2221 E223211-A    Lo                 422 Na 
+Dunilii       2223 X110000-0    Ba Lo              005    
+Mi            2225 C692200-9    Lo                 504 Na 
+Khagar        2226 B756322-8    Lo                 305 Na 
+Adilar        2228 B79A657-9  M Ag Wa              624 Na 
+Merrill       2230 X000000-0    As Ba Lo           004    
+Van Orden     2321 X447551-3  P Ag Ni              224 Na 
+Khamdadi      2326 C754567-5    Ag                 201 Na 
+Shumdadi      2327 X000000-0    As Ba Lo           004    
+Khumdadi      2328 A89877A-8    Ag                 115 Na 
+Garimus       2329 B371752-7                       101 Na 
+Greenlee      2423 X566499-2  P                    713 Na 
+Talbot 3      2426 C223200-A    Lo                 504 Na 
+Chantel       2427 B451589-6                       212 Na 
+Packer-Stocks 2430 C638323-7    Lo                 904 Na 

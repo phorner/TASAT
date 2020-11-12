@@ -1,0 +1,42 @@
+@SUB-SECTOR:Kandra SECTOR:Hinterworlds
+#
+#ringworld at 1432
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1531 1730 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hotspur       0933 C110569-A    Ni                 504 Na K2 V
+Xenxeng       0938 C100210-8    Ni Va              312 Na K9 V M6 D
+Red Sky       0939 D56667A-4    Ni Ri Ag           302 Na M6 III
+Shan-Hu       1038 C11058A-9    Ni                 633 Na M4 V
+Hefry's Dregs 1040 A100020-A    Ni Va              503 Na M8 V
+Parmenter     1131 E100235-9    Ni Va              704 Na K2 V
+Strom         1132 B461656-8  F Ni Ri              603 Na M1 V
+Ayyar         1134 B110144-C    C0 Ni              312 Na M4 II
+Nix           1136 E100200-7    Ni Va              603 Na G5 V M5 D
+Strabbid      1139 B100842-8    Va Na              612 Na M0 V
+Leroy         1231 C574969-9    Hi In           A  111 Na G0 V M4 D
+Vizier        1233 C52A220-9    Ni Wa              104 Na K4 V
+Yoryunssoy    1235 E254562-4    D5 Ni Ag           711 Na G3 V
+Eskerson      1237 D222425-9    Ni Po              905 Na K2 V
+Champion      1238 A889330-C    Ni                 803 Na M4 V M2 D M0 D
+Slider        1334 C588210-4    Ni                 203 Na G0 V
+Elan          1335 B3218AC-A    Po Na              303 Na M2 V
+Avatar        1339 E436000-7    Ni Ba              604 Na M9 V
+Leenitakot    1432 XY7A6BB-1    C8 Ni Wa Ax     R  110 Ow K3 V M7 D
+Gammist       1435 B551201-9  F Ni Po              403 Na M5 V M0 D
+Murmur        1436 B9B448B-A  F Ni              A  704 So M8 II M2 IV
+Nectar        1438 D485776-7    Ri Ag              103 Na M4 V
+Rendezvous    1439 D310033-6    Ni                 504 Na G1 V M4 D
+Base 45       1440 B351105-8    Ni Po              304 Na K0 V M6 D
+Kervid        1531 E99A7CD-7    Wa              A  804 Ow K0 V
+Keasarge      1536 B110253-A    Ni                 404 Na M7 II
+Brand         1539 B4595A9-B  M Ni                 913 Na M0 V M9 D M9 D
+Gamvina       1632 B94A6BE-9    Ni Wa              903 Na M1 V
+Nerkaal       1634 C422637-5    Ni Po Na           904 Na F2 V M5 D
+Driank        1635 B110455-D  M Ni                 504 Na M2 V M2 D
+Cinder        1640 D300387-6    Ni Va              404 Na M2 V

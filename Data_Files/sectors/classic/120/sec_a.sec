@@ -1,0 +1,64 @@
+@SUB-SECTOR:Nejim SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Imur          0103 A5479D9-E  N Hi                 224 Cu 
+Ulid          0106 A552564-C                       915 Cu  
+Ensik         0108 A362676-B                       814 Cu  
+Badkar        0110 A6648AA-C  2                    114 Cu  
+Mili          0201 A538859-B                       803 Cu  
+Cytrial       0202 A9759A8-G  2 Hi              R  113 Cu  
+Khimir        0203 A663989-B  S Hi                 322 Cu  
+Ekapga        0206 A672898-8                       702 Cu  
+Adshum        0208 A5569CA-E  N Hi                 104 Cu  
+Shuli         0210 A7C1651-E    Fl                 303 Cu  
+Kursha        0301 B465688-7  N Ag                 700 Cu 
+Gikuk         0302 A464348-C    Lo                 804 Cu 
+Gimuir        0303 B779311-D    Lo                 801 Cu 
+Gakim         0304 A266543-A    Ag                 920 Cu 
+Gidika        0307 B8A489B-9    Fl                 404 Cu 
+Dugash        0309 B75A567-B  S Ag Wa              703 Cu 
+Pikhadi       0402 A327300-B  N Lo                 702 Cu 
+Pigu          0405 E100579-7    Va                 402 Cu 
+Anshishu      0407 C545530-7    Ag                 312 Cu 
+Kepak         0408 A59875A-A  N Ag                 302 Cu 
+Timiim        0409 C240210-9  S De Lo              715 Cu 
+Gagash        0410 E490210-8    De Lo              203 Cu 
+Nepa          0501 E573300-5    Lo                 504 Cu 
+Gipu          0502 C452422-8    Lo                 103 Cu 
+Shmaku        0503 B566565-A  S Ag                 103 Cu 
+Kugud         0509 B638357-A    Lo                 402 Cu 
+Ikiik         0510 D000212-A    As Lo              104 Cu 
+Radool        0602 C537200-9  S Lo                 202 Cu 
+Sakiirum      0604 X236000-0    Ba Lo              014    
+Nurashu       0605 X400000-0    Ba Lo Va           003    
+Moramines     0610 X8A6000-0    Ba Fl Lo           015    
+Vagabond      0701 X6B6000-0    Ba Fl Lo           000    
+Dalgstar      0704 X210000-0    Ba Lo              003    
+Retek 7       0705 X200000-0    Ba Lo Va           013    
+Akelos        0710 X8C4000-0    Ba Fl Lo           000    
+Eslingirth    0801 X300000-0    Ba Lo Va           001    
+Fawn          0803 X100000-0    Ba Lo Va           002    
+Trin          0808 X400000-0    Ba Lo Va           003    
+Blendisan     0810 X000000-0    As Ba Lo           004    

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Oornoonfan SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Raluck        1710 D4506S2-9    Ni Po De           222 Hv K6 V
+Kaca          1806 C4638T3-E    Ri Hp              802 Hv G7 V M8 V
+Kaconolun     1807 B5646S3-B  L Ag Ni Ri Hp        402 Hv K9 V K2 D
+Paleqeka      1809 A515668-C  E Ni Ic Nh           701 Hv M3 V M2 V
+Spaneatry     1810 D647768-5    Ag Hp Nh        A  623 Hv G2 V M9 V
+Uahpicaxnef   1901 E629311-B    Lo Ni              803 Hv G4 V M2 V
+Drolele       1903 D8A45S5-A    Fl Ni              401 Hv M2 V M1 V
+Faunkocieth   1909 CA9A404-B    Ni Wa              223 Hv G5 V
+Narnunpeslys  2005 A465101-E  E Lo Ni Hn           320 Hv K6 V M7 V
+Moonor        2006 C354102-8    Lo Ni Hp           824 Hv F5 V K7 V
+Anwranandisk  2008 C545864-D    Hp                 923 Hv G1 V
+Ke Punugsor   2102 A442303-F  L Lo Ni Po           704 Hv A8 V
+Koe           2109 D465716-E    Ag Ri Hn           210 Hv K5 V M6 V M4 V
+Aaldfac       2202 E3237S1-9    Na Po              510 Hv A1 V
+Acocklegeck   2204 C665765-C    Ag Ri Hn           702 Hv K3 V
+Naga          2206 B324564-F    Ni                 201 Hv K9 V M3 V
+Aneonkana     2209 C451425-C    Ni Po              704 Hv K2 V M4 V
+Zalaundin     2210 B788521-D    Ag Ni              400 Hv F9 V
+Kotrugar      2305 E425325-A    Lo Ni              622 Hv F3 V
+Neslarnol     2306 E728102-6    Lo Ni              700 Hv G1 V
+Pibli I       2307 BA87823-D    Ri                 301 Hv M0 V
+Ucuigoppal    2401 B765626-E    Ag Ni Ri St        202 Hv K9 V
+Qutrien       2402 X454765-0  M Ag Hp Nh        R  203 Hf K7 V
+Ldureuqar     2406 E5417S5-9    Po                 603 Hv G6 V
+Uceleq        2407 A877103-F  L Lo Ni Cp           322 Hv G6 V

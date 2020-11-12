@@ -1,0 +1,36 @@
+@SUB-SECTOR:Kse'i SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tryylin       2514 AA87865-E    Ri                 402 Hv F2 V
+Ith Duaroluar 2515 B956606-D    Ag Ni              424 Hv F2 V M7 V
+Tree          2516 D522324-F    Lo Ni Po           710 Hv K6 V M4 V
+Po            2611 D9A5722-D    Fl                 813 Hv F0 V G0 D
+Te Publatiq   2617 C8A4103-D    Fl Lo Ni           424 Hv F6 V G2 V
+Kunarpar      2719 A575726-G  L Ag Hn              223 Hv K8 V M8 V
+Onaaskulu     2813 DAA5AT1-F    H0 Fl Hi           201 Hv K6 V
+Icspanaloock  2815 A6638S5-G    Ri Hp              301 Hv G1 V
+Ocaquqask     2816 D222462-C    Ni Po              123 Hv K8 V F0 D
+Wramorau      2818 D200425-B    Ni Va              503 Hv F6 V K7 V
+Dudix         2819 D4109T8-9    Na Hi In Nh        311 Hv K2 V
+Penvofoona    2911 B321164-9    Lo Ni Po Nh        824 Hv K2 V M6 V A2 D
+Dokena        2912 A98B105-F  F Lo Ni Iw           502 Hv M0 V M4 V
+Ldacackmax    2913 CAA86S5-B  M Fl Ni              913 Hv A5 V
+Aphl          2915 B897405-E    Ni                 200 Hv G5 V M8 V M2 V M1 V
+Roarat        2917 E448201-B    Lo Ni Hp           503 Hv G5 V
+Esk Qoo       3017 A5758S6-G  E Hn Cx              503 Hv G2 V
+Koorvuarix    3018 E597403-B    Ni                 402 Hv K1 V M0 V
+Vavnuruxest   3020 E9B466A-5    Fl Ni Nh        A  821 Hv M2 V
+Vamaoson      3111 D6885S1-C  F Ag Ni              513 Hv K6 V M3 V
+Aotnaophlilen 3112 E538315-9    Lo Ni              724 Hv K6 V
+Qaa Tipa      3113 E571402-A    Ni                 600 Hv F1 V
+Wraornautwrec 3116 B4709T4-G    F9 Hi In De        304 Hv K6 V
+Pospuahie     3120 B63A215-F    Lo Ni Wa           600 Hv M0 V
+Eftortdoroft  3211 A647722-F  E Ag Hp              200 Hv K9 V
+Draatax I     3212 B431563-E    Ni Po              523 Hv K9 V
+Ictraahio     3219 B765204-C    Lo Ni St           600 Hv F5 V K8 V M2 V M1 D

@@ -1,0 +1,55 @@
+@SUB-SECTOR:Pendiash Ginshar SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2504 2404 -1 0
+$2607 2404 -1 0
+$2504 2705 0 0
+$2705 3003 0 0
+$2607 2806 0 0
+$2806 2804 0 0
+$2806 2907 0 0
+$2907 2909 0 0
+$2909 3009 0 0
+$3009 3111 0 1
+$2506 2306 -1 0
+$2506 2504 0 0
+$2608 2907 0 0
+$3009 3110 0 0
+$3110 0109 1 0
+$3003 3102 0 0
+$3003 3104 0 0
+$3102 0102 1 0
+$3104 0104 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Vaughn        2504 A79A343-A  F Ni Wa              403 Ac K0 II
+Remik         2506 B789127-8    C1 Ni              713 Ac K0 V M6 D
+Nagikare      2607 C54248C-7    Ni Po              914 Cu M4 V M5 D
+Goore         2608 B4336A8-C  J Ni Po Na           522 Cu F0 V
+Dashimev      2610 E747303-7    Ni              A  200 Cu K7 VI
+Cessinyv      2705 D697537-3    Ni Ag              604 Na G0 V
+Verganeg      2708 BA9A566-9    Ni Wa              902 Cu M3 V M7 D
+Darunne       2709 C300775-A    Va Na              502 Cu M3 V
+Kikove        2802 C457231-6    Ni              A  904 Na K2 D M4 D
+Maggiv        2804 B110733-9  J Na                 405 Cu M1 V
+Terpunne      2806 C559210-6    Ni                 113 Cu M8 III M0 D
+Baliev        2901 D689563-4    Ni                 204 Cu K4 V
+Cikuek        2907 B658433-B  M Ni                 102 Cu M1 V
+Gigivere      2909 C222484-A    C2 Ni Po           913 Cu K8 III M1 D
+Varmuki       3001 E7767AA-4    Ag                 721 Cu G2 V M3 D
+Hetriame      3002 D555772-6    Ag                 320 Cu M7 IV M3 VI
+Alike         3003 A53898A-D  N Hi                 603 Cu M2 V
+Darun         3004 D9D1320-7    Ni                 203 Cu K0 V
+Lerive        3005 D551764-2    Po                 401 Cu K0 IV M6 V
+Twohoy        3009 C596775-3    C7 Ag              811 Cu K7 VI M9 D
+Beedrav       3101 E6A6665-3    Ni              A  603 Cu M2 V
+Nemini        3102 B334100-E    Ni                 612 Cu M8 V
+Bachev        3103 BAC4333-A  F Ni                 303 Cu M0 VI
+Civerimu      3104 C693567-7    Ni                 423 Cu M0 V
+Gavarisu      3110 C100572-9    Ni Va              200 Cu M1 V
+Catek         3206 D10049D-6    Ni Va              614 Cu M2 V
+Frumurev      3209 C200666-9    Ni Va Na           704 Cu G4 V
+Bage          3210 E8A4512-6    Ni                 602 Cu M4 III

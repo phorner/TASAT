@@ -1,0 +1,29 @@
+@SUB-SECTOR:Cornomonte SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Pisis         0114 X7B6698-0    Fl Ni              902 Cr M5 V M2 V
+Iass Rsfii'kr 0115 B463422-A  F Ni Hp Cp           500 Cr G9 V K4 V
+Skia'mia      0116 D967546-2    Ag Ni              401 Cr G3 V M5 V
+Carver        0117 C300556-9  M Ni Va              600 Na M3 V
+Selmore       0214 B552241-A    Lo Ni Po           202 Na G3 V
+Lead          0312 B405310-9  M Lo Ni Va Ic        221 Na K1 V
+Enfer         0318 X9C4000-0    Fl Ba Lo Ni        000 -- M4 V
+Hamius Farms  0413 B642210-7  F Lo Ni Po           110 Na F1 V A3 D
+Pakuucoon     0420 A668402-F  E Ni Hp Cp           100 Hv A5 V M4 V
+Flandre       0519 C437751-A                       512 Na K0 V
+Dahaq         0612 B2006S1-F  L Na Ni Va           904 Hv K1 III K2 V
+Lunraot       0613 E878725-9    Ag                 104 Hv K1 V
+Kug           0711 A581764-E  E Ri                 625 Hv G2 V
+Olifant       0715 C1108BB-B    Na                 104 Na K0 V
+Ooqeliqfalax  0719 X210698-0    Na Ni Nh        R  120 Xh G7 V
+Ilnuar        0813 E536312-D    Lo Ni              900 Hv K7 V
+Ulphlairdeern 0814 C689465-B  M Ni                 521 Hv K3 V
+Myhiphloxon   0816 C593321-D    Lo Ni              203 Hv K6 V
+Ravenshorn    0818 E562000-0    Ba Lo Ni           004 -- G2 V
+Lesandre      0819 B223557-D  J Ni Po              800 Na A1 V

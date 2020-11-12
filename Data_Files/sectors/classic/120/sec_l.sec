@@ -1,0 +1,52 @@
+@SUB-SECTOR:Balneario SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ashirar       2521 E597200-6    Lo                 324 Na 
+Rio           2526 C44278B-6                       614 Na 
+Akham         2527 C663643-6                       213 Na 
+Barlow's End  2530 B625655-A                       103 Na 
+Schwedi Prime 2623 E555454-3                       414 Na 
+Lipton        2626 B55A300-B    Lo Wa              824 Na 
+Ukise         2630 B3447A7-9    Ag                 304 Na 
+Grey          2725 B35289A-9                       810 Na 
+Usliki        2728 B698567-8    Ag                 500 Na 
+Bududi        2729 D574654-5    Ag                 724 Na 
+Dels          2821 E5A0242-8    De Lo              404 Na 
+Preston       2822 X110000-0    Ba Lo              002    
+Gandam        2829 D685513-5    Ag                 302 Na 
+Ukad          2922 D7A3210-A    Fl Lo              202 Na 
+Mustafa       2924 X8A4000-0    Ba Fl Lo           000    
+Iriri         2925 B3889AB-B  M Hi                 404 Na 
+Fawzia        3023 X6A0000-0    Ba De Lo           005    
+Agir          3026 C8997BE-5    Ag                 603 Na 
+Balim         3123 E53A200-8    Lo Wa              104 Na 
+Makerere      3124 X000000-0    As Ba Lo           024    
+Sisiza        3125 B331253-B  M Lo                 512 Na 
+Arla          3126 D478434-8                       903 Na 
+Muguu         3127 E472422-8                       104 Na 
+Ugaad         3129 X485402-2  P Lo                 303 Na 
+Ekir          3223 X5A0000-0    Ba De Lo           020    
+Igarin        3224 B87A459-B  N Wa                 504 Na 
+Musisi        3229 X000000-0    As Ba Lo           021    

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Roncus SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Titilayo      2515 D3547AB-4    Ag                 701 Na 
+Kudzidu       2519 C413300-A    Ic Lo              700 Na 
+Tsanga        2619 B6938A7-9                       901 Na 
+Salo          2711 X310000-0    Ba Lo              024    
+Dinkii        2716 X202000-0    Ba Ic Lo Va        005    
+Kuukadi       2817 X000000-0    As Ba Lo           003    
+Ufomata       2919 X673000-0    Ba Lo              013    
+Gri-ulm       3118 B44479B-8    Ag                 825 Cr 
+Urbana        3217 B8649A8-B  N Hi                 115 Cr 

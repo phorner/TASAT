@@ -1,0 +1,28 @@
+@SUB-SECTOR:Ixinsk SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Acknacuar     2539 B6897T4-F    Ri                 101 Hv K7 V M9 V
+Vuurnnool     2633 B0008T5-F  L Na As              400 Hv G1 D M9 V
+Acihiq III    2635 A785625-D  L Ag Ni Ri St        821 Hv G2 V
+Tuku          2740 E3356S6-C    Ni                 213 Hv K1 V M5 V
+Of Slart      2833 A675203-C    Lo Ni Hn           924 Hv F6 V
+Slarnan       2834 B310502-F    Ni                 502 Hv F1 V M3 V
+Giuckacu      2839 E120000-5    Lo Ni Po De        200 Hv K1 V M6 V
+Ta Qe         2935 C794401-F    Ni                 912 Hv K3 V M9 V
+Ifdequarnaft  2936 C530564-E    Ni Po De           713 Hv G8 V M7 V
+Apockuyluntaop2939 C7788S1-C                       423 Hv G8 V K3 V
+Wraonual      3034 C9D3204-A    Fl Lo Ni           501 Hv K8 II M9 V M6 V M8 V
+Aqnunldirook  3036 E646369-A    Lo Ni Hp Nh        202 Hv K2 V M8 V
+Nae Poone     3039 B000515-D    Ni As              314 Hv G5 V F7 D K0 V
+Kon           3132 C580524-D    Ni De              335 Hv G5 V F6 D
+Nepuan        3133 C000202-D  M Lo Ni As           300 Hv K8 V F6 D
+Lankinfentur  3136 C87A462-E  M Ni Wa              600 Hv K9 V M7 V M2 D
+Lameguotadslie3137 A566305-G  E Lo Ni Hn Cp        500 Hv M0 V
+Othuetnoostep 3140 X664442-0    Ni Hp Nh        R  800 Hf G8 V
+La Em Nakeothe3233 A100514-G    Ni Va              900 Hv M1 V

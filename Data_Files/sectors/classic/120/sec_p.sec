@@ -1,0 +1,59 @@
+@SUB-SECTOR:Melantris SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Annuis        2531 C644357-C    Lo                 404 Na 
+Boguet        2532 X200000-0    Ba Lo Va           023    
+Baphomet      2534 EA5A777-B    Wa                 514 Na 
+Oberitis      2537 X100000-0    Ba Lo Va           015    
+Aadeshi       2539 B759588-9    Ag                 204 Ia 
+Aakakga       2540 A464676-9    Ag                 622 Ia 
+Jadian        2631 B868678-9  N Ag                 503 Na 
+Kian          2635 X320000-0    Ba De Lo           020    
+Monad         2636 X200000-0    Ba Lo Va           023    
+Diable        2637 X000000-0    As Ba Lo           040    
+Aagika        2638 C9B6420-8  S Fl                 314 Ia 
+Spiegel       2731 X210000-0    Ba Lo              004    
+Dawnlord      2732 X5A4000-0    Ba Fl Lo           000    
+Melantris     2733 A6669C7-C  D Hi              A  402 Na 
+Aakigku       2739 A98AA65-G  N Hi Wa              302 Ia 
+Shrew         2834 X000000-0    As Ba Lo           000    
+Aakimmi       2838 A97779C-9  S Ag                 504 Ia 
+Aadga         2839 A968788-A    Ag                 814 Ia 
+Aamalar       2840 A5599DE-C    Hi                 114 Ia 
+Aadiku        2940 A547362-C    Lo                 303 Ia 
+Othilia       3031 X636000-0    Ba Lo              014    
+Aashuna       3035 D87A430-8  S Wa                 714 Ia 
+Aaguun        3037 D867896-6                       701 Ia 
+Aagirirza     3038 C575530-7    Ag                 600 Ia 
+Niles         3039 B789568-B  N Ag                 614 Ia 
+Germi         3131 X310000-0    Ba Lo              000    
+Aakishi       3135 C593200-8    Lo                 600 Ia 
+Devradan      3231 X200000-0    Ba Lo Va           010    
+Aakhum        3233 B310333-A    Lo                 211 Ia 
+Aagidumi      3234 A4427BE-C  N                    412 Ia 
+Aagumam       3235 A5679CD-D    Hi                 204 Ia 
+Adisi         3237 A783974-C  S Hi                 113 Ia 
+Aamagus       3238 A877420-C                       900 Ia 
+Aagmigi       3239 AA6AA9B-F  N Hi Wa              110 Ia 

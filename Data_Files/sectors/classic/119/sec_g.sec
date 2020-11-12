@@ -1,0 +1,42 @@
+@SUB-SECTOR:Cromar SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2316 2516 1 0
+$2316 2318 0 0
+$2318 2216 0 0
+$2318 2418 0 0
+$2318 1820 0 0
+$1820 1822 0 1
+$1820 1619 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Glass         1711 B525856-A  M                    822 Na M1 V M5 D
+Strane        1712 D648865-1                       810 Na M4 III M0 D
+Helvo         1714 D200852-6    Va Na              404 Na F8 IV
+Yellowtide    1719 C363226-9    Ni                 904 Na K8 V M6 V
+Annex         1720 B434300-C    Ni              A  104 Na K6 V
+Skigg         1816 A100120-D    Ni Va              213 Na M6 D
+Namillo       1817 C666341-9  S Ni                 220 Na M0 III M8 D
+Ipidina       1820 C3008B7-8    Va Na              711 Na M3 V M6 D
+Streeve       1915 C99A698-8    Ni Wa              314 Na G2 V
+Mey Tyro      1917 D534654-7    Ni                 102 Na G4 V
+Xavid         1920 C43579A-6                       102 Na G4 V M8 D
+Likugash      2011 C537477-A    Ni                 423 Na K4 V
+Effit         2015 A5936B6-A    Ni                 104 Na A4 V
+Kishir        2016 B73A344-A    Ni Wa              701 Na M6 V
+Hasvari       2111 C3245AC-7    Ni                 204 Na M7 III
+Jaris         2112 C354000-6    Ni Ba              704 Na A4 V M4 D
+Drygrass      2119 C546576-4    Ni Ag           A  214 Na M7 VI K9 D
+Manak         2120 D433551-9    Ni Po              902 Na K4 V
+Jaffik        2216 C9B2453-A    Ni              A  904 Na M0 V
+Zisurar       2218 D522302-8    Ni Po              902 Na K9 V
+Tamrice       2313 B332496-A  M Ni Po              320 Na M1 V
+Khugili       2315 C445111-8    Ni                 304 Na G6 VI M6 D
+Trial         2316 A363566-C  F Ni                 304 Na G2 V M2 D
+Scratch       2318 C546354-6    Ni                 522 Na M3 V M6 D
+Arctica Nova  2413 D529666-5    Ni                 604 Na M4 V
+Dar           2414 B666002-9    Ni                 623 Na M0 IV
+Hypagg        2418 C474242-A  S Ni                 414 Cs K6 V M8 D

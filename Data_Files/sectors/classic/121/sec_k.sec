@@ -1,0 +1,38 @@
+@SUB-SECTOR:Nufri SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lyocura       1722 A310104-E  E Lo Ni              923 Hv K1 V
+Caftzapnuac   1723 A511602-E  E Na Ni Ic           303 Hv M3 V
+Laspospo      1725 EAE6416-8    Fl Ni              722 Hv K9 V F6 D
+Dyckit        1726 C5548T4-D    Hp                 410 Hv K0 V M9 V
+Uaratorisk    1727 C889466-9    Ni                 524 Hv G2 V M5 V
+Gerdegixsloorn1729 B477304-D    Lo Ni Hn           611 Hv K6 V M4 V M5 V
+Gadpot        1730 D532306-C  M Lo Ni Po           210 Hv K4 V
+Mail          1821 A1008T3-F  L Na Va              904 Hv G6 V K4 V
+Iraakwryphlex 1824 E320000-4    Lo Ni Po De        513 Hv A3 V G4 D
+Padrefei      1923 C100712-B  M Na Va              213 Hv G9 V
+Aldqahldiisk  1924 B580421-F    Ni De              521 Hv G9 V M5 V
+Na An         1926 B754402-F    Ni                 110 Hv K9 V
+Axspenainqaax 1929 B7B07S6-9    De Nh              700 Hv A1 V
+Ce Wrurnphlap 1930 E510000-4    Lo Ni              104 Hv F0 V
+Ut Ve         2022 D310425-D    Ni                 804 Hv K4 V M8 V
+Naeskarthuepac2023 C341204-B    Lo Ni Po           803 Hv K1 V
+Aordacavra    2125 C0006S4-C  M Na Ni As           700 Hv M4 V
+Onwraquan     2127 B000764-F  M Na As              300 Hv M8 V G8 D
+Aruahir I     2128 B3428S1-F    Po Cp              503 Hv K5 V
+Seuphl        2230 D8D5105-9    Fl Lo Ni           722 Hv M8 III
+Gefun         2321 A322203-D    Lo Ni Po           425 Hv A5 V
+Kuirlafeanor  2322 C3107S5-F    Na                 700 Hv M2 V
+Wratruteyrix  2323 A0009TC-A    Na Hi In As Nh     902 Hv K5 V
+Oxaen         2325 C4006S3-D    Na Ni Va           923 Hv G6 D
+Hahudedroo    2327 D33626B-8  M Lo Ni Nh           700 Hv K4 V M8 V
+Gooc          2329 A210201-C    Lo Ni              824 Hv K6 III M4 V
+Kapo          2421 C470561-F  M Ni De              414 Hv A4 V
+Gekausa       2422 A52246B-9  E Ni Po Nh           400 Hv G1 V
+Noc One       2429 X222325-0    Lo Ni Po Nh     R  402 Hf G9 V

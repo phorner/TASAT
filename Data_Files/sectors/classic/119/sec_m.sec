@@ -1,0 +1,34 @@
+@SUB-SECTOR:Hashi SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Krevor        0131 B200686-7    Ni Va Na           115 Na A2 VI
+Byooki        0134 D11079A-6    Na                 903 Na M2 V
+Eki Chi       0137 D200640-4    Ni Va Na           400 Na M4 V
+Murlum        0232 C8A5420-8    Ni              A  502 So G1 V M3 D
+Goromas       0233 C728787-8                       620 Na K1 V M4 D
+Ame           0238 C876221-6    Ni                 513 Na A3 V M8 D
+Famerra       0239 E110499-5    Ni                 104 Na F4 V
+Kotori        0334 C747654-4    Ni Ag              904 Na G1 IV
+Tonde Monai   0337 B200200-E  M Ni Va              215 Na F2 V M1 D
+Haiiro        0438 E799000-8    Ni Ba              804 Na K5 V
+York          0439 B100303-9  M Ni Va              104 Na K8 V M6 D
+Franzweld     0440 B65747A-A  M Ni                 903 Na A3 V
+Haru          0533 C667510-9    Ni Ag              104 Na G0 V
+Schmutz       0634 E100202-7    Ni Va              613 Na M4 V M6 D
+Mizu          0640 B87A034-7    Ni Wa              600 Na M8 V M3 D
+Saito         0732 C748AC8-8    In Hi              204 Na F9 V M4 D M7 D
+Tyotto        0737 E8C4100-4    Ni                 601 Na M3 V M5 D
+Hurn          0738 A73659D-D  F Ni                 800 Na M1 V
+Gustavus      0739 C000525-B    Ni As           A  504 So M0 V
+Strnad        0740 C200664-7    Ni Va Na           320 Na K2 V
+Vanguardia    0834 B99A9A8-9    Hi Wa              804 Na M4 V
+Prospect      0835 C564667-5    Ni Ri Ag        A  924 Na M1 V M4 D
+Selding       0836 A661444-9  F Ni                 812 Na M3 V
+Edwards' Meet 0839 C64A667-9    Ni Wa              722 Na G0 V
+Cleavon       0840 E434441-8    Ni                 103 Na K4 V

@@ -1,0 +1,36 @@
+@SUB-SECTOR:Re Naka SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hudson        0921 C423330-A  M Lo Ni Po           401 Na M0 II M2 V
+Druacogeuno   0926 D873675-4    Ni Nh              400 Xh G3 V
+Dral Phlinskwa0927 X210565-1    Ni Nh           R  433 Xh M9 V M5 V
+Sefic         0930 B855554-8    Ag Ni              302 Na K5 V
+Flandry       1022 B888445-B  J Ni                 114 Na K7 V
+Donovor       1025 A999367-E  J Lo Ni Mr           420 Na M0 V
+Bombur        1029 E7A1000-0    Fl Ba Lo Ni        011 -- G6 V
+Eonmenusk     1124 A300305-E  L Lo Ni Va           201 Hv M4 V M6 V
+Cameron       1126 B560012-A    Lo Ni De           612 Na K2 V K8 D
+Anuxaiteki    1225 C986566-C    Ni Gl              704 Hv K5 V
+Efteld        1226 E653622-9    Ni Po Hp           302 Hv F9 V M6 V
+Qauc          1229 E303000-4    Lo Ni Va Ic        102 Hv F1 III M6 V
+Antooqa       1321 B765666-F    Ag Ni Ri St        700 Hv K3 V G4 D
+Moohe         1323 A777206-B  E Lo Ni              501 Hv F6 V
+Iresk         1326 C7888T1-F    Ri                 300 Hv A2 V A2 V
+Guexiq        1327 D120403-9    Ni Po De           500 Hv G9 V M1 V
+Oskac         1424 X433532-2    Ni Po Nh        R  400 Hf K4 V
+Droo          1427 C6857S5-F    Ag Ri              323 Hv G4 V
+Dentronoonyx  1429 C575302-F    Lo Ni Hn           213 Hv K9 V M9 V
+Ihahani       1430 B401304-F  M Lo Ni Va Ic        901 Hv M3 V M8 V
+Ief Yer       1523 B853202-F    Lo Ni Gl           600 Hv F3 V
+Datix Cua     1526 A542269-A    Lo Ni Po Nh        310 Hv G3 V M7 V
+Talolguaxa    1528 E6A2000-4    Fl Lo Ni           813 Hv K4 V M3 V
+Toptehest     1622 A4007T5-F    Na Va Cp           503 Hv M3 II M5 V
+Quvint II     1624 A300204-E  E Lo Ni Va           213 Hv G4 V M9 V
+Hevalcipon    1628 B594105-D  M Lo Ni              102 Hv F4 V
+Kexenuq       1630 C529563-A    Ni                 523 Hv G3 V

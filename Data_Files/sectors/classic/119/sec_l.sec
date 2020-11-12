@@ -1,0 +1,40 @@
+@SUB-SECTOR:Sontra SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2821 2721 0 0
+$2821 2920 0 -1
+$3021 2920 0 -1
+$3021 3122 0 0
+$3122 3221 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Anador        2521 B555524-8  M Ni Ag              500 Na M3 V M6 D M0 D
+Kifynn        2523 D686455-5    Ni                 400 Na M0 V
+Benankas      2524 A7A3353-C    Ni                 903 Na G6 V
+Reeta Yuonn   2623 A100025-D    Ni Va              804 Na M7 V
+Kinji         2625 C774231-7    Ni                 110 Na M4 IV
+Vyran         2626 B552520-9  M Ni Po              404 Na M3 V
+Ar-stoon'l    2721 A7B2547-9  J Ni                 703 Gi A1 V
+Nerfane       2725 B575645-5    C1 Ni Ag           604 Na K3 V M6 D
+Gardeel       2727 A7A2000-B    Ni Ba              501 Na K9 VI M5 D
+PaGa          2728 B783787-6    Ri              A  603 Na A2 II M5 V M5 D
+Pru-grov      2821 D100788-7    Va Na              303 Gi M1 V M0 D
+Iaasiv        2829 EAC3AA9-B    Hi                 603 Na M0 V
+Pru-mavin     2924 D855887-2                       204 Gi G2 V
+Pru-berv      3021 A88A420-B    Ni Wa              203 Gi K1 V
+Gefry         3026 A6A378B-8                       603 Na M0 V M8 D
+Nils          3027 D859015-5    Ni              A  400 Na M5 V
+Byroon 67     3029 D300433-7    Ni Va              200 Na M0 V M5 D
+Deverya       3030 C995753-4    Ag                 501 Na M9 VI M7 D
+Pru-buash     3122 C6A5473-9    Ni                 904 Gi M2 IV
+Pru-ummur     3123 E425241-7    Ni                 603 Gi M0 V M4 D
+Weyloor       3128 A200248-B    Ni Va              204 Na M3 VI M4 D
+Nyzch         3129 B200435-B    Ni Va              313 Na M4 V M3 D
+Lylol         3130 A775313-8    Ni                 202 Na M9 VI M5 D M1 D
+Pru-goomh     3221 A100310-C    Ni Va              504 Gi M1 V M4 D
+Ghi-koord'l   3222 X3728A9-0                       200 Gi G2 V M7 D
+Pru-pasch     3223 B6A0488-C    Ni De              513 Gi M0 V K9 D
+Elyxis        3224 A65A551-D    Ni Wa              703 Na F3 V

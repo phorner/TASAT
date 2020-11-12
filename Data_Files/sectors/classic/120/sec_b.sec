@@ -1,0 +1,61 @@
+@SUB-SECTOR:Sastanna SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Achbor        0901 X301000-0    Ba Ic Lo Va        024    
+Diblath       0902 E655352-6  P Lo                 904 Na 
+Bazluth       0904 X74A000-0    Ba Lo Wa           012    
+Nethum        0906 X846000-0    Ag                 010    
+Gatiameth     0910 X240000-0    Ba De Lo           014    
+Mindis        1001 X222000-0    Ba Lo              013    
+Diikhe        1003 E300264-9    Lo Va              104 Na 
+Iini          1007 X236000-0    Ba Lo              010    
+Gandy's Luck  1008 D958876-4                       802 Na 
+Diosd         1010 X200000-0    Ba Lo Va           014    
+Kirdon        1101 X373000-0                       023    
+Misagim       1102 X320000-0    De                 005    
+Ilurda        1105 D95A623-6    Ag Wa              904 Na 
+Nusakan       1106 C89A9BD-D  N Hi Wa              510 Na 
+Uulikhish     1107 C436612-B  M                    702 Na 
+Damevang      1108 C62A468-9    Wa                 704 Na 
+Iimsii        1110 X584000-0                       003    
+Urginkir      1208 D654533-4    Ag                 105 Na 
+Urur          1206 C470423-7    De                 305 Na 
+Kaesong       1209 E78A466-4    Wa                 500 Na 
+Kimudkagi     1210 X443000-0                       002    
+Sastanna      1307 C9B6210-8    Fl Lo              810 Na 
+Diboll        1308 C544553-5    Ag                 913 Na 
+Kekharshu     1310 E000313-8    As Lo              912 Na 
+Eshmili       1401 X234000-0    Ba Lo              002    
+Maldonado     1403 D988265-3    Lo                 711 Na 
+Sasnikir      1405 D573200-6    Lo                 811 Na 
+Al Hillah     1406 C464495-5                       501 Na 
+Ganshoren     1409 D757433-3    Lo                 524 Na 
+Keshe         1410 X100000-0    Ba Lo Va           003    
+Icar          1508 D66A895-6    Ri Wa              200 Na 
+Namdamirum    1601 X210000-0    Ba Lo              000    
+Lisisha       1602 E552352-6  P Lo                 304 Na 
+Milligan      1604 E160200-8    De Lo              322 Na 
+Gudadmikam    1606 X334000-0    Ba Lo              003    
+Shaul Khala   1608 X8B3000-0    Ba Fl Lo           002    

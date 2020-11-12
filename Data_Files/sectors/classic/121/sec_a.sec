@@ -1,0 +1,41 @@
+@SUB-SECTOR:Faller-Eresern SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Skiuia        0102 DAB567A-2  M Fl Ni              901 Cr M2 V K5 D
+Raakhauku     0106 B448377-7    Lo Ni Hp           724 Cr F6 V
+Iassuiieess   0108 B752667-7    Ni Po              514 Cr M0 V
+Skikkuk       0109 B631685-8    Na Ni Po           304 Cr G0 V M3 V
+Zee Mi Treeee 0110 D8B4248-5  M Fl Lo Ni           702 Cr K2 V
+Ziieesstrui   0205 D432201-9    Lo Ni Po           900 Cr G3 V M2 V
+Sfiikhskaa    0302 A0008BB-C    Na As Cp           500 Cr K1 V
+Truarinixpanax0304 X110976-4    Na Hi In Nh     R  114 Xh G7 V
+Eeskskuamiarss0306 B55357A-7    Ni Po Hp           800 Cr K6 V G0 D
+Vassive       0309 XAB5000-0    Fl Ba Lo Ni        003 -- G3 V
+Cunningham    0310 E537388-6    Lo Ni              124 Na K0 V
+Etheros       0401 D666342-6  F Lo Ni Hn           700 Na G6 V
+Fany Meckparo 0402 XABB5AC-3    Fl Ni Iw Nh     R  125 Xh F3 V
+Smith Mines   0404 C200510-A    Ni Va              825 Na K4 V M0 V
+Phelan        0405 D3406AA-8    Ni Po De           402 Na K4 V M3 V
+Anuxenharn    0407 E779000-4    Lo Ni Re           513 Hv K8 V M7 D
+Caxetradi     0410 A66A416-E  L Ni Wa              302 Hv F4 V
+Texeathotor   0501 D3439B7-8    Hi In Po Hp        200 Xh K7 V
+Auvile        0502 C410522-C  M Ni                 510 Hv M9 V
+Acglaskaxaif  0508 C210104-B  M Lo Ni              101 Hv G4 II F0 D
+Se Caan       0602 C470561-C    Ni De              603 Hv K7 V M9 V
+Aqegiadacki   0603 C6B07S4-C    De                 703 Hv M3 V
+Druah IV      0605 C201722-C  F Na Va Ic           422 Hv A9 V
+Muaqephlaot   0606 B000726-C  L Na As              700 Hv F1 IV
+Houskalada    0703 X555666-1    Ag Ni Hp Nh     R  912 Hf G3 V
+Oloonaftgluq  0704 C5438T3-D  M Po Hp              910 Hv G8 V G1 D
+Naglalidrar   0707 B353306-F    Lo Ni Po Hp Cp     312 Hv K9 V
+Spialobluapo  0710 D4686S5-C    Ag Ni Ri Hp        900 Hv K1 V
+Dreero        0803 D97A506-8  F Ni Wa              723 Hv G5 V
+Asklduiceckat 0806 D332425-A    Ni Po              600 Hv A9 V
+Lyyf          0807 B6A2463-D    Fl Ni              803 Hv M7 V M7 V
+Wre Spaust    0809 B7897S6-F    Ri                 800 Hv K4 V K3 D

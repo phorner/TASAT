@@ -1,0 +1,41 @@
+@SUB-SECTOR:Dao SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Na Dirapnack  0911 X514400-1    Ni Ic Nh        R  224 Hf G0 V K9 V
+Gigilo        0912 E531821-D    Na Po              822 Hv A2 V K4 V
+Ururnnon I    0914 BAB1764-C    Fl                 101 Hv M7 V M0 V
+Winfield      0917 A343221-B    Lo Ni Po Hp        522 Na K7 V F9 D
+Looturtnaor   0919 X230755-3    Na Po De Nh     R  910 Hf G6 V
+Poxiuttraxeft 0920 X697874-1    Nh              R  200 Xh G1 V M4 V
+Hood          1011 C575201-C    Lo Ni Hn           501 Hv K4 V M3 V
+Anrayskosk    1017 A9A6501-F  L Fl Ni              500 Hv M1 V
+Lorill        1020 A662533-9    Ni                 800 Na K2 V
+Lyaiskvoanfurn1114 A326105-B  L Lo Ni              301 Hv K2 V K5 V M8 V
+Phlogedaonax  1116 B675513-F  L Ag Ni Hn           502 Hv G4 V
+Iraxolgat     1117 B681566-D  F Ni                 201 Hv K7 V M8 V
+Laaqenald     1118 A7228T1-G  E Na Po Cp           104 Hv G9 V M4 V
+Klenskerunnir 1217 C784205-8  M Lo Ni St           404 Hv K2 V F1 D
+Eneraroo      1218 E759714-A                       220 Hv K2 V A1 D
+Ylcot III     1219 B444401-B    Ni Hp              222 Hv F4 V
+Irloorackenent1311 A353206-F    Lo Ni Po Hp        112 Hv K4 V M1 V
+Glogi         1312 B878502-D    Ni Gl              301 Hv K2 V K9 V
+Nesya         1313 X679998-5    Hi In Hp Nh     R  902 Hf K3 V
+Nuakhaluack   1316 E6647S4-9  M Ag Ri Hp           302 Hv F0 V
+Uckcekilyn    1417 X561103-2    Lo Ni Nh        R  634 Hf G7 V
+Es Wrug       1511 D4258T1-F                       201 Hv K5 V
+Mua           1512 C120615-C    Na Ni Po De        824 Hv K3 V K3 V
+Kaxnukula     1514 B561306-D  L Lo Ni              401 Hv F3 V
+Triec         1520 B6A6861-F  F Fl                 223 Hv G5 V
+Hoolcoc       1612 BA78104-A    Lo Ni              102 Hv K1 V A4 D
+Ninunaac      1613 D858614-D    Ag Ni              701 Hv G6 V M6 V
+Askanuftir    1614 A0007T3-E    Na As              802 Hv K7 V
+Henmafdra     1615 A200763-F  F Na Va              924 Hv F2 IV
+Uxguath       1616 B464516-F    Ag Ni Hp           224 Hv K1 V
+Triul         1617 X9A4500-1    Fl Ni Nh        R  533 Hf K4 V
+Spiepeelaophl 1618 B9B77S7-C    Fl Nh              623 Hv M1 V

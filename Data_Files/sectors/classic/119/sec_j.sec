@@ -1,0 +1,46 @@
+@SUB-SECTOR:Bruia SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0924 0824 -1 0
+$0924 1124 0 0
+$1124 1223 0 0
+$1223 1423 0 0
+$1423 1622 0 0
+$1622 1822 1 0
+$1522 1723 1 0
+$1522 1520 0 -1
+$1128 1329 0 0
+$1329 1328 0 0
+$1328 1427 0 0
+$1427 1426 0 0
+$1426 1625 0 0
+$1625 1726 1 0
+$1630 1531 0 1
+$1630 1730 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Brosak        0921 B544576-A    Ni Ag              804 Na M4 V
+Sigam         0923 C66A59C-A    Ni Wa              501 Na K6 II
+Lady Mac      0924 A200320-A    Ni Va           A  415 So K2 V M5 D
+Overshoal     1021 C67A878-7    Wa                 303 Na K1 V
+Angerhelm     1026 A888699-9  F Ni Ri Ag        A  402 Na M0 V
+Far Cry       1030 B368500-B  F Ni Ag              205 Na M3 V
+Meadow        1123 C495654-7    Ni Ag              103 Na G1 D
+Ane           1124 B684511-8    Ni Ag              713 Na K6 IV
+213-584       1128 A100321-C    Ni Va           A  204 Ow K3 III
+Calm Reverie  1221 C110374-8    Ni                 702 Na M7 V
+Uga           1223 E566740-3    Ri Ag              203 Na M7 IV M7 D
+Yokoya's Stand1322 D5A36B9-3    Ni                 224 Na M1 V M9 D
+214-389       1328 D75887B-6                    A  414 Ow M1 II M6 V
+Daniss        1329 C100312-8    Ni Va           R  114 Ow M1 V M6 D
+Stailveiki    1421 C100511-7    Ni Va              411 Na M3 V M9 D
+Horton        1423 D668200-7    Ni                 305 Na M9 V K4 D
+212-332       1426 C858100-7    Ni              A  605 Ow G2 VI M5 D
+213-701       1427 C694126-9    Ni              A  103 Ow G8 V
+Shugii        1522 E776620-3    Ni Ag              904 Na M8 IV
+Lastop        1523 B344532-9    Ni Ag              303 Na M3 V
+Briua         1622 B55199E-C  F Hi Po              902 Na M2 V
+Blood         1625 C766100-7    Ni              A  204 Ow M2 V

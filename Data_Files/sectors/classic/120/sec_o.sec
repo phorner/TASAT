@@ -1,0 +1,54 @@
+@SUB-SECTOR:Cujus SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Oathcoomb     1732 X8C0000-0    Ba De Lo           024    
+Gesha         1736 C574553-8    Ag                 903 Na 
+Gika          1739 E533210-7    Lo                 702 Na 
+Dark Lagoon   1740 X578000-0    Ba Lo              013    
+Gimu          1832 D455342-7    Lo                 614 Na 
+Kuprod        1836 C667443-9  M                    203 Na 
+Gulfex        1838 D571478-8                       523 Na 
+Lanka         1931 C557996-6    Hi                 703 Na 
+Lamkuna       1933 E343300-7    Lo                 600 Na 
+Vicar         1934 E564544-4    Ag                 804 Na 
+Gulemam       1939 X525000-0    Ba Lo              010    
+Colossal      2036 XACA000-0    Ba Fl Lo Wa        004    
+Sledgetower   2038 X202000-0    Ba Ic Lo Va        023    
+Basin         2039 X613000-0    Ba Ic Lo           004    
+Elfwine       2131 C868975-7    Hi                 712 Na 
+Drumfall      2136 X100000-0    Ba Lo Va           000    
+Grottel       2234 X250000-0    Ba De Lo           003    
+Bastis        2237 X200000-0    Ba Lo Va           014    
+Bulldune      2238 X213000-0    Ba Ic Lo           020    
+Aaveri        2240 B462720-A  S                    822 Ia 
+Sunbank       2333 X526000-0    Ba Lo              004    
+Evilory       2334 X302000-0    Ba Ic Lo Va        014    
+Duatrek       2338 X947000-0    Ba Lo              011    
+Aania         2340 A888652-D  N Ag                 304 Ia 
+Straitedge    2431 X500000-0    Ba Lo Va           002    
+Mishi         2435 X222000-0    Ba Lo              000    
+Duatrek       2436 X615000-0    Ba Ic Lo           024    
+Deadfall      2437 X8B4000-0    Ba Fl Lo           014    
+Tarnkeep      2438 B9499DE-C  N Hi                 203 Ia 

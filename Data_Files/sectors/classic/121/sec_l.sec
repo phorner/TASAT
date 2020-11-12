@@ -1,0 +1,43 @@
+@SUB-SECTOR:Blar SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Koqcal        2521 C463AT4-F  M H0 Hi Hp           200 Hv G2 V M5 V
+Tranaq        2523 B658823-G    Hp                 220 Hv K4 V F0 D
+Kaqalwotqap   2527 B556665-F    Ag Ni Hp           333 Hv G9 V
+Iximuadiex    2622 D200215-C    Lo Ni Va           601 Hv G1 V
+Ldavu III     2624 C233863-E    Na Po              215 Hv F7 V
+Ko Ko         2627 D456405-D    Ni Hp              604 Hv G4 V
+Wragadroont   2721 D5726S1-9    Ni                 100 Hv G9 V
+Pignokniacosk 2723 C9A1314-F  M Fl Lo Ni           304 Hv M4 V M6 V
+Vuldahnoe     2724 C963405-A    Ni Gl              602 Hv K4 V
+Daapklafanapao2725 C9969T5-D    H0 Hi In Gl        600 Hv F5 V
+Uleafa        2727 E5747S4-C    Ag Hp              400 Hv K2 V
+Anarega       2729 A435723-F  L                    400 Hv G7 V
+Lakuar        2821 B443604-F    Ni Po Hp           100 Hv G3 V
+Phlunkikan    2824 E224204-A    Lo Ni              701 Hv G1 V G5 D
+Vawux         2829 B321823-F    Na Po              503 Hv G3 V M5 V
+Gluttipardrux 2923 B4776S3-F    Ag Ni Hn           110 Hv G2 V K3 V
+Epertionan    2927 C796AT2-F    H0 Hi In           214 Hv K5 V M2 D
+Loolqon       2928 B568204-E    Lo Ni Hp           612 Hv G2 V M4 V
+Tiaxmaner     2930 E543566-B    Ni Po Hp           722 Hv A3 V K3 V
+Traoslaildergi3021 D336727-9    Nh                 522 Hv G3 V
+Al Spe        3024 E5486S2-D    Ag Ni Hp           713 Hv G4 V M3 V M7 V M2 V
+Attrateoft    3025 E200722-F    Na Va              112 Hv K3 V M7 V
+Equst Al Bla  3026 X562497-3    Ni Nh           R  600 Hf M0 V
+Gooxati       3027 B310166-A  M Lo Ni Nh           700 Hv M4 V
+Ual Arldan    3030 B4515S1-F  L Ni Po              514 Hv G5 V M5 V
+Relunetacanhan3122 D8B5321-D    Fl Lo Ni           110 Hv G5 V
+Ran           3124 A233511-E  F Ni Po              104 Hv F6 V
+Meroonegonernu3125 B646564-8    Ag Ni Hp Nh        521 Hv F0 V
+Maskgeur      3128 D65A611-A  M Ni Wa              300 Hv K7 V M5 V
+Acapdet       3130 A2006S5-G  L Na Ni Va Cp        121 Hv M2 V
+Ginophlkex    3221 B546405-F  L Ni Hp              200 Hv G4 V
+Drituginaon   3225 E324665-C    Ni                 402 Hv M6 II
+Lyenac II     3227 C4338T2-E    Na Po              403 Hv K3 V
+Duna          3230 A763106-F  L Lo Ni St           221 Hv K5 V

@@ -1,0 +1,517 @@
+@SECTOR:Leonidae
+#
+#Dotmap from 
+#http://carbon.cudenver.edu/~lguatney/Q-IV/new/q-iv-jmp.gif 
+#Sector Listing from 
+#http://www.geocities.com/traveller_core_route/sectors.html 
+#Clifford Linehan 
+#and 
+#http://carbon.cudenver.edu/~lguatney/Q-IV/Q-IV.html 
+#http://home.earthlink.net/~ngc5139/FDA/index.html#CS 
+#Leroy W.L. Guatney alias, the Hindmost. 
+#
+#Sector generation by MADDOG 
+#mad13142000@yahoo.com 
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Imur          0103 A5479D9-E  N Hi                 224 Cu 
+Ulid          0106 A552564-C                       915 Cu  
+Ensik         0108 A362676-B                       814 Cu  
+Badkar        0110 A6648AA-C  2                    114 Cu  
+Gagim         0112 C541667-6                       210 Cu  
+Ghana         0114 X234000-0    Ba Lo              024     
+Ar-udam       0118 E454243-8  N Lo                 804 Gi  
+Ghi-khup'l    0125 C442546-9                       512 Gi  
+Simubu        0127 X340000-0    Ba De Lo           002     
+Dii           0128 X6A6000-0    Ba Fl Lo           014     
+Girkaramka    0130 X232000-0    Ba Lo              010     
+Gushila       0138 A53A843-A  N Wa                 610 Lp  
+Mili          0201 A538859-B                       803 Cu  
+Cytrial       0202 A9759A8-G  2 Hi              R  113 Cu  
+Khimir        0203 A663989-B  S Hi                 322 Cu  
+Ekapga        0206 A672898-8                       702 Cu  
+Adshum        0208 A5569CA-E  N Hi                 104 Cu  
+Shuli         0210 A7C1651-E    Fl                 303 Cu  
+Vale          0211 A55AAAA-E    Hi Wa              102 Cu  
+Ikikiidi      0214 X9B8000-0    Ba Fl Lo           034    
+Ar-ashid      0218 D9A1415-9  S Fl                 323 Gi 
+Ar-khim       0222 A48797B-E  N Hi                 120 Gi 
+Ghi-dukez     0223 B7A477A-9    Fl                 511 Gi 
+Ar-migu       0224 B666520-8  N Ag                 302 Gi 
+Anku          0225 X000000-0    As Ba Lo           003    
+Ramathaim     0226 X410000-0    Ba Lo              013    
+Anis          0229 X210000-0    Ba Lo              000    
+Kimanun       0230 A669348-B  N Lo                 901 Lp 
+Malibu        0232 E6879DF-5    Hi                 214 Lp 
+Rimere        0237 A8C7300-9    Fl Lo              900 Lp 
+Limaasa       0239 A45647A-A  N                    823 Lp 
+Kursha        0301 B465688-7  N Ag                 700 Cu 
+Gikuk         0302 A464348-C    Lo                 804 Cu 
+Gimuir        0303 B779311-D    Lo                 801 Cu 
+Gakim         0304 A266543-A    Ag                 920 Cu 
+Gidika        0307 B8A489B-9    Fl                 404 Cu 
+Dugash        0309 B75A567-B  S Ag Wa              703 Cu 
+Akhemik       0312 B899633-B    Ag                 800 Cu 
+Alloo         0313 X300000-0    Ba Lo Va           024    
+Ibadan        0314 X221000-0    Ba Lo              024    
+Mimosa        0315 E483211-4    Lo                 722 Na 
+Lusu          0316 D344422-8    Lo                 403 Na 
+Sagigiri      0317 X110000-0    Ba Lo              004    
+Ar-gniiv      0320 A7659AC-C  N Hi                 215 Gi 
+Ar-gimu       0321 A788752-9  N Ag                 913 Gi 
+Ghi-dan'l     0322 A64A889-C    Wa                 102 Gi 
+Ar-ha         0324 C7A3335-9  S Fl Lo              503 Gi 
+Kenaz         0326 X200000-0    Ba Lo Va           013    
+Jeheil        0328 X110000-0    Ba Lo              000    
+Ladel         0330 B527630-7                       504 Lp 
+Idagar        0331 A253778-C                       702 Lp 
+Agbashku      0336 A360998-C  N De Hi              101 Lp 
+Narluu        0337 C727352-A    Lo                 402 Lp 
+Udedi         0339 A52A7BD-D  N Wa                 704 Lp 
+Pikhadi       0402 A327300-B  N Lo                 702 Cu 
+Pigu          0405 E100579-7    Va                 402 Cu 
+Anshishu      0407 C545530-7    Ag                 312 Cu 
+Kepak         0408 A59875A-A  N Ag                 302 Cu 
+Timiim        0409 C240210-9  S De Lo              715 Cu 
+Gagash        0410 E490210-8    De Lo              203 Cu 
+Luresh        0411 A8639B9-A  N Hi                 420 Cu 
+Rashidah      0416 B340466-8  M De                 403 Na 
+Khishi        0428 C537774-8                       104 Lp 
+Khinki        0430 A87A662-C    Ag Wa              303 Lp 
+Jend          0431 AA5A9C9-D  J Ag Hi Wa        A  202 Lp 
+Sakid         0432 B9D7400-7                       423 Lp 
+Sumi          0434 D897210-7    Lo                 503 Lp 
+Imikikema     0436 C614213-9    Ic Lo              114 Lp 
+Nepa          0501 E573300-5    Lo                 504 Cu 
+Gipu          0502 C452422-8    Lo                 103 Cu 
+Shmaku        0503 B566565-A  S Ag                 103 Cu 
+Kugud         0509 B638357-A    Lo                 402 Cu 
+Ikiik         0510 D000212-A    As Lo              104 Cu 
+Maikaguun     0514 X327000-0    Ba Lo              003    
+Lishir        0515 E54026B-5    De Lo              710 Na 
+Eramasi       0517 C570424-7  M De                 513 Na 
+Daaku         0518 X210000-0    Ba Lo              000    
+Ishza         0521 X311000-0    Ba Ic Lo           012    
+Jagur         0522 X372000-0    Ba Lo              004    
+Nupam         0526 X344000-0    Ba Lo              000    
+Amam          0527 C663552-7                       201 Lp 
+Bi            0529 B42388D-7  N                    102 Lp 
+Kan           0530 A5816AB-7  M                    113 Lp 
+Surdasid      0531 A682989-B  M Hi                 913 Lp 
+Shimu         0537 E99A546-6    Ag Wa              310 Lp 
+Shus          0539 E58A776-5    Ag Wa              513 Lp 
+Radool        0602 C537200-9  S Lo                 202 Cu 
+Sakiirum      0604 X236000-0    Ba Lo              014    
+Nurashu       0605 X400000-0    Ba Lo Va           003    
+Moramines     0610 X8A6000-0    Ba Fl Lo           015    
+Abukaw        0615 D6B2357-9    Fl Lo              415 Na 
+Sikuriir      0616 D432360-7    Lo                 903 Na 
+Rabmag        0622 X310000-0    Ba Lo              000    
+Sopater       0623 X000000-0    As Ba Lo           003    
+Pukim         0625 C996552-A    Ag                 400 Lp 
+Bala          0628 A265968-D  2 Hi                 203 Lp 
+Gamiki        0632 C782451-8                       301 Lp 
+Vagabond      0701 X6B6000-0    Ba Fl Lo           000    
+Dalgstar      0704 X210000-0    Ba Lo              003    
+Retek 7       0705 X200000-0    Ba Lo Va           013    
+Akelos        0710 X8C4000-0    Ba Fl Lo           000    
+Arurshim      0713 X201000-0    Ba Ic Lo Va        013    
+Ugig          0719 X8C6000-0    Ba Fl Lo           003    
+Siza          0724 D977210-7    Lo                 903 Lp 
+Sligara       0729 AA57874-7                       513 Lp 
+Mikashiras    0732 D67A200-9  S Lo Wa              604 Lp 
+Shazash       0740 X100000-0    Ba Lo Va           004    
+Eslingirth    0801 X300000-0    Ba Lo Va           001    
+Fawn          0803 X100000-0    Ba Lo Va           002    
+Trin          0808 X400000-0    Ba Lo Va           003    
+Blendisan     0810 X000000-0    As Ba Lo           004    
+Liikhadukim   0812 X310000-0    Ba Lo              023    
+Kanidu        0815 X310000-0    Ba Lo              002    
+Brooklyn      0817 D424574-8                       225 Na 
+Kuudagim      0818 X412000-0    Ba Ic Lo           003    
+Aaringii      0820 X100000-0    Ba Lo Va           004    
+Fitchburg     0824 D74976A-5    Ag                 705 Lp 
+Ahira         0826 X235000-0    Ba Lo              014    
+Rechah        0827 XAB4000-0    Ba Fl Lo           012    
+Ice Flake     0839 X755200-2    Lo                 400 Na 
+Achbor        0901 X301000-0    Ba Ic Lo Va        024    
+Diblath       0902 E655352-6  P Lo                 904 Na 
+Bazluth       0904 X74A000-0    Ba Lo Wa           012    
+Nethum        0906 X846000-0    Ag                 010    
+Gatiameth     0910 X240000-0    Ba De Lo           014    
+Gagadanar     0911 X202000-0    Ba Ic Lo Va        002    
+Udibi         0913 E350420-3    De Lo              324 Na 
+Ad Duwayd     0916 E000216-7    As Lo              523 Na 
+Kulamkh       0917 X437000-0    Ba Lo              011    
+Gishish       0920 X200000-0    Ba Lo Va           012    
+Higgaion      0925 X8A4000-0    Ba Fl Lo           022    
+Emmor         0927 X500000-0    Ba Lo Va           005    
+Baldwin       0933 X240000-0    Ba De Lo           011    
+Atulellar     0935 X878230-3  P Ba Lo              224 Na 
+Zardkent      0936 X270000-0    Ba De Lo           000    
+Mindis        1001 X222000-0    Ba Lo              013    
+Diikhe        1003 E300264-9    Lo Va              104 Na 
+Iini          1007 X236000-0    Ba Lo              010    
+Gandy's Luck  1008 D958876-4                       802 Na 
+Diosd         1010 X200000-0    Ba Lo Va           014    
+Ginestra      1011 D74778A-5    Ag                 903 Na 
+Mugo          1015 D5657B7-2    Ag                 825 Na 
+Shitara       1017 D654873-5                       204 Na 
+Waldryl       1019 D88A534-6    Ag Wa              504 Na 
+Gar           1020 X310000-0    Ba Lo              003    
+Igizak        1022 E200212-7    Lo Va              702 Na 
+Idagiki       1027 X450330-2  P De Lo              622 Na 
+Eliakim       1030 X6B6000-0    Ba Fl Lo           024    
+Kini          1033 X200000-0    Ba Lo Va           024    
+Dashi         1034 X200000-0    Ba Lo Va           002    
+Menanon       1036 E240356-7    De Lo              802 Na 
+Kirdon        1101 X373000-0                       023    
+Misagim       1102 X320000-0    De                 005    
+Ilurda        1105 D95A623-6    Ag Wa              904 Na 
+Nusakan       1106 C89A9BD-D  N Hi Wa              510 Na 
+Uulikhish     1107 C436612-B  M                    702 Na 
+Damevang      1108 C62A468-9    Wa                 704 Na 
+Iimsii        1110 X584000-0                       003    
+An Ting       1111 C260340-7    De Lo              601 Na 
+Marshdale     1114 C343314-7    Lo                 323 Na 
+Idlewind      1115 D275463-8                       604 Na 
+Khaashu       1117 X9C3000-0    Ba Fl Lo           003    
+Gedi          1123 E452210-7    Lo                 702 Na 
+Linip         1129 C434366-8    Lo                 935 Na 
+Neosho        1130 C43136A-A  M Lo                 702 Na 
+Ugalur        1134 E533500-8                       222 Na 
+Nevguard      1139 D68A67A-5    Ag Wa              404 Na 
+Roshena       1140 C777227-9    Lo                 903 Na 
+Urginkir      1208 D654533-4    Ag                 105 Na 
+Urur          1206 C470423-7    De                 305 Na 
+Kaesong       1209 E78A466-4    Wa                 500 Na 
+Kimudkagi     1210 X443000-0                       002    
+Kirbyville    1213 C762979-8  M Hi                 913 Na 
+Muphrid       1220 C55656A-7    Ag                 604 Na 
+Gakhum        1221 XAC4000-0    Ba Fl Lo           001    
+Danites       1222 DAE3465-6    Lo                 503 Na 
+Khakhuki      1227 X200000-0    Ba Lo Va           023    
+Galtor        1228 B99A99E-9  N Hi Wa              303 Na 
+Howarth       1234 D326589-7                       911 Na 
+Janvel        1237 C727467-7                       422 Na 
+Sastanna      1307 C9B6210-8    Fl Lo              810 Na 
+Diboll        1308 C544553-5    Ag                 913 Na 
+Kekharshu     1310 E000313-8    As Lo              912 Na 
+Glengarry     1311 E483321-8    Lo                 705 Na 
+Lagar         1312 X227000-0    Ba Lo              001    
+Barnett       1314 B84A723-9  M Ag Wa              904 Na 
+Yed Prior     1316 B8A2656-9  M Fl                 604 Na 
+Espakeh       1319 D777899-6    Hi                 605 Na 
+Karu          1325 X120000-0    Ba De Lo           004    
+Keruk         1327 D343633-7                       322 Na 
+Niles         1329 C7C3488-8    Fl                 523 Na 
+Gikamdi       1330 X352260-3    Lo Po Ni           414 Na 
+Arkwright     1331 D584988-3    Hi                 600 Na 
+Savinsville   1335 C574210-7    Lo                 824 Na 
+Miyada        1336 B36758C-9    Ag                 901 Na 
+Eshmili       1401 X234000-0    Ba Lo              002    
+Maldonado     1403 D988265-3    Lo                 711 Na 
+Sasnikir      1405 D573200-6    Lo                 811 Na 
+Al Hillah     1406 C464495-5                       501 Na 
+Ganshoren     1409 D757433-3    Lo                 524 Na 
+Keshe         1410 X100000-0    Ba Lo Va           003    
+Latexo        1412 C787732-6    Ag                 103 Na 
+Puriton       1413 X9C0000-0    Ba De Lo           003    
+Hobbs         1417 X415000-0    Ba Ic Lo           003    
+Shirakidasu   1420 D200565-8    Va                 702 Na 
+Kigiikidasu   1421 D512368-7    Ic Lo              424 Na 
+Igiishidasu   1422 C476689-7    Ag                 803 Na 
+Sugashidasu   1423 D497515-9  N Ag                 502 Na 
+Shisaridasu   1424 D754488-2                       321 Na 
+Halesowen     1427 D9DA8B6-7    Wa                 100 Na 
+Giras         1429 C629443-8                       200 Na 
+Lonaconing    1431 D785210-8    Lo                 405 Na 
+Leskovik      1437 A69478B-B  N Ag                 524 Na 
+Icar          1508 D66A895-6    Ri Wa              200 Na 
+Koringap      1514 X436000-0    Ba Lo              003    
+Doric         1517 D692219-6  P Lo                 903 Na 
+Ogundipe      1521 X531000-0    Ba Lo              002    
+Ergad         1523 X44847B-3  P Lo Ni              204 Na 
+Sulafat       1529 C160562-7    De                 413 Na 
+Agergrania    1536 A79A642-9    Ag Wa              804 Na 
+Hagolton      1538 B450476-C    De                 114 Na 
+Namdamirum    1601 X210000-0    Ba Lo              000    
+Lisisha       1602 E552352-6  P Lo                 304 Na 
+Milligan      1604 E160200-8    De Lo              322 Na 
+Gudadmikam    1606 X334000-0    Ba Lo              003    
+Shaul Khala   1608 X8B3000-0    Ba Fl Lo           002    
+Thruhleow     1614 C270362-6    De Lo              803 Na 
+Meragrand     1618 X300000-0    Ba Lo Va           002    
+Ler           1621 BA9A9C9-9  N Hi Wa              501 Na 
+Gdankh        1623 X100000-0    Ba Lo Va           004    
+Dilid         1627 X200000-0    Ba Lo Va           004    
+Khimaki       1628 X380000-0    Ba De Lo           004    
+Akiikiroga    1630 X400000-0    Ba Lo Va           014    
+Alclaria      1631 E733455-8                       604 Na 
+Zagrathis     1633 X669237-1  P Lo                 704 Na 
+Aitken        1635 A687751-9  M Ag                 104 Na 
+Dunbaris      1636 B764565-7    Ag                 222 Na 
+Walgrave      1638 X300000-0    Ba Lo Va           002    
+Conanel       1640 E354357-7    Lo                 925 Na 
+Ismaili       1702 X200000-0    Ba Lo Va           013    
+Usargag       1703 X100000-0    Ba Lo Va           004    
+Hansen        1704 X140000-0    Ba De Lo           010    
+Rawlings      1705 X310000-0    Ba Lo              003    
+Nadrin        1706 E400210-8    Lo Va              603 Na 
+Karni         1707 X621000-0    Ba Lo              002    
+Usurkush      1708 X200000-0    Ba Lo Va           023    
+Apnaag        1709 X6A3000-0    Ba Fl Lo           003    
+Micere        1710 X506000-0    Ba Ic Lo Va        004    
+Meschac       1711 X400000-0    Ba Lo Va           003    
+Shadrac       1712 X210000-0    Ba Lo              003    
+Abednigo      1713 XAB3000-0    Ba Fl Lo           004    
+Mukikikam     1720 E988447-5                       204 Na 
+Kumu          1723 D989773-2    Ag                 514 Na 
+Jenna         1724 D386310-8    Lo                 203 Na 
+Gursira       1725 D8B4210-7    Fl Lo              914 Na 
+Oathcoomb     1732 X8C0000-0    Ba De Lo           024    
+Gesha         1736 C574553-8    Ag                 903 Na 
+Gika          1739 E533210-7    Lo                 702 Na 
+Dark Lagoon   1740 X578000-0    Ba Lo              013    
+Gunzburg      1801 E446300-9  P Lo                 925 Na 
+Agematsu      1802 E344262-5    Lo                 603 Na 
+Kikudeg       1803 X9B5000-0    Ba Fl Lo           020    
+Gezikhis      1804 X000000-0    As Ba Lo           024    
+Kesesh        1806 D547565-5  N Ag                 812 Na 
+Aamanda       1807 X100000-0    Ba Lo Va           002    
+Gimdushak     1808 X431000-0    Ba Lo              004    
+Kuzuu         1809 A7498EG-9  M                 R  511 Na 
+Emiga         1810 X400000-0    Ba Lo Va           003    
+Endicott      1811 E442456-5    Lo                 512 Na 
+Masada        1813 D6108EJ-7                    R  703 Na 
+Nakanyike     1817 X230000-0    Ba De Lo           002    
+Digide        1820 D263579-7  P                    903 Na 
+Dukan         1822 D888254-5    Lo                 321 Na 
+Himonga       1823 D275200-7    Lo                 400 Na 
+Iishushi      1824 E502210-8    Ic Lo Va           600 Na 
+Chuma Kalu    1827 X433000-0    Ba Lo              003    
+Mud           1828 B685559-8    Ag                 802 Na 
+Lumari        1829 C3669BD-B    Hi                 904 Na 
+Pegirid       1830 X100000-0    Ba Lo Va           000    
+Gimu          1832 D455342-7    Lo                 614 Na 
+Kuprod        1836 C667443-9  M                    203 Na 
+Gulfex        1838 D571478-8                       523 Na 
+Ridishi       1901 X230000-0    Ba De Lo           012    
+Irdi          1902 X8B5000-0    Ba Fl Lo           004    
+Kimu          1904 X100000-0    Ba Lo Va           005    
+Luzernne      1906 C78A387-7    Lo Wa              214 Na 
+Dikushii      1907 C554357-9    Lo                 824 Na 
+Argiker       1918 B443435-B                       501 Na 
+Ligug         1920 C320310-9    De Lo              313 Na 
+Gakisha       1921 C642A9A-B  N Hi                 100 Na 
+Adiida        1922 D322200-7    Lo                 114 Na 
+Lagiir        1925 X000000-0    As Ba Lo           000    
+Woodstock     1930 BAC4464-A  N Fl                 604 Na 
+Lanka         1931 C557996-6    Hi                 703 Na 
+Lamkuna       1933 E343300-7    Lo                 600 Na 
+Vicar         1934 E564544-4    Ag                 804 Na 
+Gulemam       1939 X525000-0    Ba Lo              010    
+Lund          2003 E45777B-6  P Ag                 325 Na 
+Kirkbride     2005 C578787-9    Ag                 113 Na 
+Ueda          2007 B326312-E    Lo                 503 Na 
+Leak          2008 C79A679-8    Ag Wa              700 Na 
+Idnukagaka    2013 C644744-7    Ag                 715 Na 
+Iknugagaka    2014 B533365-8    Lo                 203 Na 
+Ilnuhagaka    2015 A8959CC-C  N Hi                 302 Na 
+Arsa          2018 D474443-6    Lo                 305 Na 
+Awano         2023 E201200-A    Ic Lo Va           404 Na 
+Agadu         2026 BA8A854-C  M Wa                 100 Na 
+Gika          2027 B746455-8                       904 Na 
+Colossal      2036 XACA000-0    Ba Fl Lo Wa        004    
+Sledgetower   2038 X202000-0    Ba Ic Lo Va        023    
+Basin         2039 X613000-0    Ba Ic Lo           004    
+Molara        2101 E457400-5    Lo                 820 Na 
+Pearce        2104 D681679-3                       602 Na 
+Tola          2106 B97AA78-D  N Hi Wa              121 Na 
+Petterborg    2107 A667979-B  N Hi                 614 Na 
+Steady A      2108 B687642-A  M Ag                 314 Na 
+Apgisa        2116 XAC9000-0    Ba Fl Lo           023    
+Dakade        2119 D200210-7    Lo Va              200 Na 
+Amidsha       2124 X546000-0    Ba Lo              004    
+Anthonia      2125 C746200-8    Lo                 120 Na 
+Skokie        2126 B445769-9    Ag                 103 Na 
+Mugambi       2127 B879465-9                       524 Na 
+Elfwine       2131 C868975-7    Hi                 712 Na 
+Drumfall      2136 X100000-0    Ba Lo Va           000    
+Lu            2202 X130000-0    Ba De Lo           013    
+Ashirama      2203 X312000-0    Ba Ic Lo           004    
+Wellesley     2204 C9C9210-9    Fl Lo              614 Na 
+Khap          2206 B9B7311-D    Fl Lo              304 Na 
+Chioma        2208 C99A753-8    Ag Wa              304 Na 
+Filomena      2209 C451216-A    Lo                 922 Na 
+Biko          2210 C565612-5    Ag                 103 Na 
+Panumil       2212 C445583-7    Ag                 410 Na 
+Abbenyi       2218 X210000-0    Ba Lo              004    
+Dadem         2221 E223211-A    Lo                 422 Na 
+Dunilii       2223 X110000-0    Ba Lo              005    
+Mi            2225 C692200-9    Lo                 504 Na 
+Khagar        2226 B756322-8    Lo                 305 Na 
+Adilar        2228 B79A657-9  M Ag Wa              624 Na 
+Merrill       2230 X000000-0    As Ba Lo           004    
+Grottel       2234 X250000-0    Ba De Lo           003    
+Bastis        2237 X200000-0    Ba Lo Va           014    
+Bulldune      2238 X213000-0    Ba Ic Lo           020    
+Aaveri        2240 B462720-A  S                    822 Ia 
+Agozino       2301 D678377-9  P Lo                 913 Na 
+Irishga       2302 X335000-0    Ba Lo              001    
+Ukhimegur     2303 X300000-0    Ba Lo Va           002    
+Kumkha        2305 X300000-0    Ba Lo Va           001    
+Kiiku         2308 C7856AB-4    Ag                 720 Na 
+Gasur         2309 X100000-0    Ba Lo Va           013    
+Arminaad      2310 D667775-1    Ag                 312 Na 
+Lakhu         2311 X160000-0    Ba De Lo           024    
+Nfah          2312 C97A887-8  M Wa                 703 Na 
+Makuchi       2316 X7A3000-0    Ba Fl Lo           003    
+Onaiwu        2317 X310000-0    Ba Lo              011    
+Dakuka        2320 D888263-1    Lo                 601 Na 
+Van Orden     2321 X447551-3  P Ag Ni              224 Na 
+Khamdadi      2326 C754567-5    Ag                 201 Na 
+Shumdadi      2327 X000000-0    As Ba Lo           004    
+Khumdadi      2328 A89877A-8    Ag                 115 Na 
+Garimus       2329 B371752-7                       101 Na 
+Sunbank       2333 X526000-0    Ba Lo              004    
+Evilory       2334 X302000-0    Ba Ic Lo Va        014    
+Duatrek       2338 X947000-0    Ba Lo              011    
+Aania         2340 A888652-D  N Ag                 304 Ia 
+Ikerkhumu     2403 X8B5000-0    Ba Fl Lo           004    
+Girkus        2408 C7A5359-A    Fl Lo              810 Na 
+Laanii        2414 X120000-0    Ba De Lo           023    
+Zoetermeer    2416 D537265-7    Lo                 704 Na 
+Ogbomo        2418 X110000-0    Ba Lo              001    
+Greenlee      2423 X566499-2  P                    713 Na 
+Talbot 3      2426 C223200-A    Lo                 504 Na 
+Chantel       2427 B451589-6                       212 Na 
+Packer-Stocks 2430 C638323-7    Lo                 904 Na 
+Straitedge    2431 X500000-0    Ba Lo Va           002    
+Mishi         2435 X222000-0    Ba Lo              000    
+Duatrek       2436 X615000-0    Ba Ic Lo           024    
+Deadfall      2437 X8B4000-0    Ba Fl Lo           014    
+Tarnkeep      2438 B9499DE-C  N Hi                 203 Ia 
+Ikukag        2502 X526000-0    Ba Lo              015    
+Foster        2509 X130000-0    Ba De Lo           002    
+Titilayo      2515 D3547AB-4    Ag                 701 Na 
+Kudzidu       2519 C413300-A    Ic Lo              700 Na 
+Ashirar       2521 E597200-6    Lo                 324 Na 
+Rio           2526 C44278B-6                       614 Na 
+Akham         2527 C663643-6                       213 Na 
+Barlow's End  2530 B625655-A                       103 Na 
+Annuis        2531 C644357-C    Lo                 404 Na 
+Boguet        2532 X200000-0    Ba Lo Va           023    
+Baphomet      2534 EA5A777-B    Wa                 514 Na 
+Oberitis      2537 X100000-0    Ba Lo Va           015    
+Aadeshi       2539 B759588-9    Ag                 204 Ia 
+Aakakga       2540 A464676-9    Ag                 622 Ia 
+Vigilson      2606 X200000-0    Ba Lo Va           004    
+Stonybrook    2607 E74A998-6    Hi Wa              400 Na 
+Nkiru         2608 X8C6000-0    Ba Fl Lo           023    
+Tsanga        2619 B6938A7-9                       901 Na 
+Schwedi Prime 2623 E555454-3                       414 Na 
+Lipton        2626 B55A300-B    Lo Wa              824 Na 
+Ukise         2630 B3447A7-9    Ag                 304 Na 
+Jadian        2631 B868678-9  N Ag                 503 Na 
+Kian          2635 X320000-0    Ba De Lo           020    
+Monad         2636 X200000-0    Ba Lo Va           023    
+Diable        2637 X000000-0    As Ba Lo           040    
+Aagika        2638 C9B6420-8  S Fl                 314 Ia 
+Liirsam       2701 X301000-0    Ba Ic Lo Va        004    
+Lignaam       2704 X500000-0    Ba Lo Va           024    
+Nzegwu        2705 X000000-0    As Ba Lo           000    
+Ashkulir      2710 X330000-0    Ba De Lo           004    
+Salo          2711 X310000-0    Ba Lo              024    
+Dinkii        2716 X202000-0    Ba Ic Lo Va        005    
+Grey          2725 B35289A-9                       810 Na 
+Usliki        2728 B698567-8    Ag                 500 Na 
+Bududi        2729 D574654-5    Ag                 724 Na 
+Spiegel       2731 X210000-0    Ba Lo              004    
+Dawnlord      2732 X5A4000-0    Ba Fl Lo           000    
+Melantris     2733 A6669C7-C  D Hi              A  402 Na 
+Aakigku       2739 A98AA65-G  N Hi Wa              302 Ia 
+Oyewumi       2803 X638000-0    Ba Lo              014    
+Arudniku      2807 X350000-0    Ba De Lo           002    
+Uzugas        2808 X97A000-0    Ba Lo Wa           003    
+Lagadilur     2810 X8A4000-0    Ba Fl Lo           013    
+Kuukadi       2817 X000000-0    As Ba Lo           003    
+Dels          2821 E5A0242-8    De Lo              404 Na 
+Preston       2822 X110000-0    Ba Lo              002    
+Gandam        2829 D685513-5    Ag                 302 Na 
+Shrew         2834 X000000-0    As Ba Lo           000    
+Aakimmi       2838 A97779C-9  S Ag                 504 Ia 
+Aadga         2839 A968788-A    Ag                 814 Ia 
+Aamalar       2840 A5599DE-C    Hi                 114 Ia 
+Mikenalu      2905 X326000-0    Ba Lo              013    
+Oyeronke      2908 X300000-0    Ba Lo Va           002    
+Khurkum       2910 X427000-0    Ba Lo              012    
+Ufomata       2919 X673000-0    Ba Lo              013    
+Ukad          2922 D7A3210-A    Fl Lo              202 Na 
+Mustafa       2924 X8A4000-0    Ba Fl Lo           000    
+Iriri         2925 B3889AB-B  M Hi                 404 Na 
+Aadiku        2940 A547362-C    Lo                 303 Ia 
+Ijuw          3001 A353A99-F  N Hi                 114 Cr 
+Aidoo         3002 B699562-9    Ag                 902 Cr 
+Pa-she        3004 D469473-9                       213 Cr 
+Uuk-lam       3006 C444468-8                       304 Cr 
+Gis-ru        3007 B626568-B  N                    505 Cr 
+Gig-nir       3009 A79678B-A  M Ag                 903 Cr 
+Ki-ze         3010 A571988-B  N Hi                 905 Cr 
+Fawzia        3023 X6A0000-0    Ba De Lo           005    
+Agir          3026 C8997BE-5    Ag                 603 Na 
+Othilia       3031 X636000-0    Ba Lo              014    
+Aashuna       3035 D87A430-8  S Wa                 714 Ia 
+Aaguun        3037 D867896-6                       701 Ia 
+Aagirirza     3038 C575530-7    Ag                 600 Ia 
+Niles         3039 B789568-B  N Ag                 614 Ia 
+Zap-du        3103 C461779-B                       414 Cr 
+Pushik        3109 A763635-9                       310 Cr 
+Sha-gal       3110 A58698B-9  M Hi                 623 Cr 
+Gri-ulm       3118 B44479B-8    Ag                 825 Cr 
+Balim         3123 E53A200-8    Lo Wa              104 Na 
+Makerere      3124 X000000-0    As Ba Lo           024    
+Sisiza        3125 B331253-B  M Lo                 512 Na 
+Arla          3126 D478434-8                       903 Na 
+Muguu         3127 E472422-8                       104 Na 
+Ugaad         3129 X485402-2  P Lo                 303 Na 
+Germi         3131 X310000-0    Ba Lo              000    
+Aakishi       3135 C593200-8    Lo                 600 Ia 
+Man-dag       3201 C336457-E  S                    123 Cr 
+Lish-nar      3205 C489552-8    Ag                 104 Cr 
+In-ru         3206 B672879-B                       804 Cr 
+Ibu-khe       3210 A3679DB-D  N Hi                 202 Cr 
+Urbana        3217 B8649A8-B  N Hi                 115 Cr 
+Ekir          3223 X5A0000-0    Ba De Lo           020    
+Igarin        3224 B87A459-B  N Wa                 504 Na 
+Musisi        3229 X000000-0    As Ba Lo           021    
+Devradan      3231 X200000-0    Ba Lo Va           010    
+Aakhum        3233 B310333-A    Lo                 211 Ia 
+Aagidumi      3234 A4427BE-C  N                    412 Ia 
+Aagumam       3235 A5679CD-D    Hi                 204 Ia 
+Adisi         3237 A783974-C  S Hi                 113 Ia 
+Aamagus       3238 A877420-C                       900 Ia 
+Aagmigi       3239 AA6AA9B-F  N Hi Wa              110 Ia 

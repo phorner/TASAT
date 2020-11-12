@@ -1,0 +1,49 @@
+@SUB-SECTOR:Ruffoi SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Baldwin       0933 X240000-0    Ba De Lo           011    
+Atulellar     0935 X878230-3  P Ba Lo              224 Na 
+Zardkent      0936 X270000-0    Ba De Lo           000    
+Kini          1033 X200000-0    Ba Lo Va           024    
+Dashi         1034 X200000-0    Ba Lo Va           002    
+Menanon       1036 E240356-7    De Lo              802 Na 
+Ugalur        1134 E533500-8                       222 Na 
+Nevguard      1139 D68A67A-5    Ag Wa              404 Na 
+Roshena       1140 C777227-9    Lo                 903 Na 
+Howarth       1234 D326589-7                       911 Na 
+Janvel        1237 C727467-7                       422 Na 
+Arkwright     1331 D584988-3    Hi                 600 Na 
+Savinsville   1335 C574210-7    Lo                 824 Na 
+Miyada        1336 B36758C-9    Ag                 901 Na 
+Lonaconing    1431 D785210-8    Lo                 405 Na 
+Leskovik      1437 A69478B-B  N Ag                 524 Na 
+Agergrania    1536 A79A642-9    Ag Wa              804 Na 
+Hagolton      1538 B450476-C    De                 114 Na 
+Alclaria      1631 E733455-8                       604 Na 
+Zagrathis     1633 X669237-1  P Lo                 704 Na 
+Aitken        1635 A687751-9  M Ag                 104 Na 
+Dunbaris      1636 B764565-7    Ag                 222 Na 
+Walgrave      1638 X300000-0    Ba Lo Va           002    
+Conanel       1640 E354357-7    Lo                 925 Na 

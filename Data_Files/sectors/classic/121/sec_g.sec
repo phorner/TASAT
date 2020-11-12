@@ -1,0 +1,38 @@
+@SUB-SECTOR:Kavix SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Pakoogiosam   1712 C554504-A  M Ag Ni Hp           903 Hv K7 V
+Eto           1713 A548263-A    Lo Ni Hp Nh        422 Hv G0 V M3 V
+Keukkasknender1715 C9C4465-6    Fl Ni Nh        A  602 Hv M6 V
+Reneanthetlyyn1716 B341203-F    Lo Ni Po           624 Hv K5 V
+Driild I      1718 C222104-A  M Lo Ni Po           503 Hv K5 V
+Gysliqbloon   1719 C443668-4    Ni Po Hp Nh     A  614 Hv K6 V
+Kewrackaga    1816 A5228S3-F  E Na Po              202 Hv F8 V
+Dronspafgen   1818 E7C1324-C    Fl Lo Ni           420 Hv M4 V
+Ornwranin     1819 B1006S2-B    Na Ni Va           114 Hv A9 V G1 V
+Drit          1820 B444102-D  M Lo Ni Hp           711 Hv K5 V
+Nyska         1911 B514206-D    Lo Ni Ic           903 Hv M7 II
+Pekaure       1919 D453516-9    Ni Po Hp           723 Hv F9 V K0 V G3 D A6 D
+Gemphluq      2012 C79A5S4-B    Ni Wa              722 Hv G6 V
+Kukwraldporark2014 A435567-7  E Ni Nh              103 Hv K8 V M4 V
+Arndriopoldant2015 C427203-C    Lo Ni              500 Hv G2 V
+Nucomkic      2113 X5706AA-1    Ni De Nh        R  312 Hf K1 V M6 V
+Leeckoaskoo   2211 C451526-C  M Ni Po              314 Hv K2 V
+Gixatinen     2212 E464104-6    Lo Ni Hp           303 Hv K9 V
+Iphlandroyr   2213 E6566S5-7    Ag Ni Hp           924 Hv G6 V
+Kathnexfo     2215 C661305-E    Lo Ni              923 Hv K3 V
+Phlocnuansk   2218 AA8A722-F  L Ri Wa              912 Hv G8 V
+Cac Uruackno  2220 C77A666-E  M Ni Wa              300 Hv K4 V
+At Maerponkert2313 E4497S3-A    Hp                 100 Hv K4 V
+Oocdenakpisk  2314 A639664-8    Ni Nh              700 Hv G2 V
+Gacuarkaup    2412 B356616-C    Ag Ni Hp           102 Hv G2 V
+Klaost II     2414 E544622-A  M Ag Ni Hp           702 Hv K1 V M1 V
+Nuapuasup     2415 X210347-0    Lo Ni Nh        R  904 Hf K3 II K2 V
+Lavorevut     2416 C1009S1-F    H0 Na Hi In Va     701 Hv A6 V
+Phlemislar    2420 A658866-G  L Hp Cp Mr           203 Hv G8 V M3 V

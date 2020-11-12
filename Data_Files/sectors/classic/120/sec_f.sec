@@ -1,0 +1,54 @@
+@SUB-SECTOR:Linnae SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gagadanar     0911 X202000-0    Ba Ic Lo Va        002    
+Udibi         0913 E350420-3    De Lo              324 Na 
+Ad Duwayd     0916 E000216-7    As Lo              523 Na 
+Kulamkh       0917 X437000-0    Ba Lo              011    
+Gishish       0920 X200000-0    Ba Lo Va           012    
+Ginestra      1011 D74778A-5    Ag                 903 Na 
+Mugo          1015 D5657B7-2    Ag                 825 Na 
+Shitara       1017 D654873-5                       204 Na 
+Waldryl       1019 D88A534-6    Ag Wa              504 Na 
+Gar           1020 X310000-0    Ba Lo              003    
+An Ting       1111 C260340-7    De Lo              601 Na 
+Marshdale     1114 C343314-7    Lo                 323 Na 
+Idlewind      1115 D275463-8                       604 Na 
+Khaashu       1117 X9C3000-0    Ba Fl Lo           003    
+Kirbyville    1213 C762979-8  M Hi                 913 Na 
+Muphrid       1220 C55656A-7    Ag                 604 Na 
+Glengarry     1311 E483321-8    Lo                 705 Na 
+Lagar         1312 X227000-0    Ba Lo              001    
+Barnett       1314 B84A723-9  M Ag Wa              904 Na 
+Yed Prior     1316 B8A2656-9  M Fl                 604 Na 
+Espakeh       1319 D777899-6    Hi                 605 Na 
+Latexo        1412 C787732-6    Ag                 103 Na 
+Puriton       1413 X9C0000-0    Ba De Lo           003    
+Hobbs         1417 X415000-0    Ba Ic Lo           003    
+Shirakidasu   1420 D200565-8    Va                 702 Na 
+Koringap      1514 X436000-0    Ba Lo              003    
+Doric         1517 D692219-6  P Lo                 903 Na 
+Thruhleow     1614 C270362-6    De Lo              803 Na 
+Meragrand     1618 X300000-0    Ba Lo Va           002    

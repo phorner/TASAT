@@ -1,0 +1,49 @@
+@SUB-SECTOR:Adar SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+$0104 3204 -1 0
+$0104 0102 0 0
+$0102 0201 0 0
+$0201 0402 0 0
+$0402 0602 0 0
+$0602 0801 0 0
+$0801 1001 1 0
+$0402 0603 0 0
+$0603 0605 0 0
+$0605 0806 0 0
+$0806 0907 1 0
+$0608 0907 1 0
+$0608 0407 0 0
+$0608 0610 0 0
+$0610 0410 0 0
+$0210 0311 0 1
+$0410 0311 0 1
+$0610 0712 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Nahru         0101 D100201-6    Ni Va              703 Ra G0 V M8 D
+Halanna       0102 X62A442-5    Ni Wa           A  300 Ra M3 V
+Adar          0104 B100456-A    Ni Va Cx           402 Im M3 V M5 D
+Kaggits       0201 A445300-B  F Ni                 214 Ra M7 V
+Deymun Na     0210 B110352-D  F Ni                 104 Ra K3 V M5 V
+Terbain       0306 C98A523-6    Ni Wa              603 Na K3 V M9 D
+Nii           0307 C110599-C    Ni                 803 Na M1 V
+Venad         0402 A221621-B    Ni Po Na           324 Im M0 V M6 D
+Dirmidi       0406 E3107CE-4    Na              A  403 Na M0 V M0 D
+Gerdane       0407 C000110-7    Ni As              901 Ra M9 III M7 D
+Leral         0410 D110411-9    Ni                 921 Ra A2 V
+Ginshar       0501 A410631-B  J Ni Na           A  803 Na K2 V
+Luki          0504 E79A758-7    Wa                 604 Na M4 V M4 D
+Frelda        0505 C100441-8    Ni Va              812 Ra M3 V
+Fugitak       0602 C5A027A-5    Ni De           A  125 Na F2 V M3 D
+Dermif Na     0603 B442521-7  F Ni Po              522 Ra M0 V
+Luggi         0605 C6978AD-5                       324 Ra K0 V
+Sablass       0608 B6A0402-B  F Ni De              803 Ra M0 V
+Konn          0610 E555416-6    Ni                 104 Na G0 V M7 D
+Pike          0708 A637644-8    Ni                 104 Na M3 V M5 D
+Neuria        0710 E200444-8    Ni Va              112 Na M4 V M4 D M4 D
+Boilingbrook  0801 A9C9751-D                       700 Na G0 II
+Uumanur       0806 B552444-A  M Ni Po              820 Na K2 IV
+Salmri        0807 E769585-6    Ni              A  202 Ra M1 V

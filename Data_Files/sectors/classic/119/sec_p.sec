@@ -1,0 +1,36 @@
+@SUB-SECTOR:Aquila SECTOR:Hinterworlds
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3136 0136 1 0
+$3136 2834 0 0
+$2834 2436 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Mamgarimu     2533 C68479B-4    D3 Ri Ag           404 Na M0 III
+Derivann      2534 B85A210-9    Ni Wa              203 Na K8 V
+Beenateotyl   2536 E772132-5    Ni                 703 Na M9 V
+Huraal        2539 E698143-6    Ni                 111 Na K7 V
+Wygren        2540 B884350-9    Ni                 524 Na K6 V
+Shilling      2634 C789774-4    Ri                 903 Na M0 V M2 D
+Glodon        2635 D400501-4    Ni Va              600 Na M6 IV
+Caramond      2731 A534454-B    Ni                 502 Na G2 V
+Giliim        2736 C7A3435-9    Ni                 803 Na K3 V M9 D
+Varin-yeel    2738 B353630-A    Ni Po              714 Na M1 V
+Carnir        2739 A11045A-D    Ni                 714 Na K1 V
+Opayix        2831 B422513-8    Ni Po           A  323 Na K6 IV
+Cyveel        2832 BA5A203-B    Ni Wa              313 Na M4 V
+Entyrbal      2833 A579410-A    C1 Ni              712 Na F0 V
+Syth          2834 C8C8853-6                       110 Na K2 V M2 D
+Isannix       2840 C110546-8    Ni                 524 Na M0 V
+Sysix         2935 B623300-B    Ni Po              624 Lp M7 V
+Horizon       2936 E20099B-9    Hi In Va Na        204 Lp K1 V
+Osyrmir       3031 C6B1677-7    Ni                 103 Na K2 V
+Brovarr       3033 C100876-7    Va Na              824 Na K4 V
+Geval         3035 B426777-C                       112 Lp M6 IV
+Hervash       3131 C88A79B-5    Ri Wa              702 Na M3 V
+Sanzig        3135 C300867-A    Va Na              103 Lp G2 V M3 D
+Nyralys       3136 B4448BC-9                       704 Lp M0 V M4 D
+Lendisa       3233 C785556-A    Ni Ag              104 Lp M1 V M4 D

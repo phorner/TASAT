@@ -1,0 +1,11 @@
+@SUB-SECTOR:Kaalakhi SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0319          0319 X100000-5    Ba Lo Ni Va        014 Na M3 V M9 D M8 D
+0712          0712 X445013-0    Lo Ni              004 Na F7 V

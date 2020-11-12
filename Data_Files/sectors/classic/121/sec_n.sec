@@ -1,0 +1,34 @@
+@SUB-SECTOR:Cafesk SECTOR:Extolian
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hoyt          0934 A735658-9    Ni                 400 Na G8 V M1 V
+Five          0937 E455466-6    Ni Hp              600 6w G1 V M9 V
+Port Ames     1031 B65A132-A  M Lo Ni Wa           721 Na G9 V
+One           1036 A521657-D    Na Ni Po Ac        615 6w K5 V
+Four          1037 C696640-6    Ag Ni              715 6w F2 V M9 V
+Aanupakanapix 1039 D000AU1-8    H0 Na Hi In As     103 Hv M7 V M7 V M3 V
+Sion          1040 A120104-9  E Lo Ni Po De        823 Hv K3 III
+Irnaxril      1132 B303604-E    Na Ni Va Ic        814 Hv F6 III
+Gluxwiumof    1136 C355306-C    Lo Ni Hp           703 Hv A5 V
+Spaick        1231 A6486S6-D    Ag Ni Hp           401 Hv F9 V M0 V M3 V M6 V
+El Muqiold    1232 C323105-9    Lo Ni Po           612 Hv A0 V K5 V
+Idin II       1233 C778403-9    Ni                 224 Hv G6 V
+Denoirinaga   1236 B220101-D  L Lo Ni Po De        113 Hv F9 V M5 V
+Kalranspeq    1331 C647401-D    Ni Hp              212 Hv K2 V M7 V
+Lokoosunskensk1334 X442110-4    Lo Ni Po Nh     R  903 Hf K8 V
+Iskaxul       1336 E200000-4    Lo Ni Va           700 Hv G4 V K3 V
+Ra Saun       1338 C9C56S6-9    Fl Ni              810 Hv G7 III
+Doynskex      1340 A9D28S1-D  L Fl                 603 Hv K9 V
+Gilblauloahniq1431 C9767T1-D    Gl                 703 Hv K1 V M0 V
+Dowrur        1432 D7A28T3-B  M Fl                 400 Hv M3 V
+Uanglindavac  1540 C569204-C    Lo Ni Hp           720 Hv G6 V M8 V
+Rerensk       1632 B4359S6-G    H0 Hi Cp           610 Hv K6 V M0 V
+Kil Ge        1636 C744106-9  M Lo Ni              302 Hv G8 V
+Zaa Uankunauxu1639 C6568S1-C    Hp                 100 Hv G5 V
+Anar          1640 B644402-D  L Ni Hp              512 Hv F0 V K8 V

@@ -1,0 +1,55 @@
+@SUB-SECTOR:Ghidini SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Higgaion      0925 X8A4000-0    Ba Fl Lo           022    
+Emmor         0927 X500000-0    Ba Lo Va           005    
+Igizak        1022 E200212-7    Lo Va              702 Na 
+Idagiki       1027 X450330-2  P De Lo              622 Na 
+Eliakim       1030 X6B6000-0    Ba Fl Lo           024    
+Gedi          1123 E452210-7    Lo                 702 Na 
+Linip         1129 C434366-8    Lo                 935 Na 
+Neosho        1130 C43136A-A  M Lo                 702 Na 
+Gakhum        1221 XAC4000-0    Ba Fl Lo           001    
+Danites       1222 DAE3465-6    Lo                 503 Na 
+Khakhuki      1227 X200000-0    Ba Lo Va           023    
+Galtor        1228 B99A99E-9  N Hi Wa              303 Na 
+Karu          1325 X120000-0    Ba De Lo           004    
+Keruk         1327 D343633-7                       322 Na 
+Niles         1329 C7C3488-8    Fl                 523 Na 
+Gikamdi       1330 X352260-3    Lo Po Ni           414 Na 
+Kigiikidasu   1421 D512368-7    Ic Lo              424 Na 
+Igiishidasu   1422 C476689-7    Ag                 803 Na 
+Sugashidasu   1423 D497515-9  N Ag                 502 Na 
+Shisaridasu   1424 D754488-2                       321 Na 
+Halesowen     1427 D9DA8B6-7    Wa                 100 Na 
+Giras         1429 C629443-8                       200 Na 
+Ogundipe      1521 X531000-0    Ba Lo              002    
+Ergad         1523 X44847B-3  P Lo Ni              204 Na 
+Sulafat       1529 C160562-7    De                 413 Na 
+Ler           1621 BA9A9C9-9  N Hi Wa              501 Na 
+Gdankh        1623 X100000-0    Ba Lo Va           004    
+Dilid         1627 X200000-0    Ba Lo Va           004    
+Khimaki       1628 X380000-0    Ba De Lo           004    
+Akiikiroga    1630 X400000-0    Ba Lo Va           014    

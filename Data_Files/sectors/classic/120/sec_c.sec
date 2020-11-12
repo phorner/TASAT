@@ -1,0 +1,73 @@
+@SUB-SECTOR:Kah-Wak SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ismaili       1702 X200000-0    Ba Lo Va           013    
+Usargag       1703 X100000-0    Ba Lo Va           004    
+Hansen        1704 X140000-0    Ba De Lo           010    
+Rawlings      1705 X310000-0    Ba Lo              003    
+Nadrin        1706 E400210-8    Lo Va              603 Na 
+Karni         1707 X621000-0    Ba Lo              002    
+Usurkush      1708 X200000-0    Ba Lo Va           023    
+Apnaag        1709 X6A3000-0    Ba Fl Lo           003    
+Micere        1710 X506000-0    Ba Ic Lo Va        004    
+Gunzburg      1801 E446300-9  P Lo                 925 Na 
+Agematsu      1802 E344262-5    Lo                 603 Na 
+Kikudeg       1803 X9B5000-0    Ba Fl Lo           020    
+Gezikhis      1804 X000000-0    As Ba Lo           024    
+Kesesh        1806 D547565-5  N Ag                 812 Na 
+Aamanda       1807 X100000-0    Ba Lo Va           002    
+Gimdushak     1808 X431000-0    Ba Lo              004    
+Kuzuu         1809 A7498EG-9  M                 R  511 Na 
+Emiga         1810 X400000-0    Ba Lo Va           003    
+Ridishi       1901 X230000-0    Ba De Lo           012    
+Irdi          1902 X8B5000-0    Ba Fl Lo           004    
+Kimu          1904 X100000-0    Ba Lo Va           005    
+Luzernne      1906 C78A387-7    Lo Wa              214 Na 
+Dikushii      1907 C554357-9    Lo                 824 Na 
+Lund          2003 E45777B-6  P Ag                 325 Na 
+Kirkbride     2005 C578787-9    Ag                 113 Na 
+Ueda          2007 B326312-E    Lo                 503 Na 
+Leak          2008 C79A679-8    Ag Wa              700 Na 
+Molara        2101 E457400-5    Lo                 820 Na 
+Pearce        2104 D681679-3                       602 Na 
+Tola          2106 B97AA78-D  N Hi Wa              121 Na 
+Petterborg    2107 A667979-B  N Hi                 614 Na 
+Steady A      2108 B687642-A  M Ag                 314 Na 
+Lu            2202 X130000-0    Ba De Lo           013    
+Ashirama      2203 X312000-0    Ba Ic Lo           004    
+Wellesley     2204 C9C9210-9    Fl Lo              614 Na 
+Khap          2206 B9B7311-D    Fl Lo              304 Na 
+Chioma        2208 C99A753-8    Ag Wa              304 Na 
+Filomena      2209 C451216-A    Lo                 922 Na 
+Biko          2210 C565612-5    Ag                 103 Na 
+Agozino       2301 D678377-9  P Lo                 913 Na 
+Irishga       2302 X335000-0    Ba Lo              001    
+Ukhimegur     2303 X300000-0    Ba Lo Va           002    
+Kumkha        2305 X300000-0    Ba Lo Va           001    
+Kiiku         2308 C7856AB-4    Ag                 720 Na 
+Gasur         2309 X100000-0    Ba Lo Va           013    
+Arminaad      2310 D667775-1    Ag                 312 Na 
+Ikerkhumu     2403 X8B5000-0    Ba Fl Lo           004    
+Girkus        2408 C7A5359-A    Fl Lo              810 Na 

@@ -1,0 +1,51 @@
+@SUB-SECTOR:Lombard SECTOR:Leonidae
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Meschac       1711 X400000-0    Ba Lo Va           003    
+Shadrac       1712 X210000-0    Ba Lo              003    
+Abednigo      1713 XAB3000-0    Ba Fl Lo           004    
+Mukikikam     1720 E988447-5                       204 Na 
+Endicott      1811 E442456-5    Lo                 512 Na 
+Masada        1813 D6108EJ-7                    R  703 Na 
+Nakanyike     1817 X230000-0    Ba De Lo           002    
+Digide        1820 D263579-7  P                    903 Na 
+Argiker       1918 B443435-B                       501 Na 
+Ligug         1920 C320310-9    De Lo              313 Na 
+Idnukagaka    2013 C644744-7    Ag                 715 Na 
+Iknugagaka    2014 B533365-8    Lo                 203 Na 
+Ilnuhagaka    2015 A8959CC-C  N Hi                 302 Na 
+Arsa          2018 D474443-6    Lo                 305 Na 
+Apgisa        2116 XAC9000-0    Ba Fl Lo           023    
+Dakade        2119 D200210-7    Lo Va              200 Na 
+Panumil       2212 C445583-7    Ag                 410 Na 
+Abbenyi       2218 X210000-0    Ba Lo              004    
+Lakhu         2311 X160000-0    Ba De Lo           024    
+Nfah          2312 C97A887-8  M Wa                 703 Na 
+Makuchi       2316 X7A3000-0    Ba Fl Lo           003    
+Onaiwu        2317 X310000-0    Ba Lo              011    
+Dakuka        2320 D888263-1    Lo                 601 Na 
+Laanii        2414 X120000-0    Ba De Lo           023    
+Zoetermeer    2416 D537265-7    Lo                 704 Na 
+Ogbomo        2418 X110000-0    Ba Lo              001    
