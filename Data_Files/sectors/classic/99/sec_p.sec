@@ -1,0 +1,38 @@
+@SUB-SECTOR:Oreo  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2737 3136 0 0
+$2737 2540 0 0
+$2540 2501 0 1
+$2540 2429 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Luong         2531 A500596-D    Ni Va           A  214 Ma M3 V
+Oreo          2540 B1009AD-F    Hi In Va Na        113 Ma M3 D
+Misthaven     2632 B758987-D    C0 Hi           A  603 Ma F2 V
+Ortega        2633 C426AFJ-E    Hi In              703 Ma G2 V M8 D
+Landis        2640 B522003-D  N Ni Po           A  510 Ma M2 II
+Cordell       2731 A100203-G  N Ni Va              803 Ma G8 V M7 D
+Jenina        2732 B264599-C  N Ni Ag              523 Ma G3 V
+Floting       2734 B65569B-B    Ni Ag              911 Ma G5 VI M8 D M6 D
+Vonda         2735 B110102-G  S Ni                 431 Ma M4 V M7 D
+Wedna         2737 A673353-F    Ni                 304 Ma F9 V
+Mona          2738 B210558-E    D1 Ni              700 Ma K3 II
+Cusgrove      2739 DA76520-6    Ni Ag           A  104 Ma F2 V
+Goiri         2837 D200456-B    Ni Va              913 Ma M3 III M1 D
+Amanita       2931 B100587-D    Ni Va              603 Ma G1 V
+Doane         2932 E676687-6    Ni Ag              314 Ma F4 D
+Quoc          2933 B410267-C  N Ni                 114 Ma M7 VI
+Parahee       2934 C10099D-D  S Hi In Va Na        813 Ma F1 V
+Mission       2938 C574430-A    Ni                 602 Ma G1 D M0 D
+Granporr      3035 B4768AE-A  N                    813 Ma G0 V M9 D
+Dobaran       3131 A793330-D  N Ni                 500 Ma G0 D M5 D
+Blaser        3136 A10088C-E    Va Na           A  723 Ma F0 D
+Malaga        3139 B423474-C    Ni Po              722 Ma F0 V M2 D
+Domy          3231 B85A376-D  N Ni Wa              805 Ma F9 V
+Randanna      3232 B300796-B    Va Na           A  403 Ma G3 V
+Double        3233 B10066A-D  N Ni Va Na           504 Ma G0 V M0 VI
+Esten         3236 C100155-D    Ni Va              703 Ma M2 V

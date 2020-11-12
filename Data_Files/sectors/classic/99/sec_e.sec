@@ -1,0 +1,62 @@
+@SUB-SECTOR:Keum  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0711 0609 0 -1
+$0711 0512 0 0
+$0512 0312 0 0
+$0512 0314 0 0
+$0314 0318 0 0
+$0318 0717 0 0
+$0717 0919 1 0
+$0717 0914 1 0
+$0711 0811 0 0
+$0811 1012 1 0
+$0318 3218 -1 0
+$0711 0908 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arilla        0112 E585448-6    Ni                 803 Li M6 D M0 D
+Enid          0113 B676958-E    Hi In              801 Li F0 V
+Juweit        0115 C21068A-B    Ni Na              914 Li F2 V M2 D
+Appomma       0116 C646223-9  S Ni                 810 Li F6 D M7 D M6 D
+Ambriana      0118 B200034-B    Ni Va              713 Li A8 V
+Enrique       0212 B200967-F    Hi In Va Na        904 Li F1 V M8 D
+Naston        0213 B9E7565-C  S Ni                 602 Li M7 II G0 D
+Shigi         0214 C6489BF-9    Hi In           A  213 Li G0 V
+Rommen-Kucera 0217 C879575-B    Ni                 311 Li F3 V M9 D
+Rebin         0312 A88A436-F    Ni Wa              202 Li F9 VI M5 D
+Ergo          0314 A20099B-G  N Hi In Va Na        804 Li F6 D
+Abarre        0315 C10059C-C  S Ni Va              400 Li M5 V
+Masawa        0318 A895523-E  N Ni Ag              704 Li F0 VI
+Kuiper        0319 E954430-6    Ni                 523 Li M2 D
+Chigan Taal   0411 B233758-C    Po Na              605 Li F1 V
+Laisarlo      0414 B100758-F  N Va Na              101 Li M2 V M7 D
+Emsingale     0415 B8B4999-D  N Hi                 221 Li F9 D
+Enriter       0416 B100120-D    Ni Va              313 Li G3 V
+Korthalis     0417 C541216-8  S C1 Ni Po           400 Li G7 V
+Mairs         0418 E400300-A    Ni Va              203 Li K7 V
+Arineau       0511 B363635-C    Ni                 721 Li F2 D
+Essin         0512 A200100-F  N Ni Va              925 Li M1 III
+Daho          0513 E9C6454-A    Ni                 624 Li M1 V
+Kaflowe       0514 D465545-8    Ni Ag              303 Li K0 VI M2 D
+Salt          0519 B87A454-F    Ni Wa              403 Li F1 D
+Lismal        0520 B361124-D    Ni                 704 Li G1 VI
+Zimrimairs    0611 A442679-E    Ni Po              703 Li F5 D
+Marcusen      0616 D575549-8    Ni Ag              602 Li F2 D
+Jonen         0617 B658569-B    Ni Ag              802 Li G6 VI
+Tephant       0618 B86457B-B  N Ni Ag              302 Li F7 VI
+Makinen       0619 E488110-8    C7 Ni           A  211 Li G7 D
+Newport       0711 A427303-F    Ni                 624 Li A8 V M9 D
+Latt          0712 B979124-B    Ni                 903 Li G3 D
+Ariman        0715 B658558-D  N Ni Ag              802 Li F2 D
+Mannai Nila   0716 B200542-D  S Ni Va              923 Li M0 V
+Uson          0717 A6847CD-C  N Ag              A  822 Li F1 D
+Rellam        0720 A100321-G    Ni Va              924 Li K9 III M5 D
+Amaya         0720 A100321-G    Ni Va              924 Li F5 V
+Ample         0811 C668563-8    Ni Ag              204 Li F7 D M7 D M0 D
+Mancilla      0814 B100442-D    Ni Va              305 Li M1 V M8 D
+Keum          0815 A6A198A-E    Hi Cx              704 Li K0 V M4 D
+Capson        0816 B351459-E    Ni Po              233 Li F7 VI

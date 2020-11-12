@@ -1,0 +1,44 @@
+@SUB-SECTOR:Khisham  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1808 1508 -1 0
+$1808 1910 0 0
+$1910 2008 0 0
+$1910 2013 0 1
+$2008 2407 0 0
+$2407 2607 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tersani       1703 B100532-F    Ni Va              203 Ma K4 V
+Varina        1705 E110001-B    Ni                 204 Ma M5 V
+Dodda Vis     1804 B544555-D  N Ni Ag              110 Ma G3 D M9 D
+Ketola        1807 B354377-C    Ni                 802 Ma F6 D M4 D
+Riarette      1808 A110877-E    Na                 214 Ma F4 VI
+Engorr        1809 D110566-B    Ni O:1909          600 Ma F4 V
+Peneplain     1905 B465478-D  N Ni                 114 Ma F1 V
+Madden        1907 C524522-9    Ni                 524 Ma M3 V M5 D
+Ektorr        1909 B4638A9-B                       211 Ma F4 V
+Khishan       1910 A1009AE-G    Hi In Va Na        814 Ma G1 V M1 D
+Marfa         2001 B20079D-D    Va Na              503 Li G3 V M4 D
+Germer        2004 B100100-F    Ni Va              824 Ma G6 V M6 D
+Iggarir       2007 B787AA9-E  S Hi                 623 Ma F7 VI
+Irlu          2008 A200654-F    Ni Va Na           603 Ma K0 IV
+Wikk          2010 B648655-C  N Ni Ag              924 Ma F3 V M7 D
+Trikster      2102 B200530-C    Ni Va              114 Li M7 V
+Inarim        2103 B565AFG-F    Hi                 103 Li F9 VI M3 D
+Landwasser    2105 B875544-C  S Ni Ag              924 Ma K8 D M0 D
+Murcia        2109 E564945-7    Hi                 814 Ma K2 V
+Symond        2201 D638353-9    Ni                 504 Li G4 V
+Bakerian      2301 A421300-F    Ni Po              503 Li M6 V
+Elan          2302 B66889D-B  N Ri                 805 Li F7 D M6 D M7 D
+The Auybes    2305 B300543-C  N Ni Va              413 Ma F0 V
+Terelleresika 2306 A342031-C    Ni Po              402 Ma G5 V M1 D
+Dumeras       2308 B789AAD-G  N Hi              A  103 Ma F4 VI M4 D
+Mina          2401 B461568-C    Ni                 204 Li F9 D
+Solarda       2403 E798576-6    Ni Ag              702 Ma M2 VI
+Rizon         2405 B545400-B  N Ni              A  513 Ma F8 D
+Perilous      2406 B768635-B  N C4 Ni Ag           434 Ma F0 D
+Wynd          2407 A310AAB-G    Hi In Na           914 Ma G4 V

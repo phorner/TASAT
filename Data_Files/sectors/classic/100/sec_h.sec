@@ -1,0 +1,14 @@
+@SUB-SECTOR:Tolananda  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2514 C331721-9    Po Na              501 Im G0 V M5 D
+Tolananda     2612 C525966-8    Hi In              822 Im M2 V
+              2711 E897554-3    Ni Ag              223 Im M4 V
+Shunarshalad  2720 C667989-7    Hi                 703 Im M3 V
+              2813 A527587-D    Ni                 203 Cs G0 V

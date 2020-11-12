@@ -1,0 +1,24 @@
+@SUB-SECTOR:Rift's Reach SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0916 C343444-6    Ni Po              703 Im K2 V
+              0918 E325133-4    Ni                 622 Im K4 V
+              1013 C584161-7    Ni                 612 Im M2 V
+              1015 B110867-C  S Na                 202 Im M1 V
+              1016 B9B6454-C    Ni                 204 Im M3 V
+              1018 E744100-8    Ni                 603 Im M9 III
+Zzurvurh      1019 C251A9B-D    Hi Po              812 Im M0 V
+              1111 B525677-8    Ni                 100 Im K3 III
+              1114 D331721-3    Po Na              223 Im M1 V
+              1116 E000587-6    Ni As              202 Im M3 V M0 D
+              1118 A253420-E    Ni Po              603 Im M3 V M8 D
+              1119 E100434-A    Ni Va              410 Im M1 IV
+              1212 B87A320-9    C6 Ni Wa           404 Im K8 II
+              1213 A767767-C    Ri Ag              102 Im K4 V M5 D M2 D
+              1315 B525677-9    Ni                 703 Im K1 V M8 D

@@ -1,0 +1,46 @@
+@SUB-SECTOR:Ten Suns  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0524 0526 0 0
+$0526 0327 0 0
+$0327 0130 0 0
+$0130 0231 0 1
+$0327 0631 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Meridian      0121 B657453-B    Ni                 904 Li F3 D M3 D
+Albion        0123 D565326-7    Ni                 525 Li M4 D M4 D
+K'Zass        0124 B246965-C    Hi In              714 Li G3 V M9 D
+Lant          0125 D11067C-9    Ni Na              200 Li G0 V
+Dalsam        0130 A9B2456-E    Ni                 913 Li M0 V
+Aymon         0221 E657322-7    Ni                 814 Li G1 D M2 D
+Huon          0223 B100948-G    Hi In Va Na     A  221 Li F1 V M3 D
+Kiholm        0226 D200656-9    Ni Va Na           303 Li K1 V
+Dezik         0228 A9C8333-F    Ni                 605 Li M8 V
+Viiman        0321 B887655-A    Ni Ri Ag           210 Li F0 D M5 D
+Kirgis        0325 B95A010-B    Ni Wa              323 Li F8 D M3 D
+Droyna Four   0327 A588844-B    D5 Ri              304 Li F2 V
+Dirac         0330 B7B59BB-E  N Hi                 812 Li F5 D
+Zaibeth       0425 D110000-9    Ni Ba              624 Li M2 III M1 D
+Rocks         0426 C000495-D    Ni As              304 Li F7 III M6 D
+Savisz        0428 B977646-9  N Ni Ag              822 Li K9 D
+Kingston      0430 EACA76A-9    Wa                 214 Li M0 V
+Marach        0522 B48487A-C    Ri                 704 Li F9 D M2 D
+Bloom         0524 A566535-D    Ni Ag              604 Li F4 V M2 D
+Damber        0525 B473553-C    C2 Ni              103 Li K0 V
+Nowell        0526 A441321-F    Ni Po              610 Li F0 V
+Reon          0528 C9A7532-A    Ni                 402 Li M3 V M4 D
+Xarian        0529 B768733-B    Ag                 523 Li F9 VI
+Quuke         0530 A100579-G    Ni Va              801 Li G7 VI M6 D
+Kinnas        0621 EAC7446-8    Ni                 310 Li K1 V
+Nananana      0624 B8C1349-C    Ni                 804 Li M3 V
+Beoff         0627 B7A1300-E    Ni                 105 Li M8 D
+Crian         0630 B527472-C    Ni                 103 Li M6 VI
+Mura          0725 B9D3743-B                       312 Li G1 V M6 D
+Goglus        0726 E446538-8    Ni Ag              303 Li F0 V
+Bathy         0728 B300555-D    Ni Va              503 Li M2 V
+Phlox         0825 B652445-A  N Ni Po              401 Li F0 D M7 D
+Hervey        0826 B554400-D    Ni              A  420 Li K1 VI

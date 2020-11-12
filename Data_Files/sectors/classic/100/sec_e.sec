@@ -1,0 +1,47 @@
+@SUB-SECTOR:Zukhimi   SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 C679345-A    Ni                 104 Im M4 V M7 D
+              0114 D100101-6    Ni Va              423 Im M6 V
+              0118 D341458-6    Ni Po              220 Im M2 V G2 D
+              0211 C110510-7  S Ni                 624 Im M4 V M0 D
+              0214 D627364-5    Ni                 301 Im M6 V
+              0218 B244004-8    Ni                 824 Im M0 V
+              0219 C566430-6    Ni                 205 Im M0 V M4 D
+              0220 A100124-D    Ni Va              910 Im M4 V M0 D
+              0311 C676223-7    Ni                 901 Im K3 V
+              0312 E557545-6    Ni Ag              304 Im M4 V
+Zukhimi       0313 A427979-B    Hi In              313 Im M4 V M7 V
+              0314 A687374-8    Ni                 500 Im G1 V M1 D
+              0316 B5777C9-6    Ag                 405 Im K3 V
+              0317 A3106B9-C  N Ni Na              520 Im K0 V
+              0319 D786885-3  S Ri                 612 Im M0 V M4 D
+              0320 C332576-9    Ni Po              302 Im K4 IV
+              0411 D66A057-7  S Ni Wa              312 Im G6 IV M5 D
+              0413 E673785-6                       720 Im M4 V M1 D
+              0415 C88A300-A    Ni Wa              904 Im M3 V M3 D
+              0511 B000666-C  N Ni As Na           304 Im M3 V
+              0512 A00077C-C    As Na              424 Im G2 V M4 D
+              0514 D66A620-8    Ni Wa              705 Im M1 IV M3 D
+              0515 B5A176A-8                       202 Im K7 D
+              0516 A441863-9    D3 Po              900 Im M3 V
+              0520 B879545-B    Ni                 503 Im M3 D
+              0616 B566127-9  N Ni                 313 Im G6 II M9 D
+              0618 B675513-8  N Ni Ag              705 Im K2 V M3 D
+              0712 D694002-7    Ni                 904 Im G6 V
+              0713 B544358-8    Ni                 911 Im K1 V
+              0715 A98A244-E    Ni Wa           A  203 Im M7 IV
+              0716 B757686-7    Ni Ag              923 Im K3 V
+              0717 A483500-A    Ni                 404 Im M3 V K7 D
+              0719 B457635-7    Ni Ag              104 Im M0 V M6 D
+              0813 C321100-9    Ni Po           A  312 Im K9 V
+              0814 A210356-E    Ni                 903 Im M4 V M2 D
+              0816 B410321-8    Ni                 812 Im M2 V
+              0817 E575310-3    Ni              A  403 Im M1 II
+              0818 B58579B-A  N Ri Ag              904 Im K2 V M4 D

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Riramla  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0933 B27289B-8                       313 Im M4 V
+              0935 D466877-2    Ri                 202 Im M0 V
+              0937 E000133-A    Ni As           A  203 Im M8 III M6 D
+              0938 C686354-7    Ni              A  225 Im K9 V M9 D
+              1031 B527587-C    Ni                 903 Im M2 V M6 D M8 D
+              1034 B253420-8    Ni Po              403 Im M1 V
+              1035 E639340-7    Ni                 711 Im G3 V
+              1036 A110867-F    Na                 413 Im K3 V
+              1039 B9B6454-B  N Ni                 104 Im G0 V
+              1133 E756440-5    Ni                 124 Im M3 V
+              1134 A897554-D    Ni Ag              600 Im M9 IV M5 V
+              1136 B667253-8    Ni                 802 Im K5 V
+              1137 E6888CF-2                       900 Im M2 III M0 D
+              1138 A310010-9    Ni                 324 Im K9 D
+              1140 C625785-8                       103 Im M4 V
+              1234 C331721-5    Po Na              620 Im M2 V M5 D
+              1235 C527587-5    Ni                 314 Im K3 IV M5 D
+              1236 B253420-B    Ni Po              201 Im K9 VI
+              1239 C639340-A    Ni                 103 Im M5 VI M2 D
+              1240 E8C758B-5    Ni                 404 Im M1 V
+              1335 B100433-D    Ni Va              522 Im M2 V
+              1337 A100434-E    Ni Va              103 Im G8 IV M8 V
+              1340 C465220-7    Ni                 700 Im G3 V
+              1435 B667253-B    Ni                 103 Im G0 V M9 D
+              1438 B6888CF-8  S                    804 Im K4 V
+              1534 A331721-E    Po Na              903 Im K3 V
+Cabot         1536 D100A99-A    Hi In Va Na        704 Im M4 V
+              1539 A525677-D    Ni                 600 Im K7 III
+              1540 C100433-C    C2 Ni Va           722 Im M4 V M8 D
+              1635 E253420-5    Ni Po              521 Im M4 V
+              1638 C100434-C    Ni Va              310 Im K3 V
+              1639 C100433-C    Ni Va              915 Im M2 V
+              1640 E000677-7    Ni As Na           202 Im K3 V

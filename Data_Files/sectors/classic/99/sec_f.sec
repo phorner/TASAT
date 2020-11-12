@@ -1,0 +1,47 @@
+@SUB-SECTOR:Vaait   SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1012 0717 -1 0
+$0919 0717 -1 0
+$1012 0811 -1 0
+$0919 1121 0 1
+$1419 1322 0 1
+$1419 1719 1 0
+$1613 1813 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lenora        0914 B7A4775-B  N                    313 Li G4 V M3 D
+Nonodaga      0915 BAA9642-C    Ni                 825 Li M3 V M4 D
+Stard         0916 E10056A-A    Ni Va              624 Li G2 V
+Aarze         0918 B547AEJ-F    Hi In              224 Li F3 V
+Aram          0919 A6B0836-D  N De                 403 Li F7 VI M7 D
+Lysitihia     1012 A774300-D    Ni                 214 Li F5 V
+Silum         1014 E865899-6    Ri                 201 Li F9 D M1 D
+Naramorz Rock 1015 B300567-D    Ni Va              404 Li M4 V
+Anniga        1017 B300100-F    Ni Va              202 Li M5 V
+Shimshan      1019 A110720-G    Na                 813 Li M0 V K3 D
+Groves        1020 E64648A-6    Ni                 210 Li G5 D M2 D
+Nary          1117 D000000-B  S Ni As Ba           904 Li K7 V
+Avarro        1120 B8B5445-D  N Ni                 402 Li M0 V
+Zebecca       1213 E551210-8    Ni Po              403 Ma G2 V
+Gurvin        1215 A7A6656-F    Ni                 304 Li M3 V
+Reetage       1220 B557015-9  N Ni                 903 Li F9 V M5 D
+Lupaning      1312 B222662-B    C3 Ni Po Na        105 Ma M0 V M0 D
+Nealis        1313 B569276-C    Ni                 303 Ma F6 V
+Wakatani Belt 1314 C000668-B    Ni As Na           410 Ma M4 V M4 D
+Muush         1319 B100653-F    Ni Va Na           803 Li G3 V M2 D
+Sagramore     1320 B1005AE-F    Ni Va              505 Li M4 V M5 D
+Neoland       1419 A653503-D  N Ni Po              523 Li F2 VI
+Haamish       1420 B472101-C    Ni                 601 Li F1 V
+Dalken        1512 E4577A8-8    Ag                 415 Ma F2 V
+Malad         1514 E534633-8    Ni                 102 Ma M1 V M9 D
+Dubleen       1515 B848945-C  S Hi In              234 Ma F6 D
+Nonama        1519 B327634-C    Ni                 600 Li G3 V
+Toleenal      1520 B551225-C    Ni Po              314 Li G2 V M5 D
+Epel          1612 D895998-8    Hi                 703 Ma F1 D M9 D
+Nauto         1613 A76279A-C  N Ri              A  104 Ma F3 D M6 D
+Lybone        1614 D5498BC-7                       404 Ma G7 D
+Shukadiin     1616 B300463-E    Ni Va              123 Ma M5 III

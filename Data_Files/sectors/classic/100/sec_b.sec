@@ -1,0 +1,50 @@
+@SUB-SECTOR:Tsent  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0901 C1008A6-7    Va Na              313 Im K1 V M5 D
+Kamikir       0904 B9BA99C-C    Hi Wa              504 Im G2 V M2 D
+              0905 A87A697-E  N Ni Wa              604 Im K3 V
+              0906 B9A1330-A  N Ni                 114 Im M8 V
+              1001 C8A4335-A    Ni                 604 Im M4 V
+              1002 C878345-4    Ni                 710 Im G6 III
+              1007 E757423-4    Ni                 804 Im M1 V
+Ursalem       1009 D100AA9-D  S Hi In Va Na        402 Im M2 D K0 D
+              1010 D537000-5    Ni Ba              823 Im G0 V
+              1101 C000741-6    As Na              702 Im K0 V
+Tsent         1103 B639954-E    Hi                 724 Im M9 VI M7 D
+              1104 B100434-9    Ni Va              104 Im G2 IV
+              1109 A100433-D    Ni Va              412 Im M3 V
+              1202 B532464-B    Ni Po              525 Im M4 V M0 D M8 D
+              1203 E545898-3                       422 Im M0 IV
+              1205 A787200-A  N Ni                 105 Im K0 V
+              1208 A342640-C  N Ni Po              814 Im G4 V M0 D
+              1209 C7C679C-9                       704 Im M3 V
+              1301 C487220-A    Ni                 820 Im M1 V
+              1305 E100433-6    Ni Va              923 Im M3 V M4 D
+              1306 D525677-4    Ni                 302 Im F0 V
+              1307 C331721-9    Po Na              203 Im M0 II
+              1308 A527587-9    Ni                 704 Im M6 IV M8 D
+              1310 C100433-8    Ni Va              914 Im A8 III K4 D
+              1401 E100434-A    Ni Va              503 Im M3 V M0 D
+              1404 D465220-7    Ni                 501 Im M3 V M0 D
+              1405 A100434-G    Ni Va              103 Im M3 V
+              1407 D465220-3    Ni                 801 Im M8 V M4 D
+              1409 E756440-2    Ni                 820 Im M1 V M1 D
+              1501 A310010-E    Ni                 724 Im G6 V M6 D M4 D
+              1502 B625785-6  N                    703 Im M4 VI
+              1504 A532464-C    Ni Po              625 Im M4 V M0 D
+              1505 C100433-9    Ni Va              903 Im K0 V
+              1506 B525677-B    Ni                 200 Im M1 V M0 D
+              1507 X331721-3    Po Na           R  314 Im M0 V
+              1508 D100434-7    Ni Va              203 Im M4 V
+              1601 B100434-D    Ni Va              722 Im M9 II
+              1602 A100433-F    Ni Va              105 Im K9 VI
+              1603 A525677-D    Ni                 103 Im K1 V
+              1605 A331721-E    Po Na              603 Im K3 IV
+              1607 A527587-E    Ni                 523 Im G0 V

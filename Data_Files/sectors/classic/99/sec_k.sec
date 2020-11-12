@@ -1,0 +1,34 @@
+@SUB-SECTOR:Nes'Vra  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2130 2529 1 0
+$2130 1731 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ven           1721 E362621-7    Ni                 903 Li K2 VI M5 D
+League        1724 D252983-8  S Hi Po              502 Li G6 D
+Ri Trios      1726 B57255A-B  N Ni                 504 Li K6 VI
+Lurun         1728 B6357BA-A                       814 Li K2 V M3 D
+Kindstrom     1730 C884034-8  S Ni                 200 Li K1 V
+Herzog        1823 B547531-B    Ni Ag              314 Li G4 V M4 D
+Star Triven   1921 B481321-D  S Ni                 913 Li G4 VI
+Rahum         1924 D8A6000-8    Ni Ba              113 Li K9 V
+Gober         1927 B768455-B    Ni                 301 Ma F3 V
+Rarian        2029 B271120-C    Ni                 214 Ma M9 V M1 D
+Hexum         2030 B461525-B    D2 Ni              900 Ma F1 D M8 D
+Ugdukida      2127 C33199A-B    Hi Po Na           413 Ma F3 V M6 D
+Bern          2130 A343413-F  N Ni Po              910 Ma F4 D
+Muimarir      2224 D657972-7    Hi                 913 Ma F7 D M6 D
+Independent   2228 C252599-B    D2 Ni Po           600 Ma F7 D
+Imaean        2230 E627788-7                       714 Ma M0 IV
+Noward        2323 B5A5200-D    Ni                 114 Ma M1 V M2 D
+Hezeltine     2324 B84A436-E  N Ni Wa           A  921 Ma F9 D M7 D
+Hermes Station2328 E100579-B    Ni Va              404 Ma K4 V
+Braemere      2421 B310322-E    Ni                 713 Ma M5 V
+Gurd          2422 B8D06A9-B    Ni De              700 Ma M3 V
+Flassen       2425 D000434-B    Ni As              813 Ma G3 V M7 D
+Silas         2428 B310543-C    Ni                 500 Ma F4 VI M7 D M9 D
+Cheresa       2430 B655300-C  N Ni                 302 Ma F1 V

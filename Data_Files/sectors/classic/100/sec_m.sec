@@ -1,0 +1,38 @@
+@SUB-SECTOR:Eta-Gu  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0133 B210101-9    Ni                 412 Im M6 IV M8 D
+Iimnime       0134 E767988-3    Hi                 323 Im M5 IV
+              0138 B477765-A    Ag                 612 Im G0 V M8 V
+              0139 B11079C-8    Na                 712 Im G2 V
+              0140 C524210-7    Ni                 701 Im M7 V M9 D
+              0238 D20068D-5    Ni Va Na           601 Im A4 V M4 D
+              0332 B583675-6    Ni Ri              923 Im M3 V M1 D
+              0334 E655452-8    Ni                 403 Im K1 V M4 D
+              0339 C491679-7    Ni                 403 Im M1 VI
+              0431 E695340-6    Ni              A  804 Im K1 IV M1 D
+              0436 B366655-9    Ni Ri Ag           103 Im M2 IV
+              0437 D544720-3    Ag                 603 Im K3 V M3 D M5 D
+Gushamad      0438 D2009AD-A    Hi In Va Na        423 Im M3 V M9 D
+              0532 E200533-7    Ni Va              200 Im K4 V M0 D
+              0533 A332320-B  S Ni Po              913 Im F9 D
+              0534 B73A552-E    Ni Wa              602 Im A1 V
+              0536 C788774-4    Ri Ag              703 Im M0 V
+              0537 C11049B-7    Ni                 805 Im K3 V M5 D
+              0631 D896451-5    Ni                 215 Im M1 IV M9 D
+              0637 B210427-9    Ni                 205 Im M3 V
+              0639 B574578-A    Ni Ag              523 Im K7 II
+              0731 C100752-8    Va Na           A  904 Im K6 III M2 VI
+              0732 A529455-F    Ni                 222 Im K5 VI M9 D
+              0737 B673465-A    Ni                 604 Im K0 V M3 D
+              0739 B100721-D    Va Na              803 Im K2 V
+              0832 A583447-A  N Ni                 304 Im M3 V M3 D
+Wovim         0836 E54A998-6    Hi In Wa           914 Im K3 V
+              0838 C210331-6    Ni                 512 Im M6 IV
+              0840 C110697-9    Ni Na              203 Im G3 V M4 D

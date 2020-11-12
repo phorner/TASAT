@@ -1,0 +1,14 @@
+@SUB-SECTOR:Forlorn  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2801 D534420-7    Ni                 300 Cs M4 V M8 V
+              2910 B5746AC-7    Ni Ag              504 Na M3 V
+              3003 C100433-8    Ni Va              214 Na M1 V M3 D
+              3204 B525677-8    Ni                 921 Cs K1 V
+              3207 C100433-B    Ni Va              303 Cs K1 III M8 D

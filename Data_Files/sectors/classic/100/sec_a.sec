@@ -1,0 +1,44 @@
+@SUB-SECTOR:Kirkankhim  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0102 C544596-6    Ni Ag              101 Im M0 V
+              0103 E6756A9-1    Ni Ag              524 Im M4 V M6 D
+              0105 A575221-B    Ni                 604 Im K3 V M8 D
+              0106 D100595-9    Ni Va           A  600 Im M4 V
+              0107 B364657-9    Ni Ri Ag           303 Im K4 V
+              0108 E110240-9    Ni                 820 Im M4 V G4 D
+              0109 B435522-9  S Ni                 100 Im G7 IV
+              0110 E110587-9    Ni                 303 Im M0 V M6 D
+              0202 X64286A-1    D2 Po           R  204 Im M3 V
+              0204 B100532-A    Ni Va              925 Im M2 V
+              0205 X526300-5    Ni              R  125 Im M1 III
+              0209 C6B0656-7    Ni De              201 Im M4 V M8 D
+              0210 D328896-8    C3                 103 Im K1 V
+Ziraa         0303 C5559EJ-6    D3 Hi              914 Im K6 IV
+              0310 B547645-5  N Ni Ag           A  305 Im M1 V M6 D
+              0401 X9C4433-1    Ni              R  625 Im G2 V M0 D
+              0403 C473452-9    Ni                 904 Im K2 V M6 D M1 D
+              0407 C664897-7    Ri              A  900 Im K3 V
+              0410 C645011-7    Ni                 213 Im M3 V M6 D
+              0505 B110378-C    Ni                 703 Im G0 V
+              0506 C67868B-4    Ni Ag              804 Im M3 V
+              0508 B979443-7    Ni                 800 Im M4 V M3 VI
+              0510 C000640-8    Ni As Na           922 Im M4 V M3 D
+              0603 D768456-5    Ni                 223 Im M2 V M6 D
+Ader          0605 D874ABE-7    Hi In              704 Im M7 VI
+              0607 C100765-9    Va Na              414 Im M0 V
+              0701 C321777-5    Po Na              600 Im M1 V
+              0702 C634214-5    Ni                 115 Im M0 IV
+              0703 A478100-A    Ni                 402 Im M0 II
+              0705 E645741-3    Ag                 104 Im M0 V
+              0706 B99A6AA-A    Ni Wa           A  905 Im M3 V M6 D
+              0709 B857410-8    Ni                 703 Im M4 V
+              0802 E110537-5    Ni                 804 Im M0 V
+              0803 C565000-6    Ni Ba              703 Im G3 V
+              0804 E210332-5    Ni                 702 Im M7 V

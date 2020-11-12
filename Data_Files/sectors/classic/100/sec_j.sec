@@ -1,0 +1,23 @@
+@SUB-SECTOR:Void  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0922 D64A404-8    Ni Wa              902 Im K4 V
+              0925 B110886-B    Na                 302 Im M3 V
+              0926 C787634-8    Ni Ag              905 Im M1 V M0 D
+              0929 C10088A-B    Va Na              513 Im K3 V M4 D
+              1021 C100434-B    Ni Va              811 Im M4 V M1 D
+              1022 A100433-E    Ni Va              703 Im K4 V
+              1024 B525677-6    Ni                 403 Im M6 V M4 D
+              1028 C331721-A    Po Na              823 Im K3 V M0 D M0 D
+              1123 D465220-5    Ni                 103 Im K9 V
+              1223 A100433-C  N Ni Va              823 Im K3 V M2 D
+              1230 A525677-B    Ni                 923 Im K9 D
+              1422 C897554-6    Ni Ag              204 Im K4 V M7 D
+Kumish        1521 B                               902 Im M7 II M5 VI
+Ashisesh      1523 D465984-9    Hi                 504 Im K4 III

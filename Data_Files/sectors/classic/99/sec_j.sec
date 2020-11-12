@@ -1,0 +1,41 @@
+@SUB-SECTOR:Shiwonee  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1430 1133 0 1
+$1430 1533 0 1
+$1430 1630 0 0
+$1630 1731 1 1
+$1430 1328 0 0
+$1328 1322 0 0
+$1322 1419 0 -1
+$1322 1121 0 0
+$1121 0919 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Selruke       0921 C352422-B  S Ni Po              213 Li F0 V
+Rigaal        0928 B100679-E    Ni Va Na           714 Li M1 V M8 D
+Far Trinity   1025 D767661-7  S Ni Ri Ag           601 Li F4 V M9 D
+Hiponee       1027 B686351-B  N Ni                 721 Li F3 V
+Dreva         1028 E30089D-7    Va Na              610 Li F1 V M6 D
+Lagna         1029 A110A97-G    Hi In Na           231 Li G3 V M8 D
+Strogy        1121 A425347-E    Ni                 604 Li K0 IV
+Elemza        1122 E10046B-9    Ni Va              303 Li M1 II
+Stenardee     1130 B110346-D    Ni                 114 Li F3 V
+Adep 5        1223 D45458B-7  S Ni Ag              903 Li F2 V
+Zetra         1321 B7A2544-B    Ni                 813 Li G1 D
+San Son       1322 A864337-E    Ni                 803 Li G8 V M0 D
+Levatra       1325 B200262-E    Ni Va              503 Li F5 VI
+Talow         1326 B7B0676-A  S Ni De              102 Li M1 V
+Tlasov        1328 A100663-F    Ni Va Na           903 Li G0 V
+Prindee       1330 D443578-9  S Ni Po              524 Li G2 D M6 D
+Mag' Lphr     1424 B100435-F  S Ni Va              703 Li M0 IV
+Nindaro       1428 B9896BB-A    Ni                 300 Li G0 V
+Shiwonee      1430 AA86831-G  N Ni                 433 Li F7 VI M9 D
+Lasiter       1522 E210843-9    Na              A  302 Li M8 D
+Thun          1524 C000653-D    Ni As Na        A  614 Li M4 V M9 D
+Revie         1621 A978757-D    Ag                 805 Li F4 V
+Pohkrow       1629 B568338-C    Ni                 502 Li F2 V M4 D M5 D
+Bisks Planet  1630 B55A476-E  S Ni Wa              112 Li F7 VI M0 D

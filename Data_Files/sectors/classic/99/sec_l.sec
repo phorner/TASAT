@@ -1,0 +1,52 @@
+@SUB-SECTOR:Tooka   SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2621 2718 0 -1
+$2621 2523 0 0
+$2621 2822 0 0
+$2822 2624 0 0
+$2822 3122 0 0
+$2822 2926 0 0
+$2926 2727 0 0
+$2727 2529 0 0
+$2529 2130 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Logol         2521 B5735A9-B    Ni                 713 Ma F4 D M8 D
+Gernice       2522 B684645-B    Ni Ri Ag           810 Ma F4 D
+Barden        2523 B355787-B  S Ag              A  601 Ma F2 V M0 D
+Feiths        2529 A3108BC-E    Na                 824 Ma G1 D
+Shigeko       2530 C363832-8                       110 Ma F3 VI M0 D M5 D
+Lendining     2621 A545743-D    Ag                 304 Ma F4 V M7 D
+Goematt       2622 C8C7304-B  S Ni                 320 Ma M7 V M6 D
+Lorfee        2624 B865465-C  S Ni                 802 Ma M4 V
+Rolando       2630 D100345-B    Ni Va              702 Ma K4 IV M1 D
+Baetrin       2724 B88856A-C    Ni Ag              622 Ma F9 D
+Seneca        2727 B265379-C  N Ni                 510 Ma F3 V
+Rinkenbine    2729 B11037A-F    Ni                 201 Ma K4 V M8 D
+Ferron        2730 B491651-C    D0 Ni              303 Ma K3 V
+Macaw         2822 A726742-E                       603 Ma G1 V
+Jobi          2827 B100453-F    Ni Va              314 Ma M4 V
+Gilafill      2828 B484253-E    Ni                 900 Ma F0 V M3 D
+Giirsha       2925 B87AA97-F    Hi In Wa           110 Ma F5 VI M8 D
+Nova          2926 B200303-E  S Ni Va              211 Ma M7 V
+Haterbur      2927 B110246-F    Ni                 402 Ma M9 V M2 D
+Varglen       2929 B110687-C    Ni Na              400 Ma G3 V
+Danmer        2930 B525554-E    C1 Ni           A  401 Ma K1 D M8 D
+Haela         3021 B553400-D    Ni Po              603 Ma F2 V
+Erro          3026 B729110-C    Ni                 812 Ma M0 V K1 D
+Poorstar      3027 B100333-E  N Ni Va              802 Ma M6 V G6 D
+Glerum        3122 A000300-G    Ni As              800 Ma G3 V
+Mingle        3123 D100897-A    Va Na              514 Ma G4 D
+Tooka         3124 A241553-G  S Ni Po              602 Ma F3 V M4 D
+Noplace       3125 B100777-D    Va Na              124 Ma F4 V M6 D
+Whidden       3127 A466542-E    Ni Ag           A  813 Ma M0 V
+Lensfer       3128 B331510-E    Ni Po              100 Ma G0 V
+Gelornamite   3129 C8A1756-A                       123 Ma G1 V
+Tichette      3221 B551314-C    Ni Po              401 Ma F3 D M0 D
+Goldazax      3222 EAA47AD-8                       802 Ma M2 V
+Nystrom       3225 A568333-C  S Ni                 105 Ma F3 D
+Shallow       3228 B87A345-D    Ni Wa              602 Ma M1 V M5 D

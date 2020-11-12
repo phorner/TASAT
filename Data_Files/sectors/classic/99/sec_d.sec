@@ -1,0 +1,46 @@
+@SUB-SECTOR:Zalucha SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2607 2407 -1 0
+$2607 2809 0 0
+$2607 2906 0 0
+$2809 2913 0 1
+$2906 3238 0 -1
+$3003 0105 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Moran         2503 B3227B8-B    Po Na              414 Ma M2 II M8 D
+Hayashi       2506 B434678-C  N Ni                 323 Ma G4 V M6 D
+Janeen        2508 A100610-G  N Ni Va Na           302 Ma K1 V M2 D
+Euteneier     2503 B3227B8-B    Po Na              414 Ma G3 V
+Cragun 3      2506 B434678-C  N Ni                 323 Ma G0 V
+Zalucha       2508 A100610-G  N Ni Va Na           302 Ma M7 VI M2 D
+H'rachovina   2605 B433211-C    Ni Po              403 Ma K8 V M9 D
+Galus         2606 B782777-A  N Ri                 904 Ma G1 V
+Athay         2607 B679675-A  N Ni                 402 Ma F7 D M3 D
+Keholutes     2609 B300168-C    Ni Va              605 Ma M7 V M5 D
+Magallanes    2703 B77A330-E    Ni Wa              413 Ma F6 D M2 D
+Ayarra        2710 B38457A-C  N C7 Ni Ag           614 Ma G8 VI M3 D
+Ioannides     2809 A525546-E  N Ni                 505 Ma A3 VI
+Stockton      2810 C573430-8    Ni                 820 Ma F5 VI M7 D
+Watia         2902 B245776-A    Ag                 824 Ma K1 V
+Vuong         2904 B559532-C  S Ni              A  924 Ma F9 VI
+Aderveen      2905 B45487B-C  S C6 C0              302 Ma F7 D
+Yorgasan      2906 B646547-B  N Ni Ag              703 Ma K3 V M8 D
+Rochon        2908 E675538-7    Ni Ag              613 Ma G2 VI
+New Stockton  2910 B3226BA-C  S Ni Po Na           103 Ma M3 V M7 D
+Reisland      3001 C888373-A    Ni                 121 Ma F6 D M5 D
+Southard      3002 B645410-B    Ni                 104 Ma F7 D
+Titmus        3003 A8A0422-F    Ni De              703 Ma F3 V M0 D
+Zabel         3008 A575210-C    Ni                 202 Ma K9 V M3 D
+Coxe          3009 B000101-G  S Ni As              414 Ma M3 V
+Vageau        3106 E110884-A    Na                 312 Ma F9 V M8 D
+Sanidon       3108 B0008AA-D    As Na              121 Ma F0 D
+Freelund      3203 E7C0743-8    De                 302 Ma K3 V
+Dolenar       3206 B542310-A    Ni Po              500 Ma F0 VI M7 D
+Hamagami      3207 B300000-E    Ni Va Ba           503 Ma M9 V
+Kusha         3208 B8B45A7-C    Ni              A  802 Ma G0 V M0 D
+Friton        3210 D856666-5    C1 Ni Ag           304 Ma F4 D M9 D

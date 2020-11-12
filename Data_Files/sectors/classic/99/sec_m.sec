@@ -1,0 +1,56 @@
+@SUB-SECTOR:Annari  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0839 1040 1 0
+$0839 0736 0 0
+$0736 0933 1 0
+$0736 0434 0 0
+$0434 0134 0 0
+$0434 0130 0 -1
+$0834 0530 0 -1
+$0733 0933 1 0
+$0134 3233 -1 0
+$0239 0301 0 1
+$0839 0502 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Forever       0134 A000100-G  N Ni As              503 Li K6 II M6 V
+Kenbine       0138 C321123-C    Ni Po              903 Li G8 II
+Sekeltin      0140 B633447-B  N Ni Po           A  101 Li M2 V M4 D
+Annari        0231 A9A2878-E                       832 Li F3 D M1 D
+Lumbian       0234 E100200-C    Ni Va              802 Li M5 V
+Inger         0235 B794776-9  N Ag                 512 Li K3 VI M0 D
+Tencrux       0239 A553346-E  N Ni Po              924 Li G5 V
+Sarabin       0240 E84A430-9    Ni Wa              405 Li G3 D
+Staalun       0331 B434872-D                       111 Li F0 V
+Gusson        0335 B568100-D  N Ni                 521 Li G9 V
+Ledstat       0336 B3007CC-C    Va Na              114 Li K3 V M5 D
+Hunberri      0339 B884622-A    Ni Ag              504 Li F0 V M7 D
+Pocker        0432 B338254-E    Ni                 303 Li G8 IV
+Rigold        0434 A264000-E    Ni Ba              413 Li M1 D
+Dax           0436 B565877-B  S Ri                 103 Li M4 V M0 D
+Shanell       0437 E695840-7                       402 Li K4 V
+Crater        0440 D300645-8    Ni Va Na           604 Li M1 VI M7 D
+Hadie         0532 B664856-B    Ri                 104 Li F1 V
+Beeson        0534 E11089B-A    Na                 503 Li F0 D
+Firman        0536 B87A225-C    Ni Wa              400 Li K3 VI
+Orichalc      0539 B78A974-E    Hi Wa              705 Li F4 D
+Nilrebmah     0540 B889653-C    Ni Ri           A  214 Li K4 D M3 D
+Plaacen       0631 B225888-C                       402 Li F1 D M1 D M3 D
+Monapoan      0632 A562435-D  N Ni                 313 Li F1 VI M1 D
+Lumbine       0732 B200887-C    Va Na              804 Li F8 VI
+Crussel       0733 A451246-D    Ni Po              723 Li F2 D M2 D
+Sorrento      0734 B798640-A    Ni Ag              424 Li G0 V
+Block         0736 A561101-E  N Ni                 800 Li F2 V
+Teradd        0737 B6758AA-A                       102 Li K1 D M4 D
+Rarderger     0738 E79A766-8    Wa                 713 Li G3 V
+Kiggens       0739 B531323-D    Ni Po           A  603 Li F6 V
+Matila        0740 A100684-F    Ni Va Na           902 Li G2 V
+Secorra       0834 A698767-C    Ag                 102 Li F0 V
+Ryson         0836 B668300-B    Ni                 812 Li F2 D
+Leam          0837 E110A83-D    Hi In Na        A  722 Li F3 V M7 D
+Lowisa        0839 A100576-G    Ni Va              804 Li F4 V M4 D M5 D
+Kilarn        0840 B41089A-C    Na                 114 Li F5 D M5 D

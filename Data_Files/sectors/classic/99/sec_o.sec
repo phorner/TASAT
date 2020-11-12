@@ -1,0 +1,53 @@
+@SUB-SECTOR:Shimmer   SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2238 2540 1 0
+$2238 1701 0 1
+$2238 2234 0 0
+$2238 1835 0 0
+$1835 1533 -1 0
+$1835 1436 -1 0
+$1731 1630 -1 -1
+$1731 2130 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Myimpia       1731 B784202-B  A Ni                 222 Li G2 D
+Gilkla        1733 B475677-B    Ni Ag              903 Ma F5 D M6 D
+Kasenca       1740 B7A6433-C  N Ni                 213 Li M2 VI
+Daven         1831 B100695-C    Ni Va Na           613 Ma G2 D M2 D
+Broo          1832 B541043-9  N Ni Po              825 Ma F8 V M7 D
+Earthstone    1833 C775452-B  S Ni              A  520 Ma K7 D
+Mitt          1834 D96A776-7  S Ri Wa              802 Ma F4 V
+Waize         1835 A9A7663-D    Ni                 301 Ma M0 V
+Rattu         1837 B352675-C  S Ni Po              323 Ma G6 VI
+Simmersong    1931 C478344-A    Ni              A  304 Ma F5 V
+Danmoire      1936 D331758-A    Po Na           A  920 Ma K3 V
+Merold        1938 B110446-D    Ni                 301 Ma M3 VI M9 D
+Arka          1940 A798545-D    Ni Ag              922 Ma G1 D M2 D
+Umbia         2031 B8D48B9-B                       304 Ma F0 V M0 D
+Devan         2032 C97789A-7                       313 Ma G7 D M8 D M3 D
+Sempir        2037 D484454-8    Ni                 312 Ma G1 V M4 D
+Shimmer       2039 B9A1737-B                       922 Ma M7 II
+Sroos         2040 B876332-B    Ni              A  802 Ma M5 V
+Honatty       2132 C545851-A                       104 Ma F8 D
+Landing       2135 B75758D-A    Ni Ag              304 Ma G2 V M5 D
+Enbrie        2136 B4738CH-C                       313 Ma F3 V
+Santaw        2138 B263552-C    Ni                 104 Ma F1 VI
+Damz          2139 B355585-B    Ni Ag              804 Ma F4 V M0 D
+Nituu         2231 E100877-A    Va Na              405 Ma F2 VI M8 D
+Halfway       2233 B533699-C    Ni Po Na           410 Ma G4 D
+Norfriboah    2234 A646785-C    Ag                 122 Ma F9 D M4 D
+Virim         2237 A553568-E    Ni Po              713 Ma G0 D M6 D
+Binsarah      2238 A636415-E    Ni                 302 Ma M3 V M5 D
+Ferring       2331 E200652-8    Ni Va Na           613 Ma M9 IV M6 D
+Lybo          2334 C545373-A    Ni                 425 Ma F8 V M1 D
+Nanonlin      2335 B8866A6-9    Ni Ag              814 Ma F3 V M0 D
+Todkar        2336 B53A543-E  N Ni Wa              704 Ma M1 V M3 D
+Luri          2340 B55698D-D  N C5 Hi           A  913 Ma F9 D M1 D
+Shanmos       2433 D100311-9    Ni Va              414 Ma M4 V G2 D
+Nyroah        2435 C76366B-8    Ni Ri              502 Ma G4 V
+Skillern      2439 B646885-9  N                    703 Ma G2 V M7 D
+Rington       2440 B443222-B  N Ni Po              124 Ma K5 V M2 D

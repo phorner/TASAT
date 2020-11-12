@@ -1,0 +1,35 @@
+@SUB-SECTOR:Zuume  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gimesh        1736 E1009A7-9    Hi In Va Na        703 Im M2 V
+              1737 A100633-C    Ni Va Na           813 Im K0 V
+              1739 C756440-9    Ni                 402 Im K2 V
+              1740 C100433-B    Ni Va              702 Im K2 V M5 V
+              1836 C100433-8    Ni Va              102 Im K3 V M6 D
+              1839 C525677-6    Ni                 415 Im M4 V M0 D
+              1840 E331721-8    Po Na              102 Im M4 V
+Anise         1935 D100A99-D    Hi In Va Na        304 Im K2 IV
+              1937 B525677-B    Ni                 202 Im K1 V M7 D
+              1939 D331721-8    Po Na              213 Im M1 V
+              2035 D000587-5    Ni As              502 Im M8 D M8 D
+              2135 C100433-A    Ni Va              413 Im M2 V M0 D
+              2139 A100434-D    Ni Va              613 Im M0 V M8 D
+              2234 B100433-A    Ni Va              103 Na F0 D
+              2235 E525677-7    Ni                 205 Im M2 V
+              2240 B331721-8    Po Na              201 Im M9 VI
+              2336 A253420-B    Ni Po              813 Na K1 V M4 D
+              2337 C639340-A    Ni                 611 Cs M1 V M1 D
+              2338 C8C758B-5    Ni                 523 Na K1 V M1 D
+              2339 E310010-4    Ni                 805 Na K0 V M7 D
+              2340 C625785-6                       110 Im K2 V M1 D
+              2433 C532464-5    Ni Po              403 Im M8 III M0 VI
+              2436 C545898-7                       723 Im M2 IV
+              2438 A787200-C    C1 Ni              204 Im G2 V
+              2439 D100433-A    Ni Va              714 Im M1 V M9 D
+              2440 C525677-5    Ni                 804 Cs G4 V

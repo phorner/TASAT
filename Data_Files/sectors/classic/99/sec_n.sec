@@ -1,0 +1,49 @@
+@SUB-SECTOR:Shokee   SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1533 0733 -1 0
+$1533 1835 1 0
+$1436 1835 1 0
+$1540 1701 1 1
+$1540 1340 0 0
+$1340 1040 0 0
+$1040 0839 -1 0
+$0933 0834 -1 0
+$1133 1430 0 -1
+$1533 1430 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Llyrn         0931 C333AAC-D    Hi Po Na           533 Li F8 VI
+Ar Chaa       0932 B8D0400-C    Ni De              603 Li M2 V
+Jacat         0933 A352556-F  S Ni Po              114 Li F9 D M0 D
+Deward        0934 D10078C-9    Va Na              815 Li G4 V M6 D
+Lodd          0937 B847649-9    Ni Ag              800 Li F4 V M4 D
+Baughallum    0938 B300644-D    Ni Va Na           104 Li M4 V
+Timely        0939 D31058C-A    Ni                 100 Li M6 VI
+Vakris        1032 B3548DF-8  S                    503 Li M0 VI M2 D
+Melot         1038 C100653-B    Ni Va Na           313 Li M2 V
+Bruy          1040 A585326-C    Ni                 505 Li F8 D
+Ashavakuna    1131 B567622-9  N Ni Ag              810 Li F4 V M7 D
+Garency       1133 A645786-D  N Ag                 503 Li F9 D
+Conlyte       1134 C845554-9  S Ni Ag           A  104 Li G1 D
+Nagiida       1233 B667ACC-E    Hi                 820 Li G1 D
+Weemar        1234 B000699-C    Ni As Na           703 Li M3 V M6 VI M6 D
+Ruetzel       1235 B747133-A  N Ni                 403 Li F8 VI
+Tanny         1238 C567567-9    Ni Ag              704 Li F2 D
+Nilton        1239 B684300-B    Ni                 604 Li F1 VI
+Scole         1335 B436222-C    Ni                 202 Li M9 VI M8 D
+Wewarbinner   1340 B567227-B    Ni                 102 Li G7 VI
+Nemille       1432 C64A101-B    Ni Wa              910 Li F6 D M0 D
+Filliagi      1434 B453316-D    Ni Po              800 Li G1 VI
+Wergatoen     1436 B65557A-C  N Ni Ag              914 Li G2 VI
+Tenonyn       1532 B424779-D  S                    623 Li K7 V M5 D
+Serock        1533 B492685-B    Ni              A  302 Li F0 D M3 D
+Theradway     1534 C762116-A  S C0 Ni              800 Li M7 D
+Dyglen        1535 D425495-A    Ni                 602 Li M3 V
+Nobody        1538 B100200-F    Ni Va           A  515 Li M1 V
+Marilithe     1540 A879485-D  N Ni              A  104 Li F2 D
+Jade          1634 B110130-F  S Ni                 922 Li M3 IV
+Wranklin      1639 D547345-6    D5 Ni              201 Li K0 D M1 D

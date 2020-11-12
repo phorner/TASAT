@@ -1,0 +1,45 @@
+@SUB-SECTOR:Aklan  SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0122 C110853-8    D3 Na           A  803 Im M7 III
+              0123 C667249-8    Ni                 903 Im G0 V
+              0127 B8A0133-8    Ni De              803 Im G2 V
+              0129 E687769-4    Ri Ag              533 Im G1 V
+              0222 B653203-9    Ni Po           A  604 Im K1 VI M9 D
+              0225 D893277-3    Ni                 923 Im K6 V M1 D
+Bishan        0226 D7699DJ-4    Hi                 304 Im M1 V
+              0228 B7A2841-8                       603 Im M7 IV
+              0328 E423633-6    Ni Po Na        A  204 Im M5 IV M3 D
+Aklan         0329 B473986-B    Hi In              503 Im K2 V M3 D
+              0330 C777843-5                       522 Im M2 V
+Withern       0421 C100963-B    Hi In Va Na        603 Im M2 V M9 D
+Dunk          0422 C769AEF-B    Hi              A  713 Im G3 V
+              0423 B300343-D    Ni Va              300 Im A9 V
+              0425 D63245A-4    Ni Po           A  804 Im F3 V
+              0427 B88957A-B    Ni                 405 Im M0 V M5 D M2 D
+              0429 B210511-9    Ni                 300 Im M0 V M3 D
+Ziina         0523 E32399A-5    D3 Hi In Po Na  A  403 Im K4 V M9 D
+              0527 B100230-9    D0 Ni Va        A  923 Im G7 V
+              0528 B362876-6    Ri              A  104 Im M1 V
+Ychea         0623 A327988-D    Hi In              502 Im K0 V
+              0625 A261510-9  N Ni                 703 Im G3 III
+              0627 B555211-7    Ni                 203 Im G4 V M4 D
+              0630 D725010-7  S Ni              A  320 Im M5 V
+              0721 C5716AB-6    Ni                 204 Im M3 V M5 D
+              0722 AA79555-E    Ni                 102 Im K1 V
+              0723 A100400-F    Ni Va              224 Im M3 III
+              0724 A574524-8    Ni Ag              905 Im M1 V M5 D
+Darniki       0725 C624994-7    Hi In              104 Im G3 V M7 D
+              0730 C435226-6    Ni                 524 Im K2 II
+              0821 E310757-9    Na                 404 Im K4 III
+              0823 A100435-F    Ni Va              604 Im M2 V
+              0826 E300867-7    Va Na              713 Im K4 V
+              0827 B4448BC-9                       605 Im M4 VI M4 D
+              0829 A9A4688-C  N Ni                 310 Im F2 V
+Lashkagur     0830 B74498A-C    Hi In              902 Im A1 V

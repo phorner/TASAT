@@ -1,0 +1,43 @@
+@SUB-SECTOR:Arar  SECTOR:Massilia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0908 0711 -1 1
+$1104 1601 0 0
+$1601 1640 0 -1
+$1508 1808 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Little Jupiter0901 A8B2855-F  S                 A  213 Li F4 V
+Transvaal     0904 B357584-C    Ni Ag              404 Li F3 D M5 D
+Griku         0906 E455338-7    Ni                 322 Li G4 D
+Sargashad     0908 A9A4878-C  N                 A  400 Li G2 V M5 D
+Monkota       1001 D100586-9  S Ni Va              503 Li M3 V
+Jaspa         1002 B675898-9                       614 Li K2 VI
+Hallinsa      1003 B638400-C  S Ni                 210 Li G3 V
+Quetcro       1004 BAA5234-C    Ni                 703 Li M8 V
+Seyers        1101 B2476BE-C    Ni Ag           A  202 Li F4 V
+Arar          1104 B233A72-G    Hi Po Na           524 Li F3 V
+Dailra        1106 C110557-E    Ni                 801 Ma M1 V
+Khipshunam    1108 C544ABA-C  S Hi In              403 Ma G2 D
+Datrumna      1203 A362686-D    Ni Ri              403 Li F1 V
+Balfour       1303 E8A6569-9    Ni                 624 Na M4 V M9 D
+Barony        1304 B569597-D    Ni              A  700 Ma G2 V
+Amulric       1305 B100500-E    Ni Va              704 Ma M1 V
+Chaeolimin    1307 B653525-A    Ni Po              201 Ma G4 D
+Lattaunist    1308 B444656-B  N C7 Ni Ag           104 Ma F9 VI
+Rynic         1310 E898320-7    Ni                 403 Ma F8 V M0 D
+Dalphta Three 1404 C9A9533-A    Ni              A  911 Ma G2 VI
+Wondrous      1408 B7A6226-C  N Ni                 112 Ma K3 IV
+Pytirsun      1503 C75A310-B    Ni Wa              913 Ma K1 V
+Basolus       1506 B694664-A    Ni Ag              415 Ma F1 V M1 D
+Verifervid    1507 B310100-D    Ni                 920 Ma G5 V M4 D
+Gasha         1508 A250510-G    Ni Rs              924 Ma G4 D
+Anamoni       1510 B99A425-D    Ni Wa              803 Ma F7 D
+Suttas Belts  1601 A000200-G    Ni As              100 Li M8 IV
+Drayton       1603 B262333-C    Ni                 103 Ma F9 D
+Stramentox    1605 B210454-E    D2 Ni           A  322 Ma M4 V
+Wirz          1606 B727441-C    Ni                 415 Ma G0 III M7 D
+Biloxi        1607 B5448CB-B  N                    122 Ma G9 D
