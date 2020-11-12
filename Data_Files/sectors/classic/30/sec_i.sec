@@ -1,0 +1,30 @@
+@SUB-SECTOR:Ilakhegiki SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ueghzmadh     0126 C7A377B-7  C Fl                 100 Va M6 V
+Ka Dudiguulaa 0130 B597567-A    Ag Ni              100 Va F3 V
+Gaanakar      0225 C698210-5    Lo Ni Tp           722 Va K5 V
+Foinriraw     0229 C462300-7    Lo Ni              600 Va G6 V
+Uguerz        0424 C665875-4  G Tp                 700 Va K1 V
+Shaban        0425 C110545-9  G Ni                 401 Va M2 V M1 V
+Adasekaagi    0427 A655347-A  G C4 Lo Ni Tp        400 Va K9 V
+I Lashaagir   0529 C338004-B    Lo Ni              102 Va F7 V M8 D
+Uan Fhoghzigzu0530 A549478-B  C Ni                 400 Va K3 V
+Mmatskfagrnurr0624 C511A7A-8  G Na Hi In Ic        700 Va K0 V M3 V
+Lamushkaaruuda0626 A330363-E    Lo Ni Po De        223 Va A0 V
+Ou Oathuu     0627 B896A75-B  G Hi In Tp           623 Va G5 V
+Gazap         0726 B000562-E    Ni As              903 Va K6 V
+Shiibamnu     0729 B894022-8  C Lo Ni Tp           701 Va G8 V
+Arilaanabuba  0730 C695001-6  C Lo Ni Tp           600 Va M0 V
+Ka Ashishile  0821 B000441-D    Ni As              104 Va M0 II K9 D
+Diikuu        0823 C300565-7  G Ni Va              912 Va M7 V G9 D
+Ernii         0825 EA8A620-8  C Ni Wa              223 Va K7 V
+Khushesminad  0826 B627542-7  G C9 Ni              400 Va K2 V F6 D
+Faekgrunggueks0827 C623376-7  G Lo Ni Po           703 Va K2 V
+Li Rar        0828 A32866A-9  G Ni                 611 Va K3 V M6 V

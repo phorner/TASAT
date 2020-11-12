@@ -1,0 +1,37 @@
+@SUB-SECTOR:Andakeg SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aginsubam     0921 C455842-6  C                    405 Va K7 V
+Oad           0924 X7457X8-0  C Dw Ag Tp An     R  302 Dr F4 V
+Galaarishgulii0925 C110450-B    Ni                 201 Va M4 V
+Lusiiku       0927 C624412-8  G Ni                 400 Va G9 V M4 V
+Kagargum      0929 E434000-0    Ba Lo Ni           014 -- F7 V
+Akhanliigush  0930 E877423-5    Ni Tn              403 Va G6 V M7 V
+Lalashaseguu  1022 E553211-7    Lo Ni Po           600 Va K7 V
+Irigmushagak  1027 A474343-A  G Lo Ni              803 Va K0 V
+Me Kno        1028 E557778-4  C Ag                 513 Va M0 V
+Ikhawkeekfi   1122 E86A674-7    Ni Wa              334 Va G6 V
+Gekhurmuma    1123 C765149-4    Lo Ni Tn St        902 Va G7 V
+Ishirka       1130 B759220-9    Lo Ni Tp           413 Va F4 V
+Ishaku        1221 B501755-A    Na Va Ic           415 Va F8 V K5 V
+Likhupa       1226 D77A567-5  H Ni Wa              104 Va G3 V K4 V
+Lida Shii     1227 C75855A-A    Ag Ni Tp           500 Va G1 V M5 V
+Adz           1229 E536254-9  C C9 Lo Ni           411 Va K8 V
+Suungdzoarrfhi1230 C664677-7    Ag Ni Tp           515 Va G9 V
+Shimikargiinug1323 X673742-0  C Tp                 800 Va K9 V M2 V
+Grokh         1327 AA6A444-D    C1 Ni Wa           603 Va G8 V
+Gukaa         1423 B96646A-9    Ni Tn              502 Va F2 V
+Ii Gikemgugarm1427 A653000-D  G Lo Ni Po Tp        923 Va K1 V M4 V
+Leshuur       1521 E000322-9  C Lo Ni As           904 Va K4 V
+Soksgvael     1523 CAA7777-4  C Fl                 701 Va M0 V
+Aragam        1524 A76A720-9  C C4 Wa              800 Va G7 V
+Asu Is        1621 A555342-8  G Lo Ni              513 Va G9 V M0 V
+Gusugimi      1622 B692532-A  G Ni                 223 Va A2 V M2 V
+Idud Sa       1624 D649103-8  G Lo Ni Tp           901 Va M0 V
+Shakiishgeka  1627 A565568-C    Ag Ni              314 Va F1 V

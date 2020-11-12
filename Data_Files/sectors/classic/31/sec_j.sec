@@ -1,0 +1,48 @@
+@SUB-SECTOR:J  SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Dhuenthodh    0924 C634965-B  G Hi In              401 VM F5 V 
+Zaezog        0926 C376699-8  G Ag Ni              605 VM F8 V M5 D 
+              0928 X996000-0    Ba Lo Ni           000 -- F8 V 
+              1027 X110000-0    Ba Lo Ni           000 -- M5 V 
+              1127 X7A6000-0    Ba Fl Lo Ni        003 -- M3 V M8 D 
+Faerro        1130 C2107BA-5    Na                 506 Va F5 V M1 D 
+              1226 XA5A000-0    Ba Lo Ni Wa        023 -- G5 V 
+Lonaglloks    1230 E430356-5  C De Lo Ni Po        303 Va K5 V M3 V 
+              1321 X446000-0    Ba Lo Ni           026 -- K2 V F1 V M3 D 
+              1327 X200000-0    Ba Lo Ni Va        000 -- F4 V 
+              1329 X772000-0    Ba Lo Ni           001 -- F1 V 
+              1424 X647000-0    Ba Lo Ni           005 -- F3 V 
+              1425 X542000-0    Ba Lo Ni Po        004 -- F2 V
+              1426 X310000-0    Ba Lo Ni           002 -- M0 V M5 D 
+              1428 X100000-0    Ba Lo Ni Va        020 -- F4 V 
+              1429 X859000-0    Ba Lo Ni           002 -- F6 V M4 D 
+              1521 X541000-0    Ba Lo Ni Po        002 -- F9 V 
+              1527 X253000-0    Ba Lo Ni Po        000 -- M7 V 
+              1528 X9B6000-0    Ba Fl Lo Ni        013 -- M5 V 
+              1530 X445000-0    Ba Lo Ni           010 -- F3 V 
+              1624 X74A000-0    Ba Lo Ni Wa        033 -- G1 V M4 D M8 D 
+              1625 X490000-0    Ba De Lo Ni        003 -- F6 V M2 D 
+              1627 X548000-0    Ba Lo Ni           003 -- F5 V M5 D 

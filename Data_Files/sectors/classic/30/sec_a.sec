@@ -1,0 +1,26 @@
+@SUB-SECTOR:Gaengrerdhoerk SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Angekhiirgasig0302 A343366-A    Lo Ni Po           602 Va A0 V
+Arsuthgvirr   0305 D000379-A    Lo Ni As           513 Va M5 D M5 V
+Maarsigudumuud0307 B478200-C    Lo Ni              102 Va K1 V
+Angerar       0310 BA9A202-9  G Lo Ni Wa           802 Va G4 V
+Kserre        0410 C456374-5  G Lo Ni              604 Va G6 V
+Magashi       0502 E120000-0    Ba Lo Ni Po De     013 -- K1 V
+Fhoztsoagvong 0510 C687677-7    C1 Ag Ni Tp        902 Va G6 V
+Oufudzersag   0601 A100676-B    Na Ni Va           302 Va M7 V
+Gaakershakaang0603 E9867BF-1    Ag Tp              602 Va F3 V F2 D
+Oloil         0609 A432574-D    Ni Po              100 Va G9 V G8 D M3 V
+Kenapii       0610 B355556-B  G Ag Ni              700 Va K2 V M4 V
+U Muursa      0710 C7A2622-6  G Fl Ni              803 Va K5 V M8 V M2 V M1 V
+Tressavuessfux0801 D63297A-5  C Dw Na Hi Po Rs     300 Dr F1 V
+Aggiima       0804 D789489-7    Ni Tp              900 Va K8 V M4 V
+U Igha        0806 C583779-5                       100 Va M0 V
+Kisham        0808 E646000-0    Ba Lo Ni Tp        014 -- G7 V M6 V
+Rigeliigali   0810 D440541-7    Ni Po De           134 Va G9 V M9 V

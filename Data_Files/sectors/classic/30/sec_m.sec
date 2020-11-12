@@ -1,0 +1,33 @@
+@SUB-SECTOR:Uztsaadzuelleng SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khiszuza      0131 C430110-7    Lo Ni Po De        802 Va F8 V G6 D
+Ga Kamshinina 0134 C676510-5    Ag Ni Tp           104 J- F6 V
+Ikushdashiimak0140 C3526AF-6    Ni Po              303 J- K8 V
+Kaluunugindirl0231 X742556-4  C Ni Po              701 Va K1 V
+Grekroinokhoiz0235 BAE4776-9    Fl                 802 J- K5 V
+Uen Oirr      0237 B554477-8    Ni                 702 J- K4 V M1 V
+Midbeshad     0331 A120353-G  G Lo Ni Po De        823 Va A3 IV F4 D
+Sorzvinotheza 0339 B200543-A    Ni Va              500 Ef M6 V M0 V
+Mikudimarshig 0433 C230755-7  G Na Po De           401 Va K1 V
+Igdzeng       0437 B642110-7    Lo Ni Po           703 Ef G7 V
+Egro Khusa    0438 C5868CH-8  C                    812 Ef G1 V
+Inku          0539 E988700-0    Cw Ag Ri Tp        323 Ef K1 V M4 V
+Kigigidalu    0632 E555303-4    Lo Ni              413 Va F5 V M3 V
+Oersalvri     0633 A795144-A  G Lo Ni Tp           510 Ef K4 V
+Uugumguuzaalo 0639 D9B5798-7  C Fl                 202 Ef K6 V
+Grummaekhgzukh0640 B55287A-9  G Po                 700 Ef K9 V
+Kangakhara    0731 B542545-9  G Ni Po              722 Va G2 V
+Lenmueduengok 0734 B569410-8  C Ni                 715 Ef G1 V K0 V
+Uzaeroka      0736 C644530-9  G Ag Ni Tp           200 Ef M0 V M2 V
+Foin Lous     0738 B645320-B    Lo Ni Tp           702 Ef K9 V M0 V
+Sokugzaghzodul0739 C7B4243-7    Fl Lo Ni           522 Ef K9 V F3 D
+Allirzughoith 0833 E443457-5    Ni Po              200 Ef K7 V M6 V
+Eggheng       0835 B555597-B    C6 Ag Ni Rs        501 Ef G4 V K7 D
+Llotree       0839 A210AA7-G  C Na Hi In           502 Ef M3 V

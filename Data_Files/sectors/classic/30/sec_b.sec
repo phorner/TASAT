@@ -1,0 +1,31 @@
+@SUB-SECTOR:Kikakhamkishis SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Shushir       0902 C300300-8    Lo Ni Va           613 Va G8 V M9 V M5 D
+Allas         1001 B100974-F  G Na Hi In Va        702 Va M3 V
+Mim Narshaanzi1004 C596465-6    Ni                 224 Va G7 V
+Iishiliigurank1006 B897442-6  G Ni Tp              325 Va K5 V M8 V
+Khuusharka    1007 B99A754-9    Wa                 510 Va F3 V
+Ag Arsaamigish1204 X7B1000-0    Fl Ba Lo Ni        034 -- F5 IV
+Urkushga      1207 E347000-0    Ba Lo Ni           021 -- G3 V
+Urlisnashirru 1303 B787776-5    Ag Ri Tp           203 Va K6 V
+Iiskalinurna  1306 A765554-E  G Ag Ni Tn St        604 Va K0 V
+Gami Dirakhig 1402 D677358-8  G Lo Ni Tp           804 Va F6 V M6 V
+Irkaasiriran  1405 B100400-C  C Ni Va              600 Va M0 V
+Aradgadergur  1406 DA57457-5    Ni                 204 Va M6 V
+Umkishkanakida1410 B583430-9  G Ni                 802 Va G7 V
+Kurkunki      1505 C9958BB-3    Tp                 103 Va M0 V M9 V
+Ulerpur       1506 B656553-9    C3 Ag Ni Tp        424 Va G3 V
+Amshaalugimuga1509 A7B1435-9  G Fl Ni              322 Va G6 V K8 V M1 V
+Leers         1510 D796779-6  C Ag Tp              503 Va G3 V
+Lelimi        1604 B99437B-A  G Lo Ni              600 Va M4 V M4 V
+Anushkudi     1606 E7A3000-0    Fl Ba Lo Ni        000 -- M5 V
+Dekgadur      1608 X764110-3    Lo Ni Tp St        404 Va G3 V
+Garikhanar    1609 B656300-A    C0 Lo Ni Tp        100 Va F9 V M5 V
+Odzgoin       1610 B66557B-A  G C6 Ag Ni Tp        115 Va F4 V M7 V F9 D

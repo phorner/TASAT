@@ -1,0 +1,43 @@
+@SUB-SECTOR:Lalurderzirkuda SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gerashasha    1731 A454445-D    Ni                 614 Va F6 V
+Urmuriimgumuda1732 C799355-9  C Lo Ni Tp           314 Va A1 V
+Muushkikhu    1733 D5886B9-2  C Ag Ni              301 Va G5 V
+Khurmikurulir 1832 B5769AD-A    Hi In              813 Va M0 V
+Kigkishasha   1833 E410000-0    Ba Lo Ni           001 -- M8 V
+Ad Ked Dulish 1834 C410487-B    Ni                 620 Va M5 V F8 D
+Kaa Ushkamarik1835 B646222-9    Lo Ni Tp           222 Va K4 V
+Arsiruruugumem1931 A767025-8    Lo Ni              904 Va F1 V
+Kidikhiishum  1936 C223997-B    Na Hi In Po        503 Va G2 V K6 V
+Fozfighgengzua1937 D73777B-3  C                    712 Va G9 V
+Gzakh         1938 C333320-B    Lo Ni Po           614 Va K9 V
+Mikhin        1940 A35469B-C  G Ag Ni              323 Va F1 V M9 V
+Ugvraatruerr  2037 D625774-4  C                    624 Va G1 V
+Liilaagkhi    2038 D658386-3    Lo Ni Tp           612 Va A3 V G2 V
+Irlidikhesema 2039 E534412-6    Ni                 634 Va G0 V K8 V
+Vraavruk      2131 E330576-6    Ni Po De           700 Va M0 V M8 V
+Ar Luugirir   2132 D8A3598-4    C0 Fl Ni           803 Va M0 V M2 V
+Dhuanknogorzki2133 CAA5157-9  G Fl Lo Ni           300 Va A9 V
+Outronga      2134 A995877-C  G C8 Tp              133 Va F9 V F2 V
+Ga Dush       2135 C68AAEF-D    Hi Wa              400 Va K7 V M3 D
+Gera Lukimir  2136 A400447-D  G Ni Va              200 Va M5 V M7 V
+Gisuushukhur  2139 A6A0100-D  G Lo Ni De           924 Va K2 V
+Kirurminurima 2232 B8B8444-A  C Fl Ni              103 Va M0 V M7 V
+Kii Igan      2233 B889224-C    Lo Ni Tp           803 Va K6 V G4 D
+Makisha       2235 C434000-9    Lo Ni              702 Va F2 V M5 V
+Ru Mikisikimme2237 E856598-4    Ni                 903 Va M7 V M4 V
+Inbugaashag   2239 B585233-6    Lo Ni              303 Va M0 V M8 V
+Ku Sharmashash2240 E776559-5  C Ag Ni Tn           513 Va F8 V M2 V
+Gam Nishi     2331 E593000-0    Ba Lo Ni           000 -- K2 V
+Shir Kish     2332 BAA5201-9  G Fl Lo Ni           323 Va G6 V M9 D
+Akudaa        2433 B793485-8    Ni                 600 Va M3 V
+Irkiirkir     2435 A130676-A    Na Ni Po De        520 Va A1 V
+Irenanikhu    2438 E200201-7    Lo Ni Va           904 Va M2 V K4 D
+De Kiidilumadu2439 C746899-3    Tp                 602 Va M0 V M7 V M9 V

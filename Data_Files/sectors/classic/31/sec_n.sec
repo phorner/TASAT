@@ -1,0 +1,46 @@
+@SUB-SECTOR:N  SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Keaethudhu    0937 C876241-8    Lo Ni              410 Va F8 V 
+Rraerrgeng    1033 B324567-8  G Ni                 205 Va G9 V 
+Saetsatsoga   1034 D465877-4                       515 Va G0 V M4 D M2 D 
+Dangoug       1035 A575769-B  G Ag                 403 Va F6 V 
+Lekhallakh    1037 E130410-7  C De Ni Po           704 Va F6 V M5 D 
+Daaegh        1039 CABA338-A  C Fl Lo Ni Wa        503 Va F5 V 
+Tsakurogo     1132 C88777B-3  G Ag                 905 Va G8 V M6 D 
+Kouthuth      1231 D96648B-0    Ni                 704 Va K1 V 
+Angunlueng    1236 A110401-F    Ni                 803 Va F2 V 
+Anirsoung     1240 C200779-8  C Na Va              511 Va F3 V 
+              1431 X683000-0    Ba Lo Ni           010 -- G6 V
+              1432 XA89000-0    Ba Lo Ni           003 -- F6 V 
+              1436 X546000-0    Ba Lo Ni           002 -- F2 V 
+              1438 X653000-0    Ba Lo Ni Po        013 -- G7 V M3 D 
+              1531 X6A3000-0    Ba Fl Lo Ni        010 -- G7 V 
+              1532 X522000-0    Ba Lo Ni Po        004 -- G6 V 
+              1535 X656000-0    Ba Lo Ni           002 -- G9 V 
+              1537 X887000-0    Ba Lo Ni           016 -- M7 V M7 D 
+              1539 X7A1000-0    Ba Fl Lo Ni        007 -- M1 V M2 D 
+              1633 X326000-0    Ba Lo Ni           008 -- M8 V M8 D 
+              1637 X665000-0    Ba Lo Ni           005 -- F0 V M3 D 

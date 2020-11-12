@@ -1,0 +1,56 @@
+@SUB-SECTOR:M  SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Laknufankidh  0134 C264210-5    Lo Ni              605 Va F3 V M0 D 
+Oukhangsog    0135 C457001-3    Lo Ni              413 Va F9 V 
+Gvakaengurr   0137 B546241-5  G Lo Ni              314 Va F3 V M2 D 
+Gagnersgho    0138 C564772-4    Ag                 617 Va M8 V M4 D 
+Katsuegazi    0139 BAA4896-6    Fl                 538 Va F3 V F2 V M5 D 
+Thoefaekfoe   0140 C645305-7  G Lo Ni              829 Va M4 V M3 D F1 V 
+Kefaegoekaen  0239 E599878-4                       535 Va F9 V M6 D  
+Uue           0332 D7576A7-3  C Ag Ni              701 Va F0 V
+Fakorra       0336 D769455-6  G Ni                 502 Va G5 V M6 D 
+Duotuekal     0339 E67558A-7    Ag Ni              314 Va F5 V M6 D
+Sougvan       0431 C669579-6    Ni                 523 Va F8 V 
+Oenggnonkoez  0433 B885459-5  C Ni                 212 Va F1 V M4 D 
+Varrlong      0437 BAA3336-8    Fl Lo Ni           102 Va M1 V 
+Fauekuekh     0438 D767364-6  C Lo Ni              126 Va F1 V M4 D
+Adzgzaghue    0439 B200788-7  G Na Va              700 Va G9 V M8 V  
+Arsdzael      0440 A357554-B  G Ag Ni              824 Va F1 V M1 D 
+Aelae         0531 B320774-A  G De Na Po           400 Va M1 V M2 D 
+Aesgarrkhikh  0536 B44469C-8    Ag Ni              514 Va F9 V M6 D 
+Ghaekilgzuen  0538 D798222-3  G Lo Ni              904 Va F6 V 
+Rroedhue      0539 D6A2640-6  C Fl Ni              618 Va G9 V M5 D 
+Kaevesae      0631 C9B377A-6  G Fl                 711 Va F4 V 
+Koukoe        0632 C33277A-5  C Na Po              412 Va G2 V M7 D 
+Ogoghkag      0634 D328169-4  C Lo Ni              720 Va M1 V 
+Kueghzigaeng  0731 B879678-A    Ni                 127 Va M2 V M3 D 
+Tsoknoeoelou  0732 C8B1778-3    Fl                 902 Va M7 V M5 D 
+Goghaaen      0733 C330362-7    De Lo Ni Po        501 Va M7 II M2 V 
+Zulruek       0734 B410542-C    Ni                 621 Va F1 V 
+Korrou        0735 B410100-9    Lo Ni              403 Va G8 V 
+Kasenfo       0739 C648300-8  C Lo Ni              202 Va K9 V M7 D 
+Ghara         0838 C89A401-9  C Ni Wa              902 Va F1 V  
+Gukhaelthan   0840 E428388-6  C Lo Ni              622 Va G4 V 

@@ -1,0 +1,29 @@
+@SUB-SECTOR:Madaakuklunaa SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oa Oufuurrknu 1701 D798874-5  C C1 Tp              504 Va K2 V M1 V M3 V
+Pegegirirarshu1705 A351202-B  G Lo Ni Po           823 Va G5 V
+Muuzo         1708 D1207A6-8  C Na Po De           401 Va F2 V
+Kegku         1709 A130455-D    Ni Po De           603 Va K5 V
+Adakash       1801 A587221-B    Lo Ni              300 Va K3 V
+Foerraksaidir 1803 C351343-7  G Lo Ni Po           900 Va K3 V M8 V
+Zigupa        1805 C796300-6  C Lo Ni Tp           811 Va G5 V K2 V
+Ki Ushuuguna  1901 B967544-8  G Ag Ni Tn           102 Va K1 V
+Keminkhuli    1909 C435522-B  G Ni                 811 Va F2 V M7 V
+Idaelekoadheug1910 C56697B-7    Hi                 100 Va A2 V G4 V
+Fhuul         2002 D787876-1  C Tp                 701 Va F1 V A4 D M1 V M3 V
+Shiimimir     2010 C647547-6  G Ag Ni Tp           112 Va F3 V
+Mizukalash    2107 B410766-8  G Na                 134 Va K8 V
+Aas Khi       2202 B8A4247-C  G Fl Lo Ni           501 Va M8 V
+Kuu Nelagii   2206 B4509EG-D  G Hi Po De           523 Va G9 V
+Uedoa         2208 BAC6474-8  G C1 Fl Ni           200 VC M5 V M3 V
+Luugkoug      2209 D510778-7    Na                 304 VC M6 V
+Matepma       2310 A98998B-B    Hi Tp              112 VC G2 V
+Irudirzukhed  2401 B440555-A    Ni Po De           300 Va K2 V
+Veti Egawi    2408 C000210-8  G Lo Ni As           214 VC F3 V K2 V

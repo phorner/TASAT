@@ -1,0 +1,64 @@
+@SUB-SECTOR:F   SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Dighire       0912 C255200-A  G Lo Ni              203 VC F0 V
+Dhooeazo      0914 D511454-6  C Ic Ni              208 VC M1 V K8 V M1 V M5 D 
+Regoaesaer    0916 X322532-0    Ni Po              600 VC M8 III M4 V 
+Laekuedzag    0917 C6B0889-4  G De                 903 VC F9 V 
+Dhakhafeg     0918 E120453-A  C De Ni Po           513 VC A7 V M1 D
+Oserarz       1011 B42778B-7                       900 VC M3 II 
+Ghavin        1014 C310974-6  G Hi Na              100 VC M7 V 
+Rraghztae     1017 E77A875-4  C Wa                 913 VC M8 V 
+Ekhkougokhs   1019 C676648-3  G Ag Ni              504 VC F4 V 
+Khingfaeguel  1112 B366674-A  G Ag Ni              700 VC F0 V 
+Toknorr       1113 C796888-6                       715 VC F9 V M4 D 
+Lavoza        1115 C596586-3  G Ag Ni              114 VC F7 V M0 D 
+Kfougha       1116 C436555-A    Ni                 713 VC K3 V M0 V M8 D 
+Vaerra        1117 C866235-7    Lo Ni              126 VC K9 V M7 V 
+Koenig        1119 D76A764-2    Ri Wa              705 VC K1 V M1 D 
+Ngoukhetsong  1213 B210145-9    Lo Ni              323 VC G3 III 
+Gzoedzola     1216 C553444-4  G Ni Po              604 VC K0 V 
+              1220 X866000-0    Ba Lo Ni           014 -- G8 V 
+Ghughao       1311 D797655-4  G Ag Ni              813 VC F9 V 
+Gnuefazaegz   1312 E687976-3    Hi In              713 VC F4 V F5 V
+Rrueksong     1314 D424357-5    Lo Ni              200 VC G4 V 
+              1320 X647000-0    Ba Lo Ni           004 -- F4 V 
+Dongars       1411 B513686-9    Ic Na Ni           702 VC K5 V M6 D 
+Uezaeknunoe   1412 B77A776-6    Wa                 104 VC M3 V M3 D
+Ugzoukan      1413 DA67133-6    Lo Ni              300 VC F9 V 
+Gatharsgzoun  1414 DA8A000-5    Ba Lo Ni Wa        405 VC M8 V M7 D F7 V M7 D 
+Faengkaeghz   1417 X638678-0    Ni                 100 VC M6 V 
+Llaelugek     1511 B46577C-6  G Ag                 105 VC F8 V M2 D 
+Dharraefa     1513 E504644-0    Ic Ni Va           305 VC M7 V M4 D 
+Soudoghsagh   1516 EA7A623-7    Ni Wa              802 VC K1 V M8 D 
+              1520 X8B6000-0    Ba Fl Lo Ni        013 -- K8 V M2 D 
+Khueghvaeg    1611 A322554-E  G Ni Po              510 VC M7 V 
+Vasolourz     1612 B8A0458-7    De Ni              502 VC G6 V M5 D 
+Tallos        1613 C575557-5  C Ag Ni              700 VC M8 V 
+Rrudzaerugh   1614 D426467-6    Ni                 702 VC M8 V M7 D 
+Vozaez        1615 D8A4320-3  G Fl Lo Ni           500 VC K3 V 
+              1617 X500000-0    Ba Lo Ni Va        023 -- F4 V 
+              1618 X555000-0    Ba Lo Ni           015 -- F8 V M0 D 
+              1620 X969000-0    Ba Lo Ni           002 -- M4 V M5 D 

@@ -1,0 +1,50 @@
+@SUB-SECTOR:A   SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0103 X478000-0    Ba Lo Ni           012 -- F6 V 
+              0104 X977000-0    Ba Lo Ni           004 -- F1 V 
+              0105 X634000-0    Ba Lo Ni           015 -- M1 V M6 V
+Kfakfukhil    0107 C695431-5    Ni                 814 Va F0 V 
+Danengaegz    0108 C1006AA-6    Na Ni Va           104 Va F7 V M2 D
+Ogvazaghz     0110 B58177A-7                       504 Va F3 V
+              0205 X200000-0    Ba Lo Ni Va        002 -- K9 III K1 V
+Rraldhukh     0207 C562779-4  C                    717 Va F8 V M5 D
+              0301 X674000-0    Ba Lo Ni           010 -- F7 V 
+Ghoungaghen   0307 C648110-7    Lo Ni              523 Va F8 V
+Ghukou        0310 D775210-1    Lo Ni              912 VC F4 V
+Ksakoeks      0408 E8B0456-3  C De Ni              604 VC M1 V
+              0501 X200000-0    Ba Lo Ni Va        000 -- M8 V 
+              0502 X749000-0    Ba Lo Ni           003 -- G5 V M3 D
+              0506 X697000-0    Ba Lo Ni           012 -- F4 V 
+              0602 X468000-0    Ba Lo Ni           002 -- K4 V M1 D
+Taenegzull    0607 C666976-8    Hi In              501 VC F9 V 
+Ghueghukas    0608 C53578D-7  C                    301 VC M1 V M4 D
+              0702 X310000-0    Ba Lo Ni           000 -- F7 V
+              0704 X568000-0    Ba Lo Ni           007 -- K3 V M7 D 
+Roghaeks      0707 C220588-7  H De Ni Po           620 VC G0 V 
+              0801 X9C3000-0    Ba Fl Lo Ni        000 -- M1 V 
+              0802 X100000-0    Ba Lo Ni Va        014 -- M1 V M8 D M1 D
+              0803 X110000-0    Ba Lo Ni           012 -- M5 V 
+Nangourz      0805 E5558BA-3                       500 VC F8 V 

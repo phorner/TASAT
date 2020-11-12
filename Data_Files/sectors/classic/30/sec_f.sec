@@ -1,0 +1,27 @@
+@SUB-SECTOR:Ru Lan SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Mukhira       0911 C764211-5    Lo Ni Tp St        800 Va F8 V M5 V
+Diga Uugkamakh1011 C450312-8    Lo Ni Po De        302 Va K1 V
+Arure         1017 X200457-7    Ni Va              103 Va M1 V M7 V
+Giguursambelar1020 E400745-7    Na Va              113 Va M2 V M8 V
+Khu A Ki Iish 1113 B130440-9  G Ni Po De           514 Va K3 V K4 D
+Ibisdiisadar  1119 B677422-6  G Ni Tp              102 Va G9 V M1 V
+Gakkimanin    1120 A663338-A    Lo Ni Tp           101 Va K6 V
+Gishzaasush   1211 B446757-9    Ag                 800 Va M0 V
+Kurusukiguluum1319 B784987-C    Hi Tp St           914 Va F1 V
+Akamlagepmishi1320 D989499-6  G Ni Tp              714 Va K9 V K4 V
+Agurkurduda   1412 D465669-5  C Ag Ni Ri           100 Va K7 V
+Uu Efhenmmadh 1511 E465577-4    Ag Ni              402 Va G4 V
+Ruguulagesh   1517 A454865-8  G                    924 Va K0 V K0 D
+Akhiishbe     1520 D350526-5  G Ni Po De           700 Va K4 V A4 D
+Uugekir       1611 E697000-0    Ba Lo Ni Tp        000 -- M0 V
+Khikanru      1613 D7C5489-8  C Fl Ni              703 Va M0 V
+Uth Orthmoing 1618 C100974-D  C Na Hi In Va        200 Va K3 V M2 V
+Engoukhe      1620 C796679-5  G Ag Ni Tp           524 Va F1 V

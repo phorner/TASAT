@@ -1,0 +1,47 @@
+@SUB-SECTOR:Mming SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sinikikamkhaa 1721 B887100-B    Lo Ni Tp           803 Va A1 V
+Nishuudisugirm1724 C998596-7    Ag Ni Tp           811 Va K6 V
+Fawdhlleezlaik1726 B78977B-B                       100 Va F6 V
+Kukilu        1727 B443589-9  C Ni Po              824 Va G5 V
+Khuggu        1730 A202788-C    Na Va Ic           204 Va F4 V G8 D
+Zushu         1821 A2008DD-A  G C9 Na Va           723 Va K0 V M9 V
+Saggurpemamka 1824 A969563-D  C Ni Tp              822 Va K7 V G4 D
+E Ikikhikaki  1825 E120356-8    Lo Ni Po De        101 Va F2 V
+Gan Diirgisha 1827 C959343-5  C Lo Ni Tp           414 Va G2 V
+Menmushuku    1828 C1207CA-9    Na Po De           424 Va G6 V
+Dakhuu        1829 D565320-7  C Lo Ni              611 Va K1 V
+Kiikugararku  1929 C110242-9  G Lo Ni              900 Va M2 V
+Tidonefhe     2022 B635304-8  G C9 Lo Ni           200 VC M0 V M1 V
+Nonenorom     2024 A674687-A    Ag Ni Tp           303 VC A4 V K7 V G5 V
+Shashagamezurl2029 B8C56A6-9    Fl Ni              301 Va M2 V
+Idirkamirkushi2030 B759356-8  G C9 Lo Ni Tp        803 Va K5 V A2 D
+Ofesevopar    2121 A9C6497-B  G Fl Ni              722 VC K5 V K4 V
+Onsukethyo    2122 B534896-6                       700 VC G9 V M5 V M8 V
+Tidethmintsi  2124 D753265-2    Lo Ni Po Tp        811 VC G7 V
+Dakhuguu      2125 B687001-C    Lo Ni              800 Va M5 V M8 V
+A Lasanpa     2126 E475754-7  C Ag                 532 Va F6 V G3 V
+Rraenoa       2127 A784675-C  G Ag Ni Tp St        803 Va G0 V
+Iriirgidiimla 2129 C444340-9  G Lo Ni              123 Va F8 V
+Ecunan        2222 C787555-A  C Ag Ni Tp           220 VC K5 V
+Sotaramagu    2223 A5517CA-9  G Po                 400 VC K0 V
+Amgurnelenkap 2225 B682211-B  G Lo Ni              723 Va K7 V M4 V A5 D
+Enar Khukmuu  2226 B72968A-A    Ni                 713 Va K6 V K2 V
+Iidershaam    2227 C779574-7    Ni Tp              810 Va G7 V G3 D
+Adishaa       2228 E120459-9  C Ni Po De           814 Va F6 V
+Disikhe       2230 A22678A-D  G                    224 Va A5 V G7 V
+Rotoftesatxuda2321 X744652-2  C Ag Ni Tp           801 VC G9 V
+Olerrmnuengfan2322 C74987C-4    Tp                 800 VC K9 V M7 V
+Gvgrots       2325 C782777-6  H C9                 214 VC G4 V
+Un            2327 A358448-D  G Ni                 700 Va M0 V
+Gilik         2328 C589744-4    Ri                 800 Va G6 V
+Feaxandatwen  2425 B110496-B  G Ni                 924 VC K0 V M3 V
+Iim Khaasuukii2427 C460433-7    Ni De              600 Va F4 V
+Shilaggu      2428 C548500-A    Ag Ni              100 Va F9 V

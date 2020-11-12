@@ -1,0 +1,44 @@
+@SUB-SECTOR:Asotonitrodes SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dhuuth        2512 E544775-6    C9 Ag              511 VC K4 V
+Fou Uakhiktrol2514 C786679-8  C Ag Ni Tp           424 VC A3 V
+Goyerehponu   2516 D676452-5  G Ni Tp              714 VC F7 V
+Uerrmmeruul   2520 E210975-5    Na Hi In           825 VC G9 V M8 D
+Ya Xidalepo   2611 B999464-A  G Ni Tp              200 VC K6 V M8 V
+Onurrorrg     2612 C5A1676-9  G Fl Ni              324 VC K6 V
+Heyi Ri I     2613 B300311-9    Lo Ni Va           305 VC F9 V
+Wiwalatantro  2614 B200520-B    Ni Va              902 VC K6 V
+Idsulere      2615 A788568-8  G Ag Ni Tp           924 VC K4 V M5 V
+Cemiheyipid   2616 B454746-6  G C5 Ag              914 VC K5 V
+Tond Win      2618 C87A334-9  G Lo Ni Wa           523 VC K4 V
+Dithtiturot   2620 A440100-D  G Lo Ni Po De        910 VC F8 V
+Cidemi        2712 C686521-5  C Ag Ni Tp           624 VC A1 V
+Nanetese      2713 B452443-9  G Ni Po              801 VC K7 V
+Athorehetoner 2715 D353300-7  C Lo Ni Po           112 VC K1 V
+Aforuko       2719 B434521-9  G Ni                 401 VC G1 V G2 D
+Nilitelale    2720 XA72522-4  C Ni                 224 VC G0 V M4 V
+Ighurr        2813 EA88278-4  C Lo Ni              600 VC K4 V
+Oukhsvuel     2815 A221778-E    Na Po              322 VC K9 V
+Mnoervrge     2819 D766978-7  C Hi Tn              634 VC F3 V M3 V
+Rusathcezay   2911 B68A343-8    Lo Ni Wa           700 VC G4 V M7 V
+Otzagzoulana  2913 C511A74-C    Na Hi In Ic        510 VC K6 V M3 V
+Meathitales   2914 C568633-8    Ag Ni              800 VC G5 V A4 D
+Etideaf       2919 C357213-8    Lo Ni              700 VC G5 V M9 V
+Thonttanufiren2920 E648755-7  C Ag Tp              202 VC K3 V
+Earod         3013 C5276BC-8  G C9 Ni Rs           423 VC K8 V M0 V M2 V
+Tughzdzaaghuan3018 B879776-7    Tp                 802 VC G1 V
+Ellounrroghthe3020 C46767A-5    Ag Ni              224 VC A1 V K6 V
+Esind         3112 E677344-4  C Lo Ni Tp           124 VC K6 V
+Fasureranosum 3113 A550445-C  G Ni Po De           715 VC K9 V
+E Reli        3115 B646786-5  G Ag Tp              302 VC G6 V M1 V
+Ceaseata      3119 D421688-7  C Na Ni Po           502 VC G5 V M9 V
+Etoyed        3213 C45379A-6    Po                 703 VC G8 V M0 V
+De De I       3214 B8A6253-D    Fl Lo Ni           501 VC M2 V
+Fagzllawghuuth3219 C77A974-7  G Hi In Wa           723 VC K7 V K0 V

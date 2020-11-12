@@ -1,0 +1,55 @@
+@SUB-SECTOR:B   SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0903 X223000-0    Ba Lo Ni Po        001 -- M3 V
+Oeoeson       0906 C469486-5    Ni                 622 VC F5 V M4 D
+              1001 X200000-0    Ba Lo Ni Va        000 -- M2 V M8 D
+Goughaegz     1004 B546241-5  G Lo Ni              804 VC F7 V  
+Dhaedurrerr   1005 B310432-B    Ni                 802 VC M4 V 
+Dueloeghae    1007 B779200-8  G Lo Ni              200 VC F7 V 
+Doeelloeghz   1008 A535368-A    Lo Ni              625 VC K5 V M8 D
+Oso           1009 A552202-C  G Lo Ni Po           224 VC F6 V 
+Kurrang       1010 E788365-4  C Lo Ni              620 VC F2 V M7 D 
+              1103 X000000-0    As Ba Lo Ni        000 -- M5 V M8 D 
+Zioulaeu      1105 B786202-9    Lo Ni              714 VC F1 V M3 V
+Aeaeks        1109 C657974-6    Hi In              603 VC G4 V M7 D M6 D
+              1201 X201000-0    Ba Ic Lo Ni Va     004 -- G6 III K1 V
+Aegharzikhs   1205 C572220-4  G Lo Ni              310 VC G2 V M7 D 
+Dallu         1207 E400445-7    Ni Va              502 VC F8 V 
+Elldokssuedz  1209 C87A455-C    Ni Wa              812 VC M6 V M0 D 
+              1303 X524000-0    Ba Lo Ni           011 -- M4 V 
+Khoengu       1305 D67A134-3  G Lo Ni Wa           504 VC F6 V
+Khuedingig    1306 D400112-6    Lo Ni Va           300 VC G0 V
+Odzaeotsaerr  1308 C572210-7    Lo Ni              500 VC F9 V 
+Dozosue       1310 B793448-5    Ni                 611 VC F7 V 
+              1403 X854000-0    Ba Lo Ni           022 -- F8 V  
+Urraets       1407 B759730-A                       403 VC F1 V 
+Errgurz       1410 B653641-A    Ag Ni Po           404 VC F1 V
+              1503 X000000-0    As Ba Lo Ni        005 -- M6 V M0 D 
+              1504 X433000-0    Ba Lo Ni Po        002 -- G3 V 
+Knaei         1506 C694634-6    Ag Ni              212 VC F3 V 
+Llourru       1507 CA9A303-9  C Lo Ni Wa           100 VC F7 V
+Noesas        1508 E567332-6  C Lo Ni              912 VC F1 V 
+Gallo         1608 E653A79-3    Hi In Po           904 VC M3 V 

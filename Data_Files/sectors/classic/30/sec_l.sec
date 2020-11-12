@@ -1,0 +1,42 @@
+@SUB-SECTOR:Ad Esfazapo SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Xeli          2523 B628489-C    D0 Ni              311 VC K4 V
+Agishgudikelii2528 D6267CC-5  C                    502 Va F2 V
+Akshimu       2529 A100345-F    Lo Ni Va           202 Va M0 V
+Tadxu         2621 B77A465-A  C Ni Wa              202 VC K7 V M0 V
+Odeweseyal    2622 E6A7230-5  C Fl Lo Ni           504 VC G8 V M9 V
+Urrgkuurs     2623 B674677-5    Ag Ni Tp           110 VC F3 V
+Dhoinuen      2626 C45297A-6  G Hi Po              200 VC K3 V
+Eg Mgoanerrg  2628 D56297A-6  C Hi                 300 Va K1 V M0 V
+Lagular       2630 B871210-9  C Lo Ni              424 Va G0 V
+En Rahin      2723 D97A69C-7  C Ni Wa              402 VC F8 V
+Otxo          2824 C325330-7    Lo Ni              320 VC K6 V
+Uminanumakum  2827 E7A7000-0    Fl Ba Lo Ni        004 -- K4 V
+Enmuy         2921 A50258B-D    Ni Va Ic           900 VC M8 V M3 V
+Doli          2924 C7B0332-A    Lo Ni De           700 VC M0 V
+Knourthog     2927 X87A87A-4  C Wa                 501 Va K1 V M3 V
+Khimgakgumdike2928 C765ABB-8    Hi Tn St           413 Va K7 V M9 V
+Uusmgaad      2929 A89147C-E    Ni                 922 Va F9 V
+Lin           2930 E765000-5    Lo Ni Tn St        102 Va M0 V M1 V
+Zaaghusorsethu3021 C556478-5  C Ni                 111 VC K4 V M3 V
+Teaqa         3022 B541331-A    Lo Ni Po           401 VC G1 V
+Dadurga       3026 C2246B8-9    Ni                 800 Va K3 V
+Amazvrguell   3029 C593975-6    Hi In              520 Va A3 V
+Llongoergeks  3030 D657577-3    Ag Ni Tp           400 Va K9 V M9 V M5 V
+Edrodpuwath   3121 B877433-B  C Ni Tn              502 VC G0 V
+Lecefeseasxoss3123 C658831-4  C Tp                 324 VC G1 V
+Nish Nakaagusi3128 E414587-6  C Ni Ic              804 Va K7 V
+Makhoghi      3221 C767674-6  G Ag Ni Tn           904 VC G6 V K8 V K1 V
+Tematnasnaycea3222 B335758-8    C1                 700 VC K9 V M4 V
+Ososin        3223 C767432-8  G Ni Tn              800 VC G5 V
+Genosu        3224 D88A320-5  G Lo Ni Wa           815 VC A2 V A5 D
+Mamiish       3227 A221522-C  G Ni Po              724 Va A2 V G9 V
+Gvgruakunorthe3228 C323875-9  G Na Po              200 Va K9 V M1 D
+Omga Dzirfanfe3230 D845974-4    Hi In Tp           514 Va F5 V M7 V

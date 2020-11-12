@@ -1,0 +1,40 @@
+@SUB-SECTOR:Ithesea SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gariseki      2502 C65A79C-8    Wa                 814 Va K2 V M6 V
+Guu Gagigerule2503 C657787-6  C Ag Tp              313 Va G4 V K7 V
+E Itilafinu   2505 B778367-B  G Lo Ni Tp           500 VC G9 V G8 D
+Angaidzvranoig2506 CA81977-B  C Hi                 910 VC M6 V
+Itanucel      2604 C998321-9  G D1 Lo Ni Tp        112 VC K6 V M0 V
+Susu Thotra   2605 B8A0859-8  G De                 300 VC M5 V
+Theas         2609 A565657-D  G Ag Ni Ri           600 VC K2 V K6 D
+Surend        2610 C440586-A  C Ni Po De           701 VC F3 V
+Taang         2704 C564677-4    Ag Ni              100 VC G9 V
+Luk Tzeung    2708 B764878-8    Tp St              914 VC G9 V
+End Egikerlo  2709 E567534-2  C Ag Ni              523 VC G4 V K1 V
+Cererra       2801 C534565-7    Ni                 100 Na K6 III
+Tanith Republi2802 A410343-B    Lo Ni              801 Na M5 V M4 V M4 V
+Neredi        2804 B753524-A    C4 Ni Po Tp        423 VC K6 V A2 D
+Deferrane     2806 A579787-8                       702 VC G6 V M1 V
+Rolu Rigayite 2809 C664696-8    D1 Ag Ni Ri Tp     613 VC K8 V M0 V
+Etsigemnerrgua2810 EA77879-6  C                    524 VC G0 V M4 V
+Hiroshi       2902 C523977-A  M Na Hi In Po        700 Na G3 V
+Fhoullgakhsen 2905 D436475-6    Ni                 521 VC K8 V M0 V
+Hargood Mines 3001 C200464-A    Ni Va              103 Na G9 V
+Tanstaafl     3004 E300A9B-B    Na Hi In Va        502 Na M0 V
+Trolingtruukag3005 C200774-6  G Na Va              113 VC K7 V
+Nehtefnineye  3006 C355357-B  G Lo Ni              700 VC K5 V M1 V
+Dedothufthi   3007 E6A1444-8    Fl Ni              613 VC M3 V
+Hegadetid     3008 C20047A-A    Ni Va              200 VC M5 II M5 V
+Oerlkeghaksgva3105 A000573-E  G Ni As              702 Va K0 V M2 V
+Ulksongorghu  3107 B401463-B  G Ni Va Ic           800 Va K1 V
+Capstan       3202 C759137-A    Lo Ni Tp           610 Na G4 V A0 D
+Bessel        3203 B566776-A    Ag Ri              313 Na K5 V
+Shusagugii    3206 A573750-D  G C3                 302 Va K0 V M6 V
+I Shar        3209 E463127-7    Lo Ni              321 Va A1 V

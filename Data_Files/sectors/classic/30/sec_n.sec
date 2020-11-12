@@ -1,0 +1,44 @@
+@SUB-SECTOR:Gzeengoumez SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Umarlesa      0931 C464000-8    Lo Ni              802 Va K3 V
+Embadesashi   0932 B999300-C  G D4 Lo Ni Tp        302 Va F2 V
+Aarmgoitaamnaa0934 B514444-C  G Ni Ic              824 Ef K9 V M8 V
+Utsiraagluuthu0938 B7898CC-7  G Tp                 900 Ef K4 V M4 V
+Iruvrgugueng  0939 B46396B-C    Hi                 724 Ef K1 V M1 V M9 V
+Trur Uangvawng1033 E3515AF-5    Ni Po              234 Ef A5 V M1 V K0 V
+Kfirrgeugzoern1035 B578698-9    Ag Ni              115 Ef F9 V K8 V
+Aing Gengraaks1036 C460788-6  C Ri De              403 Ef F8 V
+Vrgaarrmmigvi 1037 B000304-C  G Lo Ni As           503 Ef K8 V
+Goergvgruul   1132 A342978-A    Hi In Po           625 Va F1 V
+Fhuudhaa      1134 B547413-7    Ni                 502 Ef K4 V
+Oroun         1137 B444872-6                       403 J- K3 V
+Kfi Emollra   1139 E465402-7  C Ni                 124 Ef F3 V K8 D
+Le Awzonllaa  1140 D221369-4    Lo Ni Po           110 Ef F6 V M8 V
+Adlirgiimadadz1231 E6689DD-4  C Hi Tp              604 Va M0 V
+Giilakhishegul1233 B787554-C    Ag Ni Tp           433 Va G2 V
+Arushiimlipaal1236 C878366-9  G Lo Ni Tp           301 Va K1 V
+Gzueduks      1238 B689576-C    Ni Tp              603 J- F7 V
+Ish Akaakarumi1239 A000551-E    Ni As              803 J- F1 V K2 V
+Kushgapularuki1240 B955656-A  G Ag Ni Tp           610 J- F7 V G4 V
+Midashashgi   1333 B310356-9    Lo Ni              123 Va F9 V
+Erkhirururiir 1336 E230200-9    Lo Ni Po De        123 Va K3 V M6 V
+Lu Le Dergirug1340 B42366A-A    Na Ni Po           601 J- K4 V
+Dadusakhuka   1434 E64A000-0    Ba Lo Ni Wa        000 -- K9 V
+Kaapsuur      1435 A201146-C  G Lo Ni Va Ic        700 Va G1 V
+Miku Mirkisgi 1436 C200200-C    Lo Ni Va           202 Va M3 III
+Alashari      1437 E8A7444-8  C Fl Ni              502 Va G2 V
+Murushkiiru   1531 B615344-A  G Lo Ni Ic           702 Va G1 V M8 V
+Khamlabiimalag1533 B597301-A  G Lo Ni              903 Va G5 V M1 V
+Xathesticuteat1534 D442876-4  C Po                 520 Va K7 V M6 V
+Gagugukham    1537 A888342-B  G C2 Lo Ni Tp        803 Va K6 V
+Kipbishshiinma1538 B587896-5  G Ri                 422 Va A3 V
+Iirgiikarardag1540 E78268A-2  C Ni Ri              900 Va K6 V M7 V
+E Uughz       1635 B578874-5                       200 Va F8 V
+Galugiikha    1639 D357332-8    C1 Lo Ni Rs        933 Va G0 V

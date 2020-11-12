@@ -1,0 +1,37 @@
+@SUB-SECTOR:Eru Atso SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Agili         1718 D332101-A    Lo Ni Po           603 Va K1 V
+Pilusiimgupila1720 E787697-3  C Ag Ni Ri Tp        100 Va F5 V
+Asukhadu      1812 B7C0047-A    Lo Ni De           214 Va F4 IV
+A Ka Elueks   1813 A796678-C    Ag Ni Tp           521 Va F5 V
+Amiza         1814 B443786-6  G C5 Po              110 Va F8 V M3 V
+Uzermakani    1816 A756664-C  G Ag Ni Tp           323 Va K5 V
+Adurshe       1818 C57768C-5    Ag Ni              203 Va K4 V
+Sus Erladgegii1912 E534000-0    Ba Lo Ni           000 -- G9 V M2 V K2 V
+Zerrton       1913 C6A297A-A  H Fl Hi              803 Va K7 V M8 V
+Liirigkhupeshu1914 E685422-3  C Ni Tp              502 Va K2 V M4 V
+Shuganikaka   1915 E575000-0    Ba Lo Ni           010 -- G6 V G8 D
+Argalerga     1916 B766879-A  G D3 Ri Tn           523 Va F0 V
+Isuruga       2016 X9C9000-0    Fl Ba Lo Ni        003 -- M5 III M8 V
+Ghurrilengofur2019 C635579-7    Ni                 103 VC K9 V
+Ethoto        2020 E897794-5  C Ag Tp              100 VC K7 V M5 V
+Thellawrr     2111 C961576-9    Ni                 803 Va M1 V
+Nalanka       2113 X510747-0  C Na                 512 Va K7 V F9 D
+Milar         2114 A334413-D  C Ni                 500 Va M0 V G6 D
+Diikeme       2115 B736254-8  C C1 Lo Ni           323 Va K6 V
+Va Usotheg    2119 D8C6555-6  G Fl Ni              613 VC G2 IV
+Oizeurrgeeng  2313 D679477-3  C Ni Tp              623 VC K1 V M8 V
+Atirxitisof   2315 B343104-B  G C9 Lo Ni Po        501 VC K6 V K5 V
+Fuvedut Se    2317 B4147A9-B    Ic                 514 VC G5 V
+Esetranniftho 2318 E1307BE-5  C Na Po De           200 VC F7 V K8 V
+Oag Khang     2319 C41077B-A  C Na                 301 VC M8 V M3 V
+Fisape Aso    2320 B453353-8  G D1 Lo Ni Po        123 VC A1 V
+Pioypeutse    2414 A4281X1-A    Dw Lo Ni Rs        324 VC F6 V M9 V
+Uunbuzu       2416 B989388-8  C Lo Ni Tp           212 Va K8 V

@@ -1,0 +1,43 @@
+@SUB-SECTOR:P  SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2634 X130000-0    Ba De Lo Ni Po     013 -- A3 V M7 D 
+              2636 X426000-0    Ba Lo Ni           014 -- M1 V M3 D 
+              2740 X531000-0    Ba Lo Ni Po        002 -- M0 V M5 D  
+              2835 X470000-0    Ba De Lo Ni        023 -- F6 V 
+              2839 X400000-0    Ba Lo Ni Va        020 -- F7 V M1 D 
+              2932 X100000-0    Ba Lo Ni Va        003 -- K9 V 
+              2934 X343000-0    Ba Lo Ni Po        015 -- M7 V 
+              2936 XA7A000-0    Ba Lo Ni Wa        014 -- M4 V M5 D 
+              2937 XAB1000-0    Ba Fl Lo Ni        014 -- K8 V 
+              3031 X789000-0    Ba Lo Ni           004 -- M4 V
+              3034 X310000-0    Ba Lo Ni           004 -- M1 V 
+              3038 X647000-0    Ba Lo Ni           020 -- F0 V 
+              3132 X110000-0    Ba Lo Ni           002 -- F5 V 
+              3134 X000000-0    As Ba Lo Ni        004 -- K7 V 
+              3136 X100000-0    Ba Lo Ni Va        027 -- G2 V M6 D 
+              3231 X689000-0    Ba Lo Ni           001 -- F3 V 
+              3238 X654000-0    Ba Lo Ni           000 -- G9 V 
+              3240 X885000-0    Ba Lo Ni           000 -- F3 V 

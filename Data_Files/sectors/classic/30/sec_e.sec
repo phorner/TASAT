@@ -1,0 +1,21 @@
+@SUB-SECTOR:Mikikuma SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gekhikhar     0112 C587643-7  G Ag Ni Ri           523 Va G5 V M5 V
+Anulidigenur  0212 E7C6220-4    Fl Lo Ni           600 Va G8 V M7 V M9 V
+Fuanagoksoazto0216 B759A77-A    Hi                 302 Va M6 V
+Olknuaghuth   0315 E000100-7    Lo Ni As           725 Va A3 IV
+Dushemagilamlu0318 E100353-8    Lo Ni Va           224 Va F4 V
+Ill Gzag      0414 C454879-5                       500 Va G1 V M7 V
+Arkubeshushun 0416 C463752-6    Ri                 424 Va F1 V K6 V
+Gurkizapgaku  0517 A567776-C    Ag Ri              702 Va F7 V K8 V
+Bidirururda   0614 E766656-7    Ag Ni Ri Tn        202 Va G1 V
+Zekalalishkush0711 AA89437-9    Ni                 700 Va M1 V
+I Kiranagalim 0815 A565410-B  G Ni                 802 Va F5 V
+Trerz         0819 A543100-A  G Lo Ni Po           302 Va G3 V K9 V

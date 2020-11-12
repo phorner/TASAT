@@ -1,0 +1,61 @@
+@SUB-SECTOR:E   SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Deksoluks     0112 A8C877B-6    Fl                 305 VC F5 V M7 D 
+Azuth         0113 B473205-A  G Lo Ni              110 VC F3 V 
+Dao           0114 B629775-A                       827 VC G1 V M5 D M7 D 
+Roullueue     0116 C979645-9  C Ni                 306 VC F2 V M6 D M6 D 
+Daeuedats     0117 B140786-7  G De Po              503 VC F2 V M8 D 
+Akuedhourrg   0118 C689235-5    Lo Ni              713 VC F0 V M1 D 
+Duengudh      0215 B667100-C  G Lo Ni              500 VC F4 V 
+Uekhaae       0216 CAA6A7B-9    Fl Hi In           300 VC F5 V 
+Aekaengaedz   0217 DAD9469-4    Fl Ni              401 VC M8 V
+Edzaerrgaerr  0218 C664795-5  C Ag Ri              903 VC F6 V 
+Tsukhakokan   0311 C895689-2  C Ag Ni              200 VC F3 V 
+Knousours     0312 C00078A-8    As Na              508 VC M1 V M3 D M7 D 
+Saroenzuegh   0318 C00089A-8  G As Na              625 VC F5 V M4 D 
+Knaegorzoug   0319 C370202-5  C De Lo Ni           614 VC F0 V M1 D 
+Okfazerrg     0412 C100878-7    Na Va              204 VC F1 V 
+Gvoghudhkfas  0414 D9B6002-6  C Fl Lo Ni           303 VC F2 V M3 D M1 V M5 D
+Ksogknokh     0517 A450324-D  G De Lo Ni Po        702 VC F7 V M2 D 
+Dzodzug       0518 E432200-6  C Lo Ni Po           706 VC G0 V G0 V
+Dhanaes       0514 D564589-2  C Ag Ni              615 VC F8 V M3 D 
+Saezofour     0516 E554777-3  C Ag                 603 VC F1 V 
+Aengouts      0520 B226302-A  G Lo Ni              807 VC M0 V M2 D
+Duenoe        0614 E97955A-7  C Ni                 504 VC F5 V 
+Engurzourekh  0618 B313A73-G  G Hi Ic Na           201 VC F6 V 
+Oelors        0619 X240300-0    De Lo Ni Po        221 VC F7 V M7 D
+Oeknigang     0711 C454210-8  G Lo Ni              920 VC F0 V M0 D 
+Tsia          0712 A614879-9    Ic                 401 VC F6 V 
+Uellakhorz    0713 B8C5132-9  C Fl Lo Ni           301 VC M7 V M4 D 
+Vathongueth   0715 C582205-9  C Lo Ni              904 VC G7 V 
+Fakal         0717 B72669B-A    Ni                 502 VC M6 V 
+Sudzuksdhol   0719 A33158B-A  G Ni Po              500 VC M6 V 
+Aaedhas       0720 C26387A-4  G                    102 VC F6 V 
+Gharrae       0811 C000875-4    As Na              717 VC F8 V M0 D
+Farzksough    0813 B6A5A72-A  G Fl Hi In           602 VC F9 V 
+Aeaghakhoduz  0814 B210776-8  G Na                 824 VC F2 IV M1 D 
+Gadun         0816 B4938BA-8                       413 VC F0 V M6 D 
+Thazuduel     0819 X567698-0  C Ag Ni Ri           410 VC F8 V 

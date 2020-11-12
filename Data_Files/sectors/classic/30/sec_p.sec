@@ -1,0 +1,37 @@
+@SUB-SECTOR:Inunugishshaa SECTOR:Ligim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Iishekemgii   2531 D2328B8-8  C Na Po              500 Va F1 V
+Arkumi        2533 D748620-5  C Ag Ni Tp           903 Va K4 V M9 V
+Nirshigugar   2534 E5939A5-8    Hi In              203 Va G9 V
+Dudish        2537 C322566-8  G Ni Po              514 Va G6 V
+Nudinshushiral2538 D5407AD-2  C Po De              503 Va K5 V
+Kishagushumra 2636 B748440-7    Ni Tp              600 Va K7 V M6 V
+Kakamiinzamamg2738 D330540-6    Ni Po De           803 Va K6 V
+Ougvorrghmuagh2739 B62A975-E    Hi In Wa           524 Va F4 V
+Gi Shenar     2740 D300014-7    Lo Ni Va           503 Va G7 III K9 V
+Uduu Gurukunsi2834 E513000-0    Ba Lo Ni Ic        003 -- M0 V
+Idraniingu    2835 D756688-1  C Ag Ni Tp           303 Va G7 V
+Zirigunsii    2836 A545312-9    Lo Ni              203 Va G7 V
+Indurshuugirsa2840 E573883-4  C                    303 Va K7 V
+Ushuzugur     2931 D593633-6  C Ni                 801 Va K4 V M2 V
+Ekak Aagidbunu2933 B553446-A    Ni Po              702 Va K0 V K6 D
+Uu Khuurka    2934 C313300-8    Lo Ni Ic           801 Va K0 V A1 D
+Nedbushe      2935 C476869-7  C                    901 Va K5 V
+Akuumagadgim  2939 E565586-5    Ag Ni              422 Va G9 V M1 V
+Enilankakigam 3037 E765256-3  C Lo Ni Tn St        104 Va G8 V
+Ke Rruksrethge3131 E320977-9  C Na Hi In Po De     601 Va K5 V
+Iksursaamuaghz3132 C9C4779-6  G Fl                 402 Va M8 V
+Di Kagu       3135 C876215-8  G Lo Ni Tn           600 Va G7 V
+Thuethaw      3137 B756376-A  G Lo Ni Tp           932 Va K9 V M0 V
+Limumikaguumag3139 D436533-7  C Ni                 222 Va K7 V
+Ga Rath       3140 E357876-4  C                    203 Va G6 V M2 V
+Mikaakinli    3232 A697345-A  G Lo Ni Tp           901 Va K1 V
+Ar Ekigakisakh3236 E100646-7  C Na Ni Va           424 Va G1 V
+Diishagikugudi3238 X4667BC-0  C D3 Ag              100 Va K3 V

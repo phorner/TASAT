@@ -1,0 +1,49 @@
+@SUB-SECTOR:I  SECTOR:Mugheen't
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aksae         0121 E665534-3    Ag Ni              314 VC F2 V M0 D 
+Soufefae      0123 C564530-3  G Ag Ni              124 VC F4 V M1 D 
+Ruegou        0128 C539A7A-A    Hi In              111 Va F1 V 
+Dzaeksag      0221 D783752-4  C Ag Ri              316 VC F7 V M2 D 
+Kfoezgorr     0222 C656005-9  G Lo Ni              212 VC F2 V 
+Gaeghguggen   0223 C435455-7    Ni                 502 VC F1 V 
+Ukuen         0229 B435735-5                       604 Va K8 III
+Llaengkadhal  0327 C78967A-5    Ni                 717 Va K7 V F4 V
+Dazodalae     0423 A88A977-B  G Hi In Wa           810 VM F4 V 
+Thogzlluger   0425 E130546-5    De Ni Po           202 VM M6 V M7 D 
+Dougnou       0429 D529443-7  C Ni                 800 Va M4 V
+Gnoengthuth   0523 C574202-8    Lo Ni              204 VM F5 V 
+Ghuevanaegh   0524 C548330-6  G Lo Ni              503 VM F0 V
+Anuerr        0526 C6A368A-6  G Fl Ni              600 VM M1 V M1 D 
+Veghungoun    0527 C569744-5    Ri                 112 VM M3 V M1 D 
+Rrarzalgzodh  0622 D336376-2  C Lo Ni              200 VM F9 V 
+Gnethorokh    0623 C75648A-6    Ni                 505 VM F4 V M1 D 
+Surruethdirr  0625 C434421-6    Ni                 704 VM M8 V M0 D 
+Uegvo         0626 C588676-5    Ag Ni              502 VM F5 V 
+Thougorrg     0627 A859454-D    Ni                 702 VM F3 V M7 D 
+Knuesasraets  0724 B78A355-A  G Lo Ni Wa           803 VM K9 V M1 D 
+Khirrurrorz   0725 A447322-D  G Lo Ni              215 VM G2 V M8 D 
+Guenguersa    0823 C510404-9    Ni                 502 VM M2 V 
+Gzonrrug      0825 C663300-5    Lo Ni              603 VM M5 V
