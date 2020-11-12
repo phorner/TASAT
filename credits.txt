@@ -78,3 +78,12 @@ TAS Journal [JTAS] Games Designer’s Workshop, Steve Jackson Games
 Challenge Magazine Games Designer’s Workshop
 GDW Traveller modules
 Galactic jimv@uia.net Jim Vassilakos DOS program
+
+Traveller Name
+---------------
+Traveller® is FFE’s registered trademark for its science-fiction roleplaying game system.  Traveller, Basic Traveller, Starter Traveller, Classic Traveller, MegaTraveller, Traveller: The New Era, Traveller4, Traveller5, Traveller8, The Spinward Marches, The Edge of the Empire, EPIC, The Galaxiad, and Journal of the Travellers’ Aid Society are trademarks of Far Future Enterprises (FFE) – www.farfuture.net
+
+Artwork Assets
+--------------
+Some artwork uses 3d object models created and © by Herminio Nieves and Jay Thurman.
+
