@@ -1,0 +1,19 @@
+@SUB-SECTOR:Duhamel SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2628          2628 X363002-4    Lo Ni              003 Na F2 V
+2725          2725 X442001-0    Lo Ni Po           001 Na F3 V M8 D
+2727          2727 X633000-1    Ba Lo Ni Po        005 Na K8 V
+2826          2826 X584000-1    Ba Lo Ni           022 Na F9 V
+2829          2829 X236000-3    Ba Lo Ni           003 Na M6 V M3 D
+3028          3028 X233002-4    Lo Ni Po           002 Na M3 V M3 D
+3122          3122 X965000-0    Ba Lo Ni           022 Na F3 V M5 D
+3127          3127 X767003-0    Lo Ni              004 Na F4 V
+3221          3221 X76A000-4    Ba Lo Ni Wa        020 Na K7 V
+3223          3223 X999000-3    Ba Lo Ni           024 Na F2 V M2 D

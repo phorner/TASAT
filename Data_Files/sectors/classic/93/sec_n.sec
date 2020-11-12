@@ -1,0 +1,11 @@
+@SUB-SECTOR:Emma SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1137          1137 X676043-0    Lo Ni              000 Na K0 V
+1534          1534 X567000-0    Ba Lo Ni           014 Na M1 V

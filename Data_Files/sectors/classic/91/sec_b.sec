@@ -1,0 +1,21 @@
+@SUB-SECTOR:Festab SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0910          0910 X400000-3    Ba Lo Ni Va        001 Na F5 V M4 D
+1003          1003 X99A000-2    Ba Lo Ni Wa        003 Na F8 V
+1008          1008 X505000-0    Ba Ic Lo Ni Va     003 Na M8 V
+1009          1009 X687002-0    Lo Ni              014 Na F0 V
+1103          1103 X995002-2    Lo Ni              002 Na F3 V M6 D
+1306          1306 X555000-1    Ba Lo Ni           024 Na G4 V M3 D
+1407          1407 X5A0000-1    Ba De Lo Ni        004 Na M1 IV
+1502          1502 X335004-1    Lo Ni              031 Na F4 V
+1505          1505 X201000-0    Ba Ic Lo Ni Va     023 Na F3 V
+1601          1601 X624002-3    Lo Ni              014 Na M2 V
+1606          1606 X332003-5    Lo Ni Po           004 Na G6 V M8 V
+1610          1610 X782000-1    Ba Lo Ni           002 Na F9 V

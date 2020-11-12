@@ -1,0 +1,18 @@
+@SUB-SECTOR:Ykoroni SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sim           1724 B853554-8  S Ni Po              814 Rm F8 V M1 D
+Kweku         1726 B431658-8  N Na Ni Po           303 Rm M4 V
+Fajor         1821 B000227-A    As Lo Ni           903 Rm F4 V
+Dunkan        1823 B78A440-9    Ni Wa              422 Rm F4 V
+2122          2122 X786025-0    Lo Ni              023 Na F7 V
+2124          2124 X638020-2    Lo Ni              003 Na G7 V M7 D
+2322          2322 X678038-0    Lo Ni              004 Na G4 V M2 D
+2323          2323 X565032-2    Lo Ni              004 Na M1 V M8 D
+2324          2324 X7A2020-1    Fl Lo Ni           014 Na M8 V

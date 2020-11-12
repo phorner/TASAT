@@ -1,0 +1,19 @@
+@SUB-SECTOR:Olpinures SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0917 X677020-0    Lo Ni              003 Na        
+              1011 X565000-2    Ba Lo Ni           001 Na        
+              1016 X439001-5    Lo Ni              002 Na        
+              1119 X461000-4    Ba Lo Ni           003 Na        
+              1211 X8B7023-1    Fl Lo Ni           002 Na        
+              1217 X743020-2    Lo Ni Po           014 Na        
+              1317 X465000-0    Ba Lo Ni           003 Na        
+              1512 X776001-0    Lo Ni              034 Na        
+              1520 X537000-1    Ba Lo Ni           002 Na        
+              1619 X569022-2    Lo Ni              022 Na        

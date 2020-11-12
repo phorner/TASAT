@@ -1,0 +1,15 @@
+@SUB-SECTOR:Bablari SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1832          1832 X78A041-4    Lo Ni Wa           010 Na F3 V M3 D
+1833          1833 X64A058-2    Lo Ni Wa           020 Na G5 V
+1932          1932 X333055-2    Lo Ni Po           000 Na F9 V M2 D
+1937          1937 X574041-0    Lo Ni              003 Na F4 V
+2231          2231 X230056-3    De Lo Ni Po        012 Na M7 V
+2431          2431 X324048-4    Lo Ni              004 Na M9 V M5 D

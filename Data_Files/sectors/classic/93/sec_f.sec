@@ -1,0 +1,36 @@
+@SUB-SECTOR:Noriega SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0914          0914 X326035-4    Lo Ni              002 Na M1 V
+Baren         0920 D889677-7    Ni Ri              714 Rm F3 V
+1012          1012 X325000-2    Ba Lo Ni           010 Na F0 V
+1015          1015 X253000-4    Ba Lo Ni Po        000 Na F7 V M2 D
+Namri         1017 D77A788-4    Wa                 913 Rm G5 V
+1111          1111 X535000-3    Ba Lo Ni           002 Na M9 II
+1112          1112 X560005-1    De Lo Ni           010 Na F5 V
+1115          1115 X643000-1    Ba Lo Ni Po        000 Na M1 V
+Knutsen       1117 E85788B-1                       415 Rm F9 V
+Hanover       1119 E200685-8    Na Ni Va           702 Rm G3 V
+Annapolis     1120 D675587-7  S Ag Ni              202 Rm F5 V M4 D
+1212          1212 X8D5003-3    Fl Lo Ni           011 Na M1 II
+1214          1214 X696001-0    Lo Ni              001 Na F4 V M9 D
+Cynesige      1217 E510341-7    Lo Ni              623 Rm F9 V
+Hosage        1218 D655568-2    Ag Ni              321 Rm G4 V M4 D
+Shri          1219 D25079D-2  S De Po              904 Rm F6 V M4 D
+1313          1313 X877001-1    Lo Ni              024 Na G1 V
+1315          1315 X427004-5    Lo Ni              024 Na F4 V
+Courtney      1320 E3338A6-3    Na Po              400 Rm F2 V
+1413          1413 X778000-0    Ba Lo Ni           012 Na F4 V M0 D
+1414          1414 X886000-3    Ba Lo Ni           003 Na F8 V
+Torr          1419 E466343-3    Lo Ni              803 Rm F6 V
+1511          1511 X671001-1    Lo Ni              003 Na F6 V
+1612          1612 XA8A000-2    Ba Lo Ni Wa        004 Na G4 V M9 D
+1613          1613 X565000-0    Ba Lo Ni           024 Na F9 V
+1614          1614 X78A000-2    Ba Lo Ni Wa        024 Na F4 V M7 D
+Eastwood      1619 E400612-6    Na Ni Va           722 Rm K2 V

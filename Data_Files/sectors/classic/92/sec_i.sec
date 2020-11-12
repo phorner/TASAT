@@ -1,0 +1,27 @@
+@SUB-SECTOR:Ubagil SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0123 X738056-1    Lo Ni              005 Na        
+              0124 X481026-0    Lo Ni              000 Na        
+              0223 X401021-3    Ic Lo Ni Va        000 Na        
+              0225 X542041-2    Lo Ni Po           003 Na        
+              0226 X110011-4    Lo Ni              020 Na        
+              0229 X485045-2    Lo Ni              000 Na        
+              0321 X567025-0    Lo Ni              000 Na        
+              0425 X424052-1    Lo Ni              002 Na        
+              0428 X561044-0    Lo Ni              002 Na        
+              0429 X200010-4    Lo Ni Va           013 Na        
+              0523 X958012-0    Lo Ni              001 Na        
+              0524 X679043-2    Lo Ni              003 Na        
+              0526 X9B9053-4    Fl Lo Ni           002 Na        
+              0527 X646020-0    Lo Ni              015 Na        
+              0528 X539044-2    Lo Ni              004 Na        
+              0623 X696043-0    Lo Ni              003 Na        
+              0629 X452040-0    Lo Ni Po           003 Na        
+              0821 X665044-2    Lo Ni              010 Na        

@@ -1,0 +1,35 @@
+@SUB-SECTOR:Tempoko  SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0113          0113 X666003-0    Lo Ni              004 Na G2 V M1 D
+0116          0116 X457004-4    Lo Ni              014 Na F8 V
+0213          0213 X653000-1    Ba Lo Ni Po        003 Na F7 V
+0214          0214 X210000-0    Ba Lo Ni           012 Na M5 V M8 D
+0216          0216 X200001-3    Lo Ni Va           000 Na M1 V
+0218          0218 X798010-0    Lo Ni              004 Na F8 V M9 D
+0220          0220 X000022-0    As Lo Ni           002 Na K2 V M4 D
+0318          0318 X689010-1    Lo Ni              003 Na F8 V M8 D
+0319          0319 X63A033-5    Lo Ni Wa           003 Na G6 V
+0416          0416 X798036-0    Lo Ni              003 Na K2 V
+0418          0418 X888030-2    Lo Ni              002 Na F2 V
+0511          0511 X433013-3    Lo Ni Po           004 Na G7 V M5 D
+0513          0513 X300012-0    Lo Ni Va           012 Na F2 V M3 D
+0520          0520 X95A034-4    Lo Ni Wa           004 Na F2 V
+0611          0611 X000016-0    As Lo Ni           004 Na M0 III M4 V
+0613          0613 X451012-3    Lo Ni Po           002 Na F6 V
+0617          0617 X222021-1    Lo Ni Po           014 Na G3 V M6 D
+0618          0618 X663020-0    Lo Ni              012 Na F2 V M6 D
+0619          0619 X647020-0    Lo Ni              001 Na K5 V
+0711          0711 X544011-0    Lo Ni              023 Na G1 V M7 D
+0715          0715 X200010-2    Lo Ni Va           003 Na M8 V
+0719          0719 X5A5026-2    Fl Lo Ni           004 Na F0 V M2 D
+0812          0812 X88A000-5    Ba Lo Ni Wa        024 Na F7 V M4 D
+0815          0815 X324010-4    Lo Ni              024 Na M0 IV
+0816          0816 X77A023-2    Lo Ni Wa           024 Na K7 V
+0818          0818 X661020-1    Lo Ni              000 Na F2 V M8 D

@@ -1,0 +1,18 @@
+@SUB-SECTOR:Riter SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0135          0135 X788001-0    Lo Ni              004 Na F9 V
+0137          0137 X67A003-3    Lo Ni Wa           003 Na F8 V
+0139          0139 X85A005-2    Lo Ni Wa           004 Na G7 V
+Karak         0233 B340000-A    Ba De Lo Ni Po     622 Rm G2 V
+Riter         0332 B958667-9  2 Ag Ni              824 Rm G6 V
+Cuthulu       0333 B878447-9  S Ni                 105 Rm F9 V
+0337          0337 X7A3000-2    Ba Fl Lo Ni        003 Na G7 V
+0635          0635 X998004-2    Lo Ni              004 Na F5 V
+0835          0835 X437000-1    Ba Lo Ni           021 Na M4 IV

@@ -1,0 +1,18 @@
+@SUB-SECTOR:Banderhue SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2610          2610 X454000-3    Ba Lo Ni           013 Na F1 V
+2704          2704 X000000-4    As Ba Lo Ni        022 Na G6 V
+2708          2708 X9B8000-4    Ba Fl Lo Ni        004 Na M8 V
+2805          2805 X557000-0    Ba Lo Ni           003 Na F2 V M0 D
+2807          2807 X556001-0    Lo Ni              001 Na K1 V
+2903          2903 X762000-3    Ba Lo Ni           002 Na F2 V
+3002          3002 X664000-0    Ba Lo Ni           011 Na F6 V M3 D
+3007          3007 X429002-6    Lo Ni              014 Na F9 V
+3102          3102 X86A000-3    Ba Lo Ni Wa        020 Na F2 V M7 D

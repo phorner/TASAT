@@ -1,0 +1,23 @@
+@SUB-SECTOR:Quadrant 01-569 SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0233 X775031-0    Lo Ni              012 Na        
+              0338 XABA034-0    Fl Lo Ni Wa        014 Na        
+              0431 X769035-0    Lo Ni              003 Na        
+              0433 X458000-4    Ba Lo Ni           024 Na        
+              0531 X423000-1    Ba Lo Ni Po        004 Na        
+              0533 X747030-1    Lo Ni              012 Na        
+              0537 X7A6031-3    Fl Lo Ni           002 Na        
+              0539 X594040-0    Lo Ni              005 Na        
+              0635 X667032-0    Lo Ni              024 Na        
+              0737 X423001-4    Lo Ni Po           013 Na        
+              0740 X521044-0    Lo Ni Po           023 Na        
+              0831 X438010-0    Lo Ni              003 Na        
+              0832 X666041-2    Lo Ni              010 Na        
+              0840 X242000-1    Ba Lo Ni Po        014 Na        

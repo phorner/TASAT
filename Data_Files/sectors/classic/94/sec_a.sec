@@ -1,0 +1,58 @@
+@SUB-SECTOR:Ekteiu SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+^0103 5
+^0103 0
+^0202 5
+^0202 0
+^0202 1
+^0303 0
+^0303 1
+^0403 0
+^0503 5
+^0503 0
+^0503 1
+^0603 0
+^0703 5
+^0703 0
+^0802 5
+^0802 0
+^0802 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eaeu          0103 C556327-6    Lo Ni              522 As F0 V
+Ehuah         0105 C5A0556-8    De Ni              202 As M2 V
+Ealo          0106 C737776-7  S                    823 As M3 V
+Ahryeao       0107 C553551-8  S Ni Po              404 As F7 V
+Khtaitelro    0108 C343233-6  S Lo Ni Po           104 As F3 V M4 D
+Iwialreio     0109 C410336-8  S Lo Ni              703 As F8 V M3 D M5 V
+Ause          0110 C340344-7    De Lo Ni Po        303 As F6 V M4 D M4 D
+Yaihye        0202 C300767-6    Na Va              814 As G4 IV
+Kayue         0208 C795653-6    Ag Ni              610 As F0 V
+Tuktaiyweah   0303 C585536-7    Ag Ni              211 As F8 V
+Hkeahkiy      0306 C867212-6    Lo Ni              123 As F4 V
+Hleai         0403 C659656-8  S Ni                 603 As F6 V M7 D M3 D
+Eroarife      0503 C633A95-A  S Hi In Na Po        904 As G3 V
+Feyuriyrl     0507 A87A201-E  N Lo Ni Wa           204 As F3 V M3 D
+0601          0601 X386000-0    Ba Lo Ni           020 Na F9 V M8 D
+Olreahyorl    0603 C233877-9  S Na Po              404 As F6 V M3 D
+Fair          0604 A669A8D-E    Hi                 104 As F6 V
+Uasa          0605 A797630-9    Ag Ni              503 As F7 V
+Astiyikho     0606 A739636-C  N Ni                 702 As K2 V M6 D
+0608          0608 X674000-0    Ba Lo Ni           023 Na F0 V M4 D
+Eahiya        0703 A312425-E    Ic Ni              801 As M4 III
+Ktiyefiyai    0704 A411312-C    Ic Lo Ni           604 As G8 V
+0708          0708 X788000-3    Ba Lo Ni           010 Na F4 V
+0710          0710 X433004-5    Lo Ni Po           014 Na M9 V
+Easiyhiyw     0802 A342200-D  N Lo Ni Po           212 As F7 V M0 D
+Herlaleei     0806 A454353-D  N Lo Ni              600 As F3 V
+Oia           0808 A869743-A    Ri                 920 As F0 V M9 D
+Elyetea       0809 A41058A-E  S Ni                 312 As M1 V

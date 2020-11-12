@@ -1,0 +1,13 @@
+@SUB-SECTOR:Lkairleah SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2513          2513 X312000-4    Ba Ic Lo Ni        000 Na G7 V
+2516          2516 X251000-4    Ba Lo Ni Po        022 Na F5 V M4 D
+Ealriysilrai  2711 C673ACD-A  S Hi In              202 As F8 V M9 D
+3011          3011 X324000-5    Ba Lo Ni           020 Na M8 V

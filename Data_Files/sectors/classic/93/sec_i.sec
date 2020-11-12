@@ -1,0 +1,38 @@
+@SUB-SECTOR:Zebylono SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0122          0122 X96A003-0    Lo Ni Wa           000 Na F9 V
+0123          0123 X577001-0    Lo Ni              000 Na G0 V
+0124          0124 X444001-0    Lo Ni              025 Na G0 V
+Oruns         0130 B746688-7  N Ag Ni              204 Rm F8 V
+0221          0221 X210021-0    Lo Ni              001 Na F6 IV
+Stellar       0224 A794200-B  2 Lo Ni              302 Rm F8 V
+Trichinella   0225 A302879-9  N Ic Na Va           514 Rm F6 V
+Peggy         0227 B300743-7  2 Na Va              423 Rm M4 V
+Mecca         0228 B355745-8  2 Ag                 611 Rm F0 V M3 D M3 D
+Sebastien     0230 B98A786-9  2 Ri Wa              601 Rm F8 V
+0322          0322 X448023-3    Lo Ni              003 Na F4 V
+Winding Path  0324 A675003-9  S Lo Ni              604 Rm F5 V
+Ijunt         0326 B563412-7    Ni                 122 Rm G7 V
+Hynaril       0329 B667467-7  N Ni                 503 Rm G0 V M5 D
+Ammaranza     0330 B00057A-C    As Ni              715 Rm M6 V M9 D
+0421          0421 X525015-3    Lo Ni              003 Na M2 III M7 V
+Zomba         0423 B87A422-B  N Ni Wa              904 Rm G1 V
+Quondam       0425 B647635-8    Ag Ni              922 Rm F9 V M3 D
+Prevo         0426 B424200-9  N Lo Ni              404 Rm F9 V
+Pietten       0428 B5439B9-8  N Hi In Po           114 Rm F6 V M0 D
+Diaratyh      0523 B352520-A    Ni Po              403 Rm F7 V
+Williams      0525 B77A738-A  S Wa                 420 Rm G6 V
+Ikaris        0624 B200200-C    Lo Ni Va           803 Rm M7 IV M7 V
+Tampa         0626 C426673-5    Ni                 205 Rm G2 V M4 D
+Carboloy      0722 C325455-C  S Ni                 613 Rm M8 IV M8 D
+Maximus       0724 C647777-8    Ag                 504 Rm G3 V
+Barker        0727 C5A0566-A  S De Ni              903 Rm G1 III M4 V
+Cok           0822 C463663-9    Ni Ri              100 Rm G5 V
+Wiggins       0825 C667785-7  S Ag Ri              500 Rm K7 V

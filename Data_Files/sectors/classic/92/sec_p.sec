@@ -1,0 +1,24 @@
+@SUB-SECTOR:Willwlmo SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2535 X654000-0    Ba Lo Ni           015 Na        
+              2634 X436001-3    Lo Ni              002 Na        
+Fath          2735 C452366-7    Lo Ni Po           303 Rm        
+Portsmouth    2737 C9D5588-A    Fl Ni              223 Rm        
+Silvermud     2831 E566226-2    Lo Ni              203 Rm        
+Guthrie       2832 E522565-5    Ni Po              124 Rm        
+Fandrall      2835 C1007AD-8    Na Va              814 Rm        
+Vaghe         2836 E766662-3    Ag Ni Ri           505 Rm        
+Willwlmo      2932 C3549D8-7    Hi                 514 Rm        
+Whittaker     2937 E639440-4    Ni                 605 Rm        
+Bimini        3031 C10058C-8    Ni Va              223 Rm        
+Eudore        3032 C110259-C  S Lo Ni              103 Rm        
+Florimel      3131 E9D4778-2    Fl                 714 Rm        
+Jaeger        3132 E421667-8    Na Ni Po           502 Rm        
+Mauritania    3231 C3406A8-9    De Ni Po           304 Rm        

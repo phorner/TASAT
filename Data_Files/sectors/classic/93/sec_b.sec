@@ -1,0 +1,27 @@
+@SUB-SECTOR:La Grone SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0901          0901 X643000-3    Ba Lo Ni Po        012 Na G7 V
+1109          1109 X725002-3    Lo Ni              005 Na G1 V
+1203          1203 X467012-0    Lo Ni              004 Na F0 V M7 D
+1207          1207 X648000-2    Ba Lo Ni           013 Na F7 V M6 D
+1209          1209 X223002-2    Lo Ni Po           003 Na M0 II
+1301          1301 X897020-2    Lo Ni              024 Na F1 V
+1302          1302 X437022-1    Lo Ni              024 Na K6 V
+1306          1306 X6B1000-2    Ba Fl Lo Ni        004 Na G5 V M8 D
+1309          1309 X335000-0    Ba Lo Ni           002 Na M3 V M5 D
+1401          1401 X9B7023-3    Fl Lo Ni           003 Na G5 V M6 D
+1408          1408 X201001-5    Ic Lo Ni Va        003 Na M6 V M9 D
+1409          1409 X253000-3    Ba Lo Ni Po        002 Na G4 V M4 D
+1501          1501 X857023-0    Lo Ni              023 Na G5 V
+1505          1505 X7B6000-3    Ba Fl Lo Ni        004 Na F4 IV
+1601          1601 X593015-2    Lo Ni              003 Na F3 V M5 D
+1607          1607 X000001-2    As Lo Ni           000 Na G7 V
+1608          1608 X350005-1    De Lo Ni Po        000 Na F7 V
+1610          1610 X353003-0    Lo Ni Po           003 Na F6 V

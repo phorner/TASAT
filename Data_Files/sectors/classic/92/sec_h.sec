@@ -1,0 +1,19 @@
+@SUB-SECTOR:Lisqitama SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2512 X333002-4    Lo Ni Po           012 Na        
+              2519 X773000-0    Ba Lo Ni           002 Na        
+              2712 X000016-5    As Lo Ni           014 Na        
+              2718 X665010-0    Lo Ni              024 Na        
+              2913 X596011-0    Lo Ni              013 Na        
+              3019 X466013-3    Lo Ni              014 Na        
+              3116 X322000-5    Ba Lo Ni Po        003 Na        
+              3211 X567000-2    Ba Lo Ni           004 Na        
+              3215 X567002-2    Lo Ni              004 Na        
+              3217 X542012-0    Lo Ni Po           035 Na        

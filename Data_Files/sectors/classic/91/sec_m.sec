@@ -1,0 +1,30 @@
+@SUB-SECTOR:Trasfalca SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0139          0139 X551012-0    Lo Ni Po           003 Na G9 V
+0231          0231 X553032-2    Lo Ni Po           012 Na F8 V
+0232          0232 X639033-1    Lo Ni              014 Na M8 V M4 D
+0237          0237 X310020-2    Lo Ni              014 Na F4 V M0 D
+0238          0238 X458021-0    Lo Ni              014 Na F4 V
+0335          0335 X344022-0    Lo Ni              023 Na F5 V
+0340          0340 X525024-0    Lo Ni              003 Na M9 V
+0431          0431 X243024-2    Lo Ni Po           011 Na F3 V
+0433          0433 X76A036-1    Lo Ni Wa           004 Na F1 V
+0434          0434 X651037-0    Lo Ni Po           023 Na G5 V
+0437          0437 X588013-2    Lo Ni              021 Na F2 V
+0439          0439 X659011-0    Lo Ni              015 Na F1 V M2 D
+0440          0440 X482020-0    Lo Ni              002 Na F8 V
+0537          0537 X8A0015-0    De Lo Ni           024 Na G3 V M9 D
+0540          0540 X555012-0    Lo Ni              001 Na G1 V
+0732          0732 X445024-0    Lo Ni              010 Na K6 V M8 D
+0834          0834 X505023-0    Ic Lo Ni Va        003 Na K5 IV M4 D
+0835          0835 X9A5031-3    Fl Lo Ni           004 Na G1 V
+0836          0836 X97A031-0    Lo Ni Wa           000 Na G3 V
+0838          0838 X372035-0    Lo Ni              002 Na F5 V
+0840          0840 X753033-1    Lo Ni Po           002 Na G0 V

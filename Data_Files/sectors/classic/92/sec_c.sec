@@ -1,0 +1,24 @@
+@SUB-SECTOR:Babs SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1703 X221012-1    Lo Ni Po           033 Na        
+              1705 XAA5042-3    Fl Lo Ni           010 Na        
+              1707 XAC4043-0    Fl Lo Ni           015 Na        
+              1809 X332010-0    Lo Ni Po           004 Na        
+              1810 X563046-0    Lo Ni              005 Na        
+              1903 X7B0011-0    De Lo Ni           000 Na        
+              1907 X300010-1    Lo Ni Va           010 Na        
+              2006 X57A001-4    Lo Ni Wa           004 Na        
+              2108 X300036-1    Lo Ni Va           014 Na        
+              2205 X786037-0    Lo Ni              012 Na        
+              2208 X472003-0    Lo Ni              003 Na        
+              2209 X788033-0    Lo Ni              002 Na        
+              2210 X434002-3    Lo Ni              000 Na        
+              2401 X7B4010-2    Fl Lo Ni           001 Na        
+              2408 X757033-0    Lo Ni              024 Na        

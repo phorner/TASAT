@@ -1,0 +1,24 @@
+@SUB-SECTOR:Terrelay SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0110 X200010-0    Lo Ni Va           000 Na        
+              0203 X235036-1    Lo Ni              000 Na        
+              0302 X538004-1    Lo Ni              004 Na        
+              0305 X476032-0    Lo Ni              004 Na        
+              0402 X250033-1    De Lo Ni Po        020 Na        
+              0407 X867000-1    Ba Lo Ni           004 Na        
+              0602 X999012-0    Lo Ni              014 Na        
+              0603 X672000-3    Ba Lo Ni           002 Na        
+              0605 X435038-3    Lo Ni              024 Na        
+              0607 X673002-1    Lo Ni              002 Na        
+              0608 X303033-1    Ic Lo Ni Va        003 Na        
+              0708 X336034-0    Lo Ni              003 Na        
+              0802 XAC8012-0    Fl Lo Ni           020 Na        
+              0807 X626004-3    Lo Ni              014 Na        
+              0808 X6A3003-0    Fl Lo Ni           002 Na        

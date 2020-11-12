@@ -1,0 +1,31 @@
+@SUB-SECTOR:Eietorl Easea' SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Iyhahkah      2505 B7A7644-9  N Fl Ni              713 As G2 V
+Takhaia       2507 C878203-7  S Lo Ni              202 As G5 V
+Eaha'ekh      2510 C16069A-7  S De Ni Ri           522 As F3 V
+Afo           2607 B84A649-8  N Ni Wa              500 As F9 V
+Ektaw         2608 C564855-5    Ri                 404 As F8 V M8 D
+Hwoufeeike    2701 E5646AE-2    Ag Ni              910 As F5 V
+Oawya         2703 E423498-4    Ni Po              310 As M7 V M8 D
+Hkeilryalea   2704 B693202-C  N Lo Ni              211 As F5 V M3 D
+Kouas         2709 C7A4464-6  S Fl Ni              804 As M4 V
+Eareihkih     2710 C669200-6  S Lo Ni              203 As F2 V M7 D M3 D
+Fihyahei      2806 C110678-9    Na Ni              600 As M4 IV M4 V
+Hleahiohyo    2902 C855569-5    Ag Ni              424 As F7 V M1 D
+Htaastea      3003 C9B5ABD-8  S Fl Hi              200 As F5 V
+Truikhtyeh    3004 C56389E-5  S Ri                 503 As F2 V
+Alriais       3005 C636451-8    Ni                 910 As G4 V M2 V
+Aseirl        3006 C538AA8-C  S Hi In              204 As F6 V M0 D M4 D
+Kuiy          3010 C77A354-7    Lo Ni Wa           711 As F4 V M7 D
+Hkahiiyoukhe  3102 C323677-6  S Na Ni Po           810 As M9 V K1 D
+Ealehkaasal   3104 A455557-B    Ag Ni              604 As G5 V
+Oikh          3106 A301664-C  N Ic Na Ni Va        102 As M5 V
+Yo'auiheiwo   3208 A9B7322-9    Fl Lo Ni           104 As G5 V M0 D
+3209          3209 X432041-0    Lo Ni Po           020 Na M3 V

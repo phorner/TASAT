@@ -1,0 +1,23 @@
+@SUB-SECTOR:Bengalaz SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2631          2631 X449000-4    Ba Lo Ni           003 Na F2 V M3 D
+2632          2632 X472000-0    Ba Lo Ni           003 Na M0 V
+2732          2732 X300000-3    Ba Lo Ni Va        024 Na K7 V
+2831          2831 X544023-0    Lo Ni              000 Na F8 V M5 D
+2835          2835 X682022-0    Lo Ni              003 Na K2 V
+2933          2933 X767021-2    Lo Ni              011 Na F0 V
+2934          2934 X79A022-1    Lo Ni Wa           020 Na F6 V
+2937          2937 X8C5025-0    Fl Lo Ni           005 Na G3 V
+3039          3039 X100011-0    Lo Ni Va           014 Na M9 V
+3134          3134 X346011-0    Lo Ni              022 Na F0 V M0 D
+3234          3234 X546010-1    Lo Ni              012 Na F2 V M3 D
+3236          3236 X97A010-0    Lo Ni Wa           024 Na F4 V M8 D
+3237          3237 X400010-2    Lo Ni Va           004 Na F6 IV M4 V
+3238          3238 X240000-3    Ba De Lo Ni Po     004 Na F8 V

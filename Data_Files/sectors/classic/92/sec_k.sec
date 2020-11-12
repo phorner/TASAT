@@ -1,0 +1,25 @@
+@SUB-SECTOR:Tynvegi SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 X632000-2    Ba Lo Ni Po        022 Na        
+              1723 X85A002-0    Lo Ni Wa           010 Na        
+              1727 X140003-1    De Lo Ni Po        010 Na        
+              1728 X455000-1    Ba Lo Ni           000 Na        
+              1730 X110004-5    Lo Ni              025 Na        
+              1922 X535002-1    Lo Ni              003 Na        
+              1927 X461000-2    Ba Lo Ni           014 Na        
+              1929 X6A4000-1    Ba Fl Lo Ni        002 Na        
+              2021 X95A000-3    Ba Lo Ni Wa        003 Na        
+              2223 X9E7000-4    Ba Fl Lo Ni        004 Na        
+              2225 X723001-2    Lo Ni Po           003 Na        
+              2226 X7A6001-4    Fl Lo Ni           000 Na        
+              2228 X569000-0    Ba Lo Ni           003 Na        
+              2230 X564000-3    Ba Lo Ni           014 Na        
+              2325 XAB9000-2    Ba Fl Lo Ni        024 Na        
+              2428 X200002-0    Lo Ni Va           014 Na        

@@ -1,0 +1,22 @@
+@SUB-SECTOR:Chang-Tu SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0114 X433000-1    Ba Lo Ni Po        001 Na        
+              0120 X535001-4    Lo Ni              000 Na        
+              0212 X887005-2    Lo Ni              012 Na        
+              0215 X9C3000-4    Ba Fl Lo Ni        011 Na        
+              0217 X646020-1    Lo Ni              000 Na        
+              0220 X592013-2    Lo Ni              004 Na        
+              0313 X627014-1    Lo Ni              014 Na        
+              0411 X324022-3    Lo Ni              004 Na        
+              0514 X834001-4    Lo Ni              012 Na        
+              0611 X000003-6    As Lo Ni           005 Na        
+              0616 X140011-1    De Lo Ni Po        000 Na        
+              0815 X120011-5    De Lo Ni Po        000 Na        
+              0819 X100010-1    Lo Ni Va           004 Na        

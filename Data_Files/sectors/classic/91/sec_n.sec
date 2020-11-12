@@ -1,0 +1,28 @@
+@SUB-SECTOR:Kantel SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0935          0935 X440045-0    De Lo Ni Po        002 Na G7 V
+0936          0936 X210000-5    Ba Lo Ni           004 Na M6 V
+0939          0939 X87A031-1    Lo Ni Wa           013 Na G5 V M4 D
+0940          0940 X657030-0    Lo Ni              013 Na F7 V
+1035          1035 X374046-2    Lo Ni              004 Na F3 V M8 D
+1036          1036 X457043-2    Lo Ni              021 Na F5 V M4 D
+1040          1040 X799030-1    Lo Ni              004 Na F3 V
+1135          1135 X247000-3    Ba Lo Ni           005 Na F6 V
+1138          1138 X400044-4    Lo Ni Va           003 Na M0 V
+1239          1239 X553047-0    Lo Ni Po           005 Na F8 V M0 D
+1331          1331 X793000-3    Ba Lo Ni           022 Na K7 V M2 D
+1333          1333 X655000-1    Ba Lo Ni           021 Na K4 V
+1334          1334 X694000-0    Ba Lo Ni           004 Na F5 V M6 D
+1335          1335 X234000-3    Ba Lo Ni           003 Na G1 V
+1338          1338 X524048-0    Lo Ni              001 Na K6 V
+1339          1339 X000048-5    As Lo Ni           025 Na M7 V M0 D
+1531          1531 X588002-1    Lo Ni              012 Na F2 V M2 D
+1533          1533 X627000-1    Ba Lo Ni           013 Na M6 III
+1632          1632 X376004-0    Lo Ni              013 Na F5 V M8 D M8 D

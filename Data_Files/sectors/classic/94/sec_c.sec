@@ -1,0 +1,38 @@
+@SUB-SECTOR:Hiryarloah SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1701          1701 X300040-2    Lo Ni Va           010 Na G7 V M3 V
+1707          1707 X636034-2    Lo Ni              004 Na F0 V
+1709          1709 XA87031-0    Lo Ni              004 Na F5 V M5 D
+1801          1801 X271040-0    Lo Ni              004 Na F6 V M3 D
+1803          1803 X110049-4    Lo Ni              004 Na M8 V M5 V
+1805          1805 X566043-0    Lo Ni              001 Na F8 V M2 D
+1807          1807 X677036-0    Lo Ni              005 Na F8 V
+1808          1808 X535031-0    Lo Ni              024 Na M3 V
+1904          1904 X226047-1    Lo Ni              000 Na M7 V M8 D
+1907          1907 X649035-0    Lo Ni              013 Na F4 V
+2002          2002 X638055-2    Lo Ni              011 Na M6 V M4 V
+2003          2003 X677056-0    Lo Ni              000 Na G9 V
+2006          2006 X380000-1    Ba De Lo Ni        010 Na F7 V
+2007          2007 X7A0033-1    De Lo Ni           022 Na M3 III
+Htuiauiyeyo   2102 E7A6486-5    Fl Ni              300 As M3 V
+2106          2106 X330000-1    Ba De Lo Ni Po     010 Na M5 V
+2108          2108 X877025-0    Lo Ni              013 Na F3 V
+2109          2109 X437000-5    Ba Lo Ni           000 Na G1 V
+2110          2110 X463000-3    Ba Lo Ni           020 Na G5 V
+Easihiyewa    2202 E667212-5    Lo Ni              804 As G6 V M8 D
+2205          2205 X786000-3    Ba Lo Ni           000 Na F6 V
+2207          2207 X692003-0    Lo Ni              003 Na G2 V
+2209          2209 X644000-1    Ba Lo Ni           022 Na G7 V M1 D
+Hikhtyerl     2304 E242668-6    Ni Po              104 As F1 V
+2308          2308 X100002-1    Lo Ni Va           010 Na G8 IV
+2309          2309 X536000-3    Ba Lo Ni           010 Na G8 V M9 D
+Iyaea         2401 E656447-5    Ni                 403 As K6 V
+Khtyakhtalr   2403 E77A552-9    Ni Wa              613 As F8 V M8 D
+Uaseirl       2406 E31076B-7    Na                 514 As M9 V

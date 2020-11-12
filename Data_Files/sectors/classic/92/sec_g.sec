@@ -1,0 +1,21 @@
+@SUB-SECTOR:Plok SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1712 X6A1001-1    Fl Lo Ni           000 Na        
+              1814 X363000-3    Ba Lo Ni           004 Na        
+              1919 X667001-2    Lo Ni              003 Na        
+              2112 X657002-1    Lo Ni              002 Na        
+              2116 X500000-0    Ba Lo Ni Va        004 Na        
+              2212 X9C7000-4    Ba Fl Lo Ni        020 Na        
+              2213 X634000-2    Ba Lo Ni           000 Na        
+              2311 X463000-2    Ba Lo Ni           023 Na        
+              2320 X549014-3    Lo Ni              014 Na        
+              2412 X432000-1    Ba Lo Ni Po        005 Na        
+              2415 XA9A002-4    Lo Ni Wa           003 Na        
+              2420 X200000-0    Ba Lo Ni Va        020 Na        

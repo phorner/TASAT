@@ -1,0 +1,22 @@
+@SUB-SECTOR:Joseph SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2521 X587000-0    Ba Lo Ni           004 Na        
+              2527 X273000-0    Ba Lo Ni           023 Na        
+              2625 X9D7004-4    Fl Lo Ni           014 Na        
+Calnor        2827 D346832-6  S                    424 Rm        
+Hansen        2927 D321404-5  S Ni Po              304 Rm        
+Mariona       2930 C777577-5  S Ag Ni              902 Rm        
+Joseph        3029 C739798-8                       800 Rm        
+Iroquois      3030 E4436BD-6    Ni Po              300 Rm        
+              3123 X535000-0    Ba Lo Ni           022 Na        
+Berin         3125 X87A152-5    Lo Ni Wa           203 Rm        
+Stuart        3129 C795255-9  S Lo Ni              105 Rm        
+              3223 X559000-4    Ba Lo Ni           001 Na        
+D'aal         3228 E0007CH-8    As Na              703 Rm        

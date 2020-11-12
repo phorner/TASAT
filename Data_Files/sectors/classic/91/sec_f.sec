@@ -1,0 +1,25 @@
+@SUB-SECTOR:Corelian SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0912          0912 X786033-1    Lo Ni              002 Na F3 V
+0913          0913 X668033-2    Lo Ni              004 Na F4 V M0 D
+1015          1015 X88A020-3    Lo Ni Wa           004 Na F8 V
+1113          1113 X200030-3    Lo Ni Va           000 Na G5 V M0 V
+1119          1119 X746021-0    Lo Ni              003 Na F2 V
+1211          1211 X773031-0    Lo Ni              000 Na F7 V
+1214          1214 X543037-0    Lo Ni Po           012 Na G0 V M2 D
+1216          1216 X727020-0    Lo Ni              002 Na M6 V
+1311          1311 X460023-0    De Lo Ni           003 Na M0 V M0 D
+1315          1315 X591036-0    Lo Ni              003 Na F4 V
+1414          1414 X321022-3    Lo Ni Po           004 Na G4 V
+1420          1420 X98A020-1    Lo Ni Wa           002 Na F4 V
+1511          1511 X362023-1    Lo Ni              005 Na F5 V M5 D
+1512          1512 X225035-0    Lo Ni              004 Na M6 V
+1513          1513 X425032-2    Lo Ni              004 Na M9 IV M1 V
+1516          1516 X573012-0    Lo Ni              011 Na F3 V

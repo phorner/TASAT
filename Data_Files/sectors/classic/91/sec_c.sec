@@ -1,0 +1,18 @@
+@SUB-SECTOR:Monway SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1701          1701 X687011-0    Lo Ni              014 Na F6 V M9 D
+1703          1703 X326002-4    Lo Ni              005 Na K0 IV M8 V
+1802          1802 X482011-0    Lo Ni              024 Na G9 V M6 D
+1804          1804 X447000-4    Ba Lo Ni           004 Na F4 V
+1809          1809 X628002-3    Lo Ni              001 Na M5 IV
+1903          1903 X454001-0    Lo Ni              023 Na F0 V M4 D
+2002          2002 X500015-1    Lo Ni Va           003 Na G1 V
+2104          2104 X564010-1    Lo Ni              012 Na G0 V M8 D
+2310          2310 X8A0000-1    Ba De Lo Ni        013 Na M4 V M0 V

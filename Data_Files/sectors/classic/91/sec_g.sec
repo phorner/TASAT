@@ -1,0 +1,29 @@
+@SUB-SECTOR:Tellura SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1714          1714 X8B4045-0    Fl Lo Ni           012 Na M0 V
+1715          1715 X433047-0    Lo Ni Po           020 Na K3 V
+1718          1718 X311048-0    Ic Lo Ni           001 Na M4 V M7 D
+1820          1820 X200000-4    Ba Lo Ni Va        023 Na A0 V M3 V
+2012          2012 X595000-0    Ba Lo Ni           002 Na F1 V
+2014          2014 X633000-4    Ba Lo Ni Po        005 Na A9 V
+2020          2020 X210004-0    Lo Ni              000 Na G0 V
+2112          2112 X776046-2    Lo Ni              014 Na F6 V
+2116          2116 X439000-3    Ba Lo Ni           003 Na M3 V M2 D
+2119          2119 X310002-4    Lo Ni              002 Na K4 III M2 V
+2120          2120 X785002-2    Lo Ni              010 Na F8 V
+2211          2211 X779002-0    Lo Ni              014 Na G6 V
+2216          2216 X565000-3    Ba Lo Ni           003 Na F1 V
+2217          2217 X000000-5    As Ba Lo Ni        001 Na M8 V
+2220          2220 X777000-1    Ba Lo Ni           022 Na F1 V M5 D
+2318          2318 X612000-4    Ba Ic Lo Ni        003 Na M7 V
+2320          2320 X539000-3    Ba Lo Ni           000 Na G2 V
+2414          2414 X989044-0    Lo Ni              024 Na F5 V
+2417          2417 X431000-5    Ba Lo Ni Po        014 Na M9 V M4 D
+2420          2420 X240000-4    Ba De Lo Ni Po     010 Na F9 V

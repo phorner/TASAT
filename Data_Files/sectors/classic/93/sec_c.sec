@@ -1,0 +1,31 @@
+@SUB-SECTOR:Keflin SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1704          1704 X8B2003-1    Fl Lo Ni           023 Na K0 V
+1705          1705 X646000-0    Ba Lo Ni           003 Na F2 V M6 D
+1802          1802 X6A3000-2    Ba Fl Lo Ni        002 Na K9 V M0 D
+1805          1805 X869000-2    Ba Lo Ni           000 Na F2 V
+1806          1806 X786000-0    Ba Lo Ni           021 Na F0 V
+1903          1903 X200000-5    Ba Lo Ni Va        005 Na M3 IV M1 V
+1907          1907 X99A002-3    Lo Ni Wa           014 Na K5 V M3 D
+1909          1909 X64A000-4    Ba Lo Ni Wa        012 Na F5 V M8 D
+1910          1910 X540004-3    De Lo Ni Po        024 Na G4 V
+2003          2003 X264000-0    Ba Lo Ni           014 Na G0 V M2 D
+Eaealeh       2008 D8636A7-5  S Ni                 410 As K6 V M8 D
+Tou'iraro     2107 D554984-6    Hi                 303 As F7 V
+Ayeweaar      2108 D364769-4    Ag Ri              505 As F6 V M0 D
+Khtaalraw     2109 D584544-6  S Ag Ni              902 As F1 V M1 D
+2201          2201 X300003-3    Lo Ni Va           024 Na G7 V M2 D
+Feaoahyerea   2205 C64A235-6    Lo Ni Wa           913 As F4 V
+Aohh          2207 D200989-A    Hi Na Va           202 As K0 V
+Htoiyhaa      2302 C616520-7    Ic Ni              903 As M0 V
+Uhyahusueh    2303 C8C4745-6    Fl                 400 As F3 V
+Tyew          2306 C524675-9    Ni                 323 As K7 V M1 D
+Hkealreaw     2401 C365410-9  S Ni                 203 As F2 V M7 D
+Ouhoieahkau   2405 C7B489A-9  S Fl                 710 As F4 V

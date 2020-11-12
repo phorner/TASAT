@@ -1,0 +1,23 @@
+@SUB-SECTOR:Lheihoarla SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lei           0911 B522400-8    Ni Po              403 As M7 V M6 V M9 D
+Kteaaheae     0912 B655512-B  N Ag Ni              814 As G7 V
+Hlirl         1013 C86A303-9  S Lo Ni Wa           222 As G5 V M2 D
+Htiayu        1016 C628664-5    Ni                 103 As M0 V M5 D
+Aolawiy       1112 C9A7615-9    Fl Ni              320 As M8 V
+Hryeye        1212 B897100-8  N Lo Ni              513 As G8 V
+Tiys          1213 C300200-7    Lo Ni Va           912 As M0 III M1 D
+1216          1216 X7A4000-2    Ba Fl Lo Ni        004 Na M5 V M8 D
+1314          1314 X548005-0    Lo Ni              002 Na F5 V M2 D
+1411          1411 X644000-3    Ba Lo Ni           004 Na G6 V M5 D
+1414          1414 XA9A000-2    Ba Lo Ni Wa        002 Na F4 V
+1511          1511 X784003-0    Lo Ni              001 Na F2 V
+1612          1612 X999000-4    Ba Lo Ni           003 Na G3 V M4 D
+1620          1620 X683012-1    Lo Ni              023 Na F7 V

@@ -1,0 +1,17 @@
+@SUB-SECTOR:Mirdika SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2504 X888000-3    Ba Lo Ni           005 Na        
+              2508 X675010-0    Lo Ni              004 Na        
+              2509 X365030-0    Lo Ni              004 Na        
+              2605 X8B5000-1    Ba Fl Lo Ni        005 Na        
+              2704 X576033-1    Lo Ni              013 Na        
+              2806 X510031-1    Lo Ni              001 Na        
+              2808 X333035-3    Lo Ni Po           004 Na        
+              3101 X447000-1    Ba Lo Ni           002 Na        

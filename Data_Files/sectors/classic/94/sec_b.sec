@@ -1,0 +1,29 @@
+@SUB-SECTOR:Kyahiyleakhaw SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aarlayaoa     0907 D665458-5  S Ni                 910 As F5 V
+Tarlirl       1003 E666565-2    Ag Ni              822 As F9 V
+Htukheahoia   1006 D745679-5  S Ag Ni              610 As F2 V
+Uieah         1008 D200461-9    Ni Va              904 As M8 V
+Htyeua'as     1104 E564234-4    Lo Ni              300 As F2 V M1 V
+Khteasa       1105 E9A6448-3    Fl Ni              900 As M8 V
+Tryeouoaeakh  1108 D210AC9-7    Hi Na              123 As F2 V
+Khtaoweiha    1209 D456688-2  S Ag Ni              603 As F7 V
+1307          1307 X7A2000-2    Ba Fl Lo Ni        003 Na A2 V M7 D
+1401          1401 X99A013-3    Lo Ni Wa           012 Na F7 V
+1407          1407 X536000-0    Ba Lo Ni           001 Na G3 V M1 D
+1410          1410 X460010-2    De Lo Ni           014 Na F6 V M4 D
+1501          1501 X638000-4    Ba Lo Ni           005 Na M5 V
+1502          1502 X9C5013-0    Fl Lo Ni           002 Na M9 V
+1506          1506 X788000-0    Ba Lo Ni           004 Na F4 V M8 D
+1507          1507 X327004-5    Lo Ni              004 Na G6 V M3 V
+1508          1508 X436003-4    Lo Ni              002 Na M9 V M3 D M0 D
+1510          1510 X300012-0    Lo Ni Va           023 Na M1 V
+1606          1606 X355005-1    Lo Ni              010 Na F3 V M6 D
+1607          1607 X565000-3    Ba Lo Ni           003 Na F8 V

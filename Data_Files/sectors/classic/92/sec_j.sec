@@ -1,0 +1,30 @@
+@SUB-SECTOR:Babadur SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0922 X254001-2    Lo Ni              013 Na        
+              0923 X523004-0    Lo Ni Po           014 Na        
+              0926 X549000-1    Ba Lo Ni           015 Na        
+              1025 X561000-3    Ba Lo Ni           004 Na        
+              1127 XAC6036-0    Fl Lo Ni           004 Na        
+              1128 X775000-1    Ba Lo Ni           023 Na        
+              1129 XA8A035-3    Lo Ni Wa           024 Na        
+              1130 X796005-3    Lo Ni              013 Na        
+              1225 X454000-4    Ba Lo Ni           023 Na        
+              1229 X000000-3    As Ba Lo Ni        004 Na        
+              1322 X8A4000-0    Ba Fl Lo Ni        014 Na        
+              1323 X536001-0    Lo Ni              000 Na        
+              1328 X562000-2    Ba Lo Ni           014 Na        
+              1422 X873003-1    Lo Ni              005 Na        
+              1430 X615002-4    Ic Lo Ni           003 Na        
+              1521 X400000-5    Ba Lo Ni Va        014 Na        
+              1522 X695000-1    Ba Lo Ni           003 Na        
+              1523 X325000-2    Ba Lo Ni           004 Na        
+              1524 X615001-0    Ic Lo Ni           022 Na        
+              1528 X8B3000-1    Ba Fl Lo Ni        022 Na        
+              1622 X000001-6    As Lo Ni           022 Na        

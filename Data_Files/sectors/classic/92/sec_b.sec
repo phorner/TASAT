@@ -1,0 +1,24 @@
+@SUB-SECTOR:Ronodik SECTOR:Theron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0908 X7A5000-3    Ba Fl Lo Ni        003 Na        
+              1002 X5A0000-4    Ba De Lo Ni        005 Na        
+              1006 X645020-1    Lo Ni              000 Na        
+              1202 X686000-0    Ba Lo Ni           013 Na        
+              1207 X413023-3    Ic Lo Ni           014 Na        
+              1303 X334000-3    Ba Lo Ni           003 Na        
+              1309 X150004-3    De Lo Ni Po        014 Na        
+              1407 X120004-6    De Lo Ni Po        012 Na        
+              1501 X000020-1    As Lo Ni           003 Na        
+              1503 X403000-5    Ba Ic Lo Ni Va     004 Na        
+              1506 X778021-0    Lo Ni              005 Na        
+              1601 X888000-3    Ba Lo Ni           004 Na        
+              1603 X574002-2    Lo Ni              002 Na        
+              1604 X753020-0    Lo Ni Po           003 Na        
+              1605 X492002-1    Lo Ni              001 Na        

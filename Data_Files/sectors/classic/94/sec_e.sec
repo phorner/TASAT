@@ -1,0 +1,33 @@
+@SUB-SECTOR:A Ekhyolyooul SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0113          0113 X100000-2    Ba Lo Ni Va        010 Na G4 III
+0114          0114 X547000-3    Ba Lo Ni           002 Na F5 V
+0116          0116 X474000-4    Ba Lo Ni           003 Na F0 V
+0118          0118 X8B3001-0    Fl Lo Ni           004 Na G6 V M7 D
+0120          0120 X312001-0    Ic Lo Ni           004 Na G3 V M4 D
+Ahikhoiweala  0212 D789650-3  S Ni Ri              203 As F3 V
+0217          0217 X522005-3    Lo Ni Po           003 Na G1 III
+0219          0219 X757000-2    Ba Lo Ni           002 Na F0 V
+Tlerahkaoii   0312 B3616BE-9  2 Ni                 210 As F5 V M9 D M1 D
+Uiwyehih      0316 B578145-8  S Lo Ni              403 As F3 V
+Eeiwiraikh    0317 B65525A-9    Lo Ni              903 As F6 V
+Khtaktatawes  0411 BA9A8DD-8  S Wa                 600 As F1 V
+Ktikhei       0413 B9A5155-D  N Fl Lo Ni           422 As M4 IV
+Ie            0414 B55258B-7  2 Ni Po              704 As F8 V
+Heaeailoilao  0415 B300376-8  S Lo Ni Va           101 As M6 V M4 D
+Htoi'uh       0417 B626699-7  N Ni                 304 As M7 III M0 D
+O'ahi         0512 B5A4278-B  S Fl Lo Ni           803 As M0 V K3 D
+Eiarea        0515 B363634-9  N Ni                 103 As F7 V M3 D
+Ousohalraolr  0517 B235469-B  2 Ni                 604 As M9 V M3 D
+Eafa          0612 B68548D-A  2 Ni                 320 As G1 V
+Uiaihteala    0613 B8958C7-5                       632 As F4 V M8 D
+La'erahao     0615 B344410-9    Ni                 404 As F5 V
+Earawya       0713 B65A6A7-C  N Ni Wa              900 As G1 V
+Hkaiea        0715 B554854-A                       704 As M7 V

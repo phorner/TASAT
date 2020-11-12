@@ -1,0 +1,26 @@
+@SUB-SECTOR:Maria SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Xartisl       1023 A888879-B  N Ri                 704 Rm F1 V M0 D
+Fausto        1024 C88A210-B  S Lo Ni Wa           914 Rm F6 V
+Muncie        1025 A967434-D    Ni                 402 Rm F6 V
+Dufrhealh     1121 A654430-B  N Ni                 602 Rm F3 V M3 D
+Transite      1122 C778655-7    Ag Ni              202 Rm F6 V M3 D
+Perisson      1124 A596537-D    Ag Ni              804 Rm F9 V
+Marten        1125 C669650-A    Ni Ri              404 Rm F4 V
+Terra         1221 C2457B9-7  S Ag                 604 Rm G9 V M8 D
+Muscovite     1322 C1008CB-A    Na Va              803 Rm F3 V
+Georgia       1421 C4359DF-9  S Hi In              323 Rm F3 V
+Niewheall     1422 C504487-9  S Ic Ni Va           700 Rm G8 V M9 D
+Walkyng       1423 C46059A-A  S De Ni              913 Rm F2 V
+Newell        1424 C6109CF-8    Hi Na              303 Rm F3 V
+Kristion      1427 B754427-7  N Ni                 404 Rm K2 V
+Kyna          1522 D4017AD-6  S Ic Na Va           813 Rm M6 V
+Dusenberg     1523 D998588-5    Ag Ni              404 Rm F9 V M4 D
+Krile         1524 C778251-5    Lo Ni              114 Rm F7 V M8 D

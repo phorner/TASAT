@@ -1,0 +1,24 @@
+@SUB-SECTOR:Ventura SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1723          1723 X472000-4    Ba Lo Ni           001 Na F0 V
+1924          1924 X969000-0    Ba Lo Ni           023 Na G1 V
+1925          1925 X583002-1    Lo Ni              023 Na F7 V
+2022          2022 X68A000-0    Ba Lo Ni Wa        004 Na F9 V
+2029          2029 X545004-0    Lo Ni              000 Na F3 V
+2122          2122 X542000-2    Ba Lo Ni Po        014 Na F5 V M2 D
+2123          2123 X545002-3    Lo Ni              003 Na G9 V
+2223          2223 X765000-0    Ba Lo Ni           003 Na F3 V
+2225          2225 X300002-1    Lo Ni Va           004 Na M0 V M6 D
+2322          2322 X000004-6    As Lo Ni           013 Na M4 V
+2421          2421 X442000-2    Ba Lo Ni Po        014 Na F9 V M2 D
+2422          2422 X647001-0    Lo Ni              001 Na F2 V
+2426          2426 X201000-5    Ba Ic Lo Ni Va     000 Na K4 V
+2428          2428 X150000-0    Ba De Lo Ni Po     024 Na F5 V
+2429          2429 X333000-5    Ba Lo Ni Po        004 Na G7 V

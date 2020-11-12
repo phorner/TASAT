@@ -1,0 +1,35 @@
+@SUB-SECTOR:Shillelagh SECTOR:Iphigenaia
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hlu'ou        2503 C351574-9  S Ni Po              724 As F7 V M2 D
+Iroseh        2506 C362787-5  S Ri                 703 As G4 V
+Sewe          2509 B55669D-5  N Ag Ni              203 As F6 V M4 D
+Ahlalria      2510 B44769E-7    Ag Ni              402 As K6 V
+Saohar        2602 C9A3966-9  S Fl Hi              113 As F6 V
+Saokhawase    2606 B97A59A-9    Ni Wa              903 As G0 V
+Khtoih        2607 D7299DB-3  S Hi In              304 As F2 V M6 D
+Aw            2608 B482489-7    Ni                 710 As F6 V M5 D
+Ikhtakheaha   2610 B654585-B    Ag Ni              904 As G0 V M2 D
+Eikha         2704 C465469-8    Ni                 515 As F9 V M6 D
+Teasi         2706 C220673-7    De Na Ni Po        224 As G6 IV
+Eakharlil     2802 C72978C-9  S                    602 As G2 V
+Iyheas        2804 C656689-7  S Ag Ni              214 As G8 V M7 D
+Uiheafti      2807 B413897-C    Ic Na              400 As G0 V
+Tryeai'ayu    2808 B899799-B                       904 As F2 V M4 D
+Aiahoih       2809 B948687-9  N Ag Ni              720 As G3 V
+Hrasalrarar   2810 B623353-B    Lo Ni Po           601 As M9 IV
+2901          2901 X739004-5    Lo Ni              004 Na M5 V M7 D M9 D
+Aauawoihriy   2904 C685244-9    Lo Ni              822 As F3 V M8 D
+Hloahyakh     2907 B576677-6    Ag Ni              703 As F5 V
+Waatel        2909 B86A572-C    Ni Wa              303 As G9 V
+Harleaoua     2910 B575359-B    Lo Ni              803 As G9 V M6 D
+3010          3010 X687000-1    Ba Lo Ni           024 Na F3 V M5 D
+3101          3101 X446000-3    Ba Lo Ni           002 Na F9 V
+3102          3102 X484000-1    Ba Lo Ni           002 Na F2 V
+3110          3110 X421004-3    Lo Ni Po           003 Na M5 V M6 D

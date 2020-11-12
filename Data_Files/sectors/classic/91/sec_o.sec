@@ -1,0 +1,15 @@
+@SUB-SECTOR:Jauhaux SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1837          1837 X445000-3    Ba Lo Ni           020 Na F6 V
+2037          2037 X474000-0    Ba Lo Ni           002 Na F1 V
+2132          2132 X797000-0    Ba Lo Ni           002 Na G0 V
+2233          2233 X8C1001-1    Fl Lo Ni           000 Na M8 V M6 D
+2237          2237 X633000-3    Ba Lo Ni Po        004 Na G6 V M2 D
+2238          2238 X000000-6    As Ba Lo Ni        000 Na M4 V M7 D

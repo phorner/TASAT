@@ -1,0 +1,21 @@
+@SUB-SECTOR:Sibigil SECTOR:Theta Borealis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2511          2511 X9B3000-4    Ba Fl Lo Ni        004 Na M9 IV
+2517          2517 X431010-1    Lo Ni Po           001 Na M0 V M5 D
+2616          2616 X213011-0    Ic Lo Ni           004 Na K8 V M8 D
+2715          2715 X616021-3    Ic Lo Ni           000 Na M1 V
+2716          2716 X311011-4    Ic Lo Ni           002 Na M7 V
+2813          2813 X595022-1    Lo Ni              000 Na F3 V M3 D
+2817          2817 X322010-3    Lo Ni Po           003 Na G7 V
+2820          2820 X593001-0    Lo Ni              013 Na G2 V
+3011          3011 X461000-3    Ba Lo Ni           024 Na F4 V
+3012          3012 X521021-1    Lo Ni Po           004 Na M0 V
+3116          3116 X7A7010-1    Fl Lo Ni           004 Na G0 III
+3215          3215 X662011-0    Lo Ni              014 Na G8 V M7 D

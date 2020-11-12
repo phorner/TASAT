@@ -1,0 +1,11 @@
+@SUB-SECTOR:Taikhahriysea'yoruh SECTOR:Touchstone
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1530          1530 X78A000-1    Ba Lo Ni Wa        002 Na F9 V M1 D
+1621          1621 X410003-2    Lo Ni              021 Na M0 II M8 V
