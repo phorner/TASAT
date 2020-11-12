@@ -1,0 +1,37 @@
+@SUB-SECTOR:Nersol  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zolag         0123 C000A87-E    As Hi Na           420 Vv F4 VI 
+              0124 C686100-8  C Lo Ni              900 Vv F1 D 
+Agolrok       0128 C1409B9-A    De Hi In Po     A  902 Vv F9 V 
+              0129 B6A5351-8    Fl Lo Ni           722 Vv M6 II 
+              0223 C88A79B-9    Ri Wa           A  120 Vv F5 D 
+Galigun       0225 E323977-5  C Hi In Na Po        124 Vv G0 V 
+              0226 C666455-5    Ni              R  323 Vv F3 D 
+              0229 C8A7620-6  C Fl Ni              902 Vv M3 V 
+              0321 C300000-A  G Ba Lo Ni Va        002 Vv G8 V 
+              0324 A987461-C  G Ni                 401 Vv F1 V M1 D M5 D 
+              0421 D78A687-5  G Ni Ri Wa           504 Vv F6 D 
+              0422 C633231-6    Lo Ni Po           324 Vv M5 V 
+              0424 B952001-9  G Lo Ni Po           624 Vv F3 D M0 D 
+              0425 E423000-6    Ba Lo Ni Po        004 Vv M1 V M5 D 
+              0524 E888201-7  C Lo Ni              511 Vv G9 D 
+Limada        0622 E338ADJ-8  C Hi In           A  202 Vv F3 V 
+              0625 C6877B8-7  C Ag                 522 Vv F3 D 
+              0626 D331499-7  G Ni Po              603 Vv M0 V M5 D 
+              0627 D563205-5  H Lo Ni              713 Vv F9 V 
+              0628 C978461-8  C Ni                 202 Vv F8 V M7 D 
+              0630 D552655-5  H Ni Po              603 Vv F6 V M5 D 
+              0723 B456588-B  C Ag Ni              801 Vv G1 VI 
+Kanukor       0725 A699653-B  G Ni Cp              323 Vv G4 V 
+              0729 C259420-7    Ni                 100 Vv F6 V M4 D 
+              0826 EAB7345-6  C Fl Lo Ni           601 Vv G2 III 
+              0827 C8D8755-8  G Fl              R  311 Vv M4 V 
+              0829 C520574-5  G De Ni Po           305 Vv M3 V 
+              0830 C59A774-8  C Wa                 100 Vv G7 D M5 D 

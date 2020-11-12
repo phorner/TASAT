@@ -1,0 +1,39 @@
+@SUB-SECTOR:Khuulu SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dakak         0134 C9889CE-5  H Hi              A  600 Vv F8 VI M6 D 
+              0236 C63068A-7    De Na Ni Po        603 Vv M1 II M6 D 
+              0237 D436230-8    Lo Ni              402 Vv K2 III 
+              0332 D120566-8  C De Ni Po           403 Vv K4 V 
+              0333 B644484-A  G Ni                 803 Vv F0 D 
+Tukogan       0336 C510947-9    Hi Na              504 Vv F2 D 
+              0340 C533447-7    Ni Po           R  202 Va M7 V 
+              0433 C720483-5    De Ni Po           812 Vv M2 V 
+              0434 B654402-B    Ni                 704 Vv K9 V 
+Dilok         0436 C32097B-9  G De Hi In Na Po  A  924 Vv F9 VI 
+              0531 C234474-A  G Ni                 623 Vv M1 V 
+              0536 A67458B-C  G Ag Ni           R  123 Vv G5 D 
+              0539 C450588-7    De Ni Po           123 Na G5 V 
+              0631 D358746-5    Ag                 104 Vv F0 V 
+              0632 C2008BC-9  G Na Va           R  103 Vv K8 D 
+              0633 D767689-4  C Ag Ni Ri           525 Vv F7 VI M2 D 
+              0637 C300677-9    Na Ni Va           203 Vv M7 V 
+              0639 C350556-7    De Ni Po           803 Va F1 D M8 D 
+              0640 C432500-B    Ni Po              723 Va G9 V 
+              0733 C556000-8    Ba Lo Ni           000 Vv F2 D M1 D 
+              0735 C7687AA-3  H Ag              R  734 Vv G6 D M7 D 
+Enan          0736 A8C7547-D  H Fl Ni Cp        A  720 Vv M3 V 
+              0740 E675632-3    Ag Ni              923 Na F8 V 
+              0831 B977664-5    Ag Ni              723 Vv M9 D 
+              0832 C767776-5  G Ag                 302 Vv F3 V 
+Okalak        0833 C554974-5    Hi                 802 Vv F0 D M6 D 
+              0834 C6A4367-7  C Fl Lo Ni           804 Vv M3 V 
+              0838 C650503-8    De Ni Po           602 Va F1 V M1 D 
+              0839 C69A354-B    Lo Ni Wa           305 Va K1 V 
+              0840 C4208DF-6  M De Na Po           203 Na G3 V 

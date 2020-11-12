@@ -1,0 +1,34 @@
+@SUB-SECTOR:Varson  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1712 C55A653-A    Ni Wa              424 Vv G0 V 
+              1714 C557469-5  H Ni              R  823 Vv F4 V 
+              1716 C887546-4    Ag Ni              800 Vv F3 D 
+Daslon        1812 E5479CA-7  C Hi In           A  403 Va F1 D M1 D 
+              1814 C779150-8  H Lo Ni              624 Va F1 V 
+              1815 E667302-3    Lo Ni              623 Na F3 D M1 D 
+              1819 B8DA334-B    Fl Lo Ni Wa        604 Vv M2 V 
+Uguza         1911 C2009DB-9    Hi Na Va           410 Va F1 D 
+              1916 D7746A9-3    Ag Ni              102 Na F7 D M3 D 
+              1919 C699889-5                    A  813 Vv G1 V M8 D 
+              2019 C300000-8  C Ba Lo Ni Va        024 Vv M7 V 
+              2112 E67A8DD-4  C Wa              A  434 Va F4 D 
+Serkur        2114 X364983-4    Hi              R  722 Na G3 V 
+              2116 B799599-7  G Ni              A  404 Vv F7 D 
+              2117 C987553-7  C Ag Ni              513 Vv K7 D M5 D 
+Kugod         2118 C964AFG-B    Hi              A  122 Vv F4 D M5 D 
+              2119 E976598-5  C Ag Ni              402 Vv F1 VI 
+Tutag         2213 C6669BA-9    Hi                 304 Va F9 VI M6 D 
+              2219 C644777-3  C Ag                 512 Vv F4 V M1 D 
+              2312 C353112-8  G Lo Ni Po           420 Va M6 VI M7 D M3 D 
+              2313 D000558-A    As Ni              922 Na K7 V 
+Vakugo        2317 A522986-B    Hi In Na Po Cp     200 Vv K4 D 
+              2318 C77569C-3    Ag Ni           A  313 Vv F5 V 
+              2319 C546400-8    Ni                 720 Vv G1 V 
+              2418 D78A438-5    Ni Wa              824 Na F6 D M7 D 

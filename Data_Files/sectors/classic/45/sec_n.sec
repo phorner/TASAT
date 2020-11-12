@@ -1,0 +1,48 @@
+@SUB-SECTOR:Faengfel  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0931 E456444-6    Ni                 724 Vv F5 D 
+              0934 B589544-A  G Ni                 924 Vv F1 V M3 D 
+              0935 E000521-9  C As Ni              510 Vv M3 V M5 D 
+              0937 B6A8562-9    Fl Ni              904 Vv M5 V 
+              0939 C234559-B  H Ni              A  703 Vf A1 V 
+              0940 C578656-6  G Ag Ni           A  412 Va F1 V 
+              1031 D630742-5  C De Na Po           303 Vv K9 V 
+              1033 B778100-A    Lo Ni              605 Vv G7 D 
+              1034 C000766-9  G As Na              514 Vv M4 V M8 D 
+              1035 E7765A8-3  C Ag Ni           A  134 Vv F2 D M8 D 
+              1036 E79A659-5    Ni Wa              503 Vv F5 V M9 D 
+              1037 C520355-A    De Lo Ni Po        401 Vf F5 IV 
+              1040 D100558-9    Ni Va           A  723 Na M1 V 
+              1131 C100245-B    Lo Ni Va           112 Vv M4 V 
+              1134 D669269-4  H Lo Ni              404 Vv F0 D M5 D 
+              1136 A7CA220-C  G Fl Lo Ni Wa        103 Vv M0 VI 
+              1137 E7C4105-8  C Fl Lo Ni           204 Vf M2 V M5 D 
+              1139 A9EA103-E  G Fl Lo Ni Wa        623 Vf M7 V 
+              1231 B454135-A    Lo Ni              924 Vv F3 D M0 D 
+              1234 C868200-5    Lo Ni              910 Vf G5 D 
+Ranoti        1237 E655AB7-9    Hi                 803 Vf F2 D M7 D 
+              1239 D69A545-5    Ni Wa              802 Vf F3 V M5 D 
+              1240 C88A353-9    Lo Ni Wa        R  304 Va F7 V 
+              1332 X598200-3  C Lo Ni           R  921 Va G6 V 
+              1336 B100474-A  H Ni Va              903 Vf M7 VI 
+              1339 D66755A-6  H Ag Ni           A  900 Vf M4 D 
+              1340 E7668AE-5  C                 A  903 Va F8 D M5 D 
+              1431 C530437-7  H De Ni Po        R  500 Va F8 III 
+              1433 C552236-6    Lo Ni Po           224 Vf F5 V M7 D M6 D 
+              1434 B576831-5                       500 Vf F4 V 
+Kakror        1437 A666642-A  G Ag Ni Ri Cp        213 Vf F4 D M0 D M5 D 
+              1439 C7898A9-6  H                 A  502 Vf F3 D 
+              1534 B598224-7    Lo Ni              604 Vf K7 D 
+              1535 C885677-7  H Ag Ni           R  402 Vf F6 V M1 D 
+              1539 C300423-A    Ni Va              100 Vf F8 V 
+              1540 C436783-9                       504 Na M4 V 
+              1631 C453112-8    Lo Ni Po           510 Na F8 VI M9 D 
+              1638 D655663-2  C Ag Ni              100 Va F4 VI 
+              1640 B88586A-9    Ri              A  122 Va G6 VI 

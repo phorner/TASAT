@@ -1,0 +1,53 @@
+@SUB-SECTOR:Mendan  SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2510 2612 0 1 11
+$2510 2909 0 0 11
+$2909 3005 0 0 11
+$3005 2705 0 0 11
+$3005 2902 0 0 11
+$2705 2405 -1 0 11
+$2510 2210 -1 0 11
+$2909 3010 0 0 11
+$3010 0211 1 1 11
+$3005 3204 0 0 11
+$3204 0305 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gergaker      2502 C11066B-9  M Na Ni              101 Jm M8 V M7 D
+Gigiir        2506 C7898A9-7                       302 Jm F6 D
+Gakishim      2510 B477221-B    Lo Ni              323 Jm F8 D
+Variet        2701 C479359-7    Lo Ni              104 Jm G9 D
+Iruna         2703 C589853-8  M Ri                 401 Jm M9 D
+Riidamir      2704 B987200-B  M Lo Ni              123 Jm F6 VI
+Wenatoke      2705 A857414-9  M Ni                 824 Jm F8 D
+Uriigme       2706 E000531-9    As Ni              922 Jm M3 V
+Gumgash       2707 C8BA835-A    Fl Wa              300 Jm F1 VI
+Ukhiiran      2709 E64778B-4    Ag                 400 Jm K3 D M6 D
+Ekaamurga     2801 C857545-7    Ag Ni              505 Jm F4 D
+Diragiik      2803 B200899-9  J Na Va              223 Jm K3 D
+Dawson        2809 A38689A-C    Ri                 104 Jm K3 V
+Aspen         2902 B468651-A  J Ag Ni Ri           734 Jm F4 D
+Murray        2903 C9AA485-B    Fl Ni Wa           602 Jm M6 V M4 D M1 D
+Surazipam     2904 C267887-8  M Ri                 324 Jm F1 D M5 D
+Mendan        2909 A768988-E  J Hi Cp              332 Jm G2 V
+Opinago       3001 C621478-7    Ni Po              703 Jm M0 V M4 D
+Ringer        3004 C789866-7  M Ri                 735 Jm F5 VI
+Biscom        3005 A57A356-B    Lo Ni Wa           705 Jm F3 V
+Liir          3006 C4259A9-8  M Hi In              712 Jm F5 V M7 D
+Petruzzi      3007 C345663-4    Ag Ni              724 Jm F4 D M4 D
+Kinirli       3009 C863441-8    Ni                 804 Jm F2 D M2 D M5 D
+Outhun        3010 B97A403-C  M Ni Wa              924 Jm G2 D
+Usmuu         3101 B337520-8    Ni                 920 Ga K8 VI
+Rengokho      3103 C532524-5    Ni Po              500 J- F7 V
+Gishir        3106 B624200-C  M Lo Ni              603 J- M9 V M0 D
+Maniwack      3108 C220736-8  M De Na Po           523 Jm M6 V M4 D
+Uerruz        3109 C3217BB-6    Na Po           A  235 Jm G0 V
+Ikagi         3203 C999200-8  J Lo Ni              920 J- F5 V
+Caboodle      3204 A678200-A  F Lo Ni              924 J- F9 VI
+Kargu         3205 C4109AB-9    Hi Na In           922 J- F2 D
+Ertsida       3206 B000531-9  M As Ni              113 J- M8 D
+Sarash        3208 C21087C-9  M Na                 901 J- F5 D M4 D M5 D

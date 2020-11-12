@@ -1,0 +1,22 @@
+@SUB-SECTOR:Raen  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ragdo         0210 C6869BA-6    Hi              A  104 Vv F6 VI 
+              0310 C624364-6    Lo Ni              621 Vv M4 V 
+Razfa         0409 A300A9A-E  C Hi Na Va Cp     R  303 Va G2 D 
+              0410 BAE9796-7  G Fl                 302 Vv G8 V M9 D 
+              0506 C8D5277-5  C Fl Lo Ni           802 Vl K5 V 
+              0508 C6467BA-4  C Ag              R  221 Vl F7 D 
+              0604 D896485-4  C Ni                 624 Vl F8 D M1 D M0 D 
+              0609 B54459D-8  G Ag Ni           R  324 Vl F2 V M2 D 
+              0706 B9A8653-9    Fl Ni              610 Vl K0 II M4 D 
+              0707 D120565-9  C De Ni Po           604 Vl G6 V M7 D 
+              0804 A57359E-9  G Ni              A  811 Vl K6 D M3 D 
+              0807 E78A231-8  C Lo Ni Wa           804 Vl F0 D M4 D 
+              0808 C310436-6    Ni                 403 Vl M6 V M8 D 

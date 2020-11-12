@@ -1,0 +1,55 @@
+@SUB-SECTOR:Kaasam  SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2624 2424 -1 0 11
+$2624 2922 0 0 11
+$2624 2927 0 0 11
+$2927 3029 0 0 11
+$3029 3230 0 0 11
+$3230 3233 0 1 11
+$3122 0223 1 0 11
+$3122 2922 0 0 11
+$3230 0127 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Uvoullen      2521 C326368-9  M Lo Ni           A  410 Ja M0 V
+Irrkeng       2523 C784595-7  M Ag Ni              424 Ja G7 D
+Miduushii     2527 C442748-7    Po                 700 Ja F1 V
+Muremi        2530 D301345-9    Ic Lo Ni Va        700 Ja M8 VI M6 D
+Aenkong       2622 C422789-8    Na Po           R  423 Ja M5 V
+Nenkun        2624 B989A9C-C  M Hi                 624 Ja F4 V M2 D
+Aekhel        2626 C221468-A    Ni Po           A  704 Ja M9 III
+Scar          2627 B200648-B    Na Ni Va           820 Ja M5 V M4 D
+Cliffs        2628 C5218CA-5    Na Po              701 Ja F8 D
+Unogzaez      2629 C678452-7  M Ni                 310 Ja G1 D M6 D M6 D
+Laargi        2721 C5568A9-5  M                    922 Ja F0 D
+Dolon         2723 A566668-7    Ag Ni Ri           104 Ja F3 V
+Namdi         2725 C558001-8    Lo Ni              204 Ja F6 V
+Ghuets        2726 B534116-9    Lo Ni              110 Ja F3 V M0 D
+Ulag Ugh      2822 D556898-2                    R  311 Ja F3 D
+Ghourz        2823 C763103-8    Lo Ni              904 Ja F0 V M7 D
+Usikaspe      2824 C100764-9  M Na Va              403 Ja M3 V
+Uetherr       2825 D5307A7-5    De Na Po           604 Ja M7 V
+Airus         2922 A4439A9-E  F Hi In Po Cp        222 Ja K5 V
+Kfangurr      2924 C320775-7  M De Na Po           500 Ja G0 V M9 D
+Kahn          2926 E463410-4    Ni                 604 Ja M0 VI M3 D
+Simuurish     2927 C896551-5  M Ag Ni              704 Ja F8 V
+Baduda        2928 C655141-8    Lo Ni              824 Ja G6 V
+En Olae       2929 D4576A9-5    Ag Ni              223 Ja F2 V M0 D
+Gung-ho       3023 C98585A-9  M Ri                 800 Ja F7 D
+Gagorrg       3025 B320737-A    De Na Po           710 Ja K7 V
+Karukdze      3026 C388587-6  M Ag Ni              523 Ja M2 V
+Volrang       3028 C322455-B  F Ni Po              422 Ja M6 VI
+Talsego       3029 B776611-6  M Ag Ni              502 Ja F5 D M0 D
+Philoctetes   3122 A67A223-D    Lo Ni Wa           524 Ja G6 V M6 D
+Iluke         3123 E754352-5    Lo Ni              305 Ja F2 VI M9 D
+Ounggzul      3124 B525758-7  J                    803 Ja G5 V
+Arsdorr       3126 C766345-6    Lo Ni              522 Ja F6 VI M1 D
+Igzaeg        3129 D9D9866-5    Fl                 524 Ja F7 V M9 D
+Zadudur       3221 B621662-8  J Na Ni Po           922 Ja M0 V
+Barbur        3225 C459777-5  F                    223 Ja F8 V
+Pegush        3228 E7A6111-6    Fl Lo Ni           703 Ja F8 V M8 D
+Iddii         3230 B677755-7    Ag                 103 Ja F0 D M2 D

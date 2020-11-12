@@ -1,0 +1,30 @@
+@SUB-SECTOR:Yonder SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0115 B797666-7    Ag Ni              823 Vv F1 VI M9 D 
+              0116 C556500-7  H Ag Ni              413 Vv F3 V M5 D 
+              0120 C79A747-9    Wa              A  904 Vv F0 V M6 D M6 D 
+              0312 B87578A-8  G Ag                 313 Vv F7 VI M0 D 
+Odessa        0313 B1109BD-A    Hi Na              104 Vv M6 VI M1 D 
+              0314 D130034-7  C De Lo Ni Po        803 Vv M2 V 
+              0316 A579013-B    Lo Ni              124 Vv M2 D M3 D 
+Addar         0317 A620531-B  G De Ni Po Cp        521 Vv F3 II M0 VI 
+              0412 B374477-9  H Ni                 404 Vv F6 D 
+              0416 C13037A-9  G De Lo Ni Po        102 Vv F9 V 
+              0511 C767353-9  H Lo Ni              824 Vl F9 V 
+              0513 C26A78A-9  C Ri Wa           R  802 Vv F7 D 
+Wallace       0519 C768958-A  C Hi                 434 Vv F1 D M1 D 
+              0520 C534415-5    Ni                 235 Vv M0 V 
+              0611 C586324-6  C Lo Ni              402 Vl F9 VI 
+              0617 C200210-A  G Lo Ni Va           100 Vv K7 VI 
+              0714 C658676-5  C Ag Ni              302 Vv F2 VI 
+              0811 E655855-3  C                    504 Vv G3 V 
+              0816 C352210-5    Lo Ni Po           822 Vv G9 D 
+              0818 B776647-7  G Ag Ni           A  614 Vv F7 V 
+              0819 A264259-B  G Lo Ni           A  515 Vv F5 D M1 D 

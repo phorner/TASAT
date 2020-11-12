@@ -1,0 +1,34 @@
+@SUB-SECTOR:Ogaros  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2524 C455500-9  G Ag Ni              720 Va F5 V M8 D 
+              2529 C464563-7  C Ag Ni              800 Va F8 D M3 D 
+              2721 B65465A-8  G Ag Ni           A  210 Vm F2 D 
+Akuva         2723 C542ACF-8    Hi In Po        A  504 Vm F2 VI M5 D 
+              2725 D379422-5    Ni                 900 Vm F2 D 
+              2728 C000647-9    As Na Ni           913 Va F7 V 
+Maramar       2821 C641AFF-9    Hi In Po        A  200 Vm F9 D M8 D 
+              2822 E68487B-1  C                 A  600 Vm F5 D 
+              2826 E9887A9-3  C Ag                 102 Va F9 V 
+              2827 C8B9499-A    Fl Ni           A  304 Va M3 V M3 D 
+              2828 C300378-7    Lo Ni Va           703 Va M5 V 
+              2922 B443796-A    Po                 903 Vm F0 D 
+              2924 B656312-7  H Lo Ni              704 Vm F8 V 
+              2925 E667422-4    Ni                 604 Na F4 VI 
+              2930 D558450-4    Ni                 521 Va G7 V 
+              3023 C788222-8    Lo Ni              323 Va G5 D 
+              3026 A423115-D    Lo Ni Po        R  603 Vo M1 V 
+              3029 D343138-7    Lo Ni Po           324 Na F3 V 
+              3121 D54679C-3    Ag              R  502 Va F3 V 
+              3122 C661369-5    Lo Ni           A  302 Va F3 V M2 D 
+Ogaros        3126 A461856-9  G Ri Cp              602 Vo F1 VI M2 D 
+              3127 A100369-E    Lo Ni Va           823 Vo F2 IV M0 D 
+              3226 CA97487-8  G Ni              R  425 Va F0 D M6 D 
+              3227 E734896-5  C                 R  202 Va G8 D 
+              3228 E160204-6  C De Lo Ni        R  604 Va F4 V 

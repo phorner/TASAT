@@ -1,0 +1,36 @@
+@SUB-SECTOR:Lues SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0902 C443488-6    Ni Po           A  524 Vl F8 D M8 D 
+              0906 C488676-8    Ag Ni              402 Vl F6 D M8 D 
+              0910 B89967B-6  G Ni              R  703 Vl G5 VI M8 D 
+              1005 C998256-9  C Lo Ni              824 Vl F8 V M5 D 
+Gudlul        1007 E330974-6  C De Hi In Na Po  R  524 Vl F2 V 
+              1101 B500563-A  G Ni Va              604 Vl G9 V 
+              1103 E130311-8    De Lo Ni Po        603 Vl M4 V M2 D 
+              1104 E77937A-3  C Lo Ni           A  922 Vl F1 V 
+              1105 B000230-D  G As Lo Ni           924 Vl K7 V 
+              1110 B561869-5  C Ri              A  705 Vl F0 D M6 D M7 D 
+              1201 C859749-6                    A  802 Vl M5 D 
+              1202 C000420-B  G As Ni              924 Vl G8 V M7 D M0 D 
+              1203 D623355-4    Lo Ni Po           803 Vl F1 IV M2 D 
+              1206 A6B5478-C  G Fl Ni           A  320 Vl F8 V 
+Azildak       1303 B346979-A    Hi In           R  603 Vl K4 V M1 D 
+Azuran        1306 C752A65-7    Hi Po              204 Vl F9 D 
+              1309 C667676-3    Ag Ni Ri        A  802 Vl K0 D 
+              1310 C684489-4  G Ni                 603 Vl F2 V M0 D 
+              1401 B48869B-6  G Ag Ni Ri           435 Vl F5 V 
+Lashiir       1403 A533723-B  G Na Po Cp           622 Vl M4 V M3 D 
+              1406 B410534-A    Ni                 112 Vl F6 II 
+              1409 C200645-9  G Na Ni Va           403 Vl F6 V 
+              1501 C500533-9    Ni Va              723 Vl M7 V M8 D 
+              1502 C76989C-8    Ri                 624 Vl F6 D 
+              1505 B750368-8  C De Lo Ni Po     A  625 Vl F1 V 
+              1508 C567110-8  C Lo Ni              124 Vl F1 D 
+              1510 B989766-9    Ri              R  500 Vl F3 D 

@@ -1,0 +1,45 @@
+@SUB-SECTOR:Lasla SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1640 1938 1 0 11
+$1634 1936 1 0 11
+$1640 1539 0 0 11
+$1539 1238 0 0 11
+$1539 1337 0 0 11
+$1640 1502 0 1 11
+$1337 1634 0 0 11
+$1634 1732 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rikhtan       0932 C62558C-8  G Ni              R  404 Va M9 V
+Uksol         0933 CA9699A-5    Hi In           R  403 Va M1 D
+Ughzneng      0938 B833558-B  G Ni Po           R  103 Va M0 V
+Llaegho       0939 C642434-6    Ni Po              324 Va F0 D
+Llan Ag       1035 E641877-4    Po                 801 Va F0 VI
+Ueksae        1038 C8A8242-5  C Fl Lo Ni           202 Va M4 V
+Midir         1040 B321776-9    Na Po              501 J- M0 II
+Oeghull       1139 D688ADD-3    Hi C1           A  611 J- F4 D M6 D
+Tarr          1140 C7359B6-8  M Hi                 422 J- M1 D M5 D
+Eghzaz        1231 C0006A8-9    As Na Ni           324 Na M5 V
+Oularso       1237 C333250-7  M Lo Ni Po           602 J- M5 V
+Bixpuls       1238 B478734-8    Ag D1 Rs           404 J- F7 V M4 D
+Vouthoeng     1335 C654664-7    Ag Ni              923 Jp G6 V
+Angull        1336 C410100-8    Lo Ni              125 Jp M4 V
+Holy Jyestha  1337 A200520-C    Ni Va              400 Jp G4 V
+Kipli         1338 C575976-8  M Hi In              304 Jp F3 D M2 D
+Ezu Ukfae     1340 C678526-7  J Ag Ni           A  104 J- K2 V M8 D
+Khishishu     1431 E763531-4    Ni                 904 Jd F9 V
+Duksham       1435 E673742-4                       623 Jp M5 V M4 D
+Imsagga       1436 E4209BC-9    De Hi In Na Po     523 Jp F3 V
+Prentice      1534 B520034-9    De Lo Ni Po        822 Jp M8 III M0 V
+Garash        1536 E324430-4    Ni                 503 Jp G4 V
+Atorouth      1538 C400301-7  J Lo Ni Va           524 Jp M2 V M3 D
+Flash         1539 B00058D-9  F As Ni              623 Jp K8 III M3 D M9 VI
+Iisha         1632 C532743-6    Na Po              804 Jp G0 VI
+Kimball       1633 A7A2646-9    Fl Ni              101 Jp M5 VI
+Lasla         1634 A532ABA-E    Hi Na Po Cp        902 Jp B1 III M1 D
+Agvaezo       1635 C566558-8    Ag Ni              220 Jp G8 D
+Knueg         1640 C574974-9  J Hi In              624 J- F0 D

@@ -1,0 +1,29 @@
+@SUB-SECTOR:Gainla  SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lashesaan     0903 CA66722-3    Ag                 405 Zu F5 D
+Akhishur      0908 C510368-9    Lo Ni              704 Na M1 V
+Shigu         0909 A57527A-C    Lo Ni              223 Na F4 D
+Padan         1005 C553473-4    Ni Po              911 Va F6 D M2 D
+Ikheku        1008 C356340-6    Lo Ni              402 Na F6 D
+Akabasca      1103 C786104-8    Lo Ni              900 Na F6 V
+Ankaa         1105 AA8A379-D    Lo Ni Wa           802 Na F4 V
+Irsisha       1108 A20067A-A  F Na Ni Va           603 Na M2 D
+Aashan        1202 C767641-5  M Ag Ni Ri           903 Na M0 D
+Kakuka        1208 C221763-6  M Na Po              924 Na M5 V
+Lagapemda     1302 C66A699-6    Ni Ri Wa           803 Na G9 VI
+Kanoochee     1303 C425104-9  M Lo Ni              725 Na G6 V M5 D
+Nashaa        1306 B574442-8  J Ni                 903 Na F4 D
+Megilla       1310 B237013-9  M Lo Ni              900 Na K3 V
+Dingus        1404 B443777-A  J Po                 220 Na F9 D M2 D
+Adirgaa       1407 E300204-8    Lo Ni Va           702 Na M0 V M1 D
+Endicott      1409 D748641-4    Ag Ni              224 Na M3 D M7 D M0 D
+Rarkidesh     1601 C310100-B  M Lo Ni              304 Na K1 V
+Ramazzini     1602 B76A445-A  M Ni Wa           A  903 Na M1 V M4 D
+Muaris        1605 B6B2966-A  J Fl Hi Cp           423 Jm F3 V

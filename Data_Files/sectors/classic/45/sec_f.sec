@@ -1,0 +1,31 @@
+@SUB-SECTOR:Arena  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0920 B767899-8  G Ri                 200 Vv M3 D 
+              1011 A345313-9    Lo Ni              220 Vl F1 V M4 D 
+              1015 B523646-8  G Na Ni Po           601 Vv F7 V M1 D 
+              1016 C778756-5  G Ag                 923 Vv F7 V 
+              1020 C66A7AA-8  C Wa                 803 Vv K3 D 
+              1214 C557345-8  G Lo Ni              803 Vv F0 V 
+              1218 E000300-A    As Lo Ni           524 Vv K5 D 
+              1219 C87A79A-6  C Wa              A  205 Vv F7 D M6 D 
+Cordoba       1317 A30068B-D    Na Ni Va Cp     A  801 Vv M4 V M7 D 
+              1318 B755844-6  G                    304 Vv F9 D M3 D 
+              1320 D895224-5  C Lo Ni              804 Vv G8 V 
+              1412 B21188A-B    Ic Na              700 Vl F9 VI 
+              1413 C325888-6  G                 A  403 Vl F9 D M8 D 
+              1416 C426650-A    Ni                 202 Vv G9 V M4 D 
+              1420 C59A78B-5  G Wa                 622 Vv F9 V M1 D 
+              1513 C75936B-5  C Lo Ni              203 Vl F7 D 
+              1516 D57A757-4    Wa                 803 Vv F0 V 
+              1519 B978677-8    Ag Ni              910 Vv F0 D 
+Sutan         1613 C67AA7C-C    Hi In Wa        R  403 Vv F9 D 
+              1614 C533757-5  G Na Po              101 Vv M0 V K8 D M0 D 
+              1615 E322864-6  C Na Po              723 Vv G6 V 
+              1617 B886546-7    Ag Ni           A  310 Vv F9 D M2 D 

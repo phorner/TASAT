@@ -1,0 +1,37 @@
+@SUB-SECTOR:Ungersol  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1703 E88A568-4    Ni Wa              802 Vl F5 D 
+              1704 C445000-8    Ba Lo Ni           002 Vl F5 VI 
+              1706 C5487AD-6    Ag                 120 Vl F4 VI 
+              1707 C665541-6    Ag Ni              310 Vl F1 V 
+Lorgo         1710 C740AED-B  C De Hi In Po     A  204 Vv F6 V 
+              1801 C797779-3    Ag              A  300 Vl F5 V M7 D M0 D 
+              1803 D736533-5  C Ni                 502 Vl M7 V 
+              1809 D5578C9-3  C                    724 Vl F9 VI 
+              1901 C610121-8  G Lo Ni              404 Vl M7 V 
+Ansana        1903 A68A569-D  G Ni Wa Cp           201 Vl K3 VI 
+              1906 E66146A-5  C Ni                 811 Vl F4 VI 
+              1908 A688001-A  C Lo Ni              503 Vl F1 V 
+Inudak        2001 B576955-8  G Hi In              800 Vl M1 D 
+              2007 X1508AE-3    De Po           A  803 Va F8 VI 
+              2008 C67A002-8    Lo Ni Wa           723 Va F5 D M6 D 
+              2102 E52545A-5  C Ni              A  903 Va M1 V 
+              2104 X866410-0  C Ni              R  400 Va F7 V 
+              2105 B530566-8    De Ni Po           802 Vl M9 VI M1 D 
+              2107 D566432-2    Ni                 502 Va F9 V 
+              2108 C332213-A  C Lo Ni Po           123 Va M0 V 
+              2205 D400112-7  G Lo Ni Va           734 Va M9 V 
+Kanogo        2209 X8849DD-0  C Hi              R  303 Va M9 V M6 D M9 D 
+              2210 D62089B-5  G De Na Po        A  902 Va F5 D 
+Kursuz        2302 X430979-5  C De Hi In Na Po  R  104 Va F9 V M8 D 
+              2305 X268200-2  C Lo Ni           R  124 Va G9 D M7 D 
+              2310 X678345-3    Lo Ni           R  824 Na K5 V M9 D 
+              2403 X244676-3    Ag Ni           R  403 Na K1 VI 
+              2406 D569551-6  C Ni                 303 Va F8 D M1 D 

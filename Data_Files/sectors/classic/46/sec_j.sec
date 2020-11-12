@@ -1,0 +1,31 @@
+@SUB-SECTOR:Lumda  SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1430 1732 1 1 11
+$1430 1329 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ukhgvang      0923 A697440-A  J Ni                 222 Sc F5 VI M7 D
+Uengogh       0928 B658200-8  M Lo Ni              725 Sc F7 D
+Mandala       0930 C7548DE-1                       313 Sc K2 VI
+Ghaze         1024 C130620-9  M De Na Ni Po        422 J- G7 V
+Uegvou        1029 D33467A-6    Ni              A  104 Va F4 V M9 D
+Nimragi       1122 D753410-5    Ni Po              802 J- G1 VI
+Ueridh        1124 C32276B-8    Na Po              103 J- M8 V M0 D
+Kferrun       1126 B368002-9  J Lo Ni           R  104 J- F6 V
+Shikhimad     1127 D200276-8    Lo Ni Va           524 J- K0 V M7 D
+Mamii         1221 C100230-7    Lo Ni Va           300 J- M8 V
+Ornament      1224 C773731-6                       105 J- K6 D M0 D M5 D
+Egvarrgh      1226 EAD7673-5    Fl Ni              602 J- G4 III M1 V
+Dekhii        1321 D57A89C-7    Wa              R  103 J- F3 V
+Masiira       1324 C69A6AA-5    Ni Wa           A  421 J- F0 VI
+Gzokaegh      1327 E566446-4    Ni                 200 J- F3 D
+Lumda         1329 A400976-C    Hi Na Va In Cp     104 Jd F9 VI M0 D
+Shishgish     1430 B226832-A  J                    313 Jd F1 V M0 D
+Noksorrgh     1525 E77A498-7    Ni Wa              402 J- F6 V M1 D
+Diralu        1527 C567330-4    Lo Ni              803 J- F0 D M0 D
+Ghotha        1621 CA66365-4  F Lo Ni           A  534 Jv F4 D
+Dhigaeg       1626 C8B4441-6    Fl Ni              204 J- M0 V M4 D

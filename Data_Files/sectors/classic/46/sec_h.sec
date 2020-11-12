@@ -1,0 +1,52 @@
+@SUB-SECTOR:Tozus Ganok SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2719 2420 -1 0 11
+$2719 2615 0 0 11
+$2719 2918 0 0 11
+$2615 2814 0 0 11
+$2615 2612 0 0 11
+$2918 3216 0 0 11
+$2612 2510 0 -1 11
+$2918 3119 0 0 11
+$3216 0213 1 0 11
+$3119 0120 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gushugan      2511 C464430-9  J Ni                 604 Jm F3 D M0 D
+Gun Thang     2512 E6318AB-5    Na Po           A  102 Jm F9 D M8 D
+Zh'goom       2520 X622864-1    Na Po           R  600 Ja F6 D
+Retseck       2612 B773644-7    Ni                 703 Jm F9 V
+Kaara         2615 B65A988-9  F Hi Wa Cp           403 Jm F1 V M3 D
+Zoeno         2616 C453657-6  M Ni Po              920 Jm F5 D M9 D
+Urnga         2617 C8BA888-6  J Fl Wa           R  202 Jm F5 D M5 D
+Akkfon        2619 C378310-5    Lo Ni              414 Ja F6 V
+Enukfudz      2620 C78A378-8    Lo Ni Wa           703 Ja F8 D
+Ottumago      2711 X557446-2    Ni              R  400 Jm F3 V
+Nankhaski     2715 B9BA320-9    Fl Lo Ni Wa        304 Jm F8 V M9 D
+Giishanu      2716 D9AA565-9    Fl Ni Wa           413 Jm M5 III M8 D
+Karrkhu       2719 C9A7342-7  M Fl Lo Ni           500 Ja F1 V
+Loggvog       2813 E423ABD-7    Hi In Na Po     A  405 Jm F5 V
+Larid         2814 B655322-6  J Lo Ni              223 Jm F1 D
+Dinero        2815 B468798-8  F Ag Ri              804 Jm K6 V M0 D
+Nikir         2818 C776997-8  M Hi In              324 Ja F9 V M7 D
+Alkhae        2819 D8B3323-3  J Fl Lo Ni           501 Ja K1 VI
+Saeghou       2913 C955589-4  M Ag Ni              804 Jm F7 V M3 D
+Gverrg        2916 C323433-6    Ni Po              712 J- M8 V M8 D
+Milton        2917 C8A357C-9  M Fl Ni           A  723 J- K0 V
+Ghueklors     2918 A543330-A    Lo Ni Po           813 J- G5 V M3 D
+Ezouksou      3011 C400446-7  J Ni Va           R  122 Jm M8 V M0 D
+Gvighzur      3012 C355101-8    Lo Ni              123 Jm F5 D
+Gherghan      3013 C734444-8  J Ni                 720 Jm M7 V M1 D
+Niimag        3016 C465731-7  M Ag                 500 J- K7 V
+Miishuuki     3018 C300200-9    Lo Ni Va           620 Ja M0 V
+Girong        3111 E110211-8    Lo Ni              605 J- F0 V M0 D
+Urmarer       3115 E676100-6    Lo Ni              305 J- F5 D M7 D
+Jyestha       3117 C330785-7  F De Na Po           303 J- M3 D
+Raduun        3119 B310A88-D    Hi Na In           103 Ja F1 V M8 D
+Irkasu        3216 A655312-9    Lo Ni              323 J- M1 D M5 D
+Olzoes        3219 C777547-5    Ag Ni              200 Ja F3 VI
+Gumumaka      3220 D69A689-7    Ni Wa              704 Ja F2 D

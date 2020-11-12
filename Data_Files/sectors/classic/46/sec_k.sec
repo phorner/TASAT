@@ -1,0 +1,50 @@
+@SUB-SECTOR:Valosak SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2329 2029 0 0 11
+$2029 1732 0 1 11
+$2329 2327 0 0 11
+$2327 2424 0 0 11
+$2424 2624 1 0 11
+$1822 2123 0 0 11
+$2123 2424 0 0 11
+$1822 1520 -1 -1 11
+$2424 2420 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ogoukhs       1726 E498843-3                       400 J- F2 D M2 D
+Rurroeghz     1728 E355773-4    Ag                 604 Ja F3 V
+Zuekhs        1729 E799100-6    Lo Ni              604 Ja K3 V
+Rruedhkou     1821 C59A768-5  J Wa                 210 Jv F4 D M6 D
+Ozrake        1822 B533776-8  F Na Po Cp        A  403 Jv M3 V
+Gzughokhs     1823 C656765-7    Ag                 610 Jv G6 VI M6 D
+Anticlea      1827 A98569E-B    Ag Ni Ri           601 Ja F2 V
+Dzokfoz       1924 C535267-5    Lo Ni           A  301 Jv F5 V M2 D
+Mageku        2025 E6AA325-6    Fl Lo Ni Wa        502 J- M5 V
+Dhughaez      2028 C8AA233-9    Fl Lo Ni Wa        304 Ja M1 V M8 D
+Ingos         2029 B530799-6    De Na Po           124 Ja M4 V M0 D
+Kaduus        2030 D772435-6    Ni              A  103 Ja F7 VI
+Uugan         2123 C5A2545-9    Fl Ni              203 J- F9 VI M2 D
+Gighokh       2125 E7549AC-7    Hi              A  102 J- F3 D
+Uesoun        2128 B244216-7  J Lo Ni              305 Ja F6 D M6 D
+Angaer        2221 C33158C-7    Ni Po           A  302 J- M1 V M3 D
+Vingae        2222 E552640-5    Ni Po              804 J- M4 V M7 D
+Giikhar       2226 B8C4257-A    Fl Lo Ni           123 Ja M4 V
+Ankeng        2227 C110310-9    Lo Ni              304 Ja F9 III
+Epeius        2230 B331101-D    Lo Ni Po           303 Ja M2 V
+Agoeng        2323 C330972-7  J De Hi Na Po        222 Ja F3 V
+Sheggike      2324 D222356-7  J Lo Ni Po           404 Ja M7 II
+Eghats        2325 C875512-7    Ag Ni              303 Ja F0 VI
+Shuurnip      2326 C57A269-A    Lo Ni Wa           300 Ja F5 D
+Palladium     2327 B300533-C  M Ni Va              113 Ja K4 V
+Gvarsaez      2329 A220527-B    De Ni Po           923 Ja M9 V
+Gugud         2330 E6638AE-5                       202 Ja F8 D M3 D
+Zonk          2421 C420000-8    Ba De Lo Ni Po     003 Ja M1 V
+Ozo Ten       2422 B695432-A  J Ni                 120 Ja F6 V
+Umagi         2423 C387343-5  M Lo Ni              904 Ja F7 D M4 D
+Mamudad       2424 B547698-9  M Ag Ni              104 Ja G7 VI
+Gvakarz       2425 B577666-7    Ag Ni              400 Ja M8 V M6 D
+Epigoni       2429 A863220-9  J Lo Ni              823 Ja G2 VI

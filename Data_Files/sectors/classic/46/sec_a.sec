@@ -1,0 +1,36 @@
+@SUB-SECTOR:Zuugabish SECTOR:Mendan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dakinkhig     0107 C568502-8    Ag Ni              504 Va G0 VI M3 D
+Aminkaa       0110 E244247-6    Lo Ni              333 Na M8 VI M3 D
+Lakariir      0201 C520200-A    De Lo Ni Po        803 Ga M0 V M0 D M1 D
+Dakash        0202 C66A58B-7  M Ni Wa              204 Ga K3 VI
+Eraashesh     0207 E110584-9    Ni                 600 Na M1 V M9 D
+Minirem       0210 C469010-9  M Lo Ni              803 Na F4 V
+Kinuurur      0305 C8C5454-7  M Fl Ni              124 Na M8 VI M7 D
+Idiler        0308 C663100-8    Lo Ni              614 Na M0 VI
+Geshamu       0309 C575110-8  M Lo Ni              822 Na F0 D
+Amamla        0402 C434988-9    Hi                 324 Zu F0 V
+Shaunoki      0403 B8CA699-B  M Fl Ni Wa           113 Zu M2 V
+Uerradz       0408 X887374-0    Lo Ni           R  805 va M6 D
+Dukasaa       0502 C300530-9  M Ni Va              800 Zu M9 V
+Arurar        0505 X79A47A-3    Ni Wa           R  403 Zu G7 V M0 D
+Eshum         0508 C58A642-7    Ni Ri Wa           311 Zu F8 VI
+Gogokae       0509 X587554-3    Ag Ni           R  404 Va F9 D
+Inurzir       0510 C777A7C-B  M Hi In              400 Ba F2 VI M8 D
+Nushuni       0604 A697302-D    Lo Ni              224 Zu K1 V M3 D
+Usuur         0606 C320A51-C    De Hi In Na Po     325 Zu F6 D M9 D
+Kudiki        0609 C336669-8  M Ni                 900 Ba G3 V
+Ritchie       0702 C38768D-7    Ag Ni Ri C1        203 Zu F9 V
+Mumisli       0703 A88A663-A  J Ni Ri Wa Cp        600 Zu F4 VI
+Athikamau     0706 B5757BA-9  M Ag                 603 Zu K1 VI
+Shudarlu      0802 C320786-8    De Na Po           502 Zu M9 V 
+Amirde        0805 C58A57A-A  M Ni Wa              104 Zu K5 D M0 D
+Niirse        0806 C687989-9  M Hi                 101 Zu F1 V
+Gabor         0808 B542688-7    Ni Po              303 Va F5 V

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Zisran  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1023 B721789-6    Na Po              602 Vv M2 V 
+              1024 E6757CA-5  C Ag              A  423 Vv F7 V M4 D 
+              1028 B548651-9  G Ag Ni              324 Vv K7 V 
+              1123 C9A8267-5    Fl Lo Ni           404 Vv M0 V 
+              1130 E656362-6    Lo Ni              705 Vv M8 VI M4 D 
+              1221 C100333-7  C Lo Ni Va           824 Vv M6 V 
+              1223 C300586-9  C Ni Va              502 Vv M6 V 
+              1230 B9A47A6-9    Fl                 701 Vv M8 VI 
+              1322 E23069A-5  C De Na Ni Po     R  603 Vv F1 V M4 D 
+              1323 C421524-9    Ni Po              200 Vv M7 III K8 D 
+              1325 E535424-3    Ni                 104 Vv M3 D M8 D 
+              1326 B584230-A    Lo Ni              923 Vv F1 D 
+              1327 B658300-A    Lo Ni              200 Vv M4 D 
+              1427 C878347-6  C Lo Ni              413 Vv F6 VI 
+              1428 C8A2534-9    Fl Ni              104 Vv K8 V M8 D 
+              1521 C000556-B  H As Ni              824 Vv M4 V 
+Gasoyu        1526 A420898-B  G De Na Po Cp        502 Vv K0 VI 
+              1527 A377343-A    Lo Ni              703 Vv F6 D 
+              1530 B757675-9    Ag Ni              111 Vv M9 D M2 D 
+              1621 B634678-9    Ni                 903 Vv K7 V 
+              1622 E554169-6  C Lo Ni              302 Vv F3 V M0 D 
+              1628 B446343-B  G Lo Ni              524 Vv F4 V 
+              1629 C99A79A-6  G Wa              R  204 Vv F1 V 
+              1630 C732368-6  H Lo Ni Po           704 Va M8 V M6 VI 

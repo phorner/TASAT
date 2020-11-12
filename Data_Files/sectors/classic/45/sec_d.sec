@@ -1,0 +1,36 @@
+@SUB-SECTOR:Dekesh   SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2509 C331249-9    Lo Ni Po           105 Va M0 V 
+Keniir        2601 A455584-B  J Ag Ni Cp           203 Ga F3 D 
+              2605 C510100-A    Lo Ni              302 Na G4 V 
+Urgush        2610 X857AB9-1    Hi              R  205 Na M1 V 
+              2702 C977486-8    Ni                 304 Ga F2 D M4 D 
+              2703 C2207AB-9  M De Na Po        A  522 Ga M6 V M1 D 
+Aimliin       2704 C6239BB-8  M Hi In Na Po        104 Ga F1 D 
+              2705 C200662-9  M Na Ni Va           500 Ga M1 V 
+              2706 C589135-8    Lo Ni              304 Ga G0 V 
+              2802 C647249-7  M Lo Ni              404 Ga F6 D 
+              2804 E210120-7    Lo Ni              405 Ga A7 V 
+Dardur        2806 C756957-7  M Hi                 103 Ga F7 D M4 D 
+              2807 C347153-8  M Lo Ni              503 Ga F1 D 
+              2808 B487388-A  J Lo Ni              903 Ga M2 V M0 D 
+              2810 D355412-6    Ni                 323 Na F7 V M9 D 
+Erarki        2901 B663962-9  A Hi                 623 Ga F0 VI M0 D M4 D 
+              2902 B699745-7                       500 Ga F0 V M7 D 
+              2908 C323425-8    Ni Po              220 Ga M2 V 
+              2909 D432356-6    Lo Ni Po           803 Va M2 V 
+              3003 B741744-5    Po                 701 Ga F0 D M1 D 
+              3006 B554100-A    Lo Ni              203 Ga M3 V 
+              3102 B226889-A  M                 R  100 Ga F3 V M8 D 
+              3105 X968678-0  C Ag Ni           A  500 Ga F3 V M7 D 
+              3109 C100586-9  G Ni Va              405 Va F4 V 
+Urkakhi       3204 C797A87-8  M Hi In           R  404 Ga F2 V M0 D 
+              3206 B000532-D    As Ni              610 Ga F3 V 
+              3209 D87727A-2  C Lo Ni           R  900 Va F7 V 

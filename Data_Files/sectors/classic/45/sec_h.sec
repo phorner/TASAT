@@ -1,0 +1,34 @@
+@SUB-SECTOR:Maramar  SECTOR:Meshan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2513 C454204-9    Lo Ni              200 Va F7 VI M4 D 
+              2517 C556010-8  C Lo Ni              801 Va G7 D M9 D 
+              2612 E647556-5  C Ag Ni              305 Va F9 D 
+              2619 B496788-9  G Ag                 900 Vm F8 V M6 D 
+              2713 C257220-8    Lo Ni              221 Va G1 V 
+              2716 B567643-5  C Ag Ni Ri           504 Va F8 D 
+              2718 C140622-9    De Ni Po        A  124 Na F1 D M7 D 
+              2720 D435567-7  C Ni                 403 Vm M0 V 
+              2815 C522343-6  H Lo Ni Po           504 Va M2 V 
+              2818 B632663-6  G Na Ni Po           324 Vm M3 VI 
+Shurgi        2819 A447554-E  G Ag Ni Cp           524 Vm F2 V 
+              2914 C8C6453-6    Fl Ni              700 Va F8 V 
+              2915 C30059A-A    Ni Va              703 Na A0 III 
+              2916 C979434-9    Ni                 523 Va M9 V 
+              2917 C589545-9    Ni              R  404 Va F6 D M8 D 
+              2919 B567527-6    Ag Ni              614 Vm K8 V M9 D M5 D 
+              3014 B130832-C  C De Na Po           925 Va G2 D M8 D 
+              3020 A673004-A  G Lo Ni              903 Vm F7 V M0 D 
+              3113 B747643-6  G Ag Ni              724 Va F9 VI 
+              3116 C574110-8  M Lo Ni              402 Na G5 V M5 D 
+              3119 C8766AA-7  G Ag Ni              704 Va F8 D 
+              3120 C400341-7  M Lo Ni Va           603 Na F3 V 
+              3215 E634105-7  C Lo Ni           R  503 Va G3 V M1 VI 
+              3216 C77A8B9-8    Wa                 423 Na K2 V 
+              3220 C876300-5    Lo Ni              322 Va F8 VI 
