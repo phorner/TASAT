@@ -1,0 +1,17 @@
+@SUB-SECTOR:Esuawa SECTOR:Faoheiroi'iyhao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1001          1001 X430011-0    De Lo Ni Po        002 Na M0 V M8 D
+1002          1002 X300012-4    Lo Ni Va           032 Na F1 V
+1004          1004 X648000-2    Ba Lo Ni           000 Na F4 V
+1102          1102 X110001-5    Lo Ni              000 Na G2 V
+1103          1103 X251001-0    Lo Ni Po           023 Na F4 V
+1201          1201 X676003-0    Lo Ni              020 Na G4 V
+1302          1302 X270011-0    De Lo Ni           012 Na G7 V
+1503          1503 X110001-4    Lo Ni              004 Na M0 V M2 D

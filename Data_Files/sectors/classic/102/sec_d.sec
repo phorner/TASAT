@@ -1,0 +1,62 @@
+@SUB-SECTOR:Chhung Kuo SECTOR:Crucis Margin
+#
+# Jump-routes
+$2505 2405 -1 0 11
+$2505 2504 0 0 11
+$2504 2602 0 0 11
+$2505 2606 0 0 11
+$2606 2610 0 0 11
+$2608 2407 -1 0 11
+$2602 2702 0 0 11
+$2602 2704 0 0 11
+$2608 2708 0 0 11
+$2704 2804 0 0 11
+$2804 2806 0 0 11
+$2806 2708 0 0 11
+$2708 2808 0 0 11
+$2808 2810 0 0 11
+$2902 2702 0 0 11
+$2806 2907 0 0 11
+$2902 3003 0 0 11
+$3003 2804 0 0 11
+$3108 3207 0 0 10
+$2810 2812 0 1 11
+$2610 2612 0 1 11
+$3110 3011 0 1 10
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Hun-tun       2504 C6487B5-B    Ag                 824 Ck
+Huangho       2505 B66A624-C    Wa                 503 Ck
+Chin Shan     2602 A667657-D  N Ag Ri              720 Ck
+Shan          2605 E130320-6    De                 624 Ck
+Wu Ti         2606 D779273-7    Ni                 400 Ck
+Ju-i          2607 C5258B8-C                       803 Ck
+Pu Chou       2608 A896999-D    In Cx              610 Ck     
+Yu-Chhiang    2609 D868420-9    Ni                 310 Ck
+Kuan Yin      2610 C636899-B    Na                 304 Ck
+Huan          2701 D849679-A    Ni                 104 Na
+Shang Ti      2702 C67A839-C    Wa                 312 Ck     
+Yen Ti        2703 D262210-B    Ni                 524 Ck
+Shen-nung     2704 C94A746-B    Wa                 410 Ck
+Thien-Shen    2708 B693889-C                       200 Ck
+Feng Po       2710 E684414-A    Ni                 904 Ck
+Fu Hsi        2804 A657676-D    Ag                 600 Ck
+Nu-kua        2805 B454459-B    Ni                 100 Ck
+Kung-Sang     2806 A0008C7-E  N As Mi              604 Ck     
+Chuan Hsiun   2809 C656769-C    Ag                 111 Ck
+Khun Yao      2810 C578525-D    Ag                 700 Ck
+Chu-jung      2902 B85947B-D  S                    102 Ck
+Huang Ti      2808 C310552-B    De                 220 Ck
+Ho Liu        2907 D652766-C    Po                 612 Ck
+Hunan         2908 E9A8737-6                       200 Ck
+Ti-mu         3003 C366998-B                       604 Ck
+Hun-kuo       3006 E410000--    De                 910 Ck
+Fenho         3101 E66A678-9    Wa                 610 Na
+Pa Kua        3104 D585567-A    Ag                 603 Ck
+Tao           3108 B3346B9-B    Ni                 200 Na
+Madi          3110 C310528-A    Ni De              402 Na
+Shen          3202 E410000--    De                 900 Na
+Tsing Tao     3205 E8C9349-A                       504 Na
+Krina         3207 D658545-9    Ag                 503 Na

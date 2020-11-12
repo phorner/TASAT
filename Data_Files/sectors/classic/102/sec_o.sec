@@ -1,0 +1,33 @@
+@SUB-SECTOR:Memsil SECTOR:Crucis Margin
+#
+# Jump-routes
+$2031 2030 0 -1 11
+$2031 1829 0 -1 11
+$2031 2133 0 0 11
+$2133 2333 0 0 11
+$2333 2433 0 0 11
+$2433 2532 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ocumare       1732 E200441-9    Va                 403 Na
+Rzhev         1735 D569320-A    Ni                 725 Na
+Krandin       1737 E000455-9    As                 504 Na
+Margilan      1834 E654364-B    Ni                 510 Na
+Loche         1936 C766473-9    Ni                 612 Na
+Erywin        1938 D773434-A    Ni                 502 Na
+Nieuw         2031 B374677-C  S Ag                 510 C3
+Kasmi         2040 D344418-B    Ni                 310 Na
+Lonoke        2133 C8787A4-C    Ag                 512 C3   
+Riad          2136 D446473-8    Ni                 620 Na
+Wald          2231 E999597-B    Ni                 614 C3
+Oconee        2232 D869443-C    Ni                 102 C3
+Khalke        2237 E888472-9    Ni                 200 Na
+Penas         2239 E6A4587-7    Ni                 523 Na
+Flekke        2333 C986436-A    Ni                 210 C3
+Zisteffle     2335 C656749-B    Ag                 614 Na
+Emis          2431 E69A876-B    Wa                 220 C3
+Mimsilmi      2433 B9989B7-D  S In                 802 C3
+T'Kaim        2437 E787373-8    Ni                 400 Na
+Erex          2439 E533402-9    Ni Po              713 Na

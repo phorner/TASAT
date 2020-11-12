@@ -1,0 +1,53 @@
+@SUB-SECTOR:Negoiul SECTOR:Crucis Margin
+#
+# Jump-routes
+$0907 0804 -1 0 11
+$0903 0702 -1 0 11
+$0903 1102 0 0 11
+$0907 1208 0 0 11
+$1102 1203 0 0 11
+$1203 1304 0 0 11
+$1304 1306 0 0 11
+$1208 1606 0 0 11
+$1306 1507 0 0 11
+$1507 1509 0 0 11
+$1509 1410 0 0 11
+$1102 1502 0 0 11
+$1502 1602 0 0 11
+$1606 1706 1 0 11
+$1602 1702 1 0 11
+$1010 1012 0 1 11
+$1010 0910 0 0 11
+$0910 0810 -1 0 11
+$1410 1411 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Elsmere       0901 C534329-7    Ni                 804 Na
+Frauten       0903 C767443-B    Ni                 700 Sx
+Dolak         0904 E575779-9    Ag                 504 Sx
+Largo         0907 C452597-A    Ni Po              400 Sx
+Parma         0908 DA87210-9    Ni                 300 Sx
+Diekirch      0910 C998A89-B    In                 811 Sx
+Quezon        1007 C76A545-C    Wa                 120 Sx
+Jipujapa      1010 B786899-D    Ri                 714 Sx
+Slatni        1102 B685556-D  S Ag                 602 Sx
+Eich          1107 EA8A594-9    Wa                 101 Sx
+Chitek        1203 C76A665-B    Wa                 320 Sx
+Prudnik       1206 X200000--    Va                 900 Sx
+Marden        1208 B000663-C    As                 401 Sx
+Lycabettus    1209 E563698-A    Po                 720 Sx
+Deuel         1302 CAA8784-9                       100 Sx
+Parida        1304 B378676-C    Ag Ni              825 Sx
+Saza          1306 C647749-B    Ag                 923 Sx
+Lydda         1308 DAB7544-9    Ni                 704 Sx
+Quindio       1406 C320524-8    De                 503 Sx
+Holt          1410 C000685-A    As                 114 Sx
+Prosser       1502 C4695A0-C    Ni                 300 Sx
+Nafud         1504 D4549D9-6                    A  500 Sx
+Rulti         1507 A5587C9-E  N Cx                 120 Sx     
+Vianden       1509 C547535-C    Ag                 700 Sx
+Slae          1602 C436688-B    Ni                 612 Sx
+Furnas        1604 E5728A9-A                       502 Sx
+Sembilen      1606 C533310-9    Ni Po              810 Sx

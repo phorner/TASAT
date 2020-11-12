@@ -1,0 +1,17 @@
+@SUB-SECTOR:Hloeaoaa SECTOR:Khaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0105          0105 X976000-3    Ba Lo Ni           003 Na F3 V
+0106          0106 X322001-0    Lo Ni Po           022 Na K0 V
+0201          0201 X762045-0    Lo Ni              000 Na F4 V
+0402          0402 X636000-0    Ba Lo Ni           014 Na F8 V M5 D
+0504          0504 X236001-4    Lo Ni              004 Na K5 III
+0505          0505 X100000-6    Ba Lo Ni Va        013 Na M3 V
+0702          0702 X557001-1    Lo Ni              013 Na G1 V M9 D
+0803          0803 XA8A000-3    Ba Lo Ni Wa        011 Na F2 V M8 D

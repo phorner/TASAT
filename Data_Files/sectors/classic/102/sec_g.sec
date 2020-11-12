@@ -1,0 +1,55 @@
+@SUB-SECTOR:Lodz SECTOR:Crucis Margin
+#
+# Jump-routes
+$1712 1612 -1 0 11
+$1712 1810 0 -1 11
+$1719 1518 -1 0 11
+$1719 1620 -1 0 11
+$1813 1712 0 0 11
+$1816 1616 -1 0 11
+$1819 1719 0 0 11
+$1813 2014 0 0 11
+$2014 2016 0 0 11
+$2016 1816 0 0 11
+$2014 2214 0 0 11
+$2417 2214 0 0 11
+$2214 2313 0 0 11
+$2211 2313 0 0 11
+$2211 2111 0 0 11
+$2111 2010 0 -1 11
+$2016 2217 0 0 11
+$2217 2417 0 0 11
+$2417 2518 1 0 11
+$2420 2520 1 0 11
+$1819 1921 0 1 11
+$2420 2122 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kutno         1712 BA98667-C  S Ag                 203 C1
+Rawa Maz      1717 E665789-A    Ag Ri              522 C1
+Qabalan       1719 B897638-B    Ag                 710 C2
+Wielun        1813 C667626-B    Ag                 520 C1
+Kepno         1816 C531767-A    Na Po              802 C1
+Kharas        1819 C626AC7-B    In                 123 C2
+Sieradz       1914 C233422-9    Ni Po              802 C1
+Konski        2012 E535103-6    Ni                 200 Uc
+Katowice      2014 A8A7868-D  N Ni                 522 C1
+Zabrze        2016 A464786-C    Ag Ri              500 C1
+Rybnik        2018 EAC8444-A                       220 Uc
+Ariha         2020 D000341-C    As                 112 Uc
+Lubon         2111 C300246-9    Va Mi              813 C1  
+Zywiec        2116 D6979C7-B    In                 214 C1
+Gradzisk      2211 B8476A6-C  S Ag                 510 C1
+Opole         2214 B557568-A    Ag                 200 C1
+Bzura         2215 E69A444-9    Wa                 400 Uc
+Nysa          2217 C440676-A    De                 221 Uc
+Damiya        2220 D8C6130-9                       520 Uc
+Nowytarg      2313 C658662-B    Ag                 500 C1
+Warta         2316 C8CA778-C    Wa                 511 Uc
+Ajlun         2318 D7C7663-A                       504 Uc
+Majdal        2319 E546894-9    Ni                 800 Uc
+Ya'bud        2412 D000566-C    As                 902 Na
+Iksal         2417 B5548A8-C                       300 Uc
+Qana          2420 C240370-9    De                 403 Uc

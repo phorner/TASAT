@@ -1,0 +1,51 @@
+@SUB-SECTOR:Ark SECTOR:Crucis Margin
+#
+# Jump-routes
+$0202 0206 0 0 11
+$0202 0401 0 0 11
+$0206 0704 0 0 11
+$0505 0510 0 0 11
+$0206 0308 0 0 11
+$0308 0508 0 0 11
+$0508 0709 0 0 11
+$0709 0810 0 0 11
+$0704 0804 0 0 11
+$0401 0601 0 0 11
+$0601 0702 0 0 11
+$0702 0704 0 0 11
+$0804 0907 1 0 11
+$0702 0903 1 0 11
+$0810 0811 0 1 11
+$0510 0611 0 1 11
+$0810 0910 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Aiwo          0101 D685745-5    Ag                 702 Na
+Boe           0103 B897896-A                       101 Na
+Acier         0106 EAC4352-9    Ni                 820 Na
+Yaren         0109 B4746B7-A    Ag                 310 Na
+Baiti         0202 B475436-C  S Ni                 620 Sx
+Anetan        0204 C663759-B    Ri                 603 Sx
+Nauru         0206 C499454-A    Ni                 200 Sx
+Masinloc      0209 D520313-A    De                 501 Na
+Nibok         0302 C354888-B                       110 Sx
+Masyaf        0304 E756425-7    Ni                 902 Sx
+Gali          0306 D797543-9    Ag                 703 Sx
+Koniek        0308 C567782-D    Ag Ri              100 Sx
+Etzina        0401 A454979-E  N                    110 Sx
+Nashchaug     0503 D000353-C    As                 914 Sx
+Buada         0505 B232411-E  N Ni Po              110 Sx
+Tasmilma      0507 C768646-A    Ag Ri              100 Sx
+Arket         0508 A886989-E  N                    120 Sx
+Vryheid       0510 C400310-D  S Ro                 605 Sx
+Uaboe         0601 C965669-A    Ag                 110 Sx     
+Martre        0606 C343689-B    Ni Po              100 Sx
+Ewa           0702 A200789-D    Va Mi              103 Sx     
+Abricot       0704 A97A899-E    Wa                 700 Sx
+Babia         0707 E554173-8    Ni Po              800 Sx
+Malini        0709 B86A989-B    Wa                 110 Sx
+Aldrin        0804 E000453-A    As                 203 Sx
+Genk          0807 C66A969-B    Wa                 700 Sx
+Djebeha       0810 B400682-C    Ro                 115 Sx

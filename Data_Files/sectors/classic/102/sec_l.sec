@@ -1,0 +1,54 @@
+@SUB-SECTOR:Andalusia SECTOR:Crucis Margin
+#
+# Jump-routes
+$2522 2520 0 -1 11
+$3221 3220 0 -1 11
+$3226 2826 0 0 11
+$2826 2625 0 0 11
+$2625 2623 0 0 11
+$2623 2522 0 0 11
+$2623 2823 0 0 11
+$2823 3221 0 0 11
+$3130 3030 0 0 11
+$3030 2830 0 0 11
+$3030 3028 0 0 11
+$3028 2728 0 0 11
+$2728 2528 0 0 11
+$2728 2826 0 0 11
+$2528 2428 -1 0 11
+$3030 3031 0 1 11
+$2830 2532 0 1 11
+$3130 0130 1 0 11
+$3226 0126 1 0 11
+$3221 0221 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uterea        2522 C659695-A    Ni                 210 C4
+Coin          2525 D543889-A    Po                 304 Uc
+Ivalo         2528 C333334-C    Na Po              900 C3
+Tervola       2530 E8B8210-9    Ni                 705 C4
+Ecija         2623 A674A99-D    In Cx              100 C4     
+Ronda         2625 C855638-A    Ag                 104 C4
+Pokka         2627 D684786-A    Ag                 900 Uc
+Vaala         2630 D687775-C    Ag Ri              204 C3
+Osuna         2722 E84A439-8    Wa                 100 C4
+Ranua         2728 AA69779-D                       402 C3
+Albox         2823 C220645-B    De                 302 C4
+Lorea         2826 B330552-B    De                 904 C4
+Athari        2830 C879799-9                       400 C3
+Jaen          2921 E557759-9    Ag Fa              513 C4
+Jodar         2923 C646789-C    Ag                 100 C4
+Rute          2927 D100437-B    Va                 513 Uc
+Alcala        3022 C535444-B    Na                 600 C4
+Almonte       3024 E6A7585-9    Ni                 902 Uc
+Rinlo         3026 C131636-B    Ni Po              800 C4
+Varkaus       3027 E310433-A    De                 703 Uc
+Toijala       3028 C9CA341-C    Wa                 710 C3
+Lahti         3030 A597AC9-E  N In                 103 C3
+Baena         3121 D584839-A                       804 C4
+Keski         3130 C987553-9    Ag                 100 C3
+Rota          3221 A676886-E  N                    302 C4
+Vejir         3223 E679408-8    Ni                 600 Uc
+Chiclana      3226 C776667-C    Ag                 802 C4

@@ -1,0 +1,63 @@
+@SUB-SECTOR:Accra SECTOR:Crucis Margin
+#
+# Jump-routes
+$0923 0722 -1 0 11
+$1027 0827 -1 0 11
+$1630 1530 0 0 11
+$1530 1430 0 0 11
+$1430 1330 0 0 11
+$1330 1130 0 0 11
+$1130 1128 0 0 11
+$1128 1027 0 0 11
+$1027 1126 0 0 11
+$1126 1125 0 0 11
+$1125 1023 0 0 11
+$1023 0923 0 0 11
+$1125 1325 0 0 11
+$1325 1426 0 0 11
+$1426 1427 0 0 11
+$1427 1528 0 0 11
+$1528 1530 0 0 11
+$1626 1624 0 0 11
+$1624 1523 0 0 11
+$1523 1621 0 0 11
+$1621 1620 0 -1 11
+$1626 1726 1 0 11
+$1626 1727 1 0 11
+$1430 1332 0 1 11
+$1630 1632 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Baragoi       0923 C896569-B    Ag                 200 Md
+Soroti        0924 D875155-9    Ni                 104 Md
+Lodwar        0926 D585869-C                       322 Md
+Mbale         0929 D786200-A    Ni                 220 Md
+Tororo        1023 C566664-B    Ag Ri              205 Md
+Kagamega      1027 B566653-C    Ag Ri              900 Md
+Kisil         1030 E366345-B    Ni                 310 Md
+Narok         1122 D5757A3-C    Ag                 803 Na
+Ngong         1124 D578308-8    Ni                 300 Md
+Tsavo         1125 A474A98-E  N In                 600 Md
+Konza         1126 C000759-C    As                 213 Md
+Thikan        1128 C756541-A    Ag                 403 Md
+Embu          1130 B844674-C    Ag                 500 Md
+Nyeri         1226 D387674-9    Ag Ri              303 Md
+Daboya        1321 D555858-9                       310 Na
+Tamale        1323 E687617-B    Ag                 623 Na
+Yendi         1325 C273755-C                       221 Md
+Yapei         1327 D332591-8    Na Po              200 Md
+Bole          1330 C659376-A    Ni                 712 Md
+Wenchi        1426 C100475-B    Va                 503 Md
+Tumu          1427 B355532-B    Ag                 614 Md
+Navrongo      1428 D493854-9  S                    100 Md
+Zuarungu      1429 D200789-B    Va Mi              104 Md     
+Akim Oda      1430 C220456-B    De                 104 Md
+Sba           1523 C8788A5-A                       800 C2
+Keta          1528 C562333-A    Ni                 214 Md
+Accra         1530 A6679C9-D  N                    900 Md
+Kerzaz        1621 C0005A6-C    As                 604 C2
+Adrar         1624 C310527-C    De                 513 C2
+Guerzim       1626 B756759-B  S Ag                 702 C2     
+Bechar        1630 C353539-B    Ni                 912 Md

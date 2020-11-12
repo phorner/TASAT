@@ -1,0 +1,54 @@
+@SUB-SECTOR:Turku SECTOR:Crucis Margin
+#
+# Jump-routes
+$1726 1626 -1 0 11
+$1726 1728 0 0 11
+$1727 1626 -1 0 11
+$1726 1825 0 0 11
+$1825 1924 0 0 11
+$1924 1822 0 0 11
+$1822 1921 0 0 11
+$1921 1819 0 -1 11
+$1829 1728 0 0 11
+$1728 1928 0 0 11
+$2027 1928 0 0 11
+$1921 2122 0 0 11
+$2428 2030 0 0 11
+$2329 2227 0 0 11
+$2227 2027 0 0 11
+$2122 2420 0 -1 11
+$2428 2528 1 0 11
+$2030 2031 0 1 11
+$1829 2031 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Quargla       1722 D552759-A                       214 C2
+Edjeleh       1724 E100365-8    Va                 813 C2
+Temassinin    1726 C324A59-B    In                 900 C2
+Tidikelt      1727 A5479C6-D  N In                 310 C2
+Aoulef        1728 C687787-C    Ag Ri              803 C2
+Chenachane    1822 C4345A4-A    Na                 800 C2
+Tindouf       1825 C6A69D9-A                       814 C2
+Tni Haia      1829 C000200-A    As                 601 Uc
+Biskra        1921 A493876-E  N                    210 C2
+Timgad        1924 B376845-C                       303 C2
+Batna         1928 C547778-B    Ag                 405 Uc
+Langsele      2021 C877562-B    Ag                 610 Uc
+Msaken        2024 D592321-8    Ni                 624 Uc
+Tlemcen       2027 B745853-C                       420 Uc
+Puula         2030 C543413-C    Ni Po              810 C3
+Ramsele       2122 C755383-A    Ni                 302 Uc
+Gabesh        2125 E893888-7                       304 Uc
+Sfax          2126 E300509-9    Va                 814 Uc
+Kouvola       2130 C723536-9    Na Po              900 C3
+Mikkeli       2227 C945898-B                       403 C3
+Suolahti      2230 D544889-8                       400 C3
+Dorotea       2321 C887455-A    Ni                 705 Uc
+Bracke        2324 E458337-7    Ni                 613 Uc
+Bergsjo       2326 D772201-A    Ni                 403 Uc
+Turku         2329 A442899-E  N Po                 100 C3
+Jarpen        2421 E8A4595-A    Ni                 305 Uc
+Mellansel     2425 E200485-B    Va                 613 Uc
+Kuhmo         2428 C8CA885-9    Wa                 300 C3

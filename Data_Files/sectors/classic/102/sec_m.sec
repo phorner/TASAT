@@ -1,0 +1,35 @@
+@SUB-SECTOR:Piute SECTOR:Crucis Margin
+#
+# Jump-routes
+$0140 3239 -1 0 11
+$0140 0240 0 0 11
+$0140 0238 0 0 11
+$0238 0640 0 0 11
+$0439 0440 0 0 11
+$0833 0830 0 -1 11
+$0833 0934 1 0 11
+$0831 0932 1 0 11
+$0140 0101 0 1 11
+$0440 0401 0 1 11
+$0640 0601 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Zynki         0136 E78A471-B    Wa                 604 Na
+K'Mara        0140 C534889-9    Na                 211 Rn
+Hmrilma       0233 C362419-A    Ni                 700 Na
+Rill          0234 A879778-C    Mi                 711 Na     
+sOra          0238 B200210-C    Va Po              804 Rn
+Himrai        0240 D6665A5-C    Ag                 800 Rn
+Fmsani        0337 E552635-9    Ni Po              513 Na
+Midlo         0431 E696889-7                       100 Na
+Scorch        0433 D220473-A    De                 203 Na
+sFyri         0439 A552769-D  N Po                 413 Rn
+Kald          0440 C5A6877-B                       605 Rn
+Rasnoe        0638 E223314-9    Ni Po              502 Na
+Tstata        0640 C455569-A    Ag                 613 Rn
+Aldrikin      0736 E656664-7    Ag                 510 Na
+Syzlin        0831 A645794-D  N Ag                 304 Md
+Zankai        0833 C200444-A    Va                 403 Md
+Madra         0838 E496346-A    Ni                 510 Na

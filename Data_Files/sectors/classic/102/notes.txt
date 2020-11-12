@@ -1,0 +1,131 @@
+
+Crucis Margin Sector - Notes and Errata
+----------------------------------------
+
+ NOTES:
+
+The bulk of the data for the Crucis Margin Sector comes from the Judges Guild
+Guidebook.
+
+I have assigned allegiance codes since they are indicated only by symbols in
+the Guidebook. I used the existing codes where possible and assigned new ones
+as necessary. The new codes have not been used in other sources that I am aware
+of, as far as I can ascertain.
+
+I also generated data for planetoid belts and number of gas giants in each star
+system. The Guidebook only indicates if there is a gas giant in the system, not
+the number of them. With the exception of seven systems, (as noted below), I
+have assigned the number of gas giants in each system that the Guidebook
+indicated possessed one. I also generated the Population multiplier for this
+Sector.
+
+
+ ERRATA:  
+
+There were a number of errors and inconsistencies in the original data, I have
+listed all those I found and what I did about them below.
+
+Ark Subsector - Baiti (0202)
+      Sector, Subsector map and index place it at location 0202
+      planet listing shows it at location 0208
+      I put it at 0202 since it comes before 0204 in the listing.
+
+Chhung Kuo Subsector -  Chu-jung (2902)
+      lists UWP as B85947B4-D
+      I dropped the last 4 making it B85947B-D
+
+Olsztyn Subsector - Tarat (1311)
+      Spelt as Tarrat on Subsector map
+      planet listing and index spell it Tarat
+      I used Tarat.
+
+                  - planet list and index show:        Subsector map shows:
+                        Kosice    (1514)                 Nowa Sol  (1514)
+                        Nowa Sol  (1516)                 Gdansk    (1516)
+                        Gdansk    (1518)                 Ptock     (1518)
+                        Suwon     (1520)                 Gydnia    (1520)
+                        Ptock     (1612)                 Kosice    (1612)
+                        Gdynia    (1616)                 Suwon     (1616)
+      I used the order show in the planet list.
+
+Pingsang Subsector - Oki (0330)
+      Spelt Oki in planet list and index
+      Spelt Lki on Subsector map
+      I used Oki
+
+                   - Bura (0827)
+      Spelt Bura in planet list and index
+      Spelt Cura on Subsector map
+      I used Bura      
+
+                   - Kure (0623)
+      lists UWP as A5444658-D
+      I dropped one of the 4's making it A544658-D
+
+Accra Subsector - Ngong (1124)
+      lists UWP as D5778308-8
+      I dropped one of the 7's making it D578308-8
+
+Turku Subsector - Gabesh (2125)
+      lists UWP as E8938887
+      I placed a '-' between the 8 and 7 making it E893888-7
+
+Andulusia Subsector - Almonte (3024)
+      Spelt Almonte in planet list and index
+      Spelt Amonte on Subsector map
+      I used Almonte.
+ 
+                    - Varkaus (3027)
+      Spelt Varkaus in planet list and index
+      Spelt Vardaus on Subsector map
+      I used Varkaus.
+
+Nigde Subsector - Tsama (1238)
+      Spelt Tsama in planet list and index
+      Spelt Tasama on Subsector map
+      I used Tsama.
+
+                - Stm*Fi (1632)
+      Not an error but the asterisk shows as a second m - StmmFi
+      I substituted the '-' character so that it now shows as Stm-Fi.
+
+  ----------------------------------------------------------------------------
+
+The Sector Map includes the profiles of 8 planetary systems, which I have
+entered into the Sector. However, there are some inconsistencies in the
+information as noted below :
+
+Ark Subsector - Uaboe (0601)
+      According to the profile Uaboe has a diameter of 19000 km and a
+      circumference of 59660 km.
+      The UWP for the Planet gives its size as 8 - 13600-15200 km 
+      I left the figures out of the planet profile.
+
+Chhung Kuo Subsector - Shang-Ti (2702)
+      According to the profile, the Shang-Ti systems contains 2 gas giants
+      and one Planetoid Belt.
+      The planet listing in the Guidebook does not show either.
+      I changed the data to show 2 Gas Giants and one Planetoid Belt.
+
+Seven of the eight Planetary profiles contain information on the number of
+Gas Giants and Planetoid Belts they possess and I have entered this into
+the planet listing.
+
+In addition some of the profiles mention the major product of the planet
+and I have added these to the export category of the UWP, although in one
+case the UWP indicates it shouldn't be manufacturing the product.
+
+ -----------------------------------------------------------------------------
+
+Subsector names -
+
+Falaya is spelt as Lalaya in the index - Falaya in all other references.
+
+ -----------------------------------------------------------------------------
+
+If you have any comments/questions/complaints regarding the information for
+the Crucis Margin Sector you can E-mail them to me at the address below -
+
+Rob Ludbey
+
+rludbey@ozemail.com.au 

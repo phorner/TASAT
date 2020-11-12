@@ -1,0 +1,46 @@
+@SUB-SECTOR:Falaya SECTOR:Crucis Margin
+#
+# Jump-routes
+$2532 2433 -1 0 11
+$2532 2733 0 0 11
+$2733 3031 0 0 11
+$3031 3030 0 -1 11
+$2532 2830 0 -1 11
+$3236 3137 0 0 11
+$3137 3138 0 0 11
+$3138 3238 0 0 11
+$3238 3140 0 0 11
+$2638 2738 0 0 10
+$2738 2636 0 0 10
+$3238 0139 1 0 11
+$3236 0137 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kheri         2532 A797551-E  N Ag                 303 C3
+Atcha         2535 D64A370-C    Wa                 520 Na
+Lismore       2633 D434586-8    Ni                 200 Uc
+Minles        2636 C300699-A    Va                 501 Na
+Olduvai       2638 C451677-C    Ni Po              700 Na
+Paphos        2731 C461624-A    Ni                 500 C3
+Scabin        2732 D443405-A    Ni Po              513 C3
+Raslapsi      2733 C9B6779-C                       404 C3
+Delago        2735 E799234-8    Ni                 304 Na
+Falaya        2738 A9978C6-D                       103 Na
+Kivu          2832 B784775-D  S Ag Ri              520 C3
+Mani          2835 E6A78B7-7                       623 Na
+Rion          2840 E478AD9-A    In                 430 Na
+Uku           2931 D7948A9-8                       605 C3
+Siut          2939 E510405-7    De                 400 Na
+Ulsan         3031 C567472-9    Ni                 910 Na
+Degh          3033 EAC9220-A                       904 Na
+Thomi         3131 D96A754-A    Wa                 210 Uc
+Khuaf         3134 D7A6535-B    Ni                 512 Na
+Kmmo-im       3137 B458739-B    Ag                 602 Hi
+Rm-y-mi       3138 C534769-C    Na                 610 Hi
+Kixym         3140 B554585-C  S Ag                 902 Hi
+Talslad       3233 E7AA343-A    Wa                 803 Na
+473-276       3236 C438673-A    Na                 600 Hi
+Gau-kee       3238 B787879-D    Ni                 811 Hi
+Lno-rin       3240 D63A655-9    Wa                 700 Hi 

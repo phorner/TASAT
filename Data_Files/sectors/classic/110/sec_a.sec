@@ -1,0 +1,18 @@
+@SUB-SECTOR:Oiailau SECTOR:Faoheiroi'iyhao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0105          0105 X9A9032-1    Fl Lo Ni           005 Na M3 V M6 D
+0110          0110 X355010-0    Lo Ni              004 Na G0 V M1 D
+0201          0201 X300033-2    Lo Ni Va           004 Na M4 V
+0202          0202 X240023-2    De Lo Ni Po        003 Na G2 V
+0204          0204 X274024-0    Lo Ni              000 Na F5 V
+0205          0205 XA99020-2    Lo Ni              003 Na F3 V
+0305          0305 X557023-1    Lo Ni              002 Na G8 V M8 D
+0401          0401 X793010-0    Lo Ni              014 Na F4 V
+0403          0403 X846021-1    Lo Ni              014 Na F2 V M0 D

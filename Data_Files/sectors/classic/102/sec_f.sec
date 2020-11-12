@@ -1,0 +1,59 @@
+@SUB-SECTOR:Olsztyn SECTOR:Crucis Margin
+#
+# Jump-routes
+$0918 0817 -1 0 10
+$1012 1010 0 -1 11
+$1012 1015 0 0 11
+$1014 0813 -1 0 11
+$1019 0918 0 0 10
+$1117 1015 0 0 11
+$1217 1117 0 0 11
+$1217 1213 0 0 11
+$1215 1014 0 0 11
+$1313 1213 0 0 11
+$1313 1311 0 0 11
+$1311 1411 0 0 11
+$1411 1312 0 0 11
+$1411 1410 0 -1 11
+$1518 1616 0 0 11
+$1616 1516 0 0 11
+$1516 1514 0 0 11
+$1514 1612 0 0 11
+$1612 1712 1 0 11
+$1518 1719 1 0 11
+$1620 1719 1 0 11
+$1616 1816 1 0 11
+$1620 1621 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Mangots       0911 D769503-B    Ni                 501 Sx
+Kumhwa        0913 E493223-9    Ni                 620 Sx
+Ahaggar       0915 E240432-A    De                 804 Sx
+Koslin        0918 B557898-A                       720 Na
+Cheju         0920 E000360-B    As                 502 Na
+Syrte         1012 C387739-A    Ag                 902 Sx
+Kufra         1014 A581786-D  N                    900 Sx
+Ulid          1015 C383757-A                       604 Sx
+Sangju        1019 C657758-B    Ag                 200 Na
+Ghnema        1111 D5736B9-9    Ni                 800 Sx
+Idehan        1113 D476538-8    Ag                 503 Sx
+Derj          1117 C363648-B    Ni Ri              902 Sx
+Iri           1213 C563586-A    Ni                 213 Sx
+Achmetha      1215 B326A78-C    In                 504 Sx
+Indang        1217 B868576-D  S Ag                 900 Sx
+Masan         1220 E6559A5-B                       413 Na
+Tarat         1311 C441455-A    Ni Po              302 Sx
+Soluk         1312 A5538D9-D  N Po                 301 Sx
+Derna         1313 C684896-C    Ri                 920 Sx
+Kigye         1319 E6B5377-9                       511 Na
+Yesong        1411 C582656-B    Ni                 310 Sx
+Polgyo        1417 E999236-C    Ni                 514 Na
+Kosice        1514 B344779-A    Ag                 920 C2
+Nowa Sol      1516 C200464-9    Va                 200 C2
+Gdansk        1518 C241597-B    Ni Po              220 C2
+Suwon         1520 E210211-8    De                 403 C2
+Ptock         1612 C365856-B    Ri                 202 C2
+Gdynia        1616 A523AB8-E  N In Po              700 C2
+Wroclaw       1620 B6A5AC8-C                       304 C1

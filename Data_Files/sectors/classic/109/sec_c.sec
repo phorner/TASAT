@@ -1,0 +1,11 @@
+@SUB-SECTOR:Styehfyeao SECTOR:Khaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2005          2005 X310010-0    Lo Ni              013 Na M7 V M4 D M3 D
+2306          2306 X266016-0    Lo Ni              013 Na F2 V

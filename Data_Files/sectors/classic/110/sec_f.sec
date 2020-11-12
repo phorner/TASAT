@@ -1,0 +1,11 @@
+@SUB-SECTOR:Uasiy' SECTOR:Faoheiroi'iyhao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1220          1220 X8A8057-2    Fl Lo Ni           001 Na M4 V
+1312          1312 X858056-0    Lo Ni              014 Na M9 V

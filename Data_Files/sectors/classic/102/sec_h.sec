@@ -1,0 +1,52 @@
+@SUB-SECTOR:Asturias SECTOR:Crucis Margin
+#
+# Jump-routes
+$2518 2417 -1 0 11
+$2518 2520 0 0 11
+$2520 2420 -1 0 11
+$2612 2713 0 0 11
+$2713 2812 0 0 11
+$2812 2810 0 -1 11
+$2612 2610 0 -1 11
+$2718 2518 0 0 11
+$3220 2718 0 0 11
+$2815 2916 0 0 10
+$2916 3015 0 0 10
+$3015 3215 0 0 10
+$3113 3011 0 0 10
+$3011 3110 0 -1 10
+$2520 2522 0 1 11
+$3220 3221 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ferrol        2518 A438739-E  N                    105 C4
+Cruz          2520 B55A859-C    Wa                 210 C4
+Hu            2612 C795464-B    Ni                 900 Ck
+Sedano        2615 D410352-8    De                 323 Na
+Vivero        2618 D432555-A    Ni Po              513 Uc
+Heng-o        2713 A748683-E  N Ag                 403 Ch
+Laurca        2718 C210627-B    De                 510 C4
+Oviedo        2719 E6A4220-9    Ni                 530 C4
+Shun          2811 B586548-B    Ag                 712 Ch
+Ming          2812 D452205-A    Ni Po              411 Ch
+Tsi           2813 E756446-B    Ni                 620 Ch
+Dax           2815 B6A6408-A    Ni                 402 Na
+Llanes        2818 D57A766-B    Wa                 210 C4
+Sahagun       2820 E9B8345-A    Ni                 720 Uc
+Aviles        2916 E94A476-9    Wa                 704 Na
+Potes         2918 E5765A5-8    Ag                 220 Uc
+Micres        2920 D77A999-B    In Wa              224 C4
+Foix          3011 C200210-A    Ni Va              704 Na
+Adour         3013 E355212-B    Ni                 400 Na
+Auch          3015 C581565-9    Ni                 313 Na
+Sestao        3019 C6838A8-A                       500 C4
+Pau           3113 B677778-C    Ag                 200 Na
+Irun          3117 E768787-9    Ag Ri              304 Na
+Bermeo        3119 D110432-C    De                 503 C4
+Sete          3211 D663868-A                       212 Na
+Estella       3215 B300416-C    Ni Ro              600 Na
+Tarbes        3217 E489343-B    Ni                 100 Na
+Tafalla       3219 E657846-A                       900 Uc
+Gijon         3220 C480204-9    De Mi              412 C4 

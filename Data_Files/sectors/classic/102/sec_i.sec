@@ -1,0 +1,59 @@
+@SUB-SECTOR:Pingsang SECTOR:Crucis Margin
+#
+# Jump-routes
+$0121 3121 -1 0 11
+$0222 0121 0 0 11
+$0222 0124 0 0 11
+$0225 0124 0 0 11
+$0423 0324 0 0 11
+$0324 0225 0 0 11
+$0225 0627 0 0 11
+$0623 0423 0 0 11
+$0623 0724 0 0 11
+$0724 0727 0 0 11
+$0727 0627 0 0 11
+$0627 0827 0 0 11
+$0827 0727 0 0 11
+$0627 0729 0 0 11
+$0729 0829 0 0 11
+$0829 0830 0 0 11
+$0623 0722 0 0 11
+$0722 0621 0 0 11
+$0621 0619 0 -1 11
+$0722 0923 1 0 11
+$0827 1027 1 0 11
+$0830 0833 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Okaya         0121 B6299D9-A    In                 304 Md
+Suwa          0123 D7C5205-9    Ni                 200 Md
+Uda           0124 C641312-B    Ni Po              603 Md
+Kilchu        0129 D431111-9    Ni Po              700 Na
+Odate         0222 C441543-A    Ni Po              300 Md
+Kobe          0225 A453619-E  N Ni Po              101 Md
+Iida          0227 D8C4592-B    Ni                 800 Na
+Nikko         0321 E764786-9    Ag Ri              820 Md
+Mito          0322 D8B9341-A    Ni                 114 Md
+Honjo         0324 C527503-8    Ni                 510 Md
+Akita         0326 C568779-B    Ag Ri              104 Md
+Oki           0330 A424799-C    Na Po              300 Na
+Biwa          0421 E527999-B    In                 922 Md
+Kuji          0423 C566424-A    Ni                 600 Md
+Dogo          0428 E2349C6-9                       124 Na
+Kitale        0521 D210467-A    De                 914 Md
+Mori          0526 E260626-A    De                 400 Md
+Dozen         0530 C664522-B    Ag                 500 Na
+Maralal       0621 C564684-B    Ag Ri              704 Md
+Kure          0623 A544658-D  N Ni                 920 Md
+Tsu           0627 B536557-C    Ni                 702 Md
+Garba Tula    0722 B696576-B    Ag                 300 Md
+Muddo Gashi   0724 C424302-C    Ni                 304 Md
+Wajir         0725 C310523-A    De                 200 Md
+Osaka         0727 A867889-D  N Ri                 813 Md
+Ise           0729 C641438-A    Ni Po              200 Md
+Kamchina      0823 D000360-B    As                 700 Md
+Bura          0827 B310231-A    De                 112 Md
+Garissa       0829 C6A97B4-B                       700 Md
+Tana          0830 C8A7719-C                       804 Md

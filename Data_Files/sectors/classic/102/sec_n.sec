@@ -1,0 +1,39 @@
+@SUB-SECTOR:Nidge SECTOR:Crucis Margin
+#
+# Jump-routes
+$0934 0833 -1 0 11
+$0932 0831 -1 0 11
+$0934 1135 0 0 11
+$1135 1335 0 0 11
+$1335 1434 0 0 11
+$1434 1533 0 0 11
+$1533 1332 0 0 11
+$1332 0932 0 0 11
+$1533 1632 0 0 11
+$1332 1430 0 -1 11
+$1632 1630 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Armero        0932 C96A201-9    Wa                 910 Md
+Slint         0934 C572639-A    Ni                 401 Md
+Pavlet        1034 D776643-A    Ag                 110 Md
+Meshed        1038 E543789-9    Na                 224 Na
+Kutenai       1132 C548989-B    In                 800 Md
+Stefen        1135 B547AA9-B  S In                 802 Md
+Monsoom       1137 D65A443-C    Wa                 520 Na
+Pelly         1233 E4238C9-7    Po                 110 Md
+Tsama         1238 B563568-D    Ni                 921 Na
+Seregno       1240 E6A1689-B    Ni                 931 Na
+K'Kigi        1332 B445533-C    Ag                 500 Md
+Tzitin        1335 C000689-C    As                 524 Md
+Lugg          1337 E433302-9    Ni Po              904 Na
+Senlac        1433 DAB6477-B    Ni                 313 Md
+Amya          1434 C769586-A    Ni                 600 Md
+Isparta       1439 D000323-C    As                 303 Na
+Pelieo        1531 D462673-A    Ni                 704 Md
+Nigde         1533 A738789-E  N                    900 Md
+Hzimo         1537 E541508-A    Ni Po              823 Na
+Remino        1631 C100206-B    Va                 902 Md
+Stm-Fi        1632 C95A477-B    Wa                 903 Md

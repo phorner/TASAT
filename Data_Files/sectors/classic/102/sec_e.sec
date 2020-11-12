@@ -1,0 +1,54 @@
+@SUB-SECTOR:Mandin SECTOR:Crucis Margin
+#
+# Jump-routes
+$0113 0515 0 0 11
+$0214 0314 0 0 11
+$0214 0316 0 0 11
+$0316 0416 0 0 11
+$0515 0416 0 0 11
+$0416 0418 0 0 11
+$0418 0619 0 0 11
+$0619 0616 0 0 11
+$0616 0515 0 0 11
+$0515 0813 0 0 10
+$0813 0713 0 0 11
+$0713 0611 0 0 11
+$0811 0813 0 0 11
+$0811 0810 0 -1 11
+$0611 0510 0 -1 11
+$0113 3212 -1 0 11
+$0214 3214 -1 0 11
+$0817 0918 1 0 10
+$0813 1014 1 0 11
+$0619 0621 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Jammu         0113 C75A448-A    Ni Wa              200 Md
+Negril        0120 C652593-A    Ni                 612 Md           
+Fauve         0214 A665656-E  N Ag Ri              803 Md
+Nagar         0215 D245422-B    Ni                 512 Md
+Macroform     0217 E142120-9    Ni Po              500 Md
+Ochon         0219 D422533-8    Ni Po              403 Md
+Arrah         0311 E4437A8-8    Po                 310 Na
+Kataga        0314 C330426-A    De                 903 Md
+Ttrino        0316 C583314-B    Ni                 210 Md
+Zhidah        0320 E360310-A    De                 514 Md
+Abony         0412 D544473-9    Ni                 300 Na
+Kronshlot     0414 C454580-C    Ag                 102 Md
+Kalradin      0416 A7878D9-D  N Cx                 700 Md     
+Flakestar     0418 C325653-B    Na                 911 Md
+Oldflight     0515 B463656-C  S Ni                 400 Md
+Shiga         0520 E456343-7    Ni                 912 Md
+Toboloski     0611 D8B8243-9                       300 Sx
+Kochi         0614 BA898B9-A                       300 Na
+Gifu          0616 CAA9665-B    Ni                 400 Md
+Mayagi        0617 C736878-A    Na                 701 Md
+Orsu          0619 B766575-C  S Ag                 402 Md
+Jaruco        0711 D594614-B    Ag                 900 Sx
+Tumuc         0713 C2346A5-D    Na                 103 Sx
+Berken        0811 C544686-C    Ag                 500 Sx
+Marada        0813 A484776-E  N Ag Ri              520 Sx
+Serir         0817 D649A99-7    In                 810 Na
+Tottori       0818 E573224-8    Ni                 803 Na

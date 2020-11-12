@@ -1,0 +1,49 @@
+@SUB-SECTOR:Souris SECTOR:Crucis Margin
+#
+# Jump-routes
+$1702 1706 0 0 11
+$1706 1606 -1 0 11
+$1702 1602 -1 0 11
+$1706 2004 0 0 11
+$1702 1902 0 0 11
+$1810 2010 0 0 11
+$1902 2103 0 0 11
+$2004 2103 0 0 11
+$2004 2205 0 0 10
+$2405 2407 0 0 11
+$2205 2206 0 0 10
+$2206 2308 0 0 10
+$2405 2505 1 0 11
+$2407 2608 1 0 11
+$1810 1712 0 1 11
+$2010 2111 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Palompi       1701 X101000--    Va                 600 Na
+Rickamil      1702 B7A7568-D  N Ni                 514 Sx
+Lorne         1704 C696364-9    Ni                 403 Sx
+Doven         1706 B67A656-D  S Wa                 200 Sx
+Orwelle       1802 E472464-6    Ni                 702 Sx
+Spry          1805 C737822-A                       210 Sx
+Eliot         1808 D437576-B    Ni                 700 Na
+Ionae         1810 C5797B9-B                       713 Uc
+Nye           1902 D528753-8    Na                 200 Sx
+Osowiec       1906 E5415A1-9    Ni Po              200 Sx
+Tadzhik       1910 D565310-5    Ni                 400 Uc
+Beowawe       2003 E6439A7-9    In Po              204 Sx
+Souris        2004 B753636-D  N Ni Po              724 Sx
+Taginae       2008 E666000--                       200 Sx
+Sluiskin      2010 B767559-B  S Ag                 522 Uc
+Vamitra       2101 C477326-9    Ni                 200 Ry
+Deeth         2103 C231442-8    Na Po              503 Sx
+Moapa         2106 E333472-7    Na Po              903 Na
+Denio         2205 A6695A6-C    Ni                 400 Na
+Inuvik        2206 C9998B5-A                       201 Na
+Wager         2302 D566569-9    Ag                 110 Na
+Adair         2304 E400210-7    Va                 700 Na
+Oita          2308 C000547-C    As Mi              512 Na     
+Pamlico       2310 E675206-4    Ni                 200 Na
+Pi            2405 C876897-C                       924 Ck
+Tsung         2407 B568456-B  S Ni                 405 Ck
