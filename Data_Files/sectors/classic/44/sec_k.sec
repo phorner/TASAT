@@ -1,0 +1,16 @@
+@SUB-SECTOR:Khaellung SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ksalarrkfaegz 1730 A55287A-A  G Po                 711 Vn F0 V               
+Otogaerrg     1830 A896535-B    Ag Ni              814 Vn F3 V               
+Vaeghaarong   2126 B500100-8    Lo Ni Va           203 V7 M7 V M3 D           
+Lloendaz      2229 C534888-8  G                    403 V7 M3 V               
+Naeduer       2326 C20067B-A    Na Ni Va           804 V7 M4 V               
+Lleghlor      2327 C100755-8  G Na Va              210 V7 K9 V               
+Egvingour     2430 E784112-6    Lo Ni              310 V7 F2 V M0 D           

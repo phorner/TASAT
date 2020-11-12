@@ -1,0 +1,30 @@
+@SUB-SECTOR:Anghikh SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dhotsaeng     0112 C477222-A    Ni Lo              703 Ve
+Koudhgzaen    0115 B4639AB-A  G Hi                 112 Ve
+Nogh          0119 A366636-C    Ag Ni              905 Va
+Zadz          0120 C88A578-9    Wa Aq Ni           805 Va
+Ghoghzsorgh   0212 B635121-D    Ni Lo              404 Ve
+Rataetaenrar  0216 A348359-C    Ni Lo              805 Ve
+Oughdzak      0219 C7A6300-8  C Fl Ni Lo           625 Va
+Dorrar        0314 B47397B-8    In Hi              313 Va
+Oeksaegh      0414 D612122-9  C Ic Ni Lo           404 Ve
+Anghikh       0415 A456A75-F  G Hi Cp              204 Ve 
+Uedzaell      0416 C2407A7-9    De Po Na           702 Ve
+Khaghdaeksong 0418 C674621-8  G Po                 503 Va
+Ughfangkhoeg  0419 C494200-8  C Ni Lo              623 Va
+Oeghzdharok   0516 B979320-B    Ni Lo              804 Ve
+Aengour       0612 B312952-D  G Ic In Na Hi        422 Ve
+Ksungkath     0614 B481646-C    Ri Ni              103 Ve
+Llorz         0618 B877477-9  G Ni                 801 Va
+Okhuers       0712 D626102-7  C Po Ni Lo           303 Ve
+Dhaen         0718 B578643-C  G Ag Ni              805 Va
+Zeng          0815 B64A779-8    Wa Aq              504 Ve
+Dhaen         0820 C342976-C  G Po In Hi           204 Vh

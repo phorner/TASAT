@@ -1,0 +1,27 @@
+@SUB-SECTOR:Aekhgal SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Thognu        0137 E543864-1    Po                 104 Vn F4 V               
+Goza          0237 C867557-4    Ag Ni              704 Vn F9 V               
+Ourrezuekh    0336 B568675-9    Ag Ni              717 Vn F9 V M3 D          
+Uekotoeaerrar 0338 E579425-4    Ni                 506 Vn G3 V M1 D           
+Sotonuklloerr 0436 C96877A-4  C Ag                 816 Vn F8 V M5 D           
+Sueknazaerrg  0437 E345400-8    Ni                 204 Vn F1 V M0 D           
+Kuerrughknoul 0438 A657566-A  G Ag Ni              820 Vn F0 V               
+Kfoenuerrgag  0440 B244500-B  H Ag Ni              205 Vn F1 V M6 D           
+Aghzouzknae   0534 E6958AC-2  C                    917 Vn F1 V M7 D F1 V       
+Ngavi         0633 E645430-4  C Ni                 620 Vn F7 V               
+Rollugz       0639 A525589-B    Ni                 900 Vn M3 V               
+Khusa         0640 D61477B-4  G Ic                 212 Vn F7 V               
+Kueoets       0736 E687977-7  C Hi In              513 Vn F2 V               
+Vedhaaez      0740 A622A77-B    Hi In Na Po        304 Vn G0 V M5 D           
+Kagaedzukh    0833 C354566-8    Ag Ni              604 Vn F3 V               
+Figorurzaz    0835 E878979-3  C Hi In              502 Vn F2 V M6 D           
+Kanae         0836 A210976-A    Hi Na              611 Vn F6 V               
+Kharorr       0839 EAA7000-0    Ba Fl Lo Ni        001 Vn M3 V               

@@ -1,0 +1,28 @@
+@SUB-SECTOR:Daekvagul SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aeltsigaez    2537 C8B6420-9    Fl Ni Lo           301 Vh
+Voukonaekhs   2538 B330336-A    De Po Ni Lo        713 Vh
+Knol          2539 D000100-8  C As Ni Lo           813 Vh
+Daekvagul     2540 A769AAA-D  G Hi                 802 Vh
+Okhsilo       2634 B673956-A  G In Hi              624 Va
+Angoer        2636 A8A3343-C    Fl Ni Lo           214 Vh
+Theksas       2638 C666986-7  C Hi                 904 Vh
+Anglorr       2640 C546877-7  C                    612 Vh
+Koezla        2737 C234304-9  C Ni Lo              201 Vh
+Gzong         2740 B698658-A    Ag Ni              323 Vh
+Vozoekeng     2832 C387842-A    Ri                 803 Va
+Garogag       2839 B7648DA-9                       701 Vh 
+Thuezou       2840 B66A755-B  G Aq Ri Cy           302 Vh
+Vugkaer       2939 CA8947C-5  C Ni                 605 Vh
+Gnoersuk      2940 B637620-9  G Ni                 604 Vh
+Eghgvun       3039 C7B5300-9  C Fl Ni Lo           902 Va
+Utsi          3139 C362558-8    Ni                 725 Va
+Aeson Sog     3140 C585436-7    Ni                 403 Va 
+Alang         3238 B896543-B    Ag Ni              624 Va

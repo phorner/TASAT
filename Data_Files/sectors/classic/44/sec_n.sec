@@ -1,0 +1,42 @@
+@SUB-SECTOR:Gvadhoe SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khaevaen      0936 X566576-1    Ag Ni           R  302 Vn F9 V M4 D           
+Kouz          0937 D130652-5    De Na Ni Po        423 Vn F9 V M8 D           
+Dhokholtha    0939 X12068D-0  C De Na Ni Po     R  415 Vn M0 V M8 V           
+Sallougakh    1034 E667431-7  C Ni                 214 Vn F3 V               
+Dhoriz        1035 A8A7444-A  G Fl Ni              214 Vn F9 I V K5 D          
+Ouksae        1038 B597220-6  G Lo Ni              925 Vn F3 V M7 D           
+Ughurz        1039 A849376-C  G Lo Ni              614 Vn G3 V               
+Foaenaekh     1040 E00066A-4    As Na Ni           601 Vn M3 V              
+Kuzoung       1133 E400872-4  C Na Va              325 Vn F9 D F3 D M6 D       
+Llaedon       1135 C65769A-7    Ag Ni              903 Vn K5 V               
+Khouksoudhoez 1136 DA8A776-6  C Wa                 603 Vn F9 V               
+Uoluedhgaeg   1139 A452868-C  G Po                 910 Vn M0 V M8 D           
+Vutseghafi    1140 E584435-5  C Ni                 702 Vn F1 V               
+Gnuefe        1234 C88959B-5    Ni                 304 Vn G8 V M0 D           
+Ogzonanong    1238 C7C475A-8  C Fl                 702 Vn M3 V M3 D           
+Niroenkfunoz  1331 A8A6210-7    Fl Lo Ni           313 Vn M0 V               
+Ekhaegz       1335 B201632-9  G Ic Na Ni Va        202 Vn M2 V M7 D          
+Vuenasu       1336 C501326-5    Ic Lo Ni Va        303 Vn M2 V M0 D           
+Saekhoell     1337 D463237-4  C Lo Ni              633 Vn F7 V               
+Allunsoeks    1432 A57857A-A    Ag Ni              104 Vn F9 V               
+Akezaenae     1435 A634443-E    Ni                 803 Vn M0 V               
+Ineon         1438 C494777-9    Ag                 703 Vn G3 V               
+Senguva       1440 A562514-9  G Ni                 603 Vn G3 V               
+Kfogthan      1536 E8C7431-2  C Fl Ni              601 Vn M4 V              
+Aefoung       1537 C410414-6    Ni                 102 Vn M3 V M2 V           
+Gvueo         1538 B2225AA-8    Ni Po              203 Vn M8 V M5 D           
+Ksoga         1539 B776674-5    Ag Ni              900 Vn M1 V              
+Aar           1631 C79957C-3    Ni                 903 Vn F4 V M3 D           
+Vaezoaerr     1632 C854675-2  C Ag Ni              109 Vn M4 V M0 D M2 D      
+Oego          1634 C565422-8  H Ni                 115 Vn F9 V               
+Khuoenknan    1635 C513751-6    Ic Na              508 Vn M8 V M4 D           
+Gvokfizoeks   1638 E564979-5  C Hi In              803 Vn F6 V               
+Llaegvoigz    1640 C767335-6    Lo Ni              201 Vn F7 V M3 D           

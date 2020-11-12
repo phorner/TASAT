@@ -1,0 +1,52 @@
+@SUB-SECTOR:Llaezgaen SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ngulruedukh   0101 B8A1552-C    Fl Ni              112 Vi
+Gzaerzserorgh 0102 A69A444-D    Wa Ni              701 Vi
+Thurraekh     0103 B8A1752-C  G Fl                 303 Vi
+Kuerrgoeng    0107 C788642-8    Ag Ni Ri           214 Ve
+Gaeksuergh    0108 C561698-7    Ri Ni              622 Ve
+Adzoeknogh    0109 B424224-A    Ni Lo              103 Ve
+Ang Aeth      0110 D444331-6  C Ni Lo              625 Ve
+Aellorr       0203 A7569A7-D  G Hi                 315 Vi
+Kunag         0204 B300745-D  G Va Na              212 Vi
+Kota          0205 A100954-E  G Va In Hi Na        411 Vi
+Ath Aghe      0210 B685633-A    Ag Ni              224 Ve
+Ae Uer        0302 B787523-C  G Ag Ni              913 Vi
+Vaggvuek      0303 B535230-B    Ni Lo              502 Vi
+Kath          0304 A110757-E  G Va Na              804 Vi
+Taktelugh     0305 A558675-B    Ag Ni              422 Vi
+Sa Thaen      0306 B68A574-C    Wa Aq Ni           113 Vi
+Llaes         0308 C76478C-6    Ag Ri              904 Ve
+Oghzourr      0309 C515337-9    Va Ic Ni Lo        824 Ve
+Urr Orr       0401 B558444-B    Ag Ni              724 Vi
+Ardhaer       0402 B233421-D    Po Ni              713 Vi
+Klur          0403 A310758-F  G Va Na              124 Vi
+Ouskathoerz   0406 A558625-E    Ag Ni              822 Vi
+Ranghou       0409 A44459C-B    Ag Ni              520 Ve
+Founeghen     0410 A381876-B  G                    304 Ve
+To Oukan      0502 A642744-C  G                    714 Vi
+Nurugholi     0507 B6346A9-C    Ni                 322 Vi
+Zekhghe       0508 A779336-D    Ni Lo              815 Vi
+Vo Dikh       0603 A244556-D    Ag Ni              322 Vi
+Llaegharrgh   0604 A666958-G  G Hi Cx              224 Vi
+Ung Uksa      0606 A686879-C  G                    523 Vi
+Khid          0608 E210212-B  C Va Ni Lo           714 Ve
+Urerknun      0701 C95A47A-7    Ni                 903 Ve
+Okhoe         0702 C5246A7-9  C Ni                 124 Ve
+Faarzgaen     0704 B0009EJ-E  G As In Hi Na Cx  A  414 Vj
+Vo Oeg        0705 B664AEJ-B  G Hi              A  204 Vj
+Inggvuenloek  0706 B64866J-7    Ag Ni O         A  234 Vj
+Vrraknog      0707 C6789EJ-9  G In Hi           A  604 Vj
+Ngekhong      0709 C7A4400-9  C Fl Ni              623 Ve
+Errokdzor     0710 C539220-B    Ni Lo              204 Ve
+Vungeketh     0801 B759777-A    Aq                 203 Ve
+Tughghorr     0805 B456AEJ-B  G Hi              A  223 Vj
+Rothksigho    0809 B88A67B-A    Wa Aq              101 Ve
+Alloghz       0810 D9C6522-9    Fl Ni              212 Ve

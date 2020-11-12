@@ -1,0 +1,46 @@
+@SUB-SECTOR:Grnouf SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dhuellzugza   1701 C755524-A    Ag Ni              321 Ve
+Odhrrigh      1703 B7B2411-C    Fl Ni              122 Ve
+Anur          1706 A5949BF-7    In Hi              513 Ve 
+Hoenguel      1707 B671532-B    Ni                 222 Ve
+Tsueghogrugllo1708 A996575-B  G Ag Ni              203 Ve
+Gzoerghaen    1709 B594689-B  G Ag Ni              524 Ve
+Oegninong     1802 A4259AA-C  G In Hi              101 Ve
+Kfaege        1804 B202633-A    Va Ic Ni Na        111 Ve
+Grnouf        1805 A86989A-C    Ri                 702 Ve
+Sastsuks      1806 A2447A7-C    Ag                 722 Ve
+Udhagaksuen   1810 B545333-A    Ni Lo              704 Ve
+Kfakfug       1904 A2008A7-C  G Va In Hi Na        911 Ve
+Kfeks         1905 B1006A8-C    Va Ni Na           525 Ve
+Gnerr         1906 A755659-C    Ag Ni              614 Ve
+Ueksouk       1907 B7C2976-C  G Fl In Hi           102 Ve
+Uengoz        1909 B356679-B    Ni                 304 Ve
+Zargvaetsr    2001 A76A7A7-C  G Wa Aq              112 Vl
+Kfaengzuen    2004 C212576-A    Ic Ni Lo           113 Ve
+Otsaerghuerr  2005 B88A522-C    Wa Ni Lo           203 Va
+Voukifaerrg   2006 B533745-B    Po                 605 Ve
+Aertsvad      2101 A49478B-B  G Ag                 705 Vl
+Oeghzvar      2102 A486876-C  G                    104 Vl
+Kfasaegerr    2107 A2239C9-D    Po In Hi           112 Ve
+Egzan         2108 A458977-C  G Hi                 202 Ve
+Uengva        2109 B481530-A    Ni                 702 Ve
+Daekhs        2206 B7A1422-B  C Fl Ni              213 Ve
+Saellok       2208 A597852-C  G                    804 Ve
+Zhorurn       2301 A884773-D  G Ag                 313 Vl
+Fraets-Vog    2302 A685755-E  G Ag Ri              203 Vl
+Arrunoer      2305 B496744-A    Ag                 704 Ve
+Geksoen       2306 B456656-B    Ag Ni              700 Ve
+Vaesan        2308 A5A1454-C    Fl Ni              203 Ve
+Koeldoun      2310 A400751-E  G Va Na              703 Ve
+Firgvaar      2401 A667987-E  G Hi                 214 Vl
+Lair          2402 A8859B9-F  G Hi Cx              213 Vl
+Foukakh       2405 B555779-A    Ag                 404 Ve
+Uk Olou       2410 B884650-C    Ag Ri Ni           411 Ve

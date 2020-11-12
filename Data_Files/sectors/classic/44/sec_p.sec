@@ -1,0 +1,50 @@
+@SUB-SECTOR:Kishadiku SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zorrueghiueng 2535 C568678-3    Ag Ni              404 V7 M3 V M1 D           
+Oeguekhs      2536 E423454-8    Ni Po              704 V7 M0 V M5 V           
+Thoei         2537 E758000-0    Ba Lo Ni           023 V7 K3 V M4 D           
+Siluerrror    2631 A7B2556-B    Fl Ni              604 V7 M1 V               
+Fadoe         2632 C645350-5  H Lo Ni              802 V7 F3 V M3 D           
+Llungthung    2634 C58637A-6    Lo Ni              713 V7 K6 V M2 D          
+Rozi          2637 D698976-7  C Hi In              820 V7 F8 V M3 D           
+Ghuezoldaedz  2638 B5A3876-7    Fl                 914 V7 F6 V M3 D           
+Ksuvou        2639 C523100-6  G Lo Ni Po           504 V7 M8 V M7 V           
+Feoug         2734 E524556-5    Ni                 900 V7 G2 V              
+Gzarikhs      2735 A787435-A  G Ni                 604 V7 G4 V               
+Thoendedz     2831 E576474-7    Ni                 723 V7 F5 V               
+Gvuekhluerar  2832 A7B2875-A    Fl                 308 V7 F9 V M2 D F2 V M7 D   
+Zukheze       2834 E240551-8  C De Ni Po           803 V7 F0 V               
+Kfanedzllou   2835 A5A2231-B  G Fl Lo Ni           701 V7 F7 V               
+Llogzun       2837 C444367-6    Lo Ni              914 V7 F0 V               
+Oneghkuth     2838 E79966A-7  C Ni                 803 V7 F0 V               
+Norgnaekurz   2840 D447512-7  G Ag Ni              103 V7 F8 V               
+Ksongrek      2931 B75A000-0  G Ba Lo Ni Wa        002 V7 M8 V M2 D           
+Ruengkul      2932 B8C2200-C  G Fl Lo Ni           210 V7 K3 V              
+Rugvuekafagh  2933 A525300-E  G Lo Ni              900 V7 M7 V M2 D           
+Rukfaengookh  2934 C667337-6  C Lo Ni              804 V7 F0 V               
+Khuekhor      2937 B362677-6    Ni                 225 V7 F6 V M0 D           
+Ghaesan       2940 C5558AA-6  H                    400 V7 M5 V               
+Gaegaevegha   3031 B7487B8-9  H Ag                 402 V7 F0 V               
+Gvuekoodhuen  3035 C7A4358-5  G Fl Lo Ni           102 V7 M4 V               
+Aeghokhu      3037 B120565-C  G De Ni Po           424 V7 G7 V               
+Thorrghgharz  3040 B570974-7  H De Hi In           924 V7 G3 V               
+Aerrlleghz    3131 C5578AB-3                       213 V7 F7 V               
+Zounguraae    3132 C768433-9    Ni                 103 V7 F9 V               
+Rriuekfu      3133 B300673-B  H Na Ni Va           900 V7 M5 V               
+Uun           3134 D642974-5    Hi In Po           813 V7 F4 V M6 D           
+Khoeknue      3135 C766254-5    Lo Ni              103 V7 K2 V M8 D           
+Kaeghzog      3136 E647210-3    Lo Ni              100 V7 F8 V M4 D           
+Rursurr       3139 C210100-7  G Lo Ni              504 V7 K9 V               
+Gnoutonlleghz 3140 B100000-0  G Ba Lo Ni Va        014 V7 F2 V               
+Ueaekhsaegz   3231 B474465-7  G Ni                 501 V7 F6 V              
+Dzuekorri     3232 E20047B-7  C Ni Va              300 V7 M8 V               
+Llagi         3233 B351677-8    Ni Po              107 V7 F9 V M6 D           
+Tsaekfuu      3238 B739A77-C    Hi In              700 V7 F5 V M4 V           
+Keko          3240 B210144-9    Lo Ni              702 V7 F9 V

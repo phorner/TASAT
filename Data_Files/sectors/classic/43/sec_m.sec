@@ -1,0 +1,37 @@
+@SUB-SECTOR:Lighoz SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dzaegkaek     0131 D322115-8    Ni Po Lo           321 Vf
+Uevoto        0132 B583779-A  G                    201 Vf
+Anthonkfoers  0137 C300423-9  C Va Ni              823 Vf
+Aenggvug      0140 B000489-B  G As                 213 Vf
+Kuronraer     0232 B556789-B  G Ag                 502 Vf
+Gingrue       0237 C50249A-9  C Va Ni              421 Vf
+Lloezoers     0238 BAC3312-B  G Fl Ni Lo           503 Vf
+Aeghzisung    0240 A200776-C    Va                 422 Vf
+Errkous       0331 C557242-6  C Ni Lo              105 Vf
+Lighoz        0335 A355976-C  C Hi                 702 Vf
+Dzirrsrue     0432 C9B3233-A  G Fl Ni Lo           903 Vf
+Ugzugu        0532 D773571-5    Ni                 424 Vf
+Kaghoekne     0533 C799333-9    Ni Lo              514 Vf
+Ug Kanek      0537 B66899E-9  C Hi                 823 Vh
+Aenloegin     0631 C374571-9    Ag Ni              114 Vf
+Thueni        0632 B474346-8  G Ni                 103 Vf
+Arerzthoe     0634 A565A76-B  G Hi                 503 Vh
+Uedtzon       0635 B434524-D    Ni                 701 Vh
+Kalongourr    0637 C78A977-A  C Wa Hi              923 Vh
+Okfaeng       0733 A75577B-A    Ag                 101 Vf
+Ongvoerrg     0735 B525670-B  G Ni                 904 Vh
+Irr Zouth     0736 B579678-A  G Aq Ni              703 Vh
+Toulingitsa   0737 B9A4332-B    Fl Ni              201 Vh
+Duethrang     0739 A788621-B    Ag Ni              604 Vh
+Kukhou        0740 B536555-B  G Ni                 603 Vh
+Kirg          0831 A98A733-D  G Wa Aq              622 Vf 
+Tarrthek      0837 C672676-A  H Ni                 812 Vh
+Orsaethvok    0838 B737405-C  G Ni                 123 Vh

@@ -1,0 +1,38 @@
+@SUB-SECTOR:Voenggaks SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Erulgoengarrg 1731 B65787A-9                       200 Vn F2 V               
+Soghzalghag   1732 D778A77-6  H Hi In              304 Vn F7 V               
+Zokfofaenkudh 1736 C100977-7  C Hi Na Va           505 Vn F5 V               
+Knekueoul     1738 E310748-6  C Na                 313 Vn F9 V               
+Roerragh      1831 E997888-0  C                    903 Vn F8 V M0 D           
+Zedzog        1832 B532554-7  C Ni Po              601 Vn M2 V               
+Afoe          1833 C200778-5  H Na Va              402 Vn M7 V               
+Vekodzraegh   1834 E322338-3    Lo Ni Po           806 Vn M2 V M2 D           
+Vougdzodz     1838 D879200-8    Lo Ni              713 Vn F7 V M6 D          
+Foakhsigzikhs 1840 A684366-6    Lo Ni              602 Vn F1 V               
+Gaeroezesu    1931 B3456BA-9  C Ag Ni              800 Vn F4 V               
+Okillodz      1932 A572430-7    Ni                 103 Vn G1 V               
+Rirzegh       1937 E457351-4  C Lo Ni              901 Vn M4 V               
+Sughaesouu    1938 B100669-C  G Na Ni Va           203 Vn K8 V               
+Nuegorek      2031 C9D5531-4    Fl Ni              703 V7 M7 V               
+Thangaedh     2034 E656110-3  C Lo Ni              924 V7 F3 V               
+Aggedhlloez   2038 C32079C-9  H De Na Po           713 Vn M5 V K9 D           
+Aghzorerroen  2040 C356430-7  H Ni                 700 Vn M1 V               
+Thoengoukhs   2134 A95A412-C  G Ni Wa              405 V7 F2 V M4 D           
+Sueighz       2140 C453452-8  C Ni Po              113 V7 K4 V               
+Thagvaguekhs  2231 D565300-5    Lo Ni              820 V7 F6 V M1 D           
+Aelgaloedzuen 2232 C687799-6    Ag Ri              516 V7 F5 V M2 D           
+Thoeo         2233 A351220-E    Lo Ni Po           316 V7 G8 V M5 D           
+Orag          2234 B322200-B  G Lo Ni Po           500 V7 K3 V               
+Okueallnurr   2335 A300777-B  G Na Va              902 V7 M6 V M4 V M5 V       
+Aegenokh      2336 A786899-8  G Ri                 400 V7 F8 V M7 D           
+Soeoukae      2337 B427477-8  G Ni                 232 V7 M0 V M4 D           
+Voeong        2434 E67457A-5  C Ag Ni              200 V7 K9 V               
+Knazoe        2435 A747430-8    Ni                 100 V7 F9 V                

@@ -1,0 +1,41 @@
+@SUB-SECTOR:Dzarrvaer SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Thagaers      0127 B453879-A                       923 Vf
+Ghourknodz    0130 B79A400-B    Wa Ni              901 Vf
+Llaedkher     0222 C546320-6    Ni Lo              615 Vf
+Dzarrvaer     0225 A766A74-F  G Cx Hi              203 Vf
+Ghourrgadz    0227 A256844-E  G                    303 Vf
+Oetsorkeda    0230 C9B7321-B  C Fl Ni Lo           314 Vf
+Rrukagae      0321 C529220-A  C Ni Lo              914 Vf
+Oth Uegaen    0325 B688542-A    Ag                 913 Vf
+Ughtuerz      0328 C759126-B  C Ni Lo              601 Vf
+Gvousaegh     0329 CA98321-6    Ni Lo              623 Vf
+Knunguegaegn  0421 B3449CD-A  G In Hi              101 Vf 
+Knokseng      0422 A7859A8-D  G Hi                 502 Vf
+Lugh          0423 BA8A475-A  C Wa Ni              412 Vf
+Turz          0427 B544720-C  G Ag                 523 Vf
+Tuerrg        0428 A575A77-F  G In Hi              114 Vf
+Aezorr        0430 A354979-C    Hi                 612 Vf
+Anakae        0523 C66A520-A    Wa Ni              725 Vf
+Oksruenvae    0526 C654442-7  C Ni                 704 Vf
+Gnerang       0527 B897978-A  G In Hi              802 Vf
+Thezroendzang 0624 A544688-8    Ag Ni              814 Vf
+Kas           0627 B000322-C    As Ni              514 Vf
+Ungokhton     0628 A571620-9    Ni                 100 Vf
+Kvae          0629 C100121-9  C Va Ni              304 Vf
+Fakor         0723 A465734-E  G Ag                 201 Vh
+Darz          0728 A654973-D  G Hi                 822 Vf
+Rruefaez      0729 B75A100-A  C Wa Ni Lo           902 Vf
+Khsa          0822 C121956-C  G Po In Na           404 Vh
+Kouk          0823 C210567-7  G Va Ni              612 Vh
+Knoekhs       0826 B224255-A    Ni Lo              804 Vh
+Aruekhoe      0828 C676754-8    Ag                 303 Vf
+Dhoenggo      0829 C678896-5                       804 Vf
+Kvoen         0830 C111101-D    Va Ic Ni Lo        711 Vf

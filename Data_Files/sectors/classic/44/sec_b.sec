@@ -1,0 +1,26 @@
+@SUB-SECTOR:Khonsu  SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gholirrkekugh 0901 A85A45A-C  H Ni Wa              203 Ve F8 V M7 D           
+Oekheteueng   0902 B7B0631-A    De Ni              604 Ve M4 V M3 D           
+Khaekhag      0903 C252553-7  G Ni Po              512 Ve F1 V               
+Ksaezong      0909 C776874-5  C                    103 Ve F0 V M4 D           
+Eukure        0910 C535578-9    Ni                 406 Ve M3 V M5 D           
+Ukhsunkhukong 1001 AAA4767-8  G Fl                 211 Ve M0 V               
+Touksousu     1002 D345666-5  C Ag Ni              301 Ve F2 V               
+Ksoekakforr   1004 D30097B-6    Hi Na Va           104 Ve F0 D               
+Dindhung      1008 D65587A-4  C                    700 Ve F6 V               
+Voagour       1009 B200644-B    Na Ni Va           213 Ve G4 V               
+Ngaengoedz    1106 B679776-A                       705 Ve F1 V               
+Uethknal      1109 E334512-4  C Ni                 400 Ve M0 V               
+Aeghukhs      1202 X648540-2    Ag Ni           R  504 Ve M4 V M1 D           
+Ouksu         1203 C7A1222-6  H Fl Lo Ni           503 Ve G1 V M4 D           
+Rrazoghkhaega 1301 A341110-C  G Lo Ni Po           811 Ve F3 V               
+Fursoekhurs   1305 C150430-7  G De Ni Po           724 Ve G5 V               
+Gouueurr      1410 E647222-6  C Lo Ni              422 Va F1 V               

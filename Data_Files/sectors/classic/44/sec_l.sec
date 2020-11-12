@@ -1,0 +1,33 @@
+@SUB-SECTOR:Sunggoe SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gvoezonakh    2530 C879735-9  H                    201 V7 F3 V M0 D           
+Uaesu         2625 B211898-7    Ic Na              500 V7 F0 V               
+Kaeidz        2627 E443355-5  C Lo Ni Po           104 V7 F0 V               
+Uangi         2629 A744457-D  G Ni                 104 V7 F8 V               
+Llueagharlaeg 2630 C759445-8    Ni                 810 V7 M8 V               
+Votelthag     2722 E240348-4  C De Lo Ni Po        622 V7 F1 V               
+Saetunuen     2821 C220656-8  G De Na Ni Po        100 V7 K3 V               
+Aengkhekkuerr 2822 C311557-9  G Ic Ni              300 V7 M2 V               
+Akha          2825 B410885-9    Na                 613 V7 G1 V              
+Arrgksaers    2826 C666689-2  G Ag Ni              925 V7 F2 V               
+Zasaeksogaeg  2921 C556434-4  C Ni                 103 V7 F0 V               
+Gvurrurrg     2926 C5A3876-4  C Fl                 500 V7 F9 V M7 D           
+Gzenughodh    2927 E797779-3    Ag                 412 V7 F7 V               
+Knueavilighz  3023 D8B6978-7  C Fl Hi In           60A V7 M5 V M4 D           
+Ksisaekazgou  3025 D884562-3    Ag Ni              914 V7 K3 V               
+Etsiang       3026 B352878-A  G Po                 210 V7 F1 V M4 D           
+Aedzi         3030 C140233-A  H De Lo Ni Po        402 V7 F0 V               
+Knagzourrg    3122 A59588B-8  G                    301 V7 F5 V               
+Oeangekngag   3123 C310661-5  G Na Ni              502 V7 M5 V K5 V          
+Taelaek       3222 B542463-8    Ni Po              201 V7 F0 V               
+Vanezokhs     3223 C500312-6  H Lo Ni Va           715 V7 M1 V               
+Nollae        3224 C544558-9  G Ag Ni              900 V7 M6 V               
+Naeghutsghok  3225 A523215-8  G Lo Ni Po           602 V7 M1 V               
+Oerdirrgh     3230 C77658B-3  H Ag Ni              613 V7 F2 V               

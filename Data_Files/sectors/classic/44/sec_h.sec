@@ -1,0 +1,23 @@
+@SUB-SECTOR:Tsougak SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lliaen        2519 CAA8784-7    Fl                 414 Va K9 V               
+Aedzko        2611 C110230-B  C Lo Ni              525 Va G5 V M8 D           
+Izoeghzgu     2815 B233344-D    Lo Ni Po           220 Va K8 V               
+Khokorrghoer  2919 B796210-8  G Lo Ni              502 V7 F6 V              
+Kagha         3013 B461434-A  G Ni                 301 V7 F3 V M4 D           
+Knukhsang     3017 B410320-A  G Lo Ni              404 V7 M2 V               
+Vaerrgkhir    3020 C976653-6  G Ag Ni              703 V7 F5 V               
+Goang         3115 C6758A9-6  G                    510 V7 F7 V              
+Dungghurr     3116 C000567-9    As Ni              703 V7 K7 V               
+Khoodukhsoung 3117 A987778-7  G Ag                 718 V7 F0 V M1 D F0 V       
+Vokhson       3119 B886AB9-B  G Hi In              100 V7 F2 V               
+Thanaezfus    3120 E435648-2  C Ni                 504 V7 M3 V               
+Uuergaetsze   3217 D676788-0    Ag                 317 V7 F4 V M0 D           
+Onuekhs       3218 C546757-5  G Ag                 402 V7 K2 V               

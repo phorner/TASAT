@@ -1,0 +1,42 @@
+@SUB-SECTOR:Vorvoun SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aktsthungso   0901 B88A753-D  G Wa Aq Ri           922 Ve
+Ghaez-Larrgh  0903 B58466J-8    Ag Ni           A  204 Vj
+Aedzuedza     0904 B32436J-B    Ni Lo              823 Vj
+Doughaerr     0906 DAA956J-7    Fl Ni              322 Vj
+Kuzllonge     0908 C346473-9  C Ni                 604 Ve
+Kugh          1002 B000674-B    As Va Ni Na        222 Ve
+Aelues        1003 C453975-A    Hi                 922 Ve
+Vuegva        1008 B556443-B    Ni                 803 Ve
+Viksougu      1009 C547100-7  C Ni Lo              914 Ve
+Edhsaza       1103 B787347-A    Ni Lo              713 Ve
+Aekaedho      1106 B997978-B  G In Hi              303 Ve
+Eg Orrou      1108 C500300-7  C Va Ni Lo           903 Ve
+Aersathun     1110 B543876-9                       101 Ve
+Adhkfurral    1201 CAD4225-8  C Ni Lo              201 Ve
+Kerro         1204 A000847-D  G As Va Ni Lo        313 Ve
+Un Gzang      1205 B9B8367-A    Fl Ni Lo           703 Ve
+Sondhuen      1208 B794622-B    Ag Ni              334 Ve
+Daethrrorrg   1209 B473579-A    Ni                 602 Ve
+Guekouzaeks   1301 D372200-7    Ni Lo              301 Ve
+Llonknarrluts 1302 B350479-B    De Ni              201 Ve
+Knak          1304 A3009A9-D  G Va In Hi Na        914 Ve
+Gaengael      1306 B544874-A  G                    433 Ve
+Farrurgneng   1403 B544652-B    Ag Ni              725 Ve
+Uengngil      1404 B575456-C  G Ni                 803 Ve
+Ksarthangtsout1405 B78A49B-A  G Wa Aq Ni           704 Ve
+Kathae        1410 B221136-A    Po Ni Lo           322 Ve
+Vorvoun       1505 A7789A5-F  G In Hi Cp           503 Ve
+Oungrroll     1507 B8A4552-C    Fl Ni              611 Ve
+Dhoradhue     1509 C576556-9  G Ag Ni              204 Ve
+Zaeghaego     1601 B753758-A                       403 Ve
+Dhurrg        1602 B863777-9                       503 Ve
+Kaengku       1605 A368757-D  G Ag Ri              103 Ve
+Dholgva       1608 B470205-9    De Ni Lo           403 Ve

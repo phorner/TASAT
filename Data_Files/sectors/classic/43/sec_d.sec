@@ -1,0 +1,20 @@
+@SUB-SECTOR:Tsaegag SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khvhaergvaetso2501 A346733-E  G Ag                 204 Vl 
+Ugouksnge     2509 B645541-A    Ag Ni              113 Ve
+Okhdzueg      2603 C886653-A    Ag Ri Ni           615 Ve
+Tsaegag       2604 A556879-D  G                    414 Ve
+Oekh Dal      2706 C573979-A    In Hi              822 Ve
+Gvoghaellthoe 2810 B334555-C  G Ni                 602 Ve
+Kugk          2903 C200101-9  C Va Ni Lo           502 Ve
+Khok Ae       3003 B203532-B    Va Ic Ni           222 Ve
+Larrothaegan  3101 B557336-A    Ni Lo              803 Ve
+Uedh Kal      3108 B310314-D    Va Ni Rs Lo        104 Ve
+Gzorrksaerr   3201 A788787-C  G Ag Ri              614 Ve

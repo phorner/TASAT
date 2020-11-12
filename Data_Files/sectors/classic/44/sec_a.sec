@@ -1,0 +1,36 @@
+@SUB-SECTOR:Dakoeng SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dognezafue    0104 E989585-2  C Ni                 403 Ve F7 V M6 D          
+Dzoulodzzueng 0202 B255774-B  G Ag                 913 Ve F9 V M8 D           
+Lliurr        0204 EAE49C9-2    Fl Hi In           514 Ve F4 V               
+Ghoearrg      0206 D000257-A    As Lo Ni           607 Ve G3 V M7 D M1 D       
+Oganaksfouts  0207 B797366-8  G Lo Ni              904 Ve F1 V               
+Knoengrugh    0302 D88A875-1    Wa                 512 Ve G7 V M6 D M4 D       
+Knoerorr      0310 A210400-D  H Ni                 816 Ve M5 V M2 D           
+Genfoghudzuks 0402 B56667A-5    Ag Ni              900 Ve F4 V               
+Koeguksue     0403 E469574-7    Ni                 905 Ve G7 V               
+Luaenak       0407 CA9A622-6  H Ni Wa              916 Ve F1 V M3 D           
+Ksuthakhful   0501 C787400-5  C Ni                 102 Ve F9 V M1 D           
+Goeghfoedh    0502 A8C7510-D  G Fl Ni              502 Ve M3 V               
+Kanagheg      0506 C235421-6    Ni                 312 Ve G0 V               
+Gakhguekhs    0510 A222877-B  G Na Po              204 Ve F9 V G9 D M4 D       
+Zuzukhgzuen   0605 B68948A-7    Ni                 815 Ve F1 V M4 D           
+Gokal         0606 E598778-0    Ag                 605 Ve F0 V M3 D           
+Gvaefarr      0608 D311687-2  G Ic Na Ni           904 Ve K9 V               
+Laekhue       0609 B64658B-5    Ag Ni              613 Ve K5 V              
+Aengzothokh   0610 E000752-8    As Na              505 Ve M6 V M2 D           
+Kaguerran     0702 A100873-B    Na Va              803 Ve F6 V M4 D           
+Suerrghuk     0704 C674866-6  C                    614 Ve F3 V               
+Kfaziaeng     0705 E413778-7  C Ic Na              104 Ve M2 V               
+Orengsung     0710 B646976-8    Hi In              922 Ve F8 V M3 D          
+Thousarllorr  0802 C789775-9  G                    810 Ve F6 V               
+Llakuerr      0804 A343123-C  G Lo Ni Po           624 Ve F1 V               
+Nounraeltors  0807 D100330-5  C Lo Ni Va           411 Ve G5 V               
+Defasul       0809 C8A1000-0  G Ba Fl Lo Ni        003 Ve G0 V               

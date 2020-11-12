@@ -1,0 +1,31 @@
+@SUB-SECTOR:Aenkuk SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ous Foroe     0921 C88A455-C  C Wa Ni              601 Vh
+Kaegh         0923 B100975-B  H Va In Hi           913 Vh
+Ukhsarsoeghe  0924 CA6A743-B  G Wa Aq              423 Vh
+Oengdaksuvue  0926 C739434-7  C Ni                 424 Vh
+Tuegu         1028 B563A79-A  G Hi                 204 Vh
+Okhaeg        1122 B433343-D    Po Ni Lo           402 Vh
+Fueghz        1126 D222100-7  C Po Ni Lo           911 Vh
+Nokoegz       1224 C469979-7    Hi                 603 Vh
+Llokhaegueg   1226 C676675-8    Ni                 404 Vh
+Angaergh      1227 B8897C8-B    Aq                 201 Vh
+Okfuegh       1229 A7B4357-B    Ni Lo              214 Vh
+Kuz           1322 D000677-9  C As Ni              411 Vh
+Aenkuk        1328 A674A74-F  G Cp Hi In           213 Vh
+Suerz         1421 B648321-A    Ni Lo              424 Vh
+Killagthoghz  1422 C304774-9    Va Ic              904 Vh
+Nurrok        1424 B251436-9    Po Ni              914 Vh
+Klag          1427 A130420-D  G De Po Ni           213 Vh
+Agkuz         1428 A130420-D  G De Po Ni           213 Vh
+Foedargh      1522 C8739DF-5    In Hi           A  805 Vh 
+Ezksog        1525 B449577-B  G Aq Ni              923 Vh
+Uznukhozots   1527 C796344-9    Ni Lo              422 Vh
+Naetsarraluz  1629 A497A77-D  G In Hi              224 Vh

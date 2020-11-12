@@ -1,0 +1,32 @@
+@SUB-SECTOR:Voudzeur SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oruzoefu      0931 A562663-B  G Ri Ni              503 Vh 
+Sughanduerr   0935 A765975-C  G Hi                 601 Vh
+Okfae         0937 B753553-B    Ni                 304 Vh
+Khuekhsgor    0939 C511466-7    Ni Lo              522 Vh
+Voudzeur      1039 A88AA74-F  G Hi                 111 Vh
+Aerragvull    1040 A737465-A    Ni Lo              104 Vg
+Gnethogh      1132 B242575-B    Ni Po Lo           111 Vh
+Oerrg         1140 B837221-A    Ni Lo              202 Vg
+Urueng        1233 B768434-7    Ni Lo              401 Vh
+Oez Uekhae    1236 C232556-D  G Ni                 121 Vh
+Orgukung      1237 C420100-8  C De Ni Lo           724 Vh
+Thoelksor     1331 B343745-9                       804 Vh
+Aengksegz     1332 C627200-7  C Ni Lo              113 Vh
+Gastsukhaksi  1337 B353533-D    Ni                 804 Vh
+Igunfaksa     1431 A6679A6-D  G In Hi Cx           214 Vh 
+Thigha        1432 C87A55A-8  C Wa Ni              614 Vh
+Kfueghoeror   1433 B59338B-5    Ni Lo              113 Vh
+Knaerghgvou   1434 B77A775-A  G Wa Aq              411 Vh
+Gaghkuelek    1439 B2527A9-A  C                    211 Vg
+Gherrg        1440 A655974-A  G Hi                 502 Vg
+Ue Rrava      1533 C200310-C  C Va Ni Lo           701 Vh
+Ksousuek      1540 B459679-8    Aq Ni              723 Vg
+Ouraesothk    1637 C768676-5    Ag Ni              923 Vg

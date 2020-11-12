@@ -1,0 +1,19 @@
+@SUB-SECTOR:Nanthou SECTOR:Windhorn
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kfoghuenggzu  0111 C454799-4    Ag                 303 Ve F1 V M2 D           
+Seos          0113 B476685-5    Ag Ni              213 Ve F9 V M8 D M3 D      
+Dharukeksoue  0211 C200A79-9    Hi Na Va           505 Ve K0 V               
+Zidzurz       0411 B120778-9  G De Na Po           402 Ve K0 V               
+Gzoengsuerr   0413 X371532-2    Ni              R  511 Ve G7 V               
+Gaedueng      0414 B9AA356-F  H Fl Lo Ni Wa        402 Ve M5 III             
+Idzaae        0513 C400432-6    Ni Va              117 Ve M8 V M5 D           
+Zakhlluekh    0611 B302200-8    Ic Lo Ni Va        610 Ve M3 V               
+Voerzuerrg    0712 C543224-8    Lo Ni Po           600 Ve F2 V               
+Ouluedzuezor  0816 A425624-C    Ni                 302 Va M3 V               

@@ -1,0 +1,30 @@
+@SUB-SECTOR:Uekhourg SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khungorr      1731 A989778-D  G Aq                 603 Vg
+Gangoulaerr   1732 BA8A557-C  G Wa Aq Ni           822 Vg
+Kfuega        1735 C434420-9    Ni Lo              101 Vg
+Ruegvoerr     1738 C782689-7    Ri Ni              712 Vg
+Urregzang     1834 B134255-C    Ni Lo              101 Vg
+Taarskoerzn   1835 A8889AB-C  G Hi Cx              502 Vg 
+Khgouk        1836 B56277A-9  C                    303 Vg 
+Khvusu        1933 B659720-A    Aq                 902 Vg
+Ang Vueng     1936 B355489-8  C Ni Lo              712 Vh
+Koen          2034 C000325-8  C As Ni Lo           311 Vg
+Kuegh Dan     2036 B8B0333-A    Ni Lo              124 Vh
+Tsaerzouth    2037 D7968BD-5  C                    214 Vh
+Uedzodhaeg    2131 B5447BB-7    Ag                 822 Va 
+Aknae         2135 C223543-B  C Ni Po              604 Vg
+Kughoelvor    2139 A657978-C  G Hi                 503 Vh
+Arrgarrg      2236 C581677-8    Ni                 402 Vh
+Arr Laen      2240 B7969AC-A  H In Hi              724 Vh
+Gvalur        2332 C656226-9    Ni Lo              303 Va
+On Uenlang    2337 B546777-9    Ag                 603 Vh
+Aerraekoukh   2339 A868553-C  G Ag Ni              604 Vh
+Uekhourg      2437 A677A74-D  G In Hi              723 Vh

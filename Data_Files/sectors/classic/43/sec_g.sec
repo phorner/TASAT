@@ -1,0 +1,16 @@
+@SUB-SECTOR:Gveghz SECTOR:Provence
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Koudzhsakhgo  1711 B648677-9    Ag Ni              704 Ve
+Aeghvoekogz   1712 A564875-C    Ri                 721 Ve
+Ongrro        1920 A787676-B  G Ag Ni              203 Va
+Togikhtsurzall2116 C645523-A    Ag Ni              612 Va
+Kfaenggzon    2211 B330576-A    De Po Ni           905 Ve
+Gegllurirse   2220 C586674-9    Ag Ni              113 Va
+Farr          2319 C798778-9    Ag                 813 Va
