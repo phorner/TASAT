@@ -1,0 +1,61 @@
+@SUB-SECTOR:Daangiilu SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0934 0831 -1 0
+$1332 0834 -1 0
+$0934 1136 0 0
+$1332 1530 0 -1
+$1136 1339 0 0
+$1339 1202 0 1
+$1136 1235 0 0
+$1235 1533 0 0
+$1533 1530 0 -1
+$1533 1735 1 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arluk         0933 C41198B-E    Hi Na In Ic        613 Im M4 V
+              0934 A20348D-F    Ni Va Ic           401 Im M5 V G5 VI
+              0938 C360342-B    Lo Ni De           224 Im M0 V K7 III
+              0939 D76A55A-9    Ni Wa              102 Im G8 V
+              1032 D432566-9  S Ni Po              823 Im A6 V K2 V
+              1033 C200266-8  S Lo Ni Va           820 Im G7 V F8 V
+Isle          1038 E68AA87-A    Hi Wa              901 Im M9 V K0 VI
+              1131 B537662-D    Ni                 422 Im F8 V
+              1134 B8C3466-A    Ni Fl              923 Im M1 V
+              1135 C4657CD-A  S Ag                 822 Im M9 V F5 D
+              1136 A565444-F    Ni Cp              703 Im G2 V M4 D
+              1137 E36446A-8    Ni                 314 Im K1 V
+              1138 C1307A8-8  S Na Po De           401 Im M1 VI M0 V
+              1139 B253759-C    Po                 412 Im M4 V
+              1140 C675666-5    Ag Ni              201 Im M3 V K5 D
+              1232 C885566-A    Ag Ni              620 Im A9 V
+              1235 B333562-C  S Ni Po              701 Im M7 V F6 V
+              1236 C35178B-9    Po                 610 Im F1 V
+              1237 C755401-8    Ni                 620 Im A0 V
+              1238 D000323-8    Lo Ni As           411 Im K1 V
+              1240 E200200-C    Lo Ni Va           120 Im M0 V
+              1332 A55487B-B  N C6                 501 Im K0 V M3 D
+Lukham        1334 A464ABE-G    Hi                 602 Im F1 D K6 D
+              1336 E140423-8    Ni Po De           111 Im F8 V K3 VI
+              1337 C5116BD-8    Na Ni Ic           504 Im F5 V M5 V
+              1339 A100362-F    Lo Ni Va           924 Im M5 D
+              1340 E614310-A    Lo Ni Ic           902 Im M0 V
+              1431 C558532-9    Ag Ni              410 Im M8 V M1 D
+              1432 C330588-D  S Ni Po De           110 Im M4 II
+              1435 C401400-B    Ni Va Ic           102 Im M5 V
+              1437 A797799-C  N Ag                 522 Im G0 V
+              1438 A896511-F    Ag Ni              301 Im K4 V M5 VI
+              1531 C322462-9  S Ni Po              910 Im M0 V
+              1533 A100410-F    Ni Va              901 Im M1 V M8 VI
+              1534 D510100-A    Lo Ni              623 Im M3 V G6 D
+              1535 C326841-9                       620 Im K0 V
+              1536 C000400-D  S Ni As              320 Im M6 V
+              1539 B95A000-A    Lo Ni Wa Ba        812 Im M5 V F6 V G6 V
+              1540 B330689-A    Na Ni Po De        413 Im M2 V
+              1632 E240100-B    Lo Ni Po De        810 Im M5 V
+              1633 B42058B-E  S Ni Po De           910 Im M9 V K0 VI
+              1634 E756446-4    Ni                 413 Im G6 V G0 D
+              1637 D451222-7    Lo Ni Po           501 Im M1 V
+              1638 C353433-C    Ni Po              120 Im M2 II G8 D M8 D

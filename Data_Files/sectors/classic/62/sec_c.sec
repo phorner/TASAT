@@ -1,0 +1,59 @@
+@SUB-SECTOR:Anarsi  SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1709 1509 -1 0
+$1709 1909 0 0
+$1909 2111 0 1
+$2409 2111 0 1
+$2409 2308 0 0
+$2308 2205 0 0
+$2308 2605 1 0
+$2409 2503 1 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1701 B624697-9    Ni                 710 Na M5 V
+              1703 C210000-9    Lo Ni Ba           901 Na F7 V M0 D
+              1704 D224142-4    Lo Ni              120 Cs F1 V
+              1705 C7C07A8-B    De                 402 Im G8 V
+              1708 C7B2000-B  S Lo Ni Fl Ba            Im
+              1709 B541389-A    Lo Ni Po               Im
+              1710 B884436-8  A Ni                     Im
+              1801 C567669-8    Ag Ni Ri               Cs
+              1802 B545235-7    Lo Ni                  Va
+              1803 C645576-8    Ag Ni                  Cs
+              1804 B14089E-7  N Po De                  Cs
+              1807 C999421-9  S Ni                     Im
+              1810 D360100-B  S Lo Ni De               Im
+              1901 C560558-A  C Ni De                  Va
+Gemid         1903 A423979-G  N Hi Na In Po            Cs
+              1904 B576438-9    Ni                     Na
+              1906 D9C5333-5  S Lo Ni Fl               Im
+              1907 B423333-B    Lo Ni Po               Im
+              1909 A300211-E    Lo Ni Va           120 Im M2 III  F7 IV
+              2005 C536488-B  S Ni                     Im
+              2006 C552595-A    Ni Po                  Im
+              2007 C898662-9  S Ag Ni                  Im
+Morimur       2008 C450AAE-B    Hi Po De               Im
+              2101 C000234-8    Lo Ni As               Cs
+              2103 A000546-E    Ni As                  Cs
+              2105 C9A57A6-9  S Fl                     Im
+              2106 DAB3023-9    Lo Ni Fl               Im
+              2107 C778878-5  S                 A      Im
+              2203 C657510-7  C Ag Ni                  Va
+Anarsi        2205 B7479EA-E    Hi In                  Im
+              2208 E546853-7                           Im
+              2210 E737725-7                           Im
+              2301 B4317A6-A    Na Po                  Cs
+              2306 C64A6AA-B    Ni Wa                  Im
+              2308 B210212-C  N Lo Ni                  Im
+              2309 C150650-D    Ni Po De               Im
+              2310 B510683-C    Na Ni                  Im
+              2402 B559253-D    Lo Ni                  Va
+              2406 C5468CB-8                           Im
+              2407 E200265-9    Lo Ni Va               Im
+Shabii        2408 B854010-A    Lo Ni                  Im
+              2409 A44467B-B  A Ag Ni                  Im
+              2410 C338235-9  S Lo Ni                  Im

@@ -1,0 +1,40 @@
+@SUB-SECTOR:Theton  SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2605 2308 -1 0
+$2605 2806 0 0
+$2806 3107 0 0
+$3107 0309 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2501 B623520-9  C Ni Po                  Va
+              2502 B413534-B  N Ni Ic                  Cs
+              2507 D556402-A    Ni                     Im
+              2508 E42558C-6    Ni                     Im
+              2602 C456230-A    Lo Ni                  Na
+              2603 B100857-9    Na Va                  Cs
+              2604 C300877-7    Na Va                  Va
+              2605 B130264-F    Lo Ni Po De            Im
+              2610 E57167B-6    Ni                     Im
+              2804 B989642-6    Ni Ri                  Va
+              2806 B581212-B  N Lo Ni                  Im
+Spinport      2808 D575984-A  S Hi In                  Im
+              2905 D453253-7    Lo Ni Po               Im
+              2907 C878401-B  S Ni                     Im
+              2909 D344200-9  S Lo Ni                  Im
+              3002 D32788D-7  C                        Va
+              3003 E9A95AC-8  C Ni Fl                  Va
+              3004 A511375-A    Lo Ni Ic               Na
+              3006 B310456-D    Ni              A      Im
+              3008 D320652-A  S Na Ni Po De            Im
+Arga          3106 C300999-E  S Hi Na In Va            Im
+              3107 BABA663-B  N Ni Fl Wa Cp        510 Im M0 V  K1 VI
+              3201 C676532-9  C Ag Ni                  Va
+              3202 D665887-4    Ri                     Va
+              3206 D8AA235-7    Lo Ni Fl Wa        620 Im M0 V
+              3208 D236554-B    Ni                 433 Im K6 III
+              3209 E684424-9    Ni                     Im
+              3210 E225300-B    Lo Ni                  Im

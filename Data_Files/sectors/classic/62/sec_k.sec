@@ -1,0 +1,63 @@
+@SUB-SECTOR:Kasear SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1822 1520 -1 -1
+$1822 1625 -1 0
+$1825 1820 0 -1
+$1825 2225 0 0
+$1825 1928 0 0
+$2225 2426 0 0
+$2426 2728 1 0
+$2227 2225 0 0
+$2227 1928 0 0
+$2227 2329 0 0
+$1928 1930 0 0
+$1930 2132 0 1
+$2329 2531 1 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1722 D454256-9    Lo Ni                  Im
+              1725 B799667-D  W Ni                     Im
+              1726 E553551-A    Ni Po                  Im
+              1728 B698100-9  N Lo Ni                  Im
+              1729 E110654-B    Na Ni                  Im
+              1730 B6747AA-B  S Ag                     Im
+              1821 B33449A-F    Ni                     Im
+Kasear        1822 A5479AE-F    Hi In Cp           220 Im M2 V  G5 D
+Karfir        1825 A753A66-F    Hi Po                  Im
+              1830 C9B8332-A    Lo Ni Fl               Im
+Sagida        1923 C223965-E  S Hi Na In Po            Im
+              1928 B420100-C  N Lo Ni Po De            Im
+              1929 B404474-F    Ni Va Ic               Im
+              1930 A878554-B  A Ag Ni                  Im
+              2022 D100442-8  S Ni Va                  Im
+              2023 B88A140-A    Lo Ni Wa               Im
+              2027 B775699-7  S C6 Ag Ni               Im
+              2029 B512100-F  A Lo Ni Ic               Im
+              2030 B9CA65A-C    Ni Fl Wa               Im
+              2122 B440510-A  S Ni Po De               Im
+              2123 C5A4634-9    Ni Fl                  Im
+              2124 A472668-A  N Ni                     Im
+              2125 E799687-6    Ni                     Im
+              2126 B478697-D  N Ag Ni                  Im
+              2129 D000788-9  S Na As                  Im
+              2221 B5AA000-E  N Lo Ni Fl Wa Ba         Im
+              2222 E7787CA-3    Ag                     Im
+              2223 D76A226-A  S Lo Ni Wa               Im
+Iamone        2225 C110A9A-F  S Hi Na In               Im
+              2227 A536585-F    Ni                     Im
+              2229 D2027BB-A  S Na Va Ic               Im
+              2321 C432476-9    Ni Po                  Im
+              2322 C775861-7  S                        Im
+              2323 E353431-A    Ni Po                  Im
+              2324 D332451-A    Ni Po                  Im
+              2325 E310224-A    Lo Ni                  Im
+Fharnas       2328 D8A8A97-A  S Hi Fl                  Im
+              2329 B400554-F    Ni Va                  Im
+              2330 C000311-C    Lo Ni As               Im
+Martle        2425 C14099B-E  S Hi In Po De            Im
+              2426 A000302-F    Lo Ni As               Im
+              2429 E120478-7    Ni Po De               Im

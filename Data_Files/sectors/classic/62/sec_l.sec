@@ -1,0 +1,55 @@
+@SUB-SECTOR:Anakod  SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2728 2426 -1 0
+$2728 2931 0 1
+$2728 2926 0 0
+$2926 3224 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2524 B160302-D    Lo Ni De               Im
+              2526 E464100-B    Lo Ni           A      Im
+              2527 E421656-8    Na Ni Po               Im
+              2528 C202225-A  S Lo Ni Va Ic            Im
+Thaggesh      2530 B6667A8-A    Ag                     Im
+              2621 C683697-7  S Ni Ri                  Im
+              2624 C6837AB-9  S                        Im
+              2627 D594547-4  S Ag Ni                  Im
+              2628 C8B3786-9    Fl                     Im
+              2629 D8A8898-6  S Fl                     Im
+              2721 B774434-C  N Ni                     Im
+              2723 D76378B-7  S Ri                     Im
+              2725 B00037C-B  N Lo Ni As               Im
+              2728 A594677-9  D Ag Ni                  Im
+              2823 C536534-8    Ni                     Im
+Jana          2824 C300963-E  S Hi Na In Va            Im
+              2825 D324246-9  S Lo Ni                  Im
+              2826 E475326-8    D0 Lo Ni               Im
+Hannipur      2827 E100979-D    Hi Na In Va            Im
+              2829 A5778B6-B  N                        Im
+              2830 E447455-B    Ni                     Im
+              2921 CAD7565-8    Ni Fl                  Im
+              2923 C471116-7  S Lo Ni                  Im
+              2925 B230424-C  N Ni Po De           820 Im M4 V
+              2926 A9C0688-E  S Ni De              520 Im K9 V
+              3021 B4106A8-9  S C3 Na Ni               Im
+              3022 B9CA313-F    Lo Ni Fl Wa            Im
+              3024 E200666-5    Na Ni Va               Im
+              3025 E545785-5    Ag              A      Im
+              3029 C8A8355-C    Lo Ni Fl               Im
+              3122 E56068C-7    Ni Ri De               Im
+              3124 D87A69A-6  S Ni Wa                  Im
+Inandir       3125 C6769E9-C  S Hi In                  Im
+              3126 C568454-7    Ni                     Im
+              3128 B676559-E  N Ag Ni                  Im
+Wimorel       3129 C765443-7    Ni An                  Im
+              3130 CA5A354-8    Lo Ni Wa               Im
+              3221 B836013-D  A Lo Ni                  Im
+              3222 E300353-9    Lo Ni Va               Im
+              3224 A796258-F    Lo Ni An Cp        124 Im F7 V
+              3226 E747325-6    Lo Ni           A      Im
+              3228 B444474-B  S Ni                     Im
+              3229 AAAA651-F    Ni Fl Wa               Im

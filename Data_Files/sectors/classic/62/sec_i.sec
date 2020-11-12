@@ -1,0 +1,17 @@
+@SUB-SECTOR:Dusa SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0422 0619 0 -1
+$0530 0333 0 1
+$0530 0831 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0221 C530833-A    Na Po De           220 Im M2 V
+              0422 A300757-F    Na Va              922 Im M9 III K5 D
+              0430 E677799-5    Ag                 222 Im G3 V
+              0530 A884589-D  N Ag Ni              511 Im G2 V
+              0622 E8B8888-5    Fl                 115 Im M8 D
+              0630 D455142-5    Lo Ni              524 Im A3 III

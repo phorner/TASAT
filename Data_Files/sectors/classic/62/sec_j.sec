@@ -1,0 +1,35 @@
+@SUB-SECTOR:Akumid SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0921 0619 -1 -1
+$0921 1120 0 -1
+$0923 1323 0 0
+$1323 1520 0 -1
+$1323 1625 0 0
+$1625 1822 1 0
+$1625 1628 0 0
+$1628 1530 0 0
+$1530 1533 0 1
+$1530 1332 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 C423320-D    Lo Ni Po           105 Im M3 V G5 V
+              0923 B549655-E  N Ni                 720 Im F2 V M2 D
+              0924 E745322-8    Lo Ni              401 Im M8 V
+Havland       0927 C7939CD-C    Hi In              301 Im M2 V M0 D
+Gokodeyo      0930 E5818AA-3                       110 Im F3 V M0 VI
+Apurshish     1028 C555964-B    Hi                 623 Im G8 VI
+              1128 CAD458B-9  S Ni Fl              301 Im M5 V M4 V
+              1227 C232436-8  S Ni Po              501 Im M6 V M3 V
+              1323 A524520-F  S Ni                 902 Im K0 V K7 D
+Ilma          1523 D510044-4  S Lo Ni              601 Im M0 V
+              1530 A8A9351-F  S Lo Ni Fl           832 Im G8 V
+              1623 D410552-B  S Ni                 720 Im M4 III K3 D
+              1624 C631854-A    Na Po              811 Im M2 V K9 D
+              1625 A542568-D  N C5 Ni Po           320 Im A4 V
+              1626 E8C4454-B    Ni Fl              410 Im M5 V
+              1628 A867357-F    Lo Ni Cp           923 Im K0 V
+              1630 E7B05A7-8    Ni De              603 Im M2 V

@@ -1,0 +1,58 @@
+@SUB-SECTOR:Voskhod  SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0107 3208 -1 0
+$0408 0311 0 1
+$0107 0408 0 0
+$0408 0404 0 0
+$0404 0502 0 0
+$0502 0902 1 0
+$0502 0439 0 -1
+$0404 0605 0 0
+$0605 0807 0 0
+$0807 1208 1 0
+$0408 0708 0 0
+$0708 0807 0 0
+$0708 0709 0 0
+$0709 1011 1 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0101 D256654-7    Ag Ni              204 Im F5 V G6 VI
+              0102 E799345-7    Lo Ni              210 Im M3 V
+              0104 E332338-9    Lo Ni Po           110 Im A9 III K8 D
+              0105 E343500-B    Ni Po              932 Im G8 IV G0 D
+              0107 C656563-B    C1 Ag Ni           311 Im M9 V
+              0109 C658787-5  S Ag                 823 Im G1 V
+              0110 B100877-B    Na Va           A  705 Im M5 V
+              0202 C444405-9  S Ni                 324 Im F8 II K2 D
+              0203 E100488-C    Ni Va              120 Im M3 V K6 V
+Khankari      0205 B885311-D    Lo Ni              110 Im M2 V
+              0209 E746552-5    Ag Ni              503 Im M2 V
+              0210 E576534-6    Ag Ni              601 Im M5 V
+              0303 B9B366A-C    Ni Fl              610 Im G7 V
+              0306 B585598-8  A Ag Ni              210 Im M0 D K0 D
+              0307 C8D27AC-9  S Fl                 501 Im M5 V M7 D
+              0402 C240222-7  S Lo Ni Po De        901 Im F2 V K6 D
+              0403 C438547-8    Ni                 420 Im G2 V
+              0404 A8A8210-C    Lo Ni Fl           404 Im M3 V
+              0408 B622156-F  A Lo Ni Po           410 Im G1 V
+              0502 C859343-C    Lo Ni              201 Im M0 V
+              0506 B524610-9  A Ni                 101 Im K0 V M3 V
+              0507 E352655-A    Ni Po              804 Im K6 VI G9 D
+              0508 B767300-C    Lo Ni              713 Im M5 V
+              0601 B100863-A    Na Va              101 Im K5 V M0 V
+              0605 A526111-B  N Lo Ni              124 Im F8 V
+              0610 B200369-B  N Lo Ni Va           212 Im G7 V
+              0701 C665452-8    Ni                 314 Na G0 D M5 D
+              0703 B797457-B    Ni                 902 Na M2 V
+              0705 C727830-8                       110 Im M7 V
+              0707 D000487-7  S Ni As              310 Im M4 V
+Voskhod       0708 B1109ED-F  W Hi Na In           101 Im M1 V M0 D
+              0709 A565597-E    Ag Ni              601 Im M0 V G3 D
+              0801 E62A837-7    Wa                 110 Va M7 V
+Kegirur       0804 D76A945-7    Hi Wa           A  901 Va M0 V
+              0806 E88A102-9    Lo Ni Wa        A  101 Im F9 V K8 D M8 D
+              0807 A254312-D    Lo Ni              621 Im A0 V

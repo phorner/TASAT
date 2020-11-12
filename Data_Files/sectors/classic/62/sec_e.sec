@@ -1,0 +1,15 @@
+@SUB-SECTOR:Lalaki Kharir SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0619 0422 0 1
+$0619 0921 1 1
+$0311 0408 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0211 A689421-B  N Ni                 910 Im M2 VI M9 D
+              0311 A230320-F  N Lo Ni Po De        822 Im M3 V G8 D
+              0619 A9B3785-C    Fl                 702 Im M3 V
+              0711 C539332-A  S Lo Ni              610 Im M2 V M7 V

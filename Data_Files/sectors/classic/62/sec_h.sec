@@ -1,0 +1,63 @@
+@SUB-SECTOR:Shiigus SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2513 2409 -1 -1
+$2513 2912 0 0
+$2513 2306 -1 0
+$2912 0111 1 0
+$2616 2416 -1 0
+$2616 2816 0 0
+$2816 3117 0 0
+$3117 0118 1 0
+$2610 2309 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2511 B66A666-D    Ni Ri Wa               Im
+              2512 B62737A-C  N Lo Ni                  Im
+              2513 A2717CB-A  N Cp                 101 Im F5 V  M9 D
+              2515 B9A787C-9  N Fl                     Im
+              2518 E333425-7    Ni Po                  Im
+              2519 B52368C-9    Na Ni Po               Im
+              2520 C485100-B    Lo Ni                  Im
+              2611 D403750-7    Na Va Ic               Im
+              2612 C444577-C  S Ag Ni                  Im
+              2613 A441676-A    Ni Po                  Im
+              2615 B000266-B  S Lo Ni As               Im
+St George     2616 B7C59BB-D    Hi Fl                  Im
+              2618 B510526-9  S Ni                     Im
+              2620 B858723-8  A Ag                     Im
+Aanshi        2713 BA8A997-B  S Hi Wa                  Im
+              2716 C6AA144-8    Lo Ni Fl Wa            Im
+              2812 E99769D-6    Ag Ni                  Im
+              2815 C110330-D    Lo Ni                  Im
+              2816 B6568AD-8                           Im
+              2818 C9B2688-8  S Ni Fl                  Im
+              2820 EA9A210-8    Lo Ni Wa               Im
+              2911 D555565-9    Ag Ni                  Im
+              2912 A998574-D    Ag Ni                  Im
+Mimere        2914 B9B6999-C  A Hi Fl                  Im
+              2915 B335652-C    Ni                     Im
+              2916 B227421-A  S Ni                     Im
+              2918 C563677-A    Ni Ri                  Im
+              2919 D454323-9  S Lo Ni                  Im
+              2920 D21067B-8  S Na Ni                  Im
+Lourer        3011 E594A8A-C    Hi In                  Im
+              3014 C557362-8  S Lo Ni                  Im
+              3018 C545644-9  S Ag Ni                  Im
+              3019 C8A7736-8    Fl                     Im
+              3020 C100858-C    Na Va                  Im
+              3111 D754444-7    Ni                     Im
+              3115 C404466-B  S Ni Va Ic               Im
+              3116 C546684-7    Ag Ni                  Im
+              3117 A361674-A  N Ni Ri                  Im
+              3119 D57759C-4  S Ag Ni                  Im
+              3211 C577000-9    Lo Ni Ba               Im
+Amnukun       3212 B41097B-F    Hi Na In               Im
+              3213 E567400-9    Ni                     Im
+              3214 E9B7200-6    Lo Ni Fl               Im
+Shaia         3215 B64A998-F    Hi In Wa               Im
+              3216 D561444-5    Ni                     Im
+              3218 D556013-5  S Lo Ni                  Im

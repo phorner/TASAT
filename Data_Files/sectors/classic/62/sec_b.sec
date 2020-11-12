@@ -1,0 +1,46 @@
+@SUB-SECTOR:Vhodan  SECTOR:Vland
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0902 0502 -1 0
+$1208 0807 -1 0
+$1208 1211 0 1
+$1208 1408 0 0
+$1408 1505 0 0
+$1408 1509 0 0
+$1509 1709 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0902 A225435-F  N Ni                 303 Cs K9 V
+              0906 C62546A-C    Ni                 713 Im A3 IV
+              0909 C200789-B  S Na Va              820 Im M4 III
+              1001 C525545-8    Ni                 910 Cs K0 V M6 D
+              1003 B34057A-7    Ni Po De           911 Na M5 V
+              1004 EA7A343-5    Lo Ni Wa           620 Va M4 V
+Laaru         1007 C69A9CC-D  S Hi In Wa           424 Im G7 IV
+              1102 A447857-C  N                    801 Cs M7 VI M3 D
+              1104 D885115-7  C Lo Ni              610 Va F2 V K6 D
+Sikilar       1107 B3328DH-9    Na Po              722 Im G2 V
+              1108 C76A8AB-B  S Wa                 710 Im M8 III
+              1109 E333352-A    Lo Ni Po           711 Im F6 V M8 D
+Liwar         1110 C350000-A  S Lo Ni Po De Ba     405 Im K2 V
+              1201 D573685-3    Ni                 801 Na M1 VI K0 D
+              1202 E4308AA-6  C Na Po De           520 Va K9 VI
+              1203 C322377-8    Lo Ni Po           834 Cs F3 II K0 II
+              1206 C234520-8  S Ni                 702 Im M1 V
+Vhodan        1208 A75898A-C    Hi Cp              123 Im G1 II K0 IV
+              1309 E57768A-7    Ag Ni              121 Im K8 V
+              1403 B426649-B    Ni                 210 Na M4 V
+              1405 B89A8AA-B    Wa                 604 Im G3 V
+              1406 B98A679-8  A Ni Ri Wa           921 Im M0 V
+Guusimka      1407 E539A77-C    Hi                 411 Im M6 V
+Marlan        1408 B352978-F  N Hi Po              322 Im M7 V
+              1410 C8D3587-8  S Ni Fl              720 Im K3 V G4 V
+              1505 A2016A9-B    Na Ni Va Ic        203 Im M0 V M5 D
+              1509 A98A300-D    Lo Ni Wa           201 Im M5 V G1 D
+Gamgilebo     1604 B000756-A    Na As              212 Cs F4IV M1 VI M1 VI
+              1606 C2006A8-C    Na Ni Va           820 Im F6 V M3 D
+              1608 E746651-8    Ag Ni              601 Im M9 V
+              1609 C1107AB-9  S Na                 701 Im M5 V
