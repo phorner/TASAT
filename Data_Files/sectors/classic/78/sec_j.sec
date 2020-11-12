@@ -1,0 +1,24 @@
+@SUB-SECTOR:New Islands  SECTOR:Reft
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 C99A633-4  M Ni Wa              800 Na F6 D
+              0925 C23079C-6    Na Po De           800 Es M6 II
+Esperanza     0926 A67AADG-D  M Hi In Wa           303 Es F9 V M2 D
+              0930 B85977A-B  M                    500 Es K2 V
+              1030 C593677-6    Ni                 612 Na F2 D
+              1123 C426668-5    Ni                 924 Sb M0 III M0 D
+Serendip Belt 1323 A000969-E  M Hi Na In As        502 Sb G1 VI M4 D
+New Clochis   1327 A576989-C  M Hi In              103 Nc F8 VI
+              1426 E5436A8-1    Ni Po              920 Nc F0 V M6 D
+Orphee        1429 X424355-3    Lo Ni           R  100 Na M9 III
+              1522 D25359A-8    Ni Po              904 Na K8 D
+              1525 B6B078B-B  M De                 200 Na M1 V
+              1526 C100653-A  M Na Ni Va           502 Na M2 V
+              1621 D748673-2    Ag Ni              700 Na F5 D
+Joyeuse       1628 A6549BB-C  M Hi                 404 Jo K2 D M3 D

@@ -1,0 +1,27 @@
+@SUB-SECTOR:Egryn  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0902 E140779-4    Po De              935 Na G4 VI M4 D
+              0909 E594110-3    Lo Ni              712 Zl F1 VI M0 D
+              1005 E340589-8    Ni Po De           714 Bs K3 VI
+              1106 D431204-8  M Lo Ni Po           503 Bs M6 V
+              1110 X624521-2  M Ni              R  303 Na M2 VI M5 D
+              1201 E486461-4    Ni                 322 Na K4 V M0 D
+              1202 D452100-7  S Lo Ni Po           103 Cs K8 D
+              1209 X336855-0                    R  410 Na G3 V
+              1305 D554320-4    Lo Ni              800 Na F5 V M5 D
+              1307 X300100-2    Lo Ni Va        R  714 Cs M0 V M2 D
+              1308 E849876-5                       300 Bs G2 D M2 D
+              1402 X13076A-2    C1 Na Po De     R  602 Na M2 D M0 D
+              1410 E33348B-6    Ni Po           A  400 Na K3 V
+              1502 X9AA332-0    Lo Ni Fl Wa     R  435 Na K4 V M3 VI
+              1601 D100432-A    Ni Va              613 Na G2 V M6 D
+              1602 E4277CC-3                       400 Na M9 II M9 V
+              1605 X430854-1    Na Po De        R  904 Na M1 V
+              1608 X777647-0    Ag Ni           R  304 Na M0 D M0 D

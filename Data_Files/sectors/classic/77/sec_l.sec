@@ -1,0 +1,33 @@
+@SUB-SECTOR:The Borderland SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2621 2421 -1 0
+$2621 2520 0 -1
+$2621 2820 0 -1
+$2621 2722 0 0
+$2722 2823 0 0
+$2823 2923 0 0
+$2823 2824 0 0
+$2824 2424 -1 0
+$2624 2425 -1 0
+$2527 2425 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2527 B789598-B    Ni                 304 Na M5 VI M8 D
+              2621 B342489-C    Ni Po              303 Na F4 D
+              2624 A524669-B    Ni                 600 Na G3 V M2 D
+              2625 E5767AB-6    Ag                 101 Na F4 V M1 D
+              2721 A342732-8    Po                 301 Na G1 V M2 D
+              2722 A434468-D    Ni                 500 Na K0 IV M1 D
+              2724 E699544-7    Ni                 503 Na K3 VI
+Falkenberg    2725 A554342-B    Lo Ni Rs           404 Na F2 D M5 D
+              2821 A695544-9    Ag Ni              722 Na G2 VI
+              2823 B400832-7    Na Va              814 Na F0 V M2 D
+              2824 B431768-C    Na Po              800 Na K2 V
+              2921 C345520-7    Ag Ni              305 Na F9 D M3 D
+              2923 B95A410-A    Ni Wa              312 Na K4 V
+              3029 B25089A-6    Po De              702 Na F9 D
+Towne         3030 B300ACC-C    Hi Na In Va        504 Na F3 V M3 D

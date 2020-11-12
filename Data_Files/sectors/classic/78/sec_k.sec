@@ -1,0 +1,21 @@
+@SUB-SECTOR:Old Islands  SECTOR:Reft
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1724 D774544-5    Ag Ni              815 Na M1 V
+              1729 E69A411-7  M Ni Wa              413 Jo F6 D
+Neubayern     1822 A5579BD-A  M Hi                 610 Nb M3 V
+              1923 C000035-8    Lo Ni As           110 Na K4 V
+              1925 A443444-B  M Ni Po              704 Nh G0 V
+              2026 B488233-8  M Lo Ni              911 Na F7 V M5 D
+              2123 C210631-9  M Na Ni              404 Na M4 V
+              2225 C341456-A    Ni Po              400 Am K6 VI M9 D
+Sansterre     2322 A33399D-F  M Hi Na Po           222 Sa M0 V M9 D
+              2324 E110496-8    Ni                 100 Na M0 V M4 D
+Amondiage     2325 A3279DB-E  M Hi In              102 Am F1 V
+              2423 D87A633-7  M Ni Wa              803 Sa K1 V M7 D

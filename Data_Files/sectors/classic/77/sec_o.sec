@@ -1,0 +1,32 @@
+@SUB-SECTOR:Hkea'as  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1733 1631 -1 0
+$1733 1534 -1 0
+$1733 1735 0 0
+$1733 1933 0 0
+$1835 1534 -1 0
+$1933 1931 0 0
+$1931 2029 0 -1
+$2332 2233 0 0
+$2233 2234 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 D729412-B    Ni                 303 As G6 V
+              1733 B87667A-A    Ag Ni              101 As F3 D M8 D
+              1734 E8D269B-8    Ni Fl              203 As G7 III
+              1735 B000446-9    Ni As              900 As K3 V
+              1736 E33411B-7    C1 Lo Ni           300 As G9 V
+              1835 A784667-F    Ag Ni Ri           912 As F8 VI M3 D
+              1931 B9D5125-C    Lo Ni Fl           914 As M1 V
+              1933 B594689-9    D7 Ag Ni           303 As G1 D M4 D
+              2133 E1206A9-A    Na Ni Po De        203 As G1 V
+              2134 D759656-7    Ni                 412 As G7 D
+Tisilli       2137 B867996-7    Hi                 814 Na G2 V M1 D M3 D
+              2232 D5826AA-7    Ni                 922 As F7 D
+              2233 B7A856A-C  T Ni Fl              601 As K0 V M3 D M1 D
+              2234 B140100-A    Lo Ni Po De        604 Na F0 V M1 D M5 D
+              2332 B666543-7    D0 Ag Ni           704 Na F4 V M4 D

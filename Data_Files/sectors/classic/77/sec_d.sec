@@ -1,0 +1,27 @@
+@SUB-SECTOR:Gazulin  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2902 2739 0 -1
+$2902 2804 0 0
+$2804 2805 0 0
+$2805 2708 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2602 B00056A-A    Ni As           A  602 Im K1 V M5 D
+              2704 B798532-8  N Ag Ni              624 Im F0 V
+              2708 BA6A002-7  A Lo Ni Wa           301 Im K6 V
+              2709 D446110-5  S Lo Ni              503 Im K2 VI
+              2801 D611434-7    Ni Ic           A  304 Im M1 D M3 D
+              2804 B554100-C    Lo Ni              912 Im M4 D
+              2805 B338885-8  N                    900 Im G0 V
+              2807 B200512-D    Ni Va              113 Im K2 VI M1 D
+              2902 C553111-6  S Lo Ni Po           700 Im G0 V M5 D
+              2904 B697447-B  N Ni                 104 Im G0 V M5 D
+              2909 A250434-B    Ni Po De           413 Im F7 D
+              2910 D223300-8    Lo Ni Po           300 Im M0 V M8 V
+627-301       3003 X000120-7    As Lo Va Fo Rs   R 901 Im X 0 F3 V 
+Neumann       3105 B527ADD-D  N Hi In              203 Im M1 V M5 D
+              3107 D353697-2    Ni Po              300 Im F2 VI M8 D

@@ -1,0 +1,56 @@
+@SUB-SECTOR:Moibin SECTOR:Reft
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3132 3030 0 -1
+$2540 2337 -1 0
+$2540 2202 -1 1
+$3237 0136 1 0
+$2932 3134 0 0
+$3134 3135 0 0
+$3135 3237 0 0
+$3237 2837 0 0
+$2837 2638 0 0
+$2638 2636 0 0
+$2638 2540 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2534 B310405-D    Ni                 404 Im M1 V M3 D
+Argus         2536 C755A96-8  S Hi                 403 Im G4 D
+              2537 B220310-A  N Lo Ni Po De        914 Im G2 V M8 D
+              2538 B45367A-8    Ni Po              914 Im K4 D M6 D
+              2539 D556512-4    Ag Ni              900 Im F0 V
+              2540 B565777-7    Ag Ri              514 Im K9 D
+              2636 A336010-F    Lo Ni              500 Im M3 V
+              2638 B7A858C-D    Ni Fl              700 Im K3 V
+              2731 B548534-8  S Ag Ni              504 Im F5 VI M7 D
+              2733 C557558-A    Ag Ni              100 Im F4 V
+              2737 E230668-8    Na Ni Po De        210 Im K1 V
+Cyril         2738 A7A69B9-F  N Hi Fl              522 Im G4 VI
+              2739 E450200-5    Lo Ni Po De        714 Im K4 D M1 D
+              2740 C576010-5    Lo Ni              902 Im K4 D
+              2832 D645688-7    Ag Ni              600 Im K7 VI M4 D
+              2833 B311637-D    Na Ni Ic           324 Im K1 IV M5 VI
+              2834 B573552-D    Ni                 804 Im F0 V M8 D
+              2837 A545788-B    Ag                 314 Im K4 V
+              2838 A554844-D  N                    804 Im F1 V
+              2931 C762475-6    Ni                 404 Im G2 D
+              2932 A537651-E  N Ni                 703 Im A2 V M5 D
+              2934 C220456-B  S Ni Po De           923 Im M4 V
+              2935 E6538AF-4    Po                 633 Im F0 V
+              2939 B432769-9    Na Po              313 Im M3 V
+Mynez         3035 E627989-A    Hi In              904 Im K1 VI
+              3036 B657445-7    Ni                 404 Im F1 V
+              3037 B100362-C    Lo Ni Va           504 Im K8 V M1 D
+              3038 B987030-8    Lo Ni              520 Im G7 V
+              3040 C374476-7    C4 Ni           A  413 Im F2 VI M1 D
+              3132 B32369A-B    Na Ni Po           404 Im G4 V
+              3133 B100544-C    Ni Va              704 Im M4 V M7 V
+              3134 A383657-D    Ni Ri              202 Im G4 V M6 D
+              3135 B745789-9  N Ag                 303 Im F0 V M6 D
+              3136 A150698-A    Ni Po De        A  800 Im K0 D
+              3140 B452549-9  S Ni Po              803 Im G5 VI
+              3231 B424200-B    Lo Ni              300 Im M8 V
+              3237 BA7A666-8  N Ni Wa              613 Im G0 V M4 D

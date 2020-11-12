@@ -1,0 +1,25 @@
+@SUB-SECTOR:Pax Rulin  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2102 2140 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1801 D100654-5    Na Ni Va           404 Na K1 III M7 D
+              1810 B331247-9  S C0 Lo Ni Po        912 Cs M5 V M8 D
+              1906 C433642-A  S Na Ni Po           915 Cs K4 V
+Kryslion      2002 D6359ED-4    Hi                 110 Im G0 V
+              2008 E656000-4  M Lo Ni Ba           102 Sf G5 VI M9 D
+Cyan          2102 C99A973-B  W Hi In Wa           812 Im M2 V
+              2105 B9A9586-9  A Ni Fl              713 Im M2 V
+              2108 B522842-7  M Na Po              800 Sf M0 V
+              2202 A11088A-E  S Na                 320 Im K3 V
+Perrior       2203 A857A63-C  N Hi                 400 Im F1 V
+              2204 A9C4401-B  N Ni Fl              204 Im M4 V
+              2304 E310437-5    Ni                 514 Im M7 III K3 D M7 VI
+Caraz         2306 E4119A7-A  N Hi Na In Ic        114 Im F0 V
+              2309 C574659-9  M Ag Ni              520 Sf F3 D
+              2402 B200331-A    Lo Ni Va           823 Im F7 II
+              2405 B000689-B    Na Ni As           312 Im M3 V

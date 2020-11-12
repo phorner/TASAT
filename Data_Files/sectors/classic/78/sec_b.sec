@@ -1,0 +1,17 @@
+@SUB-SECTOR:Macon  SECTOR:Reft
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1102 0604 -1 0
+$1102 1339 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0903 B201656-D  N Na Ni Va Ic     A  503 Im M6 V
+              1002 B53769D-7    Ni                 803 Im K4 VI M8 D
+              1102 A998011-9    Lo Ni              604 Im K9 D
+              1103 A79A633-D    Ni Wa              133 Im G2 V
+              1204 B000457-D    Ni As              300 Na M1 V
+              1301 A120675-C  N Na Ni Po De        611 Im M0 VI
+Gorod         1302 D6689CG-9    Hi                 111 Im K4 V M1 D

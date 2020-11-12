@@ -1,0 +1,37 @@
+@SUB-SECTOR:Yggdrasil SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0213 0210 0 -1
+$0213 3213 -1 0
+$0213 0415 0 0
+$0415 0317 0 0
+$0415 0614 0 0
+$0415 0616 0 0
+$0220 0322 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0116 D6B3687-4    Ni Fl              403 Fl K2 V
+              0119 D629833-7                       513 Fl M0 V
+              0213 A545012-7    Lo Ni              213 Fl G5 D M4 D
+              0218 B895346-6    Lo Ni              215 Fl G0 D M6 D
+              0220 A637755-D                       624 Fl M2 V
+              0317 A63A674-B    Ni Wa              303 Fl M0 V M8 D
+              0318 E573733-6                       503 Fl F3 V M5 D
+              0319 B69A415-A    Ni Wa              504 Fl K8 VI
+              0320 EA6A697-5    Ni Ri Wa           804 Fl G2 D
+              0415 C6858CB-3                       100 Fl F2 D
+              0416 B46067B-6    Ni Ri De           202 Fl K4 V
+              0417 D496553-5    Ag Ni              104 Fl F1 D M1 D
+              0418 B337123-8    Lo Ni              801 Fl F5 IV
+Garnl         0516 E685999-3    Hi                 705 Fl M2 V M8 D
+              0614 B666241-7    Lo Ni              904 Fl G1 VI M7 D
+              0616 B868420-9    Ni                 804 Fl G2 V
+              0713 C446457-7    Ni                 113 Fl G4 V
+              0716 B594300-A    Lo Ni              513 Fl K5 VI M2 D
+              0811 B546789-5    Ag                 204 Na G4 V
+              0813 D554559-6    Ag Ni              103 Na G8 D M2 D
+              0815 B8C4559-A    Ni Fl              500 Cs K3 V M6 D
+              0820 A748789-A    Ag                 115 Na G4 V M5 D

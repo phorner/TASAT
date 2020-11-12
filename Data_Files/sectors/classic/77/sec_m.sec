@@ -1,0 +1,38 @@
+@SUB-SECTOR:Ranib SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0431 0430 0 -1
+$0132 0130 0 -1
+$0132 0232 0 0
+$0232 0531 0 0
+$0338 0139 0 0
+$0139 0240 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0132 B775758-G    Ag                 100 As F4 VI
+              0134 C766789-B    Ag Ri              714 As F0 V
+              0135 B353207-A    Lo Ni Po           915 As F5 V M8 D
+              0139 B6B4307-A    C0 Lo Ni Fl        100 As M3 IV M1 D
+              0232 B845535-E    Ag Ni              502 As G0 VI M2 D
+              0234 B7B0459-A    Ni De              503 As M2 V M4 D
+Ftaokh        0236 E846973-9    Hi In              620 As F3 V M8 D
+              0240 B564567-B    Ag Ni              800 As F5 D M9 D
+              0332 B25052B-A    Ni Po De           804 As K6 VI
+              0335 A100447-F    Ni Va              700 As M2 V M7 D
+              0336 C400768-D    Na Va              113 As M2 V
+              0338 B580347-8    Lo Ni De           804 As F7 D M2 D
+              0431 B796323-B    Lo Ni              702 As K9 V
+              0531 B574405-B    Ni                 910 As F1 D M1 D
+              0534 B411232-8    Lo Ni Ic           104 As M5 VI
+              0536 C896667-8    Ag Ni              130 As G1 V
+              0633 A536427-B    Ni                 600 As K1 V
+              0640 A340205-B  R Lo Ni Po De        123 As F6 V M3 D
+              0738 D201219-7    Lo Ni Va Ic        700 As K7 V
+              0739 C502786-E    Na Va Ic        A  824 As M2 V M3 D
+              0835 A528026-A    Lo Ni              821 As K8 VI
+              0837 A65410A-9    Lo Ni              204 As K4 VI
+              0839 B88713B-B    Lo Ni              105 As G2 D M5 D
+              0840 B78A566-E    Ni Wa              703 As G0 VI M5 D

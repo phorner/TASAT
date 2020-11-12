@@ -1,0 +1,19 @@
+@SUB-SECTOR:Usher SECTOR:Reft
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0118 3117 -1 0
+$0118 0217 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0111 B260453-E    Ni De              914 Im K0 IV M9 D
+              0112 A482444-C    D6 Ni              204 Im G0 V
+              0118 B737332-B  N Lo Ni              701 Im A9 V K4 D
+              0212 B885620-6  N Ag Ni              423 Im K4 V
+              0216 D9B227A-4    Lo Ni Fl           923 Im M4 V M8 D
+              0217 B323662-C    Na Ni Po           534 Im G1 III
+              0313 D110724-8    Na                 403 Im K1 V
+              0416 B463695-7    Ni Ri              803 Na G3 VI M5 D M5 D
+              0511 B6A1420-D    Ni Fl              702 Im K2 V M9 D M1 D

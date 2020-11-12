@@ -1,0 +1,60 @@
+@SUB-SECTOR:Nora'a SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0322 0220 0 -1
+$0322 0223 0 0
+$0223 0122 0 0
+$0322 0523 0 0
+$0223 0224 0 0
+$0523 0525 0 0
+$0525 0425 0 0
+$0425 0224 0 0
+$0224 0126 0 0
+$0126 0132 0 1
+$0129 0328 0 0
+$0328 0429 0 0
+$0328 0528 0 0
+$0429 0528 0 0
+$0429 0431 0 1
+$0528 0727 0 0
+$0727 0825 0 0
+$0825 0824 0 0
+$0825 1026 1 0
+$0824 1023 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0122 A9C2235-9    Lo Ni Fl           714 As M3 V
+              0126 BAAA336-A  R Lo Ni Fl Wa        934 As M9 V
+              0127 B88A556-B    Ni Wa              104 As F9 D M2 D
+              0129 B73535B-C    Lo Ni              201 As M9 III M0 D
+              0130 B22732A-9    Lo Ni              302 As M6 V
+              0222 C100104-A    Lo Ni Va           610 Fl M8 II
+              0223 BA67149-9  R Lo Ni              104 As F4 D M3 D M5 D
+              0224 B689886-G    Ri                 800 As G6 D M9 D
+              0227 D535435-6    Ni                 222 As M0 V
+Hreahrya      0229 B665974-D    Hi                 624 As F4 V
+              0321 A225447-A    Ni                 710 Fl M0 V
+              0322 A324687-D  R Ni                 500 As G0 V
+              0328 B78865A-9    Ag Ni Ri           303 As F3 V
+              0329 B9A77A9-C    Fl                 204 As M4 III M1 VI
+              0425 B303563-C    Ni Va Ic           725 As M8 III
+              0426 E330337-4    Lo Ni Po De        604 As K9 V M3 V
+              0429 B420207-A    Lo Ni Po De        903 As M3 V
+              0430 B79A549-B    Ni Wa              804 As K3 D
+Vadada        0523 A150989-C    Hi Po De           203 Fl F0 V M9 D M5 D
+              0525 A689696-C    Ni Ri              723 As F4 D
+              0528 B150789-F    Po De              804 As G8 D M6 D
+              0529 B437568-E    Ni                 812 As M4 V
+              0530 A44721A-E    Lo Ni              315 As M2 D M5 D
+              0628 B421446-E    Ni Po              900 As G0 V M4 D
+              0722 C344531-6    Ag Ni              300 Fl F0 V
+              0724 C7A5767-8    Fl                 704 Fl K0 V
+              0727 B200899-D    Na Va              302 As M0 V M0 D
+              0729 C63A046-B    Lo Ni Wa           434 As K0 V
+              0823 B887505-C    Ag Ni              403 As F6 D M9 D
+              0824 B8C355C-9    Ni Fl              600 As A1 III
+              0825 A696510-D    Ag Ni              604 Gl G6 D
+              0829 B598669-B    Ag Ni              400 As F9 D

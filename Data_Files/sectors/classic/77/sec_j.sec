@@ -1,0 +1,58 @@
+@SUB-SECTOR:Goertel  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1121 1022 0 0
+$1022 1023 0 0
+$1023 0824 -1 0
+$1022 1221 0 0
+$1023 1223 0 0
+$1223 1324 0 0
+$1223 1220 0 -1
+$1026 0825 -1 0
+$1026 1126 0 0
+$1026 1028 0 0
+$1028 0929 0 0
+$0929 0931 0 1
+$0929 1030 0 0
+$1030 0931 0 1
+$1030 1230 0 0
+$1230 1429 0 0
+$1429 1630 0 0
+$1630 1631 0 1
+$1426 1626 0 0
+$1626 1728 1 0
+$1621 1619 0 -1
+$1621 1723 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0929 A7A8548-D    Ni Fl              202 Gl G0 V M9 D
+              0930 B00052B-E    Ni As              703 As M1 V
+              1022 B667624-6    Ag Ni              600 Gl K0 V
+              1023 B647100-C    Lo Ni              305 Gl F2 VI M1 D
+              1025 EAC2778-7    Fl                 703 Gl M2 V
+              1026 B511433-C    Ni Ic              800 Gl M3 V
+              1027 A423563-F    Ni Po              500 Gl M0 V M6 D
+Htourlao      1028 B557A98-E    Hi                 704 Gl M3 V M1 V
+              1030 B200320-A    Lo Ni Va           612 Gl K2 IV M5 VI
+              1121 B230404-B    Ni Po De           403 Gl K1 V M6 D
+              1124 D25069B-5    Ni Po De           314 Gl F9 D
+              1126 B110520-B    Ni                 204 Gl G1 V
+              1128 C539220-A    Lo Ni              811 Gl M1 V M4 D
+              1221 A696474-A    Ni                 202 Na K2 VI
+              1222 B95A8DB-7    Wa                 904 Na G9 VI
+              1223 B656858-F                       403 As F1 D M8 D
+              1226 C889203-9    Lo Ni              424 As F7 V
+              1230 B88A124-9    Lo Ni Wa           203 As G9 V
+              1322 B21142B-A    Ni Ic              300 As K3 V
+Hliyh         1323 B320AC2-F    Hi Na In Po De     314 As F2 V
+              1324 B785275-9    Lo Ni              323 As G7 D M0 D
+              1426 B410007-C    Lo Ni              312 As M2 V M1 D
+              1429 B6378C5-E                       302 As K4 V M5 D
+Tryaoke       1524 DAAA967-D    Hi Fl Wa           623 As M4 V
+              1530 B20266B-9    Na Ni Va Ic        912 As M1 V
+              1621 B877326-C    Lo Ni              725 As G4 D
+              1626 C481556-B    Ni                 724 As K3 V M9 D
+              1630 B30273A-B    Na Va Ic           404 As M1 V

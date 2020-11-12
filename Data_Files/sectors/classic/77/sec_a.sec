@@ -1,0 +1,31 @@
+@SUB-SECTOR:Menorial SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0210 0213 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0103 E2508AA-4    De Po              224 Na M8 D
+              0110 D557655-2    Ag Ni              903 Fl K4 VI M8 D
+              0201 A624559-F    Ni                 600 Na M0 VI M7 D
+              0202 E8B5300-7    Lo Ni Fl           823 Na M7 V M6 D
+              0204 A401500-F    Ni Va Ic           420 Na M3 V M7 D
+              0209 B334333-B    Lo Ni              114 Na G9 IV
+              0210 A632496-A    Ni Po              414 Fl G8 II M3 V M8 D
+              0307 B380445-9    Ni De              712 Na F4 V
+Trossachs     0310 B5269EK-B    Hi In              103 Fl G2 V
+              0403 D8C4334-5    Lo Ni Fl           305 Na M0 III
+              0404 D333857-5    Na Po              305 Na K6 D M1 D
+              0408 BAAA499-9    Ni Fl Wa           123 Na M1 V M7 D
+              0503 C345655-6    Ag Ni              300 Na F0 V M5 D
+              0504 B000779-B    Na As              122 Na M2 V M4 D
+Strend        0505 B52399E-9    Hi Na In Po        523 Na F2 V
+              0510 B255037-A    Lo Ni              304 Fl F7 D
+              0608 A2106BD-9    Na Ni              400 Na M3 III M1 V
+              0609 B597116-7    Lo Ni              204 Na F7 V
+              0702 B11068A-C    Na Ni              700 Na G2 V M5 D
+              0802 B99A795-A    Wa                 311 Na K7 D
+              0805 B100587-B    C5 Ni Va           304 Na M0 V
+              0809 E568743-4    Ag Ri              505 Na K4 VI M2 D

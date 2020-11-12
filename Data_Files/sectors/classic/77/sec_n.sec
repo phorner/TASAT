@@ -1,0 +1,46 @@
+@SUB-SECTOR:Silraaihe SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0934 0930 0 -1
+$0931 1030 0 -1
+$0934 1034 0 0
+$0934 0835 -1 0
+$1034 1038 0 0
+$1036 0835 -1 0
+$1036 0837 -1 0
+$1036 1733 1 0
+$1631 1630 0 -1
+$1631 1733 1 0
+$1534 1735 1 0
+$1235 1436 0 0
+$1436 1438 0 0
+$1438 1339 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0931 B303448-A    Ni Va Ic           323 As G4 VI M4 D
+              0933 B555875-D                       703 As G6 D M4 D
+              0934 B473459-D    Ni                 622 As G1 V
+              0936 B54562A-D    Ag Ni              700 As K0 V
+              0938 B414226-B    Lo Ni Ic           314 As M9 V M0 D
+              1034 BA9A372-C  R Lo Ni Wa           724 As K6 V
+              1036 B656335-B    Lo Ni              600 As G0 D M5 D
+              1038 A7C3476-B    Ni Fl              504 As M4 V
+              1235 B1306B6-D    Na Ni Po De        212 As G2 V
+Irlaiw        1236 C661949-B    Hi                 403 As F4 V
+              1333 C554526-A    Ag Ni              303 As G0 D M0 D
+              1334 B756478-B    Ni                 703 As K0 V
+              1335 B78A225-8    Lo Ni Wa        A  833 As F4 D M3 D
+              1338 E88A553-6    Ni Wa              304 As G2 VI M3 D M6 D
+              1339 A652528-E  R Ni Po           A  703 As K7 VI M6 D
+              1436 B370279-9    Lo Ni De           404 As G2 V
+              1438 B8AA798-G    Fl Wa              804 As K4 V
+              1533 C558205-A    Lo Ni              634 As F2 D
+              1534 A610645-F  R Na Ni              610 As M3 D
+              1535 B300579-A  R Ni Va              703 As K6 II M4 D
+              1537 C378338-A    Lo Ni              212 As F6 D M2 D M5 D
+              1631 B98A445-A    Ni Wa              703 As F3 V
+              1634 B364444-A  R Ni                 133 As F2 V
+              1637 E657635-5    Ag Ni              223 As F1 D M1 D

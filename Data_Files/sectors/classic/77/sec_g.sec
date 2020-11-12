@@ -1,0 +1,29 @@
+@SUB-SECTOR:Sindal SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1919 2020 0 0
+$2020 2221 0 1
+$2314 2513 1 0
+$2314 2515 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1715 D535321-3    Lo Ni              404 Na K2 V
+              1719 E413897-8    Na Ic              310 Na K2 V M8 D
+              1816 A332451-E    Ni Po              803 Na G0 V
+              1818 C56759A-8    Ag Ni              901 Na F3 V
+              1919 B979369-C    Lo Ni              414 Na F6 VI M6 D
+              2018 D668443-3    Ni                 603 Na F8 D M7 D
+              2020 B858212-7    Lo Ni              725 Na F8 V
+              2113 B646688-A    Ag Ni              500 Na F0 V
+              2115 BAB7300-C    Lo Ni Fl           403 Na K7 V
+              2116 A85A886-B    Wa                 314 Na F4 D M1 D
+              2120 C644664-7    Ag Ni              403 Na F4 V
+Albe          2211 A8C3979-C    Hi Fl              423 Im G3 V M2 D
+              2213 B100444-A  N Ni Va              723 Im K7 VI M2 D
+              2216 B77958B-C    Ni                 703 Na F8 VI
+              2219 E9A787C-3    Fl                 601 Na M0 V M7 D
+              2314 B5538A8-6    Po                 903 Na K4 V
+              2411 C413222-7    Lo Ni Ic           901 Im M9 V M8 D

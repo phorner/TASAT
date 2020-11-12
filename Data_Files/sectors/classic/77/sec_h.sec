@@ -1,0 +1,59 @@
+@SUB-SECTOR:Tobia  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2513 2314 -1 0
+$2515 2314 -1 0
+$2515 2813 0 0
+$2813 2912 0 0
+$2813 3013 0 0
+$3013 3212 0 0
+$2614 2916 0 0
+$2916 2918 0 0
+$2918 3117 0 0
+$2918 3119 0 0
+$2918 2819 0 0
+$3117 3215 0 0
+$2819 2820 0 0
+$2820 2621 0 1
+$2520 2621 0 1
+$2520 2421 -1 1
+$3117 0118 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2513 B5738AB-6                       814 Im F7 D
+              2515 A787666-B  N Ag Ni Ri           704 Im K1 V
+              2517 D401522-6    Ni Va Ic           500 Na M8 D
+              2520 A456502-C    Ag Ni              204 Na K1 V
+              2612 C69379D-5                       924 Im F1 V M4 D
+              2614 C7A87AC-7    Fl                 711 Im K3 V
+              2616 A548476-C    Ni                 920 Im G2 D M5 D M5 D
+              2711 B544123-6  N Lo Ni              433 Im G4 V M1 D
+Hradus        2714 B65695A-8  S Hi                 104 Im F8 VI M0 D
+              2715 B767426-7  N Ni                 510 Im G2 V M2 D
+              2719 C525462-8    Ni                 614 Na F0 V M6 D
+              2813 A1005AD-C    Ni Va              925 Im M1 V
+              2814 E888343-3    Lo Ni              502 Im K7 V
+              2815 BAD8200-D  N Lo Ni Fl           520 Im A9 V M7 D M3 D
+              2819 B78A227-8    Lo Ni Wa           824 Na M1 VI M1 D
+              2820 B363120-C    Lo Ni              133 Na K7 V
+              2912 B7A6400-B    Ni Fl              502 Dr M0 V M6 D
+              2915 E666675-2    Ag Ni Ri           820 Im G5 D
+              2916 B413000-B  N Lo Ni Ic Ba        513 Im F9 III
+              2918 B527478-9    Ni                 811 Im G2 D M5 D
+              3011 D200796-7    Na Va              100 Im M2 V
+              3012 B656473-B    Ni                 303 Im F2 D M6 D
+              3013 A7B3421-B  N Ni Fl              804 Im M2 V M2 D
+              3015 E676786-3    Ag                 702 Im M8 D M5 D
+              3016 D789000-8  S Lo Ni Ba           113 Im M1 D
+              3111 D335652-6    Ni                 424 Im G9 IV
+              3113 D9B5622-2    Ni Fl              212 Im M3 V
+Attee         3116 C342976-B    Hi In Po           804 Im G2 V
+              3117 B8A6210-B    Lo Ni Fl           902 Im G5 V
+              3119 B857474-9    Ni                 903 Im K1 V M5 D
+              3212 A772697-A  N Ni                 524 Im G1 V
+              3213 D221557-6    Ni Po              922 Im K2 V M3 D
+Tobia         3215 A478997-F  N Hi In              803 Im F1 V
+              3219 B473434-7    Ni                 700 Im K2 V M6 D M5 D

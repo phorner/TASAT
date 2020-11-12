@@ -1,0 +1,50 @@
+@SUB-SECTOR:Tlaiowaha  SECTOR:Trojan Reach
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1723 1621 -1 0
+$1728 1626 -1 0
+$2029 1931 0 1
+$2221 2020 0 -1
+$2221 2621 1 0
+$2421 2520 1 -1
+$2424 2624 1 0
+$2425 2527 1 0
+$1723 1823 0 0
+$1823 2023 0 0
+$2023 2421 0 0
+$2123 2424 0 0
+$2226 2227 0 0
+$2226 2624 1 0
+$1928 1927 0 0
+$1928 1728 0 0
+$1928 2029 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1723 B765544-D    Ag Ni              703 As F0 V
+              1728 B9A800B-C    Lo Ni Fl           604 As M5 V M6 D
+              1823 A8957A7-C    Ag                 612 Cs F4 V
+              1830 C643746-E    Po                 704 As K4 V
+              1927 B486647-B    Ag Ni Ri           203 As K3 V
+Tlaiowaha     1928 B2509B6-C  T Hi Po De           424 As F1 V
+              2023 A72A34B-9    Lo Ni Wa           222 As M3 D M0 D
+              2029 B869369-D    Lo Ni              902 As F5 V M6 D
+              2123 B475102-8    Lo Ni              822 Na G8 V
+              2125 C7B233C-8    Lo Ni Fl           400 As M8 V
+              2221 B873520-B    Ni                 304 Na M3 V
+              2223 A888727-7    Ag                 214 Na M1 V
+Tyokh         2226 B995967-D    Hi In              603 As G2 V
+              2227 B200835-C    Na Va              201 As M3 V M6 D M4 D
+              2229 E32145B-8    Ni Po              802 As G1 IV
+              2230 E53747B-A    Ni                 403 As M2 V
+              2322 B624248-A    Lo Ni              700 Na M6 VI
+              2324 A42179A-C    Na Po              413 Na M0 VI M3 D M8 D
+              2327 E9B1457-5    Ni Fl              302 Na M0 V
+Vorito        2329 E9AA98A-8    Hi Fl Wa           504 Cs K3 D M8 D
+              2421 B7A7867-8    Fl                 614 Na G3 V M5 D
+              2424 B310553-D    Ni                 100 Na K4 V
+              2425 B534148-B    Lo Ni              104 Na M8 V
+              2426 D584454-7    Ni              A  413 Na F4 D M4 D
+              2428 E526650-6    Ni                 904 Na M3 V M2 D
