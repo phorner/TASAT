@@ -1,0 +1,20 @@
+Stern-Stern
+
+A poor, non-industrial world located in the Darrian Subsector of the Spinward Marches. Stern-Stern specializes in heavy industry with considerable robotic help in the factories. The atmosphere is breathable but unpleasant enough that most residences have their own life support systems. 
+
+Stern-Stern was not one of the original Pre-Maghiz colonies of the Darrian Confederation, but was settled in the aftermath of the First Frontier War. The system, then known as 247-461, had originally been bypassed due to inadequate surveys, and except for a starport, had been ignored by the Confederation and its economic planners. The world was cursed with a very thin atmosphere, and possessed few obvious resources that would make it attractive to outside settlement. 
+
+This changed after a Sternmetal Horizons survey discovered in 576 that the world had extensive deposits of Iron, Nickel and Aluminum in large ore bodies buried under its extensive plains. Military tensions and conflict with the Zhodani, and the massive initial investment outlays required for subsurface mining delayed colonization until 603, and the Second Frontier War delayed actual exploitation of the deposits until 625. 
+
+Sternmetal, with assistance from the Darrian government, sank several deep shafts, some of up to 10kms deep, to reach the ore bodies. In doing so, the company had to compromise safety. The digging of deep shafts, in an atmosphere under severe underground pressure, on a world with very little air pressure to begin with, was a dangerous and expensive undertaking. Death due to the bends, or blowouts at the surface level, claimed a number of lives, and gave the world an unpleasant reputation. Sternmetal soon suffered a labor shortage, as skilled mining workers developed an understandable reluctance to work in the mines. 
+
+As production dipped, Sternmetal approached its fellow Megacorporation Naasirka for assistance in automating the world's production. Through a separate holding company called Sternmetal Automation, the two companies pooled their efforts and constructed a huge network of automated factories and mining complexes for extraction, processing, refinement and machining the mines output for eventual export. These complexes were probably the largest robotic factories ever constructed in the Marches before the Collapse, and still rank among the largest still extant. A major drawback was the pollution generated as a byproduct of various mining and industrial processes, but the two Sternmetal divisions (which is where the world name originates) profited enough to pay their employees very good wages and continued to deliver massive amounts of vital metals to both the Third Imperium and the Confederation. 
+
+The world was the target of major Zhodani raids during the later Frontier Wars, and of an attempted Sword World invasion during the False War, but it has remained in Darrian possession for its entire history. 
+
+
+Image of Darrian operations on Stern-Stern:
+
+@@@@sternstern.jpg
+
+
