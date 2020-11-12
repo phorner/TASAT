@@ -1,0 +1,31 @@
+@SUB-SECTOR:O  SECTOR:Zhiaqrqiats
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kiden         1739 B874977-9  K Hi In              200 Va F2 V              
+              1933 XAA7000-0    Ba Fl Lo Ni        000 -- M5 V              
+              1934 X671000-0    Ba Lo Ni           004 -- K7 V              
+              2034 X312000-0    Ba Ic Lo Ni        010 -- F3 V              
+              2036 X425000-0    Ba Lo Ni           000 -- M4 V              
+Ksoekhtse     2040 A351522-C    Ni Po              223 Va F9 V              

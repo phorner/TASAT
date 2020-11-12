@@ -1,0 +1,44 @@
+@SUB-SECTOR:C  SECTOR:Zhiaqrqiats
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1703 X501000-0    Ba Ic Lo Ni Va     003 -- F7 V M7 V         
+              1706 X310000-0    Ba Lo Ni           020 -- A0 V              
+              1802 X7B5000-0    Ba Fl Lo Ni        015 -- M2 V M6 V M3 D    
+              1807 X793000-0    Ba Lo Ni           014 -- F4 V              
+              1903 X565000-0    Ba Lo Ni           003 -- K0 V              
+              1906 X575000-0    Ba Lo Ni           015 -- F9 V M6 D         
+              1908 X6B2000-0    Ba Fl Lo Ni        004 -- M0 V              
+              2001 X895000-0    Ba Lo Ni           001 -- F9 V              
+              2003 X531000-0    Ba Lo Ni Po        006 -- M8 II M0 D        
+              2007 X000000-0    As Ba Lo Ni        015 -- A2 V M2 D         
+              2008 X957000-0    Ba Lo Ni           002 -- G1 V              
+              2103 X401000-0    Ba Ic Lo Ni Va     010 -- F9 III M8 V       
+              2105 X543000-0    Ba Lo Ni Po        004 -- G3 V              
+              2107 X160000-0    Ba De Lo Ni        002 -- M6 V              
+              2202 X314000-0    Ba Ic Lo Ni        001 -- G4 V M1 V         
+              2208 X685000-0    Ba Lo Ni           013 -- F7 V              
+              2308 X200000-0    Ba Lo Ni Va        015 -- M3 V M2 D         
+              2408 X585000-0    Ba Lo Ni           004 -- M7 V              
+              2410 X526000-0    Ba Lo Ni           024 -- F7 V M2 D         

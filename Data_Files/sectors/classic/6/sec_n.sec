@@ -1,0 +1,32 @@
+@SUB-SECTOR:N  SECTOR:Zhiaqrqiats
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0936 X000000-0    As Ba Lo Ni        010 -- M6 V              
+              1036 X311000-0    Ba Ic Lo Ni        004 -- M4 V              
+              1039 X110000-0    Ba Lo Ni           002 -- M5 V M2 D         
+              1232 X341000-0    Ba Lo Ni Po        005 -- F5 V M4 D         
+              1240 X300000-0    Ba Lo Ni Va        012 -- G8 V              
+              1339 X431000-0    Ba Lo Ni Po        000 -- F0 V              
+              1537 X425000-0    Ba Lo Ni           035 -- G3 V M7 D         
