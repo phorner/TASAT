@@ -1,0 +1,37 @@
+@SUB-SECTOR:Mesmabi  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3122 0223 1 0 11
+$2829 2827 0 0 11
+$2926 2827 0 0 11
+$2926 2922 0 0 11
+$2922 3122 0 0 11
+$2922 2724 0 0 11
+$2922 2720 0 -1 11
+$2724 2425 -1 0 11
+$2829 2832 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Bernardo      2522 C56A502-9    Ni Wa              124 J- G8 V
+Aegzil        2529 E130102-9    De Lo Ni Po        504 J- F9 IV M5 D
+Aenaedh       2530 X888230-0    Lo Ni           R  203 J- K3 D
+Flexner       2626 C798688-3    Ag Ni              401 J- F8 V
+Lyndon        2723 C9C68B7-6  M Fl                 723 Jl F5 V M6 D
+Tengerre      2724 A140422-B  M De Ni Po           901 Jl F4 V
+Sonaer        2726 B696114-9    Lo Ni              202 Jl F1 D
+Ginger        2824 C566653-8    Ag Ni Ri           600 Jl M0 V M7 D
+Guasar        2827 B479976-C    Hi In              923 Jl F5 VI
+Girrghgan     2829 B899588-7  J Ni                 611 Jl F6 D M7 D
+Mimgur        2922 A466535-D  M Ag Ni Cp           100 Jl F0 D
+Eskurga       2926 B887987-7    Hi                 724 Jl F2 V
+Zaerran       3022 D58A258-8    Lo Ni Wa           704 Jl F4 D
+Gaar          3026 C4669A6-A  M Hi                 904 Jl G2 VI M6 D
+Siilar        3029 B999748-6  J                 A  703 Jl F0 VI
+Amkukkar      3122 C4799AF-8    Hi In              424 Jl K6 V M2 D M3 D
+Olduvai       3223 C488479-6    Ni C2 An        R  823 Jl M0 D
+Lillouri      3224 C556533-5  M Ag Ni              200 Jl K3 D
+Enaell        3227 C362534-7    Ni                 122 Jl K5 V
+Llangso       3228 B784423-8    Ni                 213 Jl F1 D

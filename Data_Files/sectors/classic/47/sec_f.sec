@@ -1,0 +1,36 @@
+@SUB-SECTOR:Ozuvon  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1114 0815 -1 0 11
+$1114 1312 0 0 11
+$1114 1217 0 0 11
+$1219 1217 0 0 11
+$1219 1620 0 0 11
+$1620 1523 0 1 11
+$1312 1209 0 -1 11
+$1620 2020 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khegiig       0916 C549237-6    Lo Ni              205 Jo F7 D M4 D
+Ozuvon        1015 A5236B8-C    Na Ni Po Cp        222 Jo M9 V
+Duukadli      1016 C0008CE-A    As Na              823 Jo F5 D
+Shellac       1112 B566767-8  F Ag Ri              900 Jo K9 D
+Downer        1114 AA55456-B  J Ni                 113 Jo M3 D M8 D
+Zukhos        1117 C57A644-6    Ni Wa              701 Jo G3 D
+Itsonkuez     1118 B55A655-9    Ni Wa              705 Jo G0 V
+Taetsodz      1217 B200344-9    Lo Ni Va           304 Jo M9 V M4 D
+Oukhoerro     1219 B242878-A    Po                 702 Jo M9 VI
+Khaknueth     1312 B89A200-C  M Lo Ni Wa           905 Jo K6 V M2 D
+Kudhug        1414 C52257B-9    Ni Po              804 J- M8 V M4 D M7 D
+Oksgon        1415 E899310-6    Lo Ni              724 J- F9 VI M7 D
+Flush         1416 C78A000-A    Ba Lo Ni Wa        010 J- G7 VI
+Tudoe         1419 D333351-5    Lo Ni Po           514 J- F3 D M2 D
+Akroegh       1512 D423514-5    Ni Po              204 J- F9 V
+Aksuegue      1516 C331433-7    Ni Po              300 J- K3 V
+Hitchcock     1611 D458423-6    Ni                 814 J- F5 D
+Oghours       1612 D230000-7    Ba De Lo Ni Po     023 J- M8 V
+Bulaniid      1617 C555236-8    Lo Ni              404 J- F9 V
+Udzaes        1620 B89A8B9-9  J Wa                 802 Jc F2 V

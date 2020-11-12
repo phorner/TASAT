@@ -1,0 +1,44 @@
+@SUB-SECTOR:Hikaru  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2112 1812 0 0 11
+$2112 2213 0 0 11
+$2213 2317 0 0 11
+$1812 1809 0 -1 11
+$2020 1620 -1 0 11
+$2020 2418 0 0 11
+$2418 2317 0 0 11
+$2418 2618 1 0 11
+$2213 2613 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Mushami       1711 C573683-7    Ni                 424 J- F5 D M6 D
+Angoekh       1714 D431888-6    Na Po              504 J- F5 VI M3 D
+Llekhs        1718 D679310-4    Lo Ni              524 J- F4 V
+Kargar        1812 B342642-9  F Ni Po              904 J- F8 V
+Tabernacle    1911 E57A8DB-5    Wa                 300 J- F2 V M9 D
+Dikhamdan     1917 C546622-3    Ag Ni              722 J- F9 D
+Ssaahpa       2012 D65A69C-7    Ni Wa           A  103 Jh F3 D
+Rrycuh        2013 CADA698-8    Fl Ni Wa           103 Jh G8 V
+Lumish        2020 C7B7624-6    Fl Ni              302 J- M8 V
+Hbrasra       2111 C453587-8  M Ni Po              200 Jh F5 D M7 D
+Aarca         2112 B4768A5-6  J                    401 Jh G5 D
+Srakhar       2117 C464574-9    Ag Ni              202 Jh G5 V
+Zkiikkhr      2118 B697485-7  J Ni                 213 Jh K6 V M3 D
+Ukrazk        2212 D57A437-7    Ni Wa           A  310 Jh F8 V M3 D
+Skkyhrk       2213 A975ACA-D  F Hi In Cp           135 Jh F8 V M4 D M3 D
+Hrnabroo      2214 C000537-A    As Ni           A  533 Jh M6 VI
+Ahbrazz       2217 B267589-B  J Ag Ni D3        A  403 Jh F1 D
+Pankra        2218 C447776-7    Ag                 102 Jh F9 D
+Kkugher       2311 C300679-9  M Na Ni Va           203 Jh M3 V M3 D
+Caassaa       2313 C53269A-7  M Na Ni Po        R  805 Jh M6 VI M8 D
+Nhuuhrt       2317 B8A4489-7  M Fl Ni              803 Jh F5 V M9 D
+Hrkuka        2411 B857366-7  M Lo Ni              904 Jh F7 D
+Gaaabrk       2412 B86A4A5-8  J Ni Wa              424 Jh K9 V M5 D
+Hhhuurkh      2414 C58A595-8  M Ni Wa              222 Jh F3 VI
+Hkassiizk     2415 C520877-8    De Na Po           704 Jh F8 V
+Koonkazz      2418 B6518A8-5  F Po                 523 Jh F7 VI
+Kernighan     2420 E58A666-7    Ni Ri Wa           904 J- F9 D M7 D

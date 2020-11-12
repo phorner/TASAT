@@ -1,0 +1,41 @@
+@SUB-SECTOR:Rego    SECTOR:Amdukan 
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1209 1507 0 0 11
+$1507 1404 0 0 11
+$1404 1502 0 0 11
+$1404 1205 0 0 11
+$1205 0905 0 0 11
+$0905 0707 -1 0 11
+$1209 1312 0 1 11
+$1507 1809 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Makhidkir     0904 C758774-3    Ag                 401 J- F4 D M2 D
+Oeksgvekh     0905 B752321-7  J Lo Ni Po           203 J- F0 D
+Ueloga        1003 D7A2300-5    Fl Lo Ni           424 J- G7 IV M1 D M6 D
+Erskna        1005 C542420-9    Ni Po              802 J- F2 D M9 D
+Kaiser        1006 C655103-9    Lo Ni              103 J- K8 D
+Udamu         1009 B310589-9  F Ni                 711 Jo M6 V
+Rerur         1010 A42058A-E  F De Ni Po Cp        204 Jo F9 V
+Iken          1102 E756765-3    Ag                 404 J- F6 D
+Syunatu       1107 C569545-8  M Ni C5              500 J- G2 VI M5 D
+Kanoghoun     1205 B7AA865-B  J Fl Wa              902 J- F0 V M5 D
+Goksukhs      1207 X265468-0    Ni              R  820 Jo F7 VI M9 D
+Aener         1209 B366526-9    Ag Ni              624 Jo F6 V
+Sunabim       1302 C8B699C-B    Fl Hi              903 J- M5 D M9 D M3 D
+Agghatha      1304 E666569-4    Ag Ni           R  123 J- G3 D
+Imiishan      1307 C400620-9  M Na Ni Va           303 J- M4 V
+Zallaghz      1404 B150223-9    De Lo Ni Po        622 J- F1 VI M0 D
+Rudza Egh     1407 C330555-A    De Ni Po           221 J- M4 V M0 D
+Mesim         1409 C500220-8  M Lo Ni Va           803 J- M9 V
+Ilage         1502 B300979-A  F Hi Na Va           113 J- M4 V
+Buladki       1507 B5489BC-8  M Hi In              503 J- G4 D M6 D
+Zugh Dhu      1510 C651656-8    Ni Po              704 J- F4 V
+Dukaa         1601 D572220-3    Lo Ni              703 J- F3 V M2 D
+Allue         1605 E5A8311-7    Fl Lo Ni           522 J- K0 V
+Kirrsuek      1606 C768633-6  M Ag Ni              103 J- F0 V
+Migigar       1608 C100841-9  M Na Va              602 J- F1 D

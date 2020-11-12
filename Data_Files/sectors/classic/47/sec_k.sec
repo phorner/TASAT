@@ -1,0 +1,34 @@
+@SUB-SECTOR:Nalimim  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1825 1627 -1 0 11
+$1929 2330 0 0 11
+$1929 1529 -1 0 11
+$1825 2025 0 0 11
+$2425 2724 1 0 11
+$2425 2025 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oekksoer      1721 A210246-B  J Lo Ni              900 Jc A8 V M7 D
+Raerrg        1726 B575645-9  M Ag Ni              801 Jc F2 D M4 D
+Adudukin      1728 B777324-9  M Lo Ni              802 Jc F6 D M4 D
+Unleghz       1729 C796677-5    Ag Ni              505 Jc K2 D
+Adkibip       1824 B7A7667-A  F Fl Ni              500 Jc F7 V
+Nalimim       1825 A2566A9-C  J Ag Ni Cp           404 Jc F0 VI
+Ludzeghza     1922 C120464-8    De Ni Po           402 J- M4 V
+Hoopla        1929 A351400-C  J Ni Po              524 Jc F8 D
+Etsorrgta     2021 CA86223-5  M Lo Ni              504 J- M0 VI
+Domino        2025 B300678-9  J Na Ni Va           834 J- M0 V M7 D
+Emerson       2125 D120520-9    De Ni Po           213 J- M3 V
+Gherranug     2126 C556647-7    Ag Ni              924 J- F5 VI M7 D
+Siisushar     2128 E563779-4    Ri                 100 J- F2 D
+Oerraer       2229 C979547-9    Ni                 804 Jc G8 VI
+Anaciwin      2322 X568337-0    Lo Ni           R  104 J- F5 V M4 D
+Salant        2326 C8CA579-B    Fl Ni Wa           202 J- M2 V M8 D
+Doerruz       2327 D5508B9-4    De Po           R  524 J- F5 D M5 D
+Unthae        2330 B5A9874-A    Fl                 303 Jc F8 D
+Laruga        2425 C56A458-8  M Ni Wa              700 J- F6 V
+Kueksue       2428 C555166-8    Lo Ni              221 J- F5 V

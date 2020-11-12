@@ -1,0 +1,42 @@
+@SUB-SECTOR:Faraeng  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3206 0206 1 0 11
+$2605 2906 0 0 11
+$2906 3206 0 0 11
+$2906 2909 0 0 11
+$2605 2602 0 0 11
+$2602 2901 0 0 11
+$2605 2304 -1 0 11
+$2909 2912 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fakkan        2501 D565979-4  C Hi                 600 Vw F1 VI
+Aerrughuk     2507 C340300-6  M De Lo Ni Po        803 J- F1 V M3 D
+Attawigo      2508 E335589-5    Ni An              900 J- K2 D M8 D
+Tatha         2602 B764586-9    Ag Ni              204 Vw M8 D M8 D
+Uerreng       2605 B746202-7  J Lo Ni              602 J- F7 V M3 D
+Oegaeng       2701 C232599-A    Ni Po              513 Vw F6 V M8 D
+Thoughu       2705 C968572-4    Ag Ni              402 J- F3 V
+Oghagz Og     2709 D310354-7    Lo Ni              201 J- M1 D
+Uezaek        2801 C6998B6-8  C                    402 Vw F1 V M2 D
+Khikuu        2803 E353553-4    Ni Po              601 J- F5 V
+Ungars        2807 C100402-A    Ni Va              204 J- K7 V
+Zazna         2901 A7A658B-B  G Fl Ni Cp           304 Vw F1 III
+Akalae        2903 C510220-9  M Lo Ni              701 J- F6 V M4 D
+Oekhal        2905 D5857AE-5    Ag                 900 J- F6 D
+Zangoen       2906 B68A655-B    Ni Ri Wa           420 J- F3 D
+Afang         2909 B79A784-8    Wa                 224 J- G8 VI M0 D
+Afoul         3002 C210320-8  M Lo Ni              621 J- G2 D
+Girkiras      3003 E6439A9-4    Hi In Po           312 J- F2 D
+Kighez        3005 D5257B8-5                       620 J- M4 V M2 D
+Inoerrgh      3010 C423652-6  M Na Ni Po           313 J- M7 V M4 D
+Jackpot       3101 E765799-1    Ag Ri C0           413 J- F5 V M6 D
+Ullsagh       3103 C37368A-7    Ni              A  613 J- F9 V M5 D
+Shardar       3106 C664678-4    Ag Ni Ri           833 J- F2 VI
+Gzaga         3204 B130200-A  J De Lo Ni Po        214 J- M9 V
+Boondocks     3206 AA55679-9    Ag Ni              204 J- F7 D M8 D
+Centaur       3210 C884301-8    Lo Ni              702 J- G9 VI

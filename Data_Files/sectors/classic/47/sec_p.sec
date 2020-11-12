@@ -1,0 +1,44 @@
+@SUB-SECTOR:Lorean  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2539 2701 0 1 11
+$3140 3202 0 1 11
+$3138 0136 1 0 11
+$2539 2338 -1 0 11
+$2539 2939 0 0 11
+$2939 3138 0 0 11
+$3138 3140 0 0 11
+$2736 3138 0 0 11
+$2736 2832 0 0 11
+$2832 2829 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lamont        2533 E110562-9    Ni                 204 J- F8 V
+Ryan          2537 C58A112-A    Lo Ni Wa           202 Jl F7 V M4 D
+Rrole         2539 C443787-6    Ni Po              102 Jl F3 V
+Okhagza       2631 D300466-5    Ni Va              102 J- M3 III
+Sanger        2636 E776578-4    Ag Ni              704 Jl G1 D
+Winniplo      2638 C99A467-A  M Ni Wa              902 Jl F4 D
+Whitehall     2640 C69A896-8    Wa                 734 Jl F3 D M8 D
+Worpole       2735 C150310-9  M De Lo Ni Po        504 Jl F4 D M1 D
+Llueng        2736 A9B9141-F    Fl Lo Ni           602 Jl M8 V M6 D
+Starwood      2832 A7586A7-8  J Ag Ni              503 Jl F4 VI
+Odd Fellow    2833 C27769C-7    Ag Ni              604 Jl K3 D M1 D
+Lorr Aeg      2834 E768884-3    Ri                 523 Jl G6 D M5 D
+Oshannah      2837 C648662-3  M Ag Ni              424 Jl K4 D M3 D
+Einar         2838 C0005AA-9    As Ni              522 Jl M2 V M2 D
+Rhubarb       2932 BA88642-7  J Ag Ni Ri           424 Jl F7 D
+Chillak       2935 C643787-7  M Po                 900 Jl F1 D
+Strauss       2939 B556687-9  J Ag Ni C1           302 Jl G9 D
+Berkley       3032 B110301-C    Lo Ni              914 Jl M6 V M1 D M8 D
+Forerslug     3033 C641110-8    Lo Ni Po           104 Jl F0 VI M0 D M5 D
+Wellington    3039 C643434-8  M Ni Po              822 Jl F7 VI
+Damlaer       3138 A677AA6-E  J Hi In Cp           200 Jl F6 VI
+Gvurzghon     3140 B465624-8  M Ag Ni              901 Jl F5 V
+Ngallueg      3231 E9B6463-3    Fl Ni              404 Jl G4 V
+Roanado       3232 C58A233-9  M Lo Ni Wa           603 Jl F3 VI
+Maaserli      3233 B779466-7  M Ni                 623 Jl G1 V M3 D
+Whiz          3234 B320234-9  J De Lo Ni Po        235 Jl G8 IV M2 D

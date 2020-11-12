@@ -1,0 +1,47 @@
+@SUB-SECTOR:Julian  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0223 3122 -1 0 11
+$0127 3230 -1 0 11
+$0223 0120 0 -1 11
+$0223 0127 0 0 11
+$0223 0525 0 0 11
+$0127 0327 0 0 11
+$0327 0627 0 0 11
+$0525 0725 0 0 11
+$0725 1023 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fedhueto      0123 A779746-8  J                    124 Ja F9 VI M4 D M4 D
+Gho Ungzok    0124 B9D6855-7  J Fl                 103 Ja F8 D M9 D M2 D
+Ignaamar      0125 C476520-8    Ag Ni              522 Ja F5 VI
+Aekhsoull     0126 A572102-A  F Lo Ni              303 Ja M7 V
+Panorama      0127 B66988A-7  M Ri                 910 Ja K7 V
+Nigigag       0128 C235545-7  M Ni                 523 Ja G0 V M9 D
+Amidu         0221 C644365-5    Lo Ni              502 Ja F9 V
+Fracas        0222 B22748B-C  M Ni                 304 Ja K0 V M8 D
+Asimikigir    0223 A684A87-E  F Hi Cx              300 Ja F4 VI M9 D
+Aerr Ogo      0225 E3477A8-3    Ag                 423 Ja F8 D
+Ilus          0327 A663762-7  J Ri                 604 Ja G9 D
+Ongogu        0421 D130410-9    De Ni Po           704 Ja K2 V M1 D
+Vedzonga      0422 C130200-A  M De Lo Ni Po        504 Ja K6 V M2 D
+Teucria       0423 A853100-D  D Lo Ni Po           803 Ja F2 V
+Kinoshita     0427 C661499-6    Ni              A  804 Ja M9 VI
+Sagamaha      0429 C689324-6  M Lo Ni              300 Ja M8 VI
+Peleus        0430 A78A401-D  J Ni Wa              504 Ja F7 V M6 D
+Gangi         0521 D667303-3    Lo Ni              100 Ja F8 V M8 D
+Rakue         0524 C67479A-3  M Ag                 222 Ja F9 V
+Mudaliar      0525 B665220-6  M Lo Ni              900 Ja F4 V M7 D
+Gaskuzi       0526 D7A6411-5    Fl Ni              123 Ja G3 II M7 VI
+Ullasoth      0623 C764321-6    Lo Ni           A  903 Ja F0 D M3 D
+Mukiip        0627 B5108AA-9  J Na                 423 Ja F8 VI
+Khang Ken     0630 C853449-8  M Ni Po              624 Ja F0 VI M9 D
+Akhag         0721 C334567-7  M Ni              R  223 J- F4 III
+Umada         0722 C0009CA-9    As Hi Na           810 Ja G8 D M2 D
+Kubagir       0724 D542356-7    Lo Ni Po           303 Ja K4 D M8 D
+Xanthus       0725 B77A423-A    Ni Wa              100 Ja M3 D M7 D
+Larrti        0728 D000302-9    As Lo Ni           620 J- F0 V
+On Ozorr      0828 E9887B7-5    Ag                 805 J- F8 V

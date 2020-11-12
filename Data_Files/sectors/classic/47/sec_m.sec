@@ -1,0 +1,43 @@
+@SUB-SECTOR:Vector  SECTOR:Amdukan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0639 0601 0 1 11
+$0237 3236 -1 0 11
+$0237 0335 0 0 11
+$0237 0639 0 0 11
+$0639 1040 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ilaekhs       0131 C356332-6  M Lo Ni              923 Ja K0 VI
+Caduceus      0134 B242401-C  F Ni Po              424 Jr F6 D M1 D
+Aezouruz      0135 C673240-7    Lo Ni              804 Jr F6 D
+Mamshuli      0137 C564567-7  M Ag Ni              522 Jr M6 V M3 D
+Kongeng       0138 C634658-6    Ni                 600 Jr G2 V
+Agksang       0139 C440455-7  M De Ni Po           902 Jr G6 D
+Kakhan        0140 C466200-8    Lo Ni              402 Jr F1 D
+Ueksou        0237 A226434-B    Ni                 304 Jr M1 V
+Upash         0240 E46657A-6    Ag Ni              102 Jr F7 VI
+Advent        0331 C000556-A    As Ni              534 Ja M6 VI M0 D
+Roemer        0335 B79A236-A    Lo Ni Wa           322 Jr F5 V
+Englewood     0336 CA87657-4    Ag Ni Ri           504 Jr M0 VI M4 D
+Ochsner       0431 C8876BA-6    Ag Ni              802 Ja F9 D M2 D
+Aradiir       0432 C344564-6    Ag Ni              504 Ja M5 VI
+Dreray        0435 E567245-4    Lo Ni C7           205 Jr F2 VI
+Missooet      0438 D879474-5    Ni                 703 Jr F3 D
+Uefos         0440 X77A554-4    Ni Wa           R  405 Jr F5 VI
+Kadrius       0538 C344A96-8    Hi In              804 Jr F3 V M6 D
+Umarami       0540 E100266-8    Lo Ni Va           300 Jr M1 VI
+Irraeledz     0636 C410658-A    Na Ni              222 Jr F9 V
+Lusliki       0639 A87A886-B  J Wa Cp              924 Jr M0 V M8 D
+Iliikiig      0640 C100214-B    Lo Ni Va           422 Jr M1 V
+Llundhue      0732 C655766-6  M Ag                 122 J- M2 D M6 D
+Siika         0738 C648414-4    Ni              A  623 Jr F5 VI
+Urrdzang      0739 B6A6898-8    Fl                 623 Jr F6 V M8 D
+Syntaxis      0740 C2448BE-8  M                    821 Jr G1 D
+Izoulvagh     0832 C747652-7  M Ag Ni              123 J- M5 D
+Uekhon        0834 C65577C-4    Ag                 213 J- F7 V
+Gueroedz      0838 C320554-A    De Ni Po           510 Jr K3 V
+Patroclus     0839 B748695-9    Ag Ni              104 Jr M3 D
