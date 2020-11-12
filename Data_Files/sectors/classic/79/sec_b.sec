@@ -1,0 +1,15 @@
+@SUB-SECTOR:Khiira  SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1209 B426458-B    Ni                 923 Im G7 II
+              1308 B344684-A    Ag Ni              704 Im G3 V M0 D
+              1407 EAF7154-A    Lo Ni Fl           221 Im K0 V M8 D
+              1507 B30089C-D  N Na Va              604 Im M2 VI K5 D
+              1510 C543435-7    Ni Po              600 Im K2 V
+              1605 E1008BB-A    Na Va              804 Im M0 V M6 D

@@ -1,0 +1,47 @@
+@SUB-SECTOR:I   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0123 A555200-F    Lo Ni              123 Im M5 V M8 D
+              0126 C665357-8    Lo Ni              514 Im M5 III M7 VI
+              0129 C724664-7    Ni                 303 Im M0 V
+              0222 B200310-F  S Lo Ni Va           914 Im M8 V
+              0223 C446154-9    Lo Ni              603 Im K5 IV M1 D
+              0227 C7A9588-9    Ni Fl              203 Im M4 V
+              0228 C545230-A  S Lo Ni              603 Im M4 V
+              0229 C8B6410-C    Ni Fl              903 Im M3 V
+Dudin         0230 B9CA9CE-F    Hi Fl Wa           900 Im M8 VI
+              0321 C445422-A  S Ni                 500 Im M2 IV
+              0322 B210225-B    Lo Ni              815 Im M8 V
+Biik          0323 D557AFG-9    Hi                 523 Im M2 V K1 D
+              0324 C221210-9    Lo Ni Po           703 Im K4 V M3 D
+              0325 B986768-C    Ag Ri              720 Im G0 V
+              0329 B9668CC-B  N                    613 Im M4 V
+              0421 C322241-A    Lo Ni Po           721 Im G9 V M2 D
+              0423 C250853-B  S Po De              904 Im M3 V
+              0425 B877212-C  A Lo Ni              704 Im M7 VI K3 D
+              0426 C8C3403-8    Ni Fl              102 Im K1 V
+              0521 D3405AE-9  S Ni Po De           903 Im M4 V
+              0523 D899303-9    Lo Ni              802 Im M2 IV
+              0524 C115330-C    Lo Ni              814 Im M9 V
+              0526 C86A358-A    Lo Ni Wa           704 Im M9 IV M7 V
+              0528 C683104-7  S Lo Ni              420 Im M0 VI
+              0530 C23027B-9  S Lo Ni Po De        802 Im G6 V
+              0621 D120445-D  S Ni Po De           804 Im K2 IV
+              0622 D530624-8    Na Ni Po De     A  422 Im M2 V M2 V
+              0625 B666441-8  N Ni                 724 Im G4 V
+              0628 E796442-8    Ni                 402 Im M3 V
+Zeda          0721 B873967-E  S Hi In              524 Im K4 III
+              0723 C9AA333-C    Lo Ni Fl Wa        104 Im M8 VI K4 D
+              0724 C510410-7    Ni                 501 Im M0 V
+              0725 C300500-B    Ni Va              213 Im K2 V
+              0729 B89A545-D  N Ni Wa              711 Im M1 V
+              0821 D8B2557-9  S Ni Fl              313 Im F2 V
+Urgu          0823 EA8A9DG-8    Hi Wa              115 Im K4 V
+              0825 B37577C-8    Ag                 105 Im M0 V M0 D
+              0828 A100757-F    Na Va              912 Im M0 IV M0 D

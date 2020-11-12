@@ -1,0 +1,39 @@
+@SUB-SECTOR:M   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0137 C568310-7    Lo Ni           A  904 Im K2 V
+              0138 B201240-D    Lo Ni Va Ic        112 Im K0 VI
+              0232 D9B4743-9  S Fl                 802 Im K3 V
+              0235 C778543-8    Ag Ni              103 Im M0 V M1 D
+              0236 D435875-6  S                    224 Im M3 V M0 VI
+Bolivar       0240 A78699D-F  A Hi                 814 Im K1 V M9 D
+              0331 E79A687-6    Ni Wa              404 Im K2 V
+              0440 A775456-D    Ni                 503 Im K3 VI
+Eddum         0531 D7979C8-9    Hi In              702 Im M4 V M0 D
+              0535 C110530-9  S Ni                 712 Im K4 V
+              0539 B20056B-C    Ni Va              810 Im M1 III
+              0540 B000661-C  N Na Ni As           803 Im G1 V
+              0631 C300100-A  S Lo Ni Va           202 Im M5 V
+              0633 C637334-B  S Lo Ni              624 Im G7 V
+              0635 B500021-D  N Lo Ni Va           602 Im M9 IV M1 D
+              0636 C546110-B    Lo Ni              412 Im G0 V
+              0638 B541330-9  S Lo Ni Po           604 Im K7 V M7 D
+              0639 A1206AC-F  N Na Ni Po De        810 Im M2 V
+              0733 C4367BA-9    C0                 704 Im M1 V M6 D
+              0734 B9AA887-E  N Fl Wa              620 Im M0 D
+              0735 B5958A6-7                       102 Im M0 V
+Nimuin        0736 C7539EH-A  S Hi Po              504 Im K0 V
+              0738 B866145-A  N Lo Ni              700 Im G5 V
+              0739 B100101-E    Lo Ni Va           202 Im M9 V
+              0831 C200441-A    Ni Va              800 Im M3 III
+              0832 D324640-6  S Ni                 532 Im G2 V
+              0833 A45369B-F    Ni Po              223 Im M0 V M3 D
+              0835 C5559BA-7  S Hi                 715 Im F1 V
+              0839 D748369-6  S Lo Ni              104 Im G3 II M9 V
+              0840 B561422-C    Ni                 902 Im M4 V

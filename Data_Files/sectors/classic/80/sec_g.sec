@@ -1,0 +1,37 @@
+@SUB-SECTOR:G   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1711 E350421-5    Ni Po De           404 Im M3 D M0 D
+              1712 C7AA886-C  S Fl Wa              213 Im M1 D
+              1713 C300459-A    Ni Va              623 Im M1 V
+              1717 B200223-B  S Lo Ni Va           304 Im G2 VI
+              1718 B100634-F    Na Ni Va           401 Im K9 IV M9 V
+              1813 B7AA235-E    Lo Ni Fl Wa        520 Im M9 V M2 D
+              1816 B411548-E  N Ni Ic           A  501 Im M2 V M6 D
+              1911 B000500-D    Ni As              913 Im G1 VI
+              1912 C300667-C  S Na Ni Va           221 Im M0 V
+              1913 D458520-A  S Ag Ni              322 Im K4 V
+Rukhigu       1918 C410976-E  S Hi Na In           710 Im F4 V M7 D
+              1919 BA75149-8    Lo Ni              603 Im K5 III
+              1920 D8B0535-5  S Ni De              503 Im K1 V M5 D
+              2013 A453764-B  N Po                 524 Im M5 VI M4 D
+Shibishlim    2015 B466A55-D  N Hi                 801 Im M3 V
+              2020 A310554-F    Ni                 923 Im K4 V
+              2111 B000575-F  N Ni As              504 Im K0 V
+              2113 C443578-B    Ni Po              324 Im M2 V
+Khandi        2119 A222A87-F    Hi Na In Po        312 Im M3 V
+              2216 D2106A9-8  S Na Ni              602 Im K0 V M4 D M6 D
+              2317 A75A552-D    Ni Wa              104 Im G3 V M0 D
+              2318 A300533-F  N Ni Va              611 Im M1 V M3 D
+              2320 C8D3663-A  S Ni Fl              325 Im M1 V M3 D
+              2412 C226520-9  S Ni                 503 Im M0 V
+              2413 A4007B9-F  N Na Va              704 Im M4 III
+              2415 C000565-C  S Ni As              624 Im K2 V M9 D
+              2416 C33147A-A  S Ni Po              702 Im M6 IV
+              2418 B454402-F    Ni                 714 Im M2 V M7 D

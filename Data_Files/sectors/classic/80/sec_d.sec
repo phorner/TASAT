@@ -1,0 +1,42 @@
+@SUB-SECTOR:D  SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2505 B776565-D    Ag Ni              803 Im K4 V
+              2506 B2728BD-B  N                    600 Im M2 V
+              2601 C8B8574-A  S Ni Fl              703 Im M0 V M8 D
+              2602 C00056A-9  S Ni As              703 Im M1 V G1 D
+              2603 A685202-F    Lo Ni              804 Im M6 D
+              2604 C884869-9  S Ri                 102 Im M4 V
+              2605 C643340-B  S Lo Ni Po           820 Im G1 V
+              2609 B628567-C    Ni                 803 Im G3 V M1 D
+              2703 B649446-A    Ni                 903 Im M1 V
+              2706 A542886-E    Po                 314 Im G2 V
+              2708 C420797-7    Na Po De           620 Im G3 IV
+Larmige       2709 B7759DD-C  A Hi In              610 Im M0 V
+              2710 B96A88A-A    Ri Wa              212 Im M0 VI M1 D
+              2801 B43079B-D    Na Po De           704 Im M7 IV
+              2802 C300664-B    Na Ni Va           304 Im M3 V
+              2803 C569776-A  S Ri                 913 Im G0 V M4 D
+              2807 B200530-F  W Ni Va              600 Im M9 VI
+              2904 C97A575-7    Ni Wa              900 Im M0 VI
+              2908 B200651-F  A Na Ni Va           812 Im M0 II M6 D
+              3001 C89A644-B    Ni Wa              802 Im K3 V
+              3004 B57187A-C  N                    200 Im M4 V
+              3005 A689576-F  N Ni                 122 Im F0 V M9 D
+              3006 C544265-9    Lo Ni              815 Im M1 V K9 D
+Iiradli       3008 A542A9A-F    Hi In Po           900 Im M3 V
+              3101 B552576-C    Ni Po              203 Im M2 V
+              3103 C7AA8A8-8    Fl Wa              302 Im K6 IV
+              3107 B768834-A  S                    901 Im K1 VI M1 D
+              3110 A46769A-B  N Ag Ni Ri           224 Im G3 V M4 D
+              3202 C476002-A  S Lo Ni              401 Im M3 IV M6 V
+              3205 C000668-B  S Na Ni As           114 Im K1 V M6 D
+              3206 C201752-8    Na Va Ic           603 Im M9 VI M7 D M1 D
+              3208 C898000-A    Lo Ni Ba           612 Im K7 III
+              3209 C536114-9    Lo Ni           A  825 Im K8 V

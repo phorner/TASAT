@@ -1,0 +1,51 @@
+@SUB-SECTOR:Vipach  SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sirir         0131 X7969AA-6    Hi In           R  723 Im K3 V
+              0132 D260345-6    Lo Ni De           300 Im A1 III M2 D
+              0135 E200774-8    Na Va              102 Im K1 V
+              0136 A487452-D  S Ni                 224 Im M6 IV
+Ushulu        0137 C7829DA-A    Hi                 700 Im M0 V M4 D
+              0138 C333103-B    Lo Ni Po           222 Im G8 V M3 D M0 D
+              0140 B768145-C  N Lo Ni              600 Im M0 V M7 D
+              0231 D503540-5    Ni Va Ic           522 Im M3 VI K9 D
+              0233 C695335-9  S Lo Ni              903 Im M7 V
+              0236 B8A5003-9    Lo Ni Fl           922 Im K7 V
+Strand        0237 C                               502 Im G4 V
+              0239 X120335-4    Lo Ni Po De     R  504 Im K9 V
+              0332 X472400-6    Ni              R  323 Im K2 V M8 D
+              0333 B537343-9    Lo Ni              211 Im M6 V
+              0334 C515034-B    Lo Ni Ic           103 Im K3 IV M6 D
+              0338 D560867-5  S D7 Ri De           313 Im G0 V M1 D
+Sagal         0339 X887A9C-6    Hi              R  813 Im K1 IV M0 D
+              0432 C573489-8  S Ni                 204 Im M8 II M9 VI
+              0433 B646002-9  S Lo Ni              405 Im M2 V
+              0434 D2307CB-A  S Na Po De           704 Im M8 V
+              0435 C42356A-8  S Ni Po              705 Im K3 V
+              0436 C5435A7-A    Ni Po              910 Im M5 II
+Jaeyelya      0437 B484655-4  S Ni                 702 Im K6 D
+              0438 D532216-8  S Lo Ni Po           900 Im M9 V M1 D
+              0439 B453465-E  S Ni Po              303 Im G0 V
+              0531 C325531-A    Ni                 302 Im K3 V M4 D
+              0532 D8D578C-4  S Fl                 202 Im K0 V M1 D
+              0536 B967852-8  A Ri                 904 Im M0 V
+              0537 A764137-E    Lo Ni              200 Im M6 V M4 D
+              0631 B59468C-8  N Ag Ni              512 Im M2 V
+              0632 C738447-B  S Ni                 410 Im K4 V M5 D
+              0634 CAD6268-7    Lo Ni Fl           600 Im M0 V
+              0639 A565400-F    Ni                 214 Im K3 V M4 D M4 D
+              0640 B200777-B    Na Va              802 Im K4 V M2 D
+              0732 B100464-E  S Ni Va              213 Im M4 V
+              0733 A9C7331-B  N Lo Ni Fl           504 Im A6 V M6 D
+              0737 B585020-B    Lo Ni              300 Im M3 V K6 D
+Dikaash       0738 B6279B8-F  A Hi In              101 Im M4 V
+              0740 B10037A-B  W Lo Ni Va           100 Im M8 VI M4 D
+              0831 B79A557-F    Ni Wa              102 Im G4 IV
+Ginupa        0839 C55999C-C  S Hi                 803 Im G0 V
+              0840 B502412-D    Ni Va Ic           313 Im M2 V M4 D

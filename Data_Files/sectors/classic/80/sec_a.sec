@@ -1,0 +1,44 @@
+@SUB-SECTOR:A   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0103 A9687BB-D  N Ag                 313 Im M1 V M2 D3 V
+              0105 BBB1410-A  S Ni Po              402 Im M0 V1 VI
+Akimu         0106 C9B69CC-9  S Hi Fl              303 Im K9 IV4 V
+              0108 C582867-8    Ri                 715 Im M4 IV
+              0109 C685767-8    Ag Ri              904 Im K2 V M3 D
+              0110 C442510-B    Ni Po              924 Im G4 V
+              0201 A310200-F    Lo Ni              410 Im K9 V
+              0202 D675723-7    Ag                 503 Im M4 V
+Mimu          0208 A4579A9-D    Hi                 801 Im K0 V
+              0210 A95A8DB-B    Wa                 903 Im M4 V M6 D
+              0302 C455541-9  S Ag Ni              903 Im M0 VI M7 D
+              0307 C000667-A    Na Ni As           713 Im M7 VI
+              0401 D868431-4  S Ni                 703 Im G4 V M9 D
+              0402 A66975A-E  S Ri                 514 Im K1 V M0 D
+              0405 B789100-E  N Lo Ni              810 Im M9 V M1 D
+              0406 A000124-E  N Lo Ni As           722 Im K4 V M0 D
+              0407 C94736B-8  S Lo Ni              713 Im M2 V M0 D
+              0408 C252664-9  S Ni Po              604 Im M4 V K0 D
+              0502 CA7A774-9    Wa                 510 Im G2 V M2 D
+              0503 D311553-A  S Ni Ic              304 Im M9 III M0 VI
+              0504 D888778-6    Ag Ri              413 Im M4 V
+              0505 A5A689B-A  S Fl                 302 Im M4 V M5 D
+              0506 A140233-D  N Lo Ni Po De        704 Im K2 V
+              0509 D578664-3    Ag Ni              224 Im K1 V
+              0601 C344543-A    Ag Ni              235 Im M2 V M1 D
+              0604 C222425-B  S Ni Po           A  900 Im M1 V
+              0610 C7A5776-B    Fl                 524 Im K0 V
+Zuiar         0705 B450967-A  N Hi Po De           323 Im K0 V
+              0707 D561520-9  S Ni                 900 Im M4 V M1 D
+              0708 A75886A-D  N                    803 Im K6 D M9 D
+              0709 B94A100-D  N Lo Ni Wa           813 Im M8 V M6 D
+              0801 C612521-7    D2 Ni Ic           604 Im M4 V
+              0802 C89A5A9-7  S Ni Wa              102 Im K2 V M1 D M7 D
+              0803 A231557-G    Ni Po              403 Im M2 V M4 D
+              0810 B372348-B  N Lo Ni              100 Im G4 VI

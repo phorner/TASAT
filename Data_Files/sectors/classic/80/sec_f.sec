@@ -1,0 +1,40 @@
+@SUB-SECTOR:F   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0914 C000343-A    Lo Ni As           514 Im K7 V M4 D
+              0916 B7678AC-C  S                    504 Im K0 V
+              0920 B545048-8  S Lo Ni              214 Im M0 II
+              1011 C679443-A    Ni                 404 Im A2 V M1 D
+Ushra         1016 A625943-G  N Hi In              933 Im M4 V
+              1017 C365845-8    Ri                 520 Im M0 V M9 D
+              1020 D535010-7  S Lo Ni              904 Im K3 V
+              1113 C521111-7    Lo Ni Po           404 Im M5 V
+              1114 B89A241-C    Lo Ni Wa           111 Im M7 V M0 D
+              1115 B9A5446-A    C0 Ni Fl           220 Im M4 V
+              1117 C445741-8    Ag                 700 Im K3 V M8 D
+              1118 D686411-4  S Ni                 601 Im M4 V M6 D
+              1212 A772697-C    Ni                 612 Im G1 V
+              1218 C221557-A    Ni Po              601 Im A5 III M1 D
+              1220 C41047B-9    Ni                 602 Im M2 V M5 D
+              1314 C594447-6    Ni                 911 Im M0 V
+Argiluu       1317 B68A997-C  N Hi Wa              114 Im M8 II
+              1318 B344357-E    Lo Ni              704 Im M8 V
+              1319 D553113-7  S Lo Ni Po           904 Im M9 V M3 D
+              1320 A130458-F    Ni Po De           624 Im M7 II M6 D
+              1414 D100420-B    Ni Va              210 Im K2 V
+              1416 A55567C-C    Ag Ni              603 Im M3 V
+              1418 C430773-7    Na Po De           114 Im K4 V M9 D
+              1420 C755400-A    Ni                 714 Im K2 V
+              1511 B110878-A    Na                 803 Im M0 V
+              1516 E676559-A    Ag Ni              104 Im M6 III M2 V M6 V
+              1520 D765443-5  S Ni                 714 Im M2 V
+              1612 D68948A-9  S Ni                 103 Im M1 V M7 VI M3 D
+              1613 A9E3546-F    Ni Fl              422 Im M1 V M7 V
+              1615 B351459-C  N Ni Po              410 Im M4 V
+              1618 C445000-9  S Lo Ni Ba           202 Im M1 IV

@@ -1,0 +1,58 @@
+@SUB-SECTOR:Sallounn  SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 B53468A-B  N Ni                 204 Im M3 V
+              0922 A775112-C    Lo Ni              703 Im K2 III
+              0923 EA9A941-B    Hi In Wa           902 Im M0 V M0 D
+              0924 B326353-B  W D1 Lo Ni        A  401 Im M4 V M6 D
+              0925 B87A740-9    Wa                 202 Im M7 VI
+              0926 B457669-C    Ag Ni              403 Im M4 V M6 D
+              0927 E678457-A    Ni                 321 Im G5 D
+              0928 C692300-8    Lo Ni              313 Im M8 V
+              0930 E442586-A    Ni Po              223 Im M2 VI
+              1021 C471344-A    Lo Ni              900 Im K9 III M9 D
+              1023 C120000-E    Lo Ni Po De Ba     615 Im K3 V
+              1025 C767469-B    Ni                 704 Im M2 V M8 D
+              1026 E78A442-9    Ni Wa              500 Im M9 VI
+              1027 C200879-C  S Na Va              822 Im M0 V M9 D
+              1029 C270679-A    Ni De              602 Im F2 V
+              1122 X436457-7    Ni              R  313 Im M4 V
+              1123 C88A203-8    Lo Ni Wa           401 Im M4 V
+              1124 B524537-A  S Ni                 412 Im K2 V
+              1125 A300532-C    Ni Va              300 Im K4 V
+              1127 C223689-9    Na Ni Po           102 Im M4 V M9 D
+              1128 C350553-C    Ni Po De           702 Im K4 V
+              1129 B220457-G    Ni Po De           813 Im M7 IV M4 D
+              1221 E410578-6    Ni                 802 Im M2 V
+              1223 B36366A-C  S Ni Ri           A  503 Im F0 IV
+              1225 A321341-E  A Lo Ni Po           824 Im M9 V
+              1227 C33169D-B  S Na Ni Po           524 Dr M2 V
+              1228 E455553-8    Ag Ni              403 Im M4 V
+              1321 C665300-9    Lo Ni              421 Im M0 V M5 D
+              1322 B587345-B  S Lo Ni              404 Im G9 IV
+              1328 A130477-D  N Ni Po De           703 Im K4 V M9 D M9 D
+              1422 C262888-7    Ri                 703 Im G2 V M8 D
+              1423 B411789-B  N Na Ic              704 Im M0 V
+              1425 B000331-D  S Lo Ni As           103 Im G8 VI
+              1426 B263867-D  N Ri                 604 Im M1 V M2 D
+              1430 B526543-E  N Ni                 600 Im M8 IV M7 D
+              1521 C7648BB-6                       203 Im G9 IV M0 V
+              1522 B567664-7  N Ag Ni Ri           111 Im M4 D
+              1523 BAE7230-A  S Lo Ni Fl           623 Im M3 V M7 D
+              1525 C410225-D    Lo Ni              303 Im K9 V
+              1526 E362513-5    Ni                 512 Im M0 V
+              1528 B498536-9  N Ag Ni              413 Im G2 V M5 D
+              1529 E441441-9    Ni Po              704 Im M1 V M1 D
+              1530 B420510-B  N Ni Po De           205 Im M0 III
+              1622 C648453-B  S Ni                 603 Im K1 V
+              1623 C848523-B    Ag Ni              300 Im K3 IV
+              1624 C520455-9  S Ni Po De           203 Im M1 V M0 D
+              1625 C264599-A    Ag Ni              314 Im G0 V
+              1627 D400102-9  S Lo Ni Va           522 Im M3 V
+              1629 C534544-A    Ni                 615 Im M1 V K1 D

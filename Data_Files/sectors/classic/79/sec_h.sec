@@ -1,0 +1,54 @@
+@SUB-SECTOR:Isi Ahto SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2511 E736548-7    Ni                 703 Im M0 V M6 VI
+              2512 E336446-9    Ni                 404 Im K9 III
+Masa          2513 B221AAA-F  S Hi Na In Po        700 Im M3 V
+              2514 A63726B-B    Lo Ni              303 Im M1 V M2 D
+              2517 D242200-A  S Lo Ni Po           405 Im K5 V
+              2612 C8C5330-B    Lo Ni Fl           724 Im M9 V
+              2613 D647400-8    Ni                 202 Im K8 III M0 D
+              2614 D358836-6  S                    520 Im K1 V
+              2615 C7855AC-9    Ag Ni              624 Im M2 V
+              2617 D338464-B  S Ni                 104 Im G9 III
+              2618 A647200-B    Lo Ni              604 Im M5 V M1 D
+              2619 E334579-A    Ni                 214 Im M0 VI M6 D
+Akushis       2620 E0009AC-B    As                 104 Im M5 V
+              2713 C8688BB-7  S                    612 Im K2 V M8 D
+              2715 C8B179B-B  S Fl                 704 Im K3 V
+Shakhamash    2716 A94A99A-G  N Hi In Wa           503 Im M3 V K0 D
+              2717 C5878B8-A                       704 Im K3 V
+              2812 D466310-5    Lo Ni              104 Im M4 V
+              2813 B553455-A  W Ni Po              103 Im M6 III M7 V
+              2814 A876623-9  N Ag Ni              902 Im M0 V
+              2815 A688863-A  N Ri                 602 Im M3 V
+              2820 C895898-9                       203 Im M4 V
+              2912 B848222-C    Lo Ni              101 Im M3 V M4 D
+              2914 A00066B-E  N Na Ni As           110 Im K7 VI M5 D
+              2915 A463566-E    Ni                 400 Im G2 III M4 VI
+              2916 C679426-C    Ni                 303 Im M2 V M1 D
+              2917 X2428AA-5    Po              R  502 Im K1 IV
+              2919 D444136-8  S Lo Ni              800 Im M8 V
+              2920 E0009A7-D    Hi Na In As        604 Im M3 V M8 D
+              3012 D7898AA-7  S                    214 Im M2 V M7 D
+              3013 C632765-9    Na Po              600 Im K4 V
+              3014 E667687-7    Ag Ni Ri           204 Im K8 IV M2 D
+              3015 A6B3420-B    Ni Fl              324 Im G6 VI
+              3016 A3406AB-E  D Ni Po De           124 Im G4 V
+              3017 C835778-8  S                    803 Im K0 IV
+              3112 C210414-A    Ni                 910 Im M7 IV
+              3116 E40356A-7    Ni Va Ic           413 Im K3 IV M4 D
+              3117 B9B77AB-C    Fl                 903 Im M3 V M8 D
+              3118 E537745-8                       910 Im K4 V
+              3211 A457744-F    Ag                 600 Im M4 V
+              3212 B261599-B    Ni                 504 Im K4 V M7 D
+              3214 C310579-D    Ni                 500 Im K1 V M5 D
+              3217 C886001-8    Lo Ni              513 Im G5 V M6 D
+Senlis        3218 E447998-B    Hi In              703 Im M4 V M2 D
+              3219 C444434-A  S Ni                 203 Im M0 V

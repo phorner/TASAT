@@ -1,0 +1,42 @@
+@SUB-SECTOR:Ankhsusgar  SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1712 B757433-8    Ni                 504 Im K8 III
+              1715 B665655-A  S Ag Ni Ri           215 Im M2 V M1 D
+              1717 D566446-9  S Ni                 804 Im G0 III M8 V
+              1718 C74A121-B  S Lo Ni Wa           510 Im M3 V M3 D
+              1811 B583432-A    C2 Ni              804 Im M2 V
+              1814 B557774-C  S Ag                 904 Im M4 V
+              1815 C423455-E  S Ni Po              620 Im M1 V M5 D
+              1816 A311565-D  N Ni Ic              710 Im M5 IV
+              1818 C568488-6    Ni                 312 Im M4 V
+              1911 C456455-9  S Ni                 614 Im M0 V
+              1914 E76A641-7    Ni Ri Wa           202 Im M2 V
+              1915 E88A630-7    Ni Wa              901 Im K2 V
+              1916 E150412-9    Ni Po De           400 Im M2 V
+              2015 C585644-9    Ag Ni Ri           810 Im K2 V
+              2018 B440547-D  N Ni Po De           802 Im M1 V M3 D M4 D
+              2019 C9D6511-C  S Ni Fl              800 Im G3 V M5 D M8 D
+              2020 E264564-A    Ag Ni              900 Im K4 V
+              2113 E451372-5    Lo Ni Po           503 Im K0 VI M5 D
+              2115 C420040-7    Lo Ni Po De     A  402 Im M6 V
+              2119 EAAA8A7-A    Fl Wa              101 Im F2 V M7 D
+              2120 D570154-5  S Lo Ni De           130 Im M5 VI M0 D
+              2213 C9B366A-A    Ni Fl              134 Im K1 V M3 D
+              2215 C585598-6    Ag Ni              110 Im G1 V
+              2216 C5A5655-C    Ni Fl              414 Im M2 V
+              2217 B222586-E  A Ni Po              503 Im M1 V
+Ed            2313 B57AA7A-F    Hi In Wa           313 Im M0 III
+              2316 C647444-6    Ni                 600 Im G3 V M3 D
+              2318 B876420-9    Ni                 800 Im M1 V
+              2320 C674559-7    Ag Ni              200 Im K3 V
+              2411 C78A48A-9  S Ni Wa              202 Im M0 V
+              2414 C000675-C  S Na Ni As           903 Im M2 V M6 D
+              2415 B77A445-A  A Ni Wa              100 Im M4 V M1 D
+              2418 A621666-D    Na Ni Po           300 Im M1 V M4 D

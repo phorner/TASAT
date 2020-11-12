@@ -1,0 +1,46 @@
+@SUB-SECTOR:P   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2531 B527467-D  N Ni                 704 Im M2 V
+              2533 A552441-D  A Ni Po              924 Im M2 V M8 D
+              2536 C8A7610-B  S Ni Fl              313 Im K4 D
+              2631 D742575-4    Ni Po              300 Im G7 III
+              2634 A527411-C  S C0 Ni              102 Im M8 III
+              2635 B552566-8    Ni Po              614 Im M3 V M9 V
+              2637 B6107CC-B  S C0 Na              922 Im M3 V M8 D
+              2734 B547773-C  S Ag                 602 Im M3 VI M6 D
+              2735 C99A327-7  S Lo Ni Wa           903 Im M2 V
+              2736 C9D6574-9  S Ni Fl              904 Im M0 V M9 D
+              2737 C894553-B  S Ag Ni              200 Im A2 III K1 D
+              2738 D203212-8  S Lo Ni Va Ic        712 Im K3 V M4 D
+              2739 C645441-B  S Ni                 803 Im M3 V K2 D
+              2831 D768774-3    Ag Ri              303 Im M0 V
+              2836 C777200-B  S Lo Ni              503 Im M8 V
+              2837 C382300-C    Lo Ni              505 Im K9 II M8 VI
+              2838 A543156-B    Lo Ni Po           723 Im G9 V
+              2932 B210634-9    Na Ni              403 Im M3 V
+              2935 B788885-C    Ri              A  103 Im K2 V
+              2936 E687742-4    Ag Ri              103 Im M2 V
+Kakar         2937 C1009CB-F    Hi Na In Va        630 Im M0 V M5 D
+              2938 C758121-A  S Lo Ni              603 Im K9 V M5 D
+              3031 C85A686-9    Ni Wa              201 Im G1 V
+Uumirsa       3032 B000954-F  A Hi Na In As        404 Im K2 V
+              3035 B8B5202-C  N Lo Ni Fl           603 Im G1 III
+              3037 C543589-B    Ni Po              103 Im K2 V
+              3039 C371367-A    Lo Ni              211 Im K1 V
+              3135 B245525-9  S Ag Ni              104 Im G0 V
+Kadushi       3136 C8899A7-C  S Hi                 804 Im M3 V
+              3138 C542468-8    Ni Po              121 Im G4 V
+              3139 A433204-F  N Lo Ni Po           103 Im G8 V
+              3231 D580411-8    Ni De              903 Im G2 V
+              3235 C594550-7    Ag Ni              903 Im M1 III M5 D
+Shardi        3236 C326ADB-E  S Hi In              604 Im M0 V
+              3238 B458831-8    D3                 313 Im K1 V M5 D
+              3239 DA7A266-8  S Lo Ni Wa           102 Im G9 V M4 D
+              3240 A5A0734-F  N De                 613 Im G2 IV

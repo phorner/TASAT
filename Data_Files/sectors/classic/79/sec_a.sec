@@ -1,0 +1,12 @@
+@SUB-SECTOR:Riften SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0610 E86A79B-6    Ri Wa              102 Na K3 V
+              0803 E7B1625-2    Ni Fl              200 Cs K1 V M3 D
+              0810 E558642-6    Ag Ni              201 Na M3 V M3 D

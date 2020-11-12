@@ -1,0 +1,55 @@
+@SUB-SECTOR:Dashinshaii SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 C0006A9-8    Na Ni As           200 Im M4 V
+              1722 A87A332-D  N Lo Ni Wa           203 Im M0 V
+              1723 E362536-7    Ni                 303 Im M2 VI M3 D
+              1724 A772445-E  N Ni                 405 Im M4 V K6 D
+              1727 E424620-9    Ni                 720 Im M0 D M2 D
+              1821 B244301-C  S Lo Ni              234 Im G2 V M4 D
+              1822 B344302-D    Lo Ni              813 Im G5 VI
+              1823 AAF4326-B  N Lo Ni Fl           912 Im G2 IV
+              1826 A89A522-F    Ni Wa              700 Im M2 III
+              1828 E200303-8    Lo Ni Va           205 Im M2 V M5 D
+              1921 E726335-5    Lo Ni              203 Im M7 V
+              1923 CA69644-6    Ni Ri              110 Im K2 V M3 D
+              1924 D777300-7  S Lo Ni              903 Im K8 V
+              1925 C77869C-9  S Ag Ni              421 Im M5 IV
+              1926 B2628CB-D                       513 Im M1 V
+              1927 E75A644-5    Ni Wa              703 Im G4 V
+Unlardigard   1930 B3109AB-G    Hi Na In           504 Im M4 V
+              2021 D657644-8  S Ag Ni              602 Im M0 V M5 D
+              2022 B421679-C  N Na Ni Po           612 Im A3 V M9 D
+Trill         2029 A784977-F  N Hi                 315 Im M1 V
+              2121 E67A412-6    Ni Wa              915 Im K6 IV M7 D M1 D
+              2122 B541679-7  N Ni Po              804 Im K4 V
+              2124 C220464-C  S Ni Po De           624 Im M4 V
+              2125 E200110-B    Lo Ni Va           105 Im M3 V
+Tlauwao       2127 D330A9C-9  S Hi Na Po De        504 Im K0 V M9 D M7 D
+              2128 E549200-7    Lo Ni              704 Im A3 V
+              2130 A000420-F  N Ni As              403 Im K0 V M1 D
+              2221 C683550-7    Ni                 220 Im K4 V
+              2223 X230320-5    Lo Ni Po De     R  603 Im M5 IV M5 D
+Usdiki        2224 A6649EF-F  N Hi                 703 Im M0 V M0 D M9 D
+              2225 E210300-A    Lo Ni              203 Im M3 V
+              2227 A693572-A    Ni                 510 Im M1 V M2 D
+              2228 B43266A-E    Na Ni Po           305 Im M7 VI K5 D
+              2229 C593524-9    Ni                 922 Im K1 V M5 D M2 D
+              2323 C400746-8  S Na Va              510 Im M9 II K4 D M5 V
+Droun         2325 B543976-E  S Hi In Po           700 Im K1 V
+              2326 C655400-B    Ni                 301 Im G2 V M5 D
+              2330 D260769-5  S Ri De              624 Im F2 V
+              2422 C785675-7    Ag Ni Ri           110 Im K5 VI M0 D
+              2424 A33278A-F    Na Po              700 Im K3 V M0 D
+              2425 E430576-6    Ni Po De           714 Im G0 V
+              2426 A592543-A    Ni                 934 Im K1 V
+              2427 B502432-A  S Ni Va Ic           600 Im M2 V
+              2428 D429498-7    Ni                 102 Im A9 D M8 D
+              2429 D120000-9  S Lo Ni Po De Ba     502 Im M9 V M7 D
+              2430 C334642-8    Ni                 705 Im M4 V

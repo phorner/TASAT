@@ -1,0 +1,55 @@
+@SUB-SECTOR:Tansa  SECTOR:Gushemege
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2501 C76A830-B    Wa              A  702 Im M3 V M0 D
+              2502 D73579D-4                       210 Im K1 V M0 D
+              2503 C8B9124-9    Lo Ni Fl           823 Im M8 V
+              2504 C370512-8    Ni De              301 Im M3 V M7 D
+Shiramuunir   2507 C444AC8-F  S Hi In              431 Im K1 V M7 D
+              2509 B9C7867-9  N Fl                 603 Im G0 II M2 D
+              2609 B7A6527-B    Ni Fl              815 Im K2 V
+              2610 D525545-8    Ni                 110 Im K4 V M6 D
+              2701 AA9A432-E  N Ni Wa              300 Im K4 III
+              2704 BA7A222-B  N Lo Ni Wa           300 Im K1 V M9 D
+              2705 BAE4652-9  S Ni Fl              104 Im M8 II
+              2706 C331677-A    Na Ni Po           920 Im A0 V G3 D
+              2707 E36079B-5    Ri De              303 Im M4 V M6 D
+              2709 C340355-8    Lo Ni Po De        604 Im M0 D M5 D
+              2801 C7657A8-9    Ag                 200 Im K2 V
+              2802 B222588-A    C1 Ni Po           303 Im K1 V
+              2804 C544676-5    Ag Ni              410 Im K1 V
+              2806 E96A645-6    Ni Ri Wa           702 Im M4 V
+              2807 X380464-5    Ni De           R  104 Im M0 V
+              2809 B321400-F  N Ni Po              904 Im M3 V
+              2810 A584578-C    Ag Ni              900 Im M6 D
+              2904 E642678-5    Ni Po           A  201 Im K9 IV M9 D
+              2905 C257523-C    Ag Ni              814 Im K4 V
+              2906 C898553-9  S Ag Ni              711 Im M3 D
+Lishan        2907 B310989-F    Hi Na In           513 Im M4 IV
+              2910 AAE7379-F  N Lo Ni Fl           500 Im K6 V
+              3002 C533689-6    C0 Na Ni Po        700 Im K3 V
+              3003 D1405A8-B    Ni Po De           304 Im A2 V
+              3004 B555765-B  N Ag                 400 Im M2 V M2 D
+              3006 B56749B-A    Ni                 503 Im M1 V M9 D
+              3007 C756300-8    Lo Ni              800 Im K7 V M1 D
+              3008 C300112-C    Lo Ni Va           903 Im K4 V
+              3009 C553461-A  S C1 Ni Po           502 Im M0 V
+              3101 C7A4789-6    Fl                 510 Im M3 V M8 D
+              3103 X8B0564-4    Ni De           R  203 Im G0 V M9 D
+              3104 D235515-6    Ni                 304 Im K3 V M8 D
+Kukhun        3105 B658997-E  A Hi                 503 Im K0 V
+              3106 C7A5644-6    Ni Fl              725 Im M3 V
+              3107 D587100-A  S Lo Ni              411 Im A4 V M4 D
+              3110 C56547A-9    Ni                 803 Im M2 V
+              3202 E78A564-6    Ni Wa              502 Im G8 II M6 D
+              3203 A779143-F  A Lo Ni              112 Im M7 V
+              3205 C643576-9  S Ni Po              923 Im G5 IV M9 VI
+              3206 C100796-9    Na Va              305 Im A1 V
+              3208 A638789-C                       824 Im G1 V M7 D
+              3210 C504443-9    C0 Ni Va Ic        624 Im K0 V M3 D

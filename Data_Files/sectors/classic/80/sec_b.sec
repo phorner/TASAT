@@ -1,0 +1,42 @@
+@SUB-SECTOR:B   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0901 A9B0642-C  N Ni De              604 Im M4 V M7 V
+              0902 DAAA745-8    Fl Wa              120 Im G3 VI
+              0904 D403266-A    Lo Ni Va Ic        904 Im A3 VI G7 D
+              0905 C552369-A    Lo Ni Po           704 Im A1 V
+              0906 B867730-B    Ag                 103 Im F0 V M5 D
+              0909 C6B1689-6  S Ni Fl              422 Im M4 II
+              0910 C653362-8  S Lo Ni Po           622 Im M4 V
+              1004 A5A4304-F  N Lo Ni Fl           810 Im M1 V
+              1005 A2378A7-C                       505 Im K1 V M0 D
+              1007 B227448-A  N Ni                 601 Im A0 V M4 D
+              1010 B527485-9    Ni                 621 Im K6 II M9 V
+              1102 D4467B9-9  S Ag                 402 Im M4 V M2 D
+              1105 D140358-A    Lo Ni Po De        601 Im M5 IV M4 D
+              1107 D220236-9    Lo Ni Po De        804 Im M6 V
+              1108 B8B6534-B  S Ni Fl              102 Im M3 V
+              1110 C743376-9  S Lo Ni Po           110 Im M6 V
+              1202 A567369-D    Lo Ni              204 Im M6 V
+              1204 A977377-A    Lo Ni           A  400 Im M5 V
+              1206 B21067B-C  N Na Ni              903 Im G3 V
+              1207 A564233-C  N Lo Ni              502 Im M1 V
+              1208 B5A4779-D    Fl                 113 Im M7 VI
+              1302 C9C58AB-B    Fl                 402 Im K4 V
+              1401 D425699-A    Ni                 925 Im M0 V
+              1402 D69799A-A  S Hi In              203 Im M3 V
+              1406 C365535-A  S Ag Ni              814 Im M0 V
+              1409 A769762-B    Ri                 824 Im M0 V M2 D
+Giinashkhid   1502 D9B6957-A  S Fl Hi              314 Im K4 II M3 D
+              1503 C667013-A    Lo Ni              104 Im M2 V M4 D
+Kimalad       1506 A7859CB-E    Hi                 603 Im K2 V M2 D
+              1507 B957000-A    Lo Ni Ba        A  200 Im M2 V M2 V
+              1602 C435420-8    Ni              A  605 Im K3 V M0 D
+              1604 C562224-A    Lo Ni              403 Im K9 V M0 D
+              1605 C350688-8    Ni Po De           323 Im G1 V M5 D

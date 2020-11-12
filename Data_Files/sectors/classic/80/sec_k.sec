@@ -1,0 +1,48 @@
+@SUB-SECTOR:K   SECTOR:Dagudashaag
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1722 B99A200-E  W Lo Ni Wa           204 Im M7 VI
+Dashi         1723 C15098B-E    Hi Po De           404 Im M2 V
+              1726 CAAA772-B  S Fl Wa              714 Im M1 V
+Ekhugush      1728 A63698A-D  N Hi                 312 Im M4 IV M9 D
+              1729 D86A204-A  S Lo Ni Wa           722 Im G1 V
+              1730 D203462-A    Ni Va Ic           604 Im K2 V
+              1821 A572845-E                       710 Im K2 II
+              1822 A246200-D  N Lo Ni              803 Im M3 V M3 D M9 D
+              1823 A457885-D                       401 Im M1 V
+              1824 C43655A-C    Ni                 704 Im K1 V M3 D
+              1829 B383435-9  S Ni                 205 Im G3 V
+              1830 D789535-5    Ni                 111 Im M3 IV
+              1924 B341699-D  S Ni Po              113 Im K1 V
+              1926 A200697-D  S Na Ni Va           504 Im M2 V
+              1927 C486112-A    Lo Ni              800 Im M6 III
+              1928 C335894-7                       205 Im G0 VI
+Ikabi         1929 C0009DE-D    Hi Na In As        800 Im K4 V
+              1930 A401230-D    Lo Ni Va Ic        803 Im M1 V
+              2022 B220310-B  N Lo Ni Po De        113 Im M7 III M9 D
+              2023 B211454-C  S Ni Ic              612 Im M4 V M5 D
+              2024 C512669-9    Na Ni Ic           732 Im M0 V
+              2026 A401797-C  N Na Va Ic           414 Im A3 V
+              2028 A664378-B  N Lo Ni              903 Im M4 V
+              2030 C6B2665-8  S Ni Fl              303 Im M3 V M5 D
+              2122 C9966AA-7    Ag Ni           A  803 Im K4 V
+              2123 B778411-8    Ni                 920 Im G6 V
+Medurma       2124 A67399C-G    Hi In              313 Im M8 D
+              2127 D56A557-9    Ni Wa              423 Im K8 VI
+              2130 B13069B-C  N Na Ni Po De        814 Im M0 III M7 VI
+Dipa          2223 C200AEB-F  S Hi Na In Va        701 Im A4 V M5 D
+              2225 B666666-7  N Ag Ni Ri           723 Im G4 V
+              2226 A424100-E  S Lo Ni              702 Im K7 II
+              2227 C5468AD-5  S                    300 Im M4 VI
+              2228 C401578-8  S Ni Va Ic           514 Im M0 V
+              2322 B100587-D  A Ni Va              102 Im K2 V M6 D
+              2324 C233644-8  S Na Ni Po           500 Im M1 V K8 D
+              2327 C160004-B    Lo Ni De           202 Im M4 V
+              2424 B335655-C    Ni              A  113 Im M4 V
+              2426 A623025-A  S Lo Ni Po           505 Im M2 V M9 D
