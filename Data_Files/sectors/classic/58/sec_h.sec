@@ -1,0 +1,39 @@
+@SUB-SECTOR:Fessor SECTOR:Foreven
+#
+$2811 2710 0 -1 13
+$2811 2614 0 0 13
+$2520 2822 0 1 13
+$2517 2614 0 0 13
+$2517 2320 -1 0 13
+$2520 2320 -1 0 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Lanei         2517 B502565-B  Z Ic Ni Va           3 5 Zc
+Lorelei       2518 C668742-7    Ag Ri           A  3 4 Na
+Rematen       2520 AAB5500-D  X Fl Ni              5 0 Zc
+Okopivo       2611 C340564-7    De Ni Po           9 4 Na
+Otrai         2613 E765674-5    Ag Ni Ri        A  2 2 Na
+Nilestart     2614 D66475A-6  X Ag Ri              3 0 Zc
+Cigura        2615 E676500-4    Ag Ni              2 1 Zc
+Blukjere      2616 B7658DG-7                    A  4 3 Na
+Roopolaty     2712 C65667A-9    Ag Ni           A  3 3 Na
+Cadabibado    2715 B855598-B    Ag Ni              4 4 Na
+Esia'dria     2811 C564789-8  Z Ag Ri              9 2 Zh
+Agnasti       2812 C100433-D    Ni Va           A  1 0 Na
+FESSOR        2814 B510999-D  S Hi In Na Cp        2 0 Cs
+Ynotpu        2820 B322569-A    Ni Po              2 0 Zc
+Ecahesa       2920 D410555-B    Ni                 4 5 Na
+Askadero      3013 B747221-A  N Lo Ni              1 3 Cs
+Apinanto      3014 E431432-6    Ni Po              3 3 Na
+Pynchan       3015 C656795-9    Ag              A  3 2 Na
+Parthinia     3018 C694655-C    Ag Ni              5 0 Na
+Gwydion       3020 C442535-9    Ni Po              3 3 Na
+Ugenie        3111 X597000-0    Ba Lo Ni        R  0 4 Na
+Lanilre       3115 C333472-8    Ni Po              1 4 Na
+Malefolge     3116 B787699-7    Ag Ni Ri        A  6 2 Na
+Wadanga       3119 C438131-8    Lo Ni              3 3 Na
+Koskepoc      3212 B769758-A    Ri                 5 4 Na
+Saphi         3214 B470689-C    De Ni              1 2 Cs
+Calo          3215 D56A755-9    Ri Wa              1 5 Na
+Elindu        3217 E764300-4    Lo Ni           A  3 4 Na

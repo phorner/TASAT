@@ -1,0 +1,40 @@
+@SUB-SECTOR:Pieplow SECTOR:Foreven
+#
+$0712 1012 1 0 13
+$0712 0412 0 0 13
+$0412 0312 0 0 13
+$0412 0516 0 0 13
+$0516 0517 0 0 13
+$0517 0418 0 0 13
+$0517 0818 0 0 13
+$0312 0408 0 -1 13
+$0712 0708 0 -1 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Zdata         0112 B652579-A    Ni Po              801 Zh
+Zabl          0113 B53667B-8    Ni                 2 2 Zh
+Azhdots       0116 AAB8656-B    Fl Ni              822 Zh
+Azh           0211 C459759-9                       401 Zh
+Ientsyopr     0212 XAC5000-0    Ba Fl Lo Ni     R  0 4 Zh
+Dled          0213 X404000-0    Ba Ic Lo Ni Va  R  0 4 Zh
+Vratsie       0214 B6A2566-9    Fl Ni              704 Zh
+Ponchviaq     0218 D566600-7    Ag Ni              1 3 Zh
+PIEPLOV       0312 A000973-E  Z As Hi In Na Cp     1 5 Zh
+Brieria       0411 B9A5899-B                       1 5 Zh
+Epriatlech    0412 C666663-7  Z Ag Ni Ri           7 5 Zh
+Piesh         0418 B352688-A  Z Po                 623 Zh
+Dumosif       0513 B5628X8-8    Ri              R  312 Dr
+Aflebshaql    0516 A886758-A  Z Ag Ri              3 2 Zh
+Dliadizh      0517 C765454-7  Z Ni                 3 4 Zh
+Maple         0520 D9C8115-7    Fl Lo Ni           4 2 Na
+Bianz         0612 B666653-A    Ag Ni Ri           4 1 Zh
+Drensblebl    0712 B7A28BB-B  Z Fl                 5 3 Zh
+Plibradr      0716 E549456-9    Ni              A  613 Zh
+Iantzpliq     0717 D6868AA-5                       724 Zh
+Chake         0720 E612377-6    Ic Lo Ni        A  3 1 Na
+Afriedevr     0814 X796000-0    Ba Lo Ni        R  013 Zh
+Brietlmofl    0815 E472102-6    Lo Ni              214 Zh
+Eriedlier     0818 B447687-B  Z Ag Ni              1 4 Zh
+Wutubole      0819 C7A1252-A    Fl Lo Ni           2 3 Na
+Cogswell      0820 D878565-7    Ag Ni              200 Na

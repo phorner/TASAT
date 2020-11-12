@@ -1,0 +1,48 @@
+@SUB-SECTOR:Shivva SECTOR:Foreven
+#
+$0104 0403 0 0 13
+$0104 0306 0 0 13
+$0502 0403 0 0 13
+$0502 0401 0 0 13
+$0504 0403 0 0 13
+$0508 0306 0 0 13
+$0708 0508 0 0 13
+$0408 0508 0 0 13
+$0408 0312 0 1 13
+$0502 0801 0 0 13
+$0404 0403 0 0 13
+$0404 0508 0 0 13
+$0708 0712 0 1 13
+$0708 0910 1 0 13
+$0801 1102 1 0 13
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+EZJAVRCHA     0103 C5829BA-A    Hi                 6 4 Zh
+Fadishivr     0104 A000465-C  Z As Ni              2 3 Zh
+Tlensheplie   0202 B376669-A    Ag Ni              9 5 Zh
+Frinzhqlekl   0203 A851868-A    Po                 2 1 Zh
+Odlaj         0302 C251662-9    Ni Po              2 2 Zh
+Iatsvlabl     0304 B435424-C    Ni                 2 4 Zh
+Anzplefral    0305 B654335-B    Lo Ni              7 5 Zh
+Tefechij      0306 A321868-C  Z Na Po              314 Zh
+Brajshtaz     0308 X525000-0    Ba Lo Ni        R  0 5 Zh
+Chanzqlibr    0309 A465301-D  Z Lo Ni              2 0 Zh
+Tledlziad     0401 B313454-E  Z Ic Ni              7 4 Zh
+Stietlid      0402 A676402-C    Lo Ni              8 3 Zh
+SHIVVA        0403 A456AA8-E  Z Hi Cp              324 Zh
+Diachiniem    0404 A450546-E  Z De Ni Po           2 4 Zh
+Zhodrkradl    0408 A477521-A  Z Ag Ni              1 4 Zh
+Niaql         0502 B2427AB-B  Z Po                 4 0 Zh
+Izdeprjdia    0503 B5A3421-B    Fl Ni              1 4 Zh
+Ezh Zafr      0504 B997541-B  Z Ag Ni              7 4 Zh
+Ishitlidl     0505 E000778-8    As Na              724 Zh
+Planchiefl    0507 D78A27A-6    Lo Ni Wa           4 2 Zh
+PADREBR       0508 B5139CB-D  Z Hi Ic Na           8 5 Zh
+Antneflkra    0604 C578636-7    Ag Ni              7 3 Zh
+Dliablsa      0607 X458000-0    Ba Lo Ni        R  0 5 Zh
+Dliatsia      0610 C533754-7    Na Po              7 4 Zh
+Pa Flavr      0708 B7745AA-A  Z Ag Ni              2 0 Zh
+Ezh Etsia     0801 C537652-8  Z Ni                 8 3 Zh
+Seqi          0807 A75A766-E    Wa                 2 1 Zh
+Sutiano       0810 C779876-8                    A  9 2 Zh

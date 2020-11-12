@@ -1,0 +1,33 @@
+@SUB-SECTOR:Xenough SECTOR:Foreven
+#
+$2121 1920 0 -1 13
+$2121 2320 0 -1 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Sypot         1724 C9B15AE-7    Fl Ni              8 5 Av
+Lubote        1725 A7B4344-C  J Fl Lo Ni           2 4 Av
+Koshadi       1726 C6976BB-4    Ag Ni              2 2 Av     h
+Torinsk       1728 A0007AE-D  J As Na              2 4 Av     h
+Mahir         1729 B41089D-C    Na                 7 2 Av     h
+Onohemu       1822 C244345-7    Lo Ni              4 2 Na
+XENOUGH       1828 A560A8A-D  J De Hi Cp           2 3 Av     h
+Tepenke       1926 A64887B-9  J                    5 1 Av
+Dibelon       1927 C778786-9    Ag                 1 4 Av
+Debagu        2021 C8B5665-5    Fl Ni              3 2 Na
+Notaneja      2022 C647589-6    Ag Ni              3 3 Na
+Tubadeja      2023 C8C0522-7    De Ni              1 2 Na
+Sizapooma     2121 B530530-B  Z De Ni Po           2 1 Zc
+Bava World    2123 X220000-0    Ba De Lo Ni Po  R  0 5 Na
+Nesturgi      2128 C699687-9    Ni                 5 4 Av     h
+Daba          2225 X357000-0    Ba Lo Ni        R  0 3 Na
+Lador         2230 C683685-6    Ni Ri              2 1 Av
+Dengvin       2325 E666775-2    Ag Ri              9 3 Na
+Asyrog        2326 D48768A-3    Ag Ni Ri           4 4 Na
+Manifesto     2328 C000343-B    As Lo Ni           1 1 Av
+Anipaso       2422 CAD8665-8    Fl Ni              4 2 Cs
+Podse         2423 D200269-9    Lo Ni Va           1 5 Cs
+Kahitse       2427 C583732-8                       7 0 Av
+LENIN         2428 A766A86-D  J Hi                 3 3 Av
+TUNMOPOSU     2429 A647975-C    Hi In              8 4 Av
+Rantatte      2430 A3328B9-A    Na Po              2 0 Av

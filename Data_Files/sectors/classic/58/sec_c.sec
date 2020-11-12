@@ -1,0 +1,37 @@
+@SUB-SECTOR:Shial SECTOR:Foreven
+#
+$1804 1404 -1 0 13
+$1701 1804 0 0 13
+$1701 0207 0 -1 13
+$1804 1905 0 0 13
+$1905 1807 0 0 13
+$1807 1808 0 0 13
+$1701 1837 0 -1 13
+$1905 2304 0 0 13
+$1905 2003 0 0 13
+$2304 2202 0 0 13
+$2202 2439 0 -1 13
+$2304 2602 1 0 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ezh Ieets     1701 A320220-C  Z De Lo Ni Po        3 2 Zh
+Jdieshaqra    1703 A211368-E    Ic Lo Ni           3 4 Zh
+Frapi         1704 X541000-0                    R  0 5 Zh
+Blibrafli     1804 B695668-6  Z Ag Ni              6 3 Zh
+Tladree       1806 A642369-9    Lo Ni Po           1 1 Zh
+Ibiedl        1807 A411576-E  Z Ic Ni              815 Zh
+Tseplezvie    1808 A533664-A  Z Na Ni Po           8 3 Zh
+Qrikliev      1901 X638000-0    Ba Lo Ni        R  0 0 Zh
+Entians       1905 B684778-8  Z Ag Ri              623 Zh
+Eqrebr        2002 B246362-C    Lo Ni              1 5 Zh
+Ezh Kadep     2003 C76678C-5  Z Ag Ri              1 5 Zh
+Ratanshont    2005 X530000-0    Ba De Lo Ni Po  R  0 4 Zh
+Oplzenzh      2102 B100679-B    Na Ni Va           6 4 Zh
+Ziatip        2103 C320726-9    De Na Po           4 2 Zh
+Pepraet       2202 A3017BF-C  Z Ic Na Va        A  4 0 Zh
+Caglop        2209 D592654-3    Ni                 4 0 Na
+Praienz       2304 B310330-D  Z Lo Ni              4 3 Zh
+Zhdejtlia     2306 X100000-0    Ba Lo Ni Va     R  0 4 Zh
+Dybun         2309 X567000-0    Ba Lo Ni        R  0 4 Na
+Sayploc       2310 E237262-7    Lo Ni              3 5 Na

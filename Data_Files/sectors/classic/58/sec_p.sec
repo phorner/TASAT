@@ -1,0 +1,32 @@
+@SUB-SECTOR:Urnian SECTOR:Foreven
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Dinpholasy    2532 B988676-9    Ag Ni Ri        A  1 5 Av     h
+LUNE          2537 C4409A6-A    De Hi In        A  1 3 Na     h
+Ronu          2632 E534440-3    Ni Po              4 2 Av     h
+Lela          2634 C310400-A    Ni                 9 2 Na
+Suspe         2731 B8C6311-C  J Fl Lo Ni           9 4 Av
+Capshobem     2736 D78A100-6    Lo Ni Wa           2 3 Na     h
+Nosafo        2739 E320213-6    De Lo Ni Po        3 0 Na
+Nanno         2740 D500456-9    Ni Va              5 4 Na     h
+URNIAN        2833 B9779AC-A  N Hi In Cp           5 3 Cs     h
+PYLKAH        2834 E463977-9    Hi                 3 5 Na     h
+Nato          2835 E795230-5    Lo Ni           A  1 0 Na
+Okunpamsk     2836 C300201-9    Lo Ni Va           3 2 Na
+Ipmokyng      2838 C739878-9                       3 4 Na
+Udika         2934 C659322-8    Lo Ni              9 5 Na
+Ovdyo         2935 C422425-C    Ni Po              8 5 Cs
+Kutadis       2937 E668214-2    Lo Ni           A  1 4 Na     h
+Cinboshabo    2938 C422685-B  S Na Ni Po           8 4 Cs     h
+Tenynti       2940 C130151-B    De Lo Ni Po        1 4 Na
+Vapchy        3034 B847320-7    Lo Ni              3 4 Na
+Gotylu        3035 E688699-2    Ag Ni Ri        A  9 4 Na
+Novoterre     3037 C765877-5  S Ri              R  8 4 Cs     h
+Benoncra      3131 B628567-9  S Ni                 2 3 Cs     h
+Lorapa        3134 C140864-6  S De Po              6 4 Cs
+Mainap        3135 E363400-5    Ni                 8 3 Na     h
+Shofrete      3232 X73A863-5    Wa              R  3 1 Cs
+Taupi         3236 E6A4447-4    Fl Ni           A  2 2 Na     h
+Ake           3238 D5356AA-8    Ni                 1 1 Cs     h

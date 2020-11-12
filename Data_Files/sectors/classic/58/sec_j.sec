@@ -1,0 +1,25 @@
+@SUB-SECTOR:Titan SECTOR:Foreven
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Highbury      0926 B566879-9    Ri                 2 3 Na     h
+Garbo         0930 B211512-9    Ic Ni              1 4 Na
+Anfield       1026 C8B9101-B    Fl Lo Ni           6 4 Na
+Solochov      1124 C335797-A  J                    1 4 Av
+Trafford      1126 C574651-6    Ag Ni           A  7 3 Na     h
+PASTERNAK     1224 D573944-5    Hi In              2 3 Av     h
+Bunin         1325 D202200-7    Ic Lo Ni Va        8 3 Av
+Unaski        1329 E2007AB-8    Na Va           A  4 1 Av
+Ninox         1330 D130897-7    De Na Po           5 4 Av     h
+Telypo        1422 C65658B-5    Ag Ni           A  6 0 Av     h
+Totashev      1423 C587544-8    Ag Ni           A  1 2 Av     h
+Bamse         1426 B000897-B  J As Na              1 3 Av
+Evaberi       1427 C302868-7    Ic Na Va           2 4 Av     h
+Spokes        1428 B40086A-7    Na Va              115 Av     h
+TITAN         1429 A642ABA-D  J Hi In Po Cp        2 3 Av     h
+Nordstrom     1523 DADA511-8    Fl Ni Wa           4 0 Av     h
+Pudimon       1528 C41076A-7    Na                 4 3 Av     h
+Naphopi       1622 A458744-D  J Ag                 4 1 Av
+HEPRING       1628 B6789AD-C  J Hi In           A  6 3 Av     h
+Robalin       1630 B969898-B  J Ri                 2 4 Av     h

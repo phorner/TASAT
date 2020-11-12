@@ -1,0 +1,29 @@
+@SUB-SECTOR:Rull SECTOR:Foreven
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Bender        0131 E452564-8    Ni Po              404 Mn
+Konnel        0135 A6A3300-C    Fl Lo Ni           523 Mn
+Pinkel        0136 C668664-7    Ag Ni Ri           502 Mn
+Junnice       0232 B301110-8  M Ic Lo Ni Va        522 Mn
+Kelly         0235 E444767-7    Ag                 503 Mn
+Cauchon       0236 A110466-D    Ni              A  924 Mn
+Esker         0239 B99A747-9    Wa                 823 Na
+Thorhault     0332 B785577-6    Ag Ni              412 Mn
+Baldur        0335 B425555-A    Ni                 715 Mn
+Cale          0336 X330321-4    De Lo Ni Po     R  604 Mn
+Guam Go       0431 B651699-8    Ni Po              805 Mn
+Spirit        0436 B739769-A                       114 Mn
+Mossip        0437 A736363-D  M Lo Ni              204 Mn
+Aren-Karu     0439 B78566A-A    Ag Ni Ri           204 Na
+Rull          0538 A00089D-A    Cp As              304 Mn
+Bail          0633 C8A5101-B    Fl Lo Ni           305 Mn
+Mape          0634 B554363-A  M Lo Ni              224 Mn
+Maru          0639 A73A774-A    Wa                 713 Na
+Forget        0732 C457451-6    Ni                 201 Mn
+Foop          0734 CA89540-7  M Ni                 610 Mn
+Connaught     0735 C4846AA-6    Ag Ni              102 Mn
+Ripost        0837 D344863-2                       604 Mn
+Ventnor       0839 C212379-6    Ic Lo Ni           112 Na
+Ovant         0840 E577200-6    Lo Ni           A  920 Na

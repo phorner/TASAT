@@ -1,0 +1,28 @@
+@SUB-SECTOR:Mowbrey SECTOR:Foreven
+#
+$1815 1612 -1 0 13
+$1815 1618 -1 0 13
+$1920 1618 -1 0 13
+$1920 2121 0 1 13
+$2320 2121 0 1 13
+$2320 2517 1 0 13
+$2320 2520 1 0 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Retlkasrnz    1712 D8AA87A-7    Fl Wa              4 1 Zh
+New Keento    1813 C879758-9                       2 0 Na
+Fonda         1815 B400784-B  X Na Va Cp           2 4 Zc
+Cotalu        1816 C633552-7    Ni Po              9 3 Na
+Eronirabo     1817 B5528CD-9    Po                 7 3 Na
+Gatina        1915 C765876-7    Ag Ri           A  1 0 Na
+Lalumostu     1920 C53576B-9  X                    2 4 Zc
+Sturray       2017 C7A9215-A    Fl Lo Ni           2 0 Na
+Tasijopze     2113 X543000-0    Ba Lo Ni Po     R  0 3 Na
+Purfyr        2211 C867645-A    Ag Ni Ri           6 2 Na
+Ranther       2214 D539598-5    Ni                 8 3 Na
+Lajachi       2311 E222750-6    Na Po              2 3 Na
+Robebi        2320 B9988AB-9  Z                    8 4 Zc
+Ibrolelis     2412 C110667-B    Na Ni              6 0 Na
+Cocta         2415 C5677BA-A    Ag              A  2 4 Na
+Dedei         2420 D526332-5    Lo Ni              1 5 Zc

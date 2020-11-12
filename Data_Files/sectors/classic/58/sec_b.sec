@@ -1,0 +1,37 @@
+@SUB-SECTOR:Lieber SECTOR:Foreven
+#
+$0910 0708 -1 0 13
+$0910 1212 0 1 13
+$0910 1007 0 0 13
+$1102 0801 -1 0 13
+$1102 1103 0 0 13
+$1007 1307 0 0 13
+$1103 1304 0 0 13
+$1307 1405 0 0 13
+$1405 1404 0 0 13
+$1304 1404 0 0 13
+$1404 1804 1 0 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Ojovshala     0902 B572367-9    Lo Ni              324 Zh
+Friazhdial    0908 B724522-A    Ni                 924 Zh
+Jdatshiedl    0909 C1407AD-8    De Po              013 Zh
+SHTIEM        0910 B68799C-D  Z Hi                 204 Zh
+Viplshanch    1007 C3116AB-A  Z Ic Na Ni           203 Zh
+Ezh Bova      1102 B230567-D  Z De Ni Po           103 Zh
+Vrarnjiavl    1103 B000414-C  Z As Ni              202 Zh
+Yejaple       1109 C465764-6    Lo Ni              712 Zh
+Rabrplibli    1205 C0006AD-A    As Na Ni           323 Zh
+Jiatsar       1209 C5838AE-7                    A  710 Zh
+Apltla        1303 C887778-7    Ag Ri              202 Zh
+Fliaza        1304 C250231-6  Z De Lo Ni Po        813 Zh
+Shiplielot    1307 B666446-B  Z Lo Ni              804 Zh
+Flieflienz    1403 B511122-C    Ic Lo Ni           310 Zh
+LIEBER        1404 A6939A6-D  Z Hi In              113 Zh
+Inzens        1405 B325678-C  Z Ni                 303 Zh
+Stablolins    1410 C564589-7    Ag Ni              402 Zh
+Prozashiz     1501 E95A788-5    Wa                 305 Zh
+Shetsodrev    1504 E43456A-7    Ni                 310 Zh
+Lianzhjinj    1507 C9B2269-A    Fl Lo Ni           214 Zh
+Chiazeaz      1602 C270331-6    De Lo Ni           300 Zh

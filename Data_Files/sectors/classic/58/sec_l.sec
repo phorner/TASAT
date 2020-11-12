@@ -1,0 +1,29 @@
+@SUB-SECTOR:Reidain SECTOR:Foreven
+#
+$2822 3021 0 0 13
+$2822 2520 0 -1 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Hollis        2523 A370642-C  A De Ni           A  303 Cs
+Ryanbiwul     2527 C778310-8  J Lo Ni              8 3 Av
+Ontsi         2528 C775555-9    Ag Ni              1 2 Av
+Gitts         2623 A202535-D    Ic Ni Va           3 4 Na
+Boygahe       2628 E400797-6    Na Va              2 3 Av
+Syl           2724 B510874-C    Na                 9 4 Na
+Taypikacho    2821 B583876-7    Ri                 6 3 Zc
+Genape        2822 A7A2678-C  Z Fl Ni              8 2 Zc
+Orynphant     2829 E54369A-3    Ni Po           A  7 2 Av
+Attbegasu     2923 C9A3203-C    Fl Lo Ni           6 0 Na
+Jadrin        2924 C140566-C    De Ni Po           2 4 Na
+REIDAIN       2925 C9EA97B-D    Fl Hi Wa Cp        2 2 Na
+Lenskansi     2926 B120663-D    De Na Ni Po        8 3 Na
+Danalipa      2927 A400754-D  A Na Va           A  4 0 Cs
+Isheydkoka    3021 B373300-D  Z Lo Ni              1 2 Zc
+Gijisapo      3121 E150220-6    De Lo Ni Po        2 2 Na
+Inpota        3124 A665337-D  D Lo Ni              6 3 Dc
+Sowponanho    3126 X796877-4                    R  9 3 Na
+Tadasvena     3221 C455125-8    Lo Ni              8 2 Na
+Lopiengeta    3227 D868365-4  S Lo Ni           A  1 3 Cs
+Alenzar       3229 C000414-9    As Ni              513 Cs
+Raschev       3230 C8697C4-6                       123 Cs

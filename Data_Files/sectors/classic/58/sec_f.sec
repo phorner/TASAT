@@ -1,0 +1,45 @@
+@SUB-SECTOR:Anika SECTOR:Foreven
+#
+$1212 1012 0 0 13
+$1212 1314 0 0 13
+$1314 1612 0 0 13
+$1412 1212 0 0 13
+$1412 1612 0 0 13
+$1212 1312 0 0 13
+$1612 1815 1 0 13
+$1618 1815 1 0 13
+$1618 1920 1 0 13
+$1012 0712 -1 0 13
+$1312 1412 0 0 13
+$1212 0910 0 -1 13
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Stradl        0911 X8B1000-0    Ba Fl Lo Ni     R  010 Zh
+Ora'shtivl    0914 C661646-7    Ri Ni           A  503 Zh
+Chabriaezh    0915 B895630-A    Ag Ni              921 Zh
+Roia          0919 C573873-7                       401 Na
+Il Ser        1012 B537458-7  Z Ni                 111 Zh
+Shrdrplibrie  1016 B402487-C    Ic Ni Va           101 Zh
+Rafra         1111 E330885-6    De Na Po           524 Zh
+Ebriapl       1112 C000854-A    As Na              922 Zh
+Azhshinti     1115 A777784-A    Ag                 504 Zh
+Zdovesil      1212 A65588A-9  Z Cp                 103 Zh
+Vla Mev       1214 C557134-8    Lo Ni              213 Zh
+Dla'zevl      1216 E360787-4    De Ri              920 Zh
+Belt Maginum  1218 B000888-B    As                 423 Na
+Oriaj A'      1312 A474332-B  Y Lo Ni              213 Zh
+Dashiietl     1314 A210525-E  Z Ni                 811 Zh
+Iazbreliep    1316 C535769-6    Po                 803 Zh
+Clamp         1317 D553231-3    Lo Ni Po           700 Na
+Hamagast      1319 E6458BE-2                    A  701 Na
+Edaj          1411 A573795-C                       224 Zh
+Enjiaim       1412 B446567-C  Z Ag Ni              804 Zh
+Ile Danse     1416 A56A756-B    Ri Wa              404 Na
+Kormorant     1419 C6A4554-8    Fl Ni              900 Na
+Jaliaia       1519 C754320-7    Lo Ni              312 Na
+Tlivsiqlal    1612 B443754-A  Z Po                 202 Zh
+Battle        1617 X210000-0    Ba Lo Ni        R  024 Na
+Tlebria       1618 A889614-D  X Ni                 825 Zc
+Gohrost       1619 X110000-0    Ba Lo Ni        R  023 Na
+Yanagh        1620 C236545-7    Ni                 910 Na
