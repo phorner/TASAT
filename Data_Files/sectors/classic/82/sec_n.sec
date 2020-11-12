@@ -1,0 +1,56 @@
+@SUB-SECTOR:Tharrynra SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1537 1738 1 0 11
+$1537 1634 0 0 11
+$1634 1533 0 0 11
+$1533 1431 0 0 11
+$1537 1136 0 0 11
+$1136 0934 0 0 11
+$0934 0632 -1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0932 E8C5242-A    Lo Ni Fl           603 Im M6 D
+              0933 C768774-5    Ag Ri              104 Im M2 V
+Nakindaa      0934 B777998-E  N Hi In              901 Im M4 V
+              0935 C555222-B  S Lo Ni              403 Im M8 V M0 D
+              0936 B232014-B    Lo Ni Po           910 Im A5 V
+Maarika       0937 C3109DF-C    Hi Na In           414 Im G3 V
+              0938 B9A7231-D    Lo Ni Fl           800 Im G2 V M4 D
+              0940 A545316-C    Lo Ni              812 Im G7 V
+              1031 C697644-A    Ag Ni              100 Im K1 V
+              1034 E73A47B-B    Ni Wa              803 Im G7 V
+              1036 D240610-6    Ni Po De           124 Im M6 VI
+              1131 A679346-E    Lo Ni              700 Im A6 V
+              1135 D688424-8    Ni                 702 Im M2 V M1 D
+              1136 B7B6667-C  N Ni Fl              313 Im M1 V
+              1137 C599313-C    Lo Ni              910 Im M6 III
+              1138 E594769-6    Ag                 403 Im G0 III
+              1140 C79A203-D    Lo Ni Wa           802 Im A7 III M9 VI
+              1232 B899020-D    Lo Ni              402 Im M5 V M3 D M4 D
+              1233 B77A410-9    Ni Wa              613 Im M1 V M9 D
+              1234 C74A768-A    Wa                 911 Im K2 V
+              1235 C100354-E  S Lo Ni Va           600 Im K8 VI M7 D
+              1236 D898000-8    Lo Ni Ba           303 Im M3 V M7 D
+              1240 C626887-9                       310 Im M9 D
+              1331 C150459-E    Ni Po De           620 Im K0 V
+              1333 BA7A266-C    Lo Ni Wa           734 Im M9 V
+              1337 C5A0734-B    De                 513 Im M3 V M2 D
+              1339 D223669-8    Na Ni Po           514 Im G2 III M0 V
+              1431 A423467-F    Ni Po              812 Im G1 VI
+              1435 C346430-A    Ni                 700 Im M0 V M5 D
+              1437 C662844-8    Ri              A  622 Im K2 V
+              1439 B647875-C                       911 Im F0 V
+              1531 A684548-C    Ag Ni              200 Im M2 V
+              1533 AA8A558-F    Ni Wa              500 Im K4 V M5 D
+              1535 E86A334-9    Lo Ni Wa           205 Im M5 V
+              1536 B778232-B    Lo Ni              504 Im M1 V
+              1537 A000303-F    Lo Ni As           803 Im K3 VI
+              1540 B597225-A    Lo Ni              102 Im M4 V
+              1634 A438483-E    Ni                 713 Im K4 II M8 D
+              1635 E000222-B    Lo Ni As           300 Im M7 V M7 D
+              1637 C322100-C    Lo Ni Po           503 Im M7 IV M9 VI
+              1640 D838654-5  S Ni                 724 Im K1 V

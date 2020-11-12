@@ -1,0 +1,38 @@
+@SUB-SECTOR:Nareshakir SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2527 2327 -1 0 11
+$2527 2529 0 0 11
+$2529 2730 0 0 11
+$2730 3129 0 0 11
+$2527 2825 0 0 11
+$2825 2821 0 0 11
+$2821 3020 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2521 C8AA422-A    Ni Fl Wa           810 Im G0 V
+              2522 X51488A-4    Ic              R  904 Im M0 V M8 D
+              2524 B64169B-8  W Ni Po              924 Im M2 V M2 D
+              2525 C220341-9    Lo Ni Po De        700 Im G4 V M0 D
+              2526 E7A4889-7    Fl                 404 Im K3 V M2 D
+              2527 B310574-C    Ni                 111 Im M3 V
+              2529 A688659-E    Ag Ni Ri           924 Im M4 III
+Welland       2621 C455A9E-D    Hi                 310 Im G1 IV M6 V
+              2622 X588244-2    Lo Ni           R  125 Im M8 V
+              2624 E5007BC-7    Na Va              710 Im M1 V
+              2726 C000234-A    Lo Ni As           811 Im F6 V
+Happin Belt   2730 B000AAD-G    Hi Na In As        104 Im M4 V
+              2821 A233455-F    Ni Po              410 Im K1 V
+              2825 A656323-E    Lo Ni              721 Im M9 II M4 D
+              2828 C140501-D    Ni Po De           402 Im K2 V
+              2921 C879457-9    Ni                 920 Im K4 V M8 D
+              2923 D624559-B  S Ni                 204 Im M3 V
+              2928 E54768B-8    Ag Ni              700 Im M6 III
+              3025 C405100-D    Lo Ni Va Ic     A  603 Im K8 V M3 VI
+              3129 B63A674-B    Ni Wa           A  913 Im M0 II
+              3226 E221210-A    Lo Ni Po           611 Im M1 V K5 D
+              3228 E236000-7    Lo Ni Ba           204 Im K9 V
+              3229 C8878BE-7                       605 Im K4 V M6 D

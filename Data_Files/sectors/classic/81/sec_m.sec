@@ -1,0 +1,38 @@
+@SUB-SECTOR:Cadion SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Brygella      0132 B76A200-E  A Lo Ni Wa           521 Im K3 V M0 D
+Holt          0133 B8D7346-C  N Lo Ni Fl           915 Im G5 V
+Blanum        0134 B421677-B  N Na Ni Po           203 Im M5 IV
+Erthun        0135 B667587-C  N Ag Ni              204 Im M4 V
+Azpun         0138 A873000-A    Lo Ni Ba           702 Im M2 V
+Dashuu        0139 B87A120-D  N Lo Ni Wa        A  613 Im M1 V M3 D
+Reference     0140 D100100-B  A Lo Ni Va Rs        302 Im K0 V
+Rush          0231 E869372-6    Lo Ni              711 Im G1 VI M8 D
+Zorzaa        0234 B667420-C    Ni                 204 Im M4 V M8 D
+Tuurqa        0236 D671443-9    Ni                 103 Im G9 IV
+Brekin        0240 B58748C-A    Ni                 100 Im M2 V M7 D
+Kiis          0331 E10059C-7    Ni Va              724 Im K4 V M0 D
+Qungwyld      0332 A655561-A    Ag Ni              203 Im M4 VI M9 D
+Singing       0334 A9A9310-C  S Lo Ni Fl           523 Im M1 V M9 D M2 D
+Markun        0338 B887136-9  A Lo Ni              700 Im K0 V M2 D
+Betras        0431 B634320-B  S Lo Ni              804 Im K5 V
+Reel          0432 B150779-E  S Po De              805 Im K2 III M4 V
+Lytras        0437 B400643-A    Na Ni Va           405 Im M4 V
+Xamdas        0439 B110100-C    Lo Ni              603 Im M1 V M4 D
+Kysizi        0440 A53A777-E    Wa                 503 Im G1 V M2 D
+Caraban       0531 B655264-A  N Lo Ni              400 Im K2 V M8 D
+Lia           0537 E654988-A    Hi                 702 Im F4 V
+Double Star   0635 B642652-A  N Ni Po              902 Im M7 VI
+Patu          0637 B796676-7  S Ag Ni              203 Im M4 III
+Zzugep        0731 B4539CD-C    HI Po              300 Im M1 V
+Ferré         0734 C797778-5  S Ag                 300 Im M3 V M3 D
+Megatina      0735 D584475-4  S Ni                 904 Im M1 V
+L'rotuu       0737 B898674-8    Ag Ni              823 Im G1 V M3 D
+Delta 4       0831 C549449-B    Ni                 614 Im K1 V M1 D
+Baituu        0835 D438110-6  S Lo Ni              503 Im M6 V
+Night         0839 A5749C9-F  N Hi In              320 Im K8 VI M4 D

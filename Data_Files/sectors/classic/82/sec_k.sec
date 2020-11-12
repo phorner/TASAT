@@ -1,0 +1,51 @@
+@SUB-SECTOR:Dikhari SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2430 2332 0 1 11
+$2430 2329 0 0 11
+$2329 2327 0 0 11
+$2327 1926 0 0 11
+$1926 2123 0 0 11
+$2123 2321 0 0 11
+$2321 2119 0 -1 11
+$1926 1526 -1 0 11
+$2327 2527 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 C464223-C    Lo Ni              400 Im M9 V M4 D
+              1725 B767461-C    Ni                 225 Im K0 V
+              1727 A455764-C  N Ag                 410 Im K1 V
+              1827 B856153-9    Lo Ni              603 Im G1 V M0 D
+Gupakash      1828 C788995-7    Hi                 924 Im F4 V
+              1921 C8C3832-9    Fl                 923 Im K0 V
+              1923 C110332-C    Lo Ni              803 Im M5 III M6 D
+Kasas         1925 C558976-7    Hi                 600 Im K3 V M9 D
+              1926 B32587A-D                       100 Im M1 V M9 D
+              1927 C599554-A    Ni                 203 Im G0 V M7 D
+              1928 B342436-C    Ni Po              600 Im K1 V M2 D
+              1930 D85A003-9    Lo Ni Wa           700 Im M2 V M7 D M9 D
+              2025 C231487-C    Ni Po              801 Im M4 V
+              2027 C332753-B    Na Po              902 Im M2 V M9 D
+              2029 BAD6423-A    Ni Fl              422 Im M3 V M8 D
+              2122 B335215-F    Lo Ni              702 Im M6 V
+              2123 B757545-D  N Ag Ni              224 Im K2 V M4 D
+              2127 E44068B-6    Ni Po De           320 Im G8 III M6 V
+              2128 B97855A-E    Ag Ni              313 Im M1 V
+              2129 B8AA545-D    Ni Fl Wa           602 Im M4 V
+              2224 C785477-7    Ni                 614 Im K0 V M3 D
+              2225 C554458-C    Ni                 800 Im K2 V
+              2227 E563677-5    Ni Ri              104 Im M3 V M6 VI
+              2321 B623586-A    Ni Po              910 Im M0 V
+              2323 E554333-4    Lo Ni              504 Im K2 IV
+              2324 C5465A6-B    Ag Ni              100 Im M2 V
+              2326 B675310-A    Lo Ni           A  700 Im M1 IV
+              2327 A210575-C    Ni                 703 Im M3 V M1 D
+              2329 B5128CF-B    Na Ic              613 Im G5 IV
+              2423 B475210-B    Lo Ni              110 Im G8 II
+              2427 C50069D-B    Na Ni Va           203 Im M2 V
+              2428 B686400-9    Ni                 604 Im K3 V M0 D
+              2429 E8B3788-7    Fl                 200 Im M4 V M5 D
+              2430 A779677-B    Ni                 420 Im F8 D M8 D

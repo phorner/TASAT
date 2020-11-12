@@ -1,0 +1,49 @@
+@SUB-SECTOR:Cirqa SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0209 0411 0 1 11
+$0209 0308 0 0 11
+$0308 0106 0 0 11
+$0308 0606 0 0 11
+$0606 0803 0 0 11
+$0803 1204 1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dibimakigur   0102 B565553-9    Ag Ni              814 Im G3 V
+Bemimgu       0106 B480310-B    Lo Ni De           902 Im M6 V M4 D
+              0107 B000655-D    Na Ni As           315 Im G1 V
+              0109 E869569-6    Ni                 100 Im M3 V
+              0202 E435568-A    Ni                 310 Im K3 V M1 D
+              0203 C200576-C    Ni Va              212 Im M5 III
+              0208 C567634-5    Ag Ni              423 Im M5 V
+              0209 A302885-C  N Na Va Ic           422 Im K1 V
+              0302 B446666-C  N Ag Ni              600 Im M0 IV
+              0308 B110123-C  N Lo Ni              303 Im M5 VI
+              0309 E79A855-A    Wa                 602 Im M3 V
+              0310 C673335-9    Lo Ni              512 Im A7 IV
+              0402 B6A6764-C    Fl                 304 Im M3 V
+              0403 C510586-A    Ni                 520 Im M3 IV
+              0408 C511488-A    Ni Ic              704 Im M1 V M9 D
+              0506 D000774-9    Na As              210 Im K3 V M5 D
+              0507 B120896-F    Na Po De           333 Im M2 VI
+              0510 C100221-D    Lo Ni Va           204 Im M0 V M4 D
+              0601 C9B8356-A    Lo Ni Fl           504 Im M0 VI
+              0602 E560867-5    Ri De              212 Im M2 V M9 D
+              0604 C887337-9    Lo Ni              303 Im M4 II
+              0605 C99A58B-A    Ni Wa              823 Im M3 V M1 D
+              0606 B525874-C                       120 Im M0 III
+              0607 C110877-C    Na                 103 Im K6 VI M0 D
+              0705 E325531-8    Ni                 514 Im F3 V M1 D
+              0706 D54336A-4    Lo Ni Po           522 Im G9 V M2 D
+              0802 A528789-E                       914 Im M1 V M7 D
+              0803 A230321-F    Lo Ni Po De        512 Im K0 V M0 D
+              0804 C535511-7    Ni                 422 Im M1 IV
+              0805 B787455-E    Ni                 401 Im K6 III
+              0806 B99A523-E    Ni Wa              604 Im M8 IV
+              0807 C341533-8    Ni Po              923 Im M5 IV M3 VI
+              0808 B110200-F    Lo Ni              515 Im K6 V
+              0809 D140463-A    Ni Po De           823 Im M4 V
+              0810 A3008BE-D    Na Va              702 Im M3 V M4 D

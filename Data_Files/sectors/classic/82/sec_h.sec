@@ -1,0 +1,46 @@
+@SUB-SECTOR:Sanny SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2516 2316 -1 0 11
+$2516 2816 0 0 11
+$2816 3018 0 0 11
+$3018 3020 0 0 11
+$2816 3014 0 0 11
+$3014 2911 0 0 11
+$3020 2821 0 1 11
+$2911 2909 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2511 B325655-C  N Ni                 700 Im K7 IV
+              2514 DA77440-4    Ni                 303 Im M1 IV
+              2516 B210235-C    Lo Ni              300 Im G7 V M1 D
+              2517 D7588BD-6                       324 Im G1 III M8 D
+Idde          2520 C7C498A-D    Hi Fl              403 Im M1 V M5 D M3 D
+              2611 X86A551-5    Ni Wa           R  312 Im M1 V
+              2614 B574554-E  N Ag Ni              300 Im M3 V M0 D
+              2615 C647034-8    Lo Ni              304 Im K0 V M4 D M2 D
+              2617 E401220-A    Lo Ni Va Ic        700 Im M4 V M7 D
+              2618 C2017AC-C    Na Va Ic           414 Im K1 V M9 D
+              2619 B424668-B    Ni                 403 Im M3 V
+              2620 X529520-6    Ni              R  512 Im K3 V M8 D
+              2712 B130534-F    Ni Po De           203 Im M1 V M2 D
+              2812 B110261-E    Lo Ni              103 Im G5 V M2 VI
+              2813 BAD8223-C    Lo Ni Fl           710 Im G0 VI
+              2814 D786456-5    Ni                 600 Im M1 V M5 D
+              2816 BAA6201-D    Lo Ni Fl           100 Im A4 V
+              2817 E7A9614-A    Ni Fl              800 Im K4 V M6 D
+Liikham       2911 B222A99-F  N Hi Na In Po        120 Im K2 V
+              2915 C675324-9    Lo Ni              814 Im M6 V
+              2920 B474314-C  N Lo Ni           A  200 Im G9 IV M7 D
+Shakhishir    3013 C100994-F    Hi Na In Va        924 Im K1 V
+              3014 B854105-A    Lo Ni              103 Im G1 III M6 VI
+              3018 B451686-A    Ni Po              104 Im M4 V
+              3020 A79A557-F  N Ni Wa              401 Im M8 II
+              3112 E30277B-A    Na Va Ic           620 Im K3 V M3 D
+              3117 C33168C-A    Na Ni Po           400 Im M8 III
+              3119 E98A554-A    Ni Wa              710 Im K1 V M4 D
+              3214 D99A6A6-9    Ni Wa              304 Im K1 V
+              3220 C224110-B    Lo Ni              613 Im M9 V

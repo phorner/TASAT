@@ -1,0 +1,49 @@
+@SUB-SECTOR:Core SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+N'dao         1711 D1007B8-9  S Na Va              812 Im M0 V
+Rison         1713 B9D3695-A  N Ni Fl              714 Im M7 IV
+Fornol        1715 B5819CA-A  N Hi                 712 Im K3 V M9 D
+Curast        1717 D9B7362-A  S Lo Ni Fl           724 Im M4 V
+Ances         1812 B383657-C  A Ni Ri              705 Im M4 V
+Lectorsen     1813 D354655-5    Ag Ni              500 Im M4 V M1 D
+Thass         1815 B510420-9    Ni                 713 Im M3 V
+Balpan        1819 B505345-9  A Lo Ni Va Ic        600 Im M7 V
+Sistar        1912 B430551-F  A Ni Po De           612 Im M0 V
+Ankod         1916 A344889-B  N                    414 Im M9 D
+Ploiqu        1917 D222747-6  S Na Po              104 Im K4 V
+Traak         1918 B62488C-A  S                    904 Im K1 V M4 V
+Crompton      1919 E776002-9    Lo Ni              600 Im F2 V
+Shion         1920 D410344-7    Lo Ni              103 Im M6 VI M9 D
+Dudaka        2011 C544010-6    Lo Ni              503 Im G1 V M7 D
+Tiwath        2012 E651575-8    Ni Po              633 Im M3 V M7 D
+Morii         2014 B62A644-9    Ni Wa              214 Im M0 V M7 D
+Ion           2016 B877655-C  W Ag Ni              604 Im M2 V
+Onon          2017 E576000-9    Lo Ni Ba           721 Im M7 V
+Tertha        2020 C200342-A    Lo Ni Va           513 Im G4 V
+Siduka        2111 B446689-C  N Ag Ni              200 Im M9 D M3 D
+Romstand      2112 C428567-8    Ni                 820 Im M9 IV
+Knabbib       2115 A331758-F  N Na Po              804 Im M4 V
+Capital       2118 A586A98-F  B Hi                 605 Sy M0 V
+Shushan       2211 A655335-E    Lo Ni              924 Im K2 III M8 D
+Nedso         2213 B541231-6    Lo Ni Po           814 Sy G9 V
+Shudusham     2214 E849855-A                       804 Sy A1 V
+Rhylea        2216 B8A6530-8    Ni Fl              623 Sy M0 V
+Syroe         2218 B436854-D  A                    804 Im K0 V M5 D
+Ase           2219 B22098B-F    Hi Na In Po De     110 Im M4 V M5 D
+Xalm          2220 D4628CA-4  S                    113 Im M2 V M0 D
+Seku          2312 B79A557-F    Ni Wa              403 Im K3 IV
+Rib           2314 B559667-B    Ni                 204 Sy A1 VI
+Ecan          2316 B444854-9                       902 Sy M0 V M5 D
+Codsen        2317 E571568-2    Ni                 210 Sy M2 IV M8 D
+Yirsh Poy     2318 B210577-A  S Ni                 113 Sy M4 V M7 D M5 D
+Crystalan     2319 C979788-B  S                    414 Im A1 V
+Umgadin       2320 B6B5946-B    Hi Fl              122 Im M3 III
+Capion        2413 B651864-6    Po                 201 Sy M3 IV M2 D M7 D
+First         2414 AA7A788-9    Wa                 200 Sy M0 IV
+Sentark 4     2416 B755496-7    Ni                 404 Sy K2 III M6 D
+Sevan         2419 A544576-A  S Ag Ni              500 Im G3 V M7 D

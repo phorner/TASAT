@@ -1,0 +1,46 @@
+@SUB-SECTOR:Saregon SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2532 B110320-C  A Lo Ni              803 Im K6 V
+              2534 B648797-7  N Ag                 402 Im M2 V
+              2536 C511637-9  S Na Ni Ic           624 Im M2 IV K9 D
+              2538 B768410-C    Ni                 702 Im K6 IV
+              2540 C553314-8    Lo Ni Po           420 Im K3 V
+              2631 B245525-9  A Ag Ni              513 Im M3 V M5 D
+              2635 E889662-6    Ni Ri              704 Im M3 V
+              2636 B998213-A  S Lo Ni              314 Im K7 V
+              2639 B100403-D  S Ni Va              203 Im G9 D
+Dishadshii    2640 B614ACG-G  N Hi In Ic           204 Im M1 V
+              2731 B6315AF-A  N Ni Po              404 Im G0 V
+              2732 B9E7425-E    Ni Fl              802 Im G4 V
+              2736 B324757-B                       113 Im K2 V
+Sinad         2832 B4589AD-D  N Hi                 402 Im M4 V M5 D
+              2836 B478861-D  S                    504 Im M3 V
+Igla          2837 B414ADG-F    Hi In Ic           804 Im M2 V M9 D
+              2839 C783354-9    Lo Ni              703 Im M1 VI M1 D
+              2840 B8C0885-B    De                 814 Im M8 III M4 D
+              2931 E332679-5    Na Ni Po           122 Im K1 IV M3 D M4 D
+Ganad         2933 A6569BA-F  N Hi                 504 Im M0 V
+              2934 A778232-D    Lo Ni              315 Im K9 V
+              2935 C472255-A    Lo Ni              913 Im A1 V
+Saregon       2936 A584976-E    Hi                 114 Im M3 V M6 D
+              2937 B434779-A  A                    703 Im M1 III M9 V
+Shakiiga      2938 B867ACA-B    Hi                 710 Im K4 V
+              3033 A424588-G  N Ni                 103 Im K2 V
+              3034 A554755-D  W Ag                 903 Im K3 V M3 D
+              3037 E665655-6    Ag Ni Ri           922 Im M3 V
+              3039 B8B4442-D  S Ni Fl              601 Im G0 V
+Unlakhar      3040 B629997-G  N Hi In              603 Im K3 V
+              3131 A7C3874-C    Fl                 513 Im K2 V M6 D
+              3132 B4625AC-A  N Ni                 110 Im G0 V M5 D
+              3133 C36267B-8    Ni Ri              302 Im M5 IV M3 D
+              3135 B58A763-A  N Ri Wa              400 Im K2 V
+              3137 B493666-8  N Ni                 603 Im M1 V
+              3140 A562898-B  S Ri                 210 Im G0 IV
+              3234 B433764-E    Na Po              520 Im M5 III M2 D
+              3235 B75A431-9    Ni Wa              613 Im M1 V
+              3238 E560672-6    Ni Ri De           503 Im M2 V M4 D

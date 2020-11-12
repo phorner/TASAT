@@ -1,0 +1,41 @@
+@SUB-SECTOR:Ch'naar SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0931 A599367-C    Lo Ni              814 Im G0 V
+              0933 B88A104-B  A Lo Ni Wa           311 Im K2 IV
+              1033 B556215-D  W Lo Ni              604 Im M4 V M8 D
+              1034 C533762-6    Na Po              200 Im M4 V M9 D
+              1035 B581666-A  S Ni Ri              503 Im G2 V M1 V
+              1037 D542201-9  S Lo Ni Po           624 Im M5 V
+              1038 B358697-C    Ag Ni              914 Im M3 V
+              1040 B528200-E    Lo Ni              325 Im M5 V M7 D
+Aursis        1134 A5459BD-F  A Hi In              500 Im K1 V
+              1140 BAF3579-A    Ni Fl              800 Im K0 V
+              1232 B130563-D    Ni Po De           722 Im K2 V
+              1233 A375025-B    Lo Ni              424 Im M4 VI M0 D
+              1236 B491384-E    Lo Ni              303 Im M5 V M4 D
+              1237 E6A7761-7    Fl                 903 Im K0 V
+              1239 B547759-D  N Ag                 302 Im M0 V
+              1240 C223304-9  S Lo Ni Po           214 Im K2 IV M7 D
+              1334 BACA37B-C    Lo Ni Fl Wa        112 Im G5 V M0 D
+Umkashuu      1335 B3549C9-C    Hi                 322 Im M2 V
+              1336 EA97596-4    Ag Ni              503 Im M3 V M0 D
+              1338 B695300-C  N Lo Ni              902 Im M2 V
+              1431 C494046-9  S Lo Ni              903 Im M7 V
+              1434 C755203-C    Lo Ni              503 Im M2 VI
+              1436 E6B078B-9    De                 401 Im G3 V
+              1437 B9A8311-9  S Lo Ni Fl           913 Im M6 III
+              1440 A58A69C-F    Ni Ri Wa           303 Im M4 V
+              1531 C33389C-B    Na Po              813 Im K3 V M3 D
+              1533 B647886-8  N                    402 Im M3 V M0 D
+              1534 A76A551-D  N Ni Wa              603 Im K1 V M6 D
+Shueshlar     1536 C435998-9  S Hi                 502 Im M3 III M3 D
+              1538 A3437BB-A  N Po                 201 Im K0 V
+              1539 A583220-F  N Lo Ni              104 Im K6 V M1 D
+              1633 B300666-D    Na Ni Va           801 Im K4 III
+              1635 C62757B-A    Ni                 314 Im K0 V
+              1638 E759877-5                       612 Im K2 IV M2 D

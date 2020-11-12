@@ -1,0 +1,48 @@
+@SUB-SECTOR:Chant SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Temra         1721 B565786-B  N Ag Ri              404 Im G0 V M4 D
+Akeyolarix    1724 A675446-E  N Ni                 424 Im M2 III
+C're          1725 B445885-C  A                    803 Im M0 V
+Roustami      1726 B0008AF-C  S Na As              504 Im M1 V M2 D
+Braned        1727 B8B1411-C  N Ni Fl              505 Im M0 II
+Waduuka       1730 BAB4435-B    Ni Fl              104 Im M8 VI M0 D
+Tell          1821 A78A372-F  N Lo Ni Wa           502 Im M4 V M5 D
+Holex         1822 A200353-F  N Lo Ni Va           912 Im M3 V K2 D
+Citro         1823 E8B7333-7    Lo Ni Fl           604 Im M3 V
+Mandhem       1824 E554100-6    Lo Ni              804 Im M4 V
+Prempt        1825 B5A2200-D  S Lo Ni Fl           501 Im M9 D M9 D
+Rhydino       1829 B211779-E    Na Ic              713 Im G0 V
+Sorca         1921 B245740-9    Ag                 524 Im G4 V
+Tomaa         1924 E455335-5    Lo Ni              100 Im A4 V M3 VI
+Vvrin         1925 A485699-C  N Ag Ni Ri           300 Im M0 V M5 D
+Wrebil        1927 B94A775-7    Wa                 304 Im K2 V M5 D
+Farhome       1929 E628544-6    Ni                 924 Im M2 V
+Traa          1930 A000784-E    As Na              604 Im A1 V
+Anther        2021 A300697-E  N Na Ni Va           615 Im K9 IV
+Prubisk       2027 B9A569A-B  N Fl Ni              100 Im K5 VI
+Basilling     2028 A443104-D  N Lo Ni Po           904 Im G1 V M2 D
+Rorpa Din     2030 D63A566-8    Ni Wa              214 Im M4 V
+Affinity      2121 B98A561-A    Ni Wa              213 Im G1 V
+Elinz         2122 B476000-D  A Lo Ni Ba           900 Im M9 V
+Eliograh      2125 A524575-C    Ni                 703 Im K4 V M9 D
+Kamodoo       2130 B565558-B  N Ag Ni              803 Im G4 V
+Leystroak     2221 B998656-9  N Ag Ni              815 Im K1 V M5 D
+Rek-shons     2222 B855746-C    Ag                 213 Im M0 V
+Radd Caulo    2223 A866645-9    Ag Ni Ri           502 Im M2 V
+Chant         2224 A160688-F  W Ni Ri De           903 Im K2 II
+Meiz          2225 B512847-B  S Na Ic              111 Im K4 V
+Skeen         2226 B49199B-F    Hi In              422 Im K1 V
+Port Away     2227 C357747-A    Ag                 203 Im K3 V M6 D
+Effinity      2322 A581651-F    Ni Ri              904 Im M2 V M5 D
+Merat         2323 B423868-A  N Na Po              403 Im K4 V
+Akin Akun     2326 D410666-7  S Na Ni              910 Im K1 VI
+Drivorea      2327 B759300-D    Lo Ni              313 Im M3 V
+Raami         2330 B522966-F    Hi Na In Po        603 Im M2 V
+Ro Anii       2422 A473320-E  N Lo Ni              704 Im M1 V M9 D
+Avthaus       2425 B200879-E    Na Va              723 Im G1 VI M5 D
+Shurgiishulu  2429 B552625-8    Ni Po              902 Im F2 V

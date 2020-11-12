@@ -1,0 +1,3 @@
+Coppelia
+
+Coppelia is home to permanent 8-man orbital research/refueling station, established to study the strange anomalies in the world's gravity field.  The world's surface gravity varies at random intervals from .3g to over .7g for no apparent reason.  So far, there is no explanation for these gravity fluctuations.

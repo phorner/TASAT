@@ -1,0 +1,31 @@
+@SUB-SECTOR:Kaskii SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2511 C477497-8    Ni                 202 Im M9 II M3 D
+Khuir         2513 B89AACA-D    Hi In Wa           802 Sy K1 V
+              2517 D444033-3    Lo Ni              602 Sy M1 V M0 D
+              2519 D000330-A  S Lo Ni As           604 Im G3 V
+              2611 B201885-A    Na Va Ic           503 Im M8 II M5 D
+Ispumer       2615 E38197B-7    Hi                 905 Sy M3 VI M5 D K5 D
+              2616 B5368CD-8                       903 Sy M1 V M0 D
+              2720 B42647C-A    Ni                 703 Im K8 IV M7 D
+              2814 C223669-8    Na Ni Po           504 Sy K4 V M4 D
+              2816 B869323-C    Lo Ni              103 Sy G4 V
+              2912 A7B3699-D    Ni Fl              725 Im G2 V
+              2913 C8B3763-5    Fl                 703 Sy M3 V M2 D
+              2914 A668873-8    Ri                 213 Sy F0 V
+              2916 BAE6362-7    Lo Ni Fl           704 Sy M2 IV M1 D
+Laudum        3011 B352986-D  N Hi Po              101 Im M8 V M1 D
+              3015 B783351-8    Lo Ni              200 Sy K6 V
+              3019 B222552-F  N Ni Po              730 Im M3 V M7 D
+              3113 E342647-5    Ni Po              204 Sy M2 D M4 D
+Markasher     3115 E1009CC-6    Hi Na In Va        420 Sy K8 IV
+              3117 B200456-B    Ni Va              214 Sy M5 IV
+Lemik         3118 C56A98B-C    Hi Wa              711 Im K1 V
+              3211 C427535-D    Ni                 102 Im M0 V M7 D M6 D
+              3216 B964443-8    Ni                 913 Sy K4 V M0 D
+Kaskii        3218 A300A98-F  N Hi Na In Va        504 Im G4 V

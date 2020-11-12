@@ -1,0 +1,49 @@
+@SUB-SECTOR:Irinkuka SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0924 0623 -1 0 11
+$0924 1126 0 0 11
+$1126 1327 0 0 11
+$1327 1526 0 0 11
+$1526 1926 1 0 11
+$0924 1222 0 0 11
+$1222 1621 0 0 11
+$1621 1320 0 -1 11
+$1621 1820 1 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0922 C200211-9    Lo Ni Va           702 Im M1 V
+              0924 B654632-B  A Ag Ni              904 Im M9 IV M1 D
+              0926 D434673-5    Ni                 103 Im M1 V
+              0928 C100541-D    Ni Va              203 Im M0 V M6 D
+              0929 B351558-F    Ni Po              500 Im M2 VI M4 D
+              1022 E687742-4    Ag Ri              903 Im K1 III
+              1024 B100455-F  N Ni Va              120 Im F3 V
+              1025 C758121-A  S Lo Ni              812 Im K3 V M0 D
+              1124 X997221-2    Lo Ni           R  103 Im F9 V M8 D
+              1126 B588630-A    Ag Ni              502 Im M9 III M8 D
+Rirese        1127 C336A75-D    Hi                 504 Im K2 V
+              1130 C877653-9    Ag Ni              703 Im M0 D
+              1222 A646144-B  N Lo Ni              423 Im M2 III
+              1230 E9E1121-5    Lo Ni Fl           500 Im K2 V M0 D M4 D
+              1321 C6315AF-8    Ni Po              404 Im M4 V
+              1323 E592333-9    Lo Ni           A  204 Im G8 II
+              1327 B78A66B-C  N Ni Ri Wa           722 Im K4 V M0 D
+              1421 C6568AE-8                       100 Im M0 V
+              1424 D458345-8    Lo Ni              912 Im K2 V
+              1425 X448411-5    Ni              R  924 Im A2 V
+              1428 C00089C-C    Na As              212 Im M2 V
+              1522 C76A003-7    Lo Ni Wa           500 Im K3 V
+              1524 CA9A651-7    Ni Wa              523 Im M3 V
+              1526 B456441-A  N Ni                 804 Im K1 V
+              1527 A8A4425-C    Ni Fl              800 Im G0 V M2 D
+              1528 C559566-8    Ni                 503 Im M6 D
+              1529 A553879-9  N Po                 500 Im K3 V M5 D
+              1621 A4358AB-F                       100 Im M5 VI
+              1622 C364799-A    Ag Ri              610 Im M8 IV K4 V
+              1624 A596430-D    Ni                 302 Im M0 V M0 D
+              1625 A8B47A9-A    Fl              A  205 Im M4 V
+              1630 EAAA636-9    Ni Fl Wa           423 Im A5 D

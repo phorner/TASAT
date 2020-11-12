@@ -1,0 +1,43 @@
+@SUB-SECTOR:Akashganar SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1320 1621 0 1 11
+$1320 1117 0 0 11
+$1117 1215 0 0 11
+$1215 1113 0 0 11
+$1113 0911 0 0 11
+$1117 0814 -1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0911 A44779A-F    Ag                 220 Im M1 V
+              0913 D444854-7                       802 Im K4 V
+              1016 C568447-7    Ni                 710 Im K4 V
+              1017 B444679-8    Ag Ni              410 Im M1 VI M6 D
+              1018 B230364-A    Lo Ni Po De     A  510 Im A7 V G7 D
+              1019 E788885-8    Ri              A  710 Im K8 IV
+              1112 B785444-9    Ni                 324 Im M3 D
+              1113 B455244-D    Lo Ni              414 Im M5 V
+              1115 B556423-B    Ni                 800 Im K4 V M9 D
+              1116 B666688-A    Ag Ni Ri           812 Im M3 V M8 D
+              1117 A000883-F    Na As              410 Im M1 V M9 D
+              1120 X752642-2    Ni Po           R  213 Im M6 VI K1 D
+              1212 E534866-9                       300 Im M3 V
+              1215 A646885-C  W                    100 Im A4 VI M4 D
+              1219 C222443-9    Ni Po              701 Im M3 V
+              1220 C885888-7    Ri                 125 Im K2 V M3 D
+              1318 D773541-5    Ni                 812 Im M3 II M8 VI
+              1319 A360224-F    Lo Ni De           104 Im M7 V
+              1320 B241632-D    Ni Po              604 Im G1 V
+              1414 E30088A-8    Na Va              601 Im G0 V
+              1420 C430005-C    Lo Ni Po De        704 Im M8 V
+              1511 D520112-5    Lo Ni Po De        900 Im M6 V
+              1519 D545542-8    Ag Ni              602 Im K2 V
+              1520 D200427-A  S Ni Va              305 Im M2 V
+              1612 C5278AB-8                       605 Im G2 V M5 D
+              1613 X4007B9-6    Na Va           R  803 Im G7 VI
+Esimli        1617 C521979-D    Hi Na In Po        300 Im M4 V
+              1618 CAA9150-B    Lo Ni Fl           703 Im A2 V M4 D
+              1620 A300740-F    Na Va              505 Im G0 V M1 D

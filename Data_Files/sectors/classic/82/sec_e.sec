@@ -1,0 +1,53 @@
+@SUB-SECTOR:Aarna SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0814 0517 0 0 11
+$0413 0814 0 0 11
+$0413 0113 0 0 11
+$0517 0619 0 0 11
+$0619 0722 0 1 11
+$0814 1117 1 0 11
+$0413 0411 0 0 11
+$0411 0209 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0113 A89A368-B    Lo Ni Wa           303 Im M5 V
+              0114 A8B5753-D    Fl                 803 Im G4 V
+              0120 C692233-A    Lo Ni              700 Im G5 V M1 D
+              0211 C000642-A    Na Ni As           621 Im M4 V M9 D M5 VI
+              0212 C658169-A    Lo Ni              400 Im M9 V
+              0214 B557633-A    Ag Ni              400 Im M3 V M6 D
+              0216 B324503-F    Ni                 800 Im M2 V M7 D
+              0217 C899487-C    Ni                 400 Im K9 IV
+              0311 C9C5859-C    Fl                 403 Im F4 V M2 D
+              0313 D558200-8  S Lo Ni              520 Im M8 III
+              0314 C452685-9    Ni Po              224 Im M2 V
+              0317 X89575A-4    Ag              R  100 Im M4 V M5 D
+              0318 A694664-C    Ag Ni              800 Im G1 V M5 D
+              0411 B000105-G    Lo Ni As           304 Im M8 V M6 D
+              0413 B575756-9    Ag                 422 Im K0 V
+              0414 EA7A423-9    Ni Wa              714 Im M1 V
+              0415 D573547-4    Ni                 622 Im M0 V M4 D
+              0418 B798432-B    Ni                 704 Im M3 V
+              0419 A6B0677-D    Ni De              314 Im M6 IV M5 VI
+              0420 B856040-8    Lo Ni              112 Im M6 V M0 D
+              0511 D551367-9    Lo Ni Po           200 Im M1 V
+              0513 C463864-7    Ri                 903 Im A1 V
+              0517 A212410-C    Ni Ic              200 Im G1 V
+              0519 B533530-A    Ni Po              600 Im G2 V
+              0520 C667755-A    Ag Ri              300 Im M1 V
+              0615 D8AA010-9    Lo Ni Fl Wa        900 Im M1 IV M4 VI M7 D
+              0619 AAAA254-D    Lo Ni Fl Wa        304 Im G8 V
+              0714 C6A3363-7    Lo Ni Fl           404 Im K1 IV M4 D
+              0715 C130622-A    Na Ni Po De        201 Im M4 V
+              0720 D120515-B    Ni Po De           524 Im A3 D
+              0811 E668645-8    Ag Ni Ri           213 Im M3 V M2 D
+              0812 CA6A877-7    Ri Wa              800 Im G2 V M5 D
+              0813 B490410-9  N Ni De              600 Im M0 II
+              0814 A866443-F    Ni                 813 Im M4 V
+              0818 C65879B-7    Ag                 410 Im G1 V M0 D
+Kidulaar      0819 E572962-A    Hi In              313 Im M2 V
+              0820 C452787-7    Po                 223 Im M4 V M4 D

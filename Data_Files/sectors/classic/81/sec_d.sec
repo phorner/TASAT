@@ -1,0 +1,41 @@
+@SUB-SECTOR:Shinkan SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2501 B000556-E  N Ni As              200 Im M6 IV
+              2503 B000100-C  N Lo Ni As           704 Im M2 V K1 D
+              2507 A9867BC-D  N Ag                 810 Im M1 V K3 D
+              2602 B4447AA-A    Ag                 401 Im M1 V M6 D
+              2603 EAAA303-B    Lo Ni Fl Wa        303 Im K4 V
+              2606 B347431-E  N Ni                 905 Im K2 IV
+              2608 B557899-8  A                    713 Im M3 V M7 D
+              2609 B599313-E  N Lo Ni              713 Im M9 V
+              2610 B594769-A    Ag                 205 Im M4 V
+Derku         2703 C610989-D    Hi Na In           603 Im M4 V M4 D
+              2705 E356100-8    Lo Ni              301 Im M7 V
+              2706 B364500-D  A Ag Ni              514 Im K1 V
+              2707 C525340-8  S Lo Ni              800 Im M1 V
+              2709 B000203-F  N Lo Ni As           503 Im M0 V
+              2802 B678896-C                       625 Im G2 V
+              2803 A427456-D    Ni                 504 Im M4 V
+              2904 D572834-6  S                    720 Im M4 IV M6 D
+              2906 B200878-D    Na Va              603 Im G4 VI M9 D
+              2910 B211112-F  N Lo Ni Ic           323 Im K2 V M0 D
+              3002 C344886-9                       220 Im K0 VI
+              3003 B665355-A  N Lo Ni              410 Im M6 V
+              3005 B304842-B    Va Ic              422 Im K1 V M4 D
+              3008 A4007B9-F  N Na Va              401 Im G2 V
+              3101 B73A146-C  S Lo Ni Wa           104 Im G2 V M8 D
+              3103 B439568-E    Ni                 214 Im K4 V M4 V
+              3104 E200776-A    Na Va              931 Im G0 V M6 D
+              3105 B300732-E  N Na Va              210 Im M3 V
+              3106 B425278-A    Lo Ni              403 Im K8 V
+              3203 C668769-5  S Ag Ri              911 Im G3 V
+              3205 B765662-7  N Ag Ni Ri           713 Im K9 IV M6 D
+              3206 C646444-8    Ni                 304 Im M6 VI
+              3207 C567789-6    Ag Ri              600 Im G2 V M4 D
+              3208 E400102-B    Lo Ni Va           904 Im M1 V M7 D
+              3210 A965312-C    Lo Ni              505 Im K6 V

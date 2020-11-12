@@ -1,0 +1,28 @@
+@SUB-SECTOR:Zukhin SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2636 2435 -1 0 11
+$2636 2836 0 0 11
+$2836 3034 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2535 C583599-8    Ni                 910 Im G1 V
+              2537 X454667-2    Ag Ni           R  814 Im M1 II
+              2538 C88A557-A  S Ni Wa              804 Im G7 II
+              2631 B479310-E    Lo Ni              105 Im K8 IV
+              2634 A9AA688-F    Ni Fl Wa           104 Im M4 V
+Zukhin        2636 A2459CB-G  N Hi In              911 Im M0 V
+              2637 B66969B-A  N Ni Ri              113 Im M0 V
+              2638 B566325-9    Lo Ni              302 Im M1 V M4 D
+              2736 B584103-B    Lo Ni              714 Im G5 V M8 D
+              2834 B888402-9    Ni                 103 Im K0 VI
+Shinuam       2836 B6A9989-E    Hi Fl              803 Im K4 V
+              2837 C227255-A    Lo Ni              602 Im K3 V M5 D
+Ikle          2935 C575984-C    Hi In              510 Im G2 V M3 D
+              3032 B858438-D    Ni                 610 Im G0 V
+              3034 B6A9766-B    Fl                 215 Im M3 V
+              3035 C236665-8    Ni                 914 Im M5 IV
+              3232 D400251-A    Lo Ni Va           820 Im M8 V

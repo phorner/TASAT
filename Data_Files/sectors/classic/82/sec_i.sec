@@ -1,0 +1,51 @@
+@SUB-SECTOR:Imaka SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0629 0531 0 1 11
+$0629 0627 0 0 11
+$0627 0625 0 0 11
+$0625 0623 0 0 11
+$0623 0722 0 0 11
+$0623 0423 0 0 11
+$0423 0223 0 0 11
+$0623 0421 0 0 11
+$0623 0924 1 0 11
+$0722 0619 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0124 C654320-A    Lo Ni              502 Im G2 V M5 D
+              0127 A327787-C                       400 Im K0 V
+              0128 B998552-9    Ag Ni              810 Im M2 V
+              0222 C34179C-9    Po                 613 Im M4 V
+              0223 A52077A-C  N Na Po De           703 Im M0 V
+Misharkin     0226 D856952-A  S Hi                 512 Im M7 VI
+              0322 B745565-8    Ag Ni              700 Im F4 V M5 D
+              0324 E341832-4    Po                 804 Im K1 V M5 D M8 D
+              0325 B8B1411-C  N Ni Fl              304 Im M2 V
+              0326 B562112-9    Lo Ni              320 Im M3 V
+              0421 B75A552-B    Ni Wa              520 Im K4 V
+              0423 A997554-C    Ag Ni              822 Im G1 V
+              0424 C576443-9  S Ni                 213 Im M3 V M2 D
+              0522 B658446-D  N Ni                 703 Im M2 V
+              0523 C360047-A    Lo Ni De           604 Im A9 V
+              0524 C100532-C    Ni Va              710 Im M3 V M7 D
+              0526 C55466A-5  S Ag Ni              323 Im G4 V
+              0527 A563856-E    Ri                 300 Im M6 III
+              0530 A555776-9    Ag                 902 Im M4 V
+              0622 C779841-6                       821 Im K1 V M4 D
+              0623 A76377A-E    Ri                 323 Im M2 V
+              0625 A528666-E    Ni                 323 Im M0 V
+              0627 B8D2101-D    Lo Ni Fl           624 Im M2 V
+              0629 B200312-E    Lo Ni Va           700 Im G5 V
+              0630 D43649B-9    Ni                 212 Im K4 V M9 D
+              0722 B798300-B    Lo Ni              303 Im G3 V
+              0726 E000466-C    Ni As              303 Im K3 V M4 D
+              0727 C994422-8    Ni                 714 Im M4 V M1 D
+              0821 C2408AC-8    Po De              320 Im K3 II
+              0824 D338756-8                       804 Im G0 III
+              0828 B210441-B    Ni                 312 Im M4 V
+              0829 B548320-C    Lo Ni              504 Im K7 V M5 V
+              0830 B520624-8    Na Ni Po De        603 Im G2 V M2 D

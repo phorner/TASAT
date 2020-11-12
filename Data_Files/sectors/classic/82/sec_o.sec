@@ -1,0 +1,54 @@
+@SUB-SECTOR:Shumduur SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2334 2435 0 0 11
+$2435 2636 1 0 11
+$2334 2235 0 0 11
+$2235 2037 0 0 11
+$2037 1738 0 0 11
+$1738 1537 -1 0 11
+$2334 2332 0 0 11
+$2332 2430 0 -1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1734 D556310-9    Lo Ni              604 Im G2 IV
+              1736 D995657-9  S Ag Ni              401 Im K2 V
+              1737 C656388-A  S Lo Ni              301 Im M9 V
+Ashigaar      1738 A536976-F    Hi                 402 Im K0 V
+              1740 X200464-4    Ni Va           R  114 Im K3 V
+              1831 C646444-8    Ni                 703 Im K4 V
+              1832 D100377-9    Lo Ni Va           400 Im M7 II M3 D
+              1837 C441455-8    Ni Po              100 Im G0 V M2 D
+              1932 B595422-A    Ni                 100 Im K4 V
+              1933 A68578A-E    Ag Ri              213 Im G5 V
+Sudar         1936 B5649B8-A    Hi                 612 Im M4 V
+              1938 E884868-8    Ri                 300 Im K3 V M3 D M2 D
+              1939 X511200-3    Lo Ni Ic        R  103 Im M0 IV
+              2032 B325368-E    Lo Ni              514 Im M5 V
+              2034 B430752-C    Na Po De           800 Im K2 V
+              2036 E410300-9    Lo Ni              210 Im K0 IV M5 VI
+              2037 BAC7000-C    Lo Ni Fl Ba     A  300 Im G0 V M6 D
+              2039 A867226-F    Lo Ni              402 Im M1 V
+              2040 E231625-8    Na Ni Po           115 Im G0 V M9 D
+              2131 B537647-8  N Ni                 500 Im M2 V M0 D
+              2132 E360754-8    Ri De           A  603 Im M2 V M8 D
+              2133 B303349-C    Lo Ni Va Ic        523 Im M9 V
+              2136 B23468B-9    Ni                 312 Im K2 V M1 D
+              2139 A33569C-B    Ni                 232 Im M2 V M0 D
+              2232 C542037-5    Lo Ni Po           224 Im M2 V
+Auur          2234 D582989-A    Hi                 604 Im M5 III M4 D
+Irim          2235 A9A79AB-E    Hi Fl              510 Im G4 VI M1 D M0 D
+              2239 C100566-B    Ni Va              122 Im G2 D
+              2240 D794524-7    Ag Ni              904 Im M3 V M1 D
+              2332 A64626A-A    Lo Ni              313 Im G3 V M3 D
+Shumduur      2334 A5459AA-F  W Hi In              610 Im K3 IV M6 D
+              2335 C300443-A    Ni Va              501 Im M5 VI
+              2336 B445499-D    Ni                 713 Im M3 V
+              2432 CAF9696-9  S Ni Fl              605 Im M2 V
+              2435 A7B3204-C    Lo Ni Fl           903 Im M8 IV
+              2436 EA6A745-8    Ri Wa              104 Im G3 V
+              2437 C22065A-9    Na Ni Po De        103 Im M2 V
+              2438 A11079A-F    Na                 600 Im K4 V

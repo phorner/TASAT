@@ -1,0 +1,38 @@
+@SUB-SECTOR:Snogsta SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2707 2407 -1 0 11
+$2707 2909 0 0 11
+$2909 2911 0 1 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2503 A553200-B    Lo Ni Po           404 Im M4 V
+              2508 E682443-8    Ni                 925 Im M8 VI
+              2509 A512444-F    Ni Ic              913 Im M9 III
+Rishalii      2602 C592AEE-E    Hi In              804 Im M1 V
+              2604 C45558B-8    Ag Ni              324 Im M2 V M3 D
+              2606 C57079A-8    De                 602 Im M4 V
+Iguu          2608 E5369DB-8    Hi                 304 Im K1 V M5 D
+              2704 D876664-4    Ag Ni              924 Im K4 V M3 D
+              2705 D243896-8    Po              A  903 Im M0 IV
+              2707 B473552-B    Ni                 500 Im K5 II
+              2709 B7AA576-C    Ni Fl Wa           412 Im M0 V
+              2806 B684763-B  N Ag Ri              101 Im K1 V
+              2807 C857774-A    Ag                 610 Im M0 V
+              2808 C85A79B-6    Wa                 704 Im K3 V
+              2902 B786899-9    Ri              A  823 Im M2 V
+              2903 E835412-7    Ni                 324 Im M7 III
+              2907 E410768-8    Na                 810 Im K7 III
+              2909 A426868-C  N                    124 Im G7 IV
+              3007 C160553-B    Ni De              810 Im M1 VI
+              3008 A729230-D    Lo Ni              302 Im M1 V
+              3103 B672868-9  N                    912 Im M2 V M6 D M7 D
+              3104 B425265-F    Lo Ni              113 Im M0 V
+              3106 X6B4300-4    Lo Ni Fl        A  400 Im K0 V
+              3107 C384300-A    Lo Ni              705 Im K4 D
+              3202 D999222-7    Lo Ni              300 Im M5 V
+              3204 C846767-5  S Ag                 113 Im K3 V M1 D
+              3206 A00025A-G    Lo Ni As           512 Im A7 III

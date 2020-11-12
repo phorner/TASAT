@@ -1,0 +1,42 @@
+@SUB-SECTOR:Sanches SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 A673310-B    Lo Ni              103 Im M6 V M0 D
+              0113 C7A8200-D    Lo Ni Fl           303 Im M6 V
+              0114 B250401-C  A Ni Po De           220 Im M1 VI
+              0116 B485656-A    Ag Ni Ri           811 Im M4 V
+              0117 B664489-8  N Ni                 510 Im M0 III M9 V M4 D
+              0120 C244403-C    Ni                 600 Im K2 VI
+              0212 B645437-C  N Ni                 403 Im K6 II M7 D
+              0216 B422369-C  N Lo Ni Po           104 Im M9 IV M0 D
+              0218 D87877B-8  S Ag                 914 Im M0 V
+              0220 D88A448-8    Ni Wa              503 Im G2 V
+              0313 B332454-B  A Ni Po              503 Im M4 V
+              0314 B8A588A-9    Fl                 314 Im K6 III M5 D
+              0315 B685541-C    Ag Ni              904 Im M3 V M1 D
+Dudin         0316 D528A89-D  S Hi In              624 Im M9 VI
+              0319 B234220-F    Lo Ni              414 Im M2 IV K7 D
+              0411 D584300-7  S Lo Ni              403 Im M6 V
+              0414 D461520-5  S Ni                 413 Im M1 V
+Sanches       0416 A6549C9-F  A Hi                 113 Im M0 V
+Shardi        0418 E33398A-B    Hi Na Po           603 Im M4 V
+              0420 B6A7422-9  N Ni Fl              104 Im K3 V M5 D
+              0511 D486736-7  S Ag                 412 Im F1 IV
+              0512 B513733-B  N Na Ic              202 Im A5 IV K9 D
+              0513 D772312-5  S Lo Ni              203 Im K0 V
+              0516 B76A845-8  N Ri Wa              504 Im K0 V
+              0517 A726023-D    Lo Ni              302 Im M2 V
+              0519 B100103-E  N Lo Ni Va           214 Im M5 III
+              0612 B667898-9    Ri                 200 Im F3 V M7 D
+              0619 B7588A8-A  S                    715 Im K3 V
+              0713 B333557-C    Ni Po              203 Im M8 VI
+              0714 B6A78BD-B    Fl                 221 Im K3 V M1 D
+              0718 D797114-7    Lo Ni              405 Im K4 V
+Alekvadin     0811 B6759AB-E    Hi In              802 Im M3 V
+              0812 A845887-9                       814 Im G4 V M4 D
+              0816 B792566-C    Ni                 612 Im K4 III M4 D
+              0820 B776510-8    Ag Ni              900 Im K3 V M5 D

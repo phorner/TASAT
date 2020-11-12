@@ -1,0 +1,34 @@
+@SUB-SECTOR:Apge SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0103 C9C3733-A    Fl                 123 Im M4 V
+              0104 E351112-9    Lo Ni Po           903 Im K2 IV M7 D
+              0106 B9C6886-9  N Fl                 704 Im A1 V
+              0202 B847427-C  N Ni                 200 Im M2 V
+              0203 B234314-F  N Lo Ni              600 Im K1 VI
+              0208 D527524-7    Ni                 923 Im F9 IV
+              0210 A797679-D    Ag Ni              701 Im M2 V M7 D
+              0302 B597488-9  N Ni                 701 Im M1 V
+              0304 B8B5364-B  N Lo Ni Fl           823 Im M6 V
+              0305 A1008A8-D    Na Va              601 Im G1 V
+              0306 C786587-B  S Ag Ni              422 Im M1 V
+              0307 B274663-9    Ag Ni              100 Im K0 V
+              0308 B688126-A  N Lo Ni              914 Im M6 V
+              0310 E888241-5    Lo Ni              802 Im M7 V K8 D
+Apge          0402 A772997-F  W Hi In              710 Im M2 V
+              0403 B000200-D    Lo Ni As           704 Im M1 V
+              0405 C674467-B    Ni                 714 Im K1 V M5 D
+              0408 B453875-D    Po                 402 Im M4 VI M4 D
+              0409 B994443-C  N Ni                 402 Im M3 V
+              0410 B7795AF-C  N Ni                 302 Im G4 V M6 D
+              0502 B76A204-B  N Lo Ni Wa           820 Im M1 V M3 D
+              0505 B1306AE-A    Na Ni Po De        424 Im M1 V
+              0603 B140103-F    Lo Ni Po De        801 Im G1 V
+              0606 C736757-A                       211 Im M0 V
+              0707 E6A2110-A    Lo Ni Fl           420 Im K8 VI M1 D
+              0806 A212531-G  N Ni Ic              100 Im M2 V
+              0808 D575334-4  S Lo Ni              714 Im M0 II M6 V

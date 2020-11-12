@@ -1,0 +1,46 @@
+@SUB-SECTOR:Cemplas SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Wastam        0921 E6A7777-8    Fl                 310 Im M4 V
+Celetron      0922 A375000-F  N Lo Ni Ba           302 Im M1 V
+Ur            0929 D649577-A  S Ni                 500 Im M3 V M6 D
+Drag          1022 D473322-6  S Lo Ni              313 Im G0 V
+Exod          1023 B323555-B    Ni Po           A  500 Im M3 V
+Shalam        1028 C250644-A    Ni Po De           401 Im G3 V
+Ye-lu         1123 A100134-G  N Lo Ni Va           825 Im M2 V
+Pixtome       1124 A8AA453-F  A Ni Fl Wa           112 Im M1 V M4 D
+Meman         1125 D652552-9  S Ni Po              210 Im M1 V M3 D M9 D
+Gashil        1129 C6A4511-8    Ni Fl              504 Im K3 V M2 D
+Evad          1130 C79A468-C  S Ni Wa              501 Im M9 D
+Ehok-ta       1221 BAD5446-9  S Ni Fl              113 Im K6 VI
+Bendo         1222 B577875-8                       613 Im G4 V
+Dingus        1223 D556444-9  S Ni              A  930 Im K9 III M0 D
+Eshon         1225 E341766-7    Po                 510 Im M0 VI
+Orguush       1226 A485334-D    Lo Ni              222 Im M0 V
+Lishiruud     1228 B6979AA-7    Hi In              313 Im M7 IV
+Digitus       1229 D35469A-5    Ag Ni              613 Im M3 V M5 D
+Renu          1321 B66468B-7    Ag Ni Ri           600 Im M4 V
+Keplo         1322 B675898-B  N                    223 Im M4 V
+Bogustin      1323 A3105AC-F  S Ni                 103 Im G3 V M8 D
+Ushtar        1328 B647554-D  N Ag Ni              302 Im M4 V M0 D
+Calesson      1330 B685643-8    Ag Ni Ri           200 Im F3 V M7 D
+Eorvin        1421 B436868-B  S                    922 Im M0 V M0 D
+Chok-ta       1422 C7C2048-B    Lo Ni Fl           911 Im G7 V M1 D M8 D
+Khusgurlu     1424 B6529EG-D  N Hi Po              214 Im M1 IV
+Spirn         1428 A656541-C    Ag Ni              600 Im K6 II M9 D M2 D
+Alton         1430 B100542-F  N Ni Va              403 Im F1 V M1 D
+Suhtlam       1522 B7C0000-A    Lo Ni De Ba        600 Im M7 V M0 D
+Belicose      1523 A596236-C    Lo Ni              713 Im M3 V M4 D
+Shibashliim   1524 B626A8C-G  N Hi In              412 Im K4 V
+Noesh         1526 E403472-8    Ni Va Ic           623 Im M1 V
+Biirk         1529 D210101-9    Lo Ni              524 Im F8 V M5 D
+Santar        1530 B563101-E  N Lo Ni              802 Im M5 IV M6 D
+Heraldia      1622 C120576-D    Ni Po De           401 Im M2 II M8 V M7 D
+Velpare       1623 A567634-9  S Ag Ni Xb           424 Im M3 V G2 D
+Kirkus        1625 B885640-B  N Ag Ni Ri           714 Im K4 IV
+Shirg         1628 B6337C9-B  S Na Po              204 Im F3 IV
+Rashiuon      1630 B130221-E    Lo Ni Po De        403 Im M7 IV

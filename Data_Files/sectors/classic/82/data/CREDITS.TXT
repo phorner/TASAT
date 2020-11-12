@@ -1,0 +1,21 @@
+  This information was laboriously (HAH!) keyed in by Jeff Zeitlin.  The
+  following sources provided valuable assistance in the complete development
+  of this sector:
+
+           _Atlas_of_the_Imperium_, Game Designers' Workshop (1984)
+                provided star locations and partial UWP information,
+                and names of high-population worlds.
+
+           _Vilani_and_Vargr_, Digest Group Publications (1990), and the
+           _Referee's_Gaming_Kit_, Digest Group Publications (1989)
+                provided background information on the Vilani and
+                on the history of the settlement and development of
+                Vilani and Imperial space, the arrangement of polities,
+                and the general character of Imperial space.
+
+           Several computer utilities were written in Euphoria to
+                generate the world names not supplied by the other
+                sources.  These utilites were run on a Toshiba
+                Satellite T1950CT laptop computer.  These utilities
+                are available (with complete source) on request to
+                jeff.zeitlin@mail.execnet.com.

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Mekee SECTOR:Core
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0911 C545448-A    Ni                 703 Im M3 V
+              0915 A577200-F  N Lo Ni              613 Im M3 V
+              0916 B95A567-B    Ni Wa              201 Im G3 V
+              0919 C550054-B    Lo Ni Po De     A  504 Im M1 V
+              1012 B424400-F  N Ni                 524 Im M4 V M0 D
+Urshra        1016 B361966-D  W Hi                 703 Im M3 V
+              1019 B783200-C    Lo Ni              903 Im M1 V M1 D
+              1112 C310403-9    Ni                 422 Im M4 VI M3 D
+              1114 A520834-B    Na Po De           503 Im M1 V M3 D
+              1116 B783511-8    Ni                 800 Im K1 V M4 D
+              1120 B3407A6-C  N Po De              803 Im M4 V M2 D
+              1214 E585555-8    Ag Ni              412 Im K4 VI
+              1219 B2106B9-C  N Na Ni              720 Im G0 V M8 D
+              1220 B100122-C    Lo Ni Va           604 Im M2 V
+              1314 B859323-B  N Lo Ni              502 Im K2 V
+              1316 D85A869-6    Wa                 202 Im K7 VI M5 D
+              1317 B203462-E  A Ni Va Ic           312 Im K4 V M7 D
+              1320 B222201-B  N Lo Ni Po        A  902 Im M5 V
+              1416 B68A430-9    Ni Wa              204 Im M2 V M8 D
+              1418 C64648A-8  S Ni                 803 Im M3 V M1 D
+              1511 E445279-7    Lo Ni              223 Im M8 V M6 D
+              1512 B8C2747-9    Fl                 804 Im M5 VI
+              1518 A86A422-F  D Ni Wa              420 Im M4 III
+              1519 D9D2665-8    Ni Fl              603 Im M2 V M7 D
+              1611 B964442-D    Ni                 914 Im K0 V
+              1615 B779400-B    Ni                 404 Im M0 V
+              1616 E9B4683-8    Ni Fl              614 Im M4 V

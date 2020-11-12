@@ -1,0 +1,43 @@
+@SUB-SECTOR:Spas   SECTOR:Fornast
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1204 0803 -1 0 11
+$1204 1406 0 0 11
+$1406 1609 0 0 11
+$1609 1809 1 0 11
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0903 A545552-C    Ag Ni              300 Im M0 V M4 D
+              0906 A110566-F    Ni                 922 Im M3 V M7 D
+              0910 B575544-9  N Ag Ni              303 Im F3 V
+              1002 C414235-8    Lo Ni Ic           523 Im M9 V
+              1003 B2327AB-E  N Na Po              313 Im F3 V M1 D
+              1004 E544563-4    Ag Ni              414 Im M3 V M9 D
+              1102 D404453-9    Ni Va Ic           113 Im M2 V K2 D
+              1105 B686543-9    Ag Ni              405 Im M7 IV M7 D
+              1106 B898478-A    Ni                 703 Im M0 V
+              1107 C504567-A    Ni Va Ic           603 Im K4 V
+              1108 E436457-B    Ni                 805 Im F0 V
+              1109 B88A203-A    Lo Ni Wa           302 Im G9 V M5 D
+              1110 E524537-6    Ni                 313 Im M3 V
+              1203 D534386-6    Lo Ni              502 Im A6 V
+              1204 A33169D-F    Na Ni Po           200 Im M4 V M5 D
+              1207 X455553-4    Ag Ni           R  701 Im M3 V M4 D M9 D
+              1208 D788431-5    Ni              A  920 Im M8 V
+              1210 X300434-3    Ni Va           R  512 Im M0 V
+              1308 D366001-5    Lo Ni              213 Im G8 IV
+              1405 B677432-D    Ni                 605 Im M1 V M2 D
+              1406 A140613-G    Ni Po De           223 Im M7 III M5 D
+              1407 C400520-8    Ni Va              803 Im M2 V M8 D
+              1502 B431788-B    Na Po              514 Im M1 V M7 D
+              1509 C457414-A    Ni                 502 Im M5 VI M4 D
+              1510 B470569-E    Ni De              313 Im K7 III
+              1602 B476435-B    Ni                 200 Im G1 V M5 D
+              1603 B9B37AB-C    Fl                 110 Im G4 V
+              1605 B649444-D    Ni                 700 Im K2 V
+              1608 C584367-6    Lo Ni              110 Im M7 VI
+              1609 B0008BB-F  N Na As              310 Im M4 V M5 D
+              1610 E757863-5                       114 Im G3 V M3 D
