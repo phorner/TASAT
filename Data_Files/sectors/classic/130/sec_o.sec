@@ -1,0 +1,58 @@
+@SUB-SECTOR:Tyuiyftal SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Easeifaikh    1733 E410AD8-6    Hi Na              322 As
+Riyhwo        1734 B6238B8-9    Na Po              622 As
+Hkealoaseya   1736 B433698-9  2 Na Ni Po           914 As
+Oekheauaeal   1737 B000ADF-E    As Hi Na           313 As
+Yeliy         1740 B120688-D    De Na Ni Po        924 As
+Isifyeikh     1831 E673AED-8    Hi In              300 As
+Salrusteh     1833 E528365-8    Lo Ni              103 As
+Kekakh        1834 E8868CF-2                       803 As
+Olelehal      1838 B221576-C  N Ni Po              703 As
+Rai           1932 E72837B-5    Lo Ni              112 As
+Fyo           1934 E689545-3    Ni                 713 As
+Aisyahayus    1936 B68A241-B    Lo Ni Wa           223 As
+Hyosehaulr    2033 E581652-4    Ni Ri              204 As
+Hteaawoi'     2038 B96A036-C    Lo Ni Wa           404 As
+Atlahaw       2039 B3738A9-6  N                    623 As
+Osohaihea     2040 B573589-8  N Ni                 903 As
+Eiruakuaa     2136 B526461-8  N Ni                 704 As
+Yayo          2137 B685354-7  S Lo Ni              610 As
+Farli         2139 BAD758B-B  2 Fl Ni              201 As
+Uialreou      2233 EAA7A86-6    Fl Hi              200 As
+Toa           2234 D526AAB-B    Hi In              202 As
+Khealasao'a   2236 E574323-6    Lo Ni              902 As
+Iysoalr       2237 D364553-6  S Ag Ni              602 As
+Aowoaeaktaio  2238 D462441-3  S Ni                 424 As
+Arlyow        2239 D8C4666-6  S Fl Ni              114 As
+Eiyektua      2240 D302665-6    Ic Na Ni Va        804 As
+Uahtawekh     2332 E99A421-5    Ni Wa              403 As
+Ektaoeaweaha  2338 E362861-2    Ri                 701 As
+Hloiw         2340 D677456-6    Ni                 425 As
+Yahfyatai     2432 E52A652-6    Ni Wa              920 As
+Aau           2434 E675876-2                       504 As
+Ouyaseiyeh    2438 E000437-9    As Ni              414 As
+Yauiaohoah    2439 D510665-3  S Na Ni              123 As

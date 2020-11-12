@@ -1,0 +1,41 @@
+@SUB-SECTOR:Eawewaoa SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hkearlyuwyo   1733 E4794L4-7                       414 As K2 V M8 D
+Aokhalisi     1734 C1019G8-A                       403 As M4 V
+Eataieawaii   1735 C2464L5-5                       423 As M4 V M7 D
+Yoyuseahoil   1736 A3312LA-E                       604 As M1 V M1 D
+Eeiweah       1739 E0008L5-7                       703 As M4 V
+Eawyuyeeasas  1740 C5328LB-A                       701 As M7 D
+Tyuiyi        1832 C3761G6-B                       203 As A5 V
+Hwaoye        1836 B5508L7-E                       103 As F4 V M3 D
+Aktafaua      1837 BA9A2L3-E                       702 As M1 V M4 D
+Oihreailre'   1931 B2248L8-E                       601 As A1 IV
+Eaeaayetlea   1932 B2435L5-7                       402 As M1 V
+Hlii          1934 B4585LB-7                       512 As K0 V M6 D
+Hteireiheia   1937 B7551LB-E                       404 As G8 V M6 D
+Hyuhaulyo     1939 E1516L3-3                       223 As M1 V M5 D
+Hkeiyhous     2031 C1512G7-A                       313 As M3 V
+Tlutrualr     2032 B5998G8-E  R                    904 As M8 D
+Tlaieayeho    2034 C1219LA-9                       523 As M3 V
+Akoueia       2040 C2305LC-7                       223 As M3 V M2 D
+Alrae         2131 E57A8L3-7                       800 As G1 V M8 D
+Stewoheaw     2132 A6316L2-C  R                    602 As M3 III M5 V
+Hleasakhew    2133 BA675G8-7  R                    403 As M2 V M6 D
+Khaukhya      2134 C3224L4-8                       504 As M0 V M0 D
+Yuaftoulral   2135 B5215LB-9                       213 As M0 V
+Khtyeloisel   2136 B9964LB-B                       303 As M0 V
+Tlaoihaoekh   2139 A3314G8-C                       315 As F0 V M6 D
+Ouerl         2235 A3116L5-C                       723 As K4 V
+Urlaiwohoiw   2237 E7B64L6-8                       903 As K3 V
+Hiheasoae     2240 B6955L4-8  T                    303 As M2 V
+Staeeakh      2333 C4854L3-8                       921 As M6 D
+Teihi         2339 D7A32G6-8                       600 As M6 V M8 D
+Oarl          2434 D4571G6-A                       924 As M2 V M0 D
+Iyhteaw       2439 D6954LA-6                       903 As M7 III

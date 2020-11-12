@@ -1,0 +1,14 @@
+
+Staihaia'yo - Credits
+
+Created from sectorfile using sec2gal at 17:14 18/8-2001.
+sec2gal by BeRKA http://zho.berka.com/
+
+--------------------------------------
+
+Iylei 0133 was missing in the sec-file. It is now added
+
+Strange stuff: 
+There are no other type-H governments!
+There are only type G/L governments!
+There are no A0-A9 alliegance worlds!

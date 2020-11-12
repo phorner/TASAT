@@ -1,0 +1,53 @@
+@SUB-SECTOR:Ftyehtea SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Khyerliykha   1713 C487567-6    Ag Ni              803 As
+Eihoheoa      1714 C859566-8  S Ni                 703 As
+Kealoilui     1716 C665469-7  S Ni                 314 As
+Faaorl        1719 B94A101-B  N Lo Ni Wa           223 As
+Lai'auwal     1812 C200453-8    Ni Va              302 As
+Erelrouhouho  1814 C3429A7-B    Hi In Po           103 As
+Yeuaealeari   1916 C442576-5  S Ni Po              702 As
+Iyluahal      1917 C6629BC-7  S Hi                 104 As
+Lu            1920 B300852-D  S Na Va              604 As
+Hkatla        2020 B8A5746-A    Fl                 402 As
+Treahui       2111 B637976-9    Hi In              504 As
+Ifteieawarla  2112 B847757-9    Ag                 801 As
+Oukhyaeyeoil  2114 B200633-7  2 Na Ni Va           405 As
+Htihohe       2116 B879423-C    Ni                 702 As
+Taisirlaurl   2118 C457414-8  S Ni                 803 As
+Aiftoiruhwai  2215 B422200-B  S Lo Ni Po           204 As
+Oilrea        2216 C566968-6    Hi                 600 As
+Asahairlal    2219 C664200-5    Lo Ni              411 As
+Eiaiy         2311 B989658-7  N Ni Ri              414 As
+Eifiah        2313 B210754-A  2 Na                 802 As
+Tisahaokh     2314 BAE9547-D  N Fl Ni              202 As
+Eiuiwiywyah   2317 B696000-A    Ba Lo Ni           600 As
+Yafearai      2319 C210520-8    Ni                 704 As
+Iyaihaa       2412 B8D1000-8    Ba Fl Lo Ni        613 As
+Asesesa'ea    2413 B000213-E    As Lo Ni           304 As
+Kheakhiyhi    2415 B100201-E  S Lo Ni Va           124 As
+Auiwieali     2417 E421210-5    Lo Ni Po           300 As
+Yosoioatral   2420 C100400-9    Ni Va              103 As

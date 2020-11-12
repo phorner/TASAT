@@ -1,0 +1,53 @@
+@SUB-SECTOR:Wahyolaheate SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Yoseihofyo    1704 B333335-D  N Lo Ni Po           200 As
+Yeleahehyu    1706 B466432-C    Ni                 602 As
+Tuihroa'      1707 B435877-9                       712 As
+Efau          1709 B683874-7    Ri                 213 As
+Weaohieah     1808 B100311-A  2 Lo Ni Va           413 As
+Htaawaoakyo   1809 B574321-9    Lo Ni              415 As
+Eihtehriyus   1810 B120767-D  N De Na Po           723 As
+Eousyeweilra  1902 C462369-A    Lo Ni              500 As
+Awelalr       1903 C5128BE-7  S Ic Na              322 As
+Eealero       1910 B676100-8  2 Lo Ni              904 As
+Elauteal      2003 B360ADC-9  2 De Hi              904 As
+Khtohaow      2004 B300365-8    Lo Ni Va           702 As
+Oluaw         2005 C688794-4    Ag Ri              800 As
+Weluakheih    2006 C574145-6  S Lo Ni              112 As
+Hearl         2101 BA66656-8  N Ag Ni Ri           504 As
+Hkoirl        2105 B887867-5  S Ri                 303 As
+Luawuirekh    2108 C100354-A    Lo Ni Va           504 As
+Olrea         2202 B9B5769-9  N Fl                 713 As
+Hteareaitiyw  2206 C683358-9    Lo Ni              702 As
+Ohfaa         2207 CA6A576-8    Ni Wa              415 As
+Aauoeoi       2208 C649355-9    Lo Ni              713 As
+Arleahiwouh   2303 B578532-B    Ag Ni              123 As
+Kuikeasuihui  2304 B75A641-C  N Ni Wa              502 As
+Saih          2305 B643753-6  N Po                 700 As
+Oarlikhaoel   2308 C577576-5  S Ag Ni              204 As
+Khawailouiys  2309 C227585-9  S Ni                 203 As
+Laireaha      2406 C7B1566-9  S Fl Ni              202 As
+Aiseahatrya   2408 C444357-7    Lo Ni              731 As

@@ -1,0 +1,54 @@
+@SUB-SECTOR:Hkiueaaote SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eawurl        2532 B645432-A    Ni                 912 As
+Khtite        2534 B150310-B    De Lo Ni Po        723 As
+Eaakh         2631 A440646-A  N De Ni Po           513 As
+Khtya         2633 B100310-B  N Lo Ni Va           504 As
+Kyowaserl     2635 B310101-E    Lo Ni              113 As
+Reaaaaer      2637 B413754-C  N Ic Na              804 As
+Hkeilro       2638 A58058A-8    De Ni              200 As
+Eateakhui     2732 A5A2544-9  N Fl Ni              204 As
+Aoefariyle    2735 B200867-8    Na Va              304 As
+Tiyrarl       2736 BAD6643-9  S Fl Ni              604 As
+Earlaiyalroi  2838 A51058C-B    Ni                 402 As
+Ktasyestioa   2934 B524568-9  2 Ni                 314 As
+Alea'urliyha  2935 BAD8563-A    Fl Ni              503 As
+Eawea'        2939 B687366-A  2 Lo Ni              710 As
+Ehfaokharle'  2940 A515479-E  S Ic Ni              904 As
+Ireaois       3033 B310798-7  S Na                 924 As
+Foakheyo      3037 B786366-9    Lo Ni              500 As
+Hwai          3038 B7898A8-7  S                    314 As
+Aoserleyela   3131 B120577-D  S De Ni Po           313 As
+Eikhear       3133 B423674-B    Na Ni Po           705 As
+Hteaaei'a'    3135 B555587-7    Ag Ni              224 As
+Ahaaoies      3136 B5A0464-7  N De Ni              903 As
+Ihkuilyaaia   3140 B410356-9  N Lo Ni              521 As
+Hkeha'        3231 B232465-B    Ni Po              104 As
+Feiuiliyftei  3233 B651358-C    Lo Ni Po           714 As
+Eiea          3234 B150356-C  S De Lo Ni Po        622 As
+Htoiiy        3237 B335795-C  N                    800 As
+Ekhailiayas   3238 B898131-6  2 Lo Ni              112 As
+Uaseaheih     3240 B447588-9    Ag Ni              424 As

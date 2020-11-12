@@ -1,0 +1,66 @@
+@SUB-SECTOR:Htiy SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eiearlaohaw   0103 B558761-9  N Ag                 605 As
+Layaefeokh    0104 E67A986-8    Hi In Wa           104 As
+Eakhaokh      0105 E510322-8    Lo Ni              304 As
+Ahkakhoa'oh   0107 D344864-7  S                    201 As
+Iraleho       0108 D895311-3  S Lo Ni              400 As
+Ktao          0110 E511367-7    Ic Lo Ni           510 As
+Eisyelyefaui  0202 E545766-3    Ag                 403 As
+Keaiywoul     0205 E787768-2    Ag Ri              613 As
+Auiasoaoh     0206 E628210-5    Lo Ni              812 As
+Eaeih         0208 D445757-6  S Ag                 710 As
+Iykhteikhtah  0209 D442100-8    Lo Ni Po           912 As
+Uayeeakhoh    0303 A361558-D  N Ni                 901 As
+Eiakarail     0306 E5788BA-4                       302 As
+Easao         0307 E24269B-7    Ni Po              601 As
+Kaio          0401 A325662-C    Ni                 124 As
+Iyrealrasekh  0402 A566785-9  N Ag Ri              300 As
+Iiyholruar    0403 A120555-G  N De Ni Po           704 As
+Yawofohiy     0404 A672557-E    Ni                 900 As
+Tiyheerye     0407 E310132-9    Lo Ni              104 As
+Ahahyaftua    0408 E230573-8    De Ni Po           405 As
+Eistyas       0410 E9C6798-5    Fl                 834 As
+Uhoikhei      0501 B346135-C  2 Lo Ni              103 As
+Htaohesuih    0502 B555676-7    Ag Ni              400 As
+Ooiafourl     0505 B75457A-A  S Ag Ni              404 As
+E'            0507 B545134-8  S Lo Ni              102 As
+Oiwahweaw     0508 B796354-A  2 Lo Ni              703 As
+Siaiw         0509 B585585-7  2 Ag Ni              403 As
+Aoihais       0510 B510589-7    Ni                 212 As
+Eriys         0602 B310450-A    Ni                 700 As
+Atelelo       0604 B244666-B    Ag Ni              510 As
+Aife'erle     0607 B86AAFG-E    Hi Wa           A  114 As
+Awaheh        0702 B669564-7    Ni                 313 As
+Eahlah        0705 B31478B-C  N Ic                 905 As
+Yuriyh        0706 B665222-A  N Lo Ni              212 As
+Rauhah        0707 B748331-9  N Lo Ni              602 As
+Oheiy         0709 C656265-8  S Lo Ni              704 As
+Aolaaokhakh   0710 C663372-9    Lo Ni              915 As
+Khahaar       0802 B100334-C  N Lo Ni Va           633 As
+Hkuekherl     0807 B310276-9  N Lo Ni              603 As
+Aihasaoriyl   0808 B373498-9    Ni                 824 As
+Ktaoailaei    0809 C523168-9    Lo Ni Po           211 As

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Aikheahei SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fteaoeaa      0132 C89A4LA-8                       101 As K4 V
+Iylei         0133 C4629H7-D    Hi                 214 As M3 III M5 VI
+Keiilryeha    0139 D7554L7-4                       703 As G0 V M0 D
+Earlea        0232 A6653G8-9                       104 As A1 V
+Ftiyeeal      0233 B7646LB-8                       505 As G0 V
+Khiyw         0235 A4844L3-D                       514 As M3 V
+Asealaos      0240 C8799G6-E                       312 As K3 V M8 D
+Hkahai        0333 B8866L3-B                       905 As M1 V M5 D
+Fiylrefteir   0337 D8434G6-8                       100 As M1 V M5 D
+Hraii         0338 C0008L6-9                       304 As M0 V K7 D
+Wya           0340 E2109G7-C                       204 As K0 V
+Weyelye       0431 B4514L6-7  R                    902 As M1 V
+Aoiteales     0437 B3783L9-C                       220 As G5 V
+Hekhikhawe    0440 B89A6L4-A                       303 As G3 VI M6 D M4 D
+Ktahoues      0535 E3552L5-A                       900 As K9 III M1 D
+Ktiyw         0540 E4787LA-8                       904 As M0 VI
+Khtehoirei    0631 B1217L9-A                       305 As M5 VI
+Tyaw          0633 C6943G6-A                       912 As M9 V
+Hyaikh        0635 B6486G7-B                       700 As M4 VI
+Uauaestasiy'  0639 B0007GA-E                       605 As M1 IV
+Uaeeakhtiylr  0640 A3625L7-B                       222 As K4 V
+Htuatreisea   0732 CA974G4-9                       403 As M1 V
+Heewyeheh     0838 A5758G8-E  R                    502 As M0 V G0 D
+Iylas         0840 E4118L6-7                       604 As M4 V M0 D

@@ -1,0 +1,35 @@
+@SUB-SECTOR:Wiaiaw SECTOR:Esai'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+E'or          1731 E62489B-6                       112 As F0 V
+Taheihoihei   1733 E798889-3                       805 As F8 V M6 D
+Kheaifeseaya  1832 C3438BC-5    Po                 924 As K4 V
+Ehtaoh        1833 E87A444-9    Ni Wa              713 As F7 V
+Teleleikea    1837 A7A5230-D    Fl Lo Ni           302 As M9 V M5 D
+Hkaohti       1839 A584459-B    Ni                 905 As F8 V M2 D
+Aulrelreir    1840 B5979DA-7  N Hi In              604 As F8 V M2 D
+Aohkeilyur    1936 E424886-4                       103 As F3 V
+Etui          1939 B310599-D  N Ni                 301 As M7 V
+Yuhya'        1940 B3537BB-8    Po                 202 As F5 V
+Aeiroaeaiykh  2035 E455552-7    Ag Ni              900 As F8 V M0 D
+Liyolailou    2131 E8A066B-2    De Ni              424 As M9 V
+Hryuwoukhei   2132 E310337-6    Lo Ni              322 As G9 V M9 D
+Eaoar         2134 E878AAA-9    Hi In              504 As F6 V M8 D
+Ei'eilreas    2137 C878796-5  S Ag                 103 As F4 V
+Eil           2140 B425488-C  N Ni                 120 As M1 V
+Heiei         2235 E482884-2    Ri                 804 As F9 V M4 D
+Akhtahtosa'   2236 C94A463-B  S Ni Wa              914 As K3 V M4 D
+Aiyhwi        2239 B210002-A    Lo Ni              700 As M3 V
+Iyhao         2332 E347664-7    Ag Ni              202 As F2 V
+Hihesai       2337 C8A3ACA-8    Fl Hi              200 As F5 V
+Kyohfiywaue   2340 B2479DG-A  N Hi In              603 As F7 V
+Yu            2435 E684431-3    Ni                 120 As F0 V
+Feftea        2436 E110764-7    Na                 904 As M8 V M8 D
+Oueaaoye      2439 C9E2685-5  S Fl Ni              800 As M1 V
+Earlerlarorl  2440 C9A4357-9  S Fl Lo Ni           702 As K8 V M3 V

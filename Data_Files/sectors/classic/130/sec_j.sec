@@ -1,0 +1,59 @@
+@SUB-SECTOR:Usew SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Se'           0921 B542133-7  N Lo Ni Po           204 As
+Suikh         0922 B16057A-B  S De Ni              504 As
+Weiyaaweirl   0923 B00057B-D    As Ni              713 As
+Ihakhuarle    0925 C120100-D  S De Lo Ni Po        313 As
+Aheiieie      0926 C637330-8  S Lo Ni              923 As
+Ireawoaoi     0930 C9A1547-7    Fl Ni              622 As
+Keaesiyhew    1022 B203134-C  S Ic Lo Ni Va        204 As
+Aloi          1027 C000889-7  S As Na              502 As
+Feieyor       1030 CABA435-7    Fl Ni Wa           403 As
+Ewea          1121 C527120-6  S Lo Ni              210 As
+Keeaa'aul     1126 C000557-C  S As Ni              621 As
+Hlaaia        1129 C8C7321-6  S Fl Lo Ni           914 As
+Hakhe         1221 B968343-B  S Lo Ni              803 As
+Hkakhoaw      1222 BAD2898-A  2 Fl                 604 As
+Haikhe        1223 BAA3564-7  2 Fl Ni              502 As
+Hrohliaw      1224 C734556-B    Ni                 804 As
+Ahiyeisoawa   1226 C445110-7    Lo Ni              314 As
+Khuhtauhil    1230 C555977-6  S Hi                 524 As
+Aeakiy        1321 E378567-5    Ag Ni              803 As
+Easilalr      1323 C72A448-9    Ni Wa              423 As
+Alye          1329 C000204-C    As Lo Ni           113 As
+Hlauitea      1330 C441434-7    Ni Po              714 As
+Eahri         1421 E413550-6    Ic Ni              613 As
+Eelewyaoi     1422 C6A1888-5    Fl                 704 As
+Khtiya        1425 D584974-5  S Hi                 504 As
+Aiha          1429 C659200-6  S Lo Ni              303 As
+Feeikahkei    1522 E31067A-6    Na Ni              112 As
+Auiyahkeaa    1525 D693201-3    Lo Ni              301 As
+Hlieawye      1527 CAD5421-9    Fl Ni              904 As
+Terlewaukoa   1528 C898200-8    Lo Ni              303 As
+Elui          1530 C9A2200-8    Fl Lo Ni           114 As
+Siyyatle      1621 C8C3126-A    Fl Lo Ni           300 As
+Oiktaheayuil  1624 D79A743-7  S Wa                 810 As
+Hkaulrye      1628 D447000-8    Ba Lo Ni           603 As

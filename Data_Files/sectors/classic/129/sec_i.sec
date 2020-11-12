@@ -1,0 +1,62 @@
+@SUB-SECTOR:Hrekh SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Touftaesea    0121 C302331-9  S Ic Lo Ni Va        113 As
+Yohouh        0122 C560778-8    De Ri              403 As
+Stielr        0125 C110889-A    Na                 800 As
+Uakeahasoaea  0126 C564ABA-9    Hi                 500 As
+Tyatlohi'ieh  0127 C552447-5  S Ni Po              314 As
+Hearir        0129 C300789-A  S Na Va              932 As
+Aooi          0130 C456565-8    Ag Ni              712 As
+Ekhi'         0221 C9B5885-6    Fl                 804 As
+Eiwei         0223 C100ABB-F    Hi Na Va           510 As
+Iyerlaes      0224 C251454-A  S Ni Po              302 As
+Ftuahisiylr   0225 C676336-4  S Lo Ni              120 As
+Arlaurel      0228 C846354-9    Lo Ni              814 As
+Aiyo          0229 C355120-5    Lo Ni              204 As
+Uahlae        0230 C847896-4                       423 As
+Yeyehtiy      0328 C793342-6    Lo Ni              614 As
+Kiairl        0329 C639578-6    Ni                 302 As
+Eakhtuisyo    0422 C458596-9  S Ag Ni              624 As
+Tleari        0425 A6689DE-7  2 Hi                 911 As
+Ualr          0429 C7A4466-A  S Fl Ni              123 As
+Kharl         0430 B53268C-9  2 Na Ni Po           604 As
+Khtarlei      0521 D677665-4    Ag Ni              104 As
+Eirlao        0524 C5327B7-9  S Na Po              312 As
+Ftyuhwah      0527 C9D8144-A  S Fl Lo Ni           104 As
+Ktikhaolol    0530 B646579-7    Ag Ni              504 As
+Atehei        0626 BA99797-A  N                    803 As
+Reoleii       0630 B56658D-7  N Ag Ni              410 As
+Oihiyhfoa     0721 C559665-8    Ni                 204 As
+Eilouyeeihah  0722 D7755AD-3    Ag Ni              802 As
+Khtei'uuilr   0723 D385388-7    Lo Ni              214 As
+Esaaus        0725 D3239EE-7  S Hi In Na Po        913 As
+Eikar         0727 C274357-8    Lo Ni              500 As
+Eos           0730 C100352-B    Lo Ni Va           702 As
+Elra          0821 D778AFH-5  S Hi In           A  603 As
+Ooikhyuaru    0823 D87749B-7  S Ni                 414 As
+Eaeahtuawaw   0824 C487264-6  S Lo Ni              714 As
+Khtyeea       0827 C240578-9    De Ni Po           403 As
+Htiweah       0829 C300588-9    Ni Va              204 As

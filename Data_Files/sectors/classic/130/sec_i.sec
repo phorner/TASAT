@@ -1,0 +1,56 @@
+@SUB-SECTOR:Aryes SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Tewehoisiyh   0121 C000248-B    As Lo Ni           104 As
+Iyhila        0127 AAC4447-C    Fl Ni              920 As
+Hraih         0129 B43298B-B    Hi In Na Po        521 As
+Oheieafa      0222 A6B0200-F    De Lo Ni           204 As
+Yaoikyeea     0225 A674500-A    Ag Ni              104 As
+Wausyerai     0227 A200000-B  N Ba Lo Ni Va        504 As
+Staukhahohea  0321 C12047A-C    De Ni Po           702 As
+Aukhteirloal  0322 A436332-C    Lo Ni              623 As
+Aohte         0323 C433444-9    Ni Po              801 As
+Saa           0325 A544997-9  N Hi In              404 As
+Wahail        0326 A000401-C    As Ni              802 As
+Oafeiretiyr   0421 C9B4577-A    Fl Ni              320 As
+Kheealrasiyh  0422 C363235-7    Lo Ni              203 As
+Haeiwiy       0427 B230953-A  S De Hi In Na Po     113 As
+Fiyliiy       0430 B6A0210-C  S De Lo Ni           105 As
+Heirlea       0521 C584463-6  S Ni                 803 As
+Uiieaw        0526 B728622-8    Ni                 512 As
+Htaoateas     0527 B348300-C  N Lo Ni              814 As
+Hlyahwyo      0626 B6B0413-8    De Ni              813 As
+Yahkahiyra    0628 AAD6412-D    Fl Ni              702 As
+Heleahea      0629 B547526-A  S Ag Ni              310 As
+Esteroikyor   0721 D6A1566-4  S Fl Ni              105 As
+Ayo           0724 B411520-9    Ic Ni              724 As
+Hahtistol     0725 B573523-B    Ni                 503 As
+Ael           0728 A582965-B  N Hi                 500 As
+Laohal        0729 A378530-9    Ag Ni              204 As
+Khtelreaaea   0730 A96A424-F    Ni Wa              902 As
+Tasoar        0821 D5759BC-3  S Hi In              402 As
+Heakhta'eiui  0822 D435796-7  S                    713 As
+Eakhtaustee   0826 B433632-C    Na Ni Po           504 As
+Eakhaahkoiea  0830 B150000-B    Ba De Lo Ni Po     604 As

@@ -1,0 +1,53 @@
+@SUB-SECTOR:Eaaiaii SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Yawaoaoil     0912 A677652-9  N Ag Ni              214 As
+Eakhuaisea    0913 A11059A-F    Ni                 703 As
+Eisa'yokohea  0914 A98937A-9  N Lo Ni              105 As
+Aleh          0916 A87AAED-F    Hi In Wa           300 As
+Tliyeh        0918 A4348CD-D  N                    604 As
+Hreih         0919 AAF38CE-D    Fl                 824 As
+Hteakhtya'ea  0920 A647698-8  S Ag Ni              204 As
+Ekeaoaiftea   1012 A227487-D    Ni                 511 As
+Awei          1016 A360ADE-C  N De Hi              324 As
+Yalrekteikha  1114 A8A3479-D  S Fl Ni              503 As
+Eair          1115 A4678A9-8  2                    803 As
+Htaeayerliha  1117 A7A1697-8    Fl Ni              902 As
+Earleeah      1118 A748585-D    Ag Ni              702 As
+Eiw           1119 A598144-B  N Lo Ni              402 As
+Yuateilrirl   1214 A42257B-C    Ni Po              713 As
+Weahaoahtai   1311 A553100-B  N Lo Ni Po           410 As
+Syuuiahwi'ya  1312 C354320-5  S Lo Ni              901 As
+Eiwiy         1315 A210689-E  S Na Ni              204 As
+Fea'awaihe    1316 B495369-8    Lo Ni              501 As
+Iu            1411 C400866-9    Na Va              722 As
+Eaualekhar    1415 C977AA9-7    Hi In              204 As
+Aohwyaouahre  1417 C304788-A    Ic Va              505 As
+Alruar        1420 C00067A-B  S As Na Ni           104 As
+Uaououeil     1511 C210103-B    Lo Ni              303 As
+Htahal        1514 D59688A-3                       504 As
+Ea'e          1519 C67A110-6  S Lo Ni Wa           300 As
+Oaaiyeliw     1618 C110569-B    Ni                 801 As
+Seafeala      1619 C562777-5    Ri                 504 As

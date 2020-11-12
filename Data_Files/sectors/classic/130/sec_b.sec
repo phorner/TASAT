@@ -1,0 +1,53 @@
+@SUB-SECTOR:Yakhtaus SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eahaorahkye   0902 A130446-C  N De Ni Po           311 As
+Hoaeaste      0904 A100665-C    Na Ni Va           125 As
+Eakyorl       0906 A110123-F    Lo Ni              400 As
+Ei'yeh        0907 A555332-A  N Lo Ni              104 As
+Eyohiyahwyol  0909 C348324-8    Lo Ni              904 As
+Tairahyer     1006 A667896-7    Ri                 623 As
+Ihuiheaw      1008 C9D3534-9    Fl Ni              602 As
+Kouosoah      1009 CA8A421-9    Ni Wa              403 As
+Raiaare       1104 A35688C-B                       734 As
+Laliwakhe     1108 C527314-5  S Lo Ni              904 As
+Yeryahura     1201 A598211-A  S Lo Ni              911 As
+Ao            1202 A454114-B    Lo Ni              500 As
+Starliyrl     1203 A242221-D  S Lo Ni Po           914 As
+Htesyuftaea   1205 A776320-A  N Lo Ni              403 As
+Eakhtiesil    1208 C58497B-6    Hi                 204 As
+Iykte         1306 A848A89-C  N Hi In              803 As
+Eiiyeialr     1308 C734740-8                       503 As
+Eruiseaste    1402 A314643-C    Ic Ni              501 As
+Eiuew         1403 A875756-C    Ag                 703 As
+Ouyuheira     1404 B484547-7    Ag Ni              105 As
+Tiyl          1406 A79A546-D  N Ni Wa              104 As
+Kara          1408 C669536-7    Ni                 802 As
+Hwahihahoi    1410 C553956-8  S Hi Po              203 As
+Ae            1504 B687678-A  2 Ag Ni Ri           201 As
+Ahaoeioia     1509 C797100-7  S Lo Ni              321 As
+Erilr         1510 C451520-A  S Ni Po              624 As
+Areih         1603 B755887-A  N                    703 As
+Liykha        1610 C343520-5    Ni Po              803 As

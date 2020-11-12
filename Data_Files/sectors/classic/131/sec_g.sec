@@ -1,0 +1,39 @@
+@SUB-SECTOR:Iy'auaweila SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ehuiw         1712 B0006GA-B                       714 As M3 V M2 D
+Yaw           1714 C5493G7-8                       814 As G9 III
+Hwyekhafa     1717 B6538L9-E                       421 As G4 V
+Faeirl        1811 CAE82L8-D                       100 As M9 III
+Eastauea      1813 D6A82G6-8                       904 As M3 V
+Hiyaeae       1814 X8CA4GC-9                       402 As M1 V
+Kheahlorl     1815 A8DA2L5-D  R                    104 As M1 V
+Yufearleahe   1816 C3434G6-8                       401 As G2 V M4 D
+Khei'eieh     1818 B7415G8-B                       323 As M0 V
+Styehkiloa    1820 A3339L7-E                       223 As M0 V M1 D
+Yokhealri     1913 C4236L7-9                       313 As M0 III
+Isaieaso      1915 D9DA5G3-7                       314 As M2 IV
+Weweauuiea    1918 B1512G2-A                       423 As M0 V
+Aisoaa        1920 B7895GA-7                       803 As K3 V M8 D
+Atoeilekhtea  2011 E69A3L8-B                       813 As M4 V
+Tiytike       2013 A7B76G9-B  R                    904 As M0 V
+Haeisuir      2015 C7435L4-8                       200 As M1 V M6 D
+Kei           2111 E1412G6-6                       600 As G8 IV
+Ahkaseah      2112 E6AA4L6-8                       404 As M3 V
+Aofahruaei    2119 B7B68L5-E                       412 As M0 V M8 D
+Hliyal        2211 B5118GA-D                       123 As M1 V
+Ryahlyuiy     2215 C6979G6-9                       312 As M2 IV G4 D
+Khteawahahea  2216 B1103LA-C                       102 As M4 V M3 D
+Aawei         2218 E8CA4LC-9                       313 As M4 V M3 D
+Era           2311 E9958GA-B                       623 As A2 V K7 D
+Oihkaioasokh  2314 E5527L7-8                       601 As K4 V M4 D
+Eaiyhtal      2315 A2113G9-B                       424 As M7 V
+Styohou       2412 B3500G8-9                       302 As G3 V
+Eyah          2415 B3502L5-B                       911 As M2 V M7 D
+Asoawukhtoha  2417 A3524G7-A                       724 As G2 V

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Eauseewa SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oaaerleiwes   2532 B7795L6-7                       603 As M2 V
+Oaatrias      2534 C6A97G7-8                       423 As M6 V
+Tesar         2535 D0001G6-8                       203 As G7 V
+Oasutryuh     2537 E5308L4-A                       912 As M1 V M2 D
+Tua           2636 E8C70L7-9                       704 As G0 V
+Loiftiyer     2731 C5015G9-9                       402 As G0 V M3 D
+Kheir         2732 E5518L4-B                       113 As M3 V
+Eahoirlealr   2735 C6A78G7-A                       403 As M4 V
+Khoikheasi    2740 B4239L3-E                       923 As M4 V M5 D
+Oiktau        2836 X5444G3-7                       703 As G1 V M9 D
+Triy          2838 B1104L8-C                       501 As F0 IV
+Hkuawiy       2933 B3889G6-D                       102 As M1 IV M9 V
+Kao'eaiei     2938 B3353G4-9                       404 As M4 V
+Aekh          2939 X5314G5-7                       923 As M1 V M7 D
+Faulruaktair  2940 D7960G5-8                       412 As M0 V
+Khtaooiiaa    3037 A2508G6-E                       404 As M1 V M5 D
+Yewaee        3038 C5773LA-B                       700 As M3 V
+Eihalri       3039 DA893G8-8                       722 As K4 V M0 D
+Yelew         3131 A6635G9-C                       904 As G4 V M2 D
+Areis         3134 C7327L5-A                       901 As K4 V
+Ktuwifyu      3140 C6875G6-9                       511 As M2 V M7 D M9 D
+Eawai'        3231 D89A2L6-C                       323 As M0 IV
+Atektye       3234 C4204G9-8                       402 As F0 V M0 D
+Tyoh          3235 E59A5L9-5                       502 As K1 V

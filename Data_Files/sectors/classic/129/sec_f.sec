@@ -1,0 +1,56 @@
+@SUB-SECTOR:Tyeaue SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Arei'uiha     0916 C8A5633-6    Fl Ni              503 As
+Aiikhiy       0920 D634400-6    Ni                 213 As
+Hkal          1012 C87348A-8    Ni                 601 As
+Toarl         1013 C8C8388-8  S Fl Lo Ni           403 As
+Keiw          1017 C8C4842-7  S Fl                 304 As
+Yae           1018 C428624-A    Ni                 604 As
+Iylralihiy    1020 C480624-4    De Ni              803 As
+Faeioa        1111 X373000-3    Ba Lo Ni           214 As
+Hyaaika       1113 C66659D-4  S Ag Ni              903 As
+Oilouao       1117 C89A521-6  S Ni Wa              404 As
+Iei           1118 C400403-B    Ni Va              903 As
+Yeleleii      1212 C473264-5    Lo Ni              914 As
+Wiysarl       1214 C638046-6  S Lo Ni              320 As
+Kowowea       1215 C685488-5    Ni                 122 As
+Erlyorle      1218 C595511-8    Ag Ni              414 As
+Rehfear       1219 D130941-6    De Hi In Na Po     724 As
+Hle           1311 X523433-0    Ni Po              513 As
+Iysaasoueh    1313 C8977BD-4  S Ag                 704 As
+Ryoheauhkerl  1315 C2329CA-C    Hi In Na Po        600 As
+Khaihoaroa    1317 C637795-8  S                    904 As
+Eaihuawiy'    1319 C795689-6  S Ag Ni              714 As
+Akholol       1413 C3109EE-8    Hi Na              213 As
+Htoikheaeas   1414 C5847B7-7  S Ag                 513 As
+Iyyehalisea   1415 C4267B9-A  S                    725 As
+Khiyau        1512 C668043-5    Lo Ni              214 As
+Iyheiweisaw   1515 C130487-7    De Ni Po           812 As
+Ousyu         1517 C3008BD-7    Na Va              205 As
+Uali          1520 C667575-7  S Ag Ni              300 As
+Aohri         1617 C240258-9    De Lo Ni Po        414 As
+Sti           1618 C50269E-9    Ic Na Ni Va        714 As
+Tuiiyeierakh  1619 C4587AB-5  S Ag                 900 As

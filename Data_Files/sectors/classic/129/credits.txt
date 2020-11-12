@@ -1,0 +1,14 @@
+Waroatah - Credits 
+
+Created from sectorfile using sec2gal at 14:34 1/8-2002. 
+sec2gal by BeRKA http://zho.berka.com/ 
+
+-------------------------------------- 
+
+Sector mapped by Jeff Zeitlin. 
+Created from the dot-plot in Solomani & Aslan by jaymin@maths.tcd.ie 
+
+-------------------------------------- 
+
+Notes: 
+Sector not made with Aslan Rules.

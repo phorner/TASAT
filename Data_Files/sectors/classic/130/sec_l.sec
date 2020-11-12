@@ -1,0 +1,58 @@
+@SUB-SECTOR:Eaoeis SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ealryuakh     2521 C405220-6    Ic Lo Ni Va        201 As
+Iwal          2525 C000356-D  S As Lo Ni           600 As
+Aiwaoh        2529 C7A0465-9    De Ni              503 As
+Relehel       2530 C8589BF-8  S Hi                 304 As
+Tyekh         2625 C566575-6    Ag Ni              102 As
+Akteihisyolr  2626 E3407A5-7    De Po              610 As
+Wyohra        2627 E401022-7    Ic Lo Ni Va        524 As
+Yufaohas      2628 E20058B-8    Ni Va              902 As
+Has           2722 C8A5459-A    Fl Ni              804 As
+Kauaiy        2723 C948347-6  S Lo Ni              603 As
+Hta'oulrearl  2724 C253566-5  S Ni Po              305 As
+Are           2726 C442576-8    Ni Po              310 As
+Yetuiheurl    2822 CAF6014-9    Fl Lo Ni           503 As
+Hkiyte        2823 C634443-6    Ni                 803 As
+Iykharlyaea   2828 D7A098A-4  S De Hi              522 As
+Alreilaaiyo   2924 C796941-A    Hi In              414 As
+Tlaa          2927 D401200-5    Ic Lo Ni Va        103 As
+Yufe          2929 D646436-3    Ni                 701 As
+Eai'          2930 D85A200-8    Lo Ni Wa           104 As
+Ya'           3021 C358000-5  S Ba Lo Ni           502 As
+Tiyiyw        3023 C7A4331-5    Fl Lo Ni           613 As
+Ieaeei        3026 D55376A-6  S Po                 804 As
+Eyarleaea     3029 D748212-7  S Lo Ni              325 As
+Heihea        3125 CAF2644-9    Fl Ni              414 As
+Sueakaeh      3126 C210210-9  S Lo Ni              122 As
+Taftyer       3128 C879763-5                       805 As
+Khiyiy        3221 C300777-6    Na Va              714 As
+Yawea         3223 D454558-7    Ag Ni              104 As
+Ataheihieh    3224 C40366A-9    Ic Na Ni Va        300 As
+Ehoulruatuis  3225 D677430-2  S Ni                 712 As
+Aiea          3226 D562446-4  S Ni                 910 As
+Aheiouh       3228 D110210-9  S Lo Ni              310 As
+Hwilruililr   3229 D000987-B  S As Hi Na           503 As

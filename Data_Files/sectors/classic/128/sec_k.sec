@@ -1,0 +1,25 @@
+@SUB-SECTOR:Eaheouya SECTOR:Esai'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lea           1726 C573999-8    Hi In              803 As G1 V M7 D
+Aryewarlua    1829 D734753-8  S                    903 As M2 IV
+Haaoa         1930 C89A99E-C    Hi In Wa           805 As G8 V M1 D
+Wiyhkaoea     2028 E557203-5    Lo Ni              500 As F9 V M7 D
+Yoreeah       2029 C658203-6    Lo Ni              502 As F8 V M6 D
+Yahaleyeaw    2126 C411440-A  S Ic Ni              100 As M1 V
+Oraoafe       2127 C444773-6    Ag                 202 As F8 V
+Ouleie        2222 E9D9410-4    Fl Ni              203 As M0 V
+Yafirih       2226 C558001-4  S Lo Ni              903 As F4 V
+Eaeae         2228 E526525-3    Ni                 500 As K4 III M6 V
+Ftiyailyasei  2229 E44296A-7    Hi In Po           605 As F6 V
+Tautoiyawa    2324 D9A4746-5  S Fl                 103 As M5 V
+Ehlel         2325 E100644-8    Na Ni Va           800 As M5 V M2 D
+Asaweasea     2327 C37666A-6    Ag Ni              720 As F0 V
+Orokhehyakh   2329 E000740-9    As Na              102 As M8 V
+Ftakaileitai  2429 E130300-8    De Lo Ni Po        903 As M0 V

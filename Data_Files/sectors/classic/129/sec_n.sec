@@ -1,0 +1,52 @@
+@SUB-SECTOR:Hekisearai SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hweaheilehie  0931 B77A668-9  N Ni Wa              924 As
+Sei           0932 B330497-C  N De Ni Po           402 As
+Loihiwaioi    0933 B885AAA-E    Hi                 504 As
+E'yaheh       0937 B532424-9  S Ni Po              412 As
+Aholilalau    0938 C869200-A  S Lo Ni              714 As
+Seha'         1031 B32738C-B  S Lo Ni              203 As
+Soil          1032 B4968DF-6                       903 As
+Steras        1036 C656312-5  S Lo Ni              200 As
+Aurlilea      1038 C468634-5  S Ag Ni              104 As
+Hkyo'iw       1039 C300523-B  S Ni Va              932 As
+Fou           1040 C8B2741-7  S Fl                 514 As
+Ui'           1131 B5977CC-A  S Ag                 505 As
+Aauioaha      1132 B534278-7    Lo Ni              704 As
+Kekhesea      1138 C75A977-7    Hi Wa              903 As
+Khteisaisoah  1139 C300741-7    Na Va              303 As
+Talrya        1234 B5A0536-A    De Ni              604 As
+Hkukhtealr    1236 BA9A531-D  N Ni Wa              800 As
+Feasyeheaha   1332 C1006A8-9    Na Ni Va           104 As
+Hea           1333 C6557CB-7  S Ag                 303 As
+Ea'           1336 C574304-7    Lo Ni              304 As
+Uikhoiile     1340 C463521-9    Ni                 703 As
+Eau           1436 C110744-A    Na                 604 As
+Weaoiye       1438 C513410-8    Ic Ni              503 As
+Tahkouoiei    1532 C200596-7    Ni Va              812 As
+Kiyrlaihyelr  1533 C201595-6    Ic Ni Va           623 As
+Olehya        1536 C120202-D    De Lo Ni Po        803 As
+Khirle        1632 C400321-A    Lo Ni Va           220 As

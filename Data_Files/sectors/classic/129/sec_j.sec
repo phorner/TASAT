@@ -1,0 +1,59 @@
+@SUB-SECTOR:Ihuirl SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Akhtaheaftye  1021 E635677-2    Ni                 524 As
+Syearl        1022 E794446-4    Ni                 812 As
+Ehye          1024 E747447-5    Ni                 104 As
+Ausaa         1025 E347222-3    Lo Ni              400 As
+Eaahreaehua   1027 B31058C-A  2 Ni                 212 As
+Tyoeahtai     1028 B423479-9  N Ni Po              903 As
+Tyuyae        1029 B873644-A    Ni                 604 As
+Eaoua'        1030 B377586-A  S Ag Ni              412 As
+Ia'aokhal     1122 E79A553-A    Ni Wa              313 As
+Eieawaao      1128 B646366-A    Lo Ni              520 As
+Eatra         1129 B537368-7    Lo Ni              720 As
+Itleioa       1130 C100131-9    Lo Ni Va           104 As
+Saihuais      1224 E843334-3    Lo Ni Po           612 As
+Toawasealaa   1226 E421431-5    Ni Po              110 As
+Htyas         1230 B778101-8  S Lo Ni              124 As
+Uialreawyura  1322 E535113-5    Lo Ni              923 As
+Uirasaheha    1327 B697324-9  S Lo Ni              404 As
+Khyasi        1421 E978220-7    Lo Ni              414 As
+Aoraiyasea    1423 E310343-4    Lo Ni              513 As
+Hkikhoehya'   1424 E26645A-5    Ni                 713 As
+Hrohroiawao   1425 EA8A884-7    Ri Wa              222 As
+Aiyui         1428 B668545-B    Ag Ni              302 As
+Ewyuoaro      1429 B110543-D  2 Ni                 103 As
+Orealyukhea   1430 E556652-4    Ag Ni              703 As
+Eiyfti        1521 E693677-2    Ni                 704 As
+Ftarei        1528 B272315-8    Lo Ni              604 As
+Saeaselr      1530 B100432-C  N Ni Va              800 As
+Stiryuhehwya  1623 E160678-7    De Ni Ri           201 As
+Ryeohlo       1624 E1409AB-5    De Hi In Po        104 As
+Fawyo         1626 B637531-7  2 Ni                 411 As
+Ai'iyraw      1627 BA8A100-D  N Lo Ni Wa           914 As
+Ouiaukeawih   1628 B536766-8                       812 As
+Eouhraiwaito  1629 B310313-8    Lo Ni              405 As
+Yuiyhtai'ye'  1630 B984868-A    Ri                 203 As

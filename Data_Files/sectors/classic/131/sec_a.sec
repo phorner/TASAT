@@ -1,0 +1,39 @@
+@SUB-SECTOR:Iwairei SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Weoieila      0102 D5502G7-8                       805 As K3 V
+Heahwau       0108 E3018LA-7                       113 As G2 V M5 D
+Auhateftao    0201 C5105L8-7                       312 As M0 V
+Toi'as        0203 D6A63LA-9                       603 As M2 V
+Iyki          0204 E5302G4-7                       520 As M4 V
+Tauaei        0207 C1313L8-A                       104 As A6 V
+Hteis         0301 E2314L9-7                       800 As M1 V
+Hluil         0303 A3883G4-D  T                    612 As M1 V
+Ourleaaaoso   0306 C4268L8-9                       803 As M4 V M2 D
+Oalewyutiyl   0308 A6788L6-E  T                    210 As M7 II
+Khalai        0309 B0006L3-A                       801 As M2 VI M8 D
+Afawyakharl   0403 D2456L6-5                       513 As K4 VI M3 D
+Eieawa        0404 CA9A8G6-C                       925 As G4 V
+Airei'        0405 D5409L8-C                       423 As G4 V
+Ea            0406 C6533L8-9                       214 As K2 V M8 D
+Liyrlaiw      0408 C7689L6-B                       522 As M1 V M1 D M0 D
+Aktaw         0503 E9977LB-8                       703 As M0 V M2 D
+Ehtaoalalri   0505 B5344L8-C                       601 As M3 V
+Heahta        0507 D5119L7-9                       802 As K0 V M6 D
+Oisaokheiye   0508 E4104L8-8                       510 As K4 V
+Kihlyohiywei  0601 B6A74L6-9                       103 As K5 VI
+Styelr        0605 C7B59L6-C                       703 As M2 II M1 V
+Syeou         0701 B2119G5-C                       400 As K2 V M7 D
+Aftekhoa      0709 E7792L7-8                       904 As M3 V
+Eaoayaa       0710 C6A86G2-A                       303 As K9 IV
+Eahliro       0806 X5227L9-7                       401 As M5 D M8 D
+Faiei         0807 B3111L6-C                       803 As K4 III
+Tryastelr     0808 C89A2G9-B                       804 As M7 V M2 D
+Trawealuaow   0809 C6786G7-A                       124 As M4 V M7 D
+Toheioifoah   0810 C7B46L5-8                       903 As M0 III M8 D

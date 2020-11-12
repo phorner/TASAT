@@ -1,0 +1,42 @@
+@SUB-SECTOR:Aye' SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eaihoas       0922 A2201L9-D  T                    524 As K9 IV
+Aehuawyaftei  0923 C1116L6-9                       403 As K1 V M5 D M9 D
+Yaaiaalr      0925 E4234L7-7                       924 As M5 IV
+Iyehoi        0926 A7582G6-B                       824 As M2 V
+Yuyafirl      0929 C1116LA-9                       104 As M4 V M8 D
+Aitei         1021 C5328G8-B                       414 As M0 V
+Ualerleasar   1024 B5556L8-C                       804 As M3 V M6 D
+Ftakta        1025 C6A55L3-9                       103 As M0 V
+Aes           1026 E5301L6-C                       725 As G7 IV
+Auhkolaiwe    1030 E5648G4-7                       602 As M2 V
+Yarikht       1121 E8859GC-B                       614 As K6 VI M5 D
+Khyehari      1124 B6A61G4-8  R                    103 As M7 V
+Etea          1127 XA9A4L2-5                       702 As F4 V M2 D
+Kuhahteiw     1128 A4593G7-C  T                    204 As M6 III K5 V
+Yaioi         1221 E2207L5-7                       903 As G0 V
+Wyawoisyatiy  1222 B6332G8-C                       820 As M1 IV
+Aiilaola      1223 E2382G8-6                       204 As F3 V
+Hkoaotoh      1227 A6117L6-B  R                    614 As K0 V M7 D
+Akhtaolyefai  1228 A3502G5-E                       803 As G7 D M9 D
+Aoftea        1321 B4968L9-E                       904 As M7 IV M2 D
+Akehteh       1322 B69A7LC-A                       703 As M1 V M5 D M5 D
+Aielrya       1324 A5216L5-B  R                    102 As K1 V
+Uii           1325 E4408G4-B                       504 As K0 V
+Eaou'         1326 D4004L7-7                       824 As M3 V M5 D
+Hfailiyr      1328 E5302G7-6                       713 As M2 V
+Arareea       1329 B3648L8-E                       111 As M0 V
+Araiw         1330 B4117G8-D                       604 As M1 V M0 D
+Erehalruaoas  1423 C4557G4-8                       324 As M3 V
+Akhteawau     1427 B1515L8-C                       404 As K1 V M3 D
+Haktuea       1530 B69A6L5-8                       602 As M1 II
+Aihfe         1621 B4658L6-B                       122 As A5 IV
+Eale          1623 C6A25L3-8                       313 As M2 V M0 V
+Oiloieseirl   1628 B3358L5-E                       700 As M1 V M5 D

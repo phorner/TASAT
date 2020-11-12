@@ -1,0 +1,65 @@
+@SUB-SECTOR:Ofti SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hahaoso       2521 EAD5374-6    Fl Lo Ni           202 As
+Hkearelahkau  2524 E332310-7    Lo Ni Po           204 As
+Hiy           2525 E410643-3    Na Ni              114 As
+Os            2530 B200514-9  N Ni Va              704 As
+Ekuaoahi      2621 E2005AF-5    Ni Va              805 As
+Htaue         2625 E86A201-9    Lo Ni Wa           712 As
+Ahtuih        2626 E526520-6    Ni                 613 As
+Eahkyalraou   2627 E555200-4    Lo Ni              713 As
+Ehehleliys    2628 B150632-A    De Ni Po           212 As
+Sekhauhasyeh  2629 B655745-9    Ag                 412 As
+Hweaafea      2721 E3625A9-8    Ni                 603 As
+Triyoiwasaw   2723 E585266-2    Lo Ni              700 As
+Aoriyleisa    2726 E759310-3    Lo Ni              200 As
+Eihfeileeih   2727 E310756-6    Na                 500 As
+Sta           2729 B120966-A    De Hi In Na Po     113 As
+Yetatyah      2821 E1006BD-7    Na Ni Va           331 As
+Waii          2824 E6A1432-4    Fl Ni              410 As
+Oeaweawye     2825 E515766-7    Ic                 510 As
+Aayakhar      2826 E782535-3    Ni                 820 As
+Hla'iwas      2829 B414301-D  S Ic Lo Ni           303 As
+Kehryokhyael  2922 E1006BC-6    Na Ni Va           104 As
+Yeteauhkeli   2923 E412485-8    Ic Ni              404 As
+Syoouo        2924 EAA76A6-7    Fl Ni              103 As
+Aiheastereih  2929 B232737-A  S Na Po              604 As
+Eihoeryuloa   2930 BAA3522-C  S Fl Ni              904 As
+Uaihoirlyeh   3022 D5A2275-3  S Fl Lo Ni           702 As
+Foosoiriua    3026 B688620-9  N Ag Ni              210 As
+Ua            3027 B755956-8  S Hi                 110 As
+Khieuiw       3028 B555521-A  2 Ag Ni              702 As
+Eahteaeeiral  3029 B548400-A  N Ni                 500 As
+Takh          3030 B9A4623-7    Fl Ni              213 As
+Eafurlyekeha  3121 D400667-3    Na Ni Va           213 As
+Eafeilaie'    3122 D444333-5  S Lo Ni              113 As
+Kteatyuhya    3127 B867732-9  N Ag                 603 As
+Ahehkiaohaw   3128 B7B0201-D    De Lo Ni           800 As
+Oukhoawale    3129 B3409AD-C  N De Hi In Po        113 As
+Eawyuw        3222 D476778-3  S Ag                 414 As
+Oli           3223 D303220-6  S Ic Lo Ni Va        604 As
+Alousosyu     3227 B310732-A    Na                 414 As
+Ealrawerarl   3230 B584568-B  N Ag Ni              714 As

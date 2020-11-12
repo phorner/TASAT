@@ -1,0 +1,28 @@
+@SUB-SECTOR:Ftalea SECTOR:Esai'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Uiseawo       2812 C684ACH-C    Hi                 415 As F2 V M2 D
+Yaeahiyha     2818 D865462-5    Ni                 602 As F0 V
+Ao'awyu       2819 C584332-4    Lo Ni              313 As F5 V M9 D
+Hluaasaw      2917 B377545-9  2 Ag Ni              702 As F4 V M6 D
+Huiehur       2918 C764686-3    Ag Ni Ri           124 As F9 V M3 D M4 D
+Iea           3012 C524645-7  S Ni                 302 As F4 III
+Alasiwekh     3013 DA8A635-6    Ni Wa              123 As G9 V M3 D
+Oiyo          3015 C569313-6  S Lo Ni              405 As F4 V
+Oh            3020 B975898-A                       805 As K7 V M5 D
+Aiyalao       3111 D236410-7  S Ni                 603 As M6 V
+Arlew         3116 D210855-6  S Na                 904 As G4 V
+Htoirlawyeo   3117 D243523-7  S Ni Po              805 As F6 V M7 D
+Taiktaye      3118 D200855-4    Na Va              703 As G7 V M9 D
+Ktuiktiys     3120 B9A6566-A  N Fl Ni              904 As K8 V
+Htouiheiftya  3211 D588579-3  S Ag Ni              813 As F9 V
+Teiryol       3212 C767765-3  S Ag Ri              414 As F8 V
+Ureikheilr    3214 D345A75-7    Hi In              414 As F3 V
+Kuiauekeah    3215 D482631-6  S Ni                 304 As F4 V M2 D
+Eiyerlilea    3216 D130634-9    De Na Ni Po        100 As M7 II

@@ -1,0 +1,62 @@
+@SUB-SECTOR:Hkewoikhuh SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hkaui         1702 C3029AD-A    Hi Ic Na Va        403 As
+Useaaihiyye   1703 C210AEF-B    Hi Na              304 As
+Eaaotli       1706 C536141-8    Lo Ni              412 As
+Sya'ea        1802 C525776-9                       702 As
+Syea          1804 C94A587-8    Ni Wa              713 As
+Tli'          1805 C58469B-5    Ag Ni Ri           215 As
+Tlehwiy       1807 C7A2577-5  S Fl Ni              714 As
+Kerikhyel     1808 C63869A-5  S Ni                 904 As
+Eea           1809 C8589BF-8  S Hi                 304 As
+Eakhu'        1901 B224243-9    Lo Ni              103 As
+Eewyolraiiyr  1903 A674500-A    Ag Ni              104 As
+Earlakhalr    1907 X439350-4    Lo Ni              510 As
+Yewihaihiy'   2001 B313575-B  N Ic Ni              913 As
+Aleiesar      2003 A110445-G  S Ni                 604 As
+Aowyehkasua   2006 C5989BA-5    Hi In              410 As
+Eakoarleawel  2007 X20058B-4    Ni Va              902 As
+Eaktesoukh    2008 X380478-2    De Ni              713 As
+Iyekh         2010 C1109AB-C    Hi Na              402 As
+Ftiyweih      2101 B234472-B  N Ni                 404 As
+Eeahaw        2102 B6347AD-7                       101 As
+Earleiheihla  2104 A96A559-G    Ni Wa              125 As
+Tyelruafto    2106 C693796-7  S                    900 As
+Treaweakh     2201 B475462-9    Ni                 701 As
+Awealea       2205 C442576-8    Ni Po              310 As
+Reaue         2206 C000356-D  S As Lo Ni           600 As
+Akhtuierlalr  2210 B410866-C    Na                 704 As
+Oakte         2301 B410479-8  N Ni                 502 As
+Uaher         2303 B000243-D    As Lo Ni           104 As
+Hrailrai      2304 C576366-9    Lo Ni              300 As
+Heeitlyo      2307 C300564-B  S Ni Va              103 As
+Ieiaweih      2309 B867420-7  2 Ni                 225 As
+Aoieyakh      2310 B8C6A86-C  N Fl Hi              402 As
+Ehloiwarahoi  2402 B000576-9  N As Ni              910 As
+Eholeieaiylr  2403 B65446A-B  N Ni                 704 As
+Auryesouh     2408 C634443-6    Ni                 803 As
+Esa           2409 CAF6014-9    Fl Lo Ni           503 As
+Eaiyye        2410 C421567-A  S Ni Po              323 As

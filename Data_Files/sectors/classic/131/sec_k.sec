@@ -1,0 +1,45 @@
+@SUB-SECTOR:Araoiw SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yehyorl       1722 D2209L7-B                       422 As M3 V
+Uiiykheikh    1723 E8A77L2-9                       215 As M1 V
+Iyeaases      1729 AA958L5-E                       105 As M1 IV
+Laiktiya      1730 A79A7G6-E                       602 As G6 D M0 D
+Eafoarei      1821 A6119LB-D                       213 As M2 II M2 D
+Fiyouakou     1822 B6745L9-8  T                    311 As G1 VI M7 D M1 D
+Esaeaw        1823 C7B92LB-A                       812 As G5 V M9 D
+Eilreeafa     1826 C6386L4-6                       910 As K1 V
+Ofelarl       1828 CA892LC-B                       403 As K2 IV
+Ilah          1829 E5414L9-7                       913 As K5 V M2 D
+Koahalr       1830 C89A5G9-A                       202 As M2 V
+Htaiaurl      1922 E7576L6-6                       112 As M4 II
+Khueihweah    1923 B4501L8-E  R                    204 As K4 V
+Hryo          1927 D5518G6-8                       304 As K3 V M0 D
+Ahua'e'       1928 D6986G8-5                       702 As M5 VI
+Ileayu        1930 E7544L3-3                       912 As G2 V
+Ke            2023 E4315L4-6                       613 As M1 V M4 D
+Leayukhtaye   2024 A7418L6-E                       602 As K4 V M1 D M4 D
+Hle'alrois    2026 A5503G2-E                       204 As M5 V
+Soalakheaoue  2027 A5504G8-8  R                    224 As M7 III M7 D
+Ktilairurla   2030 A6A62L8-E                       903 As M8 V M5 D
+Yuki'yefaorl  2121 C4509LB-E                       203 As M4 V
+Airahwoiwoiw  2125 B3500L9-E  T                    903 As M6 II
+Stetl         2126 D5339L8-B                       801 As M2 V K7 D
+Yoaorelakh    2129 B9DA2L8-B                       724 As F0 V
+Aheaoaa       2130 E0007G7-B                       313 As M0 V
+Ahteayew      2224 C8574LA-A                       313 As G2 V M5 D
+Kheayeh       2226 B6A56L7-8                       702 As M3 V M0 D
+Alaoa         2228 B79AAL5-B                       624 As K3 V
+Akhya         2323 A437AL8-E  R                    703 As G4 V
+Oliy          2327 A1315G6-D                       705 As M3 V
+Arl           2329 B5966L6-9                       903 As M6 VI
+Keaoialeirou  2330 C4348G5-C                       113 As G4 V
+Iyeaaerakh    2423 C3300L4-A                       120 As K5 V
+Yaou          2429 B1003L8-E  R                    524 As K4 V M2 D
+Eakye         2430 E66A3G3-5                       503 As K8 V M1 D

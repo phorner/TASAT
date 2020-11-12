@@ -1,0 +1,59 @@
+@SUB-SECTOR:Ihoalourow SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ekhieaahi     0131 AA6A75A-B  N Ri Wa              500 As
+Steikh        0136 A648963-A    Hi In              903 As
+Teaihua       0137 E220366-6    De Lo Ni Po        713 As
+Khaakheal     0140 EA89130-7    Lo Ni              122 As
+Khtea         0231 A9B7201-C  N Fl Lo Ni           703 As
+Iuakyae       0232 A564630-B  N Ag Ni              105 As
+Asealrela'    0236 E110477-8    Ni                 914 As
+Khtir         0237 E9E78A8-2    Fl                 314 As
+Kteilraoeaar  0238 E327353-6    Lo Ni              510 As
+Kouarearleh   0239 E59679B-4    Ag                 800 As
+Ouh           0333 A567754-D    Ag Ri              314 As
+Ioakhuikha    0335 A787524-A    Ag Ni              604 As
+Iruawoisoil   0339 E566365-6    Lo Ni              504 As
+Huateeh       0532 B9B4334-9  N Fl Lo Ni           104 As
+Iyheah        0534 B300445-B  S Ni Va              323 As
+Al            0537 E382577-7    Ni                 503 As
+Faiyeiliye    0538 E325577-7    Ni                 301 As
+Ahaiha        0540 E568356-8    Lo Ni              711 As
+Hosiysilua    0631 B200553-9  N Ni Va              710 As
+Eroa          0632 B357AAD-F  2 Hi                 520 As
+Eakoriyea     0633 B100677-A  S Na Ni Va           212 As
+Hlyurehokh    0634 B250676-7    De Ni Po           923 As
+Yuhakheae     0636 E532341-3    Lo Ni Po           803 As
+Aore          0639 E77A79B-3    Wa                 904 As
+I'yeeahia     0640 E88968A-7    Ni Ri              702 As
+Suaao         0732 B676662-8    Ag Ni              204 As
+Hrelr         0733 BA6A89E-8    Ri Wa              800 As
+Ftikhiyhoul   0734 B598565-9    Ag Ni              702 As
+Khyeserle     0736 E493453-5    Ni                 104 As
+Etearluaea'   0740 E783137-4    Lo Ni              103 As
+Elaftew       0833 B562774-9    Ri                 403 As
+Airei'ea      0836 B64A89A-B  N Wa                 414 As
+Troa          0837 E545340-7    Lo Ni              613 As
+Eafihehea     0840 E6648BA-4                       305 As

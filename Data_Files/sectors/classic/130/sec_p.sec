@@ -1,0 +1,53 @@
+@SUB-SECTOR:Faoeairl SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Haohliea      2531 E594302-6    Lo Ni              804 As
+Weloireil     2534 A877241-A  2 Lo Ni              204 As
+Yowatlair     2535 A2239B8-E    Hi In Na Po        413 As
+Yeahal        2537 AAE5788-D  N Fl                 713 As
+Tloaehohor    2538 B7B3457-8  2 Fl Ni              803 As
+Hkyolewasyee  2540 B5A056A-A    De Ni              304 As
+Ioroi         2634 C360341-5    De Lo Ni           803 As
+Loaaa         2635 C585110-6    Lo Ni              300 As
+Iyhouh        2638 B643569-7    Ni Po              122 As
+Ftoafa        2732 E435963-9    Hi In              104 As
+Eaawa         2737 B74A344-D    Lo Ni Wa           604 As
+Houl          2739 B8B5999-C    Fl Hi              402 As
+Esea'aokhau   2831 D364754-5  S Ag Ri              814 As
+Tlehaiylr     2832 D437202-7  S Lo Ni              324 As
+Hiyaitiy      2834 D511356-7    Ic Lo Ni           804 As
+Ewyehaol      2934 C470576-5    De Ni              522 As
+Oueih         2935 C52A469-C    Ni Wa              305 As
+Ikhtawielih   2937 B227554-E    Ni                 103 As
+Ealeil        2939 B884554-7    Ag Ni              302 As
+Auao          3039 B434302-B  N Lo Ni              624 As
+Yowaoyuyohar  3040 B326400-D    Ni                 804 As
+Yulirairei    3136 C784410-6    Ni                 304 As
+Ahloutos      3140 B491945-9  S Hi In              403 As
+Wisaheih      3231 E9C4955-9    Fl Hi              600 As
+Uika          3232 EA67200-6    Lo Ni              405 As
+Hleaeasyolra  3236 C564732-8    Ag                 900 As
+Alratiaw      3239 C574201-7  S Lo Ni              404 As
+Htahwyu       3240 B546222-6  N Lo Ni              213 As

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Aeie SECTOR:Esai'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fetyaye       2533 A356787-A  N Ag                 801 As K9 V
+Aoloufaya     2534 A273465-E    Ni                 903 As F5 V M6 D M9 D
+Oelawaal      2631 B4517BG-7    Po                 905 As F9 V
+Eaheasakhao'  2632 B692267-B    Lo Ni              203 As F0 V
+Ayewyoh       2732 A200799-C  N Na Va              102 As G4 V
+Iy            2740 A211325-F  S Ic Lo Ni           802 As K2 IV
+Elahuirl      2834 C240243-8    De Lo Ni Po        312 As G7 V
+Ktikh         2835 C322464-6  S Ni Po              203 As M6 V M3 D
+Lauhiahakh    2932 A451563-E    Ni Po              415 As F5 V M2 D
+Uas           2937 C210577-7  S Ni                 400 As F7 II
+Wuih          2938 A532496-C    Ni Po              103 As K2 V
+Eihoikhahau   2940 A6399EF-C  N Hi In              604 As F7 V M7 D
+Khteayelei    3031 A76577A-B  N Ag Ri              120 As F4 V
+Eilra'iyhokh  3032 B424033-7    Lo Ni              702 As F9 IV
+Ahrulaya      3034 A4845A8-E  N Ag Ni              302 As G2 V M6 D
+Aiiywerlo     3131 B639474-A  N Ni                 202 As K2 V
+Hteaheayukh   3132 B6B17A6-B  S Fl                 110 As M0 V M9 D
+Syawah        3135 B696463-7    Ni                 925 As G7 V
+Eakhea        3139 A774554-B    Ag Ni              303 As K0 V M3 D
+Hrerl         3231 B668253-7    Lo Ni              212 As F2 V
+Aoleao        3233 A87A778-B  N Wa                 800 As F8 V M6 D
+Talaaaoho     3234 A5667CA-8  N Ag                 200 As G3 V M7 D M1 D
+Aiyea         3237 A6655AB-B  S Ag Ni              535 As F9 V M3 D
+Khtoe         3238 A747222-8  N Lo Ni              402 As F7 V

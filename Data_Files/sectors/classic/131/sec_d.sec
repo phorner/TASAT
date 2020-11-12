@@ -1,0 +1,38 @@
+@SUB-SECTOR:Htyoa' SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eiaeiwyae     2504 B4463GB-9                       124 As M4 V
+Wao'eaiharl   2510 C5884L9-6                       101 As K4 V
+Afteor        2602 B1007LB-E                       105 As G7 II M4 D
+Oiyelyaw      2603 B79A3G6-A                       614 As K9 V M9 D
+Stoheiktyo    2604 C8688L9-A                       513 As M4 V
+Trah          2605 B1417G8-E                       400 As M4 V
+Eaiiyiywas    2608 E0002L8-8                       204 As M7 V
+Aoiyherlea'   2703 A8516G8-C                       214 As K3 V
+Ahlisaoea     2706 C3500GC-6                       101 As M4 III
+Hkaoeatauye'  2707 A5209LA-E                       900 As K2 V M5 D
+Ftikhaiao     2709 A777731-C                       700 As M3 V M0 D
+Oyalareakh    2803 C7B68LB-A                       722 As M1 V M6 D
+Tlaohke       2806 B6687L6-E                       812 As M4 V M6 D
+Eieakheahous  2807 CAC97L5-A                       312 As M4 V M5 D
+Hliyearliei   2904 E1105L6-7                       505 As G3 V
+Khtaohehya    2907 C2338LB-A                       221 As G4 III
+Eara          2909 X1001G8-9                       302 As G3 V M3 D
+Kai           3005 B4406L4-C                       804 As M7 VI
+Feikhuiau     3007 C2016L5-A                       905 As M2 V K6 D
+Fteeiwyea     3008 A2215L8-C                       203 As M4 V
+Haisye'o      3009 B7A75L8-9                       412 As M1 III M8 D
+Ikeaeeli      3101 D7B60L9-9                       704 As K2 V M0 D M7 D
+Ouse          3103 C6A61L8-C  R                    303 As K6 V M8 D
+Tlaioes       3105 A2006G8-8                       203 As M4 V
+Ftuiw         3107 A59A6L5-D                       103 As F0 V M4 D
+Eahlua        3108 C8962L8-B                       913 As K1 II M5 D
+Ehaw          3109 E9D62GA-7                       924 As M7 V
+Wahahi        3204 C3118L6-D                       702 As M2 V M1 VI
+Keihfaiiil    3207 E5502LC-A                       503 As M9 V M3 D

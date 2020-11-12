@@ -1,0 +1,38 @@
+@SUB-SECTOR:Syukaiseakh SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Reiwaosi      2522 D9979G8-B                       603 As K0 III
+Keyakhyuei    2527 E1019L7-9                       104 As K2 V M9 D
+Iouhiwuaraih  2528 E6542L7-C                       613 As F0 III
+Ahiyh         2530 A6654L7-D  R                    103 As G2 V
+Wahekhelrye   2623 E7BA6L8-8                       503 As K3 V
+Iyei          2625 A6656L7-8                       904 As K0 D
+Ayeaihairiyh  2626 E2401G9-5                       303 As K6 V M3 V
+Khtye'yur     2629 B5696L8-B  R                    611 As M4 V
+Haoekhealya'  2630 C1314G4-9                       513 As K2 V
+Ftiwaia       2726 B4506L8-9                       303 As M0 V
+Htayueeiliyw  2728 B3347G7-C                       703 As G1 V
+Yeifiy        2823 B1207G5-E                       803 As M6 V M3 D
+Teieiweiloh   2827 D3485G6-6                       100 As M1 V
+Khyaa         2921 C2246L9-7                       800 As K5 III
+Fteas         2922 E5541G6-7                       112 As M9 V
+Khuyoholoi    2923 C4100L5-A                       103 As M7 D
+Esteisah      2924 B5116LA-A                       315 As M3 IV
+Ktata         2926 C5501G3-8                       624 As M1 V
+Au            2927 E3795G4-5                       524 As M3 V M1 D
+Heahyorlalr   3022 C1018G8-A                       302 As K3 V
+Khteie        3023 B9D66L9-A  R                    911 As M2 V
+Aoukhyow      3027 A47A2L6-D                       422 As K5 V M0 D M7 D
+Tyukhisearl   3029 C76A5LC-A                       600 As M8 III
+Tluarl        3129 A3351L9-E                       423 As M6 V
+Tuakee'       3130 B77A7L3-D                       410 As M4 V
+Taaouah       3223 C5968G8-A                       313 As M3 V
+Heaweh        3224 A6316G7-9                       303 As M2 V
+Alaiheyelail  3225 B6688L8-E                       922 As M0 V M1 D
+Tryuowao      3226 B47A6L3-B                       814 As K4 V M0 D

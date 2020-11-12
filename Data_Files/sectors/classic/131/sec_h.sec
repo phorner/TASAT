@@ -1,0 +1,32 @@
+@SUB-SECTOR:Ualasalr SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Truaktaleeae  2511 B6487L7-B                       204 As M0 V
+Kteaeraosao   2512 A1213G5-C                       624 As K4 V M8 D
+Uikhasi       2516 B4779L5-E                       500 As M2 V
+Eiwoilr       2518 E2307L7-6                       602 As K3 V M6 VI
+Uhkeea        2520 B5108G6-D                       604 As M3 V M7 D
+Ahal          2620 C3251L4-B                       513 As M8 V
+Iyrl          2711 B1112GC-D                       904 As M2 III
+Tlolehaw      2712 A77A4LA-B                       704 As M4 V
+Hewiyrl       2714 A6A93G9-E                       713 As M6 V
+Sasi          2719 C5119LA-C                       615 As K2 V
+Aihwis        2812 X5508L9-B                       324 As K3 V
+Eaairakh      2814 A4235G8-A                       214 As G0 VI
+Fehou'        3014 E4678L6-9                       412 As M5 II M8 V
+Hfawairaei    3018 A5202GB-D                       404 As M9 VI M9 D
+Reolryalao    3112 X5313L4-8                       920 As M8 V M9 D
+Ftaoiy        3115 C8799L6-B                       204 As M0 V M6 D
+Ahyelawaisel  3116 B4502L3-E                       924 As M3 V
+Ai'yefa       3120 E4016L7-7                       903 As A3 V
+Ftou          3211 A8979L9-E  T                    704 As K5 V
+Woieaoihiy    3213 C5311GA-8                       703 As M0 V M4 D
+Weis          3215 C5501L3-E                       203 As M9 V
+Reayeyeuikhe  3216 B2007L8-E                       703 As M2 V
+Eaeas         3220 D5775L2-6                       913 As M6 V

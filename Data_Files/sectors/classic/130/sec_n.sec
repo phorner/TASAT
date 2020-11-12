@@ -1,0 +1,50 @@
+@SUB-SECTOR:Ookhtul SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Layarlih      0931 B652100-A  N Lo Ni Po           412 As
+Ye'ihuah      0937 C687223-8    Lo Ni              110 As
+Hakhearear    1035 B9B3544-B  N Fl Ni              424 As
+Hil           1038 C200987-B  S Hi Na Va           524 As
+Eihkiyl       1135 B9A7432-9    Fl Ni              314 As
+Ealari'       1140 C445775-9    Ag                 701 As
+Fuaheikhauaa  1235 C413210-7    Ic Lo Ni           115 As
+Uiao          1236 C586767-3  S Ag Ri              814 As
+Yoyasase'ea'  1239 C65A557-8    Ni Wa              204 As
+Awiylruaraa   1240 C544004-8    Lo Ni              513 As
+Htaulrearl    1331 C58178B-7    Ri                 703 As
+Yoehoal       1337 C725766-6  S                    803 As
+Aoyeh         1338 C69799C-5    Hi In              405 As
+Iyfyehiahwoh  1340 B9A6201-A  S Fl Lo Ni           223 As
+Arui          1431 B3629A9-A    Hi                 403 As
+Aikeawuatea   1435 B86A883-8  N Ri Wa              504 As
+Re'yoheiheiw  1436 B878335-8    Lo Ni              703 As
+Esuayokhakh   1440 BAA5222-7  2 Fl Lo Ni           904 As
+Teiwuw        1531 B412232-9    Ic Lo Ni           224 As
+Aiealokhea    1535 B484652-A  N Ag Ni Ri           923 As
+Eiraua        1538 B200300-D  S Lo Ni Va           604 As
+Seakhi'       1539 C000222-B  S As Lo Ni           212 As
+Stei          1631 B8C2468-C  N Fl Ni              811 As
+Yaeistoal     1633 C130550-A    De Ni Po           302 As
+Hkeihiyw      1639 C160776-8  S De Ri              905 As

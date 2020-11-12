@@ -1,0 +1,54 @@
+@SUB-SECTOR:Khaeil SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Khtuaeiriea   2501 C510223-9  S Lo Ni              200 As
+E'ariyw       2506 C442679-6    Ni Po              510 As
+Ktaliywaw     2508 C889232-5  S Lo Ni              100 As
+Haolaawoirl   2604 C444675-8    Ag Ni              704 As
+Aehyawe       2606 C758672-8    Ag Ni              410 As
+Uihoa'        2608 C368452-7    Ni                 800 As
+Ktahreihel    2610 C76A100-7    Lo Ni Wa           410 As
+Htasei        2710 C8D5657-A  S Fl Ni              203 As
+Oifoiaokhta   2804 C233AAB-C    Hi In Na Po        104 As
+Yewo          2807 C2008CC-5  S Na Va              803 As
+Tiyyoowe      2809 C653865-6  S Po                 705 As
+Khoahreis     2810 C656864-4                       600 As
+Stao'ayoroi'  2901 A512445-E  N Ic Ni              823 As
+Oihtieal      2902 A573AA7-C  2 Hi In              105 As
+Oeatleahei    2904 C300665-9    Na Ni Va           703 As
+Oustesalr     2905 C10089C-8    Na Va              403 As
+Aooheau       2908 D4416AD-4  S Ni Po              213 As
+Aowaheoa      3001 C9C2665-7  S Fl Ni              514 As
+Khtyelryer    3002 AA7A552-D    Ni Wa              321 As
+Eakhikhtyur   3003 C265772-4    Ag Ri              914 As
+Riylewaa      3006 A444488-C  N Ni                 403 As
+Ftialrye      3010 C447A94-D    Hi In              204 As
+Fekhekhao     3101 A7998DC-9  N                    402 As
+Weahtye       3107 A543210-D  N Lo Ni Po           703 As
+Ahtei         3202 A7679EI-D    Hi              A  110 As
+Hraiaya       3204 A3385AC-F    Ni                 700 As
+Itayo         3207 A667320-8    Lo Ni              902 As
+Khehakhisaos  3209 A657768-B  S Ag                 510 As
+Khouai        3210 C555311-8    Lo Ni              922 As

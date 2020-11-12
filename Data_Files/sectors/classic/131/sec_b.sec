@@ -1,0 +1,37 @@
+@SUB-SECTOR:Hkoi  SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eahfea        0901 EAA69L7-8                       113 As G4 V M0 D
+Teaoa         0904 C7451L6-C                       100 As K7 V M4 D
+Heaiye        0907 A4488GB-C  R                    523 As G4 V
+Hrahilryo     0908 B5626G2-C                       600 As K4 IV
+Eyoha         0910 B8C45G7-B                       324 As G2 V
+Fih           1004 E2440G7-9                       503 As M7 V
+Ftorle        1006 B68A9G9-C                       313 As M0 V
+Aou           1010 A5504G8-B                       622 As M4 V
+Autreal       1107 C2006L3-A                       512 As M1 V
+Ei'ealr       1108 C6988L6-A                       810 As G2 V M2 D
+Hes           1109 C4403GA-8                       101 As M3 V M8 D
+Keafteiah     1201 C9873G2-9                       414 As M8 V M7 D
+Yorlois       1206 X2437L6-7                       432 As M3 V M3 D
+Tlaieateawea  1210 B2528LA-B                       401 As M6 IV M8 D
+Osaaowolr     1303 E4103G8-7                       720 As M4 V
+Eakhalrarae   1305 B1011L8-E                       120 As F2 V
+Triwaai       1309 E4323G7-9                       504 As K7 V
+Yufohoul      1402 B3208LA-C                       701 As M1 V
+Aoea          1409 C5436L5-7                       304 As M1 V
+Aiheakhaa     1501 C59A5L9-8                       713 As M2 V M7 D M6 D
+Saohwaos      1502 C4108GA-9                       600 As M3 V K4 D
+Akhaeaweihye  1505 C6425L7-A                       123 As M4 V
+Hlihael       1508 B8999L7-E                       410 As A2 V
+Harlesera     1601 C4308L8-C                       324 As M0 V M4 D
+Oerihyalr     1602 D2000G6-A                       403 As M6 V M3 D
+Ktuae         1606 A3428G4-D  R                    520 As K1 V M1 D M6 D
+Wyuai         1609 C6A53L6-E                       804 As K0 V M5 D
+Aoeioi        1610 A4507L5-E                       202 As M0 V M7 D

@@ -1,0 +1,49 @@
+@SUB-SECTOR:Walyekh SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eieirar       0910 E2108AD-8    Na                 604 As
+Yuhtohaau     1007 D510352-5  S Lo Ni              600 As
+Hrair         1010 E889358-4    Lo Ni              805 As
+Etris         1102 C00058B-7    As Ni              924 As
+Tohyawe       1103 C4238CB-9    Na Po              802 As
+Steeawaleahi  1110 E423122-6    Lo Ni Po           213 As
+Khaweataoei   1203 C9C2102-A    Fl Lo Ni           412 As
+Eaowyaah      1204 C988A9A-8    Hi                 300 As
+Faahtuhkeah   1206 C99A243-7  S Lo Ni Wa           204 As
+Eaheawel      1301 C000643-6  S As Na Ni           112 As
+Owaiseea      1304 C362874-4    Ri                 610 As
+Teawyesye     1305 C201864-6  S Ic Na Va           824 As
+Ikhoi         1309 E32579A-6                       424 As
+Reaas         1404 C561554-A    Ni                 604 As
+Alroasa       1405 C400661-5  S Na Ni Va           813 As
+Alrewaeioil   1408 B100457-D  N Ni Va              300 As
+Yaaiaokhai    1501 C885889-3  S Ri                 701 As
+Eaau          1503 C7B4110-5    Fl Lo Ni           303 As
+Yaa           1505 B9C677B-A  2 Fl                 514 As
+Hekehteh      1508 B490676-7    De Ni              904 As
+Htaohel       1509 B54A564-8    Ni Wa              711 As
+Uawis         1601 C787330-5    Lo Ni              904 As
+Lah           1604 BA9A9AC-E  S Hi In Wa           212 As
+Yoeaarlis     1606 B110667-C  N Na Ni              110 As

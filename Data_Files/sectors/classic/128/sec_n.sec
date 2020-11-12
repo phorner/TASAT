@@ -1,0 +1,37 @@
+@SUB-SECTOR:Fikheihe'eal SECTOR:Esai'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Wa'ye'e       0932 A656103-B    Lo Ni              623 As F9 V
+Iy'ehoireri   0934 A54887B-A                       803 As F1 V
+Iy'a          0935 B260135-7    De Lo Ni           513 As G8 V
+Khiykal       0940 C54467A-5  S Ag Ni              200 As F7 V M0 D
+Ahfewaeatas   1031 A734435-E  2 Ni                 503 As G6 V
+Tlyesos       1032 A261554-E    Ni                 903 As F4 V M5 D
+Ilrai         1035 BAA48A8-B    Fl                 703 As F0 V
+Aaoh          1131 A7C1768-9  2 Fl                 414 As M9 II M0 V
+Tloireei      1134 A685547-8    Ag Ni              723 As M4 V
+Tuitreaaaih   1137 A584665-9  N Ag Ni Ri           204 As F5 V M8 D
+Houhahayolar  1139 C00089A-9  S As Na              800 As F1 V
+Ftiykhtuiao   1234 E100853-7    Na Va              914 As F5 V M4 D
+Ka            1236 E685633-2    Ag Ni              313 As F9 V M3 D
+Yawahte       1237 E659A77-B    Hi                 405 As G2 V
+Tarluaea      1240 C100455-C    Ni Va              514 As M4 V
+Hreahtoa      1333 A524323-E    Lo Ni              210 As K0 V
+Eweh          1336 C96A112-B    Lo Ni Wa           622 As G2 V
+Foaatlois     1338 C865330-5    Lo Ni              113 As F5 V M7 D
+Koaao         1339 C000561-C  S As Ni              714 As K4 V M8 V M6 D
+Feilr         1340 C120122-9  S De Lo Ni Po        614 As M4 V M1 D
+Railr         1433 C86AACA-C    Hi Wa              505 As F4 V M7 D
+Ouyer         1532 A448657-C  N Ag Ni              200 As F1 V M7 D
+Kheiftu       1533 B686356-B  N Lo Ni              212 As F3 V M6 D
+Erouliysoiei  1536 C726787-4                       425 As F4 V M1 V
+Aiahtoa'yu    1538 C89A664-A    Ni Wa              213 As F3 V
+Siy           1633 B657689-6  S Ag Ni              103 As F2 V
+Wiheieaseaw   1634 A440764-C  N De Po              410 As F1 V M0 D
+Eisi'aresi    1638 C7B4332-8    Fl Lo Ni           322 As F1 IV

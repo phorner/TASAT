@@ -1,0 +1,58 @@
+@SUB-SECTOR:Hkairlyelr SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Asuistui      1724 D565200-5  S Lo Ni              810 As
+Uikhyahah     1726 D345400-9    Ni                 510 As
+Yur           1729 D425622-3    Ni                 200 As
+Hwyetrau      1730 D866200-7    Lo Ni              800 As
+Khaoh         1822 E66678B-6    Ag Ri              403 As
+Iyiyhta       1827 C557512-7    Ag Ni              713 As
+Hkeoih        1830 D320730-6    De Na Po           604 As
+Oaa           1921 D100630-6  S Na Ni Va           113 As
+Yukiyfaea     1927 D665401-5  S Ni                 504 As
+Ouil          1928 D7C3965-9  S Fl Hi              122 As
+Eahlasealea   1930 D76A305-6  S Lo Ni Wa           304 As
+Eliyr         2024 D160741-7    De Ri              314 As
+Haieakhtei    2026 CAA7620-4  S Fl Ni              204 As
+Aihraoee      2121 D655754-7    Ag                 514 As
+Hrakh         2123 C551205-5    Lo Ni Po           703 As
+Ktilaili'     2125 C553978-6  S Hi Po              902 As
+Iiyases       2127 C513264-A    Ic Lo Ni           704 As
+Hwei'oiwao    2128 C6859DB-4    Hi                 904 As
+Ahtoaiaeh     2221 D264523-4    Ag Ni              824 As
+Iiyia'        2226 C6967B7-7  S Ag                 512 As
+Sasiyhyeta    2227 C526388-7  S Lo Ni              223 As
+Kyuhreaouayu  2229 C160776-8    De Ri              413 As
+Khta'eiw      2230 C100665-8  S Na Ni Va           304 As
+Atai          2323 C336425-A    Ni                 404 As
+Iuiasis       2325 C7397BD-8  S                    303 As
+Yesahirl      2326 C796655-6    Ag Ni              110 As
+Khtaeah       2328 C4255AB-A    Ni                 604 As
+Etikha'ao     2330 C3125AD-6    Ic Ni              813 As
+Htaaoahai     2422 C455313-8  S Lo Ni              200 As
+Hki           2424 C895543-4  S Ag Ni              810 As
+Touatlyoaoha  2425 C343531-A  S Ni Po              603 As
+Foi           2428 CAD4499-8    Fl Ni              414 As
+Aisualr       2429 C2106BE-6  S Na Ni              112 As

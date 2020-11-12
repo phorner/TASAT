@@ -1,0 +1,57 @@
+@SUB-SECTOR:Oatreikhtekh SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Sooa          1734 D679564-6  S Ni                 922 As
+Iyhlastekhea  1737 C410952-C  S Hi Na              100 As
+Ehahawyahlei  1739 C200416-6    Ni Va              504 As
+Awaol         1740 C365300-B    Lo Ni              302 As
+Yelraol       1831 C511622-9  S Ic Na Ni           210 As
+Yaelelouour   1835 CA7A734-6    Wa                 614 As
+Hlyar         1836 C572734-3  S                    413 As
+Eiseaou       1838 CAC9200-A  S Fl Lo Ni           820 As
+Ii            1931 D775457-4    Ni                 500 As
+Khtasisoi     1932 D78856A-4    Ag Ni              732 As
+Hfatroiw      1934 C470330-9    De Lo Ni           604 As
+Eahteaeaw     1935 D302678-5    Ic Na Ni Va        204 As
+Ewaiktea      1936 D400454-5  S Ni Va              713 As
+Haoeleaakhte  2035 C57788A-5  S                    233 As
+Htea          2038 A410112-E  N Lo Ni              902 As
+Eleal         2132 C515220-8  S Ic Lo Ni           402 As
+Iaikhe        2133 A120677-F  S De Na Ni Po        704 As
+Ye'           2134 A675122-9    Lo Ni              904 As
+Aseh          2135 A224559-E  N Ni                 304 As
+Eahlu         2136 A200225-A  S Lo Ni Va           403 As
+Hfaow         2137 A100343-D  N Lo Ni Va           605 As
+Eawotel       2140 A36188B-D    Ri                 204 As
+Arehesal      2231 A330758-D    De Na Po           704 As
+Yaaai         2232 A787322-9    Lo Ni              422 As
+Uiawaowaikh   2235 A88A877-9  N Ri Wa              200 As
+Ktyo          2240 AA6A66B-A    Ni Ri Wa           500 As
+Hte           2335 A685430-C  N Ni                 800 As
+Aokteata'     2338 A784324-A    Lo Ni              614 As
+Heaaoireah    2339 A574553-9  N Ag Ni              304 As
+Waowirl       2340 A513431-E    Ic Ni              120 As
+Elilr         2432 A525866-B                       214 As
+Htehkea       2440 AAC5667-B  N Fl Ni              700 As

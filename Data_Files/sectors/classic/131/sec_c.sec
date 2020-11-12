@@ -1,0 +1,40 @@
+@SUB-SECTOR:Iyao  SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hwyerlai      1702 A2653G6-E  R                    614 As M2 V
+Eayewah       1707 B38A7G3-C                       603 As M1 V M4 D
+Ikhaasealr    1709 E7B64G6-8                       904 As K8 D
+Oiye          1802 A9A67G8-C                       803 As M4 V
+Hlieiti       1803 C3203GA-7                       603 As G8 D M5 D
+Eikhouahiy    1804 E7A14L3-8                       223 As M4 V M3 D
+Leaeiwiyrl    1806 A8798L5-E                       425 As M1 V M4 D
+Ahah          1810 B4310L8-E                       304 As K6 V M8 D
+Teiiy         1901 C5996L8-9                       314 As K7 IV M7 D
+Aouhou        1904 D6627L7-8                       304 As M3 V M0 D
+Hroil         1905 B7B89GC-B                       202 As K3 V M5 D M1 D
+Eihoirl       1907 E2474L6-6                       613 As G4 IV
+Iyaoekha      1908 X1018L8-8                       522 As K1 V M4 D
+Ruiawe        2001 B9977LC-C                       802 As K2 V
+Eieaoh        2002 D2002L9-8                       304 As M2 V M4 D
+Oiaterl       2004 B7985G8-A                       625 As K5 III
+Yariktal      2102 D8C99L7-9                       603 As K1 VI
+Ktoi          2104 D3204L8-7                       104 As M2 V
+Tyehrasei     2106 B2303L5-C                       513 As G9 III M0 V
+Oukh          2110 C9948G5-E                       313 As M3 VI
+Ierouwoarl    2205 E5776L7-6                       403 As K0 V M1 D
+Sterla        2210 E3369L4-9                       613 As K5 II M9 V M3 V
+Teliykh       2301 X3344GA-6                       800 As F0 V
+Aliyahta      2305 B6214LA-C                       903 As M8 V
+Aolaos        2307 C2428G7-D                       710 As K3 V M9 D
+Ourleilrelr   2309 B77A1LC-C                       701 As M5 V M2 D
+Ohya          2310 E5509L3-7                       100 As G6 II M9 D
+Aarlyehe      2404 B69A3LB-B  T                    902 As K1 V M9 D
+Ftahilreaie   2405 X5205GB-7                       804 As K4 V
+Khyekh        2408 B3674G6-9  T                    110 As K3 V
+Wiyakhaala    2410 B2123L7-B                       113 As M1 V

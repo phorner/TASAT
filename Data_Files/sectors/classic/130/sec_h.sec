@@ -1,0 +1,53 @@
+@SUB-SECTOR:Aiiyahau SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Okhese        2516 E344661-7    Ag Ni              404 As
+Ouaiyeeitiy   2517 E201002-4    Ic Lo Ni Va        610 As
+Akhealeha     2611 D5566AC-2  S Ag Ni              914 As
+Hte'          2614 E949997-6    Hi In              415 As
+Ftokh         2618 E654666-3    Ag Ni              304 As
+Iyftaa        2620 E667001-5    Lo Ni              503 As
+Faiyaw        2712 E977000-2    Ba Lo Ni           512 As
+Weahial       2714 E524500-7    Ni                 124 As
+Oihkehiyolr   2716 E552724-5    Po                 712 As
+Sitaiaeatye   2718 E455720-7    Ag                 904 As
+Hrukhiei      2812 E8D5772-3    Fl                 721 As
+Ftohlo        2911 D000477-9    As Ni              523 As
+Aeieal        2914 D443354-9  S Lo Ni Po           102 As
+Khtaryekh     2915 CAB7ACC-9    Fl Hi              304 As
+Eakhoia       2920 E210789-5    Na                 904 As
+Heleaea       3013 C997478-6    Ni                 514 As
+Heilakhoi'    3015 D738244-6  S Lo Ni              203 As
+Ausiyhao'     3016 D7959CD-7    Hi In              310 As
+Aiheaauakhea  3017 D200797-3    Na Va              703 As
+Eikho         3020 E666343-2    Lo Ni              604 As
+Ftistah       3111 C8C38B8-5    Fl                 825 As
+Hlouoilrowe   3112 D210363-6    Lo Ni              102 As
+Ei'a          3114 C89958A-8  S Ni                 703 As
+Iyyesealas    3117 D897798-2  S Ag                 920 As
+Khyasastea    3120 D583245-2  S Lo Ni              202 As
+Foihir        3217 D4259B8-6    Hi In              404 As
+Ehyo'         3218 D376352-7    Lo Ni              600 As
+Ehyoao        3219 E526789-7                       900 As

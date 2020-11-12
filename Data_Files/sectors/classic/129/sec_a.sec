@@ -1,0 +1,32 @@
+@SUB-SECTOR:Iuweie SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0105          0105 X77A046-0    Lo Ni Wa           023 Na
+Halilre       0310 B888145-6  N Lo Ni              424 As
+Hkeakhou      0410 B451036-9  N Lo Ni Po           422 As
+Aeasi         0510 B4007AE-C  N Na Va              613 As
+Wiyhilosawa   0710 B6A4256-C  N Fl Lo Ni           115 As
+Uahar         0807 C899014-5    Lo Ni              504 As
+Haahryo'      0810 B110354-E  N Lo Ni              600 As

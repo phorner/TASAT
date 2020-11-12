@@ -1,0 +1,40 @@
+@SUB-SECTOR:Aoereaosya SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oiousakh      0121 C5536G6-6                       814 As K0 V
+Khoal         0123 C88A6L4-8                       503 As G0 VI M7 D
+Ai'           0126 B4318LA-E                       400 As K2 V
+Aoleaa'       0129 C4014L7-9                       523 As K1 V
+Ahesas        0130 D6973G4-A                       303 As M3 V
+Hkohal        0230 E5767L5-9                       505 As G5 IV
+Aerlairlyelr  0322 C8C35L7-9                       801 As G3 V M9 D
+Tekhaoaolya   0323 A6444G8-9  T                    221 As M7 IV M2 D
+Fiysaoioal    0324 C0004L5-7                       215 As K0 V
+Eyese         0325 D6A75LB-8                       600 As M4 V M0 D
+Ehiua         0326 B3566L6-9                       101 As M1 V M0 D
+Eis           0330 C3016GA-7                       605 As M4 V
+Ihoisail      0421 B6253G2-A                       205 As G6 III M0 D
+Aokeaa        0422 C5503L6-D                       104 As K6 V
+Iaoea         0424 C9B65L3-A                       404 As M1 V M0 D
+Oi'eea'eil    0429 E3117L6-A                       701 As M0 V
+Eatekhaiheah  0523 AA9A8L8-D  T                    400 As M2 II M0 D
+Ae'uhei'      0525 D7B22L7-D                       104 As A9 V
+Haryoukou     0526 C5439L7-E                       104 As K0 IV
+Sterluireiui  0529 C6972G3-B                       103 As M2 V M1 D
+Ihao          0623 B6878L4-B                       604 As F0 VI M2 D
+Eiraohliwear  0624 A8655G9-B                       501 As M3 V
+Hkoaas        0626 E9961L4-9                       902 As K9 V M7 D
+Eilroalaiha   0627 A5572GA-A                       823 As M8 V M3 D
+Aialoakhaw    0722 D3312L7-C                       802 As K6 V M5 D
+Khaooieihis   0727 C6733L3-D                       303 As M2 V
+Arlalr        0729 B2016L5-B                       404 As M4 V
+Ulreafah      0821 E1014L4-7                       604 As G3 D
+Ya'eie        0823 E5504L6-6                       823 As K2 V
+Iyuiaoiy      0825 B8C48L6-E                       223 As M3 V M4 D
+Eaye          0829 A2521L3-E                       103 As M3 V M8 D

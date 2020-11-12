@@ -1,0 +1,62 @@
+@SUB-SECTOR:Taioikheahua SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ewuihai       1712 D592542-6  S Ni                 303 As
+Iriheihouh    1714 D310113-6  S Lo Ni              904 As
+Tril          1715 D487666-2    Ag Ni Ri           721 As
+Iysuarleah    1717 E877886-5                       314 As
+Ulea          1719 D350440-8    De Ni Po           913 As
+Soloilekha    1720 D231834-6  S Na Po              300 As
+Stueliyokhih  1811 D410555-A    Ni                 503 As
+Heahiyirl     1814 E69998A-5    Hi In              805 As
+Yus           1818 E636436-6    Ni                 104 As
+Ehiheia       1820 E240877-7    De Po              414 As
+Hakoihaao     1912 B665433-9    Ni                 103 As
+Ftyaeasailri  1913 E539766-4                       213 As
+Yarearlaheih  1915 E500535-3    Ni Va              524 As
+Hleetei       1916 E465641-3    Ag Ni Ri           711 As
+Ke'           1919 E243765-6    Po                 222 As
+Ahkihi        2013 B774976-9    Hi In              814 As
+Uisaaea       2019 E342100-6    Lo Ni Po           900 As
+Tyehea'       2020 E100323-5    Lo Ni Va           603 As
+Ahiy          2113 B7A4536-A  2 Fl Ni              522 As
+Haoheisoi     2114 B77A868-7    Wa                 403 As
+Hlukyalryela  2115 B323533-A  N Ni Po              703 As
+Astaohe       2116 B876000-9  N Ba Lo Ni           904 As
+Yu'eir        2120 A84A632-A    Ni Wa              203 As
+Tehea         2211 B889757-B  S Ri                 213 As
+Asyahahwo     2215 B100743-8    Na Va              504 As
+Tlyaw         2217 A362514-9  S Ni                 904 As
+Wuioirow      2218 A85A745-D  2 Wa                 604 As
+Auakhaorakh   2219 A77A411-A    Ni Wa              502 As
+Elr           2315 B584300-B  S Lo Ni              202 As
+Wyes          2316 B425410-D    Ni                 404 As
+Teyayekiy     2319 B325246-D  N Lo Ni              712 As
+Hlaaea        2320 A889300-F  S Lo Ni              303 As
+Yeh           2412 B695200-9    Lo Ni              704 As
+Ai'e          2413 B245025-A  N Lo Ni              104 As
+Aokawiw       2415 B648856-9  N                    923 As
+Styo          2416 B488410-8  S Ni                 513 As
+Realrow       2418 B4237AA-B  S Na Po              512 As

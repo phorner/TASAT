@@ -1,0 +1,54 @@
+@SUB-SECTOR:Asyuorea SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ftahaowei     2514 B300441-A  N Ni Va              102 As
+Oiweraftou    2516 B676668-5  N Ag Ni              714 As
+Iykhtyeyahao  2517 B568114-7    Lo Ni              903 As
+Oilryelra     2611 B786220-7    Lo Ni              304 As
+Easowyerloo   2612 B85A676-B  N Ni Wa              403 As
+Iyrihou       2613 B752677-A    Ni Po              605 As
+Hweleakoa     2615 B532565-7    Ni Po              304 As
+Failaoraos    2616 B466232-B  N Lo Ni              404 As
+Khakhekhehwa  2618 B363110-C  2 Lo Ni              924 As
+Hreaweuei     2711 B300334-D    Lo Ni Va           601 As
+Ehea          2713 B8B5553-B    Fl Ni              204 As
+Waea          2717 B251223-8    Lo Ni Po           412 As
+Eihya         2718 B402652-B    Ic Na Ni Va        720 As
+Ikeahtoul     2720 C332655-9  S Na Ni Po           602 As
+Yaahailr      2815 C23147B-9    Ni Po              902 As
+O'ilreaho     2818 C779868-5  S                    205 As
+Alreaa        2820 C334766-9  S                    724 As
+Eikh          2914 C110586-B    Ni                 202 As
+Hkawaiyhiea   2917 X462863-2    Ri                 303 As
+Yel           3011 C8B3476-8    Fl Ni              914 As
+Khe'          3012 C336686-9    Ni                 613 As
+Ktuaeir       3015 C110533-C    Ni                 404 As
+Kao           3016 C677644-3    Ag Ni              603 As
+Khteaewyaheh  3113 C330368-7  S De Lo Ni Po        700 As
+Uakhaiktyusa  3114 C999368-5    Lo Ni              530 As
+Fyakeuahfas   3117 C300321-B  S Lo Ni Va           502 As
+Alusiewyal    3213 CA6958D-6  S Ni                 200 As
+Aohikheilr    3215 X510100-3    Lo Ni              104 As
+Khow          3216 X569757-1    Ri                 804 As

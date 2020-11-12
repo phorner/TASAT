@@ -1,0 +1,41 @@
+@SUB-SECTOR:Aiiya SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Iyhe'ea       0912 E9974LB-6                       533 As K2 V
+Ahyerle       0913 B8A25L6-8                       311 As K0 V
+Okh           0915 C4416L7-A                       403 As K4 V
+Eaktou        0918 A5790L9-E                       304 As M7 V
+Oataelehakh   0920 B6961G8-D                       403 As M7 V K3 D
+Eeiloa        1011 C6243GA-8                       413 As M3 V M0 D
+Hrerl         1014 B6429L4-D                       802 As K7 II M9 V
+Khtawaia      1019 E1019L5-7                       122 As M1 V M2 D
+Estiyrliy     1112 B8650L6-E                       924 As M0 V
+Yahkoihyo     1115 C8469GB-D                       602 As M0 V
+Iyheaestear   1118 B4466L6-7                       710 As M3 V
+Fire          1211 D9795L9-5                       134 As K4 V
+Aioi          1216 C6310G2-6                       223 As M3 V
+Eaeia         1219 B68A8G6-C  R                    303 As M4 V
+Ahiyiyoakh    1320 BAA86L2-C                       224 As M7 V M4 D
+Seasohtao     1411 D4116L9-7                       604 As M2 V
+Aoitra        1413 A2403G7-A                       104 As M4 VI
+Aohtoirlea'   1417 DAB23L4-A                       502 As M4 V
+Efta          1418 C0007L7-A                       602 As M4 V M6 D
+Aauui         1420 B3574L8-9                       522 As M4 V
+Htoisea       1511 B6964L7-B                       704 As M2 V M6 D
+Keakheie      1512 X5306L6-7                       722 As M9 II M0 D
+Yoaoh         1515 B6216L6-9                       704 As K1 V
+Hrirualyalea  1516 B2116G5-C                       401 As M4 V
+Ahka          1518 C2011L3-E  R                    213 As K0 V M2 D
+Eawalrilra    1611 B4577L3-B  T                    923 As M0 V M5 D
+Oawaihfaso    1614 C5506L7-9                       124 As M4 V
+Ahriauheah    1616 E6452GA-6                       204 As M1 VI
+Kar           1617 E5504L8-8                       212 As K2 V
+Oihaleala     1618 CA963G9-9                       123 As M2 V M9 D
+Iyeweitirliw  1619 BA541L8-B                       803 As M0 IV M8 D
+Astasauryae   1620 C5308L8-9                       700 As G2 V

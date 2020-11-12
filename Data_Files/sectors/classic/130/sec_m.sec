@@ -1,0 +1,53 @@
+@SUB-SECTOR:Keyohoi SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ktaaua'ear    0131 B352279-8    Lo Ni Po           403 As
+Olryur        0132 B2338DG-7  S Na Po              603 As
+Ftowihel      0138 C000484-7    As Ni              304 As
+Teala         0140 C79A033-5    Lo Ni Wa           704 As
+Eaorayearl    0232 B4536AA-A  2 Ni Po              902 As
+Hlikheeaaih   0233 B3457CD-B  2 Ag                 200 As
+Wiyrea'a      0234 C666597-6    Ag Ni              514 As
+Isaaw         0235 C552042-6  S Lo Ni Po           705 As
+Erlyaweie     0237 C11048A-C    Ni                 103 As
+Tloi'iil      0331 B799487-B    Ni                 124 As
+Kiaiiyw       0334 A664797-A  N Ag Ri              324 As
+Aikhtui       0336 A7C4686-A  N Fl Ni              122 As
+I'eais        0340 C1006AB-8    Na Ni Va           903 As
+Tois          0434 A210524-A  S Ni                 614 As
+Treisya       0435 A887000-9  S Ba Lo Ni           810 As
+Ehkyewoiwoiw  0437 A5588BB-7                       702 As
+Ail           0440 C987254-6    Lo Ni              402 As
+Fiywair       0535 A344733-9    Ag                 314 As
+Aiheaarearle  0538 A667244-D  S Lo Ni              500 As
+Hlale         0539 C476034-8    Lo Ni              804 As
+Uatohyakhah   0634 C564513-7    Ag Ni              602 As
+Yaeaiehti     0636 C455004-9    Lo Ni              810 As
+Htahoyealea   0639 C9A347A-8    Fl Ni              104 As
+Eaiyfei       0731 B665879-A    Ri                 602 As
+Iyiylalr      0734 C100300-D    Lo Ni Va           904 As
+Ihawisei      0834 C227832-9                       712 As
+Ehee          0836 C000400-9  S As Ni              204 As
+Ihyulao       0837 C668402-7    Ni                 423 As

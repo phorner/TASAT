@@ -1,0 +1,56 @@
+@SUB-SECTOR:Hteilr SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Afti          1721 A94A667-B    Ni Wa              822 As
+Ftekaoil      1724 D8D0969-9  S De Hi              610 As
+Seerlaauweh   1726 C423730-6  S Na Po              900 As
+Ahkakaii      1727 C375201-8  S Lo Ni              204 As
+Oei           1821 A895668-A  S Ag Ni              101 As
+Rawewiyh      1824 C203203-B    Ic Lo Ni Va        402 As
+Itoakhtai     1825 C455400-A  S Ni                 822 As
+Iyoileaka     1826 A443954-D  N Hi In Po           625 As
+Easayerl      1830 B8C2361-8    Fl Lo Ni           122 As
+Teakhelaryal  1921 A201999-B  N Hi Ic Na Va        204 As
+Eiaktei       1925 A639410-D    Ni                 314 As
+Ihyuyooisiy   1927 B241157-8    Lo Ni Po           404 As
+Eisoihaowi    1929 B1008CF-9  N Na Va              603 As
+Ehtiy         2021 A768896-7  N Ri                 600 As
+Yakhar        2024 A000635-F  N As Na Ni           912 As
+Hkeihiykhih   2025 A100578-E  N Ni Va              723 As
+Hwalr         2028 C566368-8  S Lo Ni              123 As
+Oiwi          2029 B94A587-A  N Ni Wa              713 As
+Heis          2121 B668325-9    Lo Ni              903 As
+Hakarleas     2122 A6669A9-C  S Hi                 104 As
+Aheawaiiya    2123 A659342-B    Lo Ni              801 As
+Ekhah         2125 A8D4465-A    Fl Ni              312 As
+Ra            2128 C536141-8    Lo Ni              412 As
+Ireahea       2222 B8A5A87-C    Fl Hi              200 As
+Our           2223 A99868B-9  N Ag Ni              923 As
+Eikhei'earl   2225 A211576-C    Ic Ni              501 As
+Aihte         2321 B554A9D-D  N Hi                 224 As
+Ktehea        2324 A552455-D    Ni Po              313 As
+Rewiyhor      2424 A453572-E    Ni Po              504 As
+Staaour       2429 C7A2577-5  S Fl Ni              714 As
+Kteaohraoae   2430 C63869A-5  S Ni                 904 As

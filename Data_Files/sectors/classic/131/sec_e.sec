@@ -1,0 +1,37 @@
+@SUB-SECTOR:Eftifua SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aihaos        0111 C3302G5-7                       103 As K0 V M5 D
+Ouluasoihe    0115 E7B72L8-9                       104 As M0 V
+Olya'         0117 A6848L5-E  T                    203 As K2 V M4 D
+Ahaihleil     0212 AA846L7-C  R                    114 As K1 V
+Hwakhtoute    0213 C4345G3-7                       214 As M9 IV
+Ekheh         0215 C1018L3-C                       803 As M0 V M9 D
+Iyasoi        0217 C7B99L5-A                       703 As M1 II M6 D
+Ahlouseaise   0219 BAEA3L3-E                       723 As A6 V M3 D
+Kuau          0311 C5662L7-B                       714 As M1 IV M8 VI
+Toiaolui      0312 A4634LB-A                       913 As M3 V M6 D
+Kaooh         0315 E59A8LB-7                       705 As G1 III
+Sawaoasiwais  0412 C6A38L5-A                       204 As K4 V
+Tiirlyewa     0413 B58A5L8-C  R                    104 As M0 V
+Tlikheheayah  0414 A4482G9-A                       504 As G4 IV M4 D
+Afteikha      0418 B7957G7-A                       300 As M0 V M7 D M5 D
+Eitakhoiw     0419 D4509LA-8                       503 As M4 V
+Auwyaeayo     0420 A3419G8-D  R                    502 As M3 V M1 VI
+Ktektirl      0512 A4437L8-E                       423 As M2 V M7 VI
+Eiarewaor     0513 A3016L6-B  R                    204 As G9 VI
+Aoyerl        0515 D6768G6-B                       100 As G2 V
+Hreae         0516 E3405L4-5                       404 As K0 V
+Weaike        0612 C3458L5-B                       303 As K4 V M4 D
+Khuiewyawea   0615 X8B65LB-8                       804 As G3 V M1 D
+Oihta         0617 D7B44L7-8                       303 As G2 V M2 D
+Fakhakhoaai   0720 B3343GB-9                       312 As M6 V M4 D
+Rearlaihe     0811 A6319L7-E  R                    224 As M0 V
+Aueikauweikh  0812 C3324L7-8                       403 As K0 V M1 D
+Eaoya         0819 C6A98L6-A                       603 As M0 D

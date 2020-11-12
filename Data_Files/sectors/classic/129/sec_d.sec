@@ -1,0 +1,50 @@
+@SUB-SECTOR:Ikaesi SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Oihleh        2502 E322756-7    Na Po              204 As
+Hrao          2503 XAC4524-0    Fl Ni              802 As
+Steh          2508 C8C5478-7  S Fl Ni              412 As
+Eirahiha      2509 C85A468-9  S Ni Wa              600 As
+Iyftaserl     2601 C99A310-B  S Lo Ni Wa           600 As
+Ourli         2604 C657687-4  S Ag Ni              304 As
+Khyeiw        2605 X548744-0    Ag                 504 As
+Fyahriyhoiw   2706 C7B357A-9    Fl Ni              804 As
+Oarloaktoeho  2707 C644025-3  S Lo Ni              112 As
+Woewoioul     2804 C433233-B    Lo Ni Po           814 As
+Eiofeiie      2809 C4768A9-9                       910 As
+Eakheeyoiy    2810 C300366-6  S Lo Ni Va           203 As
+Taa           2901 C897788-4    Ag                 622 As
+Tisieakea     2902 C738224-7    Lo Ni              804 As
+Keiftea       2907 C543462-9    Ni Po              403 As
+Seiiy         3001 C653000-5  S Ba Lo Ni Po        201 As
+Tyu           3003 C44589A-4  S                    913 As
+Okhaoliyw     3006 C100232-8    Lo Ni Va           703 As
+Hkoiw         3009 C572795-6  S                    503 As
+Ueahouwaalr   3201 C645556-5    Ag Ni              914 As
+Hlaolroalah   3202 CAA8787-7  S Fl                 622 As
+Fyuhrou       3203 C544664-5  S Ag Ni              412 As
+Kheahua       3205 C20167A-A    Ic Na Ni Va        314 As
+Euheahyoa     3208 C657356-9  S Lo Ni              204 As
+Akheahaai     3210 C463242-9    Lo Ni              724 As

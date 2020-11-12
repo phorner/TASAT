@@ -1,0 +1,41 @@
+@SUB-SECTOR:Eaehyuai SECTOR:Staihaia'yo
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Alouh         0932 B2508G7-E                       202 As F3 V
+Hlaire        0934 C7A43L9-B                       702 As G3 V M3 D
+Oaiysiyaolra  0936 A6A52LB-E                       724 As K2 III M2 D
+Wahahoi       0939 C6782G8-6                       232 As K6 D
+Htai          1032 C49A4L8-A                       304 As K2 IV M8 D
+Htoihfeaail   1034 D3118L6-8                       522 As M1 V M1 D
+Easah         1131 E4215G6-7                       701 As G7 III
+Lauetreah     1132 X8567L9-7                       513 As M1 V
+Erlaorastea'  1135 D7311G7-A                       413 As G0 V M8 D
+Ufihka'       1138 B4502L5-D  R                    811 As K3 V M1 D
+Ahoaaoe       1139 B5407GA-C  R                    902 As M7 IV M8 D
+Yoileiraikh   1240 C2329L4-9                       814 As M1 IV M1 D
+Iilyewe       1332 B8C56L6-9                       220 As M3 V
+Ahahearele    1333 C5341L4-D                       514 As M5 V
+Hkieikhaiw    1334 B79A4L6-C                       503 As M1 V M8 D
+Asta          1335 C6366G8-7                       503 As G2 V M6 VI M8 D
+Ieaw          1336 C3308L6-D                       325 As M1 V M3 D
+Eileilahya    1337 C8996GC-5                       204 As M0 V
+Htawuruawaw   1338 A7484L9-B  R                    724 As M4 V
+Uktyukhal     1432 C4423G9-6                       200 As M2 V M4 D
+Eaoeafyase    1435 D3464L5-5                       802 As M4 V
+Ealahiylua    1436 C2206L5-7                       622 As K2 V
+Eawesoih      1437 C0007L7-A                       612 As M0 V M9 D
+Heaoa         1438 E5438L8-A                       904 As K1 V
+Kheaw         1531 A3112G4-E                       525 As K8 V
+Hweaai        1532 C6984G6-A                       405 As G5 IV
+Syefaoi       1534 E8954L3-7                       312 As M2 V
+Iyhahiaah     1536 C8795L7-7                       704 As G6 III M7 D
+Hwis          1537 C7565G5-A  R                    702 As F4 V
+Ailr          1636 C59A1G6-9                       100 As M3 IV
+Oareasyoheah  1637 C5778L3-C                       103 As M1 V
+Eatlaihiyia   1638 B1109G9-D                       204 As M1 V

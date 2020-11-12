@@ -1,0 +1,59 @@
+@SUB-SECTOR:Aha SECTOR:Karleaya
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hreaha        0111 E4019AA-A    Hi Ic Na Va        113 As
+Auhi          0113 B6A5563-B  N Fl Ni              522 As
+Traulawo      0117 B986458-8  N Ni                 404 As
+Etlyah        0118 B5A2888-9    Fl                 703 As
+Hke'eliyiyrl  0120 B437345-C  S Lo Ni              905 As
+Haaa          0211 B452343-A    Lo Ni Po           814 As
+Kaoiy         0212 E300579-5    Ni Va              524 As
+Htyoes        0213 B200333-9    Lo Ni Va           910 As
+Eiwoiio'      0216 B745663-A    Ag Ni              103 As
+Tasaui        0217 B8B5668-A  N Fl Ni              811 As
+Alyaloas      0220 B617443-B  N Ic Ni              404 As
+Aktesahyu     0312 E467450-4    Ni                 302 As
+Airlaieh      0314 B000123-9    As Lo Ni           320 As
+Auo           0315 B887554-9  2 Ag Ni              600 As
+Ekhte         0316 B224554-C  S Ni                 822 As
+Iysyos        0317 BA9A9AC-E  S Hi In Wa           212 As
+Ah            0417 B301433-9  S Ic Ni Va           405 As
+Teilealaikh   0418 B352556-B  N Ni Po              602 As
+Ahre          0420 B510326-C    Lo Ni              904 As
+Iyeihel       0512 E8B368C-6    Fl Ni              903 As
+Kteeaaye      0515 C4238CB-9    Na Po              802 As
+Ahaohulear    0611 B140798-9  N De Po              720 As
+Wiaoar        0614 B889435-9    Ni                 514 As
+Weouaia'      0616 B988A9A-A    Hi                 300 As
+Afte          0711 B5349CE-8    Hi In              312 As
+Eauihuia      0716 C201864-6  S Ic Na Va           824 As
+Eayoaureirai  0717 B362874-6    Ri                 610 As
+Stahwyae      0719 C100A88-D  S Hi Na Va           202 As
+Htitrih       0720 C150310-8    De Lo Ni Po        920 As
+Oihekhterl    0811 B6A4256-C  N Fl Lo Ni           115 As
+Tliyhe        0812 E2108AD-8    Na                 604 As
+Ahkuilroaw    0814 C613AEH-C    Hi Ic Na        A  303 As
+Eaakheh       0819 C546546-4    Ag Ni              623 As
+Ra'o          0820 C6A1434-A  S Fl Ni              424 As

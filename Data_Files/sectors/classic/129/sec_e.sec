@@ -1,0 +1,59 @@
+@SUB-SECTOR:Tlyua SECTOR:Waroatahe
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ehkeea        0119 B656465-A    Ni                 404 As
+Hlareeahea    0213 C685457-A  S Ni                 403 As
+Waorehyuh     0214 B527457-8    Ni                 604 As
+Hahtirleaw    0215 C787898-5    Ri                 112 As
+Hlyakh        0218 B653353-A  N Lo Ni Po           204 As
+Yahiy         0311 A445753-B    Ag                 203 As
+Eihyeukh      0312 B65A545-C  S Ni Wa              505 As
+Khtakhte      0314 B426010-A  2 Lo Ni              103 As
+Kheiasil      0316 BAD456A-9    Fl Ni              804 As
+Aihaseisoah   0317 B20079A-C    Na Va              502 As
+Alatoa        0318 B362688-A    Ni Ri              300 As
+Feahteeihea   0319 B1008A7-A  N Na Va              900 As
+Hkeaiyholyal  0320 B266246-8  N Lo Ni              704 As
+Hyefi         0411 A442100-B    Lo Ni Po           900 As
+Kyetle        0418 B433589-9  N Ni Po              802 As
+Ahoe          0511 A333322-E  N Lo Ni Po           610 As
+Orao          0512 A555645-C    Ag Ni              714 As
+Keilya        0514 A442534-9    Ni Po              304 As
+Eyuketuirlyo  0515 A300535-B    Ni Va              503 As
+Aotal         0516 AA99865-C                       803 As
+Rahoikhesal   0611 A447876-B  N                    411 As
+Tairawea      0612 B100421-B  S Ni Va              124 As
+Ktye          0617 B55847C-6    Ni                 600 As
+Feiyah        0618 B485357-8  2 Lo Ni              204 As
+Farahalreh    0619 B864522-9  S Ag Ni              804 As
+Earlia        0711 A897435-9  N Ni                 114 As
+Ftealyu       0713 B657544-9  N Ag Ni              300 As
+Eyekheasaai   0716 A556311-D  N Lo Ni              104 As
+Keaaleaw      0720 B8B4465-9    Fl Ni              615 As
+Hyar          0814 B346647-9    Ag Ni              712 As
+Ahe           0816 B655741-6  2 Ag                 522 As
+Irlearlakh    0818 B8A5855-8  N Fl                 934 As
+Ahtiyteah     0819 B7B3001-C    Fl Lo Ni           103 As
+Htayesoia     0820 B659635-6    Ni                 313 As
