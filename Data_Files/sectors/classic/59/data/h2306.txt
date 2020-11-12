@@ -1,0 +1,27 @@
+Shionthy
+
+Automated warning beacons state that this system is interdicted and dangerous.  The belt is partially composed of anti-matter.
+
+Shionthy has an asteroid belt as its "mainworld". The system has a gas giant, and ships are allowed to refuel and leave the system. Faint radio signals, transmitted by warning beacons, may be used by vessels to navigate to the central populated area in the belt.
+
+The asteroid belt is partly composed of contra-terrene matter. Contact with a particle of such matter will result in the total conversion of the contra-terrene matter and an equal amount of normal matter to energy.
+
+Automated interdiction satellites continually broadcast a message stating that the system is interdicted and dangerous.
+
+The large belt dominating this system is believed by many authorities to be the result of the destruction of a large world by the Ancients. The anti-matter is believed to be the instrument of destruction. 
+
+Before interdiction, Shionthy had already acquired a population of belters collecting anti-matter fragments, worth several million credits per gram. Imperial law allows established populations to remain in a system after interdiction, and despite periodic disasters, the population has grown to an estimated 70 million. The inhabitants sell their finds to the Imperium, which, despite the humanitarian concerns which led to interdiction, finds the present arrangement too valuable to abandon.
+
+Image
+-----
+Image of a belter outpost near some anti-matter asteroids.
+
+MegaTraveller Task Rolls
+------------------------
+To avoid contacting a particle of contra-terrene matter: Simple, Pilot, Sensor Ops, 10 mins (hazardous, fateful). Referee: If this roll fails, the resulting explosion will disable some critical function of the ship, requiring repairs. Suggested damage results include life support, computer, communications, or sensors.
+
+The time increment represents how long before another check must be made; therefore, add skill bonuses to the time.
+
+
+@@@@shionthy.jpg
+

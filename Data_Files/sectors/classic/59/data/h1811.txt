@@ -1,0 +1,11 @@
+Dinom
+
+The star is a very large, very bright giant visible throughout the subsector, and would not normally have planets.  Dinom is a rogue: originally a gas giant moon, it is now caught in the gas giant's trojan point. The northern hemisphere points toward the star (and will for another 200 years.)  Dinom is a small airless world in far orbit around the central star of the Dinom system. The planet's polar axis extends toward the central star (and will for another 200 years); the northern hemisphere is in constant light, while the southern hemisphere is in constant night. The equator is a zone of constant twilight and moderate temperatures. Gravity is about 0.20 G..  Rhylan starport, a large open area with a clearly marked boundary, is adjacent to Rhylan city. The world's population of 230,000 is concentrated in three cities (names: Rhylan, Medianne, and Napan) which house ore-processing centers. A monorail circles this vacuum world, bringing ores to the starport. 
+
+Dinom's population of 23,000 is concentrated in three large cities (Rylan, Medianne, and Napan) which house the ore processing centres. Each city is governed by a board of directors answering to the shareholder-owners (who number about 10 per city) of the ore-processing centres. Token representation for non-shareholders is also provided. The three cities send representatives to Rhylan for the World Board, which also has representation (abount 10%) for the non-city dwellers. The Board is responsible for interstellar relations, system defence, industrial production, and Imperial contact.
+
+Dinom is a small airless world in a far orbit around the central star of the Dinom system. The planet's polar axis extends towards the central star and will do for the next 200 years. The nortern hemisphere is in constant light while the southern hemisphere is in constant night. The equatorial zone is a zone of constant twilight and moderate temperatures. Gravity is about 0.20 gravities. Dinom's star is a very large, very bright giant visible throughout the subsector and would not normally have planets. Dinom itself is a rogue planet originally a satellaite of the system's gas giant, and trails the giant in its orbit around the star.
+
+Image of the surface showing the city of Medianne.
+
+@@@@dinom.jpg

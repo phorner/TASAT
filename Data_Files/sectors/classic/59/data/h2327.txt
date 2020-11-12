@@ -1,0 +1,42 @@
+Strouden
+
+The LSP shipyard, along with Lunion, makes Strouden one of the major shipbuilding points within the Spinward Marches. Excellent workmanship and tech level D (14) technology make its products sought after. 
+
+The LSP shipyards at Lunion and Strouden are two of the largest producers of starship hulls in the Marches. They specialize in warships for the Imperial Navy. 
+
+The Ling Standard Products shipyards on Strouden are one of the two major shipbuilding points within the entire Spinward Marches (the other is the LSP yard on Lunion itself). The excellent workmanship, combined with level 13 technology, makes LSP products highly sought after.
+
+Ling Standard Products, originally a mining firm (and still very active in that field), is currently engaged in a wide spectrum of activities including the manufacture of electronic equipment of all sorts, ground and air vehicles, starships and starship armaments, drive systems, power systems, computers and software, small arms, and a variety of consumer goods. Concerned to a small degree with banking, insurance, and stock brokerage, LSP maintains mining and manufacturing facilities throughout the Imperium and beyond. On Strouden, whilst concentrating on the construction of both civil and military shipping, LSP also has weapons fabrication, ship systems, and some of it's banking concerns, on-world.
+
+All of the above makes LSP the worlds' prime commercial concern: Everything else is, frankly, small-fry in comparison.
+
+Strategically, the system is the hub for more than six major high-profit trade routes, and three x-boat routes. It's also home, following the Fifth Frontier War, to the Imperial 21st Fleet, the 504th Imperial Lift Marines (an included element of the 21st Fleet), and Stroudens' own Military Defence Services.
+
+The SMDS (Strouden Military Defence Services) incorporates both space, land, and air units, maintaining 150 System Defence Boat Squadrons of eight Dragon-class SDBs each, and 3 Starship Squadrons, managed as a system defence and pirate interdiction fleet. Ground forces comprise a Field Army-strength force, primarily intended for use as a key point guard force in time of war, and a general security army in times of peace, complementing the Civil Security Service (Police) in times of civil unrest. Eight squadrons of 15 fighter/interceptor COACC units are maintained for starport and military site defence.
+
+System Overview
+---------------
+Strouden System is relatively unusual, comprising a binary star system. These tend to be uninhabitable, since planetary formation can be hampered by the stellar tides which prevent planets forming or, as happens in the vast majority of cases, normally results in planets that are uninhabitable due to formation in regions other than a stars' habitable zone.
+
+In Stroudens' case, however, a planet formed in the so-called habitable zone. So-called, as the planet is exceedingly hot all year round in all but the most polar regions - for example, average temperatures on the equator measure 64 degrees centigrade - far too hot for unsupported human life to last. Additionally, UV radiation from the primary star is hideously high - unprotected human skin normally develops lesions within an hour, with massive epidermal burning well before that.
+
+Strouden possesses a small, relatively unremarkable moon (Strouden II Alpha Ay, called "Pin", popular rumour having that this was due to some clever soul saying it looked like a pin prick on the chart, when the system was first colonised - UWP: YS00580-D), whose only notable features are that it is home to both the 21st Imperial Fleet Naval base, and the Strouden Military Defence Services System Early Warning Network Hub and C3 Relay Centre, codenamed SKYWARN.
+
+The star system also possesses two asteroid belts, which have been extensively surveyed for mining opportunities, but which have yet to be exploited for such, the costs and risks involved for the potential returns being judged to be uneconomic and too high a risk.
+
+Stroudens' Primary star, which Strouden orbits, is an M0 V main sequence star, known locally as 'The Cooker' (it cooks unprotected Human flesh rather quickly on the surface of Strouden). It's companion, at roughly 5 AU out, is an M4 D dwarf, known locally as 'Two Watt', which has a small airless moon orbiting it (UWP: YS00580-D).
+
+Planetary Overview
+------------------
+Time delay snaps of rotation, roughly every standard hour, While Strouden was a relatively normal world following formation, with the usual run of tectonic activity and associated geographical feature formations, the solar tidal forces due to the binary star system have had its' effects. Strouden is unusually volcanically active, with 20 active, and 15 dormant, volcanos. Over the last 200 years, 8 of the active volcanos have been erupting constantly, spewing low-levels of magma flow: No explosive eruptions have occurred in this time. An unfortunate byproduct of all the volcanic activity is that the atmosphere is permanently tainted with sulphur, and (until recently much unexplained) particulate matter, requiring citizens to use full-face filter/compressor masks when outside. Given the average outside temperatures as well, these have to be specially made for the planet, and contain a chiller unit to keep the oxygen supply tanks from bursting due to heat-induced pressure. This requires that all filter/compression mask units on-world utilise backpack support systems; currently, a planetary terraforming effort is carrying on, to attempt to remove the atmospheric taint, but results are not expected for at least 200 years - the work has been greatly hampered by the continues volcanic activity worldwide. In addition, all waters on-world are similarly tainted with sulphur. Accordingly, all water must be filtered in order to render it potable.
+
+The local year on Strouden is a shade over 31 days; this makes roughly 11.77 local years to the Imperial Standard year. As a result of the combination of local season rapidity and the average world temperature, no terran-style plants thrive anywhere except in specially insulated hydroponics 'greenhouses'.
+
+The rotational period of 26.55 standard hours is close enough as to make little difference to the Imperial standard ways of doing things on a daily basis; visitors may find themselves a little fatigued after a few days, but that's the extent, normally. For those with a sensitive circadian rhythm to maintain, doctors are available 26 and a half hours a day, seven days a week, at all major cities state health centres, for immediate and free consultations (provided that the optional and reasonably cheap "visitor limited state health plan insurance policy" is taken out on entry to Strouden. Port Customs and Immigration officials always recommend it (Rumours that they receive a small commission if they sell it have regularly been denied by the government). If a visitor does not have the insurance policy, then costs skyrocket - the cost for medial care of offworlders is high, and the government wishes to discourage 'medical tourism' as a strain on resources).
+
+
+Image
+-----
+Image of a typical Strouden street scene.
+
+@@@@strouden.jpg

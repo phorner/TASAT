@@ -1,0 +1,36 @@
+REGINA
+
+Regina is a sizeable moon circling the gas giant, Assiniboia. Homeworld to Duke Norris and subsector capital, it is one of the most significant frontier worlds.
+The world population votes on new laws.  All native born Reginans can vote, without other restrictions.  Immigrants have no voice in the government. This subsector capital is an impersonal bureaucracy. The government has three branches of government of which the judicial branch is most prominent. The judiciary is several councils, the executive is an elite council, and the legislative branch is demos. 
+
+With its law level of 9, and an impersonal bureaucratic court system, being arrested on Regina is unpleasant to say the least. Suspects are rounded up en masse when a crime has been committed, and it may be weeks after a trial has convicted one of them before the rest are finally cleared. Meanwhile, those arrested must report their whereabouts and activities to the police every two hours. Notwithstanding this inconvenience, trials are usually fair. 
+
+The executive branch consists of four persons chosen by lot. Each year, four citizens are chosen at random to share the over-sight of the government's administration. Each has veto power over the other, providing a check against tyranny at the cost of inefficiency and no small degree of confusion. Once a citizen has served in this capacity, he is ineligible to serve again. 
+
+The inhabitants of Regina as a whole make the laws for the world. Specific laws are proposed by the judicial and executive branches, and weekly elections are held to confirm or reject these laws. A complicated computer network is used to conduct these elections, and while in theory every law on the books or newly proposed is voted on, in fact citizens vote only on those laws most important to them. Unfortunately, it is easier to pass a new law than to repeal one. All native-born Reginans are eligible to vote in these plebiscites, with no other restrictions. This means that immigrants never have any voice in the government, but newborn babes, criminals, and the insane do, as long as they have Regina birth certificates. 
+
+General Shipyards has a shipyard here.
+
+Local Customs 
+-------------
+Reginans believe strongly in a "gleaning custom", where the lowest class citizens are expected to clean the tailings from a harvested field for much of their food supply. 
+
+History 
+-------
+Regina was originally settled in 75 by an expansion wave of the Third Imperium. It soon became a trade center within the Spinward Marches, and was established capitol of its subsector when it joined the Imperium in 250. 
+
+Second Frontier War- Baron Caranda was left in control of Regina to cement its ties to the Imperium. Because of his services in the war, he was elevated to the rank of Marquis. In 629 he was also made duke of the newly created Duchy of Regina. 
+
+Fifth Frontier War- The declaration of war by the Zhodanis on the Imperium was simultaneously announced on Regina and Jewell. During that war the 193rd Fleet defended Regina for the Imperium against the Zhodani 40th Fleet. Duke Norris, who had a prior background in naval intelligence, believed that the Imperial strategy was being badly managed and appealed to the emperor for command of the Spinward Marches forces. Although Strephon issued a communiqué appointing Norris commander in chief of those forces, the order was initially lost on an interdicted world. Norris succeeded in recovering the orders, and having taken charge of the Imperial forces, engineered the Zhodani defeat. 
+
+University of Regina
+--------------------
+A broad spectrum planetary institution providing education in all areas; its campuses are scattered all over Regina. Its greatest strengths are in the social sciences: history, sociology, cultural anthropology, public policy, and political science.
+
+By law, Regina is the only university in the sector allowed to call itself the "U of R". This is a relic dating from when feudal requirements gave Regina, as sector capital and seat of the sector Duke, pride of place. This law is still on the books. However, its students and faculty breezily scorn this distinction and refer to the university simply by the world's name: "Regina".
+
+IMAGE
+-----
+Image of Capital City
+@@@@regina.jpg
+
