@@ -1,0 +1,44 @@
+@SUB-SECTOR:Aelluekh SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$2530 2232 -1 1 2
+$3230 3233 0 1 4
+$3230 3029 0 0 4
+$3029 2827 0 0 4
+$2827 2725 0 0 4
+$2725 2821 0 0 4
+$2821 3120 0 -1 4
+$3221 3120 0 -1 4
+$3221 3124 0 0 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gvigzae       2522 B678431-9  G Ni                 601 Vt G1 V M7 D
+Vongouzdhursue2524 B8AA320-C    Lo Ni Wa Fl        623 Vt M7 II
+Thagh         2527 E6659A8-7    Hi                 433 Vt G4 V
+Adegokh       2530 A4047BB-A  G Ic Va              101 Vt F7 IV M2 D
+Rorroksueknea 2628 B374500-8    Ag Ni              801 Vt M3 V M9 D
+Logvokseghaghz2722 C786320-6    Lo Ni              322 Vt M3 V
+Arrag         2723 B575777-9    Ag                 210 Vt G5 V
+Aetskaekhoun  2725 B988954-8    Hi Cp              301 Vt M6 V M6 D
+Zuekuzung     2727 B200322-8    Lo Ni Va           624 Vt G9 V
+Takhagvafoe   2729 B667585-7    Ag Ni              101 Vt K6 V M8 D
+Ghaertu       2821 B73A9DD-A  G Hi Wa              421 Vt F3 V M1 D
+Etsgokhuenaell2822 B756875-9                       113 Vt F6 V M1 D
+Vou           2826 E644247-5  C Lo Ni              801 Vt K0 V M1 D
+Oukgzueredh   2827 C35499B-A  C Hi                 701 Vt M8 V G4 V
+Gnurs         2828 B628454-D    Ni                 402 Vt K1 VI M8 D
+Ourkan        2829 B9D8454-D    Ni Fl              823 Vt A1 III G3 V
+Taekfoengsegzo2830 B445000-8  G Lo Ba Ni           303 Vt M8 V
+Gaegzue       3022 B574540-B    Ag Ni              701 Vt M7 V M4 D
+Ngulivuedakhsn3024 E748778-5  C Ag                 523 Vt K1 V
+Ungrughz      3029 E554389-6    Lo Ni              414 Vt F8 V
+Daggueghaezgho3121 B495222-8    Lo Ni              304 Vt M6 V M7 D
+Llukaegh Voerz3124 A527331-A    Lo Ni              410 Vt M4 V M4 VI
+Goghrra       3126 E7B0579-8  C Ni De              120 Vt M7 V
+Otse          3128 A8A78CA-A    Fl                 623 Vt M2 V
+Dzaekh        3221 C547464-5    Ni                 303 Vt K9 V
+Fanzuekh      3222 C000259-D    Lo Ni As           211 Vt M5 V M4 D
+Thekrakfor    3229 B250133-9    Lo Ni Po De        601 Vt M7 VI M8 D
+Aekokfeg      3230 B69A200-B  G Lo Ni Wa           702 Vt M4 V

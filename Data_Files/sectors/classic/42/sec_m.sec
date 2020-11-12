@@ -1,0 +1,33 @@
+@SUB-SECTOR:Kunggnag SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Karrsuergae   0132 C220226-9  C Lo Ni Po           602 Vt 
+Uengurrg      0133 D664100-3    Lo Ni              424 Vt 
+Guendan       0134 C8A6354-C    Fl Lo Ni           223 Vt 
+Ilal          0136 X2467AA-1    Ag              R  202 Va
+Aergvael      0232 C8A5799-6  H Fl                 703 Vt 
+Dhuerzaegoe   0238 E203669-8  C Ic Na Ni Va        814 Va 
+Aerrokhs      0239 A525738-C                       723 Va
+Ruesurrg      0331 DA9989B-6                       903 Vt
+Ungerrill     0333 C257221-7  G Lo Ni              301 Vt 
+Izoensaks     0337 C2108D9-8    Na                 124 Va 
+Gzuga         0340 D88A141-8    Lo Ni Wa           802 Va
+Kueksakhsarr  0431 D89A133-4    Lo Ni Wa           114 Vt 
+Khaenorra     0433 A649468-9    Lo Ni              700 Vt
+Akhstuti Ae   0437 B000950-E    As Hi              114 Va 
+Veg Gaghudh   0439 B876421-7    Lo Ni              403 Va        
+Ourlloerrag   0533 C334243-9    Lo Ni              602 Vt   
+Guelvuerr     0538 D57178A-4                       422 Va 
+Uerrueg       0540 B568556-C  G Ag Ni              715 Va
+Okh Gvagh     0734 C896755-4                       514 V6 
+Fudz          0735 D76A788-6    Ri Wa              623 V6 
+Ongon         0737 B95976A-7    Mr                 200 V6 
+Khaeghz       0832 B324637-9    Ni                 713 V6 
+Khourrggok    0833 C487789-5    Ag Ri              423 V6 
+Aero Ouzvothon0835 B682313-8    Lo Ni              320 V6

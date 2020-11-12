@@ -1,0 +1,44 @@
+@SUB-SECTOR:Wanz SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aegdhuza      0921 B471775-B  G                    923 Vw
+Enegaersokh   0922 B58766A-6    Ag Ni Ri           224 Vw
+Faevoesu      0927 B550454-8    De Ni              124 Va
+Zaek          1021 D634621-7  C Ni                 503 Vw
+Ae Uefou      1023 B434101-E    Ni Lo Rs           803 Vw
+Faedzaezzaerz 1025 B975410-8    Ni Lo              504 Vw
+Akhrukhallar  1030 C232231-A  C Ni Lo              604 Va
+Ae Insou      1121 B235401-D    Ni Rs              402 Vw
+Ueguezlloug   1122 B6467BE-8                       900 Vw
+Kourrgugh     1123 C535210-8    Ni Lo              514 Vw 
+Evoukuell     1125 C5A1122-8  C Fl Ni Lo           901 Vw
+Ghorgaegh     1126 C371300-8  C Ni Lo              714 Vw
+Khaer         1129 B000551-A  C As Ni Lo           335 Va
+Wanz          1223 A475AAC-D  G In Hi Cx           612 Vw
+Vueng         1225 A585978-B    Hi                 424 Vw
+Dhaghtin      1226 B362654-C    Ni Ri              203 Vw
+Ae Anek       1321 A65A441-E  G Wa Ni Rs           802 Vw
+Llozungdhan   1322 B358766-9    Ri                 123 Vw
+Fa Atsae      1323 C413235-7    Ic Ni Lo           422 Vw
+Orzaen        1324 C88A5AC-9    Wa Aq Ni           703 Vw
+Uekhadz       1325 A789552-D  G Aq Ni              923 Vw
+Nguer         1330 B300324-B    Va Ni Lo           111 Va
+Engaengrunga  1422 C586768-7    Ag Ri              802 Vw 
+Kel           1424 C111110-9  C Ic Ni Lo           105 Vw 
+Aesuedzso     1428 C524545-7  C Ni                 203 Va 
+Agoerrzegae   1429 D432205-7  C Po Ni Lo           503 Va
+Ougzufo       1430 B664796-9    Ag                 501 Va
+Vangku        1522 B56A674-A  G Aq Ni              804 Vw
+Fa Ezouz      1523 B797443-B    Ni                 504 Vw 
+Kaedzaedz     1524 B655633-8    Ni                 502 Vw
+Gzarr         1529 C577A73-A  G In Hi              722 Va
+Aelknok       1530 D546334-5  C Ni Lo              203 Va
+Kaksireng     1622 B886598-9  G Ag Ni Ri           702 Vw
+Koghz         1626 C400124-7  C Va Ni Lo           514 Va 
+Noefa         1629 A675A78-D  G In Hi              623 Va

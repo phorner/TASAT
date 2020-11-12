@@ -1,0 +1,29 @@
+@SUB-SECTOR:Darrgouts SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Akoengouthluen0113 D697346-6  C Ni Lo              125 Vt
+Otothoe       0115 A844943-D  G In Hi Cp           415 Vt
+Orlaegngeg    0119 C626334-7  C Ni Lo              901 Vt
+Satsugzakh    0120 C63A5A7-B    Wa Ni              633 Vt
+Aeg Gzou      0212 B596595-9    Ag Ni              604 Vt
+Oengngirrgue  0314 B672A75-C  G In Hi              103 Vt
+Akhigh        0317 A5858A8-B  G                    922 Vt
+Alldhouzae    0414 C568789-7    Ag                 104 Vt
+Kugoerr       0419 C327646-7    Ni                 211 Vt
+Keradh        0512 B47497B-B  G In Hi              104 Vt
+Khoergh       0516 C226345-7    Ni Lo              102 Vt
+Ovoen         0518 B9C26AC-7    Fl Ni              704 Vt
+Ker           0614 B000210-A    As Va Ni Lo        413 Vt 
+Ghongllaz     0615 B554331-A    Ni Lo              203 Vt
+Dathkoeng     0617 B96A746-B    Wa Aq Ri           102 Vt
+Dzoghzdu      0713 A8A4466-A    Fl Ni              914 Vt
+Aeghaegh      0714 A4538AD-B  G                    901 Vt 
+Ueghorsleg    0715 B583524-C    Ni                 702 Vt
+Gvaekh        0720 C140777-9    De                 613 Va
+Kuz           0820 C000526-A  C As Va Ni           522 Va

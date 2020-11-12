@@ -1,0 +1,34 @@
+@SUB-SECTOR:Ruekoza SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Orghoungvog   1712 B695A7A-B  G In Hi Cp           204 Vb
+Zoeng         1811 B8A4556-E    Fl Ni              413 Vb
+Eksaz         1812 B8C4778-A    Fl                 311 Vb 
+Dhursrrong    1813 C784985-6    Hi                 504 Vb 
+Khourghurr    1819 B442334-8    Po Ni Lo           103 Vw
+Aezghull      1820 A9C6494-B    Fl Ni              124 Vw 
+Dzuer         1911 B486310-C    Ni Lo              213 Vb
+Ulunrrong     1915 BA78577-A    Ag Ni              722 Va
+Ruekoza       1917 A95A733-E  G Wa Aq Cp           101 Vw
+Kfezaevingae  1920 B699676-A    Aq Ni              904 Vw
+Ardsdoekh     2015 AA9AA77-B  G Hi In              222 Va
+Oekha         2018 B463754-A  G Ri                 502 Vw
+Anourrodz     2019 A524332-A    Ni Lo              104 Vw
+Kaeghu        2111 B150433-A    De Ni              433 Vb
+Ghigh         2112 B596534-A    Ag Ni              611 Vb
+Kaez          2116 C000341-9  C As Va Ni Lo        112 Va
+Kzang         2212 C20069B-7    Va Ni Na           814 Vb
+Oeghzagh      2216 C521303-7  C Po Ni Lo           624 Va
+Lloghurs      2217 C764776-4  C Ag                 904 Va
+Dzozuk        2315 C442896-5    Po                 503 Va
+Karr          2318 C100232-9  C Va Ni Lo           504 Va
+Thosaedhuedouk2319 C76499C-3    Hi                 614 Va
+Ulgonguerghur 2412 B4717CA-A                       803 Va
+Arr           2414 B433446-C    Ni                 722 Va
+Ongoegzsaerngz2415 A554877-B  G                    824 V2

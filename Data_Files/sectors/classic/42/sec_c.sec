@@ -1,0 +1,28 @@
+@SUB-SECTOR:Odzaeg  SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kfun          1708 B201356-C    Va Ic Ni Lo        201 Vb
+Zaeghzo       1804 X696458-5  C Ni              R  902 Va     
+Aen Ghor      1805 C789222-8    Ni Lo              101 Va
+Duegoguksar   1809 A75A875-C  G Wa                 703 Vb
+Kfunlloeg     1904 B885579-B    Ag Ni              203 Va
+Gvanlagh      1905 B664A7A-B  G Hi                 102 Va 
+Gheghzogirou  1908 C525202-8  C Ni Lo              904 Va
+Ouvu          2005 A565752-C    Ag                 304 Va
+Kaena         2101 B000553-C    As Va Ni           234 Va
+Nursaerrg     2103 B145355-F    Ni Lo              702 Va
+Aellgo        2104 A246774-C  G Ag                 801 Va
+Goeno         2105 A66687C-A  G                    622 Va
+Odzaeg        2204 A8869A6-D  G Hi                 504 Va
+Knaerruezoedz 2207 C140455-8    De Ni              803 Va
+Uekue         2305 BA7A556-B    Wa Aq Ni           603 Va
+Gouth         2405 A53767B-C  G Ni                 611 Va 
+Gukhtengiks   2408 B997878-A  G                    724 Va 
+Singozoedon   2409 D7C1322-7    Fl Ni Lo           223 Va
+Errsinetsars  2410 B244779-7 C  Ag                 915 Va

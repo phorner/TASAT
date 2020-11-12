@@ -1,0 +1,26 @@
+@SUB-SECTOR:Galok SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oursukungu    0914 D242535-6  C Po Ni              304 Va 
+Kigzarraghz   0918 C544995-5    In Hi              703 Va
+Uetsaekotsou  1012 C585999-4    Hi                 503 Vb
+Farrouka      1117 X544100-5  C Ni Lo           R  413 Vw    
+Oethang       1118 C482430-6  C Ni                 902 Vw
+Ngarsang      1219 B326697-B    Ni                 701 Vw
+Olkouthte     1220 A569730-D  G Aq Cp              913 Vw
+Galok         1312 A76AA7B-D  G Wa Hi              123 Vb
+Foukhangsonge 1315 D556773-6  C Ag                 105 Vw
+Kangangksirroz1316 B558A7A-A    Hi                 212 Vw
+Ksar          1317 B310550-D    Va Ni Mi Cy        405 Vw
+Kirs Dho      1417 C510775-9    Va Na              611 Vw
+Geth Oung     1418 C678346-8    Ni Lo              602 Vw
+Knar Oerz     1512 B271775-B                       404 Vb
+Arokskihrr    1517 B65A579-B    Wa Aq Ni           113 Vw
+Oeroukangue   1520 B764874-A                       901 Vw
+Ugvas         1613 A6467A8-B  G Ag                 515 Vb

@@ -1,0 +1,39 @@
+@SUB-SECTOR:Firgr SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$2540 2240 -1 0 4
+$2540 2638 0 0 4
+$2638 2436 -1 0 4
+$2638 2937 0 0 6
+$2937 3035 0 0 4
+$3035 3034 0 0 4
+$2937 3040 0 0 4
+$3233 3230 0 -1 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ngoluts       2531 B304738-9    Ic Va              803 Va M4 V
+Fae Kodh      2536 D445103-6    Lo Ni              101 Va M9 V M1 D
+Torrknungazarr2537 A753002-C    Lo Ni Po           903 Vk G8 V M0 D
+Ksunekso      2540 B525575-A    Ni                 424 Vk M9 VI
+Ightursksoetha2633 B300223-C    Lo Ni Va           410 Va G9 V M4 D
+Vakunggvoruego2634 B333887-7    Na Po              201 Va M3 V
+Gzaell        2638 E773541-5    Ni                 910 Vk K9 V M7 D
+Thurruegvudhot2731 C88A200-6    Lo Ni Wa           303 Vt G9 V
+Asugunkhodz   2735 B97A365-A    Lo Ni Wa           502 Va K3 V
+Roukhagzvaengo2740 E526899-7                       813 Va F4 V
+Oegaeldu      2832 B200443-A    Ni Va              602 Va G2 V M9 D
+Kedzudh       2833 B000525-D    Ni As              822 Va M8 V
+Gzoghz        2834 B74A421-C    Ni Wa              503 Va M0 V
+Rruthaekuksu  2840 D231210-6    Lo Ni Po           823 Vk K7 III M5 D
+Afougae       2936 B000598-E    Ni As              123 Vk M1 III
+Scangen       2937 B88557A-C    Ni As              224 Vk K4 II
+Galla         2940 B686275-8  H Lo Ni              502 Vk M0 V
+Ughz          3034 A424451-G  G Ni Cx              302 Vk M4 V
+Ganokoulovaenu3035 B352231-8  C Lo Ni Po           801 Vk M5 V
+Llaekag       3040 X520100-4  C Po                 523 Vk M1 V
+Oziz          3133 B677433-B    Ni                 924 Vt G0 V M8 D
+Torrrrerz     3137 A463951-C    Hi                 521 Vk M5 III M6 D
+Gvutson       3233 A85A7CE-8    Wa                 520 Vt G6 V
+Oertsous      3238 E253A9E-A  C Hi Po              602 Vk M4 V M4 D

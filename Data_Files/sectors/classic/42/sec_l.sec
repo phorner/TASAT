@@ -1,0 +1,23 @@
+@SUB-SECTOR:Ungakne  SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Angllaetsagoul2524 B87A576-A  G Wa Aq Ni           415 V2
+Kaloekhe      2525 B143655-A    Ni                 703 V2
+Tse Aegal     2730 C44377B-7  C                    614 Vf
+Thughzkhaenghk2822 B441975-A  G In Hi              704 Va
+Kvoun         2827 A410999-B  G Va In Hi Na        314 Vf
+Thukhang      2829 C79A465-7  C Wa Ni              901 Vf
+Sukroung      2925 C483477-4    Ni                 904 Vf
+Akhsngaeg     2927 C533300-7    Po Ni Lo           904 Vf
+Oethtughon    2928 B141649-6  G Ni Po              513 Vf
+Relghuerrag   2930 A553977-A  G Hi                 603 Vf
+Aen Gvoun     3024 A796788-B    Ag                 413 Vf
+Rroeksung     3025 C57A777-8  C Wa Aq              104 Vf
+Ungakne       3126 A477A97-D  G In Hi Cp           504 Vf
+Uengtalrra    3221 B542A77-C  G In Hi              303 Va

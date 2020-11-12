@@ -1,0 +1,44 @@
+@SUB-SECTOR:Llanic SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$0438 0337 0 0 4
+$0337 0433 0 0 4
+$0433 0634 0 0 4
+$0433 0232 0 0 4
+$0232 0329 0 -1 4
+$0240 0439 0 0 9
+$0439 0739 0 0 9
+$0739 1039 1 0 9
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Satlpenzh     0131 B657586-B    Ag Ni              205 Zh M6 V
+Chench        0137 D559426-3    Ni                 214 Zh K1 IV
+Tseezh        0231 B000762-B    Na As              811 Zh M7 V
+Jdiprqrafr    0232 B100A99-C  Z Hi Na In Va        923 Zh M4 III
+Yied          0233 B43677B-C                       721 Zh M3 V
+Pliploranshich0235 B626611-7    Ni                 825 Zh F3 IV
+Tlrt          0239 B698542-B    Ag Ni An           803 Zh F5 V
+Astanch       0240 A341410-E    Ni Po              301 Zh M0 V
+Blienzkats    0334 B465110-9    Lo Ni              401 Zh M8 VI M2 D
+Vriaajets     0337 B583554-A  Z Ni                 801 Zh K7 V M4 V
+Diekech       0339 B334579-C    Ni                 115 Zh M4 III
+Onsansh       0433 B677732-5  Z Ag                 221 Zh G1 V
+Odliadr       0438 D7A7655-6    Ni Fl              610 Zh G2 V
+Aek Elakfough 0439 A000312-G    Lo Ni As           920 Va K8 V M7 D
+Oughaetha     0440 B767668-5    Ag Ni Ri           401 Va M2 V M2 D
+Sitlshaqr     0535 B000331-C    Lo Ni As           721 Zh A8 V
+Ognirrirrgzegu0536 E86A346-4    Lo Ni Wa           701 Va F7 V M9 D
+Tuetingou     0537 C659337-5    Lo Ni              501 Va M5 V
+Tagakfaduen   0538 C89A225-9    Lo Ni Wa           211 Va M3 V
+Rougungol     0539 B330479-B  C Ni Po De           501 Va M9 V
+Aldhagh       0633 A454420-9    Ni                 210 Va M8 V
+Izivr         0634 D326974-9    Hi In              922 Zh F2 V
+Saedhuenragh  0635 B441455-8    Ni Po              223 Va M7 V
+Fourfurrghagh 0639 B436352-E    Lo In              221 Va K5 V
+Aeghez        0735 B898537-6    Ag Ni              802 Va M5 V
+Kor           0736 B66A425-9    Ni Wa              310 Va M8 V
+Duekh         0737 E7A6886-8  C Fl                 434 Va G4 VI
+Kuenruekh     0739 C358766-7    Ag                 420 Va F3 D
+Uenag         0832 D343534-6  C Ni Po              210 Vr M0 VI

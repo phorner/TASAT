@@ -1,0 +1,27 @@
+@SUB-SECTOR:Fanganger SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Uerkfadzigue  2507 B582110-8    Lo Ni              114 Va K6 V
+Agh Thars     2509 B522278-7    Lo Ni Po           322 Va M8 III M5 D
+Lluezukgzang  2701 A432A99-F    Hi Na Po           102 Vo M9 V M5 D
+Fukoezo       2702 A626645-9    Ni                 114 Vo K7 VI
+Kaeg          2703 D323412-7  G Ni Po              801 Vo M1 V M0 D
+Vakhoell      2704 A484479-D    Ni                 103 Vo K2 V M2 D
+Gegerrrarrunu 2802 A421120-D    Lo Ni Po           613 Vo M9 V
+Ukokhuvoen    2806 C637232-7    Lo Ni              804 Va G6 V M4 D
+Kaekfesa      2807 A997554-A  G Ag Ni              301 Va M1 V M5 D
+Dorrorue      2808 C659631-4    Ni                 202 Va M6 V
+Okhgvonan     2901 C310377-A    Lo Ni              523 Vo G0 V
+Ngersouluekorr2905 A8AA432-C    Ni Fl Wa           822 Va M6 V
+Kutsgarrae    2908 B200304-9    Lo Ni Va           734 Va M8 V
+Fuedhgusnaezre3003 B361773-5    Ri                 211 Va K0 V
+Utsurr        3004 A250300-E    Lo Ni Po De        221 Va M9 V
+Khoekhoerr    3010 B200443-A  C Ni Va              602 Va G2 V M9 D
+Ozago         3107 B331731-8    Na Po              501 Va M0 V M4 D
+Dhurrgthaedz  3201 B26269B-A    Ni Ri              133 VW M3 V

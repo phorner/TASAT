@@ -1,0 +1,49 @@
+@SUB-SECTOR:Spurl SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$1539 1738 1 0 2
+$1539 1238 0 0 2
+$1238 1336 0 0 4
+$1336 0937 0 0 4
+$1238 1039 0 0 4
+$1039 0739 -1 0 9
+$1039 1238 0 0 8
+$1238 1336 0 0 8
+$1336 1134 0 0 9
+$1134 1132 0 0 9
+$1134 1132 0 0 8
+$1134 0935 0 0 4
+$1132 1333 0 0 4
+$1333 1535 0 0 4
+$1333 1631 0 0 4
+$1631 1830 1 -1 9
+$1631 1830 1 -1 8
+$1132 0930 0 -1 4
+$1132 1129 0 -1 9
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Vurrfourraeksa0934 A65A255-A    Lo Ni Wa           422 Vr F0 V
+Saksoukuer    0935 B5727AC-6  G                    712 Vr A3 IV K8 V
+Aerritho      0937 B30086B-B  G Na Va              701 Vc M9 VI M6 D
+Neridhueraeng 0938 B431334-B    Lo Ni Po           501 Vc M4 V
+Ghin          0939 C47778C-6    Ag                 810 Vc M8 III
+Dheg          1034 E310335-7    Lo Ni              204 Vr K3 V
+Koekh Uez     1036 A453672-9    Ni Po              724 Vc F7 V
+Inghinfudzolor1037 B6A5786-8    Fl                 343 Vc K2 II M3 V
+Zaenluekegze  1039 B200686-8    Na Ni Va           334 Va F0 V
+Ogotelloegzlli1132 A576842-8                       324 Vr M2 III
+Aeggiks       1134 A505401-E    Ni Ic Va           920 Vr M3 V
+Akfukh        1140 D330689-7    Na Ni Po De        603 Vc F9 V M6 D
+Udaethaen     1233 E221336-9    Lo Ni Po           720 Vr F6 IV
+Ksorraknue    1236 B200657-C    Na Ni Va           104 Vc G9 V
+Uerzthu       1238 B325986-B    Hi In              302 Vc G0 V M6 D
+Sethgnakh     1333 D86769C-4    Ag Ni Ri           535 Vr G9 V
+Okfozarrga    1336 A596322-9    Lo Ni Cx           313 Vc K5 V M1 D
+Thoghaezae    1337 E5A1100-8    Lo Ni Fl           601 Vc M0 V M5 D
+Dharrgkhaksuza1434 B843200-7    Lo Ni Po           901 Vr G9 V M0 D
+Noe           1535 A110464-D    Ni                 323 Vr M4 III
+Dhaengae      1539 B9789AA-A    Hi In              410 Va M4 V M3 D
+Ougzsaeg      1631 E9A9741-8    Fl                 602 Vr M8 V M1 D
+Usere         1634 B200664-7    Na Ni Va           224 Vr M8 V

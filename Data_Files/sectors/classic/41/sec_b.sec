@@ -1,0 +1,33 @@
+@SUB-SECTOR:Zoghz SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$1009 0807 -1 0 4
+$1009 1112 0 1 4
+$1310 1112 0 1 8
+$1310 1112 0 1 9
+$1310 1307 0 0 9
+$1307 1305 0 0 9
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Onllae Roungo 0901 A886633-9    Ag Ni              910 V9 M4 VI M8 D
+Korruelloko   0904 B100767-9    Na Va              903 Vs K0 V M5 D
+Taekfoengsegzo0908 B866569-9    Ag Ni              901 Vp G5 VI M4 D
+Luerrgnudhlaer1009 B657337-7  G Lo Ni              323 Vp K5 V
+Gzonough      1010 D524842-4    Na                 930 Vp F7 V M7 D
+Aksugzael     1102 BAC5786-9    Fl                 802 VV M6 V M1 D
+Ngues         1104 D777430-5    Ni                 501 VV M2 V M5 D
+Rueskhen      1106 C220331-B    Lo Ni De           722 Va M7 III
+Tsuengingeguek1107 B5A5204-B    Lo Ni              814 Va K2 V
+Louks Aek     1109 E384026-3    Lo Ni              703 Vp K6 V
+Uekongull     1201 A779324-E    Lo Ni              301 VV G6 IV M0 D
+Kukhvu        1305 A000422-F    Ni As              911 VV K7 V M3 D
+Rinvoengerrazo1307 C11077B-A    Na                 601 Va F4 V M6 D
+Vaeghovangugh 1310 A576842-8                       324 Vp M8 III G7 D
+Oungeghuegue  1502 B324521-C    Ni                 521 VV M6 V
+Dhueks        1503 B433101-D    Lo Ni Po           701 VV M9 V M8 D
+Naen Dzi Ona  1504 A55879D-B    Ag                 802 VV K1 IV
+Roedz         1506 A585575-9  G Ag Ni              401 Va M2 D
+Gikhs         1508 B766759-7    Ag Ri              801 Va M9 V M5 D
+Iloungrraegzer1602 D538567-7    Ni                 401 VV M1 D

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Ongvos   SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$0709 0512 0 1 4
+$0709 0807 0 0 4
+$0807 1009 1 0 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Enjtodl       0104 C8A8100-8  Z Lo Ni Fl           501 Zh M4 V M4 D
+Zhenchve'chip 0202 B666558-8    Ag Ni              902 Zh M7 V M9 D
+Matlmadl      0205 B646730-8    Ag                 822 Zh F0 V
+Dho Ega       0208 E480653-8    Ni Ri De           510 Vp M4 V M7 D
+Zaerrg        0306 C674683-8    Ag Ni              103 Va M3 V
+Unoldhasaellae0309 B300687-9    Na Ni Va           501 Vp M7 V
+Angudh        0401 E7A77BA-B  C Fl                 721 Va M7 V
+Knoelurzudal  0402 A352614-D    Ni Po              803 Va M7 VI
+Duduell       0403 C352215-6  C Lo Ni Po           203 Va F0 V
+Tarraekhs     0405 B000657-C  C Na Ni As           311 Va M4 V M2 D
+Uedhoelukhue  0407 B300314-9    Lo Ni Va           920 Vp K6 V
+Roeknughroe   0410 B100A99-C  G Hi Na In Va        924 Vp M4 III
+Gvuksdourrgh  0502 A685132-C  G Lo Ni              803 Va M3 V
+Songi         0503 B736467-A    Ni                 110 Va M9 V M1 D
+Llaegh        0504 B638359-9  C Lo Ni              110 Va F0 V M4 D
+Torrvagve     0505 A577226-C    Lo Ni An           520 Va F3 V
+Dzukoun       0703 B788899-7    Ri An              414 Vs F6 V
+Onengoen      0709 B450778-A    Po De              302 Vp M4 V
+Zangerr       0803 D100542-7    Ni Va              723 Vs M4 V
+Ksaghae       0804 D878310-5  C Lo Ni              310 Vs M2 V M6 D
+Tengerkukokhs 0807 C87A532-8  G Ni Wa              322 Vp A8 V
+Ellfoegoezou  0808 E58878B-5    Ag Ri              810 Vp G7 VI
+Gantsugh      0809 A000100-D    Lo Ni As           420 Vp M2 V

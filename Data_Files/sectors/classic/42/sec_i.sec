@@ -1,0 +1,31 @@
+@SUB-SECTOR:Kfuekhue  SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kazlluek      0121 B9C4620-D  G Fl Ni              425 Vt 
+Anell Gogh    0122 A48789B-A                       301 Vt
+Ogzang        0128 C459354-8    Ni Lo              501 Vt
+Khue          0221 B130446-D  G De Ni              301 Vt
+Az Outs       0226 B402147-C    Va Ic Lo Ni        503 Vt
+Oezuerz       0227 B6468CF-8                       905 Vt
+Aesekong      0228 B669A75-A  G Hi                 202 Vt 
+Edhnga        0229 C593330-7    Ni Lo              311 Vt
+Ul Gaek       0325 B578156-A  G Ni Lo              704 Vt
+Dhozo         0422 A7887A8-C  G Ag                 223 Vt
+Aengin        0424 C562787-5    Ri                 611 Vt
+Akseknoek     0426 C5559AC-7    Hi                 302 Vt
+Knongdhae     0427 B997223-B  G Ni Lo              224 Vt
+Angvurdh      0429 B645335-A  G Ni Lo              104 Vt
+Oersung       0522 C43858B-7    Ni                 202 Vt
+Agaetsae      0528 C332227-7    Po Ni Lo           311 Vt
+Aekhsogu      0529 C441255-8    Ni Lo              504 Vt
+Ozafeth       0623 C989688-5    Aq Ni              902 Vt
+Fathferghrae  0626 C48557B-7    Ag Ni              512 Vt
+Kfuekhue      0629 A655A75-D  G Hi Cp              805 Vt
+Arghthou      0825 C47335A-6    Ni Lo              511 Va
+Ksoun         0829 B200230-9  C Va Ni Lo           802 Va

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Angknul SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lolloug       1721 C889221-C  G Ni Lo              101 Vw
+Aegzrraek     1724 C428120-8    Ni Lo              521 Vw
+Ksaghkhaers   1726 B5678A8-8                       813 Va
+Ksutsonoe     1727 B5836AB-7    Ni                 611 Va
+Kaegh         1728 C200743-9  C Va Na              501 Va
+Ninsuegh      1729 D888551-4  C Ag                 813 Va
+Aen Thi       1822 C593220-5    Ni Lo              324 Vw
+Aes Eze       1827 C9C458C-7    Fl Ni              701 Va
+Zaganruen     1926 B152673-B  G Ni Po              301 V2
+Uekrrurirk    2022 C674464-5    Ni                 305 V2
+Kunuevovekh   2023 B253446-A    Ni                 624 V2
+Faekourz      2026 A559645-A  G Aq Ni              404 V2
+Aer Thegz     2030 B321977-9  C Po In Na           114 Va
+Engksae       2125 C566402-8  C Ni                 913 V2
+Ghoulghuk     2126 D221211-9    Po Ni Lo           504 V2
+Ollduezoul    2128 A473855-B  G                    924 V2
+Thaegae       2221 B653679-8    Ni                 303 V2
+Kfuer         2223 E200130-7  C Va Ni Lo           404 V2
+Doukgzaeroun  2224 B465553-D  G Ni                 814 V2
+Akhsourvo     2328 B85A325-C  C Wa Ni Lo           305 V2
+Ughsengvul    2330 B550157-8    De Po Ni Lo        901 V2
+Angknul       2421 A3559A5-D  G Cx Hi Cs           401 V2
+Klarz         2423 C110669-7    Va Ni              412 V2
+Nuekhazue     2427 C9B7220-B  C Fl Ni Lo           503 V2
+Fuegzguer     2428 D98A876-7  C Wa                 802 V2

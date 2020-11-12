@@ -1,0 +1,35 @@
+@SUB-SECTOR:Kirzngoegh SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gaeghkurghurr 2514 B411540-A    Va Ic Ni           902 Va 
+Kaed          2519 B000200-B  C As Va Ni Lo        433 Va
+Garghgha      2615 B9C5744-B  G Fl                 604 Va 
+Tuengaell     2618 B796325-B    Ni Lo              604 Va
+Aek Horog     2714 B5749AB-A  G In Hi              301 Va 
+Ghadzoull     2716 AA9A676-C  G Wa Aq Ni           103 Va
+Vogvakh       2717 A7A6855-B  G Fl                 713 Va
+Kherg         2718 B300744-B    Va Na              712 Va 
+Ksaerraeng    2720 B232547-B    Po Ni              704 Va
+Aedzuz        2816 A456599-B    Ag Ni              604 Va
+Ghour         2818 B143978-D  G In Po Hi           123 Va
+Ansazagzu     2819 C94A300-7    Wa Ni              434 Va
+Naerz         2820 B572ADE-A    In Hi              115 Va
+Gzarrokhaz    2911 D482363-6  C Ni Lo              515 Ve
+Duerzduek     2919 A6446BA-A    Ag Ni              202 Va
+Taedhuneknae  2920 B552727-B    Po                 322 Va
+Oksanoung     3014 C240522-C    De Po Ni           503 Ve
+Dhuek         3016 DA99679-6  C Aq Ni              502 Ve
+Vou Firs      3017 C493234-9  C Ni Lo              501 Ve
+Aessar        3018 D272341-9  C Ni Lo              902 Ve
+Sangvaefaesvik3113 B342477-B    Po Ni              303 Ve
+Gakeknoung    3119 B89A342-D    Wa Ni Lo           203 Ve
+Kirzngoegh    3212 A353A78-F  G Hi                 124 Ve
+Gerraegue     3216 B572977-A  G In Hi              105 Ve
+Aekuedh       3218 B865941-B  G Hi                 401 Ve
+Kkur          3220 C000230-9  C As Va Ni Lo        711 Va

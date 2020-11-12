@@ -1,0 +1,34 @@
+@SUB-SECTOR:Aekhsrrung SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gnaktheksough 2501 A441789-B    Po                 224 Ve
+Thalulgonall  2502 B97A421-A    Wa Ni              324 Ve
+Idzngutaral   2503 B434795-8                       714 Ve
+Dhordoer      2504 B788636-9    Ag Ni              812 Ve
+Ag Arael      2606 C401231-7  C Va Ic Ni Lo        523 Ve
+Orzatsakhsraeg2609 C79A221-9  C Wa Ni Lo           604 Ve
+Udzuerrksaekh 2701 A434647-B    Ni                 102 Ve
+Ingdhagz      2702 A427737-D  G                    822 Ve 
+Knegueng      2705 A876875-B  G                    905 Ve
+Aennuekae     2706 A572421-B    Ni                 604 Ve
+Aekhsrrung    2707 A89AA7B-D  G Wa In Hi Cp        223 Ve
+Ourzllaeng    2802 B531523-D    Po Ni              301 Ve
+Gnakkarirgh   2804 B340226-A    De Ni Lo           101 Ve
+Gavonggoks    2809 CA67475-6  C Ni                 313 Ve 
+Erroetstu     2810 C646430-6    Ni                 323 Ve
+Lluegz        2902 A853AB7-C  G Hi                 212 Ve 
+Aengokrou     2906 C444221-8    Ni Lo              401 Ve
+Oro Dirr      2909 D858120-6  C Ni Lo              814 Ve
+Aedh Ull      3003 A783432-B    Ni                 204 Ve
+Koekhsknurr   3104 C698534-7    Ag Ni              714 Ve
+Ongthollatsan 3108 B332462-C    Po Ni              303 Ve
+Azogoe        3109 A386755-C    Ri Ag              904 Ve
+Kleg          3201 A000744-E  G As Va Na           113 Vi
+Otue          3206 B69A322-A    Wa Ni Lo           423 Ve
+Oro Gag       3210 A9A9647-B    Fl Ni              304 Ve

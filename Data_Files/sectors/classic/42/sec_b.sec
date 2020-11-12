@@ -1,0 +1,35 @@
+@SUB-SECTOR:Saerrgh  SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Uengvokh      0902 B555634-8    Ag Ni              214 Vb 
+Akstouggvi    0905 B424357-D    Ni Lo              622 Vb
+Gzorrzir      0907 C557775-5    Ag                 724 Vb
+Lloudzezkae   0908 B837333-9    Ni Lo              923 Vb
+Kfok          1002 C210220-7    Ni Lo              301 Vb
+Oukhaerzo     1004 B5A0200-9    Ni Lo              124 Vb 
+Soun          1005 B576655-A    Ag Ni              303 Vb 
+Ongoul        1010 B576655-A    Ag Ni              303 Vb
+Oekangae      1105 A455979-C  G Hi Cp              523 Vb
+Igzaegen      1106 A553330-C  G Po Ni Lo           901 Vb
+Dzignoerz     1107 A582875-B  G                    612 Vb
+Gnael         1110 C492476-6  G Po Ni              205 Vb
+Saerrgh       1208 A464977-C  G Hi                 713 Vb
+Uek Alloe     1210 C763245-8    Ni Lo              425 Vb
+Uedhokhdhirar 1302 C542777-6    Po                 722 Vb
+Ksokorae      1304 B3777A7-A  G Ag                 502 Vb
+Taerghgvenrrae1407 B55A773-B    Wa Aq              622 Vb
+Zovaezueng    1502 B69A331-B    Wa Ni Lo           601 Vb
+Kfokh         1504 B410136-B    Ni Lo              801 Vb
+Enagoek       1505 B647557-B    Ag Ni              525 Vb
+Sosagal       1506 B526546-C  G Ni                 813 Vb
+Ksaeto        1509 D100231-9  C Va Ni Lo           423 Vb
+Aegoelluergh  1603 B464675-A    Ag Ni              605 Vb
+Luengal       1604 B7C6873-A  G Fl                 805 Vb 
+Kha           1606 D200133-A  C Va Ni Lo           925 Vb
+Lluerrogong   1610 C473678-7    Ni                 603 Vb

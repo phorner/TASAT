@@ -1,0 +1,38 @@
+@SUB-SECTOR:Dokh SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aenagzdars    0103 A67A6A7-D  G Wa Aq Ni           504 VW 
+Uel Zar       0104 C89A434-A    Wa Ni              401 VW 
+Rrurr         0105 B6595AA-A  C Aq Ni              102 VW
+Gegdha        0109 B611677-A    Ic Ni Na           204 Va 
+Ngirzgnurlogz 0201 B555478-A    Ni                 522 VW 
+Naez          0204 CACA254-A    Ni Lo              122 VW
+Aroegsukgnu   0205 A522754-D  G Po                 505 VW 
+Odhonandon    0210 B4434A8-9    Po Ni              804 Vb
+Sunokhnurgh   0303 B677644-A    Ag Ni              805 VW
+Egangekno     0305 B674525-A    Ag Ni              304 VW             
+Alae          0309 X8B6100-7  C Fl Ni Lo        R  703 Vb
+Guegzegh      0310 C797546-8    Ag Ni              603 Vb
+Torrgur       0408 A7A5747-B  G Fl                 501 Vb
+Otson         0409 A545522-B    Ag Ni              124 Vb
+Khozgvaeran   0506 B88A643-A    Wa Aq              423 Vb
+Llorznaelokh  0508 B693ABB-A  G Hi In              122 Vb
+Raekhsva      0509 D89A879-5    Wa Sv              301 Vb
+Khoerin       0510 C500340-8  C Va Ni Lo           202 Vb
+Siruenangargh 0602 C552354-7    Po Ni Lo           603 Vb
+Gathtsaedzuez 0604 B646231-A    Ni Lo              812 Vb
+Ueksknoek     0605 A8C3978-A  C Fl Hi In           401 Vb
+Dokh          0607 A997978-C  G Hi In Cp           313 Vb
+Alnoetsen     0703 B456626-B  G Ag Ni              403 Vb 
+Gvul          0707 B36658C-7    Ag Ni              703 Vb
+Ksarrg        0802 C57668A-6    Ag Ni              603 Vb
+Kagodz        0804 B1556AB-A  G Ag Ni              313 Vb
+Vazlus        0806 B9B1320-A    Fl Ni Lo           712 Vb
+Okugh         0808 C455779-6    Ag                 322 Vb 
+Golallokhs    0810 CA8A544-7    Aq Ni              404 Vb

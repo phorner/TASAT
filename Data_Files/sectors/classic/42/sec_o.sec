@@ -1,0 +1,28 @@
+@SUB-SECTOR:Allazkhor SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oegurznani    1738 B233478-5    Po Ni Lo           801 V6
+Vongudzuek    1739 B646522-C    Ag Ni              101 V6
+Otsorrg       1833 B594420-9  G Ni Lo              504 Va
+Adhungna      1836 A564A89-B  C Hi                 421 Va
+Ouzerrang     1839 E546302-4  C Ni Lo              813 V6
+Zaekong       1931 B30079C-A  C Va Na              203 Va
+Oeghoer       1934 C697887-3  C                    304 Va
+Thaesugh      1935 C868755-7    Ag                 101 Va
+Ngorsraek     1937 B4438AE-B  G Po Cx              703 V6
+Oel Hathou    2040 C33435A-A  G Ni                 102 V6
+Urdhaerz      2231 D210331-B  H Ni Lo              123 Va
+Tugzgo        2234 C465570-9  C Ag Ni              104 V2
+Oekrrik       2332 D67356A-A  G Ni                 501 Va
+Gokae         2334 B6A0436-8    Ni Lo              404 V2
+Allazkhor     2335 A223720-E  G Na Po Cx           225 V2
+Aerverllol    2336 B756799-B  H Ag                 901 V2
+Gogviksaer    2434 C76869A-5    Ag Ni              403 V2
+Othaksukh     2436 B642679-7  G Ni Po              703 V2
+Kusgaek       2437 B000324-B  G As Ni Lo           913 V2

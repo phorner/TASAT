@@ -1,0 +1,51 @@
+@SUB-SECTOR:Dzen SECTOR:Gvurrdon
+#
+# Trade routes within the subsector
+#
+$1112 1009 0 -1 4
+$1112 1014 0 0 4
+$1014 1015 0 0 4
+$1014 1116 0 0 4
+$1116 1317 0 0 4
+$1317 1418 0 0 4
+$1317 1315 0 0 4
+$1315 1413 0 0 4
+$1413 1512 0 0 4
+$1616 1717 1 0 4
+$1320 1623 0 1 9
+$1320 1318 0 0 9
+$1318 1417 0 0 9
+$1417 1616 0 0 9
+$1616 1716 1 0 9
+$1318 1116 0 0 9
+$1116 0817 -1 0 9
+$1015 0817 -1 0 4
+$1116 1014 0 0 8
+$1014 1112 0 0 8
+$1112 1310 0 -1 8
+$1112 1310 0 -1 9
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Okskful       1014 B661953-9    Hi                 602 Vp G2 D M3 D
+Tongaesodhonga1015 C435379-6                       201 Vp M0 V
+Ksethu        1112 A00089B-E    Na As              622 Vp M5 V
+Allous        1115 B65A773-A    Wa                 713 Vp M1 V
+Dzerrdhakse   1116 A766645-B  G Ag Ni Ri           914 Vp F4 VI
+Darrugsug     1119 B344564-B    Ag Ni              602 Vp F2 V
+Vonghoe       1120 B4007CG-9    Na Va              622 Vp G7 VI M8 D
+Ngoerrgh      1216 E22065A-7    Na Ni Po De        603 Vp K8 V
+Ngurstur      1219 C87A111-5    Lo Ni Wa           434 Vp F3 V
+Firullvorzkokh1315 B436654-9    Ni                 920 Vp M6 V M3 VI
+Aegadh        1317 B737AEC-B    Hi Cp              924 Vp G4 V M0 VI
+Soerkon Aeth  1318 A23477A-B                       520 Vp F1 D
+Dhaeghoerzeoe 1320 B73A478-D    Ni Wa              922 Vp F6 VI
+Dzuerongvoe   1413 B664997-C    Hi                 422 Vp A4 V K9 D
+Urkhaksadh    1415 A120212-B    Lo Ni Po De        503 Vp F4 V
+Lling         1417 B261866-9    Ri                 722 Vp G8 V
+Oesar Gin     1418 B86A322-C  G Lo Ni Wa           701 Vp M2 V M2 D
+Ilung         1419 B561257-7    Lo Ni              323 Vp M4 II
+Dhallorag     1420 D554332-4    Lo Ni              622 Vp K6 III
+Thadzlaksak   1511 D86769C-4    Ag Ni Ri           535 Vp G9 V
+Ngaengza Duegh1512 B75A779-6  G Wa                 914 Vp F8 V
+Gaknau Val    1616 A98A614-2  G Ni Wa              620 Vq M6 III M7 D

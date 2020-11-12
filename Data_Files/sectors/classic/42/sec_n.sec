@@ -1,0 +1,31 @@
+@SUB-SECTOR:Ogaeka SECTOR:Tuglikki
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Athdong       0933 A988A77-A  G Hi Cx              111 V6
+Ersolerror    0935 B99A549-A  G Wa Ni              725 V6
+Annodhgze     0936 BA95240-B    Lo Ni              902 V6
+Aen Aroes     0938 A767979-A  G Hi                 903 V6
+Thoezovuel    0940 D436233-7  C Lo Ni              204 V6
+Zeghzung      1136 B4657B9-4  C Ag                 212 V6
+Gvanrrelaen   1137 D78957B-1    Ni                 423 V6
+Gvokh         1232 C382522-C  C Ni                 600 Va
+Urrgal        1234 X729202-5    Lo Ni           A  400 Va
+Ngatsoek      1236 C589458-A  G Lo Ni              324 V6
+Sigvoth       1237 D122330-8    Po Ni Lo           114 V6
+Igdhaego      1239 B533589-7  C Ni Po              712 V6
+Khuegudzo     1332 B7458CB-4                       900 Va 
+Dhingkarz     1431 B857568-4    Ag Ni              704 Va
+Orruekhaer    1436 D424437-6    Lo Ni              924 V6
+Goukaege      1437 D310133-7    Lo Ni              114 V6
+Gor Ghaghz    1438 D230158-7  C De Po Ni Lo        403 V6
+Aethtult      1533 A347436-9  C Ni Lo              200 Va
+Gor Soell     1534 C467ADC-3    Hi                 324 Va
+Dheks         1540 D422233-5    Po Ni Lo           110 V6
+Ghursrue      1632 B7A0453-A  C Ni Lo              902 Va
+Okhgug        1634 D583577-0    Ni              A  601 Va
