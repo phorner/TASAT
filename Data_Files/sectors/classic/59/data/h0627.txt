@@ -1,0 +1,37 @@
+Darrian 
+
+Homeworld of a minor human race.
+An old, decaying world depending on its past as a resource; art objects are a major export, although strictly controlled.  Many local buildings and complexes are tech level G, but the technology to maintain them has been lost.
+
+Darrian is the technological center of the Confederation as Mire is the political center.  Scientists are in charge of government and industry, paying careful attention to possible consequences before allowing changes.  There are restrictions on the export of any artifacts of pre-Maghiz culture that still remain on Darrian.
+
+
+
+Darrian is a favorite stopover for adventurers.  Its markets are full of goods - novelties, weapons, equipment - that are useful if only because its high technology is a relative advantage.  Modern Darrian technology is generally about tech level 13 for local products, with a liberal sprinkling of tech level 14-15 products that are locally produced or imported from the Imperium.  Most of the merchant ships are tech level 13, often with jump-3 or less, although the shipyard can produce jump-6 drives.
+
+Zloril, a global communications monopoly, serves the world through a system of satellites and local relays that allows virtually instantaneous communications with anyone on or near the planet's surface.  Personal communication codes make it possible to contact anyone at any time.
+
+On Darrian, basins are the equivalents of continents.  Long, high mountain ranges divide the world's surface into five basins.  Each basin is centered on a sea fed by rivers draining the surrounding  territory.  The basins are named Boyr, Zlodh, Nyadh, Rimb, and Abh.
+
+Four grav cities symbolize the world's high tech.
+* Rebhar was constructed as a mining construct, and it gradually makes its way along the mountainous rim of the Boyr Basin extracting metal ores from the rugged rock faces.
+* Kilulga, in the Abh Basin, hangs in the upper atmosphere above most of Darrian's cloud cover.
+* Zehn Nyak, in the Nyadh Basin, is a migratory city, moving among seven different sites as the markets and seasons change.
+* Poorda, now a tourist center in the Rimb Basin, was originally designed as a sea farming center; it hovers above the waves of the Rimb Sea and provides amusement and recreation facilities.
+
+The Rimb Basin occupies about one quarter of Darrian's circumference and straddles the equator.  Major rivers drain the land to the north, west, and south, but the basin's eastern region is a desert with infertile, rocky soil, and numerous beautiful canyons.  Never good for agriculture, it has always been recognized for its beautiful vistas.
+
+The Zlodh Basin surrounds the north polar Zlodh Sea, the largest sea on the planet.  Although its center is a solid ice cap, the sea's edges are ice-free and support extensive maritime trade.
+
+The establishment of undersea cities under the polar icecap created a need for submarine access to the cities.  The distances proved too great for the construction of tunnels; the only access is with scheduled submarine service.
+
+Zlodh city keeps the seawater at bay with a network of grav generators mounted in a latticework of metal struts.  Since the created currents carry away waste heat, the icecap above the city has melted.
+
+
+Stronghold, the initial settlement of the Solomani immigrants of -1521, was constructed in the high mountain barrier where Rimb, Boyr, and Abh meet.  Surrounded by high mountains, it is only accessible from the air and through some secret passes that allow access by a few people at a time.  It was almost destroyed in the Maghiz, and its remote location made rebuilding it a low priority.
+
+Image of a typical city on Darrian with grav platforms:
+
+@@@@darrian.jpg
+
+

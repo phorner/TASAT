@@ -1,0 +1,7 @@
+Puparkin
+
+This is a hostile lava world.
+
+Image of surface:
+
+@@@@puparkin.jpg
