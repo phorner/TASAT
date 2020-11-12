@@ -1,0 +1,56 @@
+@SUB-SECTOR:Tephany  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2516 2415 -1 0
+$2516 2719 0 0
+$2719 2521 0 1
+$2516 2717 0 0
+$2717 3113 0 0
+$3113 2810 0 -1
+$3113 3211 0 0
+$3211 0109 1 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2512 B666120-B  N Lo Ni              804 Im F0 V
+              2516 A400456-D    Ni Va              624 Im M2 V
+              2611 D8C48B6-9  S Fl                 210 Im F2 D
+              2612 E110427-A    Ni                 804 Im K2 V M5 D
+              2614 B374450-C    Ni                 903 Im F0 D
+              2616 B7646BD-8  N Ag Ni              503 Im K5 VI M2 D
+              2711 E583411-7    Ni                 703 Im F8 D
+              2713 E62546A-A    Ni                 200 Im M1 V
+              2715 C766641-7    Ag Ni Ri           220 Im F0 D
+              2717 A3468AB-C  N                    600 Im F8 D
+              2718 B56688D-9  N Ri                 124 Im F5 VI M1 D
+Tephany       2719 A6B19DF-A  N Hi Fl              502 Im K0 V
+              2720 C585765-9  S Ag Ri              501 Im K3 D
+              2814 C334579-C  S Ni                 225 Im A4 V
+              2815 E514479-A    Ni Ic              913 Im M3 V M0 D
+              2818 B492447-E  N Ni                 103 Im F1 D
+              2820 E8B1778-5    Fl                 723 Im K2 V
+              2911 E545245-6    Lo Ni              614 Im F5 D M4 D
+              2913 B0008CC-E    Na As              700 Im G6 D M8 D
+              2915 B677213-9  S Lo Ni              100 Im K4 VI M7 D
+              2916 C65259D-8    Ni Po              610 Im K0 VI M2 D
+              2918 C55A8A7-B  S Wa                 124 Im K4 VI
+              2919 B85A659-9    Ni Wa              310 Im M3 D M2 D
+              3012 B565014-8    Lo Ni              604 Im K7 V
+              3013 C729230-9  S Lo Ni              420 Im G0 III M6 D
+              3014 C110668-C  S Na Ni              320 Im G1 V
+              3016 B723256-B  S Lo Ni Po           805 Im M1 V M7 D
+              3017 C658240-6    Lo Ni              600 Im F6 V M6 D
+              3019 B200835-E    Na Va              613 Im K2 D
+Orpheus       3111 D8D3A88-B  S Hi Fl              202 Im G2 V
+              3113 A423679-G    Na Ni Po           210 Im K4 V
+              3114 D400311-B  S Lo Ni Va           804 Im G4 V M7 D
+              3116 C432577-9  S Ni Po           A  604 Im K1 V
+              3118 E423100-A    Lo Ni Po           601 Im K8 V M2 D
+              3211 A785735-9    Ag                 104 Im G4 V
+              3213 E433733-7    Na Po              500 Im F4 V M5 D M1 D
+              3214 C7A6420-7  S Ni Fl              722 Im F0 V M2 D
+              3217 E510100-A    Lo Ni              900 Im M1 V M7 D
+              3219 B477100-B  N Lo Ni              521 Im F5 V M4 D
+              3220 E873431-5    Ni                 503 Im F2 D

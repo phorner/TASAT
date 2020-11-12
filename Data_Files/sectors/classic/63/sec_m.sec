@@ -1,0 +1,55 @@
+@SUB-SECTOR:Shuun SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0132 3232 -1 0
+$0134 3232 -1 0
+$0236 3137 -1 0
+$0132 0331 0 0
+$0331 0431 0 0
+$0431 0830 0 -1
+$0134 0236 0 0
+$0236 0338 0 0
+$0338 0301 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0132 C797000-8    Lo Ni Ba           910 Im G7 D
+              0133 B655743-8  S Ag              A  300 Im F0 V
+              0134 A337200-G  N Lo Ni              312 Im M4 V
+              0136 C675662-9    Ag Ni              104 Im G0 V
+              0138 B4277AC-A                       812 Im M2 D
+              0139 C744202-C    Lo Ni              213 Im F2 V
+Vodyr         0140 B782999-A    Hi                 414 Im G8 D
+              0232 C646344-7    Lo Ni              213 Im G1 V
+              0234 C483504-D    Ni                 714 Im K4 V
+              0235 B2106A9-E    Na Ni              610 Im M4 V
+              0236 A524367-F    Lo Ni              513 Im M9 V M8 D
+Sulai         0237 E42299C-C    Hi Na In Po        920 Im F0 D
+              0239 C6B58BB-7    Fl                 104 Im F2 V
+Shuun         0331 A9B59CC-E  W Hi Fl              632 Im F1 V
+              0332 C000400-D  S Ni As              400 Im M0 V M2 D M8 D
+              0334 C7A5648-9    Ni Fl              714 Im G1 III
+              0335 E403472-8    Ni Va Ic           403 Im M0 V
+              0336 C210101-B    Lo Ni              513 Im M3 V
+              0337 C556300-C  S Lo Ni              520 Im G3 V M6 D
+              0338 A947558-F    Ag Ni              402 Im G0 V M7 D
+              0431 A211454-E    Ni Ic              305 Im A6 III
+              0434 A512669-D    Na Ni Ic           103 Im K4 V M3 D
+              0437 E565777-4    Ag Ri              602 Im K7 D
+              0532 B788326-D    Lo Ni              300 Im F6 D
+              0533 B673020-8    Lo Ni              702 Im F1 V
+              0632 B647777-9  S Ag                 203 Im F0 V
+              0634 B554346-8    Lo Ni              404 Im K8 V
+              0637 C200679-A    Na Ni Va           923 Im G2 IV M8 D
+              0638 D436452-8    Ni                 522 Im M1 V
+              0639 C341843-B  S Po                 100 Im K4 V M9 D
+              0731 C100320-D    Lo Ni Va           925 Im G1 III
+              0732 C494410-7    Ni                 510 Im G2 V M9 D
+              0740 B683230-8    Lo Ni              803 Im G7 V
+              0832 C100598-E  S Ni Va              404 Im M1 II
+              0834 C563224-7  S Lo Ni              303 Im G2 VI
+              0836 B87A335-C    Lo Ni Wa           313 Im G1 V
+              0837 C8A5003-7  S Lo Ni Fl           524 Im K9 V
+              0840 C4447AB-A    Ag                 400 Im K0 D

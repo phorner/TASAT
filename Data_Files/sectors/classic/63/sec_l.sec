@@ -1,0 +1,63 @@
+@SUB-SECTOR:Ot Zell  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2521 2719 0 -1
+$2521 2624 0 0
+$2624 2825 0 0
+$2825 2924 0 0
+$2924 3126 0 0
+$3126 0124 1 0
+$2825 2729 0 0
+$2729 2630 0 0
+$2630 2733 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2521 A556100-E  N Lo Ni              522 Im K0 V
+              2523 C947686-5  S Ag Ni              124 Im F4 D
+              2529 E200369-7    Lo Ni Va           200 Im M0 IV
+              2621 D444330-7  S Lo Ni              804 Im K9 D
+              2622 B895431-A    Ni                 814 Im K6 D
+              2624 B201745-B  S Na Va Ic           502 Im M4 V M0 D
+              2628 C235653-8    Ni                 522 Im M5 D
+              2630 A686400-B  N Ni                 810 Im K1 D
+              2722 C897477-B  S Ni                 100 Im G6 VI M7 D
+              2723 C3106A9-B  S Na Ni              310 Im M3 IV
+              2724 C366547-7  S Ag Ni              410 Im F3 V M3 D
+              2725 E611686-5    Na Ni Ic           602 Im G0 V
+              2726 D546477-9  S Ni                 610 Im F3 VI M0 D M0 D
+              2729 A594454-E    Ni                 400 Im G8 VI
+              2730 A888754-A    Ag Ri              603 Im M3 V
+              2821 E84A699-6    Ni Wa              202 Im M6 D
+              2823 C548310-A  S Lo Ni              713 Im K6 V
+              2824 C9AA688-B    Ni Fl Wa           815 Im M4 V M3 V
+              2825 A7498AE-D                       320 Im F9 VI
+Sirris        2829 C8549AD-C    Hi                 300 Im F0 D M0 D
+              2830 B476487-D    Ni                 203 Im F0 V M7 D
+              2921 C200334-C    Lo Ni Va           200 Im M8 V
+              2922 B484341-C    Lo Ni              500 Im K4 V M7 D
+              2923 E876424-4    Ni                 200 Im G0 V
+Ot Zell       2924 C9B798A-D    Hi Fl              710 Im K4 D M7 D
+              2925 C363143-7  S Lo Ni              305 Im F2 D
+              2928 C432543-B    Ni Po              900 Im M4 V
+              2929 C140379-A    Lo Ni Po De        400 Im G7 D M2 D
+              3021 D000620-8  S Na Ni As           801 Im M4 V K4 D
+              3022 B300533-C  N Ni Va              901 Im M3 V
+              3024 C467221-9    Lo Ni              104 Im F2 D M7 D
+              3026 C541564-6    Ni Po              300 Im M0 V M5 D
+              3030 E589561-9    Ni                 405 Im F1 V
+              3122 B656584-C  S Ag Ni              800 Im K4 V M1 D M9 D
+Mechport      3123 D5A3996-6  S Hi Fl              200 Im F4 V
+              3125 C654576-6    Ag Ni              410 Im K5 D M7 D
+              3126 A587449-D  N Ni                 700 Im M3 D
+              3129 C30089B-9    Na Va              804 Im K5 D M7 D
+              3221 A786565-A  N Ag Ni           A  104 Im G9 D
+              3222 C779856-B                       120 Im F3 V
+Peake         3223 C468ADA-A  S Hi                 104 Im K4 V
+              3225 B7668CC-8                       500 Im G2 V
+              3226 E76A786-7    Ri Wa              910 Im G8 D M6 D
+              3227 A150100-G  N Lo Ni Po De        413 Im K9 V M7 D
+              3229 D689656-9    Ni Ri           A  734 Im F9 D M3 D M0 D
+              3230 AAC8410-F    Ni Fl              412 Im K2 V

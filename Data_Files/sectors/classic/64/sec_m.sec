@@ -1,0 +1,60 @@
+@SUB-SECTOR:Urgusap  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0734 1033 1 0 11
+$0639 1038 1 0 11
+$0639 0339 0 0 11
+$0734 0432 0 0 11
+$0432 0231 0 0 11
+$0734 0436 0 0 11
+$0436 0339 0 0 11
+$0339 3240 -1 0 12
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0131 B587100-D  N Lo Ni              704 Im G2 V M9 D
+              0132 C56547A-8    Ni                 915 Im M2 V
+              0133 A433257-F    Lo Ni Po           512 Im M1 V M4 D
+Loungel       0134 C6A59DD-7    Hi Fl              612 Im G5 VI M5 D
+Gamma         0135 B344984-E  N Hi In              500 Im F0 V
+Argusap       0231 A6549A7-C    Hi                 715 Im G0 D
+              0235 E486772-7    Ag Ri              324 Im F6 D
+              0236 B256688-9  A Ag Ni              900 Im F3 D M6 D
+              0237 C1608A9-A    De                 804 Im F2 VI M4 D
+              0239 C768721-6    Ag                 824 Im G4 V
+              0333 A32357A-F    Ni Po              714 Im M1 V
+              0336 B324420-A  W Ni                 600 Im K1 V
+              0337 B522788-7    Na Po              413 Im K2 V M6 D
+              0339 A200320-D  N Lo Ni Va           412 Im M7 V M9 D
+              0340 C697748-8  S Ag                 413 Im G0 V
+              0431 C8D366A-A    Ni Fl              104 Im M1 V M8 D
+              0432 B330534-D  S Ni Po De           903 Im K2 IV
+              0433 C655579-8  S Ag Ni              903 Im F8 VI M0 D
+              0434 C554795-7    Ag                 830 Im G0 V
+              0435 C898567-8    Ag Ni              203 Im F9 D
+              0436 B402122-E    Lo Ni Va Ic        815 Im F0 III
+              0437 D863620-7  S Ni                 604 Im K2 V
+              0438 E766534-3    Ag Ni              624 Im F4 V
+              0439 B545661-A  N Ag Ni              415 Im F2 V
+              0440 B252444-8    Ni Po              424 Im K3 V
+              0531 C260433-6    Ni De              400 Im K1 V
+              0533 D5858CC-4                       804 Im G4 D
+              0535 B2316AD-A    Na Ni Po           910 Im K2 V M8 D
+              0536 E6947CC-2    Ag                 303 Im M4 V M1 D
+Infrapolis    0632 C73799A-7    Hi                 204 Im F8 D
+              0639 A568003-A  A Lo Ni              401 Im F2 V M9 D
+              0640 D100421-7  S Ni Va              110 Im M3 V M3 D
+              0731 D9C5110-8  S Lo Ni Fl           222 Im M5 V
+              0732 C322630-6    Na Ni Po           502 Im M3 V
+              0734 A201136-F    Lo Ni Va Ic        703 Im K5 V M2 D
+              0735 B8B5547-B    Ni Fl              103 Im K4 V
+              0736 A57447A-9  N Ni                 310 Im F2 VI
+              0737 C561669-8    Ni Ri              402 Im F0 VI M3 D
+              0738 C326430-7  S Ni                 303 Im M1 V
+              0739 B200331-B    Lo Ni Va           912 Im A4 V
+              0833 E464331-5    Lo Ni              401 Im K1 VI
+              0834 A000123-C    Lo Ni As           800 Im G4 V
+Irkad         0836 C4509A9-A    Hi Po De           814 Im K4 VI M6 D
+              0840 C210697-A  S Na Ni              613 Im M0 V

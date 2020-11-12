@@ -1,0 +1,51 @@
+@SUB-SECTOR:Mirmida SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2534 2333 -1 0
+$2534 2736 0 0
+$2736 2733 0 0
+$2733 2630 0 -1
+$2736 2638 0 0
+$2638 2540 0 0
+$2540 2401 -1 1
+$3040 3240 0 0
+$3040 2901 0 1
+$3240 0140 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2532 C593622-6    Ni                 712 Im G7 D
+              2533 C276665-A  S Ag Ni              604 Im F0 V M9 D
+              2534 A410457-F    Ni                 200 Im K4 V M3 D
+              2536 B363878-B  N Ri                 512 Im M7 VI
+              2538 C9B56A8-7    Ni Fl              610 Im M1 V M5 D
+              2540 B794765-A  S Ag                 203 Im G4 V
+              2632 C87A664-B  S Ni Wa              304 Im M7 VI M0 D
+              2635 C575789-5  S Ag                 404 Im F5 VI
+              2638 C9A6000-A  S Lo Ni Fl Ba        212 Im K2 III
+Tagukhassan   2640 E8599CD-8    Hi                 503 Im K1 V
+              2733 A210420-C  N Ni                 200 Im G2 V M1 D
+              2734 C312001-8  S Lo Ni Ic           904 Im M4 V M5 D
+              2736 A463888-F    Ri                 523 Im G1 D M2 D
+              2738 B525545-C  A Ni                 504 Im K2 V M0 D
+              2740 C797888-9                       603 Im K2 V M5 VI
+              2831 B482489-C    Ni                 314 Im F7 D M7 D
+              2836 E99A57A-6    Ni Wa              804 Im F0 V M9 D
+              2931 B346453-C    Ni                 222 Im F7 VI
+              2932 D63988B-9  S                    404 Im G1 V M3 D
+              2933 D655320-4  S Lo Ni              800 Im F7 VI
+              2940 D669101-A  S Lo Ni              522 Im G1 D
+              3032 CADA520-C  S Ni Fl Wa           103 Im M7 IV M2 D
+Marhaban      3033 E31099B-C    Hi Na In           821 Im G4 V M1 D
+              3035 C30277B-C  S Na Va Ic           403 Im K0 V
+              3040 B5367BC-9                       815 Im K2 V M0 D
+              3135 C558241-6    Lo Ni              300 Im F8 V
+              3137 C485200-D  S Lo Ni              903 Im G5 V
+              3233 C675867-7                       815 Im G3 V
+              3234 E222521-8    Ni Po              202 Im M3 V M7 D
+              3235 C237653-9  S Ni                 800 Im A2 V
+              3237 C542568-9    Ni Po              400 Im K4 V
+              3238 C835778-8                       614 Im G0 V
+              3240 C5688CC-9  S                 A  902 Im G9 VI

@@ -1,0 +1,49 @@
+@SUB-SECTOR:Simen  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2025 1627 -1 0
+$1730 1627 -1 0
+$1730 1631 -1 1
+$1730 1932 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kensus        1722 E8959CF-A    Hi In           A  703 Im K3 VI
+              1723 C75A779-7    Wa                 902 Im F4 VI
+              1724 C000634-9    Na Ni As           414 Im M4 V M5 D
+              1725 C888200-8  S Lo Ni              200 Im K1 D
+              1730 A867424-F    Ni                 813 Im K7 D M3 D
+              1823 B140422-F  A Ni Po De           201 Im F5 D
+              1826 C35549B-A    Ni                 900 Im K4 VI M1 D
+              1827 E335336-8    Lo Ni              121 Im K9 III M4 V
+              1829 E120564-7    Ni Po De           200 Im G5 VI M4 D
+              1922 D330400-C    Ni Po De           514 Im M3 V M1 D
+              1923 E100125-7    Lo Ni Va           901 Im M6 V
+              1926 C736324-9    Lo Ni              310 Im G3 V M0 D
+              1927 B898599-B  N Ag Ni              723 Im F8 D M9 D
+              1929 B98A862-D  N Ri Wa              401 Im F7 D
+              1930 E000655-B    Na Ni As           120 Im M0 V K1 D
+              2021 C545765-5  S Ag                 804 Im F4 V M5 D
+              2022 C23445A-B  S Ni                 400 Im A2 V
+              2023 B427535-F  S Ni                 501 Im K3 III
+              2024 B200457-C  S Ni Va              103 Im M1 V
+              2025 A130641-F  N Na Ni Po De        700 Im M4 V
+              2122 C483141-A    Lo Ni              700 Im F2 V
+              2124 A562656-D    Ni Ri              525 Im K5 D M6 D
+              2126 E487655-6    Ag Ni Ri           800 Im K5 VI
+              2127 C596322-7    Lo Ni              103 Im G9 V M6 D
+              2129 E73A300-9    Lo Ni Wa           420 Im M7 V
+              2222 C410300-B    Lo Ni              623 Im M5 III
+              2224 E332338-9    Lo Ni Po           723 Im M3 VI
+              2226 B501031-8  N Lo Ni Va Ic        433 Im M8 III
+              2228 C63A853-C    Wa                 702 Im G2 V
+              2321 C3235AB-8    Ni Po              204 Im M2 VI M7 D
+              2326 D8AA545-9    Ni Fl Wa           510 Im K3 V M0 D
+              2329 B537647-8    Ni                 110 Im K2 V
+              2423 E100566-9    Ni Va              303 Im G2 V
+              2424 E300136-8    Lo Ni Va           202 Im M1 V
+              2426 E646427-4    Ni                 200 Im K0 D M8 D
+              2427 C342555-D  S Ni Po              800 Im F3 D M7 D
+              2428 B251320-9    Lo Ni Po           505 Im F4 V

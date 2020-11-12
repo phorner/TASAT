@@ -1,0 +1,53 @@
+@SUB-SECTOR:Shurlarlem  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0714 1012 1 0 11
+$0419 0421 0 1 11
+$0419 0616 0 0 11
+$0616 0714 0 0 11
+$0616 0316 0 0 11
+$0316 0213 0 0 11
+$0213 0410 0 -1 11
+$0616 0917 1 0 11
+$0213 3113 -1 0 12
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 C525120-9    Lo Ni              402 Im M1 IV M7 D
+              0113 AA85447-E  A Ni                 103 Im F1 D
+Raguegh       0114 C0009AA-E    Hi Na In As        802 Im F2 V
+              0115 B87A111-8  N Lo Ni Wa           604 Im F2 VI
+Juba          0118 E32397A-B    Hi Na In Po        522 Im K5 D
+              0120 B223631-8    Na Ni Po        A  911 Im G0 V
+              0211 B324111-A  N Lo Ni              102 Im M9 III
+              0213 B676763-7    Ag                 103 Im F1 V
+              0216 A4457BC-B  N Ag                 913 Im M3 V M6 D
+              0220 B545235-8  N Lo Ni              801 Im F6 D M9 D
+              0312 E77A6AB-8    Ni Wa              601 Im G4 V M2 D
+              0315 D223677-6  S Na Ni Po           900 Im M1 VI
+              0316 A667624-9    Ag Ni              924 Im F1 D M1 D
+              0318 E100756-7    Na Va              904 Im M0 V M3 D
+Insont        0319 E5A7AAA-A    Hi Fl              203 Im K3 D
+              0411 A548136-E  N Lo Ni              904 Im G8 D M7 D
+              0412 C844766-8    Ag                 311 Im F6 VI M2 D
+              0419 A421564-F    Ni Po              521 Im K8 II
+              0420 D334542-8    Ni                 614 Im M0 V
+              0513 E847587-8    Ag Ni              500 Im G8 VI M0 D
+              0516 X446458-5    Ni              R  105 Im G0 V M5 D
+Lejeune       0519 E337ADD-A    Hi                 203 Im F4 D M0 D
+              0520 B223222-A    Lo Ni Po           200 Im K7 V M6 D
+              0611 C8C5866-9  S Fl                 814 Im G6 D
+              0613 X547774-2    Ag              R  504 Im F0 D
+              0616 C140548-A    Ni Po De           110 Im F1 V
+              0618 C438256-D  S Lo Ni              903 Im M8 V
+              0620 C654316-A  S Lo Ni              914 Im M5 V
+              0711 E97A323-6    Lo Ni Wa           100 Im F9 VI M0 D
+              0713 C340888-7    Po De              112 Im F9 D
+              0714 B24669B-C  S Ag Ni              903 Im G7 D M3 D
+              0716 A300555-F  A Ni Va              404 Im M3 V
+              0717 X533534-2    Ni Po           R  411 Im K3 V
+              0720 B000257-E  N Lo Ni As           201 Im M2 V M8 D
+              0811 C483520-8    Ni                 114 Im G0 V
+              0818 B000665-C    Na Ni As           104 Im M3 V M7 D M7 D

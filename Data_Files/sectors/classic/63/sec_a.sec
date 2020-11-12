@@ -1,0 +1,40 @@
+@SUB-SECTOR:Vakkuun   SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0309 3107 -1 0
+$0309 0111 0 1
+$0309 0806 0 0
+$0806 1006 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ishimaga      0101 A734433-9    Ni                 600 Im M4 V K4 D
+Ashki         0110 A89A533-D    Ni Wa              303 Im G4 D
+              0201 E000689-7    Na Ni As           803 Im G3 V M0 D
+              0203 E300346-9    Lo Ni Va           222 Im K1 III M0 D
+              0205 BACA37B-C  S Lo Ni Fl Wa        303 Im K8 D M1 D
+              0206 B9D8686-A    Ni Fl              901 Im M4 V
+              0210 B7A5344-B  W Lo Ni Fl           604 Im K6 III M0 V
+Ambon         0301 E45098C-9    De                 502 Im G4 D M1 D
+Irgukh        0303 E331A85-A    Hi Na Po           514 Im F1 D M0 D
+              0309 A411799-D    Na Ic              620 Im M2 V
+              0401 E52A220-A    Lo Ni Wa           103 Im M5 V M3 D
+Sproan        0406 C41298B-E  S Hi Na In Ic        701 Im F8 D M1 D
+              0407 B48559A-B    Ag Ni              200 Im K8 D M1 D
+              0408 E110510-9    Ni                 314 Im M0 V M3 D
+              0501 E310776-8    Na                 604 Im M2 V M6 D
+Satin         0504 D766989-7    Hi                 104 Im K8 D
+              0505 E160400-8    Ni De              820 Im F2 VI
+              0604 C484575-B  S Ag Ni              413 Im M1 VI
+Vakkuum       0607 A4439BE-F    Hi In Po           603 Im G1 V
+              0610 C542597-7    Ni Po              300 Im G4 V M8 D
+              0702 E000362-7    Lo Ni As           915 Cs M5 VI
+Norijo        0705 C4426B7-B  S Ni Po              400 Im K6 D M5 D
+              0707 B242457-C    Ni Po              600 Im G1 V M0 D
+              0802 C584332-8    Lo Ni              100 Na M0 V M9 D
+Sharasham     0805 A441768-B    Po                 203 Im F0 D
+              0806 A260345-C  N Lo Ni De           613 Im F9 D
+Gegirur       0808 C200774-A  S Na Va              224 Im M0 V M1 D
+              0810 B120896-F  N Na Po De           112 Im K2 D M2 D

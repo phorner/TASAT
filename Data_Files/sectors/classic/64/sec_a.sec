@@ -1,0 +1,108 @@
+@SUB-SECTOR:Pelusium  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0410 0213 0 1 11
+$0410 0609 0 0 11
+$0609 0806 0 0 11
+$0403 0507 0 0 11
+$0507 0609 0 0 11
+$0806 1109 1 0 11
+# borders adjusted 0 becomes a 6
+^0102 6
+
+^0201 4
+
+^0202 6
+
+^0302 6
+
+^0302 5
+
+^0401 4
+
+^0402 6
+
+^0502 4
+
+^0503 6
+
+^0520 6
+
+^0520 4
+
+^0520 5
+
+^0521 6
+
+^0602 6
+
+^0602 5
+
+^0619 4
+
+^0620 5
+
+^0702 4
+
+^0703 4
+
+^0703 5
+
+^0704 4
+
+^0704 5
+
+^0705 4
+
+^0705 5
+
+^0706 6
+
+^0805 4
+
+^0806 6
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0102 D756553-7  S Ag Ni              814 Im G5 D
+              0103 E000110-6    Lo Ni As           323 Im K8 V
+              0108 BABA455-A  N Ni Fl Wa           115 Im M4 V M2 D
+              0110 E798400-5    Ni                 203 Im G2 V
+Occulun       0203 C2429DA-A  S Hi In Po           900 Im K3 V M1 D
+              0204 E6747AA-6    Ag                 803 Im F8 D
+              0206 C364620-8    Ag Ni              304 Im F3 D M9 D
+              0207 A98975A-F  N Ri                 602 Im G0 VI
+              0210 C566375-8    Lo Ni              205 Im M3 D
+              0302 A000545-C    Ni As              123 Im M0 V
+              0304 B646022-9  N Lo Ni              302 Im G4 V
+              0307 C549412-9    Ni                 312 Im F6 D M4 D
+              0309 B344541-A    Ag Ni              902 Im K8 D M4 D
+              0310 C686667-4  S Ag Ni Ri           104 Im G2 V
+              0402 E553359-5    Lo Ni Po           513 Im G0 V M5 D
+              0403 B544778-7    Ag                 214 Im K1 D
+              0404 E100521-9    Ni Va              813 Im M3 V
+              0406 C428532-B    Ni                 702 Im M2 V
+              0408 C332667-7    Na Ni Po           213 Im M3 V
+              0409 E463300-7    Lo Ni              512 Im K8 D
+              0410 B75968A-C  N Ni                 604 Im G1 V
+              0503 B88A140-9  A Lo Ni Wa           803 Im F2 V
+              0505 D536884-3                       105 Im K2 D M1 D
+              0507 B758766-6    Ag                 410 Im F3 VI
+              0508 C858455-8  S Ni                 724 Im G4 D M9 D
+              0602 A8A7586-B    Ni Fl              801 Im M9 IV M9 D
+              0603 C38055A-C    Ni De              224 Im M6 D M4 D
+              0604 D100410-6    Ni Va              301 Im A2 V
+              0605 X33677A-4                    R  503 Im M2 V
+              0607 A364635-B    Ag Ni              622 Im F9 D M1 D
+              0609 A736688-E  N Ni                 904 Im A0 V
+              0702 C365510-5    Ag Ni              134 Va G2 V M5 D
+              0704 C46468D-7    Ag Ni Ri           503 Na G4 V M0 D
+              0707 B563855-9    Ri                 913 Im F4 V
+              0801 E948100-7    Lo Ni              503 Na F2 VI M8 D
+              0804 D895556-7    Ag Ni              214 Cs G2 D
+Shakam        0806 A5869CA-C    Hi                 121 Im G5 D
+              0808 B643743-7  S Po                 605 Im G3 D
+              0809 B310467-C  S Ni                 113 Im M4 D M5 D
+              0810 A974469-9    Ni                 310 Im G3 D

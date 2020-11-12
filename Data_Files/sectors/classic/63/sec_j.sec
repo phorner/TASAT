@@ -1,0 +1,52 @@
+@SUB-SECTOR:Taccis  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1222 0621 -1 0
+$1222 1220 0 -1
+$0927 0626 -1 0
+$0927 1326 0 0
+$1326 1627 0 0
+$1627 1826 1 0
+$1627 1730 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 B965588-9  A Ag Ni              600 Im G7 VI M4 D
+              0922 A5958BE-C  N                    203 Im K0 D
+              0923 C584210-9    Lo Ni              113 Im F7 D
+Shuama        0927 A97A110-F    Lo Ni Wa           604 Im G3 V
+              0928 B6878AF-7                       710 Im M6 D M9 D
+              0929 C897837-6  S                    702 Im F1 D
+              0930 E845543-6    Ag Ni              104 Im K6 D M8 D
+              1026 B643340-D  N Lo Ni Po           510 Im G7 D
+              1027 E628567-8    Ni                 904 Im M4 V
+              1028 C8C8331-C  S Lo Ni Fl           202 Im M9 V
+              1121 C744488-6    Ni                 213 Im F0 V
+              1125 E524485-7    Ni                 620 Im M2 V
+              1221 B000663-B    Na Ni As           313 Im G4 V
+              1222 A6A3652-D    Ni Fl              823 Im K1 V M1 D
+              1228 B442254-D    Lo Ni Po           523 Im G4 D
+              1322 C989231-C    Lo Ni              325 Im G7 V
+              1323 C658341-9    Lo Ni              523 Im K1 V M5 D
+              1326 A421300-E  N Lo Ni Po           810 Im M1 V G0 D
+              1328 C6A8674-9  S Ni Fl              310 Im K2 D
+              1329 C200521-C    Ni Va              823 Im M2 V M0 D
+              1330 A447101-F    Lo Ni              904 Im K4 D
+              1424 D110389-A  S Lo Ni              400 Im M3 V M4 D
+              1430 A576402-D  N Ni                 602 Im F1 V M0 D
+              1521 C446669-6    Ag Ni              403 Im F2 V M7 D M5 D
+              1522 C6B4200-8  S Lo Ni Fl           103 Im M1 V
+              1524 C110866-A  S Na                 210 Im F4 V
+              1525 E776653-5    Ag Ni              404 Im K0 V M1 D
+              1526 C492578-C  S Ni                 900 Im G3 D M5 D
+              1528 E655656-9    Ag Ni              912 Im F6 D
+              1529 C9B6555-B  S Ni Fl              201 Im K2 V M5 D
+              1530 C545457-8    Ni                 333 Im F1 D
+              1621 C87A673-6    Ni Wa              604 Im M1 D
+              1622 A665487-F    Ni                 513 Im F0 D M0 D
+              1623 C220302-D  S Lo Ni Po De        704 Im K3 V
+              1625 E160300-B    Lo Ni De           610 Im M2 D
+Taccis        1627 A67298C-F  W Hi In              701 Im G1 D
+              1629 E667373-9    Lo Ni              600 Im F0 VI M1 D

@@ -1,0 +1,54 @@
+@SUB-SECTOR:Antares  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2030 1932 0 1 11
+$2030 2227 0 0 11
+$2227 2324 0 0 11
+$2324 2421 0 0 11
+$2421 2122 0 0 11
+$2122 1822 0 0 11
+$1822 1624 -1 0 11
+$2421 2220 0 -1 11
+$2427 2730 1 0 11
+$2427 2324 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1722 E110612-A    Na Ni              204 Im K2 V
+              1723 E698767-5    Ag                 614 Im G3 V
+              1726 C413879-6  S Na Ic              523 Im M6 D M5 D
+              1822 A679546-C  N Ni                 400 Im G5 D M2 D
+              1825 C887594-8    Ag Ni              903 La F4 V M5 D
+              1826 B501246-A    Lo Ni Va Ic        203 La G3 III M6 VI
+              1921 E110720-5    Na              A  724 Im M0 V
+              1923 B755765-B  S Ag                 902 Im F1 V M7 D
+              1925 E311487-4    Ni Ic              304 La M8 D M4 D
+              1926 E676769-4    Ag                 403 La G3 V M7 D
+              2021 B544556-C  D Ag Ni              512 Im F8 D M6 D
+              2022 B767221-7    Lo Ni              700 Im F3 V M6 D
+              2024 C765340-6    Lo Ni              700 La F9 D M4 D M5 D
+              2025 AA6A7AB-A    Wa                 411 La F4 V
+              2026 C635341-5    Lo Ni              513 La K2 V
+              2030 B637115-B    Lo Ni              312 Im G9 V M0 D
+              2121 E234765-7                       803 Im M4 V
+              2122 A234410-C  N Ni                 900 Im M0 II
+              2126 E300454-5    Ni Va              902 La M1 V M9 VI
+              2127 C879456-C    Ni                 803 Im F2 D
+              2128 E556512-4    Ag Ni              502 Im G1 V
+              2130 E350346-6    Lo Ni Po De        100 Im G5 D M4 D
+              2223 B100672-D  A Na Ni Va           600 Im G7 III M0 D M1 V
+              2224 C220456-B    Ni Po De           320 Im M2 V
+              2227 B6538AF-7    Po                 713 La M2 V
+              2228 C432769-7  S Na Po              722 Im M1 V M9 D
+Anuza         2229 E251AAD-C    Hi Po              613 Im K6 VI
+              2324 B797210-C  A Lo Ni           A  600 Im F7 D M2 D
+              2326 C587632-6    Ag Ni              304 La G1 V
+              2328 C6837A9-5                       102 Im G1 V
+              2330 E572577-8    Ni                 303 Im F4 D
+Antares       2421 A762ADA-D  A Hi Cx              821 Im M1 Ib A0 VI
+              2422 X550544-0    De Ni Po        R  300 Im K2 V M0 D M7 D
+Ansenz        2425 B547ABB-D    Hi In              403 La G2 V M9 D
+              2426 D785222-4    Lo Ni              803 La F1 D
+              2427 C350533-9    Ni Po De           522 Im G2 D

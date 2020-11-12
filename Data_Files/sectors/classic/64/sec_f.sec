@@ -1,0 +1,68 @@
+@SUB-SECTOR:Sarar  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1516 1816 1 0 11
+$1516 1216 0 0 11
+$1216 0917 0 0 11
+$1216 1115 0 0 11
+$1115 1012 0 0 11
+$1019 1121 0 1 11
+$1019 0917 0 0 11
+$1420 1323 0 1 11
+$1420 1518 0 0 11
+$1518 1816 1 0 11
+$1513 1713 1 0 11
+$1513 1313 0 0 11
+$1313 1012 0 0 11
+$1012 0714 -1 0 11
+$1012 1109 0 -1 11
+$0917 0616 -1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0916 E787897-2    Ri                 404 Im F2 V
+              0917 B230588-E  N Ni Po De           104 Im M0 V M1 D
+              0918 C330321-B  S Lo Ni Po De        513 Im F3 V
+              1012 A110577-F    Ni                 103 Im G1 V M8 D
+              1013 B9A787C-8    Fl                 614 Im G7 D M3 D
+              1014 C868542-A  S Ag Ni              320 Im F4 V M1 D
+              1015 A233676-C    Na Ni Po           313 Im M9 D
+              1017 C995210-7    Lo Ni              803 Im K1 D M9 D
+              1018 C252530-7  S Ni Po              702 Im G1 V M5 D
+              1019 A451575-F    Ni Po              602 Im F0 V
+              1112 A9B8353-F    Lo Ni Fl           600 Im M6 IV
+              1113 B99A266-C  N Lo Ni Wa           205 Im M7 V
+Sarar         1115 B57399C-D  S Hi In              800 Im F3 V
+              1116 B656234-B    Lo Ni              400 Im M7 V
+              1118 E674004-5    Lo Ni              301 Im K2 V M3 D
+              1119 B6578AD-B  W                    220 Im K3 V M7 D
+              1120 C559455-B  S Ni                 803 Im F6 VI
+              1211 EA7A576-9    Ni Wa              904 Im F1 V
+              1215 C56137C-5  S Lo Ni              602 Im F3 D
+              1216 A110558-G    Ni                 421 Im G4 V M7 D
+              1217 E210257-9    Lo Ni              224 Im F4 IV
+              1219 A00088C-F    Na As              110 Im K2 V M7 D
+              1312 B79A457-9    Ni Wa              203 Im M4 V
+              1313 B442122-8  N Lo Ni Po           313 Im F2 V M9 D
+              1315 B1306B8-C    Na Ni Po De        400 Im M0 III M7 D
+              1316 E537652-6    Ni                 504 Im K0 V
+              1317 C776655-9  S Ag Ni              103 Im F1 D M7 D
+              1318 B9C5343-B    Lo Ni Fl        A  412 Im M4 IV M0 D
+Dogd          1412 E4419ED-A    Hi In Po           723 Im F1 D M7 D
+              1413 C000552-B    Ni As              601 Im M1 V M2 D
+              1420 A402464-E  N Ni Va Ic           701 Im K9 IV
+              1511 B7B1476-8  N Ni Fl              613 Im M2 V M2 D
+              1512 C7B4112-8    Lo Ni Fl           812 Im G6 D
+              1513 BAF9386-A  N Lo Ni Fl           804 Im M9 V
+              1515 A474846-C                       800 Im K3 V
+              1516 A68A575-B  S Ni Wa              133 Im F6 D M1 D
+              1517 E672224-7    Lo Ni              310 Im K0 VI M7 D
+              1518 A410777-B    Na                 625 Im M8 VI G5 D
+              1519 A226446-C  N Ni                 600 Im M0 V M6 D
+              1611 B550589-9  N Ni Po De           200 Im K4 VI M6 D
+              1616 B569203-B  N Lo Ni              311 Im K3 V
+              1617 B330488-B  N Ni Po De           401 Im G0 V
+              1618 C400875-B    Na Va              202 Im K3 V M7 D
+              1619 A2547B8-B    Ag                 525 Im F1 V M4 D

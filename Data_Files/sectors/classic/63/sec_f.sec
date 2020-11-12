@@ -1,0 +1,55 @@
+@SUB-SECTOR:Masionia   SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1313 0815 -1 0
+$1313 1511 0 0
+$1511 1408 0 -1
+$1511 1712 1 0
+$1516 1114 0 0
+$1516 1518 0 0
+$1516 1814 1 0
+$1518 1220 0 0
+$1220 1222 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Shiremka      0911 E423521-9    Ni Po              403 Im G7 D
+Kaman         0914 B515034-D  A Lo Ni Ic           623 Im M0 V
+Urlishila     0915 C560867-7    Ri De              104 Im F4 V
+Genkiis       1014 C8B8574-A  S Ni Fl              403 Im M0 V
+Rossing       1016 E6A3363-5    Lo Ni Fl           602 Im K5 III
+Uppe          1018 B685202-E  N Lo Ni              700 Im M8 D
+Andally       1019 E884869-7    Ri                 112 Im F1 D
+Masionia      1114 B130943-C    Hi Na Po De        103 Im K7 D
+Rodhen        1117 D443AB6-D  S Hi In Po           104 Im F8 D M6 D
+Lunmunya      1120 B410444-D    Ni              A  900 Im M5 III
+Arrat         1211 C896334-7    Lo Ni              502 Im F3 D
+Rho Thor      1212 D555567-7  S Ag Ni              900 Im F2 V M7 D
+Hollis        1213 A788555-D    Ag Ni              710 Im G1 V
+Wor           1215 DA89675-5  S Ni Ri              300 Im F2 D M1 D
+Sihrhyto      1216 C876354-9    Lo Ni              805 Im F9 D M0 D
+Gegua         1218 E130553-B    Ni Po De           303 Im K2 V
+Dynam         1219 D788367-7  D Lo Ni              510 Im F7 VI M0 V
+Uo            1220 B000A98-F  A Hi Na In As        114 Im F9 D
+Kuu           1311 A420599-G  N Ni Po De           801 Im K4 V
+Unkhi         1312 B693366-B    Lo Ni              213 Im F1 D
+Dula          1313 A621863-F  S Na Po              904 Im M7 D
+Urenlidle     1315 B445124-E  A Lo Ni              513 Im G9 VI M3 D
+Lorman        1316 C7C5725-A    Fl                 203 Im M4 III
+Khushii Khiib 1317 C254354-B  S Lo Ni              200 Im G9 D M7 D
+Nanze         1415 B210677-9  N Na Ni              302 Im F1 V M3 D
+Hetor         1419 E300368-B    Lo Ni Va           410 Im K2 V
+Lishun        1511 A5858C8-D                       902 Im K0 V
+Khumbaar      1513 B797402-C  N Ni                 802 Im F1 V
+Mula Par      1514 A350243-G    Lo Ni Po De        720 Im K9 D
+Lokita        1515 E528A97-D    Hi In              401 Im M5 D
+Leider        1516 A6898A8-F                       812 Im F1 V
+Ravinanor     1518 B9C69BD-C    Hi Fl              403 Im M0 V
+Desolate      1520 E9D3358-7    Lo Ni Fl           300 Im M9 V M2 D
+Sherli        1611 C448444-7    Ni              A  300 Im G1 VI M5 D
+Nuz           1614 CAEA453-E  S Ni Fl Wa           402 Im M0 V
+Apunkhi       1615 B836275-9  N Lo Ni              422 Im K2 V
+Lacite        1616 B6B2501-F    Ni Fl              625 Im M1 V M7 D
+Syzm          1617 C242543-7    Ni Po              911 Im F2 V

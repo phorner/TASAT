@@ -1,0 +1,55 @@
+@SUB-SECTOR:Dartho  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1804 1603 -1 0 11
+$2406 2308 0 0 11
+$2308 2209 0 0 11
+$2209 2006 0 0 11
+$1808 1911 0 1 11
+$1808 2006 0 0 11
+$2209 2112 0 1 11
+$1808 1509 -1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1701 D340365-4    Lo Ni Po De        800 Cs G9 V M0 D
+Conire        1703 B4349BF-B    Hi                 303 Na G9 D
+              1704 B231230-B    Lo Ni Po           500 Va G6 IV
+              1709 C100565-B    Ni Va              601 Im K3 V
+              1801 XA5A89B-2    Wa              R  202 Cs F9 D
+              1802 B75A659-B    Ni Wa              804 Cs K8 D M5 D
+              1804 B83A421-8  C Ni Wa              102 Va F0 VI
+              1806 C300100-A    Lo Ni Va           615 Im G2 V M6 D
+              1808 A514000-B    Lo Ni Ic Ba        424 Im M5 V
+              1810 B241769-A  W Po                 403 Im G3 D M6 D
+              1903 D452666-2    Ni Po              304 Cs G4 D M5 D
+              1904 E778743-5  C Ag                 504 Va G4 V M7 D
+              1905 C6AA799-A    Fl Wa              924 Im M3 VI M3 D
+              1909 X4588DD-1                    R  814 Im F6 D M3 D
+              1910 E410200-8    Lo Ni              713 Im G5 IV M4 D
+              2001 C506331-9  C Lo Ni Va Ic        403 Va F1 VI M8 D
+              2002 C535100-9    Lo Ni              814 Va K8 V
+              2003 C322556-9    Ni Po              703 Va M2 V
+              2006 B410431-B    Ni                 204 Im K2 V M9 VI
+              2008 C140533-9    Ni Po De           404 Im F1 V
+              2009 X67358B-1    Ni              R  324 Im G0 D
+              2105 D8B6867-5    Fl                 603 Im F2 V
+              2110 C88A585-8  S Ni Wa              604 Im M4 D M3 D
+              2201 B433620-9    Na Ni Po           700 Va M0 V M8 D
+              2207 C6B0120-9    Lo Ni De        A  903 Im K1 V
+Areshu        2209 B130967-F    Hi Na Po De        304 Im F4 V M5 D
+              2210 D472359-6    Lo Ni              704 Im M6 VI
+              2301 E77668A-6  C Ag Ni              105 Va F7 D
+              2303 B666666-5    Ag Ni Ri           300 Va G3 V M5 D
+              2308 A6A6764-D  N Fl                 903 Im G1 V
+              2310 C451588-6    Ni Po              302 Im G3 D
+              2401 B100200-C    Lo Ni Va           702 Na M7 IV
+              2403 D44977C-5                       103 Va G1 D M4 D
+              2404 A120201-D    Lo Ni Po De        404 Va M9 V
+              2405 E87A200-9    Lo Ni Wa           314 Im K7 V
+Githiaski     2406 A789886-C    Lo Ni              830 Im M2 VI
+              2407 D528302-9  S Lo Ni              604 Im M5 V
+              2408 C552112-9  S Lo Ni Po           403 Im G2 VI M5 D
+              2409 D522688-3    Na Ni Po           722 Im K3 V

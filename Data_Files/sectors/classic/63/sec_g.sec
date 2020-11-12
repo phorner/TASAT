@@ -1,0 +1,54 @@
+@SUB-SECTOR:Gama  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1712 1511 -1 0
+$1712 1914 0 0
+$2312 1516 -1 0
+$2312 2415 0 0
+$2415 2516 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Selsho        1711 E4869A6-B    Hi                 410 Im F5 VI
+              1712 C777242-8    Lo Ni              215 Im G1 D
+              1811 D1308BB-A  S Na Po De           603 Im G2 V
+              1813 B9B4630-A  N Ni Fl              400 Im M3 V M8 D
+              1814 A443103-E    Lo Ni Po           501 Im K4 V
+              1815 B586757-C  S Ag Ri              712 Im K5 D M0 D
+              1818 E426354-B    Lo Ni              103 Im M7 V
+              1911 E374694-8    Ag Ni              210 Im K3 V
+              1912 C79478A-A    Ag                 204 Im M0 V
+              1913 C658530-A    Ag Ni              904 Im K9 D M0 D M8 D
+              1914 B8A7879-9  S Fl                 103 Im M5 D
+              1915 C77A536-8    Ni Wa              110 Im F2 V
+              1916 C634466-8  S Ni                 203 Im G1 V
+              1917 D460640-7    Ni Ri De           202 Im G3 V M5 D
+              1919 D311002-6  S Lo Ni Ic           900 Im M4 V
+              2012 E878475-9    Ni                 920 Im G2 V
+              2013 B789866-C    Ri                 200 Im M7 D
+              2016 D676120-6    Lo Ni           A  813 Im K5 D
+              2017 E572565-6    Ni                 200 Im M4 V
+Sharlii       2018 E6769AA-A    Hi In              710 Im F3 V M3 D
+              2111 C543552-9    Ni Po              713 Im G5 D
+              2112 C9C3756-B    Fl                 302 Im M5 III M2 V
+              2113 C748868-A                       705 Im G0 D
+              2119 C150201-B    Lo Ni Po De        304 Im G9 V
+              2120 E9AA105-B    Lo Ni Fl Wa        900 Im K4 V
+Morin         2211 E85AAAC-9    Hi Wa              904 Im G3 V
+              2213 E97A430-A    Ni Wa              820 Im G3 V
+              2216 B476365-D  N Lo Ni              704 Im F3 V M3 D
+              2220 D468542-6    Ag Ni              614 Im F1 V M3 D
+              2312 A400300-E  N Lo Ni Va           204 Im K8 V
+              2313 B231510-A    Ni Po              100 Im M0 V M4 D
+              2314 E536446-7    Ni                 804 Im F0 V
+              2316 E86A252-9    Lo Ni Wa           910 Im F1 D
+              2320 B644369-D    Lo Ni              800 Im F5 VI
+              2411 B785015-9    Lo Ni              415 Im K6 V
+              2413 B1307BB-F    Na Po De           310 Im G3 V M1 D
+              2415 C753889-9  S Po                 103 Im F8 D M3 D
+              2417 E200645-8    Na Ni Va           510 Im K3 V M0 D
+              2418 E362867-6    Ri                 824 Im F8 D
+              2419 B693587-A  S Ni                 100 Im F3 V M4 D
+              2420 B200557-F    Ni Va              903 Im M1 IV M2 D

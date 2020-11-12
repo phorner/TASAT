@@ -1,0 +1,62 @@
+@SUB-SECTOR:Sakhag  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2235 2634 1 0 11
+$2235 1935 0 0 11
+$1935 1932 0 0 11
+$1932 2030 0 -1 11
+$1935 1635 -1 0 11
+$2040 2138 0 0 11
+$1935 2138 0 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 C8A5532-9  S Ni Fl              922 Im M8 V M7 D
+              1732 B544100-D  S Lo Ni              502 Im F6 VI
+              1733 C548465-8    Ni                 500 Im G3 V M6 D
+              1734 A766245-9  A Lo Ni              702 Im F9 V M7 D
+              1735 A886596-9    Ag Ni              403 Im G6 D M5 D
+              1736 D412435-6  S Ni Ic              724 Im G1 VI
+              1737 X637411-5    Ni              R  103 Im M3 IV M1 D
+              1738 A000630-B  N Na Ni As           721 Im M2 V M0 D
+              1833 D224254-7    Lo Ni              402 Im M9 V K6 D
+              1834 E374269-9    Lo Ni              800 Im F1 D
+              1835 A460666-9  N Ni Ri De           425 Im G3 V
+              1837 C552425-A  S Ni Po              503 Im K0 D M0 D
+              1838 B689010-8    Lo Ni              221 Im F8 D
+Sort          1839 E6259AB-A    Hi In              803 Im K2 V
+              1840 C644116-A  S Lo Ni              704 Im M4 D
+              1931 C524500-C    Ni                 202 Im M7 III
+              1932 A897554-A  N Ag Ni              305 Im F4 VI M2 D
+              1933 B243657-B    Ni Po              204 Im G9 D
+              1935 A222423-F    Ni Po              715 Im A5 IV
+              1936 C513215-7  S Lo Ni Ic           903 Im M0 V
+              1937 A25359A-F    Ni Po              402 Im G4 V M9 D
+              1939 E597556-6    Ag Ni              204 Im K4 D M1 D
+              2031 C626534-9    Ni                 500 Im M1 V M2 D
+              2038 B565553-8    Ag Ni              113 Im G3 V
+              2039 B7545A9-A    Ag Ni              304 Im F0 D
+              2040 A6368BG-E                       820 Im K8 D
+              2131 E8C4420-6    Ni Fl              800 Im K0 V
+              2133 C479534-8  S Ni                 313 Im F4 VI
+              2134 B230668-C    Na Ni Po De        101 Im K0 V
+              2137 B7A6544-A  N Ni Fl              433 Im M0 V
+              2138 B5957CB-B    Ag                 924 Im G3 V M7 D
+              2235 A657532-C  N Ag Ni              703 Im K9 D M0 D
+              2237 B4767AB-8  N Ag                 503 Im F8 D M8 D
+              2238 B435624-8  N Ni                 902 Im M1 V M5 V
+              2239 E400344-5    Lo Ni Va           710 Im K1 V M7 D
+              2240 C762442-6    Ni                 902 Im G7 D M5 D
+              2331 C332856-C  S Na Po              502 Im G3 V M4 D
+              2332 B231578-E    Ni Po              312 Im A3 V F7 D
+              2336 B647564-9  N Ag Ni              704 Im F3 D
+              2339 C33346A-B  S Ni Po              401 Im M4 V
+              2432 D465677-6    Ag Ni Ri           211 Im G2 V
+              2434 E696265-7    Lo Ni              120 Im F3 V
+              2435 C7C477B-9    Fl                 113 Im K3 V
+              2436 C454796-6    Ag                 803 Im F4 D
+              2438 X749663-1    Ni              R  624 Im M3 V M6 D
+Newsi         2439 E523976-A    Hi Na In Po        714 Im K5 D
+              2440 C778004-A    Lo Ni              503 Im F9 D

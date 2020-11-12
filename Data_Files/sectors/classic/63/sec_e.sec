@@ -1,0 +1,53 @@
+@SUB-SECTOR:Pryden   SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0111 2912 -1 0
+$0118 3117 -1 0
+$0111 0309 0 -1
+$0118 0316 0 0
+$0316 0616 0 0
+$0616 0815 0 0
+$0815 1114 1 0
+$0616 0719 0 0
+$0719 0621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0111 A569359-D    Lo Ni              613 Im M2 V
+Vakada        0112 B100000-D  S Lo Ni Va Ba        610 Im M9 V
+              0116 B410100-B  N Lo Ni              201 Im G8 V
+              0117 B675335-A    Lo Ni              902 Im F1 D M4 D
+              0118 A310411-F    Ni                 701 Im M5 VI M8 D
+              0119 B420535-A  S Ni Po De           704 Im M1 V M4 D
+Zemud         0212 B6868BC-7  S                    501 Im K3 D
+Kaso          0214 B200951-F    Hi Na In Va        304 Im G3 D
+              0217 C22179B-8    Na Po              103 Im K3 V M6 D
+              0218 C8B7100-D  S Lo Ni Fl           821 Im M2 III
+              0311 A87A79B-C    Wa                 714 Im G4 V
+Hrun          0312 C5169C7-D  S Hi In Ic           913 Im K3 VI
+              0315 C758757-6    Ag                 900 Im G3 VI
+Pryden        0316 A75A956-F  N Hi Wa              702 Im F3 V
+              0317 E458673-7    Ag Ni              504 Im K0 V M6 D M1 D
+              0318 B350886-C  N Po De              712 Im G9 D M3 D
+              0411 B6A587A-B    Fl              A  200 Im M4 V M5 D M7 D
+Olny          0412 A569964-F    Hi                 214 Im G4 V M6 D
+              0414 A000743-F  N Na As              610 Im F1 V
+              0417 B543324-C  S Lo Ni Po           703 Im K0 D
+              0420 D645623-8    Ag Ni              904 Im F0 V M9 D
+              0513 C536333-A  S Lo Ni              800 Im M7 V
+              0516 C88A69A-7    Ni Ri Wa           604 Im F5 D M6 D
+Haraffii      0517 C00098C-F    Hi Na In As        413 Im G7 VI
+              0519 E666200-8    Lo Ni              901 Im K0 D M7 D
+              0612 C595575-9  S Ag Ni           A  500 Im K3 V M6 D M1 D
+              0614 D120862-8  S Na Po De           702 Im F7 D M3 D M2 D
+              0616 A655742-E  N Ag                 405 Im F1 V M4 D
+              0711 D8A6203-8  S Lo Ni Fl           610 Im M2 V
+              0712 B6A6764-C  N Fl                 522 Im K4 V M2 D
+              0713 E451588-5    Ni Po              304 Im F5 D M1 D
+              0714 B327634-9    Ni                 404 Im M4 V
+              0719 B458654-A  N Ag Ni              802 Im F1 D M0 D M0 D
+              0815 C454510-C  S Ag Ni              300 Im G4 V
+              0816 C100740-B  S Na Va              404 Im M4 V M4 V
+              0819 E978757-8    Ag                 403 Im G8 VI M9 D

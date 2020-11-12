@@ -1,0 +1,52 @@
+@SUB-SECTOR:Sotri   SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2107 1609 -1 0
+$2107 2309 0 0
+$2309 2509 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1705 EA9A662-7    Ni Wa              405 Im F4 V M8 D
+              1801 E443479-7  C Ni Po           A  410 Va K1 V M7 D
+              1802 C556457-6  C Ni                 700 Va F2 D M0 D
+              1803 B8476A6-A    Ag Ni              513 Va F1 V M8 D
+Ushanghi      1804 E7A8998-9    Hi Fl              125 Na G7 D M5 D
+              1805 B233574-F    Ni Po              402 Im K1 V M5 D
+              1810 B500875-B  S Na Va              823 Im G3 V
+              1902 D534544-6    Ni                 404 Na M0 II M7 D
+              1907 E9D5769-4    Fl              A  403 Im M3 V
+              1908 A37346B-F  N Ni                 423 Im G3 V M2 D
+              1909 C558541-A  S Ag Ni              100 Im F0 V
+              1910 B400444-C    Ni Va              705 Im K4 V M9 D
+              2002 A488431-C  N Ni                 700 Cs F1 V
+              2003 E210642-6    Na Ni              834 Na M1 V M8 D
+              2004 E769499-7  C Ni                 304 Va F8 D M4 D
+              2007 BAC3544-E  S Ni Fl              913 Im M0 V
+              2008 C789356-B  S Lo Ni              200 Im G1 D
+              2009 C764666-6    Ag Ni Ri           702 Im M2 V M3 D
+              2010 E649477-5    Ni                 604 Im F5 D M7 D
+              2104 B837323-9    Lo Ni              400 Va M9 V
+              2105 C978405-7  S Ni                 312 Im G0 V M2 D
+Thopoc        2106 E110977-D    Hi Na In           711 Im G0 V
+              2107 A665667-E  N Ag Ni Ri           501 Im G8 D M7 D
+              2108 D8687BE-4  S Ag                 413 Im G3 D M0 D
+              2109 E300663-5    Na Ni Va           602 Im K4 V M4 D
+              2203 A535100-E    Lo Ni              102 Va M5 V M6 D
+              2207 A758695-E  N Ag Ni              203 Im F2 D
+              2208 C231487-C    Ni Po              503 Im G4 V
+              2209 E31059A-9    Ni                 724 Im M1 V M2 D
+              2301 C74A689-5    Ni Wa              903 Cs G0 D
+              2302 B201487-8    Ni Va Ic           704 Na M3 V
+              2306 C3427BA-7  S Po                 524 Im F8 D
+Jagd          2307 C110655-A    Na Ni           A  304 Im M5 III
+Sotri         2309 B6739CD-E  S Hi In              212 Im F3 V
+              2401 E565754-4  C Ag Ri              102 Va F1 V M2 D
+              2404 C481787-6    Ri                 422 Cs G0 D
+              2406 D674655-6    Ag Ni              800 Im F5 D M4 D
+              2407 B3037A9-D  N Na Va Ic           810 Im K1 IV M8 D
+              2408 C96A324-B    Lo Ni Wa           800 Im K9 D
+              2409 E9D5433-8    Ni Fl              602 Im M6 IV
+              2410 B7A9102-E  N Lo Ni Fl           613 Im M3 V M8 D

@@ -1,0 +1,52 @@
+@SUB-SECTOR:Strashna  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1932 1631 -1 0
+$1932 1730 0 -1
+$1932 2133 0 0
+$2133 2333 0 0
+$2333 2534 1 0
+$2133 2036 0 0
+$2036 2040 0 0
+$2040 2240 0 0
+$2040 2101 0 1
+$2240 2101 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1733 B764100-C  S Lo Ni              213 Im F0 D M0 D
+              1735 B342389-E  N Lo Ni Po           200 Im F8 V M6 D
+Feldon        1831 C9889DC-9    Hi                 320 Im F2 V M3 D
+              1832 B352646-8  S Ni Po              615 Im F7 VI
+              1834 E232442-6    Ni Po              710 Im M2 V M3 D
+              1835 B555526-D    Ag Ni              803 Im F1 D M0 D
+              1836 E685512-6    Ag Ni              804 Im K0 V
+              1837 D400102-9  S Lo Ni Va           504 Im K8 IV M1 D
+Xagra         1932 C400AAB-F  S Hi Na In Va        704 Im M4 VI
+              1934 B788633-C  A Ag Ni              922 Im F3 D
+              1935 E526410-9    Ni                 420 Im A2 V
+              1936 C53A88B-A  S Wa                 503 Im F5 D
+              1939 D776448-9  S Ni                 322 Im G8 D M3 D
+              2032 C88A630-9  S Ni Wa              504 Im K4 VI
+              2033 B431479-D  N Ni Po              200 Im G4 V
+              2036 A747772-9  S Ag                 703 Im F2 V
+              2037 E362420-6    Ni                 412 Im F0 V M0 D
+              2038 B556799-A  N Ag                 824 Im F1 V
+              2039 C546542-9    Ag Ni              204 Im M8 D M7 D
+              2040 A524577-B  N Ni                 124 Im K1 V
+              2133 A110868-D  N Na                 904 Im K4 D M2 D
+              2140 BAD7220-9    Lo Ni Fl           404 Im M8 IV M8 VI
+              2232 E11059A-7    Ni                 404 Im G8 VI
+              2235 D95A69A-8    Ni Wa              102 Im F5 VI
+Strashna      2236 B57898B-E    Hi In              700 Im F6 D M8 D M3 D
+              2240 A86A447-E    Ni Wa              102 Im F2 V
+              2333 A360754-E    Ri De           A  312 Im M9 D
+              2336 D348546-5  S Ag Ni              311 Im G2 V M3 D
+              2338 B130405-F    Ni Po De           210 Im K4 V M9 VI
+Urgishi       2340 D85A999-9  S Hi Wa              322 Im F7 D
+              2432 C879354-9  S Lo Ni              204 Im K7 V M9 D
+              2434 C223400-9    Ni Po              510 Im K1 VI
+              2435 E74676A-3    Ag                 404 Im G0 D
+              2439 E51478B-8    Ic                 300 Im G0 V

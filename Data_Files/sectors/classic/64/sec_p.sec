@@ -1,0 +1,45 @@
+@SUB-SECTOR:Celebes  SECTOR:Antares
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3139 0338 1 0 11
+$3139 2940 0 0 11
+$2940 2638 0 0 11
+$2638 2634 0 0 11
+$2634 2935 0 0 11
+$2634 2235 -1 0 11
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2535 A510113-C    Lo Ni              302 Im K8 V
+              2536 B333432-E  N Ni Po              604 Im M0 V
+              2537 B610646-8    Na Ni              803 Im M7 IV M4 D
+              2538 CAC3303-C    Lo Ni Fl           310 Im A2 V M2 D K3 D
+              2631 C464310-7  S Lo Ni              725 Im G8 D
+              2634 A99A8BE-E    Wa                 420 Im F1 D M8 D
+Ghou          2635 C554A74-8    Hi                 934 Im F3 VI M8 D
+              2637 B463005-B    Lo Ni              204 Im M8 D
+              2638 A8AA7BD-F  W Fl Wa              205 Im K0 VI
+              2639 E200445-8    Ni Va              304 Im M1 V M5 D
+              2734 X3228A5-2    Na Po           R  802 Im F6 VI M5 D
+              2736 E755255-6    Lo Ni              112 Im G5 V M9 D
+              2739 C583543-9  S Ni                 514 Im K4 V
+              2740 A7B3123-B    Lo Ni Fl           110 Im G7 V
+              2833 E994411-8    Ni                 305 Im G0 D M8 D
+              2835 D765100-6  S Lo Ni              823 Im M8 D M5 D
+Korparov      2840 B8B0A74-C    Hi De              600 Im F9 D
+              2932 D262545-7  S Ni                 510 Im F1 VI
+              2933 E000266-8    Lo Ni As           404 Im M3 D M5 D
+              2935 B140547-B    Ni Po De           404 Im F9 D
+              2938 B6657CA-7  N Ag                 604 Im G3 VI M3 D
+              2940 A7B1365-A  A Lo Ni Fl           804 Im K0 V
+              3031 C748127-8  S Lo Ni              823 Im K9 V
+              3033 C444778-6    Ag                 413 Im K3 V M2 D
+              3037 B632335-A  N Lo Ni Po           103 Im K5 V
+              3038 B6B5533-A    Ni Fl              722 Im M5 II M1 D
+              3131 X768774-1    Ag Ri           R  323 Im G4 D M3 D M6 D
+              3135 C777200-A  S Lo Ni              813 Im G6 V M4 D
+Dini          3139 C382999-C    Hi                 113 Im F6 D M5 D
+              3235 B99A79D-9    Wa                 432 Im F9 VI
+              3237 D667300-7    Lo Ni              804 Im F5 D M0 D

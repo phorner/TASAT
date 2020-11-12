@@ -1,0 +1,55 @@
+@SUB-SECTOR:Shuna   SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0227 3224 -1 0
+$0227 0331 0 1
+$0227 0427 0 0
+$0427 0626 0 0
+$0626 0927 1 0
+$0626 0725 0 0
+$0725 0622 0 0
+$0622 0621 0 0
+$0621 0719 0 -1
+$0621 0922 1 0
+$0830 0431 0 1
+$0830 1033 1 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Asli          0121 C000761-D  S Na As              903 Im M1 V M6 D
+Base Two      0122 D584357-7  S Lo Ni              603 Im G9 V M1 D
+Inru          0124 C425553-9    Ni                 203 Im K0 V M7 D
+Kiur          0125 B9C57BB-D    Fl                 614 Im K1 VI
+Kasha         0128 E343456-9    Ni Po              621 Im G0 D M4 D
+Voyd          0130 C4249D8-C    Hi In              102 Im F9 D M7 D
+Parshi        0221 B000753-F  N Na As              703 Im K3 V
+Liiar         0222 C677642-9    Ag Ni              111 Im F0 V
+Urdiki        0223 E59988C-8                       510 Im F2 D
+Shuna         0227 A385A98-G  A Hi                 812 Im G5 V M4 D
+Ungik         0228 B865130-8    Lo Ni              113 Im M3 VI
+Shela         0321 B4248BD-E                       202 Im G2 V M3 D
+Irmen         0427 A623541-E    Ni Po              600 Im G7 II
+Amsa          0429 B220310-B    Lo Ni Po De        210 Im M4 IV
+Mudliru       0526 BAE2353-C    Lo Ni Fl           600 Im M2 V M8 D
+Kipaar        0527 B000520-E  N Ni As              803 Im M7 VI
+Surli         0529 D000853-7  S Na As              413 Im G4 D M7 D
+Biaz Ven      0530 C445AB6-F  S Hi In              222 Im K2 V M9 D
+Kaliid        0621 A786131-F    Lo Ni              324 Im K7 VI
+Enmish        0622 B613453-B  N Ni Ic              403 Im M9 D G5 D
+Girshi        0623 C57559C-6    Ag Ni              800 Im K0 V
+Shaiga        0625 B885453-D  S Ni                 910 Im G9 D
+Iksha         0626 A300799-F  N Na Va              800 Im K4 V
+Dudmaak       0628 D360431-9    Ni De              903 Im G3 D M8 D
+Tonnes        0722 D897ABC-C  S Hi In              500 Im G6 D M9 D
+Ixteline      0723 D524A84-D  S Hi In              210 Im G9 D M5 D
+Adli          0725 B657332-D  N Lo Ni              402 Im K6 D
+Agada         0726 B402400-B    Ni Va Ic           600 Im K2 III
+Shuka Gipdim  0728 A370575-E  N Ni De              103 Im F3 V
+Unkurshu      0729 E46165A-9    Ni Ri              821 Im K8 VI M5 D
+Iskar         0730 D351645-4  S Ni Po              222 Im F1 VI M4 D
+Mashnamii     0826 EA9A479-5    Ni Wa              720 Im K7 D
+Asduad        0827 B768232-9    Lo Ni              923 Im F2 V
+Khikaba       0829 C524869-A                       700 Im K5 D M6 D
+Aspiar        0830 B547345-C  A Lo Ni              714 Im G0 D M0 D
