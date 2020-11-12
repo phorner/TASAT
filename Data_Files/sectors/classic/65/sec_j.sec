@@ -1,0 +1,27 @@
+@SUB-SECTOR:Tsuchida  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1230 1233 0 1
+$1328 1230 0 0
+$1328 1529 0 0
+$1529 1930 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1030 C8B47A9-4    Fl              A  304 Im K7 V
+              1129 A210522-C    Ni                 404 Im G9 V M7 D
+              1130 D648443-5  S Ni                 310 Im M3 VI M3 D
+              1228 B774567-B    Ag Ni              523 Im M5 VI
+              1229 C7C3874-6  S Fl                 805 Im B5 V M4 D
+              1230 A757744-7    Ag                 702 Im M2 II
+              1326 B433214-A    Lo Ni Po           510 Im M3 V
+              1328 A420432-F    Ni Po De           803 Im M3 V M3 D
+              1329 C443320-6    Lo Ni Po           823 Im K1 V M8 D
+              1427 B84A212-8    Lo Ni Wa           603 Im G5 V
+              1429 C586203-7    Lo Ni              603 Im F9 VI
+              1430 E8A6563-6    Ni Fl              804 Im M7 V
+              1527 A784334-8    Lo Ni              914 Im M0 V M0 D
+              1529 B140644-8    Ni Po De           905 Im M5 V
+              1530 E338686-8    Ni                 214 Im M4 1a M4 D

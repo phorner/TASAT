@@ -1,0 +1,47 @@
+@SUB-SECTOR:Tairtsu  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1233 0834 -1 0
+$1233 1230 0 -1
+$1139 1235 0 0
+$1235 1233 0 0
+$1139 1540 0 0
+$1540 1738 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0931 A889425-A  N Ni                 103 Im M3 V M9 D
+              0932 C868000-7    Ba                 511 Im K1 V M2 D
+              0936 D401598-8  S Ic Ni Va        R  311 Im M5 V M8 D
+              0940 E4537A9-5    Po              A  330 Im K1 V
+              1031 C86A578-9  S Ni Wa              604 Im K3 V
+              1035 AAC8458-B    Fl Ni           R  413 Im M7 V
+              1036 C462226-7    Lo Ni              224 Im M6 IV M6 D
+              1037 B7B7349-7    Fl Lo Ni           400 Im M4 V M4 V
+              1038 CAA7441-8    Fl Ni              114 Im M6 V M5 D
+              1039 E645442-5    Ni                 704 Im M0 V
+              1040 C140201-6    De Lo Ni Po        900 Im M0 V
+              1133 A773878-A                    A  520 Im M3 V M6 D
+              1137 C459156-6    Lo Ni              702 Im M9 III
+              1139 A685655-9    Ag Ni Ri           401 Im A3 V
+Lazisar       1233 B210974-9  N Hi In Na           512 Im M4 III
+              1235 A337441-A    Ni              A  204 Im K6 V        
+              1236 C774000-8    Ba                 400 Im K5 V
+              1237 C1106BG-8    Na Ni           A  604 Im M3 V M8 D K1 D
+              1238 C86778B-7    Ag Ri              913 Im M8 V M6 D
+              1239 B140778-9    De Po              402 Im G8 V M7 D
+              1331 A9C1364-A    Fl Lo Ni           403 Im K6 V M4 D
+              1332 D410754-7    Na              A  624 Im G8 V
+              1337 C1408AA-8    De Po              100 Im K4 V M4 D
+Gimushi       1431 D54AAA9-8    Hi In Wa           124 Im K8 V
+              1436 B200685-6    Na Ni Va           615 Im M6 V M6 D
+              1531 C221032-7    Po                 604 Im M9 V
+              1533 B677666-6    Ag Ni              804 Im M1 IV
+Pamushgar     1537 C6A2986-6    Fl Hi              202 Im M8 V
+              1539 E57468C-5    Ag Ni              603 Im M0 V
+              1540 B7A3478-9    Fl Ni              522 Im M0 VI M0 D
+              1631 B545422-7    Ni              A  312 Im G2 V
+              1633 C472564-6    Ni                 703 Im G8 V
+              1635 B230666-7    De Na Ni Po        302 Im K1 V M1 D

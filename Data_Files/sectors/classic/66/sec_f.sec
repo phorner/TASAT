@@ -1,0 +1,14 @@
+@SUB-SECTOR:Five Systems SECTOR:Star's End
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khirarma      0911 E77A123-6  S Lo Wa              603 Jp 
+Maaguukud     1111 C577644-A    Ba Lo              601 Jp   
+Akingip       1113 E422342-B  N Lo                 110 Jp   
+Alaga         1211 C364854-6                       923 Jp   
+Dulikanmuu    1212 B523887-9                       404 Jp   

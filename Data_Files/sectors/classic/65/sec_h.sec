@@ -1,0 +1,31 @@
+@SUB-SECTOR:Nisaga  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3012 2810 0 -1
+$3012 3116 0 0
+$3116 0316 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2511 C440562-8    De Ni Po           104 Hl M7 V M3 D
+              2516 C2356A7-7    Ni                 514 Hl M2 V
+              2612 B7B0547-6    De Ni              502 Hl M7 V
+              2615 D7A216A-7    Fl Lo Ni           805 Hl M3 VI
+              2618 D410774-4    Na                 504 Na M2 IV
+              2816 E000248-8    As Lo Ni        A  510 Hl M1 V
+              2817 D3105A7-8    Ni                 214 Hl M3 V M3 D
+              2911 E000000-8    As Ba           A  512 Hl M5 V
+              2913 C3418AB-5    Po              A  903 Hl M0 IV
+              2914 D89A79C-6    Wa                 403 Hl K5 V
+              2919 B7796BG-8    Ni                 203 Hl A2 IV M2 D
+              3012 B663400-B    Ni                 304 Na G3 V
+              3020 CAB3110-8    Fl Lo Ni           200 Hl K5 V M5 VI
+              3112 B33399A-B    Na Po              703 Hl K6 V
+Nisaga        3116 A6699CH-B    Ri Hi           A  413 Hl G8 IV
+              3117 BAC5568-A    Fl Ni              502 Hl A8 V
+              3211 C6686BB-6  S Ag Ni              820 Hl K5 V M8 D
+              3212 C9A2203-9    Fl Lo Ni           701 Hl K3 V
+              3216 C9A8612-6    Fl Ni              614 Hl K9 V
+              3219 C3318AE-6    Na Po           R  704 Hl M4 II

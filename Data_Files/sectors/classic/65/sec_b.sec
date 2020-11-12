@@ -1,0 +1,44 @@
+@SUB-SECTOR:Daskomo SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1004 0705 -1 0
+$1004 1303 0 0
+$1303 1602 0 0
+$1602 1704 1 0
+$1004 1206 0 0
+$1206 1608 0 0
+$1608 1411 0 1
+$1608 2009 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0903 C8A6303-A    Fl Lo Ni        A  703 Jr M4 V M8 D M2 D
+              0905 C63479B-5                       202 Jr K5 V
+              0906 B528578-7    Ni                 200 Jr M4 V M4 D
+              0907 C6328DD-3    Na Po              600 Jr M7 V M7 D
+              1003 C62A563-9    Ni Wa           A  305 Jr M8 VI
+              1004 B300430-A    Ni Va              701 Jr A1 II G1 D
+              1103 C5358CA-3                       614 Jr M3 V
+              1105 B655765-5    Ag                 512 Jr M2 V M2 D
+              1106 A87A323-9    Lo Ni Wa           303 Na M4 IV
+              1107 D44778A-3    Ag                 603 Jr M8 VI
+              1109 D735445-7    Ni                 203 Na K3 V M9 D
+              1110 E7A6752-8    Fl                 702 Jr K9 D M9 D
+              1205 B78A101-D    Lo Ni Wa           720 Jr M1 V
+              1206 A486799-A    Ag Ri              703 Jr M8 V
+              1208 X787896-0    Ri              R  213 Jr G6 V M2 D
+              1301 B97A475-C    Ni Wa           A  412 Jr M7 V
+              1303 C210122-7    Lo Ni              325 Jr M7 V K7 D
+              1306 D573776-5                       603 Na M0 V
+              1307 A787200-C    Lo Ni           A  405 Na K0 V
+              1308 D797436-5    Ni              A  413 Jr G7 V M3 D
+              1309 C574574-7    Ag Ni              504 Na K7 V M2 D
+              1408 C51067A-3    De Na Ni           301 Jr K6 VI
+              1501 B100000-D    Ba Va              403 Na G3 V
+              1510 C76A457-8    Ni Wa              904 Na M3 VI M7 D
+              1601 EAC8536-2    Fl Ni              814 Na M6 V M6 D
+              1602 A5637AB-6                       215 Na G8 IV M4 VI
+              1608 B300325-9    Lo Ni Va        A  510 Na M5 III
+              1609 C7A4454-9    Fl Ni              404 Cs M9 V M4 D

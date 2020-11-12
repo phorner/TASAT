@@ -1,0 +1,23 @@
+@SUB-SECTOR:Cotan  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1811 C785459-7    Ni                 601 Cs M6 VI K6 D
+              1816 B100511-C    Ni Va              204 Na K7 V M9 D
+              1911 C88859B-8    Ag Ni              210 Hl G3 V
+              1913 C573330-4    Lo Ni              401 Na K0 IV
+              2016 A648679-6    Ag Ni              204 Im M3 V M0 D
+              2111 E679633-6    Ni                 804 Cs M8 V M8 D
+              2113 A1019CE-E    Hi In Na Va Ic     900 Cs G0 V
+Cotan         2212 C4289AG-A    Hi In              313 Hl M2 V M4 D
+              2313 C98A8A9-5    Wa              R  621 Hl M5 III M5 V
+              2314 D87369E-7    Ni                 324 Hl M6 VI M2 D
+              2316 X410779-2    Na              R  724 Hl G4 V M1 D
+              2411 D5698DG-6                       905 Hl K7 IV
+              2412 C3118AE-8    Na              A  701 Hl G3 V M6 D
+              2413 B5265AF-7    Ni              A  505 Hl M1 IV M1 D

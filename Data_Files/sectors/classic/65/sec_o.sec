@@ -1,0 +1,36 @@
+@SUB-SECTOR:Irash   SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1738 1540 -1 0
+$1738 2036 0 0
+$2036 2134 0 0
+$2134 2331 0 0
+$2331 1930 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 B424521-9    Ni                 404 Im K9 V
+              1733 C24458C-8    Ag Ni           A  603 Im M6 V
+              1734 E412365-7    Ic Lo Ni           415 Im M7 V
+              1737 C644697-2    Ag Ni              303 Im M5 V
+              1738 A434877-B                    A  405 Im M0 V M0 D
+              1831 E529555-6    Ni                 905 Im K5 V
+              1833 D445421-4    Ni                 803 Im M8 V M8 D
+              1836 B51068B-9    Na Ni           A  900 Im M7 V
+Belumar       1838 E646999-3    Hi In              200 Im G2 V
+              1932 E201310-6    Ic Lo Ni Va        224 Im A7 IV M7 D
+              1934 E420100-4    De Lo Ni Po        232 Im M2 V M2 D
+              1937 E68A664-2    Ni Wa Ri           504 Im G7 II M8 D
+              2032 B000405-C  N As Ni              603 Im M3 V
+Irash         2036 C579A98-7    Hi In           A  201 Im M8 VI
+              2037 E783335-5    Lo Ni              703 Im M2 V
+              2038 B211101-8    Lo Ni              300 Im M3 IV M3 D
+              2039 D4697B9-6                    A  702 Im M2 II M2 D
+              2134 B434721-6                       800 Im G9 V
+              2138 C642786-7    Po                 115 Im A7 V
+              2237 A7836BE-7    Ni                 413 Im K4 V
+              2331 A234210-A    Lo Ni Rs           100 Im M6 V
+              2431 C300757-8    Na Va              722 Im M5 VI
+              2434 A000110-B    As Lo Ni           201 Im M4 V

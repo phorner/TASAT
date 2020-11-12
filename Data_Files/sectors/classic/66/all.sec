@@ -1,0 +1,164 @@
+@SECTOR:Star's End
+#
+#Source: Core [http://members.nova.org/~sol/core/]
+#  
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------            
+#              
+#              
+Akhaka        0101 B584675-A  N Ag                 300 Jp  
+Kakunasgup    0102 C524314-B    Lo                 404 Jp  
+Umpagu        0104 X432000-0    Ba Lo              004 Jp 
+Ikakaddu      0112 B5759C9-C  N Hi                 114 Jp 
+Dekulini      0113 D551653-5                       401 Jp  
+Suugirumir    0116 B674544-B    Ag                 613 Jp  
+Iigigsu       0201 A484438-E                       803 Jp  
+Kagag         0205 CAB7440-9  S Fl                 600 Jp 
+Khaka         0208 C667A48-A    Hi                 114 Jp  
+Ishgadugis    0209 E9B45BA-B    Fl                 304 Jp  
+Gakenud       0213 C401412-B  S Ic Va              504 Jp  
+Uushakinkush  0216 E230313-A    De Lo              521 Jp  
+Gashuukhe     0309 A246686-C    Ag                 312 Jp 
+Lekha         0311 A6A1667-7    Fl                 910 Jp  
+Tovo          0315 B7A0468-7  N De Lo              203 JP
+Ir            0316 AA89ACG-F    Hi                 724 Jp  
+Kargumar      0401 C682100-6    Lo                 924 Jp  
+Kumguulusjp   0404 B556845-B    Ag Ni              514 Hl  
+Guukiinmile   0406 A97899C-B    Hi                 100 Jp 
+Legumenkig    0408 A444ABA-C  N Hi                 923 Jp 
+Dikemu        0409 X150000-0    Ba De Lo           004 Jp  
+Geshiimudush  0413 E612300-9    Ic Lo              515 Jp  
+Adurnii       0509 C685440-5                       724 Jp  
+Esherkhesh    0510 C57379A-8                       604 Jp 
+Andorin       0511 X999000-0  S Ba Lo              022 Jp  
+Adishka       0513 X320000-0    Ba De Lo           003 Jp  
+Untouchable   0601 X000000-0    As Ba Lo An      R 001 Jp 
+Liigagidii    0603 C596653-8    Ag                 503 Jp  
+Luzumam       0605 X500000-0    Ba Lo Va           003 Jp  
+Kagiirze      0606 E346400-3                       220 Jp  
+Sukiirusidar  0607 E411325-9    Ic Lo              313 Jp  
+Kushuni       0610 C538200-7    Lo                 104 Jp  
+Kiimshamiir   0613 A532ABC-D    Hi                 722 Jp  
+Amarga        0614 B475767-6    Ag                 903 Jp  
+Liniilir      0615 E582576-6                       603 Jp  
+Zeshkha       0624 X766000-0    Ba Lo              013 Na  
+Gamushii      0703 C643222-5    Lo                 403 Jp  
+Ugirum        0706 BA889C9-B    Hi                 401 Jp  
+Giikiikhir    0710 B597563-7  N Ag                 701 Jp  
+Gugiim        0713 C6757AA-A    Ag                 810 Jp 
+Ikamki        0806 A85AA84-D  S Hi Wa              502 JP
+Shikhiniluu   0807 X000000-0    As Ba Lo           011 Jp  
+Khurlazer     0814 B757410-7                       215 JP
+Arimiresh     0815 E578358-6    Lo                 902 JP
+Umluushur     0821 X583000-0    Ba Lo              033 Na  
+Pashirshilir  0901 E77A468-8    Wa                 913 Jp 
+Luke          0907 X413000-0    Ba Ic Lo           003 Jp  
+Khirarma      0911 E77A123-6  S Lo Wa              603 Jp 
+!!rrarii      0933 A9DAA84-E  N Hi Wa              212 Na  
+Kedepar       1005 A865947-D    Hi                 411 Jp 
+Asjp/Hlii     1009 E110100-9    Lo                 404 Hl  
+Gumnima       1101 X424000-0    Ba Lo              003 Jp  
+Numkii        1103 C55669B-6  N Ag                 124 Jp  
+Argime        1105 X100000-0    Ba Lo Va           004 JP
+Na            1106 X300000-0    Ba Lo Va           012 Jp   
+Lelinakuukha  1109 B536526-9  N                    512 Jp   
+Maaguukud     1111 C577644-A    Ba Lo              601 Jp   
+Akingip       1113 E422342-B  N Lo                 110 Jp   
+Niirp'tki     1132 C38299C-8    Hi                 601 Na  
+K'lka         1137 D332100-7  S Lo                 605 KC  
+Kereerrkar    1139 A656587-D    Ag                 600 KC  
+Nasimakdi     1202 C383443-9                       803 Jp   
+Egasirke      1204 C7486AA-8    Ag                 211 Jp   
+Eshirlaziim   1205 D543514-A                       304 Jp   
+Alaga         1211 C364854-6                       923 Jp   
+Dulikanmuu    1212 B523887-9                       404 Jp   
+Gnir          1233 A758A9C-B    Hi                 101 KC  
+Ruuirakr      1235 X200000-0    Ba Lo Va           001 KC  
+Urgesimmiku   1306 D553421-2  S                    414 Jp   
+Shadsugsa     1308 E579333-6    Lo                 800 Jp   
+Gakhega       1309 X8B3000-0    Ba Fl Lo           013 Jp   
+T!'nul'rkii   1333 X425000-0    Ba Lo              024 KC  
+Kikikugr      1339 X643000-0    Ba Lo              012 KC  
+Mame          1405 C8B4312-B    Fl Lo              902 Jp   
+Dushiilush    1410 X547000-0    Ba Lo              003 Jp   
+Gh'kabrroo    1431 B438433-8                       315 Na  
+Iila          1436 D477564-5    Ag                 510 KC  
+Are           1503 X9B4000-0    Ba Fl Lo           024 Jp   
+Seduumedergu  1506 E878336-6    Lo                 300 Jp   
+Tokragr'      1533 X000000-0    As Ba Lo           013 KC  
+R'ghirrtree   1535 A442AA7-F  2 Hi                 212 KC  
+Akruu'ngra    1637 X400000-0    Ba Lo Va           010 KC  
+Xkengk'kra    1638 C200236-B  S Lo Va              500 KC  
+Grabkee       1640 X434000-0    Ba Lo              024 KC  
+Bagi          1702 X200000-0    Ba Lo Va           002 Na  
+Ghukreeraga   1733 X330000-0    Ba De Lo           013 KC  
+Trak!!        1734 X8C4000-0    Ba Fl Lo           000 KC  
+X'kuoolgh'    1736 X300000-0    Ba Lo Va           012 Na  
+Tuxgra        1738 X100000-0    Ba Lo Va           003 KC  
+Aghuu         1834 CAAA779-9    Fl Wa              203 KC  
+N!!r          1837 B38388C-9                       323 Na  
+Krutakimn'n   1838 X310000-0    Ba Lo              024 KC  
+Eenggzaa      1840 C473322-6  S Lo                 924 KC  
+Kaak'lookr    1932 X130000-0    Ba De Lo           024 KC  
+Uregh!!gh'n   1939 D978556-8  S Ag                 404 KC  
+K!'rrkikr     2033 D400331-8    Lo Va              124 KC  
+Raxkk'        2034 D8A2255-9    Fl Lo              305 KC  
+K!mbe         2035 A77A689-A    Ag Wa              212 KC  
+Nakrkralagh'  2036 X633000-0    Ba Lo              004 Na  
+Tixratarka    2037 C252445-8  S                    903 Na  
+Kr!'rreeng    2039 C664A9B-7  S Hi                 120 KC  
+Arrax         2132 X6A3000-0    Ba Fl Lo           000 KC  
+Bukak'krgr'   2134 X324000-0    Ba Lo              024 KC  
+Ikraa         2137 X120000-0    Ba De Lo           002 KC  
+'ng           2140 X625000-0    Ba Lo              004 KC  
+Krii          2231 B565878-7  2                    204 KC  
+Rupoghung     2234 A999888-B                       504 KC  
+Lera          2236 A664ACA-B  N Hi                 613 KC  
+Isugiismuu    2303 X794000-0    Ba Lo              004 Na  
+Rratr!kuuakr  2332 X537000-0    Ba Lo              003 KC  
+N!hkateek'r   2333 X230000-0    Ba De Lo           023 KC  
+K'r           2340 A578798-C    Ag                 920 Na  
+Krookroonuup  2432 X210000-0    Ba Lo              003 Na  
+Ktapalookxta  2434 X220000-0    Ba De Lo           013 Na  
+T'rk'kroo     2436 B425232-9  N Lo                 902 Na  
+Uuaglak       2438 A89797B-8  N Hi                 123 Na  
+Arukigh       2439 X230000-0    Ba De Lo           003 Na  
+!!m           2522 X766000-0    Ba Lo              013 Na  
+Riirt'ka      2533 X224000-0    Ba Lo              003 Na  
+K'xk!'nkar    2534 X300000-0    Ba Lo Va           011 Na  
+Akub          2535 X435000-0    Ba Lo              000 Na  
+Rr!trukr      2538 C656984-8    Hi                 405 Na  
+R'raateerrku  2633 A667997-A    Hi                 502 Na  
+N!'kuukgnuk   2639 A657684-7    Ag                 305 Na  
+Ikukr         2640 X427000-0    Ba Lo              024 Na  
+Neim          2733 X6A4000-0    Ba Fl Lo           003 Na  
+Kraax         2734 D487300-3    Lo                 514 Na  
+Kru           2735 A4577CD-C    Ag                 222 Na  
+Arrlak!       2736 C3747AA-7    Ag                 901 Na  
+Eehkaekxtii   2737 D6688BF-3  S                    714 Na  
+Anghirgrook   2738 B537463-B                       104 Na  
+Kt'rril       2739 B365347-9    Lo                 910 Na  
+Ixtool        2833 X200000-0    Ba Lo Va           024 KC  
+Kuruutar      2837 B422AAE-E  N Hi                 103 Na  
+X'rra         2932 D887558-3  S Ag                 805 KC  
+Ak!'k!k       2933 X000000-0    As Ba Lo           014 KC  
+Angkurab      2934 X5A1000-0    Ba Fl Lo           022 KC  
+!'k           2936 B338884-7  2                    803 KC  
+Krikri        2938 D552AB9-5  S Hi                 510 Na  
+K!taka        2940 A434300-C    Lo                 204 Na  
+Nuukl!'gha    3035 X5A2000-0    Ba Fl Lo           003 KC  
+Rooxk!'kiorr  3036 B350453-A  N De                 503 KC  
+Ghamu         3037 X120000-0    Ba De Lo           014 KC  
+Ring'tki      3121 X583000-0    Ba Lo              033 Na  
+Bakxirekee    3133 A9769CC-D  S Hi                 903 KC  
+Irakrartra    3135 E65858D-6    Ag                 804 KC  
+Alikixg'      3136 A846876-9  N                    905 KC  
+Xakigraxtu    3137 A778565-7  S Ag                 423 KC  
+Ghareexghoo   3138 C679331-9    Lo                 103 KC  
+Rrughxa       3233 A8A7699-9    Fl                 813 KC  
+Mb'ng         3236 A8D9310-C    Lo                 304 KC

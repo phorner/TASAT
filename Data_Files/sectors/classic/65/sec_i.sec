@@ -1,0 +1,27 @@
+@SUB-SECTOR:Lentuli   SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0426 0128 0 0
+$0128 3129 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0127 B574546-9    Ag Ni              902 Im K2 V
+              0128 A130334-C    Lo Ni Po De        323 Im G1 V M9 D M6 D
+              0227 B510435-7    Ni                 602 Im K0 IV M2 VI M3 D
+Mikik         0228 X410998-6    Hi Na In        R  402 Im G9 IV
+              0229 A455244-D    Lo Ni              903 Im M8 V
+              0325 A8C78B9-B    Fl                 504 Na M4 V M8 D
+              0327 D766540-4    Ag Ni              720 Im M8 V
+              0328 A8B5433-B    Ni Fl              502 Na K8 IV M8 V
+              0329 E475231-6    Lo Ni              903 Im M0 V
+Marhaban      0426 A4697AB-E                       801 Im K8 IV
+              0627 E230521-5    Ni Po De           701 Im M6 V M2 D
+              0630 C899654-8  S Ni                 203 Im M6 V M8 D
+              0728 C221853-7    Na Po              130 Im K5 IV M9 D
+              0729 D300844-5  S Na Va              402 Im M0 V
+              0828 C88A112-9    Lo Ni Wa           403 Im M7 IV M7 D
+              0829 E300300-6    Lo Ni Va           700 Im K0 V
+              0830 B98A277-A    Lo Ni Wa           802 Im M7 V M7 D

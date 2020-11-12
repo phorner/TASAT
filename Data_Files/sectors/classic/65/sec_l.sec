@@ -1,0 +1,13 @@
+@SUB-SECTOR:Beta Niobe SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2523 A246232-C    Lo Ni              120 Na K4 V M7 D
+              2528 D452667-1    Ni Po              623 Na M4 IV M4 D
+              2529 BA9A530-A    Ni Wa              411 Na M2 VI K2 D
+              3224 B564011-8                    A  100 Na M1 V M5 D

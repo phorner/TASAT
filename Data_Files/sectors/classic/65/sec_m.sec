@@ -1,0 +1,47 @@
+@SUB-SECTOR:Nulinad  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0132 3129 -1 -1
+$0132 0334 0 0
+$0334 0535 0 0
+$0535 0338 0 0
+$0338 3139 -1 0
+$0338 0201 0 1
+$0535 0834 0 0
+$0834 1233 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0132 B400377-8    Lo Ni Va           614 Im M4 V M4 D
+              0134 B26138C-B    Lo Ni              914 Im M8 V
+              0138 A787777-6    Ag Ri              821 Im K0 VI
+Zukhisa       0139 B556998-A    Hi                 713 Im M9 V
+              0140 D435864-3  S                    614 Im M3 V M6 D M5 D
+              0231 C557550-6    Ag Ni              603 Im K3 D M5 D
+              0232 D664003-4                       113 Im G0 IV
+              0234 D328578-6    Ni                 201 Im M7 VI
+              0238 B200244-8    Lo Ni Va           200 Im K9 VI M9 D
+Gudina        0334 C51499B-5    Hi Ic In           513 Im M7 V
+              0337 B654724-7    Ag                 213 Im M1 V
+Nulinad       0338 A9799B7-9    Hi In              504 Im M0 V
+              0339 C96A864-9    Wa Ri              602 Im M7 V
+              0340 B344573-8    Ag Ni           A  304 Im M1 IV
+              0435 A210611-A    Na Ni              302 Im M6 V
+              0439 C75A462-A    Ni Wa              902 Im F4 IV
+Eninsish      0535 C000ABB-9    As Hi In Na        103 Im M9 V
+Sashar        0536 D59799C-6    Hi In              204 Im K5 V
+              0537 C120322-8  S De Lo Ni Po        424 Im M1 V
+              0632 A331788-B    Na Po              813 Im G2 III M2 V
+              0633 B5688BB-4                       134 Im K8 IV M5 D M4 D
+              0636 D7C3353-8    Fl Lo Ni           122 Im M3 D M3 D
+Rasu          0637 C765997-6    Hi                 304 Im M0 V
+              0638 A98879B-A    Ag Ri           A  305 Im K0 V M1 D
+              0640 D539849-6                       813 Im M7 V
+Arakaad       0833 E4659BC-7    Hi                 502 Im M7 V
+              0834 B6157B7-9  N Ic              A  104 Im K5 V
+              0836 D510867-5    Na                 613 Im M4 V
+              0837 A253432-9    Ni Po              404 Im G0 V
+              0839 C7A6646-4    Fl Ni              405 Im G3 V
+              0840 C775467-3  S Ni                 303 Im M5 V

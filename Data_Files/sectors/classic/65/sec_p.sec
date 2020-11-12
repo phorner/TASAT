@@ -1,0 +1,14 @@
+@SUB-SECTOR:Nosso Nosso SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2536 E537044-1                    A  202 Im K3 V M1 D
+              2635 A669669-9    Ni Ri              420 Na M9 IV
+              2839 C465ABC-A                    A  100 Na G1 V M0 D
+              2933 A32469B-B    Ni                 623 Na M2 V M2 D
+              3136 B534876-B                       604 Na M0 V

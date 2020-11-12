@@ -1,0 +1,11 @@
+@SUB-SECTOR:Gnaxkra SECTOR:Star's End
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+!!m           2522 X766000-0    Ba Lo              013 Na  
+Ring'tki      3121 X583000-0    Ba Lo              033 Na  

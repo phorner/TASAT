@@ -1,0 +1,39 @@
+@SUB-SECTOR:Engarmi  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0208 3108 -1 0
+$0208 0511 0 1
+$0208 0205 0 0
+$0205 0302 0 0
+$0302 0601 0 0
+$0601 0639 0 -1
+$0709 0511 0 1
+$0709 0705 0 0
+$0705 1004 1 0
+$0601 0705 0 0 
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0110 C656623-6    Ag Ni              910 Jr M3 V M8 D
+              0201 C673102-8    Lo Ni              223 Jr M6 VI M2 D
+              0204 B372352-7    Lo Ni           R  501 Jr M0 V M8 D
+              0205 B8B258A-8    Fl Ni              122 Jr M9 V
+              0206 A472511-B    Ni                 812 Jr M7 III
+Ikon          0208 C638986-8    Hi Ni              514 Jr M4 V
+              0302 A330756-B    De Na Po           111 Jr G2 V
+              0305 B3388BC-C                       932 Jr M7 V
+              0308 C22686A-8                       103 Jr K3 V
+              0406 B350203-8    De Lo Ni Po     A  901 Jr M5 V
+              0410 C55A879-5    Wa                 511 Jr K3 II M3 V
+              0501 C232464-9    Ni Po              822 Jr A0 IV
+              0510 B663779-7    Ri                 914 Jr K0 V
+              0601 A503243-8    Ic Lo Ni Va        704 Jr M0 V K0 D
+              0605 C99A466-9    Ni Wa              300 Jr M4 V
+              0704 C437697-4    Ni                 403 Jr K6 VI
+              0705 A884422-8    Ni                 903 Jr K3 V
+              0706 D300000-3    Ba Va              402 Jr K0 VI M4 D
+              0709 A330444-E    De Ni Po        A  812 Jr G9 V
+              0805 E542853-6    Po                 403 Jr M4 V M4 D
+              0809 DAC4ADE-4    Fl Hi              420 Jr K5 V M6 D

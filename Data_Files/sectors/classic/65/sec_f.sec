@@ -1,0 +1,26 @@
+@SUB-SECTOR:Flandry  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1211 1411 0 0
+$1411 1608 0 -1
+$1211 0813 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0912 A333331-B    Lo Ni Po        A  711 Jr M0 V
+              1013 D353569-4    Ni Po              103 Im G3 D M8 D
+              1211 B667154-8    Lo Ni              910 Jr M4 V
+              1213 C7B0575-9    De Ni           A  510 Na M3 V
+              1214 B69988A-7                    A  800 Na K7 V M4 D
+              1311 CAB8899-8    Fl                 611 Na M2 VI M3 D
+Outpost       1315 E869987-8    Hi                 905 Jr K5 VI M9 D M8 D
+Tokitre       1411 B7A2953-8  N Fl Hi              203 Cs F4 D M2 D
+              1413 E242110-3    Lo Ni Po        A  800 Na K7 V
+              1415 B8B4430-D    Fl Ni              513 Cs M8 V
+              1515 E686334-4    Lo Ni              901 Na M8 V
+              1520 C748355-8    Lo Ni              322 Na G9 V
+              1611 D530122-7    De Lo Ni Po        403 Cs M7 V
+              1616 D99A586-6    Ni Wa              502 Na M3 V M3 D M8 D
+              1619 A000898-B  N As Na              610 Na G8 IV

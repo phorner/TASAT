@@ -1,0 +1,34 @@
+@SUB-SECTOR:Requiem SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0213 3010 -1 -1
+$0213 0514 0 0
+$0514 0511 0 0
+$0511 0208 0 -1
+$0511 0709 0 -1
+$0514 0813 0 0
+$0813 1211 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0111 D581402-5    Ni                 800 Jr M5 V M2 D
+              0116 C7A2637-8    Fl Ni              101 Jr M2 III
+              0213 B777643-4    Ag Ni           A  614 Jr K2 III
+              0216 E584679-0    Ag Ni Ri           201 Jr M4 V
+              0311 C9A849C-9    Fl Ni           A  102 Jr M4 V
+              0314 B200548-7    Ni Va           A  212 Jr M2 V M2 D
+              0414 C525235-7    Lo Ni           A  400 Jr K9 VI M1 D
+              0511 A9B2695-9    Fl Ni           A  512 Jr M9 V M9 D
+              0514 A535111-B    Lo Ni           A  704 Jr M7 V M7 D
+              0515 A45575A-A    Ag                 501 Jr G9 VI M4 D
+              0613 C55289B-5    Po                 602 Jr K5 V
+              0616 C231850-7    Na Po              911 Jr K9 VI
+              0617 C569412-8    Ni                 104 Jr K2 II
+              0620 A211534-C    Ni                 803 Na M1 V M9 VI M3 D
+              0711 A888878-7    Ri              A  204 Jr M8 V M9 D
+              0715 E643786-1    Po              R  513 Jr M1 III
+              0811 A3384BJ-C    Ni                 912 Jr G2 VI M9 D
+              0812 D453320-6    Lo Ni Po           101 Jr M0 V
+              0813 C413111-5    Ic Lo Ni           304 Jr M6 V

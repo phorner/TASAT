@@ -1,0 +1,37 @@
+@SUB-SECTOR:Link  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1704 1602 -1 0
+$1704 2005 0 0
+$2005 2009 0 0
+$2009 2410 0 0
+$2410 2708 1 0
+$2009 1608 -1 0
+$2009 2212 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ssilnthis     1704 C7689B9-7    Hi                 413 Na M0 IV M3 D M9 V
+              1803 C558574-4    Ag Ni           A  413 Na M9 V M4 D
+              1804 B574572-6    Ag Ni              502 Na K3 V M0 D
+              1809 C9A6000-6    Ba Fl           A  225 Na K4 V
+              1810 C535145-5    Lo Ni              905 Na M2 V
+              1901 A3308A7-A    De Na Po        A  400 Na K6 IV
+              1905 D411556-7    Ni                 604 Hl M2 V
+              2001 A20049C-A    Ni Va              404 Hl M8 V G8 D
+              2005 C959550-8    Ni                 200 Hl M0 V M5 D
+Flange        2009 B443133-7    Lo Ni Po           114 Hl M4 V
+              2010 C584773-6    Ag Ri              902 Na K2 V M4 D
+              2103 A56836A-B    Lo Ni           R  304 Hl M5 V M0 D
+              2109 C555388-6    Lo Ni              610 Hl K5 V
+              2201 C230455-7    De Ni Po           204 Hl K4 V M8 D
+              2202 B351126-9    Lo Ni Po           504 Hl M0 V
+              2203 A322625-8    Na Ni Po           423 Hl M3 V M3 D
+              2204 D654331-7    Lo Ni              102 Hl F5 V
+              2402 C798278-6    Lo Ni              102 Hl A8 V G8 D
+Justince      2405 D546AEG-9  S Hi In           A  504 Hl M4 V
+              2406 E757000-6    Ba              A  723 Hl M3 V
+              2407 E536334-6    Lo Ni              122 Hl G7 IV M1 D
+              2410 C567411-7    Ni                 914 Hl M3 V M2 D

@@ -1,0 +1,26 @@
+@SUB-SECTOR:Hebrin   SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1930 1529 -1 0
+$1930 2331 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1726 A232023-9  N Do Lo Ni Po        203 Im K6 V
+Mugama        1728 E66A9AA-4    Hi Wa              203 Im M0 V
+              1729 B596444-A    Ni                 802 Im K4 V M5 D
+              1730 D8A6103-7    Lo Ni Fl           813 Im M8 V
+              1826 E9B366A-6    Ni Fl              404 Im A3 V K3 D
+              1830 E585598-2    Ag Ni              900 Im K4 V
+              1923 C6A7242-5    Lo Ni Fl           320 Na K4 V
+Hebrin        1930 B200975-E  N Hi Na In Va        513 Im M8 V M1 D
+              2030 A257640-8    Ag Ni              312 Im M5 V
+              2128 C610856-8    Na                 112 Im K8 V
+              2129 BAA9233-B    Lo Ni Fl           800 Im G0 V
+              2130 C330510-6    Ni Po De           113 Im M6 V K6 D
+              2227 B78A48A-9    Co Ni Wa           514 Im K8 V
+              2230 C434675-9    Ni                 404 Im M7 IV M8 D
+              2423 X000430-4    Ni As           R  600 Cs G1 V M5 D
+              2428 A225345-C    Lo Ni              701 Im M3 II

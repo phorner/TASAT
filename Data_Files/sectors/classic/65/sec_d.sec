@@ -1,0 +1,44 @@
+@SUB-SECTOR:Kosh  SECTOR:Empty Quarter
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2708 2410 -1 0
+$2708 2804 0 0
+$2804 3202 0 0
+$3202 0201 1 0
+$3202 3140 0 -1
+$2804 2701 0 0
+$2701 2539 0 -1
+$2708 2810 0 0
+$2810 3012 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2503 E85A336-6    Lo Ni Wa           600 Hl M5 IV M6 D
+              2504 A7368BF-A                    A  803 Hl M6 V
+              2508 C567521-7    Ag Ni           A  700 Hl K8 III
+              2605 D523352-7    Lo Ni Po           312 Hl K2 VI M0 D
+              2606 D310677-5    De Na Ni        A  602 Hl G0 V
+              2701 C444874-7                       101 Hl M4 V M4 D M6 D
+              2703 B464013-8    Lo                 404 Hl M7 V
+              2704 B468444-B    Ni                 625 Hl M5 IV M2 D
+              2707 C94A427-8    Ni Wa              111 Hl K9 VI
+              2708 B565587-9    Ag Ni              410 Hl G1 V
+              2710 D5327BA-9    Na Po           R  803 Hl G9 V M0 D
+              2803 BA7A663-6    Ni Wa              700 Hl A4 V
+              2810 B7A65AB-A    Fl Ni              813 Hl M8 VI K8 D
+              2903 C455101-5    Lo Ni           A  303 Hl K4 V
+              2904 B547674-9    Ag Ni              203 Hl K8 V M2 D
+              2906 A2306BD-A    De Na Ni Po        702 Hl M4 III M4 V
+              2909 B131337-8    Lo Ni Po        A  924 Hl M4 V
+              3001 E3318CC-6    Na Po              614 Hl M0 V M0 D
+              3005 B9996BD-6    Ni                 823 Hl M6 V M3 V
+              3007 B8788B9-7                    A  200 Hl M3 V M0 V
+              3008 B877897-5                    R  805 Hl K4 V M6 D
+              3101 C150432-A    De Ni Po           103 Hl M6 V
+              3104 B201423-C    Ic Ni Va        A  605 Hl G8 V
+              3201 C679154-7  S Lo Ni              630 Hl M8 VI
+              3202 B78A8BA-A    Wa                 202 Hl G6 V
+              3206 B79A8AB-6    Wa                 203 Hl G0 V M0 D
+              3208 C100610-9  S Na Ni Va           314 Hl M6 V
