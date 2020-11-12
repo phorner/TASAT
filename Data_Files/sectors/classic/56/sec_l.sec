@@ -1,0 +1,112 @@
+@SUB-SECTOR:Akigura SECTOR:Yiklerzdanzh
+#
+# Trade routes within the subsector
+#
+$2623 2620 0 -1
+$2921 2620 0 -1
+$2623 2825 0 0
+$2623 2423 -1 0
+$2825 2728 0 0
+$2728 2531 0 1
+$2728 3026 0 0
+$3026 3124 0 0
+$3124 3122 0 0
+#
+#Political borders
+#Akigura Union
+^2921 0
+^2921 1
+^2921 2
+^2921 3
+^2921 5
+^2922 4
+^2922 5
+^2923 4
+^2923 5
+^2924 4
+^2924 5
+^2825 1
+^2825 2
+^2825 3
+^2825 4
+^2824 2
+^2725 3
+^2725 4
+^2624 3
+^2624 4
+^2524 3
+^2524 4
+^2523 0
+^2523 5
+^2622 5
+^2621 4
+^2621 5
+^2521 1
+^2821 0
+^2721 0
+^2721 1
+#Salinaikin Concordance
+^3222 0
+^3222 1
+^3122 0
+^3122 1
+^3122 5
+^3022 0
+^3022 4
+^3022 5
+^3023 4
+^3023 5
+^3024 4
+^3024 5
+^3025 4
+^3025 5
+^3026 5
+^2927 0
+^2927 5
+^2827 0
+^2827 5
+^2728 0
+^2728 2
+^2728 3
+^2728 4
+^2728 5
+^2827 3
+^2928 2
+^2928 3
+^2928 4
+^3028 0
+^3128 0
+^3128 5
+^3128 1
+^3228 0
+^3228 1
+^3228 2
+^3229 1
+^3229 2
+^3230 1
+^3230 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Arcana        2523 B8775B3-C  A Ag Ni An        R  535 AU
+Kia           2623 A35296B-C  A Hi Po              102 AU
+Qlate         2630 C65A400-A    Ni Lo Wa           304 Na
+Dustbowl      2725 CAF16B0-C  A Ni Pr           R  324 AU
+Umder         2727 X354603-0    Ag Ni              702 Na
+Khuggi        2728 B301758-9  M Ic Na Va           121 SC
+Bravl         2730 D7B49EF-9    Fl Hi              203 Na
+Crusade       2823 C5577BC-A  A Ag                 102 AU
+Thalamus      2825 A42041B-B  A De Lo Ni Po        511 AU
+Safcolia      2921 A98A7BB-C  A Wa                 405 AU
+Ginkhu        2928 D4839AA-7    Hi D8              222 SC
+Iiash         3022 X676000-0    Ba              R  034 SC
+Sukia         3024 C6887A9-3    Ag                 120 SC
+Kemkhil       3025 E546344-5    Lo Ni              805 SC
+Torgol        3026 C533442-9  M Lo Ni Po           504 SC
+Avator        3028 D203575-9    Ic Ni Va           323 Na
+Kiefer        3122 A663564-C  M Ni                 622 SC
+Kiirkhiim     3124 B668430-B  M Lo Ni              423 SC
+Kons          3125 B684578-9  M Ag Ni              323 SC
+Flieporshe    3126 E78896B-6    Hi                 101 SC
+Afroqnats     3228 C8776AE-C    Ag Ni              903 Na
+Zdaefia       3229 X978000-0    Ba                 032 Na

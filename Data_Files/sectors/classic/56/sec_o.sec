@@ -1,0 +1,68 @@
+@SUB-SECTOR:Izh Kriezhlal SECTOR:Yiklerzdanzh
+#
+# Trade routes within the subsector
+#
+$2334 2531 1 0
+$2137 2334 0 0
+$2137 2035 0 0
+$2035 1738 0 0
+$1738 1438 -1 0
+$1738 1740 0 0
+$1740 2140 0 0
+$2140 2201 0 1
+$2140 2439 0 0
+$2439 2137 0 0
+#
+#Political Borders
+#Zrats Kriezhlas Unit
+^1735 0
+^1735 1
+^1735 4
+^1735 5
+^1736 5
+^1835 0
+^1835 1
+^1935 4
+^1935 3
+^2035 0
+^2035 1
+^2035 2
+^2035 5
+^2036 1
+^2137 0
+^2137 1
+^2137 2
+^2138 1
+^2238 0
+^2238 1
+^2339 0
+^2339 1
+^2439 0
+^2439 1
+^2439 2
+^2440 1
+^2440 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Fafrekolefrans1731 X000000-0    As Ba              040 Na
+Zhdamonzhdranj1735 C100363-9    Lo Ni Va           350 Iz     
+Chedraz       1738 B7678C9-8  I                    920 Iz     
+Noche         1740 B241595-B  X Ni Po              830 Iz     
+Zdansiyner    1831 X799000-0    Ba              R  001 Na     
+Tliebrenzh    1832 A97A78A-C  I Wa                 410 Ic
+Brozh         1838 C000516-B    As Ni              140 Iz     
+Soyayt        1931 C687675-7  Q Ag Ni Ri           102 Dr     
+Itsplanzhikar 2035 A358786-E  I Ag                 341 Iz     
+Qrannienzh    2040 C9AA589-C    Ni Fl              711 Iz     
+Imazhianztsied2131 X436000-0    Ba                 030 Na
+Qrazhazhjal   2137 A984AC9-E  X Hi                 222 Iz     
+Eleshtepri    2138 E478537-7    Ag Ni              151 Iz     
+Anchli        2140 A352989-D  Y Hi Po An C0        731 Iz     
+Jonterienzh   2232 X8B3000-0    Ba Fl              010 Na
+Leyins        2233 X000000-0    As Ba              000 Na
+Shtansh       2239 E89756B-3    Ag Ni           A  220 Iz     
+Zhieotlizhikl 2332 X471000-0    Ba                 000 Na
+Frikriyip     2334 E430210-8  Z De Lo Ni Po Re  A  151 Na     
+Tliadrstatl   2439 A7879CE-D  I Hi Cp              930 Iz     
+Sashero       2440 E43359A-6    Ni Po              541 Iz     

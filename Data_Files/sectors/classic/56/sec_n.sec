@@ -1,0 +1,72 @@
+@SUB-SECTOR:Dlarashtsalash SECTOR:Yiklerzdanzh
+#
+# Trade routes within the subsector
+$1538 1738 1 0
+#
+#Political Borders
+#Carillon Harmonies
+^1031 3
+^1031 4
+^1031 5
+^0931 1
+^1133 1
+^1133 2
+^1133 3
+^1133 4
+^1133 5
+^1132 2
+^1132 4
+^1231 1
+^1231 2
+^1231 3
+^1331 0
+^1331 5
+#zrats Kriezhlas Unit
+^1635 1
+^1635 2
+^1636 0
+^1636 5
+^1537 0
+^1537 5
+^1437 0
+^1437 5
+^1437 4
+^1438 5
+^1438 4
+^1438 3
+^1539 3
+^1539 4
+^1639 4
+^1634 2
+^1640 4
+^1640 5
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Majdr         0934 C7B6345-7    Fl Lo Ni           804 Na     
+Vledriant     0940 X210000-0    Ba                 023 Na
+Yellow Ocean  1031 A89A728-9    Wa                 904 CA     
+Satsva        1035 B00068A-9    As Na Ni           322 Na     
+Rajash        1036 B85A475-B    Ni Wa Lo           403 Na     
+Ishnad        1037 C634520-6    Ni                 624 Na     
+Hard Air      1132 AAD6949-C  C Hi                 210 CA     
+Cauldron      1133 A8A3726-C    Fl                 611 CA     
+Sanzhkria     1136 X735000-0    Ba                 002 Na
+Melchizhdrenk 1139 C876599-7    Ag Ni              324 Na     
+Winters Blanke1231 B62A8AA-B    Wa                 601 CA     
+Vriasheshki   1237 B56368A-A    Ni Ri              901 Na     
+Pranjadraparat1239 X301200-5    Ic Lo Ni Va        313 Na     
+Sokr Jakkia   1338 E54846A-6    Ni Lo              624 Na     
+Merikrer      1431 X402000-0    Ba Ic Va           002 Na     
+Ravlda        1435 C698234-7    Lo Ni              100 Na     
+Brinzhianzh   1437 B867689-A    Ag Ni Ri An        201 Iz     
+Jonjivr       1438 AAD5254-E  Z Lo Ni Rs Cp        604 Iz     
+Forge         1531 C10066D-7  M Na Ni Va        A  120 Na     
+Sesh          1532 X100000-0    Ba Va              021 Na
+Drianshstitl  1537 B561789-9    Ri                 603 Iz     
+Fretstlapl    1538 B2529CB-C    Hi Po              703 Iz     
+Hammer        1631 B5527AD-9  M Po              A  814 Na     
+Yojidrishtats 1632 X200000-0    Ba Va              000 Na
+Zdantsplitskli1636 B869582-B  I Ni                 220 Iz     
+Sejchiet      1639 A586AC8-E  Z Hi D0              925 Iz     

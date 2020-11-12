@@ -1,0 +1,95 @@
+@SUB-SECTOR:Lenchiajzhdiezh SECTOR:Yiklerzdanzh 
+#
+# Trade routes within the subsector
+#
+$1913 1809 0 -1
+$1913 2211 0 0
+$2211 2110 0 -1
+$2314 2714 1 0
+$2314 2516 1 0
+$2117 2318 0 0
+$2117 1918 0 0
+$1918 1816 0 0
+$1816 1615 -1 0
+$1918 1719 0 0
+$1719 1820 0 0
+$1719 1519 -1 9
+#
+#Political Borders
+#
+^1712 0
+^1712 1
+^1712 2
+^1712 3
+^1712 4
+^1712 5
+^1812 0
+^1812 1
+^1812 2
+^1812 5
+^1913 2
+^1913 3
+^1913 4
+^2013 0
+^2013 1
+^2013 5
+^2114 0
+^2114 1
+^2214 0
+^2214 1
+^2214 2
+^2215 1
+^2215 2
+^2216 1
+^2216 2
+^2217 1
+^2318 0
+^2318 1
+^2318 2
+^2318 3
+^2218 2
+^2219 1
+^2219 2
+^2219 3
+^2219 4
+^2119 3
+^2019 2
+^2019 3
+^1920 2
+^1920 3
+^1820 2
+^1820 3
+^1820 4
+^1720 3
+^1720 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Ialensh       1711 X574000-0    Ba              F  010 Zh
+Chabl         1714 A795538-D  * Ag Ni              512 Mi
+Zhieyiez      1719 A100338-B    Lo Ni Va           702 Mi
+Shtiprashint  1720 C200388-8    Lo Ni Va           110 Mi
+Ozhavlazefr   1812 D576164-A    Lo Ni              204 Mi
+Ripejekl      1813 A345698-8    Ag Ni              700 Mi
+Peviade       1815 B00089A-B    As Na              912 Mi
+Chaabazh      1816 B120488-D    De Ni Po Lo        413 Mi
+Drirebradr    1820 B335788-8                       111 Mi
+Iachonz       1913 B888676-A  Z Ag Ni Ri           303 Zh     
+Zhazhanzh     1916 A665437-B  * Ni Lo              810 Mi
+Shtiachabr    1917 A594435-E  * Ni Lo              103 Mi
+Stiatlade     1918 D778698-5    Ag Ni              812 Mi
+Sobropr       2011 C585865-8    Ri                 711 Zh
+Liansh        2013 D87A164-A    Wa Lo Ni           104 Mi
+Elfedlent     2016 DAA2064-A    Lo Ni Fl Rv        813 Mi
+Dralievl      2114 D665164-A    Lo Ni              113 Mi
+Jdieblansh    2116 A000337-F    As Lo Ni           714 Mi
+Beblazhie'    2117 D000588-9    As Ni              614 Mi
+Ninzh         2211 B51357A-B  Z Ic Ni              402 Zh
+Finzhchtanz   2213 B371561-8    Ni                 714 Zh
+Bledradl      2214 D647164-A    Lo Ni              123 Mi
+Fleqliaajafrie2318 B546438-6  * Ni Lo D1           501 Mi
+Itlzhdiflaz   2311 E88A310-4    Lo Ni Wa D2        420 Zh
+Palstimrdl    2314 A442575-9  Z Po Ni              423 Zh
+Chivedial     2219 D559A87-5    Hi C2              303 Mi
+Paklshtepl    2413 A429400-A    Lo Ni              222 Zh
+Pensh Chtabl  2415 D79AAA8-A    Hi In Wa           514 Zh

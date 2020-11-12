@@ -1,0 +1,128 @@
+@SUB-SECTOR:Meichntid Ibl SECTOR:Yiklerzdanzh
+#
+# Trade routes within the subsector
+#
+$1011 1013 0 0
+$1013 0916 0 0
+$0916 0814 -1 0
+$0916 0716 -1 0
+$1013 1213 0 0
+$1213 1313 0 0
+$1313 1512 0 0
+$1512 1410 0 -1
+$1512 1809 1 -1
+$1612 1613 0 0
+$1613 1614 0 0
+$1614 1615 0 0
+$1615 1816 1 0
+$1615 1417 0 0
+$1417 1519 0 0
+$1519 1719 1 0
+$1417 1218 0 0
+$1218 1320 0 0
+$1218 0920 0 0
+$1218 1017 0 0
+$1017 1115 0 0
+$1017 0917 0 0
+$0917 0817 -1 0
+#
+#Political Borders
+#
+^0916 1
+^0916 2
+^0916 3
+^0915 2
+^1014 2
+^1014 3
+^1114 2
+^1114 3
+^1213 2
+^1213 3
+^1313 2
+^1313 3
+^1412 2
+^1412 3
+^1512 2
+^1512 3
+^1611 2
+^1611 3
+^1612 0
+^1612 1
+^1612 4
+^1612 5
+^1613 5
+^1514 0
+^1514 5
+^1414 0
+^1414 5
+^1315 0
+^1315 5
+^1215 0
+^1115 0
+^1115 1
+^1115 5
+^1015 0
+^1015 4
+^1015 5
+^1016 5
+^0917 0
+^0917 5
+^0918 4
+^0919 4
+^0919 5
+^0920 2
+^0920 3
+^0920 4
+^0920 5
+^1019 2
+^1019 3
+^1119 3
+^1219 3
+^1219 4
+^1320 3
+^1320 4
+^1420 2
+^1420 3
+^1420 4
+^1520 2
+^1520 3
+^1620 0
+^1620 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Oelvli'       0911 C336579-7    Ni                 322 Zh
+Akrnsivr      0913 A432622-9    Na Ni Po           120 Zh
+Jdaplbretlkrie0914 B784430-9    Ni Lo              102 Zh
+Jdefl         0915 C000387-A    As Ni Lo           915 Zh
+Dlebriejlienzh0916 B200777-B  Z Va Na              402 Zh
+Brifliench    0917 A000987-E  * Hi As Na In        622 Mi
+Pedr          0919 D544134-5    Ni Lo              413 Mi
+Steblietetl   0920 B341136-B  * Ni Po Lo           210 Mi
+Biebletl      1011 C8C4A75-D  Z Fl Hi              504 Zh
+Rblinch       1013 A8A5755-C  Z Fl Cp              312 Zh
+Stiedadapr    1015 A330488-A  * De Po Ni Lo        305 Mi
+Plia'         1016 E513497-7    Ic Ni Lo           812 Mi
+Iedree        1017 C443797-5  * Po                 604 Mi
+Dilkia        1111 C8C4000-0    Ba Fl              003 Zh
+Zhdiatsishada 1112 C7B0521-A    Ni De              720 Zh
+Sianshiafre   1115 A755A87-F  * Hi                 100 Mi
+Dlentiats     1117 D300698-7    Va Na Ni           804 Mi
+Iablstizenzde 1212 C48258A-7    Ni                 921 Zh
+Siafrtivivlsia1213 A320322-B  Z De Lo Po Ni        605 Zh
+Edlavr        1218 A6A3A8A-F  * Fl Hi              604 Mi
+Tsalchie      1312 C4019CA-B    Ic Hi Na Va In     103 Zh
+Jianchonts    1313 B300541-D  Z Va Ni              620 Zh
+Stitl         1319 E370237-6    De Lo Ni           214 Mi
+Iedrav        1320 C310234-9  * Ni Lo              700 Mi
+Ieviabliefrzh 1411 B457478-A    Ni Lo              924 Zh
+Ezae          1417 A120988-F  * Hi De Po In Na     204 Mi
+Flabretlanch  1418 B998799-9  * Ag                 122 Mi
+Zdonzh        1420 D260638-5    De Ni              104 Mi
+Vritsavr      1512 B768367-9  Z Lo Ni              800 Zh
+Dia           1514 B100687-A  * Va Na Ni           814 Mi
+Ietietl       1519 A677988-D    Hi In              513 Mi
+Yiapl         1612 A678937-F  * Hi In              412 Mi
+Nabrienj      1613 A223636-C    Na Ni Po           823 Mi
+Idri          1614 C5A2334-A  * Fl Lo Ni           404 Mi
+Dienzhishinch 1615 A452A87-F  * Hi Po Cx           402 Mi

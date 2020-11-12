@@ -1,0 +1,91 @@
+@SUB-SECTOR:Rom's Loch SECTOR:Yiklerzdanzh
+#
+# Trade routes within the subsector
+#
+$2531 2334 -1 0
+$2531 2728 0 -1
+$2531 2832 0 0
+$2832 3032 0 0
+$2832 2734 0 0
+$2734 2735 0 0
+$2735 2537 0 0
+#
+#Political Borders
+#Glenauran Gignatorate
+^2633 0
+^2633 3
+^2633 4
+^2633 5
+^2733 0
+^2733 5
+^2832 0
+^2832 1
+^2832 5
+^2933 0
+^2933 2
+^3032 0
+^3032 1
+^3032 2
+^3032 3
+^3032 5
+^2934 1
+^2934 2
+^2934 3
+^2834 2
+^2834 3
+^2735 2
+^2735 3
+^2735 4
+^2735 5
+^2734 4
+#Zhodani Consulate
+^3135 0
+^3135 1
+^3135 4
+^3135 5
+^3235 0
+^3235 1
+^3235 2
+^3236 1
+^3236 2
+^3237 1
+^3237 2
+^3237 4
+^3238 1
+^3238 2
+^3238 4
+^3238 5
+^3239 1
+^3239 2
+^3239 3
+^3239 4
+^3239 5
+^3137 3
+^3137 4
+^3137 5
+^3136 4
+^3136 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Dushegadaar   2531 A879796-B  X                    716 Na     
+Eblplons      2532 C5223A6-8    Lo Ni Po           594 Na     
+Vlados        2535 E500100-0    Lo Ni Va           370 Na     
+Brianchvrench 2537 C855988-8    Hi              R  938 Na     
+Greytown      2633 C447441-7    Lo Ni              950 Gs     
+Caveat        2733 C7A3645-9    Fl Ni              592 Gs     
+Glenaura      2734 B757503-B  M Ag Ni              714 Gs     
+Kusiahatai    2735 A575737-D  J Ag                 936 Gs     
+Iqlneshav     2738 E210654-9    Na Ni              158 Na     
+Duneed        2832 A000744-C  J As Na              370 Gs     
+Chejieb       2834 B400783-B    Na Va An           262 Gs     
+Shining Face  2836 D5657DI-A    Ag              A  359 Na     
+Iareflonzal   2933 B110757-B    Na C2              871 Gs     
+Odreitsvoz    2934 B573474-9    Lo Ni           A  793 Gs     
+Ancona        3032 B566876-C  M Ri                 615 Gs     
+Yadrishipl    3035 C210432-A    Lo Ni              713 Na     
+Fliebrtsel    3135 X8C2457-9    Fl Ni Lo        F  402 Zh
+Abrzhdedl     3137 XA5A000-0    Ba Wa           F  002 Zh
+Arikrfekr     3235 X200012-A    Lo Ni Va        F  902 Zh
+Jeshiel       3237 X8A0830-8    De              F  403 Zh
+Rodebr Rifia  3239 X368899-E    Ri C6           F  310 Zh
