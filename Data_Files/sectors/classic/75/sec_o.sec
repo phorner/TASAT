@@ -1,0 +1,28 @@
+@SUB-SECTOR:Old Colonies SECTOR:Vanguard Reaches
+#
+# 
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Xylus         1731 DR00315-C    Lo Na Ni           530 Ac
+Hero          1732 B310684-D  M De Lo Na Ni        331 Ac
+Merro         1734 A9668A7-C                       301 Ac
+Dyaldan       1740 D6A4656-3    Fl Ni              403 Na
+Neechotova    1832 A9659A8-F    Hi                 201 Ac     
+Torvin        1833 X000000-0    Ba Lo Ni           010 Ac
+Yuhreil       1838 C4126J9-A    Ic Na Ni           122 As
+Tellan        1932 B558365-D  J Lo Ni              611 Ac     
+Creswell Crags1936 E000730-8    As Na              324 Na
+Malcom's Folly2033 D683415-6    Ni                 611 Na
+Fiwel         2037 B1507KA-9  R De Po              224 As
+Aulisohai     2039 D674AK7-A    Hi In              122 As
+Alriyhkauwa   2040 A5838K3-A  R Ri Ch              823 As
+Iyhlrau       2135 C7564J6-9    Ni                 724 As
+Bushveld      2231 C586111-6    Lo Ni              610 Na
+Oikah         2235 B3349K9-9  R Hi In              824 As     
+Hohwah        2237 D350AK6-B  R De Hi Po           124 As     
+Ihahteawiwo   2238 B5549H4-A  R Hi                 821 As     
+Easihyu       2335 B5752K2-B  R Lo Ni              423 As
+Htalrea       2340 A4715M7-A    Ni                 923 As
+Khteawoilrleu 2436 C8696M9-7    Ni Ri              524 As

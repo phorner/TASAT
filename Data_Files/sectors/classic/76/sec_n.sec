@@ -1,0 +1,25 @@
+@SUB-SECTOR:I-Glathriel  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Goal Terminus 0935 B925432-A    Pr                 522                      
+Clanheim      0938 D451561-9    Na Ni              723                      
+Mal' Zlim     1031 C674487-A    Ni                 624 MS                  
+Perdiam       1034 XDB3000-0                       010                     
+Pasthope      1038 X100000-0                       021                      
+Mal' Drur     1131 B583889-C    Ri                 401 MS                  
+Trarken       1140 E443211-A    Ni Lo              612                     
+Maa' Len      1231 D853488-A    Lo                 613 MS                  
+Spindrift     1239 C221310-9    Pr                 432                      
+Mal' Estran   1332 C674688-9    Ag Ni              702 MS                  
+Troll's World 1334 XA01000-0                       010                      
+Goblins Planet1335 X912100-8    Ni                 811                      
+Ember         1534 X300000-0                       010                     
+Cortes        1540 C443373-A    Ni                 311                     
+Doarsalle     1632 E565471-A    Ni Na              712                      
+Dead End      1635 X511000-0                       001                      
+Vinadalou     1639 C623313-9    Ni Na              433                      

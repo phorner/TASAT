@@ -1,0 +1,308 @@
+@SECTOR:Vanguard Reaches
+#
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Alshtimadladr 0101 D326300-9    Ni Pr              713 Zh
+Issoudun      0108 E210AD9-8    Hi Na Cs        A  101 Na
+Yobrsebriemsil0201 C552857-6    Ni Po              200 Zh
+Shenidklen    0203 B548737-A  Y Ag                 211 Zh
+Krafltlajmichi0204 C579679-5    Ni                 312 Zh
+Chtanja       0302 B5879D9-5  Z Hi Dr              621 Zh
+Kolshedjielib 0304 B545864-8                       910 Zh     
+Chiadl        0308 C777300-0    Lo                 830 Zh
+Tliadlpabr    0310 B977500-C    Ni                 801 Zh
+Chyia Nedlkel 0406 A301AB9-D  Z Hi Na Va Cx        101 Zh     
+Idriaeljifltle0408 C464697-9    Ag Ni Ri           925 Zh     
+Chieleka      0502 B400751-9    Na Va              502 Zh
+Rilbriafdl    0504 C83A769-6    Wa                 422 Zh
+Tseiefrsal    0505 A410787-D    Na                 624 Zh
+Frianchie     0508 C581554-5                       812 Zh
+Plieljdelenief0602 B435632-9    Ni                 214 Zh
+Chpiech       0604 C543763-3    Po                 404 Zh
+Iafrdlefrien  0606 B100789-B  Z Ba Na Va           813 Zh
+Zdedrflichtl  0609 C000653-8    As Na Ni           713 Zh
+Tlobklekra    0707 B737469-8                       713 Zh
+Dablrel       0708 B551511-B  Y Ni Po              412 Zh
+Tarasca       0801 XA87897-C    Ri              R  604 Na
+Inat-Kalahi   0804 C203348-7  J Ic Lo Ni           303 Na
+Yrfrzhielia   0808 X565000-0    Ba Lo Ni        R  902 Zh
+Dakarron      0903 C344402-A  J Ni                 413 Na
+Chazelles     0907 B334599-B    Ni                 602 Na
+Iebrzhiab.    0908 A431869-A    Na Po              824 Zh     
+Shiebrkaldile 0910 B9C0599-B    Ni                 410 Zh
+Stusskerkriss 1004 E413305-A    Ic Lo Ni           523 Es
+Fyslegcylys   1005 C2005BF-A  J Ni Va              222 Es
+Turan         1102 C260441-8    De Ni              304 Na
+Jafossla      1105 X9B02BC-6  M De Lo Ni           421 Es
+Ynrogit       1106 C3387CD-9                       424 Es
+Thathyrfokat  1108 A3134CF-A    Ic Ni              324 Es
+Saant         1109 X4542AD-9    Lo Ni              124 Es
+Jassjachyl    1203 D2318DB-8    Na Po              420 Es
+Haarsyt       1204 C5697CC-9                       723 Es
+Cueyntros     1205 A6575CC-B    Ag Ni Pr           503 Es
+Thedrysheg    1209 C7584AF-8    Ni                 222 Es
+Inhio         1210 D8B64CD-8    Fl Ni              121 Es
+Kahre's World 1302 C588379-9  J Lo Ni           A  402 Na
+Lucyntjarda   1303 C4426CF-7    Ni Po              522 Es
+Elliador      1307 A67A3DD-B  F Lo Ni Wa Cx Hw     724 Es
+Stayn Fokaf   1308 A325ADE-B    Hi In              121 Es     
+Gyfetla       1309 X5114AF-A    Ic Ni              124 Es
+Cinhoss       1403 X8C06BF-2  M De Ni              620 Es
+Sovruat       1405 X738102-D    Lo Ni Re           721 Es
+Gyrkyn        1406 C1108CE-B    Na                 921 Es
+Hakdisty      1408 B666101-8    Lo Ni              922 Es
+Viziruland    1501 E440520-6    De Ni Po           703 Na
+Lenris        1505 A4005BA-B  J Na Ni Va           220 Es
+Thyskyus      1506 B699501-B    Ni                 324 Es
+Rynfi         1508 D375404-4    Ni                 625 Es
+Jatsurkil     1510 D6565AB-7    Ag Ni Pr           720 Es
+Afhelydat     1604 X8C48AB-9    Fl                 620 Es
+Jenfad Kryyt  1607 C6793AE-9    Lo Ni              603 Es
+Fakfakland    1703 C77A9A6-D    Hi In Wa           310 Na
+Ynchest       1706 C1009CA-A  F Hi Na Va           723 Es
+Soyfygdot     1708 D5657AB-6    Ag Ch              320 Es     
+Vrafkynhysykef1709 C4446DB-4    Ag Ni Pr           722 Es
+Emerling's R. 1801 X441896-6    Ex Po           R  802 Td     
+Yazoo City    1804 E000351-B    As Lo Ni        A  715 Na
+Ineu 24       1807 E000300-6    As Lo Ni           320 Na
+Yalgoo        2001 C444463-9    Ni                 714 Td
+Natrosilo     2003 B7A0341-B  N De Lo Ni Xb        523 Td
+Alfar Edylsyla2004 C887989-A  S Hi Xb              425 Td
+Surtun        2005 B100967-A  N HiNaVaXb        A  902 Td     
+Jammu         2009 C897279-4  J Lo Ni           A  213 Na
+Weslaco       2103 C98A665-A    NiRiWaXb           700 Td     
+Coos          2106 A9A6646-D    Fl Ni Xb           913 Td     
+Dysitin Prime 2202 C4459DD-6    Hi In Xb        A  413 Td
+Groote        2207 B434865-C    Dr                 713 Td     
+Anselmeara    2208 D424699-4  S Ni                 523 Td
+Dysitin II    2301 C98A465-6  S Wa Ni Xb           115 Td
+Dysitin III   2302 A232879-A    Na Po Xb           812 Td     
+Isochort 23   2305 E99A321-9    Lo Ni Wa           404 Td
+Atrephar      2307 X7B37A9-8    Fl              R  524 Td
+Huad Yai      2309 X000677-6    As Na Ni        R  723 Td
+Kyzyl         2310 E528585-8    Ni                 805 Td
+Dysitin IV    2401 E756789-2    Ag                 204 Td
+Toorif II     2403 C885442-9    Ni                 303 Td
+Egin XI       2404 D110866-9  W Na                 303 Td
+Ras Sharbatat 2410 C559144-5    Lo Ni              425 Na
+Varen's Planet2503 A940A99-B  A De Hi In Po Xb     110 Td     
+Trelyn Vrra   2504 A510678-C  B Na Ni Cx Xb        812 Td     
+Dorff 2       2506 B677432-6  N Ni Re Xb           605 Td
+Lannistort    2507 C677796-8    Ag Xb           A  103 Td
+Woonona       2510 C75A102-8    Lo Ni Wa           831 Na
+Obykla        2601 X270520-9    De Ni           R  702 Td
+Swyssylyn     2603 D565884-6    Ri                 600 Td
+Joandrose     2604 C4677A8-9    Ag Xb              404 Td
+Titihira      2607 C528976-B    Hi In Xb        A  902 Td
+Ellaris IV    2608 C98A349-7  S Lo Ni Wa Xb        923 Td
+Voxarl        2701 X453343-7    Lo Ni Po        R  404 Td
+Bauxia        2703 X566000-0    Ba Lo Ni Re     R  101 Td
+Drogobycho    2705 A447777-8    Ag Xb           A  803 Td
+Cozumel       2708 B874468-7  M Ni Xb              741 Td
+Skraill       2710 C000578-A  S Ag Ni              922 Co
+Loomis 92     2804 C485449-6    An Ch Ni        A  341 Td
+Quillon       2806 X205653-8    Ic Ni Va        R  100 Td
+Nadsat        2807 E726441-7    Ni              A  823 Td
+Blijan        2809 D4376BC-8    Ni                 713 Co
+Luzader       2810 B7B3756-C  N                    423 Co
+Narthex       2902 E106315-5    Ic Lo Ni           104 Na
+Besesi        2910 C575522-9  S Ag Ni              224 Co
+Seven Odovacar3003 C9A2498-6  M Ni                 214 Na
+Jyvaskyla     3007 C1607B9-7    De              A  210 Na
+Akrida        3009 C458557-B  S Ag Ni              404 Co
+Halfpint      3102 E140435-8    De Ni Po           902 Na
+Quathlamba    3106 X622355-1    Lo Ni Po        R  523 Na
+Eufalag       3204 D6A4656-3    Fl Ni           A  120 Na
+Orik          3209 C351668-8    Ni Po              200 Co
+Jorhat City   0111 C533487-8  V Ni Po              711 Na
+Chnasodlsata  0118 C898879-4                       400 Zh
+Chtiablial.   0212 X758544-2    Ag Ni              903 Zh      
+Brilibr       0215 B9C7520-B    Ni                 802 Zh
+Praflozda     0220 C432200-C  Y Lo Ni Po           325 Zh
+Tlaiafribr    0311 E574300-3    Ni                 404 Zh
+Chfradr       0317 D878001-3    Lo Ni              423 Zh
+Iabrpribr     0319 E303304-7    Ic Ni              802 Zh
+Refrchoch     0412 D100200-9    Lo Ni Va           823 Zh
+Aedrchted     0414 A74A577-C  Z Ni Wa              900 Zh
+Brshidl Ezhef 0415 B537853-A                       502 Zh     
+Jrshtadrairch 0419 B796320-8    Ni                 200 Zh
+Nielkladlief  0511 C756944-D  Z Hi                 120 Zh
+Shtavrifl     0512 A6A5799-B    Fl                 410 Zh
+Dlieblafia    0514 A322A95-D  Z Hi In Na           101 Zh     
+Ifabl         0516 B572010-A    Lo Ni              704 Zh
+Ifiefla Achef 0519 B534755-C  Z                    204 Zh
+Lstipra Peyin 0612 B8B0578-B  X De Ni              501 Zh
+Vraklchtiedr  0613 B76A887-8    Ri Wa              610 Zh
+Diakrstieb    0616 A331353-B  Z Ni Po              803 Zh
+Nenchinsh     0711 B440110-C  Z De Lo Ni Po        404 Zh
+Chterifl.     0712 C140455-A    De Ni Po           210 Zh     
+Iabje         0714 E480433-7  Y De Ni Pr           604 Zh
+Zhdiafrstijts 0716 C0007B9-B    As Na              310 Zh
+Qiazianchezh  0718 C5379A9-9    Hi In              111 Zh
+Jdapiejtal    0720 D564544-2    Ag Ni              304 Zh
+Defltlakr     0815 C667757-A                       803 Zh
+Edldieflsh    0818 C773589-8    Ni                 703 Zh
+Garonne       0912 D120789-7    De Na Po           124 Na     
+Klassiklad    1113 C637961-6    Hi In              920 Na
+Traxler       1114 B5549B8-A  J Hi                 104 Na     
+Mosby         1217 E979AD9-7    Hi In           A  103 Na
+Damrong       1316 D867489-5  M Ni                 403 Na
+Queue         1317 D666535-7    Ag Ni              312 Na
+Guimaca       1319 A4108A9-C    Na              A  102 Na
+Asschyrkrylen 1411 B853101-C  M Lo Ni Po           224 Es
+Nashua        1415 B58A343-D    Lo Ni Wa           404 Na
+Grotesk       1416 A7A48D9-8    Fl                 214 Na
+Krierkriss    1511 B4011BA-B  F Ic Lo Ni Va        324 Es
+Vivaldi       1517 C220303-C    De Lo Ni Po        305 Na
+Finzi's Niche 1613 A583857-A    Ri Ch              904 Na     
+Assoulda      1615 B400763-8  J Na Va              210 Na
+Ibadam        1617 C546636-4    Ag Ni              425 Na
+Trommler      1618 C5109B9-8    Hi Na              700 Na
+Tiffanye      1619 C200999-A  V Hi Na Va           213 Na
+Buxomworld    1720 C95A9A6-7    Hi Wa           A  112 Na
+Claudet       1811 A114836-B  J Ic                 305 Na
+Sadowa        1813 B86A322-A  J Lo Ni Wa           415 Na
+Billingsgate  1911 B645889-B  F                    812 Na      
+New Harmony   1916 B565766-8    Ag Ri              824 Na
+Corymb        1918 E677636-5    Ag Ni              514 Na
+Constance     2014 B96A7A4-8    Wa                 823 Na
+Harmony       2015 A4039C9-9  F Hi Ic Na Va        823 Na     
+Enterprise    2016 B7668A5-5  J                    323 Na
+Naturalin's W.2120 E696214-4    Lo Ni              603 Na     
+Anhinga       2211 B9B7248-7  M Fl Lo Ni           803 Na
+Digenis Ak.   2217 E250410-7    De Ni Po           704 Na     
+Calabash      2315 D692777-2                       502 Na
+Phalarope     2319 C310525-6    Ni                 503 Na
+Temnikov      2413 C868200-9    Lo Ni              505 Na
+Ffestinog     2420 D110200-6    Lo Ni              103 Na
+Ovlov         2512 C444247-7  S Lo Ni              902 Co
+Nyikos        2516 E559678-6    Ni                 504 Co
+Rogani        2613 B969695-A  N Ni Ri              204 Co
+Salimbene     2614 C353514-A  S Ni Po              305 Co
+Mokdol        2617 C6167AA-9  S Ic                 623 Co
+Vaal          2711 C223665-8    Na Ni Po           404 Co
+Dover         2713 CAE8379-A  S Fl Lo Ni           914 Co
+Dzaeri        2716 D96A466-7    Ni Wa              401 Co
+Ciresi        2717 C310744-A  S Na                 204 Co
+Jzar          2720 E223000-0    Ba Lo Ni           600 Co
+Vermekdis     2811 C768877-7  S Ri                 411 Co
+Arzet         2813 B454568-A  S Ag Ni              823 Co
+Torvach       2913 A537698-D  N Ni                 113 Co
+Durnal        2914 C78779A-8  S Ag Ri              600 Co
+Zorarius      2916 C000A7A-E  S As Hi Na           122 Co
+Mavris        2917 D000200-8    As Lo Ni           320 Co
+Mansoori      3014 D6536AC-6    Ni Po              604 Co
+Denmordan     3020 C788331-5    Lo Ni              305 Co
+Caenard       3112 B659899-C  S                    603 Co
+Kjonaas       3119 E551478-2    Ni Po              704 Co
+Lorigos       3213 C546659-8  S Ag Ni              910 Co
+Faenzi        3217 X000000-0    As Ba Lo Ni        010 Co
+Drieglechzhen 0121 XAB8444-9    Fl Ni              513 Zh
+Iadrdeibr     0322 C79A845-6                       413 Zh
+Tsuroka       0426 C687799-6    Ag Ri              904 Na
+Yavakrbi      0521 A878879-C  Z                    750 Zh
+Andress Balfor0523 B523598-A  V Ni Po              503 Na
+Rumio         0525 B667630-A    Ag Ni              703 Na
+Loser's Land. 0726 B120156-A    De Lo Ni Po     A  304 Na     
+Big Bruno     0822 BA88533-9    Ag Ni              923 Na
+Tumereng      0829 X776589-3    Ag Ni              624 Na
+Telleria      0926 A877944-A    Hi In              814 Tc     
+Ralnn         1025 A987855-A  J Ri                 431 Tc
+Orylla        1026 AA65926-A  J Hi                 103 Tc     
+Drien         1124 C847AE0-9    Hi In              410 Tc
+Zelos         1125 X8684A9-1    Ni                 421 Tc
+Necto         1224 C8587DA-8  V Ag                 801 Tc
+Divrigi       1227 B525457-A    Ni                 202 Na     
+Andwella      1422 B998356-B  J Lo Ni              300 Na
+Gateway       1530 X700000-0    Ba Lo Ni Va        030 Ac
+Whitestar     1721 B3569C9-C    Hi In              704 Na     
+Semkarr       1730 AA66945-C  J Hi In Rs           631 Ac     
+Delphye       1821 C355723-5    Ag                 512 Na
+Syreeta       1824 B543522-A    Ni Po              822 Na     
+Aubusson      1827 A252145-B  J Lo Ni Po           623 Na
+Melroh's World1830 B655611-D    Ag Ni              501 Ac
+Circulus      1922 B000996-A  J As Hi Na           122 Na     
+Erzurum Con.  1923 D503679-4  M Ic Na Ni        A  513 Na     
+Hyperion      1926 A510AB9-A    Hi Na           A  104 Na     
+Lithopaga     1929 A4048A9-9  J Ic              A  415 Na
+Oltrogge      2021 C543455-8    Ni Po              713 Na
+Yarx          2025 C000764-A    As Na              514 Na
+Cotinga       2224 C725979-8  M Hi In           A  812 Na
+Cabranidi     2227 E588512-3    Ag Ni              203 Na
+Lost Sogamoso 2322 E664403-5    Ni              A  103 Na
+Toungoo       2426 C000630-9  V As Na Ni           712 Na
+XVR-2529      2529 X300000-0    Ba Va Lo Ni        014 Na
+Joshi         2721 E310000-0    Ba Lo Ni           403 Co
+Gaddis        2726 C100365-C  S Lo Ni Va           801 Co
+Gatrael       2823 D421672-7    Na Ni Po           103 Co
+Pernikka      2826 C236996-9  S Hi In              305 Co
+Kadri         2830 E789445-6    Ni                 924 Na
+Waarshu       2924 C55688C-8  S                    123 Co
+Relluen       3025 B130959-F  N De Hi In Na Po     210 Co
+Nassiri       3026 D334202-6    Lo Ni              624 Co
+Rozennes      3121 B667677-9  S Ag Ni Ri           902 Co
+Corll         3122 C676410-6    Ni                 624 Co
+Etrinae       3126 C000373-A  S As Lo Ni           631 Co
+Perveen       3128 E100000-0    Ba Lo Ni Va        010 Co
+Kosar         3221 D343988-5    Hi In Po           110 Co
+Helix Institut0736 B00041A-G  V Ni Va Rs           101 Na     
+Velnite El.   1031 C556698-7  M Ag Ni Ri           115 Na     
+New Freedom   1137 X894579-0    Ag Ni              913 Na
+Winfarr       1232 D101117-D    Ic Lo Ni Va        311 Ac
+Milisann      1234 D312216-C    Ic Lo Ni Rs        122 Ac
+Shield        1235 B211416-D  J Ic Ni              232 Ac
+Laivons       1331 A322465-E  J Ni                 311 Ac
+Holgarrem     1332 X921000-0    Ba Lo Ni Po        010 Ac
+Howler        1334 B585669-E    Ag Ni Ri Rs        621 Ac
+Leavani       1335 A674924-D  F Hi In Hw           201 Ac     
+Rikkiti       1337 D4A1118-D    Fl Lo Ni           302 Ac
+Melvina       1339 X546000-0    Ba Lo Ni        R  413 Na
+Gorva         1433 A6577C9-C  F Ag                 921 Ac
+Thogola       1434 DA93116-C    Lo Ni              701 Ac
+Shesta        1436 A966974-C  J Hi Hw              201 Ac     
+Dorthan       1532 D844165-D    Lo Ni              203 Ac
+Arcturus      1533 A984925-F  F Hi Cx Hw           301 Ac     
+Ectite        1535 X000000-0    As Ba Lo Ni        011 Ac
+Matemoris     1538 X655470-2    Ni                 511 Ac
+Persus        1634 A744728-E    Ag Hw              322 Ac
+Villia        1635 C834214-D    Lo Ni              201 Ac
+Vinvahla      1636 AA73986-E    Hi In Hw Rs        211 Ac     
+Matoloum      1637 X8C3000-0    Ba Fl Ic Lo Ni     001 Ac
+Xylus         1731 DR00315-C    Lo Na Ni           530 Ac
+Hero          1732 B310684-D  M De Lo Na Ni        331 Ac
+Merro         1734 A9668A7-C                       301 Ac
+Dyaldan       1740 D6A4656-3    Fl Ni              403 Na
+Neechotova    1832 A9659A8-F    Hi                 201 Ac     
+Torvin        1833 X000000-0    Ba Lo Ni           010 Ac
+Yuhreil       1838 C4126J9-A    Ic Na Ni           122 As
+Tellan        1932 B558365-D  J Lo Ni              611 Ac     
+Creswell Crags1936 E000730-8    As Na              324 Na
+Malcom's Folly2033 D683415-6    Ni                 611 Na
+Fiwel         2037 B1507KA-9  R De Po              224 As
+Aulisohai     2039 D674AK7-A    Hi In              122 As
+Alriyhkauwa   2040 A5838K3-A  R Ri Ch              823 As
+Iyhlrau       2135 C7564J6-9    Ni                 724 As
+Bushveld      2231 C586111-6    Lo Ni              610 Na
+Oikah         2235 B3349K9-9  R Hi In              824 As     
+Hohwah        2237 D350AK6-B  R De Hi Po           124 As     
+Ihahteawiwo   2238 B5549H4-A  R Hi                 821 As     
+Easihyu       2335 B5752K2-B  R Lo Ni              423 As
+Htalrea       2340 A4715M7-A    Ni                 923 As
+Khteawoilrleu 2436 C8696M9-7    Ni Ri              524 As
+Asgari        2534 X364767-3    Ag Ri              723 Na
+XVR-2540      2540 X520000-0    Ba De Lo Ni        004 Na
+Xiao          2633 E788344-3    Lo Ni              214 Na
+Saishigei     2638 E452634-4    Ni Po              113 Na
+Feandar       2736 X656543-0    Ag Ni              700 Na
+Geregad       2839 D336533-9    Ni                 604 Na
+Zandri        2931 E8A2545-8    Ni                 812 Na
+Ivery         2934 D486236-6    Lo Ni              602 Na
+Fuquay        3032 D0008BF-9    As Na              411 Na
+Yuska         3035 C685422-9    Ni                 211 Hc
+Kereq         3037 C6747BA-5    Ag                 611 Hc
+Brosius       3135 CA9A688-A    Fl Ni Wa           202 Hc
+Varanna       3136 B752475-B  S Ni Po              405 Hc
+Kathrit       3238 D579741-7                       100 Hc

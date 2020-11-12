@@ -1,0 +1,36 @@
+@SUB-SECTOR:Aslani SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tal'ao        2531 B6444J8-9    Ag                 412 As                  
+Tekhaao       2535 A8768M4-C  R Ag                 613 As                  
+Iroioah       2539 B4124K3-A    Ic                 321 As                  
+Akhwohyal     2631 A2113G5-A    Lo                 632 As                  
+Tlasoistsen   2634 D4433H2-8    Pr                 611 As                  
+Yehstalwye    2636 B4184G4-A    Ic Lo              713 As                  
+Astraykte     2637 C99A3G6-9    Wa Lo              821 As                  
+Eteasteah     2735 C6676M4-9    Ag                 301 As                  
+Eiwiytih      2738 C4224J7-A    Lo                 512 As                  
+Khyuryate     2739 B8749H8-B    In                 922 As                  
+Hleakhawa     2832 C5345J4-9    Pr                 913 As                  
+Ktiskheao     2835 C6135J5-9    Ic Ni              422 As                  
+Teavearl      2840 CBA84J2-A    Fl Lo              711 As                  
+Khte Hryea    2934 X100000-0                       013 As                  
+Taroeakh      2935 C3245M5-B    Pr                 522 As                  
+Layeaukhtyei  2937 A975AL5-D    In Hi Cp           713 As                  
+Taroekh       2939 B5748L7-B    In                 921 As                  
+Layeaukhtyei  3034 A8449N5-C    In                 522 As                  
+Etwaynah      3039 CCC22G7-C    Lo Pr Re           31* As                  
+Elkoikholaya  3131 B5645J5-9    Ag                 602 As                  
+Flykalear     3132 D6559H5-A    Hi                 411 As                  
+Hoisoiwatoua  3134 EA796M6-9    Ag                 332 As                  
+Khteirir      3136 C8C45K2-A    Ni                 901 As                  
+Khehkhier     3138 C7582K8-C    Lo                 702 As                  
+Htoleakh      3232 A6759H9-D  T In                 732 As                  
+Shieahk       3235 B8A64H4-A    Fl                 810 As                  
+Flyukhtai     3236 X742000-0                       020 As                  
+Grunthieuy    3239 B6756N8-B    Ag                 301 As                  

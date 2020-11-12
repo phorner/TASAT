@@ -1,0 +1,32 @@
+@SUB-SECTOR:Araniopa  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Stone Place   2526 X101000-0                       011                      
+Inorne        2624 X955000-0                       011                      
+Kaiear        2628 CA835M4-9    Ag                 312 As                  
+Tlehiui       2629 E4323M4-9    Pr                 421 As                  
+Stiphon       2724 X543000-0                       012                      
+Astra         2822 X322000-0                       020                      
+Hruhyaiu      2824 A4335L7-D  U Pr                 613 As                  
+Easakhou      2826 A5667N6-C  R Ag                 402 As                  
+Oakhlafah     2830 C2113G5-A    Lo                 311 As                  
+Zono          2922 X610000-0                       010                      
+Ihkyatou      2924 C5524M4-A    Pr                 721 As                  
+Yieakye       2929 B4545M5-9    Ag                 513 As                  
+Aokaoreah     2930 D4333G5-A    Pr                 632 As                  
+Shotkaha      3025 B1042G4-B    Ic Lo              312 As                  
+Ya' Uiyakh    3029 X615000-0                       001 As                  
+Ihateieakh    3122 C7686J5-9    Ag                 202 As                  
+Leitihakei    3124 C3152G2-A    Lo Ic              321 As                  
+Teiykiea      3125 A4758H5-B    In                 722 As                  
+Sueiyrie      3126 C9253K6-A    Ni                 321 As                  
+Ka'aheakh     3128 C8766H2-B    Ag                 611 As                  
+Airhelu       3129 D1102G2-A    Lo Pr              311 As                  
+Tlasostsea    3221 D9677M3-B    Ag                 831 As                  
+Ukhtaihasoi   3225 C7692G4-B    Lo Re              413 As                  
+Khrykyrie     3228 B4645K8-9    Ag                 831 As                  

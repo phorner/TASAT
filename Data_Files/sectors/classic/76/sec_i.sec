@@ -1,0 +1,31 @@
+@SUB-SECTOR:Zydar  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Besulla       0121 D600110-8    De                 504 CL                  
+Rabanitas     0122 A869446-B    NI                 422 CL                  
+Goerge Heap   0125 C558621-7    Na Ni              412 CL                  
+Lyheric       0127 E445834-7    In                 611 CL                  
+Destrada      0128 C511233-8    Na Ni              502 CL                  
+Fubar         0130 E930100-6    De                 301                     
+Phoenix       0226 C666559-9    Ag Ni              713 CL                  
+Ufhlug        0328 C645344-6    Ni                 324 CL                  
+Six Mile Run  0329 B57A557-B    Ni Wa              423 CL                  
+Farth's Folly 0422 D552325-3    Ni Pr              733 CL                  
+Nowhere       0423 X67A000-0    Ic                 023 CL                  
+Nestor        0430 E684216-8    Ni                 323                     
+Dawn          0522 E583783-3    Ri                 523 CL                  
+Ouiqawah      0528 D2002FD-9    Na Ni              922 CL                  
+Healer        0623 E689422-5    Ni                 523 CL                  
+Asimov        0625 D555695-B    Ni                 614 CL                  
+Virtue        0626 E471345-B    Na Ni              822 CL                  
+Tompir        0630 E87C243-6    Ni                 513 CL                  
+Atlantis      0723 C86A667-A    Wa                 534 CL                  
+Kermanshah    0724 E412456-5    Ni                 912 CL                  
+Nether Farquar0821 E967541-3    Na Ni Ri           523 CL                  
+Admiralty     0825 C869674-6    Na Ni              613 CL                  
+Backside      0828 X331000-0                       023                      

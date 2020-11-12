@@ -1,0 +1,29 @@
+@SUB-SECTOR:Mal'Gnar Radiant  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Snowlaltha    2507 B655685-A    Ag Ri              713 SW                  
+Midway        2601 B511323-A    Lo                 212                      
+Thrape        2602 C201211-A    Lo Pr              402                      
+Snontore      2604 B634584-B    Pr                 631 SW                  
+Snunonas      2608 A876985-C    In Hi              412 SW                  
+Snippours     2705 B665786-9    Ag                 812 SW                  
+Snoutylous    2706 B876985-A    In                 523 SW                  
+Snolitis      2709 A322583-B  J Pr                 422 SW                  
+Sannavall     2802 CA88533-7    Ag                 513                      
+Mornavin      2803 DB93317-A    Lo Re              411                      
+Snovilla      2903 A966784-B    Ag Ri              803 SW                  
+Sred Ni Heptad2907 AVVVA86-C    Hi In Cp           813 SW                  
+Snreaminarr   3001 B565683-A    Ag                 812 SW                  
+Snim Dahl     3003 AA86785-B    Ag Ri              522 SW                  
+Snuthinam     3004 B332583-A    Ni                 632 SW                  
+Snan Frie     3007 B894985-B  D In                 523 SW                  
+Snrithmar     3101 CAD4482-A    Fl Lo              511 SW                  
+Snyl Mnour    3108 B100483-B    Pr Lo              331 SW                  
+Snygulali     3201 B544584-A  J Ag                 612 SW                  
+Snughlar      3203 A856685-A    Ag                 511 SW                  
+Snylon        3206 C317385-A    Ic Na              622 SW                  

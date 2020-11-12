@@ -1,0 +1,31 @@
+@SUB-SECTOR:Mapepire   SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Station One   0101 E352100-8    Ni Pr Re           211                      
+Barba Amarilla0104 D240234-9    De Ni Na           313 Ma                  
+Salimar       0105 C86763A-A    Ag Ni Ri           611 Ma                  
+Lanthesandra  0107 X900000-0    De                 022                      
+La Luz Negra  0110 C833684-9    Na Ni Pr           212 CL                  
+Alpha Centre  0205 B668778-8  F Na Ni              512 Ma                  
+Gullan        0208 XA02000-0    De                 013                     
+Sextoni       0304 B767853-A  D Na Ri              921 Ma                  
+Araataga      0307 D446651-7    Ag Ni              424 Ma                  
+Vlad          0401 C664659-5    Ni Ri              511 Ma                  
+Beaumonda     0402 CA99974-B    In Ri              433 Ma                  
+Lilith's Song 0405 D7665C7-5    Ag Ni              224 Ma                  
+Between       0409 B996781-A    Ag                 514                     
+Jheszes       0504 C323250-8    Ni Pr              522 Ma                  
+Opar Nevis    0506 D867872-6    Na Ri              323 Ma                  
+Kawstee       0507 C464595-6    Ag Ni              833 Ma                  
+Bel's Station 0508 B212313-A    Ni                 424                      
+MalepireBalsyn0602 A887835-D    Ni Ri Cp           723 Ma                  
+Par-a-Dice    0608 C324314-A    Na                 632                     
+Fiesland      0704 C533310-7    Ni Pr              424 Ma                  
+Terdis        0705 C769748-8    Ri                 513 Ma                  
+Cave Caem     0803 C986479-B    Ni                 513                      
+Glynaese      0806 B867713-8    Na                 322                      

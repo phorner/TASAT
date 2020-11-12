@@ -1,0 +1,29 @@
+@SUB-SECTOR:Storm  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Inferno       1734 XC22000-0                       041                      
+Delcorre      1740 C321312-B    Pr Lo              831                      
+Siren         1831 X521000-0                       010                      
+Point Null    1836 X100000-0                       010                      
+Riggar        1837 C545496-9    Pr                 311                      
+Devil's Foot  1933 X401000-0                       011                      
+Delentash     1939 X321000-0                       010                      
+Aktohr        2036 X000000-0                       010                      
+Sniel         2132 X723000-0                       020                      
+Tlankhu       2138 B7646H6-A  R Ag                 611 As                  
+Hwyoweas      2139 C4223G3-A    Lo Pr              312 As                  
+Rockhome      2233 X311000-0                       000                      
+Kittyland     2234 X101000-0                       010                      
+Fesoikhte     2237 A8769J5-B    In                 523 As                  
+Firuahtuka    2331 B6435M4-B    Pr                 422 As                  
+Ohteewan      2333 X801000-0                       001                      
+Shi Ukhtal    2340 B4437N6-C  R Pr                 512 As                  
+Esoueari      2434 D5584H1-9    Ag                 603 As                  
+Eikhofirauh   2435 C5445K3-9    Ag                 522 As                  
+Khukhtyel     2435 CB884K6-8    Ag                 712 As                  
+Shitfaowol    2440 B4423K4-A    Lo Po              513 As                  

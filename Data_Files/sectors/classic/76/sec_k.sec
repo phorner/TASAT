@@ -1,0 +1,34 @@
+@SUB-SECTOR:I'Sred* Ni Heptad SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Excaliber     1724 A876945-C  D In                 622 SR                  
+Brennan       1725 C311322-A    Ni Lo              411 SR                  
+Bar Shellan   1726 A666544-9    Ag                 902 SR                  
+Weleveshiven  1729 CBC1263-B    Fl Lo Re           312                      
+Camlaen       1824 C234323-A    Pr                 642 SR                  
+Stormgrad     1827 B556645-B    Ag                 511 SR                  
+Remedius      1921 C511442-A    Pr                 941 SR                  
+Endore        1930 D221313-A    Pr Rs              211                      
+Mage World    2022 B554523-A    Ag                 921 SR                  
+Fleet World   2024 A512487-B  J Ni                 613 SR                  
+Hell          2025 B612587-A  F Ni                 311 SR                  
+Ardor         2121 A622445-B    Lo                 521 SR                  
+Rest Haven    2122 C762643-B    Lo                 712 SR                  
+Joyful Noise  2125 D566522-7    Ag                 402 SR                  
+Mercuras      2127 A431587-C  J Na                 813 SR                  
+Corrugare     2222 B455644-9    Ni                 913 SR                  
+Frostbite     2225 C364423-9    Ni                 422 SR                  
+Relam         2228 E512100-A    Lo                 511                      
+Rector        2325 C211325-B    Ic Lo              631 SR                  
+Vanity        2326 A632686-C  J Na                 712 SR                  
+Stoney Flats  2328 X200000-0                       011                      
+Sant Rabloes  2421 BB97845-B  J In                 921 SR                  
+Destiny       2424 A967523-C  J Ag                 613 SR                  
+Granite       2427 X9C1000-0                       011                      
+Astrogath     2428 X876000-0                       012                      
+Wafoua        2430 C3114G4-A    Pr                 811 As                  

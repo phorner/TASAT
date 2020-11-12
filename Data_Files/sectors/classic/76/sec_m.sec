@@ -1,0 +1,26 @@
+@SUB-SECTOR:Spinward Drift SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hexal-Thur    0135 B512285-C    Ic                 311 MC                  
+Bresseler     0136 B722185-C    Ic                 410 MC                  
+Haestell      0232 XD11000-0    De                 024                     
+Deata Chi     0238 D323240-6    Ni Na              812                     
+Efflung       0335 CAC7185-C    Re                 723 MC                  
+Teldarra      0336 C8A8285-D    Re                 413 MC                  
+Hennia's Hope 0337 C68A288-D    Re                 511 MC                  
+Gonzo         0340 E872000-0    De                 014                     
+Morstal       0431 B142555-A    Ic                 512                     
+DeltaCephiBase0432 B852326-B    Ni Pr Re           323                     
+Paskin        0434 D783185-C                       321 MC                  
+Bartinil      0435 DA57185-C                       611 MC                  
+Hactor        0537 D434339-7    Na Ni              631                     
+Homeward      0636 C100212-A    Re                 413                      
+Hornent       0639 XDB1000-0                       031                      
+Haes          0735 E533561-6    Na Pr              311                      
+Nubb          0738 XCCA000-0    Ic                 022                      
+Apparos       0739 B976753-9    Ag                 811                      

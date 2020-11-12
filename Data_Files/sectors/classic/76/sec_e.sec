@@ -1,0 +1,35 @@
+@SUB-SECTOR:Delta  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Nehwon        0111 D866570-4    Ag Ni              302 CL                  
+Al Mustan     0113 C869363-8    Ag                 521 CL                  
+G'henna       0114 B5487FA-A    Ni Mr              414 CL                  
+Ani yun Wiya  0116 D8A6674-4    Na Ni              212 CL                  
+Sha'anoe      0119 B863788-B    Ri                 713 CL                  
+Z'chmel       0214 D559614-4    Ni                 311 CL                  
+Dorstyal      0216 BA96847-B    Ni                 412 CL                  
+Utopia        0218 E855311-5    Ag Ni              511 CL                  
+Innuit        0220 CB97778-8    Na Ni              421 CL                  
+Trayfowen     0311 CC6454A-9    Ni                 522 CL                  
+Chicomecal    0312 D333322-8    Ni Pr              324 CL                  
+Qat's Key     0313 CB54454-6    Ni Pr              324 CL                  
+Intercourse   0314 A8649A6-A    Hi                 834 CL                  
+Liberty       0316 C3406BB-9    Na                 312 CL                  
+Shangra La    0318 EC66421-4    Ni                 515 CL                  
+Aytah Peal    0417 A688463-B  F Na Ni              924 CL                  
+Zeno          0511 XC13000-0                       011                      
+Tezcat        0512 D548220-7    Na Ni              822 CL                  
+Chulte        0513 B310555-B    Na Ni              723 CL                  
+Xanadu        0519 A7675A7-C    Ni                 814 CL                  
+Kemlot        0616 B5679B8-8    Na                 513 CL                  
+Valhalla      0618 A963844-B  D Ni                 622 CL                  
+Garr          0714 D8679E7-4                       422 CL                  
+Enigma Primus 0718 E454212-6    Ni                 623 CL                  
+Kadeth        0719 B320666-9    Na Pr              714 CL                  
+Azathoth      0814 B544322-A    Na                 532 CL                  
+Siva          0815 C965721-6    Ag Ni              723 CL                  

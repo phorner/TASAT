@@ -1,0 +1,33 @@
+@SUB-SECTOR:Metchi' Alagwa  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+God's Wrath   0911 E5487EC-5    Na                 814 CL                  
+Centre'       0915 C5638C9-9    Ni                 622 CL                  
+Angkor        0920 E312775-4    Na                 812 CL                  
+Tinzhy        1014 C210200-5    Ni Na              812 CL                  
+Fisher King   1017 X400379-8    Na Pr              312 CL                  
+Talmut        1114 D4634E9-6    Ni                 331 CL                  
+Bushido       1118 A577738-C    Ag Ri              522 CL                  
+Shekerleb     1214 A310798-B    Ni Na              521 CL                  
+Escee Aye     1215 E654338-4    Ni                 621 CL                  
+Vanity        1313 E445362-6    Ni                 911 CL                  
+Jehovah's Arm 1314 A9757E8-B    In Na              701 CL                  
+Neutronia     1319 D756434-4    Ni                 422 CL                  
+I-Chang       1320 C865557-6    Ag Ni              324 CL                  
+Bantu         1411 C563655-8    Ni Ri              723 CL                  
+Techlan       1412 BB85473-8    Ni                 314 CL                  
+Freya         1414 A869646-B    Ni                 602 CL                  
+Elba          1415 E471345-6    Ni                 523 CL                  
+Salin         1417 E412456-8    Ni                 313 CL                  
+Descare       1513 B543343-5    Ni                 421 CL                  
+We'uns        1516 D987300-6    Na Ni              612 CL                  
+Dark Star     1519 X110000-0                       010                      
+Navarre       1613 A7776A6-B  F Na                 622 CL                  
+Last Stop     1614 D564367-9    Ni                 902 CL                  
+Link          1617 B232312-A    Lp Ni              413                      
+Cypger        1618 X510000-0                       010                      

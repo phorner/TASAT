@@ -1,0 +1,28 @@
+@SUB-SECTOR:Northeast Middle Beyond SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Examma        1715 X911000-0                       010                     
+Twordle       1720 C100263-B    Ni Lo Re           233 SR                  
+Wey Station   1812 B211211-B    Pr Lo              301                      
+Torgau        1817 B433444-A    Pr                 522 SR                  
+Rolland       1917 B645544-A    Ag Ni              512 SR                  
+Landhaven     1918 AA77946-C    In Hi              603 SR                  
+Cid's World   2011 C434425-A    Pr                 902 SR                  
+Valemin       2012 A665744-C    Ag Ri              523 SR                  
+Liberty Hall  2016 B854646-B  D Ag Ni              421 SR                  
+Stromhaven    2020 A976A45-D    In Hi Cp           413 SR                  
+Victoria      2113 A668623-8    Ag                 311 SR                  
+Vellemia      2115 B571644-A    Na                 622 SR                  
+Spirtos       2116 C210212-A    Pr Lo              432 SR                  
+Levahnu       2120 B311214-B  D Pr                 613 SR                  
+Thunder       2218 B334443-B    Lo Pr              702 SR                  
+Hedda         2312 C211110-B    Lo                 612                      
+Frankland     2319 B756744-9    Ag                 911 SR                  
+Reabling      2413 E201311-B    Lo Ic              512                      
+Distrutution  2414 X610000-0                       001                      
+Lahasha       2420 C453543-A    Pr                 412 SR                  

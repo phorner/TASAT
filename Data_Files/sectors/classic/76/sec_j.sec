@@ -1,0 +1,28 @@
+@SUB-SECTOR:Middle Beyond  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Caveat        0923 E553566-7    Ni Pr              931 CL                  
+GolalasShrelac0924 C876976-8    Na Ni Pr           613 CL                  
+Maa' El       0930 B434789-9                       723 MS                  
+Terra Nova    1023 C546475-6    Ni                 513 CL                  
+Millers Island1024 D658343-7    Na Ni              423 CL                  
+Pit Stop      1026 B100214-A                       424                      
+Mal' Tlam     1028 C546587-A    Ni                 813 MS                  
+New Damascus  1123 D655476-5    Ag                 613 CL                  
+Neibling      1126 X211000-0                       030                     
+Nekro         1225 X221100-0                       010                     
+Gateway       1227 B822213-B    Ni Lo              402                     
+Maa' Dwen     1229 C675788-C    Ni Na              402 MS                  
+Mal'Gnar El   1230 A66698A-C    Ag Cp              422 MS                  
+Stovall       1324 B212314-9    Ni                 213                      
+Mal'Drees     1330 B765588-A    Ag                 412 MS                  
+Broduhr       1522 B301213-B    Ni Pr              322 SR                  
+Venture's Home1526 B556524-B    Ag Ni              713 SR                  
+Rocky         1530 X201000-0                       031                     
+Burk          1623 C666424-8    Ag                 512 SR                  
+Teglass       1626 C342322-A    Ni Na              622 SR                  

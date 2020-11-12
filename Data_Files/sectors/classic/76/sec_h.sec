@@ -1,0 +1,30 @@
+@SUB-SECTOR:Darkling Regions SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Snelleathi    2511 A766883-B    Ri                 621 SW                  
+Snoothmalie   2512 C322485-A    Pr                 432 SW                  
+Asrogoth      2513 X521000-0                       010                      
+Web Edge      2514 B211210-B    Pr Lo              212                      
+Bingo         2516 X610000-0                       030                      
+Tellus        2518 B322310-9    Pr                 102                      
+Snissnppri    2611 C424582-A    Pr                 931 SW                  
+Extro         2614 XAB1000-0                       020                      
+Testrous      2717 B533434-B    Pr                 512 FL                  
+Aacheon       2720 X410000-0                       021                      
+Snouthita     2811 B867684-8    Ag                 621 SW                  
+Snathkila     2911 B322484-B    Pr                 331 SW                  
+Eptid         2913 B675654-B    Ag Ni              611 FL                  
+Sarlon        2915 C532313-A    Pr                 322 FL                  
+Hruhyaou      2920 A6345L7-D  T Pr                 412 As                  
+Radion        3011 C432536-A    Ni                 431 FL                  
+Indarin       3015 B521336-B  D Lo Ni              511 FL                  
+Micruss       3016 A641538-C  J Pr                 302 FL                  
+Healveakh     3020 C3214G4-A    Pr Lo              522 As                  
+Mis Noam      3112 A556737-B    Ag                 612 FL                  
+Peopus        3114 A875936-D    In Cp              721 FL                  
+Shikhyuryatre 3220 CC6A4M8-A    Wa                 303 As                  

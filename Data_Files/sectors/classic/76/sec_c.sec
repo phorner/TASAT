@@ -1,0 +1,29 @@
+@SUB-SECTOR:Der Weltbund   SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Pingue        1701 B444686-B  J Ag Ni              612 PB                  
+Degmann       1709 C543434-A    Ni Lo              321 PB                  
+Balleau       1802 B456579-A    Ag                 712 PB                  
+Ongjoco       1901 A876856-B  J In                 812 PB                  
+Devo Star     1904 X310000-0                       020                      
+Apprati       1907 C645555-9    Ag                 613 PB                  
+Rudisill      1908 B955687-A    Ag                 802 PB                  
+Escobarre     2004 D100212-B    Lo                 312                      
+Strength      2102 BA86799-C    In                 512 DA                  
+Courage       2103 B667698-9    Ag                 701 DA                  
+Sailor' Rest  2107 B221312-A    Lo                 322                     
+Diversion     2108 X301000-0                       010                      
+Drake-Arr     2201 A876998-D    In Cp              633 DA                  
+Eternity      2203 B654598-B    Ag                 921 DA                  
+Kao           2207 C100310-A    Lo                 412                      
+Humanity      2301 B645599-A    Ag                 212 DA                  
+Snealantha    2305 A753684-A    Pr                 621 SW                  
+Rest Stop     2308 B213211-A    Lo Ni              302                      
+Tyren         2309 X400000-0                       001                      
+Genetics      2402 BB85497-B    Ag                 821 DA                  
+Breeding      2403 C556799-9    Ag                 731 DA                  

@@ -1,0 +1,30 @@
+@SUB-SECTOR:Liberty Hall  SECTOR:Beyond
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fraldon       0905 B100234-B    Na Ni              523                      
+Dragonrest    1002 C767485-7    Na Ni              834 PB                  
+Bethoom       1006 C200110-9    Ni Pr              603                      
+Arbellatra    1102 CC62A89-A    Ni                 422 PB                  
+Ixchel        1103 A534435-B    Ni                 602 PB                  
+Kursor        1104 B666758-C    Ag Ri              823 PB                  
+Stopover      1107 C311213-A    Ni Lo              113                      
+Jeldemar      1205 E523000-0                       001 PB                  
+Dumark        1302 A846735-D    Ag Cp              502 PB                  
+Knife Blade   1306 A733587-C  J Na                 513 PB                  
+Bragga        1307 C8A66E9-9    Wa Ni              411 PB                  
+Huhn's Planet 1308 B963482-8    Na                 711 PB                  
+Tejcek        1401 A856527-B  F Ni                 921 PB                  
+Reis          1403 C766554-9    Ag Ni              502 PB                  
+Koewing       1405 C140431-B    Na Ni Pr           422 PB                  
+Chubbuck      1409 D663659-6    Ni Ri              502 PB                  
+Trejbal       1501 C526375-7    Ni                 522 PB                  
+Yaple         1503 A674757-C  D In Na              411 PB                  
+Probsts Planet1505 D234213-A    Ni Pr              623 PB                  
+Bec-de-Corbin 1604 A576955-C    In Na Cp           522 PB                  
+Vinduss       1607 X610000-0                       030 PB                  
+Maruta        1609 C434434-A  F Ni                 413 PB                  
