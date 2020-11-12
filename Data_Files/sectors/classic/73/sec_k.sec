@@ -1,0 +1,28 @@
+@SUB-SECTOR:Vyfura SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1722          1722 XAD6000-2    Ba Fl Lo Ni        014 Na G1 IV
+1726          1726 X567000-1    Ba Lo Ni           010 Na F7 V M2 D
+1826          1826 X875005-2    Lo Ni              004 Na F1 V M6 D M9 D
+1827          1827 X443000-3    Ba Lo Ni Po        000 Na F3 V M3 D
+1828          1828 X313000-2    Ba Ic Lo Ni        003 Na K5 V M2 V
+1830          1830 X520000-3    Ba De Lo Ni Po     000 Na K9 V
+1921          1921 X310000-1    Ba Lo Ni           004 Na G8 V M2 D M4 V
+1922          1922 X410000-0    Ba Lo Ni           010 Na A2 V
+1923          1923 X210000-1    Ba Lo Ni           004 Na M0 V
+2021          2021 X97A001-5    Lo Ni Wa           014 Na F3 V
+2026          2026 X200003-3    Lo Ni Va           012 Na M8 V
+2121          2121 X575000-0    Ba Lo Ni           023 Na F3 V
+2123          2123 X413000-2    Ba Ic Lo Ni        012 Na G4 V M6 D
+2125          2125 X340003-4    De Lo Ni Po        002 Na G1 V
+2322          2322 X691001-2    Lo Ni              005 Na F8 V
+2324          2324 X624003-0    Lo Ni              021 Na G4 V M3 D
+2329          2329 X000000-2    As Ba Lo Ni        014 Na M6 V M9 V
+2423          2423 X668002-1    Lo Ni              021 Na F5 V
+2425          2425 X8C4000-4    Ba Fl Lo Ni        013 Na K6 V M6 D

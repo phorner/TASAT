@@ -1,0 +1,25 @@
+@SUB-SECTOR:Klantor SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0214          0214 X555000-2    Ba Lo Ni           004 Na F5 V M4 D
+0219          0219 X79A000-2    Ba Lo Ni Wa        003 Na F8 V
+0220          0220 X695002-3    Lo Ni              003 Na F7 V M7 D
+0314          0314 X487001-3    Lo Ni              022 Na F2 V
+0315          0315 X559003-2    Lo Ni              000 Na F3 V
+0318          0318 X375003-2    Lo Ni              001 Na F0 V
+0319          0319 X8A4000-2    Ba Fl Lo Ni        012 Na M0 V
+0415          0415 X774001-0    Lo Ni              004 Na F3 V
+0511          0511 X130000-2    Ba De Lo Ni Po     004 Na G4 III
+0513          0513 X634000-1    Ba Lo Ni           001 Na M8 V M3 D
+0514          0514 X130003-6    De Lo Ni Po        003 Na M1 V M1 D
+0614          0614 X246004-0    Lo Ni              005 Na F6 V M2 D
+0715          0715 X110005-4    Lo Ni              005 Na M8 V
+0812          0812 XA57000-0    Ba Lo Ni           021 Na G8 V M5 D
+0815          0815 X310000-0    Ba Lo Ni           000 Na A8 V
+0816          0816 X210000-1    Ba Lo Ni           004 Na M2 V M5 D

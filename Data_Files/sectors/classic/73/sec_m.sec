@@ -1,0 +1,29 @@
+@SUB-SECTOR:Stane SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0133          0133 X000000-3    As Ba Lo Ni        004 Na M9 V
+0137          0137 X959000-2    Ba Lo Ni           014 Na F3 V M0 D
+0335          0335 X8B7000-3    Ba Fl Lo Ni        000 Na G9 V M9 D
+0339          0339 X56A000-5    Ba Lo Ni Wa        014 Na F7 V M4 D
+0340          0340 X436000-3    Ba Lo Ni           014 Na M3 V
+0431          0431 X110000-1    Ba Lo Ni           003 Na G7 V M1 D
+0432          0432 X676001-0    Lo Ni              003 Na F3 V
+0433          0433 X221003-3    Lo Ni Po           002 Na G6 V
+0437          0437 X200003-0    Lo Ni Va           023 Na K2 V
+0438          0438 XAC4000-1    Ba Fl Lo Ni        030 Na M5 V M4 D
+0440          0440 X696001-3    Lo Ni              003 Na F9 V
+0732          0732 X242000-4    Ba Lo Ni Po        001 Na G1 V
+0734          0734 X200000-0    Ba Lo Ni Va        013 Na F0 III
+0736          0736 X402000-5    Ba Ic Lo Ni Va     003 Na F8 V M2 D
+0738          0738 X88A000-0    Ba Lo Ni Wa        003 Na K9 V
+0833          0833 X100001-5    Lo Ni Va           002 Na K2 V M2 D
+0835          0835 X777000-0    Ba Lo Ni           005 Na K9 V
+0836          0836 X789004-2    Lo Ni              021 Na M3 V
+0837          0837 X201000-1    Ba Ic Lo Ni Va     004 Na M7 V M5 D
+0838          0838 X333001-5    Lo Ni Po           014 Na M5 V M5 D

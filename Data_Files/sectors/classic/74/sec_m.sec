@@ -1,0 +1,25 @@
+@SUB-SECTOR:Eiebl SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0138          0138 X547010-0    Lo Ni              025 Na
+0139          0139 X687011-0    Lo Ni              024 Na
+0231          0231 X577004-3    Lo Ni              004 Na
+0237          0237 X549011-2    Lo Ni              000 Na
+0334          0334 X578011-0    Lo Ni              021 Na
+0336          0336 X430001-5    De Lo Ni Po        013 Na
+0338          0338 X987003-0    Lo Ni              012 Na
+0431          0431 X000000-2    As Ba Lo Ni        021 Na
+0432          0432 X000000-5    As Ba Lo Ni        021 Na
+0435          0435 X787014-1    Lo Ni              003 Na
+0534          0534 X9D4000-4    Ba Fl Lo Ni        014 Na
+0538          0538 X221001-0    Lo Ni Po           003 Na
+0632          0632 X854000-0    Ba Lo Ni           010 Na
+0633          0633 X788000-2    Ba Lo Ni           023 Na
+0634          0634 X100000-1    Ba Lo Ni Va        005 Na
+0734          0734 XA7A002-4    Lo Ni Wa           012 Na
+0739          0739 X250000-3    Ba De Lo Ni Po     013 Na

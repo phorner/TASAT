@@ -1,0 +1,29 @@
+@SUB-SECTOR:Janzya'jopr SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+1723          1723 X537056-2    Lo Ni              021 Na
+1729          1729 X422000-1    Ba Lo Ni Po        010 Na
+1822          1822 X500055-0    Lo Ni Va           024 Na
+1823          1823 XAC6041-1    Fl Lo Ni           002 Na
+1824          1824 X488045-3    Lo Ni              013 Na
+1825          1825 X457046-0    Lo Ni              013 Na
+1830          1830 X000000-5    As Ba Lo Ni        000 Na
+1924          1924 X7B3047-3    Fl Lo Ni           024 Na
+2025          2025 X66A059-3    Lo Ni Wa           004 Na
+2026          2026 X253040-1    Lo Ni Po           022 Na
+2125          2125 X357044-0    Lo Ni              013 Na
+2127          2127 X855040-1    Lo Ni              002 Na
+2223          2223 X452042-3    Lo Ni Po           025 Na
+2224          2224 X210044-4    Lo Ni              003 Na
+2226          2226 X465043-0    Lo Ni              002 Na
+2230          2230 X63A003-6    Lo Ni Wa           003 Na
+2322          2322 X569035-1    Lo Ni              004 Na
+2323          2323 X326043-2    Lo Ni              024 Na
+2329          2329 X110000-6    Ba Lo Ni           010 Na
+2422          2422 X647034-2    Lo Ni              024 Na
+2429          2429 X250000-0    Ba De Lo Ni Po     005 Na

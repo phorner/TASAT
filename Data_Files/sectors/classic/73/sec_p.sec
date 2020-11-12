@@ -1,0 +1,25 @@
+@SUB-SECTOR:Fundibul SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2537          2537 X979003-4    Lo Ni              001 Na F2 V M3 D
+2540          2540 X355010-2    Lo Ni              013 Na F5 V
+2633          2633 X77A015-1    Lo Ni Wa           002 Na F0 V
+2636          2636 X9A4000-2    Ba Fl Lo Ni        001 Na G3 V M9 D
+2639          2639 X202010-4    Ic Lo Ni Va        000 Na M8 IV
+2731          2731 X631015-0    Lo Ni Po           002 Na M3 V M6 V
+2737          2737 X567011-2    Lo Ni              003 Na F5 V M2 D
+2738          2738 X425012-1    Lo Ni              003 Na M0 V
+2932          2932 X8A3000-1    Ba Fl Lo Ni        024 Na K8 III M6 D
+2933          2933 X749000-2    Ba Lo Ni           003 Na G9 V M2 D
+2940          2940 X110000-6    Ba Lo Ni           004 Na F4 IV M4 V
+3036          3036 X524001-3    Lo Ni              013 Na A0 III
+3038          3038 X110005-5    Lo Ni              010 Na M6 III
+3131          3131 X343000-0    Ba Lo Ni Po        013 Na F7 V
+3140          3140 X385000-1    Ba Lo Ni           004 Na K2 V
+3234          3234 X422000-1    Ba Lo Ni Po        024 Na M5 V M5 D

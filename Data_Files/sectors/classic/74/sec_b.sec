@@ -1,0 +1,46 @@
+@SUB-SECTOR:Aquaria SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+^1601 4
+^1601 5
+^1602 4
+^1602 5
+^1603 3
+^1603 4
+^1603 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0905          0905 X86A004-4    Lo Ni Wa           005 Na
+0907          0907 X332004-0    Lo Ni Po           000 Na
+0908          0908 X798001-2    Lo Ni              003 Na
+1004          1004 X757000-3    Ba Lo Ni           010 Na
+1005          1005 X444000-2    Ba Lo Ni           004 Na
+1006          1006 X345003-4    Lo Ni              003 Na
+1007          1007 X653000-0    Ba Lo Ni Po        000 Na
+1009          1009 X5A0000-3    Ba De Lo Ni        014 Na
+1010          1010 X658000-1    Ba Lo Ni           002 Na
+1103          1103 X234045-3    Lo Ni              004 Na
+1106          1106 X557000-0    Ba Lo Ni           000 Na
+1107          1107 X468001-4    Lo Ni              003 Na
+1108          1108 X200004-2    Lo Ni Va           000 Na
+1201          1201 X968049-1    Lo Ni              003 Na
+1202          1202 XAB6048-0    Fl Lo Ni           011 Na
+1204          1204 X000046-3    As Lo Ni           013 Na
+1205          1205 X100046-2    Lo Ni Va           024 Na
+1207          1207 X100000-5    Ba Lo Ni Va        014 Na
+1301          1301 X587030-0    Lo Ni              003 Na
+1306          1306 X527000-2    Ba Lo Ni           000 Na
+1307          1307 X685000-0    Ba Lo Ni           014 Na
+1403          1403 X333044-2    Lo Ni Po           012 Na
+1404          1404 X100041-1    Lo Ni Va           015 Na
+1408          1408 X794032-1    Lo Ni              002 Na
+1409          1409 X7C5033-0    Fl Lo Ni           004 Na
+1509          1509 X787032-0    Lo Ni              002 Na
+1510          1510 X89A020-0    Lo Ni Wa           013 Na
+Iyidlde'      1602 C332569-B  S Ni Po              104 Iz
+Fra'ozh       1603 B579352-9    Lo Ni              405 Iz
+1605          1605 XAD3000-2    Ba Fl Lo Ni        013 Na
+1609          1609 X65A030-2    Lo Ni Wa           003 Na

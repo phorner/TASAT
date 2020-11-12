@@ -1,0 +1,71 @@
+@SUB-SECTOR:Bilahew SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2201 2140 0 -1
+#
+#Political borders
+^1705 0
+^1705 1
+^1705 2
+^1805 4
+^1805 3
+^1906 2
+^1906 3
+^1906 4
+^2005 2
+^2005 3
+^2105 2
+^2105 3
+^2204 2
+^2204 3
+^2304 2
+^2304 3
+^2403 1
+^2403 2
+^2403 3
+^2402 1
+^2402 2
+^2401 1
+^2401 2
+^2400 1
+^2400 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+1707          1707 X201025-4    Ic Lo Ni Va        002 Na
+1708          1708 X353020-2    Lo Ni Po           000 Na
+1710          1710 X000032-1    As Lo Ni           020 Na
+Rjlif         1802 B34557B-7    Ag Ni              300 Iz
+Plipr         1803 C414120-6    Ic Lo Ni           703 Iz
+Ienchieevr    1804 B692565-8    Ni                 102 Iz
+Yer           1805 B552344-7  N Lo Ni Po           404 Iz
+1806          1806 X686034-0    Lo Ni              000 Na
+1807          1807 X66A033-0    Lo Ni Wa           020 Na
+1808          1808 X565024-0    Lo Ni              010 Na
+1809          1809 X130037-0    De Lo Ni Po        002 Na
+Vlenzplieshi  1903 B232234-D    Lo Ni Po           405 Iz
+Plazzhda      1906 B100786-D    Na Va              900 Iz
+1908          1908 X552020-0    Lo Ni Po           001 Na
+Ibljdonzhapr  2002 CAA3015-5  S Fl Lo Ni           712 Iz
+2006          2006 X343033-0    Lo Ni Po           014 Na
+2007          2007 X346032-3    Lo Ni              002 Na
+Dianzh        2102 C86A455-7    Ni Wa              123 Iz
+Iantsietlie   2105 C471438-A    Ni                 415 Iz
+Stochblala    2201 C410220-8  S Lo Ni              503 Iz
+Siev          2202 C667444-7  S Ni                 214 Iz
+Shitl         2203 C200657-9    Na Ni Va           123 Iz
+Dievr         2204 C511425-9    Ic Ni              203 Iz
+2207          2207 X76A035-0    Lo Ni Wa           024 Na
+2208          2208 X313032-1    Ic Lo Ni           002 Na
+Peblfliens    2301 CAD588B-7  S Fl                 622 Iz
+Orsta'e       2304 C448877-8                       721 Iz
+2305          2305 X9A7041-0    Fl Lo Ni           005 Na
+2307          2307 X567045-0    Lo Ni              004 Na
+Pieqdinzhabl  2402 C73A553-B    Ni Wa              604 Iz
+Katl          2403 C87A769-9  S Wa                 302 Iz
+2404          2404 X100000-6    Ba Lo Ni Va        002 Na
+2407          2407 XAA5046-0    Fl Lo Ni           003 Na
+2408          2408 X663048-0    Lo Ni              013 Na
+2410          2410 X555044-1    Lo Ni              022 Na

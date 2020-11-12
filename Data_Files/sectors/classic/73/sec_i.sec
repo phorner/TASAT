@@ -1,0 +1,27 @@
+@SUB-SECTOR:Ingo SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0122          0122 X553000-0    Ba Lo Ni Po        002 Na F5 V
+0125          0125 X556000-0    Ba Lo Ni           004 Na F2 V M5 D
+0126          0126 X140010-0    De Lo Ni Po        003 Na F0 V
+0224          0224 X110014-4    Lo Ni              001 Na M3 V
+0227          0227 X230011-2    De Lo Ni Po        003 Na F6 V M9 D
+0321          0321 X535000-4    Ba Lo Ni           004 Na M3 V M7 V
+0428          0428 X240012-3    De Lo Ni Po        005 Na F9 V
+0521          0521 X486000-0    Ba Lo Ni           003 Na F4 V M7 D
+0528          0528 XA59000-0    Ba Lo Ni           000 Na F9 V M2 D
+0530          0530 X668011-0    Lo Ni              020 Na F5 V M8 D
+0624          0624 X488000-0    Ba Lo Ni           004 Na F9 V M7 D M0 D
+0626          0626 X878003-2    Lo Ni              012 Na K0 V
+0627          0627 X88A000-5    Ba Lo Ni Wa        014 Na G9 V M5 D
+0628          0628 X567010-1    Lo Ni              003 Na G5 V M7 D
+0630          0630 X554012-0    Lo Ni              024 Na G0 V M8 D
+0724          0724 X352001-4    Lo Ni Po           000 Na F3 V M4 D
+0822          0822 X6A0003-3    De Lo Ni           013 Na M5 V
+0830          0830 X140000-1    Ba De Lo Ni Po     002 Na F9 V M1 D

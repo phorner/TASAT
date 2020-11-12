@@ -1,0 +1,20 @@
+@SUB-SECTOR:Ozhev SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+1732          1732 X100035-5    Lo Ni Va           004 Na
+1733          1733 X254035-0    Lo Ni              020 Na
+1834          1834 X439040-2    Lo Ni              023 Na
+1836          1836 X000042-4    As Lo Ni           005 Na
+1839          1839 X000042-2    As Lo Ni           024 Na
+2035          2035 X547044-0    Lo Ni              013 Na
+2131          2131 X98A038-0    Lo Ni Wa           011 Na
+2136          2136 X321058-5    Lo Ni Po           013 Na
+2338          2338 X77A054-1    Lo Ni Wa           004 Na
+2431          2431 X000042-1    As Lo Ni           015 Na
+2432          2432 X884034-0    Lo Ni              000 Na
+2433          2433 X868034-0    Lo Ni              002 Na

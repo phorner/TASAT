@@ -1,0 +1,31 @@
+@SUB-SECTOR:Rdrefrn-40 SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0921          0921 X559020-0    Lo Ni              004 Na
+0923          0923 X100010-2    Lo Ni Va           003 Na
+0925          0925 X000021-3    As Lo Ni           004 Na
+1122          1122 X455020-3    Lo Ni              002 Na
+1125          1125 X887011-0    Lo Ni              000 Na
+1127          1127 X503000-4    Ba Ic Lo Ni Va     013 Na
+1129          1129 X777010-0    Lo Ni              012 Na
+1224          1224 X763013-0    Lo Ni              004 Na
+1321          1321 X210037-4    Lo Ni              005 Na
+1322          1322 X667024-0    Lo Ni              003 Na
+1323          1323 X400020-3    Lo Ni Va           000 Na
+1422          1422 X7A0023-3    De Lo Ni           004 Na
+1424          1424 XAB4010-1    Fl Lo Ni           023 Na
+1427          1427 X326001-4    Lo Ni              005 Na
+1521          1521 X698000-0    Ba Lo Ni           002 Na
+1522          1522 X52A000-4    Ba Lo Ni Wa        014 Na
+1524          1524 X536000-2    Ba Lo Ni           025 Na
+1525          1525 X487014-2    Lo Ni              024 Na
+1528          1528 X769010-0    Lo Ni              023 Na
+1530          1530 X222002-5    Lo Ni Po           002 Na
+1624          1624 X9B5011-2    Fl Lo Ni           023 Na
+1628          1628 X324001-3    Lo Ni              023 Na
+1630          1630 X350002-1    De Lo Ni Po        004 Na

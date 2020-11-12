@@ -1,0 +1,27 @@
+@SUB-SECTOR:Plutting SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0912          0912 X000013-3    As Lo Ni           002 Na M5 V
+0916          0916 X446020-1    Lo Ni              013 Na G6 V
+1014          1014 X887032-0    Lo Ni              004 Na G5 V
+1211          1211 X644020-1    Lo Ni              014 Na K0 V M1 D
+1212          1212 X5A1020-0    Fl Lo Ni           000 Na M6 IV M0 V
+1213          1213 X510021-1    Lo Ni              015 Na M7 V M1 D
+1214          1214 X340038-0    De Lo Ni Po        020 Na K1 V
+1217          1217 X658024-0    Lo Ni              004 Na F8 V M4 D
+1311          1311 X6A2021-3    Fl Lo Ni           003 Na G5 V M4 D
+1313          1313 X470023-2    De Lo Ni           024 Na F4 V
+1317          1317 X544032-2    Lo Ni              002 Na G8 V M8 D
+1414          1414 X78A034-2    Lo Ni Wa           010 Na G5 V
+1514          1514 X789034-0    Lo Ni              003 Na F3 V
+1517          1517 X658044-1    Lo Ni              012 Na F1 V M7 D
+1518          1518 X000043-3    As Lo Ni           003 Na M2 V M9 D
+1615          1615 X646020-0    Lo Ni              000 Na K7 V
+1618          1618 X540046-0    De Lo Ni Po        003 Na F5 V M3 D
+1620          1620 X514045-1    Ic Lo Ni           024 Na M8 V

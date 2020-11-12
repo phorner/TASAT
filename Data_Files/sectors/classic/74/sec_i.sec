@@ -1,0 +1,26 @@
+@SUB-SECTOR:Encha SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0125          0125 X68A001-4    Lo Ni Wa           005 Na
+0127          0127 X555001-0    Lo Ni              005 Na
+0128          0128 X335000-4    Ba Lo Ni           003 Na
+0223          0223 X230005-0    De Lo Ni Po        002 Na
+0229          0229 X410000-0    Ba Lo Ni           024 Na
+0330          0330 X230001-0    De Lo Ni Po        024 Na
+0429          0429 X585002-3    Lo Ni              001 Na
+0523          0523 X000000-6    As Ba Lo Ni        003 Na
+0528          0528 X83A000-4    Ba Lo Ni Wa        003 Na
+0629          0629 X786003-3    Lo Ni              003 Na
+0630          0630 XA75000-3    Ba Lo Ni           004 Na
+0722          0722 X837001-3    Lo Ni              002 Na
+0725          0725 X545000-1    Ba Lo Ni           000 Na
+0726          0726 X65A002-2    Lo Ni Wa           013 Na
+0730          0730 X9C3000-0    Ba Fl Lo Ni        001 Na
+0821          0821 X9A0000-1    Ba De Lo Ni        003 Na
+0823          0823 X89A012-2    Lo Ni Wa           021 Na
+0827          0827 X444000-0    Ba Lo Ni           013 Na

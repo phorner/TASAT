@@ -1,0 +1,35 @@
+@SUB-SECTOR:Pieshivl  SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0103          0103 X658000-2    Ba Lo Ni           024 Na
+0104          0104 X6A2003-4    Fl Lo Ni           004 Na
+0110          0110 X622027-3    Lo Ni Po           000 Na
+0202          0202 X542004-0    Lo Ni Po           013 Na
+0203          0203 X5A0000-1    Ba De Lo Ni        014 Na
+0205          0205 X574021-0    Lo Ni              002 Na
+0207          0207 X545023-2    Lo Ni              004 Na
+0210          0210 X786014-1    Lo Ni              004 Na
+0304          0304 X515003-2    Ic Lo Ni           013 Na
+0309          0309 X789010-0    Lo Ni              010 Na
+0401          0401 X964024-1    Lo Ni              003 Na
+0404          0404 X120001-6    De Lo Ni Po        013 Na
+0409          0409 X333010-4    Lo Ni Po           002 Na
+0506          0506 X644011-1    Lo Ni              013 Na
+0602          0602 X8B2000-4    Ba Fl Lo Ni        005 Na
+0604          0604 X000000-4    As Ba Lo Ni        002 Na
+0606          0606 X000015-3    As Lo Ni           014 Na
+0607          0607 X54A002-1    Lo Ni Wa           024 Na
+0608          0608 X511012-1    Ic Lo Ni           024 Na
+0609          0609 X346012-0    Lo Ni              004 Na
+0703          0703 X200000-0    Ba Lo Ni Va        021 Na
+0706          0706 X200002-1    Lo Ni Va           023 Na
+0707          0707 X232003-4    Lo Ni Po           012 Na
+0709          0709 X365010-0    Lo Ni              022 Na
+0710          0710 X442010-1    Lo Ni Po           000 Na
+0809          0809 X864011-0    Lo Ni              003 Na
+0810          0810 X400000-0    Ba Lo Ni Va        023 Na

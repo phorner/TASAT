@@ -1,0 +1,40 @@
+@SUB-SECTOR:Vanguard SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+2511          2511 X110001-5    Lo Ni              010 Na
+2512          2512 X110000-6    Ba Lo Ni           000 Na
+2515          2515 XACA015-4    Fl Lo Ni Wa        010 Na
+2517          2517 X465015-0    Lo Ni              003 Na
+2611          2611 X63A004-1    Lo Ni Wa           003 Na
+2618          2618 X855012-0    Lo Ni              003 Na
+2711          2711 X559004-1    Lo Ni              022 Na
+2712          2712 X8A2000-3    Ba Fl Lo Ni        014 Na
+2713          2713 X422001-3    Lo Ni Po           000 Na
+2714          2714 XA9A001-4    Lo Ni Wa           003 Na
+2719          2719 X985010-0    Lo Ni              004 Na
+2720          2720 X9C6011-3    Fl Lo Ni           004 Na
+2814          2814 X678004-2    Lo Ni              005 Na
+2815          2815 X888000-0    Ba Lo Ni           002 Na
+2817          2817 X351002-0    Lo Ni Po           013 Na
+2818          2818 X487000-0    Ba Lo Ni           021 Na
+2911          2911 X210000-3    Ba Lo Ni           025 Na
+2912          2912 X200000-5    Ba Lo Ni Va        000 Na
+2913          2913 X554000-3    Ba Lo Ni           004 Na
+2915          2915 X736000-3    Ba Lo Ni           014 Na
+2916          2916 X698003-3    Lo Ni              003 Na
+2918          2918 X223014-2    Lo Ni Po           000 Na
+3018          3018 X200014-4    Lo Ni Va           010 Na
+3111          3111 X9D8003-4    Fl Lo Ni           022 Na
+3112          3112 X955000-1    Ba Lo Ni           002 Na
+3117          3117 X355000-0    Ba Lo Ni           001 Na
+3119          3119 X695022-0    Lo Ni              012 Na
+3120          3120 X555024-0    Lo Ni              024 Na
+3213          3213 X200000-1    Ba Lo Ni Va        003 Na
+3215          3215 X8B0000-1    Ba De Lo Ni        002 Na
+3217          3217 X454000-4    Ba Lo Ni           004 Na
+3220          3220 X568024-0    Lo Ni              003 Na

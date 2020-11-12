@@ -1,0 +1,38 @@
+@SUB-SECTOR:Zhdierqr SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0918          0918 X782001-2    Lo Ni              015 Na
+0919          0919 X262002-1    Lo Ni              024 Na
+0920          0920 X988005-0    Lo Ni              012 Na
+1013          1013 X555000-2    Ba Lo Ni           001 Na
+1015          1015 X000010-5    As Lo Ni           003 Na
+1017          1017 X88A001-3    Lo Ni Wa           000 Na
+1111          1111 X547000-1    Ba Lo Ni           014 Na
+1112          1112 X675000-3    Ba Lo Ni           005 Na
+1115          1115 X100000-4    Ba Lo Ni Va        011 Na
+1119          1119 X99A000-2    Ba Lo Ni Wa        004 Na
+1213          1213 X431003-5    Lo Ni Po           000 Na
+1215          1215 X543011-0    Lo Ni Po           004 Na
+1313          1313 X474004-2    Lo Ni              003 Na
+1318          1318 X310015-1    Lo Ni              001 Na
+1319          1319 X220016-0    De Lo Ni Po        001 Na
+1320          1320 X435000-2    Ba Lo Ni           003 Na
+1416          1416 X000010-2    As Lo Ni           012 Na
+1417          1417 X327000-4    Ba Lo Ni           005 Na
+1418          1418 X330014-4    De Lo Ni Po        004 Na
+1512          1512 X645013-0    Lo Ni              014 Na
+1515          1515 X254010-2    Lo Ni              004 Na
+1516          1516 X728010-0    Lo Ni              003 Na
+1519          1519 X78A011-2    Lo Ni Wa           002 Na
+1611          1611 X7B0012-0    De Lo Ni           004 Na
+1614          1614 X549020-2    Lo Ni              004 Na
+1615          1615 X685020-0    Lo Ni              025 Na
+1617          1617 XA7A022-3    Lo Ni Wa           013 Na
+1618          1618 X986023-0    Lo Ni              000 Na
+1619          1619 X462022-1    Lo Ni              001 Na
+1620          1620 X853025-0    Lo Ni Po           004 Na

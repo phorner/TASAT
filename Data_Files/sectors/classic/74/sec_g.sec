@@ -1,0 +1,39 @@
+@SUB-SECTOR:Tiachtiebria SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+1712          1712 X774000-2    Ba Lo Ni           022 Na
+1713          1713 X98A003-0    Lo Ni Wa           004 Na
+1714          1714 XA7A002-4    Lo Ni Wa           021 Na
+1716          1716 X468000-0    Ba Lo Ni           014 Na
+1718          1718 X262000-3    Ba Lo Ni           004 Na
+1813          1813 X9C2000-4    Ba Fl Lo Ni        013 Na
+1817          1817 X300000-2    Ba Lo Ni Va        005 Na
+1818          1818 X782002-0    Lo Ni              004 Na
+1820          1820 X610004-3    Lo Ni              002 Na
+1911          1911 X857000-0    Ba Lo Ni           000 Na
+1915          1915 X575000-0    Ba Lo Ni           003 Na
+1917          1917 X676004-3    Lo Ni              010 Na
+1918          1918 X679000-0    Ba Lo Ni           004 Na
+1919          1919 X85A000-5    Ba Lo Ni Wa        001 Na
+2014          2014 X461002-2    Lo Ni              010 Na
+2018          2018 X675024-0    Lo Ni              023 Na
+2111          2111 X000000-5    As Ba Lo Ni        000 Na
+2119          2119 X576024-1    Lo Ni              012 Na
+2214          2214 X460000-0    Ba De Lo Ni        012 Na
+2215          2215 X574004-2    Lo Ni              033 Na
+2216          2216 X222003-0    Lo Ni Po           014 Na
+2218          2218 X443020-0    Lo Ni Po           012 Na
+2220          2220 X786036-1    Lo Ni              000 Na
+2314          2314 X511002-1    Ic Lo Ni           015 Na
+2316          2316 X853000-3    Ba Lo Ni Po        005 Na
+2317          2317 X256000-2    Ba Lo Ni           013 Na
+2319          2319 X000033-2    As Lo Ni           021 Na
+2411          2411 X100000-4    Ba Lo Ni Va        013 Na
+2413          2413 X679004-2    Lo Ni              002 Na
+2415          2415 X671000-0    Ba Lo Ni           000 Na
+2416          2416 X545000-2    Ba Lo Ni           004 Na

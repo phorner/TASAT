@@ -1,0 +1,25 @@
+@SUB-SECTOR:Vantor SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1711          1711 X6B1001-0    Fl Lo Ni           000 Na G8 IV M5 V
+1712          1712 X100004-3    Lo Ni Va           013 Na K4 V
+1916          1916 X558011-1    Lo Ni              011 Na F6 V
+1917          1917 XAD4012-1    Fl Lo Ni           023 Na M7 IV M9 V
+1920          1920 X410012-1    Lo Ni              011 Na M6 V
+2011          2011 X200035-2    Lo Ni Va           004 Na K2 V M7 D
+2014          2014 X867024-1    Lo Ni              000 Na F4 V M9 D
+2117          2117 X657015-0    Lo Ni              015 Na F3 V
+2214          2214 X559032-0    Lo Ni              004 Na G8 V
+2315          2315 X450033-2    De Lo Ni Po        013 Na F1 V
+2316          2316 X6B1024-0    Fl Lo Ni           003 Na M9 V
+2412          2412 X100020-1    Lo Ni Va           001 Na M9 III
+2414          2414 X557037-0    Lo Ni              000 Na F8 V M9 D
+2416          2416 X464038-3    Lo Ni              024 Na F3 V
+2418          2418 X230021-3    De Lo Ni Po        023 Na K8 V M5 D
+2419          2419 X691020-0    Lo Ni              000 Na F7 V M1 D

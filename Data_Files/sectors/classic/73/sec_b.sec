@@ -1,0 +1,28 @@
+@SUB-SECTOR:Ratatta SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0906          0906 X100000-5    Ba Lo Ni Va        025 Na K8 V M2 D
+0907          0907 X332000-3    Ba Lo Ni Po        003 Na F3 II
+1006          1006 X000000-4    As Ba Lo Ni        003 Na M6 V M9 V
+1009          1009 X200011-0    Lo Ni Va           013 Na M4 V
+1010          1010 X8B2011-3    Fl Lo Ni           004 Na K7 V
+1102          1102 X525003-2    Lo Ni              011 Na M7 V
+1207          1207 X658000-0    Ba Lo Ni           011 Na F3 V M8 D
+1208          1208 X575000-0    Ba Lo Ni           002 Na F2 V
+1210          1210 XAAA015-0    Fl Lo Ni Wa        003 Na G2 V M0 D
+1305          1305 X200002-2    Lo Ni Va           004 Na K8 V M5 D
+1307          1307 X86A002-4    Lo Ni Wa           000 Na K9 V
+1309          1309 X5A0000-3    Ba De Lo Ni        014 Na M6 V
+1404          1404 X344001-4    Lo Ni              010 Na G7 V
+1405          1405 X785000-0    Ba Lo Ni           010 Na G2 V
+1406          1406 X898000-0    Ba Lo Ni           025 Na F4 V
+1407          1407 X6A6000-0    Ba Fl Lo Ni        003 Na M3 V
+1504          1504 X467005-3    Lo Ni              023 Na F1 V M1 D
+1601          1601 X684000-0    Ba Lo Ni           025 Na F9 V M3 D
+1604          1604 X401000-0    Ba Ic Lo Ni Va     000 Na M1 V

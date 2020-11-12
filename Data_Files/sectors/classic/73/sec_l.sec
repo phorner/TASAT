@@ -1,0 +1,24 @@
+@SUB-SECTOR:Blahonga SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2521          2521 X562033-0    Lo Ni              023 Na M3 V
+2522          2522 X434030-0    Lo Ni              023 Na M0 V M7 D
+2526          2526 X355036-0    Lo Ni              004 Na F0 V
+2621          2621 X694031-0    Lo Ni              023 Na F3 V
+2626          2626 X554033-0    Lo Ni              014 Na F8 V
+2725          2725 X8D4043-0    Fl Lo Ni           002 Na M2 V
+2726          2726 X310030-1    Lo Ni              005 Na G9 V
+2821          2821 X536032-2    Lo Ni              022 Na G5 V
+2823          2823 X130024-1    De Lo Ni Po        020 Na F3 IV
+3025          3025 X776046-0    Lo Ni              014 Na F6 V M8 D
+3125          3125 X735044-2    Lo Ni              002 Na M9 IV
+3222          3222 X672046-1    Lo Ni              003 Na F9 V
+3224          3224 X585041-0    Lo Ni              005 Na F4 V
+3229          3229 XA8A000-4    Ba Lo Ni Wa        001 Na G1 V
+3230          3230 X566000-0    Ba Lo Ni           000 Na F9 V

@@ -1,0 +1,20 @@
+@SUB-SECTOR:Idella  SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+2531          2531 X100000-4    Ba Lo Ni Va        020 Na
+2532          2532 X000000-1    As Ba Lo Ni        024 Na
+2533          2533 X500000-1    Ba Lo Ni Va        000 Na
+2638          2638 X610046-2    Lo Ni              003 Na
+2732          2732 X77A003-4    Lo Ni Wa           000 Na
+2831          2831 X100004-6    Lo Ni Va           002 Na
+2832          2832 XACA000-5    Ba Fl Lo Ni Wa     014 Na
+2931          2931 X9C0000-4    Ba De Lo Ni        000 Na
+2933          2933 X888000-1    Ba Lo Ni           024 Na
+2934          2934 X432000-5    Ba Lo Ni Po        003 Na
+3034          3034 X98A001-0    Lo Ni Wa           010 Na
+3133          3133 X599041-0    Lo Ni              000 Na

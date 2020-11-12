@@ -1,0 +1,20 @@
+@SUB-SECTOR:Obunemias SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1807          1807 X330000-5    Ba De Lo Ni Po     000 Na M6 III M4 V
+1904          1904 X644002-0    Lo Ni              013 Na G8 V
+1906          1906 X200000-2    Ba Lo Ni Va        020 Na M6 V M4 D
+2005          2005 X333000-0    Ba Lo Ni Po        005 Na A2 V
+2101          2101 X557001-3    Lo Ni              004 Na F3 V
+2102          2102 XAD7002-2    Fl Lo Ni           014 Na F9 V M8 D
+2103          2103 X625005-4    Lo Ni              014 Na M0 V G7 D
+2110          2110 X463003-4    Lo Ni              000 Na F6 V M2 D
+2201          2201 X5A1000-3    Ba Fl Lo Ni        023 Na K8 V M3 D
+2203          2203 X659000-2    Ba Lo Ni           004 Na F8 V
+2307          2307 X100000-6    Ba Lo Ni Va        004 Na M3 V M2 V

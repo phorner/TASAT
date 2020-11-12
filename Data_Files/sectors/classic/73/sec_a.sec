@@ -1,0 +1,22 @@
+@SUB-SECTOR:Yrgonomi SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0105          0105 X421000-1    Ba Lo Ni Po        023 Na M7 IV M5 V
+0106          0106 X300000-4    Ba Lo Ni Va        004 Na M6 V M9 D
+0302          0302 X130000-2    Ba De Lo Ni Po     003 Na M1 V
+0309          0309 X373000-2    Ba Lo Ni           005 Na F6 V
+0406          0406 X782000-0    Ba Lo Ni           001 Na F0 V
+0408          0408 X778041-0    Lo Ni              003 Na F6 V
+0501          0501 X212000-2    Ba Ic Lo Ni        024 Na M3 V M6 D
+0502          0502 X240053-2    De Lo Ni Po        012 Na G6 V M7 D
+0510          0510 X539003-5    Lo Ni              002 Na M7 V M5 D
+0603          0603 X486058-3    Lo Ni              011 Na F7 V
+0704          0704 X310052-0    Lo Ni              013 Na M6 V
+0707          0707 XAA7056-4    Fl Lo Ni           014 Na F9 V
+0708          0708 XA89056-2    Lo Ni              010 Na F3 V

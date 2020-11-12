@@ -1,0 +1,36 @@
+@SUB-SECTOR:Lythgoe SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+2504          2504 X77A000-2    Ba Lo Ni Wa        004 Na
+2509          2509 X560004-1    De Lo Ni           024 Na
+2603          2603 X778000-0    Ba Lo Ni           002 Na
+2606          2606 X353001-0    Lo Ni Po           025 Na
+2607          2607 X372001-2    Lo Ni              024 Na
+2609          2609 X427005-0    Lo Ni              024 Na
+2704          2704 X553000-3    Ba Lo Ni Po        003 Na
+2706          2706 X8A5000-1    Ba Fl Lo Ni        003 Na
+2707          2707 X744000-1    Ba Lo Ni           003 Na
+2710          2710 X452000-3    Ba Lo Ni Po        013 Na
+2804          2804 X676000-2    Ba Lo Ni           003 Na
+2903          2903 XAB9004-1    Fl Lo Ni           001 Na
+2904          2904 X384001-0    Lo Ni              000 Na
+2905          2905 X866000-0    Ba Lo Ni           002 Na
+2906          2906 X160003-4    De Lo Ni           003 Na
+3001          3001 X410021-1    Lo Ni              003 Na
+3006          3006 X212002-3    Ic Lo Ni           024 Na
+3101          3101 X636014-0    Lo Ni              002 Na
+3102          3102 X582010-0    Lo Ni              004 Na
+3103          3103 X8D6011-0    Fl Lo Ni           014 Na
+3104          3104 X766011-0    Lo Ni              023 Na
+3105          3105 X68A012-4    Lo Ni Wa           013 Na
+3106          3106 X300015-0    Lo Ni Va           023 Na
+3107          3107 X310016-3    Lo Ni              025 Na
+3109          3109 X422000-1    Ba Lo Ni Po        002 Na
+3201          3201 X774013-0    Lo Ni              003 Na
+3207          3207 X567000-0    Ba Lo Ni           003 Na
+3210          3210 X310000-2    Ba Lo Ni           004 Na

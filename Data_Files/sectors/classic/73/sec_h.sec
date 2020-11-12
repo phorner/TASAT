@@ -1,0 +1,27 @@
+@SUB-SECTOR:Haddox SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2511          2511 X200013-0    Lo Ni Va           002 Na M8 V M6 D
+2515          2515 X737020-2    Lo Ni              004 Na K9 V M2 V
+2517          2517 X66A022-3    Lo Ni Wa           004 Na F9 V M6 D M3 V
+2616          2616 X422020-2    Lo Ni Po           003 Na M1 V
+2617          2617 X531020-0    Lo Ni Po           011 Na M2 V M3 D
+2715          2715 X776021-0    Lo Ni              003 Na G1 V
+2717          2717 X788022-0    Lo Ni              015 Na F0 V M0 D
+2811          2811 X436010-0    Lo Ni              004 Na F0 V
+2812          2812 X423012-1    Lo Ni Po           001 Na G1 V
+2813          2813 X664000-0    Ba Lo Ni           014 Na G8 V M5 D
+2816          2816 X562024-0    Lo Ni              023 Na M8 V M7 D
+2817          2817 XA9A025-3    Lo Ni Wa           000 Na G2 V M7 D
+2819          2819 X200034-4    Lo Ni Va           005 Na M8 V M9 V
+2913          2913 X424016-0    Lo Ni              005 Na M1 V M1 D
+3017          3017 X9DA038-5    Fl Lo Ni Wa        014 Na M2 V
+3116          3116 X95A002-3    Lo Ni Wa           000 Na F7 V
+3212          3212 XA87001-2    Lo Ni              014 Na F6 V M6 D M9 D
+3219          3219 X666000-0    Ba Lo Ni           003 Na F3 V M9 D

@@ -1,0 +1,28 @@
+@SUB-SECTOR:Vilian SECTOR:Astron
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0937          0937 X887000-0    Ba Lo Ni           004 Na F1 V
+1031          1031 X422000-0    Ba Lo Ni Po        003 Na G5 V
+1036          1036 X783001-0    Lo Ni              001 Na F7 V
+1038          1038 X360002-0    De Lo Ni           024 Na F2 V
+1135          1135 X678000-0    Ba Lo Ni           004 Na G4 V M5 D
+1140          1140 X335005-5    Lo Ni              025 Na M9 V M7 D
+1231          1231 X000020-2    As Lo Ni           003 Na M8 III M1 D
+1234          1234 X64A000-4    Ba Lo Ni Wa        004 Na F5 V M2 D
+1236          1236 X404000-5    Ba Ic Lo Ni Va     002 Na M6 V
+1334          1334 X223023-3    Lo Ni Po           004 Na M0 V M4 D
+1335          1335 X514013-0    Ic Lo Ni           020 Na K2 V M1 D
+1336          1336 XAC6026-0    Fl Lo Ni           011 Na F9 V M6 D
+1337          1337 X645011-0    Lo Ni              020 Na F6 V M1 D
+1338          1338 X547010-0    Lo Ni              000 Na F8 V
+1433          1433 XAF4027-0    Fl Lo Ni           000 Na M1 V M3 V
+1434          1434 X999021-0    Lo Ni              003 Na F2 V M0 D
+1631          1631 X787010-0    Lo Ni              024 Na G4 V
+1632          1632 X331003-5    Lo Ni Po           011 Na F6 V M8 D
+1638          1638 X747010-1    Lo Ni              013 Na F5 V

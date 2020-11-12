@@ -1,0 +1,33 @@
+@SUB-SECTOR:Zachrisson SECTOR:Fulani
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+2524          2524 X777000-0    Ba Lo Ni           024 Na
+2528          2528 X511000-0    Ba Ic Lo Ni        004 Na
+2530          2530 XAC2000-3    Ba Fl Lo Ni        004 Na
+2622          2622 X322000-3    Ba Lo Ni Po        013 Na
+2625          2625 X212004-0    Ic Lo Ni           002 Na
+2627          2627 X6A0000-1    Ba De Lo Ni        001 Na
+2629          2629 X568000-0    Ba Lo Ni           000 Na
+2630          2630 X9B4020-3    Fl Lo Ni           003 Na
+2728          2728 X63A002-2    Lo Ni Wa           014 Na
+2729          2729 X453000-1    Ba Lo Ni Po        004 Na
+2823          2823 X466003-0    Lo Ni              003 Na
+2826          2826 X612002-2    Ic Lo Ni           015 Na
+2827          2827 X7A5001-0    Fl Lo Ni           025 Na
+2921          2921 X568000-2    Ba Lo Ni           014 Na
+2929          2929 X643001-3    Lo Ni Po           015 Na
+3024          3024 X677000-1    Ba Lo Ni           003 Na
+3026          3026 X500000-1    Ba Lo Ni Va        023 Na
+3027          3027 X100000-4    Ba Lo Ni Va        012 Na
+3030          3030 X332010-2    Lo Ni Po           023 Na
+3122          3122 X000000-1    As Ba Lo Ni        020 Na
+3126          3126 X779001-3    Lo Ni              003 Na
+3128          3128 X300011-1    Lo Ni Va           014 Na
+3225          3225 X262002-1    Lo Ni              000 Na
+3228          3228 X210012-0    Lo Ni              024 Na
+3230          3230 X436010-1    Lo Ni              001 Na
