@@ -1,0 +1,34 @@
+@SUB-SECTOR:Kamiar   SECTOR:Deneb
+#
+# Trade routes within the subsector
+#
+#Political Borders
+^2131 1
+^2131 2
+^2131 3
+^2031 2
+^2031 3
+^1932 2
+^1933 1
+^1933 2
+^1933 3
+^1833 2
+^1834 1
+^1834 2
+^1835 1
+^1835 2
+^1835 3
+^1736 2
+^1737 1
+^1737 2
+^1737 3
+^1738 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rif           1732 C687200-6    Lo Ni              702 Dd F4 V G4 IV
+Imazura       1733 C555555-9  S Ag Ni              203 Dd M8 V
+Takahira      1831 B9C5223-8  A Lo Ni Fl           722 Dd M7 D
+Kamlar        1832 B387462-C  N Ni                 810 Dd M2 V
+Javan         2131 C77A135-A  S Lo Ni Wa           510 Dd M0 III
+Catacomb      2234 A8A7551-B    Ni Fl              201 Cs K1 V K4 D

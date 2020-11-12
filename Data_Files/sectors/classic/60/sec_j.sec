@@ -1,0 +1,46 @@
+@SUB-SECTOR:Vincennes  SECTOR:Deneb
+#
+# Trade routes within the subsector
+$0925 0826 -1 0
+$0925 1122 0 0
+$1122 1018 0 -1
+$1122 1522 0 0
+$1522 1520 0 -1
+$1522 1623 0 0
+$1623 1925 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Norhammon     0921 B764667-A  A Ag Ni Ri Fa        620 Dd M5 VI
+Teyobald      0922 B8B3545-D    Ni Fl              822 Dd M4 VI F0 D
+Ibix Donora   0925 C332245-9    Lo Ni Po           901 Dd K1 V M3 V
+Sipedon       0929 E3536AB-8    Ni Po              902 Dd M4 V K0 D
+Arnyl         0930 B683697-8  A Ni Ri              723 Dd G2 D
+Irumunu       1023 B7B3620-C  W Ni Fl              101 Dd M6 VI M6 VI
+Frisgar       1025 E424752-9                       401 Dd M1 V K7 V K7 V
+Burtrum       1026 C5387A9-8                       501 Dd M3V M0 VI
+Prege         1030 B79A678-9    Ni Wa              702 Dd M2 V
+VINCENNES     1122 A899AA6-G    Hi In Cp           113 Dd M7 V K1 V G1 V
+Eriris        1123 D679443-7    Ni                 913 Dd F1 V
+DEKHA         1128 C100A9A-F  S Hi Na In Va        210 Dd M6 V F3 V
+Perez         1221 C536224-6    Lo Ni              801 Dd M6 VI K8 D
+Montane       1223 C683104-7    Lo Ni              122 Dd G8 V
+Achemadon     1224 A3477BB-A    Ag                 701 Dd M7 V M3 VI
+Bishop        1226 B201553-F  S Ni Va Ic           524 Dd M6 II
+Taburi Nen    1227 A44658A-B    Ag Ni              121 Dd M7 V
+Djar          1229 C3008CE-7  S Na Va              102 Dd F0 V M4 D
+Al-Upayr      1323 E567259-5    Lo Ni              513 Dd F2 V
+Jonkeer       1324 C4908C9-9  S De                 401 Dd M1 V
+Medard        1327 B321425-C    Ni Po              701 Dd K9 V G0 D M0 D
+Sarden        1424 E552652-7    Ni Po              501 Dd M6 V
+Kew           1426 C512103-B    Lo Ni Ic           313 Dd M3 V
+Condamine     1428 C665578-7    Ag Ni              921 Dd F9 V M0 V
+ISHIRI        1429 E36598A-7    Hi                 521 Dd F7 V M0 VI K0 VI
+Eretaro       1430 C9C4100-B    Lo Ni Fl           901 Dd M3 V K9 D
+Bumushe       1522 C68A657-6  S C6 Ni Ri Wa        324 Dd F9 V
+Verd          1524 E150433-6    Ni Po De           102 Dd F2 V M7 V
+HRD           1623 A401654-F  N Na Ni Va Ic        810 Dd M5 III
+Risir         1626 C230225-9    Lo Ni Po De        310 Dd K1 V M6 D
+Alaungpaya    1628 C140794-8  S Po De              601 Dd M6 V
+Brontitor     1630 B9C4210-8    Lo Ni Fl           904 Dd K0 IV

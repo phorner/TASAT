@@ -1,0 +1,11 @@
+@SUB-SECTOR:Uantil   SECTOR:Corridor
+#
+# Trade routes within the subsector
+$2511 2710 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Naagasa       2511 B5278AB-9                       524 Im F4 IV 
+Mee           2611 B9D86BA-9    Ni Fl              820 Im M6 V 
+Kiiguuroesa   2811 X200456-4    Ni Va           R  601 Im M7 V 

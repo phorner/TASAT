@@ -1,0 +1,9 @@
+@SUB-SECTOR:Vast Heavens  SECTOR:Deneb
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lorin Antune  2734 D525867-3                       410 Na M2 V M2 V
+Asharam       3031 C76279A-3    Ri                 622 Cs M4 V G9 D

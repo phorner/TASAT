@@ -1,0 +1,64 @@
+@SUB-SECTOR:Usani SECTOR:Deneb
+#
+# Trade routes within the subsector
+$1824 1623 -1 0
+$1925 1824 0 0
+$1925 1826 0 0
+$1826 1829 0 0
+$1829 1532 -1 1
+$1925 2225 0 0
+$2225 2323 0 0
+$2323 2521 1 0
+#
+#Political Borders
+^2130 1
+^2130 2
+^2230 4
+^2129 2
+^2228 1
+^2228 2
+^2228 3
+^2227 1
+^2227 2
+^2226 2
+^2326 2
+^2326 3
+^2425 1
+^2425 2
+^2425 3
+^2424 1
+^2424 2
+^2423 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Redemption    1722 X140634-1    Ni Po De        A  033 Dd G0 V
+Woaros        1726 X747678-1    Ag Ni           R  014 Dd K4 V
+Monogan       1728 E10056A-8    Ni Va              902 Dd K2 D M0 D
+Gatooma       1730 E100566-7    Ni Va              424 Dd M8 II
+Rolvaag       1821 E380345-7    Lo Ni De           804 Dd F6 V K1 D
+Tetzel        1823 B643232-B  N Lo Ni Po           301 Dd F3 V M6 D
+Farraco       1824 E200478-A    Ni Va              112 Dd K7 V
+Eshamlii      1826 A334343-B  S Lo Ni              323 Dd F2 IV
+Prefecture    1827 E1307B6-9    Na Po De           724 Dd G1 D
+Bisistra      1829 B357579-D  N Ag Ni              802 Dd M0 V
+Ronsard       1830 DA89654-8  S Ni Ri              225 Dd G5 V M5 D
+Liran         1923 B0008B8-A    Na As              811 Dd M5 VI G5 D M5 D
+DENEB         1925 B537ADD-C  N Hi In Cx           610 Dd A2 Ia
+Amshal        1926 B687365-9  N Lo Ni              622 Dd M0 VI
+Thussor Ozoam 1927 X245101-6    Lo Ni           R  615 Dd M1 V G3 III
+Exile         1928 X799212-4    Lo Ni           R  810 Dd M8 V
+Turkoman      1930 B9C67CB-7    Fl                 220 Dd A4 V
+Bruyere       2023 C524367-B  S Lo Ni              422 Dd F0 D
+Minocoy       2024 B422505-D  N Ni Po              620 Dd G4 V K5 V
+Avernus       2027 E8865A6-4    Ag Ni              602 Dd M3 V M9 VI
+Nyasal        2028 B300653-D  N Na Ni Va           324 Dd M2 V F0 V
+Arcanum       2126 X334868-3                    R  810 Dd M6 V
+Nusukha       2127 E310100-7    Lo Ni              215 Dd G7 V G7 V
+Byblos        2223 C6738BD-7  S                    601 Dd M1 V
+Revoc         2224 C9AA577-A  S Ni Fl Wa           502 Dd F7 V M2 D
+Usani         2225 A452699-C  N Ni Po Cp           202 Dd M0 D
+Sage          2322 D463310-9    Lo Ni              120 Dd A5 III M1 V
+Azed Bek      2323 C766300-B  S Lo Ni              610 Dd M5 V
+Ayers         2424 C230668-A  S Na Ni Po De        323 Dd F8 V
+Hysyl         2425 C2407A9-7  S Po De              702 Dd M8 D

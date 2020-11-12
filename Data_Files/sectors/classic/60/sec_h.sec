@@ -1,0 +1,47 @@
+@SUB-SECTOR:Atsah   SECTOR:Deneb
+#
+# Trade routes within the subsector
+$2813 2913 0 0
+$2813 2413 -1 0
+$2913 3015 0 0
+$3015 3016 0 0
+$3016 2717 0 0
+#
+#Political Borders
+^2820 2
+^2020 3
+^2920 2
+^2920 3
+^3019 2
+^3019 3
+^3119 3
+^3219 2
+^3219 3
+^3219 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Niven         2512 E9C3237-6    Lo Ni Fl        A  534 Dd F3 II M3 V
+Kasmar        2515 E631754-9    Na Po              101 Dd M3 V M5 D
+Erita         2519 E99A575-8    Ni Wa              113 Dd G8 V K9 V
+Kiirindor     2520 B446666-B  A Ag Ni              310 Dd A0 V K9 D
+Berora        2615 B100672-D    Na Ni Va           822 Na M8 V G7 V
+Wal-ta-ka     2713 C360431-A    Ni De              601 Na M5 V
+Dophkah       2715 B647777-8  N Ag                 324 Cs M9 V
+Errogel       2716 B150554-A  N Ni Po De           724 Cs G9 V
+SEGAN         2717 B3509AB-C  N Hi Po De           504 Cs F4 V K4 V
+Og Bere'      2812 B464002-8    Lo Ni              223 Na G7 V
+Doho          2813 A696444-C    Ni                 621 Na F8 V K6 D
+Gampin        2820 D668644-7  S Ag Ni Ri           533 Dd M7 V G2 IV
+Atsah         2913 A656750-D  W Ag Cp              723 Cs K4 V
+Khishuda      2918 C856040-5    Lo Ni              201 Na M8 V M8 D
+Corfinium     3011 B443664-8    Ni Po              522 Dd M6 V
+Ivora         3013 E999533-5    Ni                 401 Na M5 V
+ATADL         3015 B2109C7-F    Hi Na In           201 Cs M1 V M1 V
+Zerderu       3016 B441685-B    Ni Po              401 Na M1 V M1 V
+Lamar         3111 C410410-7  S Ni                 223 Vf M1 V
+Berth         3112 B547345-B  A Lo Ni              901 Vf K5 V M5 V
+Prevsla       3113 D243300-8    Lo Ni Po           410 Vf M5 V M4 V
+Arabah        3115 C877233-5  S Lo Ni              820 Vf F8 IV
+Sherad        3116 A000447-F  N Ni As              913 Vf M6 V
+Salaam        3213 D576300-4  S Lo Ni              222 Vf M4 III K5 D

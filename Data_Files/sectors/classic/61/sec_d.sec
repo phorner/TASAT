@@ -1,0 +1,43 @@
+@SUB-SECTOR:The Narrows SECTOR:Corridor
+#
+# Trade routes within the subsector
+$2906 2806 0 0
+$2806 2908 0 0
+$2908 3208 0 0
+$3208 0107 1 0
+$2908 2710 0 0
+$2710 2511 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Ackaeck       2502 B586757-9  C Ag Ri              314 Va K7 V 
+Kidagir       2503 X242324-5    Lo Ni Po        R  522 Va M8 V 
+Plunge        2505 B2409CC-E  A Hi In Po De        824 Im G7 V 
+Jed           2506 C757863-6  S                    913 Im M4 V G1 III 
+Chosen        2603 C534544-8    Ni Rs A            303 Cs M1 V 
+Nuplae        2606 B64A236-D  N Lo Ni Wa           502 Im M0 V 
+Hesaim        2701 B424451-E    Ni                 801 Na M6 V 
+Brytsee       2710 A79A237-B    Lo Ni Wa           704 Im M5 V 
+Blustar       2801 E9B3531-8  C Ni Fl              123 Va A8 V 
+Neghu Oug     2804 C63A641-9    Ni Wa              602 Va M9 V 
+Uughrae       2806 A766367-D    C2 Lo Ni           210 Im K5 VI M1 VI 
+Atudew        2810 C595000-8  S Lo Ni Ba           620 Im M7 V 
+Oqwee         2901 B223462-D  N Ni Po              404 Cs M4 VI 
+Shinaashag    2902 D410456-8  C C3 Ni              602 Va K0 V 
+Uerrgno       2903 D867996-4    Hi                 601 Va K9 VI K5 D 
+Krroughf      2904 D577522-3    Ag Ni              302 Cs M0 V M1 D 
+Oegoerrvu     2905 D5438A8-6  S Po                 211 Im F2 V K6 VI 
+Kifrusis      2906 A568235-E  N Lo Ni              812 Im K6 V 
+Seplus        2907 C797698-9    Ag Ni              112 Im M0 V 
+Twophur       2908 B653797-7    Po Cp              424 Im G7 V 
+Russaura      3004 C400102-B  C Lo Ni Va           812 Va M9 V 
+Habretic      3010 C663110-9  S D0 Lo Ni           812 Im M1 V 
+Salite        3104 B454300-B    Lo Ni              910 Va M3 V F0 D 
+Long Shot     3106 C00069C-B  S Na Ni As           214 Im M5 V 
+Desiver       3107 C470421-B    Ni De              820 Im G1 V 
+Esuto         3201 A272674-9    Ni                 401 Va F5 IV M1 V 
+Ko-tring-dfr  3202 C544697-6    Ag Ni           A  301 Va F4 V M2 D 
+Gerbetord     3207 B75A512-C  S Ni Wa              102 Im K7 V 
+Dilub Rou     3208 A220573-F    Ni Po De           213 Im F5 V K8 D 
+R'tinh Kills  3209 B646110-C  A Lo Ni              620 Im M5 V 

@@ -1,0 +1,18 @@
+@SUB-SECTOR:Naadi   SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Naadi         1711 A578572-B    Ag Ni Cp           702 Im M2 V 
+Getz          1712 C553259-9    Lo Ni Po           810 Im M4 V M0 D 
+Denlaar       1713 C6A5426-6  S Ni Fl              822 Im K9 V 
+Antezeno      1811 C637335-9  S Lo Ni              924 Im F6 V 
+Enrick Down   1912 C342432-6    Ni Po              610 Im F7 V M1 D 
+Shargishu     1913 X000447-5    Ni As           R  323 Im F7 II 
+Faplion       2012 C525340-7  S Lo Ni              510 Im F7 D M3 D 
+Darkmoon      2111 D78A66B-7    Ni Ri Wa           712 Im G1 V
+Far Place     2116 C150459-C    Ni Po De           220 Cs F0 V 
+Sent'ere      2212 C400265-C  S Lo Ni Va           710 Im M2 V 
+Hishumaki     2311 B545542-B  N Ag Ni              410 Im M9 V K5 V

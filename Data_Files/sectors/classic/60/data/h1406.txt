@@ -1,0 +1,300 @@
+   
+Astrographic Notes
+------------------   
+
+   Borlund is in orbit 1 around the primary star Crotiv. That half-dead
+   star, Idanoll, is in orbit 5. Borlund does have a trivial satellite
+   barely worthy of being called a moon (Symot: YS00000-0), about 115,200
+   km from Borlund.
+   
+   Because of the placement of Idanoll, there is a real, black Night for
+   only half the year. For other half of the year, there is this dim red
+   glow instead, brighter than Earth's moon, but nowhere near Sol, or
+   Crotiv. The shadows and other light-effects of these two star can be
+   quite pretty.
+
+
+Introduction
+------------
+
+   Borlund is on the edge of the coreward border of the Regency, and
+   directly faces Virus. However, RQS security at the recently
+   established RQS base is only 'average': no Virus ship has crossed the
+   boundary in over 20 years, and the subsector is rather on the
+   low-tech, low-importance side. Indeed, considering the low esteem that
+   Borlund is held throughout Deneb, some people feel that it would be no
+   great loss if security on Borlund slipped up one day: others say that
+   the Borlundlanders wouldn't even notice if Virus DID take over...
+   
+   As you arrive at Founder's Harbour, you are rather shocked by the
+   extremely small port, the only one on Borlund. It's barely enough to
+   hold 5000 disp of ships (This, in a world of 200 billion people!)
+   
+   As you look around, you note that just about everyone resembles
+   everyone else: not clones, but almost. Also, just about everyone seems
+   to be a cripple of some kind or another: some suffer from mental
+   handicaps, others from physical ones, and still others suffer some
+   hideous combination of both.
+   
+     REFEREE: For people and star travellers who probably have *never*
+     seen a handicapped person in their entire lives, Borlund is
+     extremely repulsive and alien. Most traders absolutely will not
+     visit Borlund, for this reason as well as the very thin amount of
+     trade available.
+     
+     When generating Borlundlanders, remember to deduct 3 points of every
+     attribute, to model the effects of extensive inbreeding.
+   
+   Everyone seems to avoid you, except a very few "Customs" personnel:
+   they treat you more like Aliens from Outer Space, but seem a lot more
+   smarter and intact than their brothers - even if they insist on
+   wearing bulky TL 9 space suits, complete with oxygen backpack and
+   bubble helmet, tinted coal black.
+   
+   Almost all traders to Borlund are chartered by the Borlund government,
+   carrying specific freight.: Speculating on cargo is vigourously
+   discouraged on Borlund, as the government wishes to discourage as many
+   visitors and traders from coming to Borlund as possible. The visitors
+   - when they can resist gawking at the natives, who will be openly
+   gawking at them - will have a very difficult time finding room and
+   board. They will also have severe communication problems: the
+   Borlundlanders have developed their own language over the centuries
+   [Called "Words", it only contains 300 words], which has no relation
+   with Anglic at all. Still, it's possible that they may come across
+   someone whose handicapped only in the body, not the mind. Such people
+   speak a convoluted, difficult-to-decipher form of Old Anglic.
+   
+   There is very little for the adventurer to do in this overcrowded
+   asylum: the world is dirt poor, and - after a while - the
+   entertainment/shock value of so many handicapped folk wears off. There
+   is precious little to be traded: Borlund's entire industrial product
+   is used simply to maintain the current standard of living. Moreover,
+   the starport is on an island, hundreds of kilometers from the
+   mainland: the only connection is by zeppelin transit.
+   
+   For the sociologist, however, there are interesting - if subtle -
+   jewels to discover about Borlund. Most obviously, how can such a group
+   of the blind, the insane, and the lame keep a TL 9 society going? What
+   disaster happened that shaped Borlund to what it is today?
+
+   
+Appearance
+----------
+
+   The Borlundlander's dress actually most closely resembles that worn by
+   ancient Greek actors. The men prefer sandals, long to mid-thigh togas
+   (in white or a cream colour), with simple bronze masks over their
+   faces (with maybe a few bumps and lines). The women, in contrast,
+   prefer wooden masks with metal highlights, and two-piece, brightly
+   coloured tunic/dress outfits. The upper-class women also wear long
+   white gloves and a cloak/hood combo. These masks are never taken off
+   in public, or before strangers.
+   
+   The more senior members of the Cult of the Bird dress rather
+   differently. They prefer feathered dress - imitating some mythical
+   Bird of Paradise, or perhaps something more simple like a Raven. The
+   more noticeable aspect of them is their biomasks. Imported from Starn
+   (Inar: Deneb/1417 B000996-F), 11 parsecs away, these masks cover the
+   entire head, and can easily display emotions, lifelike reaction, etc.
+   since they *are* alive. While their manufacturers recommend that they
+   be removed one day out of five, the Borlundlanders prefer to leave
+   them on, permitting them to bond inseparably to their heads.
+   
+   Remembering that most Borlundlanders are suffering from some genetic
+   malady or other, canes and wheelchairs are quite popular, ranging from
+   simple metal versions to ornate, powered ones. Everyone is quite
+   dependent on designated 'helpers', usually people with only mild (or,
+   very rarely, no) handicapps. These helpers are usually known by the
+   Red Cross symbol they wear on aprons.
+   
+   The Customs personnel met at Founder's Harbour are among the most
+   elite available to Borlund, with a minimum UPP attribute rating of 5
+   (rather than the average of 3). Dressed in 60's style shiny space
+   suits, they are rather better equipped than that: Their suit has an
+   armour rating of 1, and all carry a pistol in their holster (easily
+   accessible, but hidden from casual view). Outside of duty, they dress
+   normally, but keep their bubble helmets on.
+
+
+Xenophobia
+----------
+
+   While Borlundlanders are xenophobes, they're not very aggressive about
+   it. They prefer to avoid strangers when possible, and many refuse to
+   talk to them. Violence might occur if the strangers are perceived as
+   threats, with unpredictable results.
+
+
+Indispensible Tools
+-------------------
+
+   Borlundlander society is able to function thanks to a number of tools
+   that they have seized on. Almost all managers, supervisors and other
+   important personnel carry small computers (AI or Expert Systems),
+   either wrist sized or 'tricorder' sized. These well-written programs
+   provide much needed support and guidance in operating equipment,
+   complex calculations, etc.
+   
+   Also, Borlund is probably the only world where robots are still in
+   common use (although biogeneered monkeys and other 'organic robots'
+   are slowly replacing them). True, almost all of these robots are at TL
+   9, and thus expensive and slow. Still, without them, much of
+   Borlundland society would be simply impossible.
+
+
+Religion
+--------
+
+   In Ancient Times (See note), the major religion was a form of Ancestor
+   Worship of the original Founders, especially the people whom the
+   population is cloned after. However, from about 830 the Cult of the
+   Bird - one of the Servani Cults - grew roots on Borlund: by the
+   Rebellion Period, the Cult had become the dominant religion on
+   Borlund.
+   
+   Unfortunately, the Cult - despite its off-world origins - is quite
+   xenophobic. Moreover, its love of power, bizarre doctrines, mysticism,
+   and basic cruelty has definitely hindered any cultural or
+   technological renaissance of Borlund. Especially awful is their
+   cosmology: their very bizarre theories about space travel, the
+   Imperium/Regency, and spaceships have set back local knowledge of the
+   heavens to the level of mere astrology. Their endless droning and
+   recitations of supposedly magical words is quite annoying when in
+   their company. (The phase "Wise and Cruel was the Bird. Wise and Cruel
+   are the Sons of the Bird." is instantly recognizable across the
+   Regency)
+   
+   The Cult may loathe and dread off-worlders (called Demons by them),
+   but they love starships, and anything else that can fly for that
+   matter. Thus their continual demand for Bird biomasks - despite the
+   exorbitant prices. They will also pay serious prices for anything with
+   wings and feathers.
+   
+   This love of flight - and more than a little of the Cult's ignorance
+   and superstitions - also influences the upper classes (well, "Upper
+   Classes" is a relative term: they're generally not the despised
+   "inbred, moronic, chucklehead cripples" that most Denebi would call
+   them, but they wouldn't have gotten past an entry-level position in
+   most societies, either). The most wealthy individuals of Borlund
+   generally travel to some high-tech world to have their legs amputated,
+   and replaced with a grav unit. Almost everyone dreams of buying a
+   Zeppelin, the most common form of long-distance transit on Borlund.
+   Even hot-air balloons are more valued than the (extremely sturdy) cars
+   that are available.
+   
+     REFEREE: 'Ancient Times'. For Borlund, this is pre-Doom, dated at
+     757. The Borlund dating system starts from 758 (the first year,
+     post-Doom): 1200 is PD 547 (Post-Doom 547)
+
+
+History
+-------
+
+   The Founders - who arrived here from Corridor in 151 - were originally
+   a well financed group of several thousand colonists, led by about 30
+   wealthy men. As they grew old - and the rapidly growing colony needed
+   more manpower than either immigration or normal population growth
+   could provide - these folk chose to solve the problem by generating
+   hundreds of male and female clones of themselves offworld, and
+   shipping them over to Borlund (solving both the manpower shortage and
+   satisifying their infinite egos).
+   
+   By the 230's, over 80% of the resident population of 80,000 people
+   were clones of the 30 colony leaders. As the non-clones swiftly fell
+   in social status and wealth, the Truechildren - the clone's name for
+   themselves - grew to dominate the economy and culture, of only of
+   Borlund, but of the entire subsector. (Borlund was named the subsector
+   capital in 302: the subsector was also renamed Borlund at the same
+   time)
+
+   At the system's height -- at about 700 ...
+
+     (UWP at the time: Borlund Borlund:Deneb/1406 B454999-C N Hi Cp 101
+     Im K8V M9V)
+
+   Borlund was the dominant financial centre for Pretoria, Borlund and
+   Antra subsectors. Borlund was also noted for its famed "Table Towns"
+   (actually looking closer to mushrooms, to this scout's eyes).
+   Basically, a Table Town was a 500m diameter plate suspended on a
+   squat, 100m diameter base. On the plate you could put a small town, a
+   landing field, or most any reasonably-sized building. The ruins of
+   these Table Towns can still be seen, quietly disintegrating as the
+   locals no longer have the tech to maintain them.
+   
+   Borlund's proudest achievement was in protecting its ecosphere: its
+   easy mixture of high civilization and African-veldt feel was unique in
+   the subsector, and one of the ways that made Deneb Sector *Deneb*. Now
+   even that's gone: the immense increase of the population, coupled with
+   bouts of large-scale starvation during the late 700s finished the old
+   plains forever.
+   
+   Borlund started to fall apart at 721, when the upper classes started
+   to take wives and sire children by normal means, rather than by clone
+   tanks or by implanting cloned eggs. The regular folk, quite envious of
+   this upper-class privilege, insisted that they should be allowed to
+   have "Traditional" children too. The upper classes, supported by the
+   government, said no: to have normal children between such
+   closely-related parents took careful, very expensive, DNA level
+   therapy and the government couldn't afford to provide this service to
+   the entire population. Moreover, they didn't want to pay either the
+   financial or social costs such a widespread change would cause (from
+   at least temporary surge in unemployment to changing a host of laws to
+   the need to import lots of very expensive equipment from the other
+   side of the Claw.)
+   
+   Class acrimony and strife became rampant. In protest, many started to
+   illegally remove their contraceptive implants, and bear large numbers
+   of children in defiance of widely despised laws. Large numbers of the
+   more well-to-do middle class learned to view their government as
+   unjust and oppressive, and left, taking their skills and money with
+   them. Still others shouted about "Reproductive rights", and began a
+   series of confrontations with the government, eventually growing more
+   and more violent. The end came suddenly, when in 757 a ship's boat
+   from the S.S. Bride of the Stars - charted by covert terrorists -
+   crashed into Desomi City, detonating the 20MT nuclear warhead in it's
+   hold. With the capital gone, the government collapsed, replaced by a
+   pro-birth revolutionary council. The population soared as everyone
+   imitated the large families of the elite. Since so many were clones -
+   and thus too closely related to have genetically normal kids - the
+   population soon became dominated by physically and mentally
+   handicapped people. Borlund's economy - and the economy of the entire
+   subsector - soon started to sink like a stone, as the cost of caring
+   for/adjusting to these people grew exponentially. The situation became
+   so bad that the Sector Duke petitioned - and received - a massive
+   amount of Imperial Aid in the early 800s to deal with "the Borlund
+   Problem". The Imperium soon had to struggle against mass chaos,
+   starvation, and sudden epidemics. The Imperium managed to restore some
+   sense of order by the 820s, and even brought back the Tech level to
+   11.
+   
+     NOTE: Because of Borlund's lack of genetic diversity, the system had
+     always been prone to epidemics, but the chaotic situation made
+     things a good deal worse.
+
+   When the new Sector Duchess ascended to office in 828, however, one of
+   her first acts was to cut Imperial involvement in the Borlund
+   Sinkhole. She further signaled the Imperial abandonment of Borlund by
+   shifting both the subsector capital and the subsector name to Lamas.
+   
+   Borlund simply could not afford to maintain a TL B standing: a major
+   depression fell on the world as soon as the last Imperial Relief
+   Freighter left, and the patched together coalition the Imperials left
+   to rule the world quickly collapsed in savage infighting. After the
+   Weeping War ground on for a decade (providing some of the most
+   shocking war footage in Deneb Sector history), decisive battles were
+   won by the Brandon fraction, and they finally secured overall
+   supremacy in 839.
+   
+   The Brandoni were basically a cultural group who managed to create a
+   working alliance between it's physically and it's mentally handicapped
+   fractions, successfully using each group's strengths to cover the
+   other's weakness. To their lasting credit, they managed to integrate
+   AI, expert systems and old, abused robots to rebuild some semblance of
+   a real civilization. As a culture, they eventually faded away, but
+   their achievements remain the basis of current Borlund civilization.
+   
+   However, from about the Fourth Frontier War period to now, the
+   Borlundlanders have turned away from contact from the outer world,
+   which is quite hostile to them. Borlund endures, but does not grow.
+
+

@@ -1,0 +1,82 @@
+@SUB-SECTOR:Million  SECTOR:Deneb
+#
+# Trade routes within the subsector
+#
+#Political Borders
+^2801 0
+^2801 4
+^2801 5
+^2901 5
+^2506 0
+^2506 1
+^2505 4
+^2605 2
+^2605 3
+^2705 2
+^2705 3
+^2804 0
+^2804 1
+^2804 2
+^2804 3
+^2701 0
+^2701 2
+^2701 4
+^2701 5
+^2702 1
+^2702 2
+^2702 4
+^2702 5
+^2703 1
+^2703 5
+^2603 0
+^2603 3
+^2603 4
+^2603 5
+^2704 2
+^2704 3
+^2704 4
+^2802 3
+^2802 4
+^2802 5
+^2904 0
+^2904 1
+^2904 3
+^2904 4
+^2905 0
+^2905 1
+^2905 5
+^3004 0
+^3004 1
+^3004 2
+^3004 3
+^3004 4
+^3104 2
+^3104 3
+^3203 1
+^3203 2
+^3203 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tubb          2502 C89A799-9    Wa                 701 Na M7 V M0 D
+Moskene       2506 E200101-B    Lo Ni Va           603 Dd G7 V F5 V
+Unekh         2603 C20088B-7    Na Va              502 Vu M1 V
+Fosfog        2702 A57559C-8    Ag Ni              114 Vu G5 IV M3 VI
+TALON         2704 C343976-B  C Hi In Po           224 Vu K4 V
+495-524       2802 D785300-4    Lo Ni              422 Vu F3 V M6 D
+Akkip         2804 C4426B7-9    Ni Po              522 Vu F8 V
+Gabrael       2807 A473646-E    Ni                 424 Dd K4 V
+Tensas        2810 C556550-6    Ag Ni              504 Dd K8 III
+Metare        2903 A32465A-E    Ni                 801 Vu M2 V M3 D
+Fel           2904 A7A7898-A    Fl                 622 Vu M3 V
+Ikhaba        2905 C675512-8    Ag Ni           A  933 Dd M5 III
+Nurara        2906 C5A5422-B  S Ni Fl              604 Dd M0 V
+Hammand       2907 E736132-4    Lo Ni           A  120 Dd M9 V M4 D
+Wyn           2908 C546444-5    Ni                 701 Dd M2 V
+Crozat        2910 C410424-7    Ni                 404 Dd M4 V M6 V
+Oluk Dzas     3004 B363521-7    Ni                 814 Vu M8 VI
+Arleshanu     3005 A262333-E  N Lo Ni Cp           420 Dd F4 IV
+Taproban      3008 B8A8787-C  N Fl              A  720 Dd M2 V
+Aefor         3104 A584520-D    Ag Ni              534 Vf M7 V
+Olokono       3110 E6A5211-5    Lo Ni Fl           801 Vf M0 V
+Goukhsar      3201 C563224-5    Lo Ni              310 Vf A6 V

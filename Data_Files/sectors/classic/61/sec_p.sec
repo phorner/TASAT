@@ -1,0 +1,69 @@
+@SUB-SECTOR:Sashrakusha SECTOR:Corridor
+#
+# Trade routes within the subsector
+$3232 3129 0 -1
+$3232 2933 0 0
+$3232 3136 0 0
+$2933 3136 0 0
+$2933 2733 0 0
+$2733 2632 0 0
+$3136 3139 0 0
+$3139 3040 0 0
+$3139 3240 0 0
+$3040 2701 0 1
+$2538 2701 0 1
+$2733 2634 0 0
+$2634 2335 -1 0
+$2634 2537 0 0
+$2537 2338 -1 0
+$2537 2538 0 0
+$3232 0234 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zendiisica    2534 B4007B9-D  N Na Va              423 Im F2 III K6 V 
+Desolation    2535 C470000-B    Lo Ni De Ba        201 Im F7 V K8 VI 
+Sorrock       2536 C30058D-A  S Ni Va              420 Im G1 V 
+Nowbee        2537 A55277B-8    Po              A  823 Im G4 V K2 D 
+Riyten        2538 D6A2332-6  S Lo Ni Fl           224 Im M2 V 
+Ression       2540 B400102-C  N Lo Ni Va           523 Im K4 VI 
+Umaraag       2631 C4698CC-B  S C6                 633 Im F3 V G3 V 
+Sumeszu       2632 A10035A-F  N C0 Lo Ni Va        410 Im M0 V 
+Tant          2634 A573430-9  N Ni                 601 Im M5 V 
+Conn          2636 B4727B9-B  S                    202 Im M7 V 
+Sintoshee     2640 E656779-4    Ag                 703 Im M3 V 
+Kanorb        2733 C473976-C    Hi In              724 Im M1 V 
+Nart-roft     2735 C575886-9  S                    924 Im M3 D 
+Viewday       2738 C673324-6  S Lo Ni              901 Im K5 V M7 V 
+Tatsnank Defu 2740 B561348-9    Lo Ni              122 Im A8 V K5 D 
+Radical       2831 C559532-9    Ni                 110 Im F5 V G9 VI 
+Starting      2833 C130404-A    Ni Po De           823 Im F3 V 
+Igudi         2836 D586643-2    Ag Ni Ri           914 Im K0 V 
+Sepstar       2837 B568400-A  B Ni                 520 Im M7 V 
+Ecktars Eckto 2932 C589310-A  S Lo Ni              222 Im G1 V 
+Sashrakusha   2933 AAB487A-C  N Fl Cp              201 Im M5 V 
+Yull-jettii   2934 B86A100-C  N Lo Ni Wa           123 Im M9 II G2 V 
+Trickster     2935 C120555-E    Ni Po De           824 Im G2 III 
+Hendrick      2937 C320342-9    Lo Ni Po De Rs     814 Im M0 VI 
+United        2940 E66A696-7    Ni Ri Wa           210 Im F7 V M9 D 
+Stagers       3032 C443200-8    Lo Ni Po           924 Im F7 V 
+Sinist Iii    3033 E326238-5    Lo Ni              810 Im M3 V K7 V 
+Dialreck      3036 B585896-6  N Ri                 710 Im M5 V M0 D 
+Yur Hur Ged   3038 E211756-9    Na Ic              620 Im G7 V K5 D 
+Prefostered   3039 C420432-C  S Ni Po De           324 Im F1 V 
+Shishashu     3040 A312200-D  N Lo Ni Ic           522 Im A6 V 
+Xapoqoz       3131 E853724-2    Po                 401 Im M1 V K8 V K8 V 
+Unikeejaf     3132 D768540-5    Ag Ni              302 Im M0 V 
+Cafad         3135 E666554-6    Ag Ni              410 Im M9 V 
+Wenty-ruu     3136 A201755-C    Na Va Ic           701 Im M5 V M5 D 
+Idanchy       3137 D789333-8    Lo Ni              403 Im M6 V K4 V 
+Yigh          3138 D999653-6    Ni                 520 Im F0 V 
+Mappeh        3139 A997794-D    Ag                 924 Im F9 V 
+Creading      3140 A66A425-C  N Ni Wa              901 Im M8 V 
+Pink Sky      3231 C474588-A  S Ag Ni              401 Im M0 V M1 V 
+Above         3232 A726886-E  N                    403 Im M3 V 
+Seshotinam    3234 E200527-9    Ni Va              623 Im G8 III 
+Sharkhagu     3235 B341464-C    Ni Po              801 Im M5 V M9 D 
+Lesha         3238 B988168-9  N Lo Ni              522 Im K8 V 
+Palama        3240 A597100-F    Lo Ni              801 Im M0 V M7 D 

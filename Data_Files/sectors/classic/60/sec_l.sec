@@ -1,0 +1,25 @@
+@SUB-SECTOR:Geniishir   SECTOR:Deneb
+#
+# Trade routes within the subsector
+$2521 2520 0 -1
+$2521 2323 -1 0
+#
+#Political Borders
+^2523 1
+^2523 2
+^2523 3
+^2524 5
+^2522 2
+^2621 2
+^2621 3
+^2721 2
+^2721 3
+^2821 0
+^2921 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Geniishir     2521 A110123-D  N Lo Ni Cp           302 Dd K8 D
+Maelstrom     2522 B79A855-D    C5 Wa              702 Dd M0 V M3 VI G3 V
+Exotrope      2523 D300674-4  S Na Ni Va           401 Dd M6 V M6 V
+Newpenton     2721 C495321-A    Lo Ni              703 Dd M2 V

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Gulf   SECTOR:Deneb
+#
+# Trade routes within the subsector
+$0233 3235 -1 0
+$0731 0730 0 -1
+$0731 0332 0 0
+$0233 0332 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Iruku         0138 B21048A-9    Ni                 501 Dd F1 V M2 VI
+Inkekush      0233 A140548-E  N Ni Po De           631 Dd F9 V M2 V
+Saguenay      0235 B438256-F  N Lo Ni              324 Dd M0 V
+Taman         0237 E874300-4    Lo Ni              810 Dd M7 V M3 VI
+Nouakchat     0238 C532114-6  S Lo Ni Po           103 Dd M9 D
+Aosta         0332 A669236-C    Lo Ni              412 Dd M1 V
+Furens        0334 C8AA698-A    Ni Fl Wa           603 Dd M2 V M9 D
+Upuraku       0336 B484554-9  W Ag Ni              301 Dd M2 V
+Tuwayk        0339 B672843-A                       501 Dd M8 V
+Zyedl         0431 E551443-5    Ni Po              501 Dd K3 IV
+ENDUP         0436 D6939EG-9    Hi In              104 Dd M6 V G5 D
+BEAXON        0439 D88AA99-C    Hi Wa           A  923 Dd F1 D
+NOGHON        0440 D79798B-9    Hi In              521 Dd F5 V M6 D
+Briaxis       0531 C120445-D    Ni Po De           901 Dd M1 VI M9 V
+Maricutin     0534 B764000-A  N Lo Ni Ba           213 Dd F9 V K5 VI
+Preslin       0633 B130679-E  N Na Ni Po De        310 Dd M2 II
+Brufort       0638 C669642-6    Ni Ri              420 Dd M5 V F5 III
+Qevar         0731 A2326AE-F  A Na Ni Po Cp        403 Dd M6 V
+Raguseppe     0734 B410555-B    Ni                 710 Dd M0 V K5 D
+Kiangya       0735 C7C0200-C  S Lo Ni De           714 Dd M3 V
+Taormina      0737 D3216AE-7    Na Ni Po           834 Dd G8 V
+Mtensc        0740 D351454-A    Ni Po              123 Dd M0 VI
+Mephit        0833 C9B8436-7  S Ni Fl              302 Dd G6 V K4 VI

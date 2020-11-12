@@ -1,0 +1,8 @@
+@SUB-SECTOR:The Empty Void SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Lasher        1430 B8C2100-8  N Lo Ni Fl           625 Cs K4 III 

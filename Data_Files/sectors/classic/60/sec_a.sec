@@ -1,0 +1,66 @@
+@SUB-SECTOR:Pretoria   SECTOR:Deneb
+#
+# Trade routes within the subsector
+$0201 3202 -1 0
+$0208 3209 -1 0
+$0201 0504 0 0
+$0504 0406 0 0
+$0406 0208 0 0
+$0406 0805 0 0
+$0805 0906 1 0
+#
+#Political Borders
+^0102 0
+^0201 5
+^0201 0
+^0201 1
+^0302 0
+^0302 1
+^0402 0
+^0502 0
+^0502 1
+^0502 5
+^0602 0
+^0602 1
+^0602 2
+^0603 1
+^0603 2
+^0604 1
+^0705 0
+^0705 1
+^0805 0
+^0805 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+New Ramma     0108 D465540-6  S Ag Ni              703 Dd M6 V M6 V G6 V
+MARZ          0201 A584985-A  S Hi                 101 Dd M4 V M7 D
+Carthage      0202 B2107B9-C    C0 Na              724 Dd M2 V
+Enaaka        0203 B777786-6    Ag                 922 Dd F5 V
+Rubrak        0207 C554511-7  S Ag Ni              701 Dd K3 V M8 D
+Teh           0208 D263136-5  S Lo Ni              802 Dd M2 V
+Kretikaa      0209 B20056B-C    Ni Va              623 Dd K2 IV
+Kiiga         0303 D530624-8    Na Ni Po De     A  201 Dd M0 V M2 D
+Riacon        0304 B666441-8  N Ni                 301 Dd M6 V M8 VI
+Saki          0306 D276642-8    Ag Ni              701 Dd M8 V
+Horizon       0310 E110725-8    Na                 324 Dd F2 IV K3 D
+Gessert       0403 C254315-A    Lo Ni              320 Dd A2 V K2 D
+Miwald        0404 C53349B-A  S Ni Po              602 Dd M0 V M5 V
+PRETORIA      0406 B656967-9  N Hi Cp              720 Dd G5 IV
+L'sis         0409 A764896-8  N Ri                 101 Dd M6 V
+El D'Nah      0502 C549456-B    Ni                 502 Dd M6 V
+Spectre       0503 B100654-A    Na Ni Va        A  802 Dd M8 V
+Ash           0504 A540887-8  S Po De              201 Dd M9 V M1 D
+Caladib       0508 B697222-9  N Lo Ni              301 Dd M2 V
+Redi          0509 E575565-4    C4 Ag Ni           712 Dd F3 V M3 D
+Gra-Bie       0510 C23027B-9    Lo Ni Po De        120 Dd G7 V
+Kirklend      0602 A668443-A  N Ni                 423 Dd F4 V
+Carmel        0604 B346441-9    Ni                 302 Dd F0 V M0 VI
+URNAS         0609 D120974-C  S Hi Na In Po De  A  210 Dd K7 V
+Taa           0701 A650643-9    Po Ni De               Na
+Dilex         0702 D626888-7                       902 Va M1 V
+Hylaxis       0709 B7B2354-A    Lo Ni Fl           522 Dd K7 V
+Naali         0710 C61657A-8  S Ni Ic              324 Dd M4 V
+Retion        0803 C558445-4    Ni                 601 Va K7 V M4 D
+Jode          0805 A9A6220-B    Lo Ni Fl           410 Dd F3 IV
+Therm         0809 D9B0489-5  S Ni De              313 Dd M9 V

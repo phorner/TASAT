@@ -1,0 +1,27 @@
+@SUB-SECTOR:Strand   SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Toddie-lee    0912 A366420-F  N Ni                 901 Im M2 V M7 D 
+Heald         0913 A341664-B    Ni Po              822 Im K9 V M7 VI 
+Strand        0916 A445654-C  N Ag Ni An Cp        624 Im F3 V 
+Ahngrim       0918 D9D6642-2    Ni Fl              101 Cs M8 V M8 V 
+Tobibak       1011 C96A410-A    Ni Wa              901 Im M2 D M3 D 
+Demick        1013 A532879-E    Na Po              702 Im K6 V 
+Biinersa      1111 B849401-B    Ni                 822 Im A6 V 
+Buagki        1112 A326353-C  N Lo Ni           A  923 Im M1 V 
+Vigh          1213 C200257-A    Lo Ni Va           302 Im M9 V G5 VI 
+Six Lights    1216 B577441-8  N Ni                 901 Im M8 V 
+Emfashi       1218 D658341-5    Lo Ni              420 Na M4 V G9 D 
+Itasis        1413 C442375-A    Lo Ni Po           902 Im F7 V 
+Valeneg       1414 C412120-7  S Lo Ni Ic           122 Im F7 V M9 D 
+Zudagim       1415 E68299A-5    Hi                 822 Im F4 V 
+Kearb         1418 CAC8341-9    Lo Ni Fl           622 Cs M9 III 
+Depot         1511 A686354-F  D Lo Ni              123 Im M4 V 
+Nubotech      1513 C362556-9    Ni                 422 Im F4 III M8 D 
+Justends Four 1514 D567100-5    Lo Ni              712 Im F8 V M3 D 
+Ashima        1515 E443942-A    Hi In Po           810 Im G6 V 
+Vanquet       1611 B63A8A8-9  S Wa                 801 Im M4 V 

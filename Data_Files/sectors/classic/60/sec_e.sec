@@ -1,0 +1,43 @@
+@SUB-SECTOR:Sabine  SECTOR:Deneb
+#
+# Trade routes within the subsector
+$0311 3212 -1 0
+$0311 0514 0 0
+$0514 0316 0 0
+$0514 0715 0 0
+$0316 0715 0 0
+$0316 0517 0 0
+$0517 0715 0 0
+$0715 1016 1 0
+$0715 0917 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Saarinen      0113 B566212-8    Lo Ni              513 Dd M6 V K5 D
+Suvfoto       0211 D95488A-7  S                    304 Dd K6 V
+Musayid       0214 E5448AE-5                       514 Dd K5 V
+Umiikam       0217 DAA6300-5    Lo Ni Fl           401 Dd M1 V G7 D
+Vanzeti       0218 C52A531-C  S Ni Wa              401 Dd M3 V M7 V
+Fennec        0311 C556833-8  S                    520 Dd M7 V
+MAGASH        0316 A400976-F  S Hi Na In Va Cp     824 Dd F8 V K7 III
+Cabrini       0319 C365510-6  S Ag Ni              123 Dd M9 V
+Dhapura       0412 E579758-7                       512 Dd F4 V
+Pharos        0415 B593477-8    Ni                 612 Dd M2 V
+Sui'tang      0417 B552864-A    Po                 415 Dd G4 V M3 D
+Ara Pacis     0419 A337678-B    Ni                 601 Dd M3 V
+Marnie's World0514 AA9A324-B  N Lo Ni Wa           510 Dd F3 D
+Endimyon      0516 X555434-1    Ni              R  523 Dd F3 III M5 D
+Seleen        0517 A310467-E    Ni                 704 Dd M6 V
+THINGEN       0518 B467998-D  N Hi                 305 Dd M9 V
+Anomaly Five  0615 X100000-5    Lo Ni Va Ba Sa  R  623 Dd M9 V
+Sevas Topol   0619 D9C3256-7    Lo Ni Fl           923 Dd M2 V
+Amirante      0713 D210899-4  S Na                 602 Dd K5 VI
+Bahadur       0715 A326230-E  N Lo Ni              102 Dd M5 V
+Rhinom        0717 B7768AB-8  N                    601 Dd M9 V
+Cicus         0812 E310330-5    Lo Ni              621 Dd M4 VI G0 V K0 V
+Makeni        0813 E100542-8    Ni Va              302 Dd M1 V
+Amritsar      0814 C897535-8    Ag Ni              413 Dd F3 V
+Pangumo       0815 C35259B-B    Ni Po              301 Dd K0 V M8 V
+Coshecawat    0816 X100641-1    Na Ni Va        R  313 Dd M6 V F6 D
+Jehun         0819 E66766A-7    Ag Ni Ri           901 Dd K2 V M4 V

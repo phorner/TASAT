@@ -1,0 +1,273 @@
+@SECTOR:Corridor
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------             
+Tersta        0102 C474522-7    Ag Ni An           320 Im F3 V 
+Khouth        0104 A8C3999-D    Hi Fl Cp           420 Im M3 V 
+Ankirst       0105 C356112-9    Lo Ni              421 Im M1 V K3 V I 
+Ofo-Nebus     0106 B541488-8  N C1 Ni Po           701 Im M7 V M0 D 
+Synez         0109 E864256-7    Lo Ni              620 Im M2 V 
+Shinku        0111 E879102-8    Lo Ni              422 Im F9 V 
+Kiran         0112 A354856-F  N                    901 Im M0 V K5 V 
+Aga Sugek     0113 A9B8356-D    Lo Ni Fl           401 Im M4 V K7 VI 
+Khikhuushir   0115 D676534-4    Ag Ni              624 Im M0 V 
+Ka Eto        0119 B615345-D  N Lo Ni Ic           502 Im M3 V 
+Koergfoes     0205 B54359A-B  N Ni Po Rs           322 Im M5 V 
+Mikesh        0206 C8B7ACB-E  S Hi Fl              625 Im K1 V 
+Pergzitt      0209 B625354-B    Lo Ni              311 Im M6 III K5 V 
+Dry           0210 C110877-B  S Na                 801 Im M5 V M9 V 
+Erlu          0213 B7C0626-8  N Ni De              404 Im M6 V 
+Lobok         0218 C582876-9    Ri                 335 Im G1 V 
+Shush         0221 C662262-7    Lo Ni              623 Na F8 V G3 D 
+Serk          0304 B89A866-C  N Wa                 723 Im M4 V 
+Hesarus       0306 B253556-9  N Ni Po              320 Im M1 V 
+Caulins Belt  0307 A000268-C  N Lo Ni As           911 Im M5 V 
+Faraway       0308 D682546-4  S Ni                 713 Im M5 V 
+Jubal         0311 X300497-2    Ni Va           R  823 Im G8 IV M8 D 
+Muugagen      0312 D453465-9    Ni Po              601 Im M6 V 
+Yubitty       0313 C96A987-7    Hi Wa              932 Im K9 V 
+Ishirdu       0338 X776301-0    Lo Ni           R  203 Cs M9 V 
+Auritaurus    0401 C859344-8  S Lo Ni              621 Im F9 IV 
+Rrev Rigr     0402 B100657-C    Na Ni Va           610 Im M7 V 
+Sigma 7       0407 C000795-7    Na As              112 Im A9 V M9 V 
+Daban         0411 C514858-8    Ic                 802 Im K2 V 
+Ian           0416 A5A88BE-C    Fl Cp              303 Im M2 V 
+Irasumshu     0417 E554A74-6    Hi                 801 Im M0 V 
+Koppel        0502 E463005-7    Lo Ni              334 Im A9 III 
+Naxx-Iygo     0509 C7B5464-6    Ni Fl              712 Im M8 V 
+Pamock        0510 C461542-B    Ni                 623 Im M2 V K8 V 
+Linix' Cha    0511 E322578-8    Ni Po              822 Im M2 V 
+Beta Regilis  0512 D543567-3  S Ni Po              714 Im M1 V 
+Kumorle       0513 B331758-C  S Na Po              225 Im K7 V 
+Raiga         0516 X664532-3    Ag Ni           R  714 Im M8 V 
+Greenrok      0601 A560236-C    Lo Ni De           501 Im M2 VI M5 D 
+Taratun       0603 D8A3443-6  S Ni Fl              323 Im M5 II 
+Aka Gee       0605 B432579-B    Ni Po              103 Im M0 V K3 V 
+Degarla       0606 A610644-A  B Na Ni              310 Im K8 V 
+Desolate      0608 B9B2002-A  W Lo Ni Fl           420 Im G5 VI 
+Semiplast     0609 C461662-8    Ni Ri              502 Im M7 V M1 V 
+Ikhur         0611 B756532-B    Ag Ni              301 Im M0 V 
+Dywosik       0614 C247547-A    Ag Ni              921 Im G5 VI M8 V 
+Vom           0617 C223578-9  S Ni Po              302 Im F9 V 
+Esi-obe       0638 A542886-C    Po                 211 Im G4 V 
+Gzorraeth     0701 A490410-9    Ni De              501 Na K6 V 
+Mowanda       0709 B200534-A  A Ni Va              411 Im A9 V 
+Teras         0714 B438247-B  N Lo Ni              410 Im M3 V M0 D 
+Treshurii     0804 D335775-6                       523 Im A4 V 
+Bersha        0807 E552302-5    D1 Lo Ni Po        902 Im K2 V M0 D 
+Lysio         0815 B494546-9  S Ag Ni              901 Im M0 V 
+Antiquity     0816 A223420-C  N Ni Po An           214 Im F6 V 
+Rexus V       0901 B441400-8    Ni Po              822 Im F0 V 
+Yopogirp      0906 A548320-D    Lo Ni              701 Im M8 V G7 D 
+Drayne        0910 B6749C9-D  A Hi In Rs           801 Im F3 V M4 V 
+Toddie-lee    0912 A366420-F  N Ni                 901 Im M2 V M7 D 
+Heald         0913 A341664-B    Ni Po              822 Im K9 V M7 VI 
+Strand        0916 A445654-C  N Ag Ni An Cp        624 Im F3 V 
+Ahngrim       0918 D9D6642-2    Ni Fl              101 Cs M8 V M8 V 
+Ashishinipar  0931 B8949BA-9    Hi In              410 Na G0 V K5 D 
+Tylupa        1003 B000205-B    Lo Ni As           113 Cs M4 VI 
+Mount         1005 A675887-8  S                    301 Im M5 V M8 D 
+Wieresh       1006 B559430-8    Ni                 803 Im M5 V 
+Byla Hoso     1010 D554534-8    Ag Ni              124 Im F1 D 
+Tobibak       1011 C96A410-A    Ni Wa              901 Im M2 D M3 D 
+Demick        1013 A532879-E    Na Po              702 Im K6 V 
+Nadnamnarni   1033 B200211-9    Lo Ni Va           503 Na M4 V 
+Senizuu       1103 B491564-7    Ni                 820 Im F9 III 
+Goseppi       1104 E457543-3    Ag Ni              403 Im M1 VI 
+Formation     1107 B511358-C  N Lo Ni Ic           704 Im K0 III M6 D 
+Shushaka      1109 A772988-F    Hi In              815 Im M0 V K2 D 
+Biinersa      1111 B849401-B    Ni                 822 Im A6 V 
+Buagki        1112 A326353-C  N Lo Ni           A  923 Im M1 V 
+Tristira      1140 C87A740-5    Wa                 713 Cs F7 V 
+New Vland     1201 A79785A-B    C2                 501 Cs M7 V 
+Voorghish     1203 D456459-4    Ni                 203 Va M5 V G0 D 
+Tetraggoe     1204 B692300-8  C Lo Ni              203 Va M0 V 
+Durima        1205 B420ADE-F  N Hi Na In Po De     234 Im A7 V 
+Courage       1207 E40088C-5    Na Va              401 Im M0 V 
+Kaasu         1209 AA7A9CD-G    Hi In Wa Cx        922 Im A6 V 
+Latu          1210 B87A46B-D    Ni Wa              402 Im M4 V K4 D 
+Vigh          1213 C200257-A    Lo Ni Va           302 Im M9 V G5 VI 
+Six Lights    1216 B577441-8  N Ni                 901 Im M8 V 
+Emfashi       1218 D658341-5    Lo Ni              420 Na M4 V G9 D 
+Nackeremma    1301 D523110-6    Lo Ni Po           801 Cs M6 V 
+Iceball       1304 C635400-6    Ni                 324 Cs F4 V 
+Sebastion     1307 C568447-6  S Ni                 203 Im K1 V 
+Naasakiira    1309 C556687-9  S Ag Ni              623 Im K7 V 
+Oegongrek     1401 B000200-A    Lo Ni As           720 Im G6 V 
+Zontra'Lee    1402 E788885-6    Ri                 903 Im M9 V 
+Vwogeck       1404 E473320-6    C3 Lo Ni           324 Cs F0 V 
+Sluru         1405 C76A752-9    Ri Wa              323 Im M7 V 
+Xinox         1408 D87A653-4    Ni Wa              324 Im M4 III 
+Draack Elka   1409 C372586-A    Ni                 922 Im G6 V M2 D 
+Itasis        1413 C442375-A    Lo Ni Po           902 Im F7 V 
+Valeneg       1414 C412120-7  S Lo Ni Ic           122 Im F7 V M9 D 
+Zudagim       1415 E68299A-5    Hi                 822 Im F4 V 
+Kearb         1418 CAC8341-9    Lo Ni Fl           622 Cs M9 III 
+Lasher        1430 B8C2100-8  N Lo Ni Fl           625 Cs K4 III 
+Tarin Sink    1432 DAE3301-6    Lo Ni Fl Rs        635 Cs M7 II M1 V 
+Gwam          1501 A343578-D    Ni Po              110 Va M5 V M5 V 
+Buianah       1504 A797534-A    C6 Ag Ni           123 Cs G9 V K7 III 
+Errd Lomon    1506 C410462-9    Ni                 703 Im K5 V 
+Depot         1511 A686354-F  D Lo Ni              123 Im M4 V 
+Nubotech      1513 C362556-9    Ni                 422 Im F4 III M8 D 
+Justends Four 1514 D567100-5    Lo Ni              712 Im F8 V M3 D 
+Ashima        1515 E443942-A    Hi In Po           810 Im G6 V 
+Koorfagh      1602 E67377B-5                       323 Va M1 V 
+Gagh Veth     1603 X556423-1    Ni              R  334 Va F2 V 
+Silibast Ti   1605 E350553-9    Ni Po De           413 Im M5 V F3 V 
+Khukish       1606 A77A989-F    Hi In Wa Cp        823 Im G9 V 
+Shishkala     1607 B686654-C    Ag Ni Ri           613 Im A2 V 
+Veu Belle     1609 D22158A-8    Ni Po              112 Im M9 VI 
+Vanquet       1611 B63A8A8-9  S Wa                 801 Im M4 V 
+Tyee          1703 C336685-6    Ni                 413 Na G1 III M8 D 
+Merold        1704 B766684-6    Ag Ni Ri           524 Va K1 V 
+Naadi         1711 A578572-B    Ag Ni Cp           702 Im M2 V 
+Getz          1712 C553259-9    Lo Ni Po           810 Im M4 V M0 D 
+Denlaar       1713 C6A5426-6  S Ni Fl              822 Im K9 V 
+Lyforn        1803 B32357B-B    Ni Po              312 Va M4 III 
+Lemish        1808 A79568C-D  N Ag Ni Cp        A  101 Im M5 V M2 V 
+Munhofen      1810 C443203-8    Lo Ni Po           123 Im G7 V 
+Antezeno      1811 C637335-9  S Lo Ni              924 Im F6 V 
+Emephdee      1832 A551464-8  N Ni Po              501 Cs G2 V M2 D 
+Jafla         1840 A898114-E    Lo Ni              613 Im G5 V 
+Ighoth        1904 A333000-C    Lo Ni Po Ba        523 Va K9 V 
+Dazeys World  1905 C438220-C    Lo Ni              510 Im M3 V 
+Sutton        1906 B220575-C    Ni Po De           615 Im M5 III 
+Weyland       1908 B335267-9  N Lo Ni              302 Im M3 V 
+Enrick Down   1912 C342432-6    Ni Po              610 Im F7 V M1 D 
+Shargishu     1913 X000447-5    Ni As           R  323 Im F7 II 
+Rill          1923 E889662-4    Ni Ri C6           602 Ch M9 V K0 D 
+Croftstein    2003 C100403-9    Ni Va              415 Va F3 V 
+Egami Nivek   2004 D654479-7    Ni                 122 Va F1 V 
+Tamilaa       2006 B788747-A  N Ag Ri              801 Im K3 IV M6 D 
+Specti        2009 E7A3100-8    Lo Ni Fl           722 Im F1 V 
+Dianah        2010 C364500-A    Ag Ni              621 Im K8 V 
+Faplion       2012 C525340-7  S Lo Ni              510 Im F7 D M3 D 
+Sinta         2037 A201830-D  A Na Va Ic Cp        313 Im F9 V 
+Ea'tiva       2039 B686110-8  N Lo Ni              301 Im K1 V M9 D 
+Tainbee       2040 A757476-C    Ni                 704 Im K0 V 
+Vicennis      2101 B000889-C  C Na As              414 Va G9 IV 
+Phomos        2102 C662574-4    Ni                 614 Va G7 V 
+Angi          2106 D241632-8  S Ni Po              701 Im M0 V 
+Ginning       2108 A6315AF-B  N Ni Po              323 Im G2 V
+Amwaz         2109 B592333-C    Lo Ni           A  510 Im M1 V
+Darkmoon      2111 D78A66B-7    Ni Ri Wa           712 Im G1 V
+Far Place     2116 C150459-C    Ni Po De           220 Cs F0 V 
+Atu'l         2121 C898234-8    Lo Ni              704 Cs G8 III M3 VI 
+Kacxhun       2135 E427456-6    Ni                 914 Im F1 V G2 V 
+Whikee        2136 C223669-9    Na Ni Po           101 Im M8 V K4 D 
+Inarli        2137 B677989-D    Hi In              414 Im M6 V 
+Dodardudos    2140 C483527-6    Ni                 103 Im M2 V 
+Douthit       2201 B540552-7    Ni Po De           323 Va M3 V 
+Braden Iv     2202 A877000-D    Lo Ni Ba           601 Va F4 V M1 D 
+Brariun       2205 B629034-9    Lo Ni              801 Im M5 V G6 V 
+Aurolee       2206 B000769-D  N Na As              624 Im A8 IV 
+Luuga         2208 B410767-D  S Na                 322 Im G5 VI K4 D
+Voegrr        2209 B478861-C  N                    903 Im M2 V K4 D
+Sent'ere      2212 C400265-C  S Lo Ni Va           710 Im M2 V 
+Setii Goek    2234 E43669D-9    Ni                 910 Im M8 V K0 V 
+Kysar Ii      2235 A310133-F    Lo Ni              920 Im M2 V K3 V 
+Kateri        2238 C8C0885-8  S De                 422 Im M5 V 
+Kloackin      2239 B572834-9  N                    210 Im M9 V 
+Alfive        2303 B487201-D    Lo Ni              401 Va M9 V 
+Double Sun    2304 X000403-4    Ni As           R  911 Na A7 V M6 D 
+Pruughoe      2306 C9C769E-A    Ni Fl              301 Im M2 V 
+Aking         2307 C200564-A    Ni Va              301 Im M4 V 
+Hishumaki     2311 B545542-B  N Ag Ni              410 Im M9 V K5 V
+Fabeticu      2333 X466767-1    Ag Ri           R  335 Im F4 V G0 D 
+Kikasad       2334 C76A003-6    Lo Ni Wa           121 Im F1 V M3 D 
+Tahspeck      2335 AA9A651-A    Ni Wa              404 Im F2 V 
+Mok-Retinae   2336 C456441-7    Ni                 503 Im M3 V 
+Vapour        2338 A360459-B  N Ni De              324 Im F0 V 
+Myathena      2403 A666268-B    Lo Ni              413 Va M5 V 
+Gravista      2405 C553879-4  S Po                 921 Im M5 D 
+Treedisk      2409 D120332-B  S Lo Ni Po De        601 Im M7 D M3 D
+Knofodu       2435 D8B4684-7  S Ni Fl              520 Im M1 V 
+Ackang        2439 E9B4630-5    Ni Fl              622 Im F6 V K6 VI 
+Doyaterfit    2440 D443103-7  S Lo Ni Po           301 Im G1 V M0 D 
+Ackaeck       2502 B586757-9  C Ag Ri              314 Va K7 V 
+Kidagir       2503 X242324-5    Lo Ni Po        R  522 Va M8 V 
+Plunge        2505 B2409CC-E  A Hi In Po De        824 Im G7 V 
+Jed           2506 C757863-6  S                    913 Im M4 V G1 III 
+Naagasa       2511 B5278AB-9                       524 Im F4 IV 
+Zendiisica    2534 B4007B9-D  N Na Va              423 Im F2 III K6 V 
+Desolation    2535 C470000-B    Lo Ni De Ba        201 Im F7 V K8 VI 
+Sorrock       2536 C30058D-A  S Ni Va              420 Im G1 V 
+Nowbee        2537 A55277B-8    Po              A  823 Im G4 V K2 D 
+Riyten        2538 D6A2332-6  S Lo Ni Fl           224 Im M2 V 
+Ression       2540 B400102-C  N Lo Ni Va           523 Im K4 VI 
+Chosen        2603 C534544-8    Ni RsA             303 Cs M1 V 
+Nuplae        2606 B64A236-D  N Lo Ni Wa           502 Im M0 V 
+Mee           2611 B9D86BA-9    Ni Fl              820 Im M6 V 
+Umaraag       2631 C4698CC-B  S C6                 633 Im F3 V G3 V 
+Sumeszu       2632 A10035A-F  N C0 Lo Ni Va        410 Im M0 V 
+Tant          2634 A573430-9  N Ni                 601 Im M5 V 
+Conn          2636 B4727B9-B  S                    202 Im M7 V 
+Sintoshee     2640 E656779-4    Ag                 703 Im M3 V 
+Hesaim        2701 B424451-E    Ni                 801 Na M6 V 
+Brytsee       2710 A79A237-B    Lo Ni Wa           704 Im M5 V 
+Kanorb        2733 C473976-C    Hi In              724 Im M1 V 
+Nart-roft     2735 C575886-9  S                    924 Im M3 D 
+Viewday       2738 C673324-6  S Lo Ni              901 Im K5 V M7 V 
+Tatsnank Defu 2740 B561348-9    Lo Ni              122 Im A8 V K5 D 
+Blustar       2801 E9B3531-8  C Ni Fl              123 Va A8 V 
+Neghu Oug     2804 C63A641-9    Ni Wa              602 Va M9 V 
+Uughrae       2806 A766367-D    C2 Lo Ni           210 Im K5 VI M1 VI 
+Atudew        2810 C595000-8  S Lo Ni Ba           620 Im M7 V 
+Kiiguuroesa   2811 X200456-4    Ni Va           R  601 Im M7 V 
+Radical       2831 C559532-9    Ni                 110 Im F5 V G9 VI 
+Starting      2833 C130404-A    Ni Po De           823 Im F3 V 
+Igudi         2836 D586643-2    Ag Ni Ri           914 Im K0 V 
+Sepstar       2837 B568400-A  B Ni                 520 Im M7 V 
+Oqwee         2901 B223462-D  N Ni Po              404 Cs M4 VI 
+Shinaashag    2902 D410456-8  C C3 Ni              602 Va K0 V 
+Uerrgno       2903 D867996-4    Hi                 601 Va K9 VI K5 D 
+Krroughf      2904 D577522-3    Ag Ni              302 Cs M0 V M1 D 
+Oegoerrvu     2905 D5438A8-6  S Po                 211 Im F2 V K6 VI 
+Kifrusis      2906 A568235-E  N Lo Ni              812 Im K6 V 
+Seplus        2907 C797698-9    Ag Ni              112 Im M0 V 
+Twophur       2908 B653797-7    Po Cp              424 Im G7 V 
+Tucker        2930 D8796A8-8  S Ni                 622 Im K3 V 
+Ecktars Eckto 2932 C589310-A  S Lo Ni              222 Im G1 V 
+Sashrakusha   2933 AAB487A-C  N Fl Cp              201 Im M5 V 
+Yull-jettii   2934 B86A100-C  N Lo Ni Wa           123 Im M9 II G2 V 
+Trickster     2935 C120555-E    Ni Po De           824 Im G2 III 
+Hendrick      2937 C320342-9    Lo Ni Po De Rs     814 Im M0 VI 
+United        2940 E66A696-7    Ni Ri Wa           210 Im F7 V M9 D 
+Russaura      3004 C400102-B  C Lo Ni Va           812 Va M9 V 
+Habretic      3010 C663110-9  S D0 Lo Ni           812 Im M1 V 
+Betters       3030 DA87544-5    Ag Ni              301 Im K1 V M2 V M2 V 
+Stagers       3032 C443200-8    Lo Ni Po           924 Im F7 V 
+Sinist Iii    3033 E326238-5    Lo Ni              810 Im M3 V K7 V 
+Dialreck      3036 B585896-6  N Ri                 710 Im M5 V M0 D 
+Yur Hur Ged   3038 E211756-9    Na Ic              620 Im G7 V K5 D 
+Prefostered   3039 C420432-C  S Ni Po De           324 Im F1 V 
+Shishashu     3040 A312200-D  N Lo Ni Ic           522 Im A6 V 
+Salite        3104 B454300-B    Lo Ni              910 Va M3 V F0 D 
+Long Shot     3106 C00069C-B  S Na Ni As           214 Im M5 V 
+Desiver       3107 C470421-B    Ni De              820 Im G1 V 
+Kiru          3129 A56567B-9    Ag Ni Ri           622 Im F5 V 
+Xapoqoz       3131 E853724-2    Po                 401 Im M1 V K8 V K8 V 
+Unikeejaf     3132 D768540-5    Ag Ni              302 Im M0 V 
+Cafad         3135 E666554-6    Ag Ni              410 Im M9 V 
+Wenty-ruu     3136 A201755-C    Na Va Ic           701 Im M5 V M5 D 
+Idanchy       3137 D789333-8    Lo Ni              403 Im M6 V K4 V 
+Yigh          3138 D999653-6    Ni                 520 Im F0 V 
+Mappeh        3139 A997794-D    Ag                 924 Im F9 V 
+Creading      3140 A66A425-C  N Ni Wa              901 Im M8 V 
+Esuto         3201 A272674-9    Ni                 401 Va F5 IV M1 V 
+Ko-tring-dfr  3202 C544697-6    Ag Ni           A  301 Va F4 V M2 D 
+Gerbetord     3207 B75A512-C  S Ni Wa              102 Im K7 V 
+Dilub Rou     3208 A220573-F    Ni Po De           213 Im F5 V K8 D 
+R'tinh Kills  3209 B646110-C  A Lo Ni              620 Im M5 V 
+Uiolksdah     3225 B226787-C                       710 Na M1 V 
+Center        3229 C5436A9-5  S Ni Po              434 Im M6 II 
+Emm           3230 C643365-7    Lo Ni Po           303 Im M7 V 
+Pink Sky      3231 C474588-A  S Ag Ni              401 Im M0 V M1 V 
+Above         3232 A726886-E  N                    403 Im M3 V 
+Seshotinam    3234 E200527-9    Ni Va              623 Im G8 III 
+Sharkhagu     3235 B341464-C    Ni Po              801 Im M5 V M9 D 
+Lesha         3238 B988168-9  N Lo Ni              522 Im K8 V 
+Palama        3240 A597100-F    Lo Ni              801 Im M0 V M7 D 
+

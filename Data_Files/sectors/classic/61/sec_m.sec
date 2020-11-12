@@ -1,0 +1,9 @@
+@SUB-SECTOR:Two Worlds SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Ishirdu       0338 X776301-0    Lo Ni           R  203 Cs M9 V 
+Esi-obe       0638 A542886-C    Po                 211 Im G4 V 

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Star Lane  SECTOR:Deneb
+#
+# Trade routes within the subsector
+$0524 3124 -1 0
+$0524 0826 0 0
+$0826 0925 1 0
+$0826 0729 0 0
+$0729 0731 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rena          0123 D596211-7  S Lo Ni              403 Dd M4 V
+Gulistan      0124 CAB2358-7  S Lo Ni Fl           820 Dd K6 II
+Chaosheo      0130 X87A788-1    Wa              R  625 Dd K8 V
+Mater Nova    0221 B575744-9    Ag                 314 Dd M8 V K0 D
+Breslow       0222 X440510-1    Ni Po De        R  902 Dd K8 VI M1 D
+Daumier       0223 B88A452-E    Ni Wa              510 Dd K7 V M9 V
+Adapam        0224 E796442-8    Ni                 822 Dd K8 V
+Wroclaw       0226 C4667BF-7    Ag                 823 Dd M8 V K2 VI
+Rimkuku       0228 D9A8872-7  S Fl                 324 Dd M3 V G1 V
+Aziziyah      0229 C86A475-B    Ni Wa              624 Dd M3 V
+Barbary       0327 C5717CF-4  S                    813 Dd F5 V K3 D
+Dunstan       0328 C649220-8    Lo Ni              523 Dd G4 V
+Canisus       0330 C4317BA-8  S Na Po              901 Dd M9 V G6 D K6 D
+Rouenet       0422 C362201-B    Lo Ni              705 Dd K0 V
+Isurkun       0524 A441334-A    Lo Ni Po           721 Dd G4 IV
+Sejmal        0525 C210643-A    C0 Na Ni           534 Dd K4 V
+Moltke        0529 C646110-8  S Lo Ni              204 Dd M6 V K9 D
+Mushinag      0622 D575556-8  S Ag Ni              520 Dd F6 V
+Araa          0623 C566254-A  S Lo Ni              522 Dd F7 V M4 D
+Helmuth       0624 C846203-8  S Lo Ni              922 Dd M9 III
+Kemal         0626 B566786-7    Ag Ri              323 Dd F3 V
+ASKIGAAK      0629 E549AA8-C    Hi In              901 Dd M1 V
+Shen-Yang     0727 C665520-5  S Ag Ni              502 Dd F7 V K1 V
+Norg          0729 A000114-D  N Lo Ni As           710 Dd M7 V
+Sultana       0730 B649414-9    Ni                 521 Dd M5 III
+Tlaza         0824 C303100-A    Lo Ni Va Ic        913 Dd M6 V
+Imone         0826 A9C1555-F  N Ni Fl Cp           613 Dd M0 V
+Skopyeh       0827 B500534-C    Ni Va              902 Dd F9 V M9 D
+Burnham       0828 B664379-8  N Lo Ni              501 Dd K3 VI
+Bukit Seng    0830 C442334-8    Lo Ni Po           404 Dd M4 III

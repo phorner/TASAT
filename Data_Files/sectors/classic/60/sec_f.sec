@@ -1,0 +1,52 @@
+@SUB-SECTOR:Inar  SECTOR:Deneb
+#
+# Trade routes within the subsector
+$1615 1609 0 -1
+$1615 1417 0 0
+$1417 1520 0 0
+$1520 1522 0 1
+$1213 1016 0 0
+$1016 0715 -1 0
+$0917 0715 -1 0
+$0917 1018 0 0
+$1018 1122 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kayu          0912 E9B75A8-8    Ni Fl              412 Dd M2 V
+Amarkimi      0913 B446410-A  W Ni                 902 Dd K8 V
+Otomisl       0914 B5A5577-C  S Ni Fl              403 Dd M9 V G6 V
+Skold         0915 B764323-A    C2 Lo Ni           124 Dd K0 V
+KUBISHUSH     0917 B8B69AA-D    Hi Fl              901 Dd M8 V M3 VI
+Jessok        1011 C623510-B    Ni Po              920 Dd G8 V G0 V
+Mowebe        1014 C748551-B    Ag Ni              601 Dd M2 V K9 V
+LIIRI         1016 B542998-D    Hi In Po           401 Dd M4 V K8 D
+Hessel        1018 B658100-D  N Lo Ni              801 Dd M4 V M2 D
+Zeen          1111 D653643-6  S D5 Ni Po           301 Dd K6 VI
+Pecena        1115 B347014-A  A Lo Ni              722 Dd M4 III
+Abydos        1116 D335666-8  S Ni                 410 Dd M5 V
+Karabeth      1118 E663468-7    Ni                 102 Dd K9 III M3 V
+Pigojin       1212 E100440-8    Ni Va              903 Dd K4 D
+Inar          1213 A310736-E  N Na Cp              903 Dd M7 V
+Morninglori   1216 B544585-7    Ag Ni              113 Dd M2 V
+Clarissa      1217 C536422-A  S Ni                 514 Dd M4 V
+Gaagir        1218 C86A358-A  S Lo Ni Wa           601 Dd K6 V K9 V
+Minde's Star  1220 D235452-B  S Ni                 303 Dd M7 V
+Quanah        1311 C467474-6    Ni                 123 Dd M4 VI
+Rayel         1313 B693632-8    Ni                 410 Dd G3 V
+Modika        1314 B450413-8  S Ni Po De           503 Dd F5 V M5 D
+Cipien        1318 C553310-7    Lo Ni Po           821 Dd F5 V
+Thane         1319 D585430-8  S Ni                 421 Dd M3 V
+Taillon       1415 C78A668-9  S Ni Ri Wa           701 Dd M6 V M9 D
+STARN         1417 B000996-F  S Hi Na In As        722 Dd K0 V
+Montcolm      1419 D675212-8    Lo Ni              122 Dd K4 V
+Quebraco      1420 E78A575-4    Ni Wa              824 Dd M1 III F3 V
+Trevith       1518 E673347-4    Lo Ni              422 Dd G0 V M0 D
+Kaual         1520 BA89537-B  A Ni                 924 Dd F8 V K3 D
+Depot         1613 A100644-G  D Na Ni Va           220 Dd F9 II
+Springarn     1614 E564320-5    D6 Lo Ni           510 Dd M9 V M6 D
+Gaza          1615 B430656-B  W Na Ni Po De        723 Dd G1 V K5 V
+ASHASI        1618 E9D5AA8-C    Hi Fl              621 Dd M3 V
+Neopidan      1619 BA9A547-8  N Ni Wa              724 Dd K3 V
+Surisha       1620 D682232-3    Lo Ni              201 Dd M1 V K9 D

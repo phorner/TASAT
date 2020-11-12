@@ -1,0 +1,61 @@
+@SUB-SECTOR:Lamas   SECTOR:Deneb
+#
+# Trade routes within the subsector
+$1006 0805 -1 0
+$1006 1309 0 0
+$1309 1609 0 0
+$1609 1808 1 0
+$1609 1613 0 1
+#
+#Political Borders
+^0905 4
+^0906 0
+^0906 1
+^1006 0
+^1006 1
+^1106 2
+^1106 3
+^1206 0
+^1306 0
+^1306 5
+^1405 0
+^1405 5
+^1505 0
+^1505 1
+^1505 5
+^1605 0
+^1605 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ghatsokfe     0902 BA8669D-8    Ag Ni Ri           304 Va M7 VI
+Matsa         0903 A234453-F    Ni                 102 Cs F3 IV M5 VI
+Aksofouta     0905 D55677A-4    Ag                 612 Va M6 V
+Waalikii      0906 B525586-B  N Ni                 834 Dd F8 V
+Malkei        0907 B659866-8                       610 Dd M1 III
+Gyrfal        0910 C8B6545-7    Ni Fl              103 Dd M8 V
+Kfathvaedal   1001 B000661-C    Na Ni As           224 Va G5 VI
+Sisi          1004 B8D0610-8    Ni De              624 Va M4 V
+Kamisaraki    1006 C354467-A  S Ni                 703 Dd G1 V M3 D
+Lengighdzuerz 1202 A300520-B    Ni Va              923 Va G6 V
+Naimar Station1203 B000347-A  N Lo Ni As           912 Cs M5 V F6 D
+Haniiwa       1208 XA9A643-4    Ni Wa           R  210 Dd F4 II
+Latros        1301 B688227-B    Lo Ni              501 Na K3 V M0 D
+Kantra        1302 C301698-9    Na Ni Va Ic        622 Na M7 V
+Qi'iri        1303 E454323-7  C Lo Ni              410 Va M0 V
+Lome          1306 E32487B-9                       101 Dd M0 V M7 D M7 D
+Lamas         1309 B7AA585-C  N Ni Fl Wa           701 Dd M5 V
+Qi'ire        1403 A657377-A    Lo Ni              402 Na M8 V
+Anatre        1405 D5788A7-6                       401 Dd M3 V
+BORLUND       1406 E454AAA-9    Hi                 701 Dd M8 VI M9 VI
+Krisna        1409 C84A651-A    Ni Wa              812 Dd M8 V
+Mur           1502 C100733-A    Na Va              120 V6 F1 V M8 D
+Gila          1504 E663674-6    Ni Ri              201 Na K5 V K5 D
+Lagut         1505 C312555-B    Ni Ic              932 Dd F9 V
+Pek'e         1508 C441325-7  S Lo Ni Po           412 Dd F3 V
+Prolam        1509 B769436-A  N Ni                 223 Dd A7 V
+Gzigorlloe    1601 A311677-A    Na Ni Ic        A  801 V6 M1 V
+Gzonksoeg     1603 E567200-7  C Lo Ni              401 Va M9 V
+Yef           1606 E243342-4    Lo Ni Po           202 Dd M2 V
+Gaashushnu Li 1608 X744255-4    Lo Ni           R  404 Dd F4 D
+Ansirk        1609 A100100-F  N Lo Ni Va           122 Dd F2 V

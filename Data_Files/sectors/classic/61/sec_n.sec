@@ -1,0 +1,11 @@
+@SUB-SECTOR:Ashishinipar SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Ashishinipar  0931 B8949BA-9    Hi In              410 Na G0 V K5 D 
+Nadnamnarni   1033 B200211-9    Lo Ni Va           503 Na M4 V 
+Tristira      1140 C87A740-5    Wa                 713 Cs F7 V 
+Tarin Sink    1432 DAE3301-6    Lo Ni Fl Rs        635 Cs M7 II M1 V 

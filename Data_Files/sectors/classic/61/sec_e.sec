@@ -1,0 +1,30 @@
+@SUB-SECTOR:Ian   SECTOR:Corridor
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- -----------
+Shinku        0111 E879102-8    Lo Ni              422 Im F9 V 
+Kiran         0112 A354856-F  N                    901 Im M0 V K5 V 
+Aga Sugek     0113 A9B8356-D    Lo Ni Fl           401 Im M4 V K7 VI 
+Khikhuushir   0115 D676534-4    Ag Ni              624 Im M0 V 
+Ka Eto        0119 B615345-D  N Lo Ni Ic           502 Im M3 V 
+Erlu          0213 B7C0626-8  N Ni De              404 Im M6 V 
+Lobok         0218 C582876-9    Ri                 335 Im G1 V 
+Jubal         0311 X300497-2    Ni Va           R  823 Im G8 IV M8 D 
+Muugagen      0312 D453465-9    Ni Po              601 Im M6 V 
+Yubitty       0313 C96A987-7    Hi Wa              932 Im K9 V 
+Daban         0411 C514858-8    Ic                 802 Im K2 V 
+Ian           0416 A5A88BE-C    Fl Cp              303 Im M2 V 
+Irasumshu     0417 E554A74-6    Hi                 801 Im M0 V 
+Linix' Cha    0511 E322578-8    Ni Po              822 Im M2 V 
+Beta Regilis  0512 D543567-3  S Ni Po              714 Im M1 V 
+Kumorle       0513 B331758-C  S Na Po              225 Im K7 V 
+Raiga         0516 X664532-3    Ag Ni           R  714 Im M8 V 
+Ikhur         0611 B756532-B    Ag Ni              301 Im M0 V 
+Dywosik       0614 C247547-A    Ag Ni              921 Im G5 VI M8 V 
+Vom           0617 C223578-9  S Ni Po              302 Im F9 V 
+Teras         0714 B438247-B  N Lo Ni              410 Im M3 V M0 D 
+Lysio         0815 B494546-9  S Ag Ni              901 Im M0 V 
+Antiquity     0816 A223420-C  N Ni Po An           214 Im F6 V 
