@@ -1,0 +1,15 @@
+@SUB-SECTOR:Eaisalyatui SECTOR:Uistilao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+O'ausoila     2932 D235530-6    Ni                 604 Ta G2 II
+Hiyrihahih    3034 D622103-9  S Lo Ni Po           104 Ta F5 V
+Khtuhlao      3134 D555544-7    Ag Ni              502 Ta K1 V M8 D
+Ialeaoie      3232 C735988-6  S Hi In              820 Ta F2 V
+Isikhtayahre  3234 C89A210-A    Lo Ni Wa           425 Ta F1 V M0 D
+Htoihoftoi    3236 D411979-9    Hi Ic Na           804 Ta G8 V

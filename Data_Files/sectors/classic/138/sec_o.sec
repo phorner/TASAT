@@ -1,0 +1,51 @@
+@SUB-SECTOR:Ophlan  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1731 B5966S2-8  K Ag Ni              204 Hv        
+              1735 C451206-B  M Lo Ni Po           923 Hv        
+              1736 C374623-7    Ag Ni              123 Hv        
+              1740 C678104-7    Lo Ni              521 Hv        
+              1836 C5648S1-7    Ri                 714 Hv        
+              1838 C422512-7    Ni Po              813 Hv        
+              1839 C000664-6    As Na Ni           101 Hv        
+              1932 D200423-7    Ni Va              502 Hv        
+              1934 C403561-8    Ic Ni Va           902 Hv        
+              1935 C9E4305-6    Fl Lo Ni           314 Hv        
+              1936 C140204-8  M De Lo Ni Po        934 Hv        
+              2035 C4828T5-8    Ri                 800 Hv        
+              2132 D747563-8  M Ag Ni              903 Hv        
+              2134 B452AT1-B  M Hi Po              400 Hv        
+              2136 B663421-B    Ni                 613 Hv        
+              2235 D537103-6  M Lo Ni              603 Hv        
+              2237 D424521-6  M Ni                 704 Hv        
+              2238 D4528T5-7  M Po                 804 Hv        
+              2239 D380564-7  M De Ni              904 Hv        
+              2337 E598465-2    Ni                 513 Hv        
+              2338 E5647S2-4    Ag Ri              413 Hv        
+              2433 E74A101-6    Lo Ni Wa           601 Hv        
+              2434 E767462-6    Ni                 524 Hv        
+              2438 E110564-B    Ni                 713 Hv        
+              2439 E1408S3-6    De Po              812 Hv        
+              2440 E000521-5    As Ni              912 Hv        

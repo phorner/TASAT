@@ -1,0 +1,52 @@
+@SUB-SECTOR:Biphas  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zachariah     0903 D110832-9  S Na                 323 Na        
+Hathar        1003 E8D28BB-6    Fl                 312 Na        
+Accra         1005 E774484-2    Ni                 713 Na        
+Soliel        1006 E55859D-5    Ag Ni              210 Na        
+Corcurachan   1010 C310400-B    Ni                 803 Na        
+Opel          1102 B87A201-A    Lo Ni Wa           812 Na        
+Fugentun      1206 C327349-9    Lo Ni              401 Na        
+Heathleah     1208 C876ABC-C    Hi In              802 Na        
+Sourte        1210 E31249A-8    Ic Ni              901 Na        
+Negro         1301 A97A468-C  N Ni Wa              413 Na        
+Africa        1302 B100543-9  N Ni Va              704 Na        
+Stephanie     1308 A737221-D    Lo Ni              904 Na        
+Thoud         1310 B77A7CC-A  N Wa                 804 Na        
+Balkok        1405 A422457-E    Ni Po              820 Na        
+Sabine        1406 A346236-9  N Lo Ni              923 Na        
+Clemson       1407 A699887-D                       200 Na        
+Thekar        1502 B414436-9  N Ic Ni              414 Na        
+Gengong       1506 C87A598-6  S Ni Wa              203 Na        
+Gradule       1508 C662ACA-8    Hi                 812 Na        
+Nome          1509 B370211-8  S De Lo Ni           104 Na        
+Dubhlachan    1510 C69979D-7                       713 Na        
+Walterson     1601 B557656-8    Ag Ni              223 Na        
+Erin          1603 B41059C-B  N Ni                 204 Na        
+Patter        1604 B4548CA-6                       304 Na        
+Cambrian      1605 A31156A-E  A Ic Ni              110 Na        
+Diamanta      1608 C976685-8  S Ag Ni              502 Na        
+Chusuk        1610 B455437-9  S Ni                 703 Na        

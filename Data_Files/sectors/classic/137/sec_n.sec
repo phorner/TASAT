@@ -1,0 +1,41 @@
+@SUB-SECTOR:N SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0935 B235837-9                       100 So M2 V
+              0936 D450345-7    De Lo Ni Po        110 So M5 V
+              1032 C4237BF-7    Na Po              414 So M0 V
+              1033 B6768A9-9                       702 So K0 V M4 D
+              1036 E79A640-5    Ni Wa              310 So M0 V M5 D
+              1038 C347584-B    Ag Ni              710 Hv K4 II M1 D
+              1040 B565345-B    Lo Ni              314 Hv A0 V M7 D
+              1133 E457053-6    Lo Ni              800 So K5 V M7 VI
+              1134 B645500-8  F Ag Ni              904 So K4 III
+              1137 B351457-8  F Ni Po              100 So M9 IV M6 D
+              1139 B577614-B  F Ag Ni              100 Hv M4 V K8 D
+              1239 C330162-B    De Lo Ni Po        202 So K1 V M2 D
+              1332 A894644-F  F Ag Ni              205 Hv M4 V M3 D
+              1333 BA9A253-E  F Lo Ni Wa           800 Hv M4 II M3 V
+Tohire        1335 C0009BA-8    As Hi In Na        910 So K3 V
+              1336 A141620-C    Ni Po              120 So M4 III G7 D
+              1337 B2306AD-A  F De Na Ni Po        210 So M2 V
+              1338 B1012C3-F  F Ic Lo Ni Va        600 Hv M7 V
+              1340 D3573T3-7    Lo Ni              602 Hv M3 IV M2 D
+              1431 D3237S2-A    Na Po              100 Hv M1 V M5 D
+              1432 B545876-6  F                    913 So A3 V
+              1433 E468557-6    Ag Ni              420 So M4 V
+              1436 E521866-8    Na Po              614 Hv M2 IV M3 D
+              1438 C5318T3-5    Na Po NH FA        810 Hv G3 V M8 D
+              1439 C5328T6-C    Na Po              710 Hv M2 V M9 D
+              1440 A257445-F  F Ni                 324 Hv G6 IV
+              1539 D896662-A    Ag Ni              500 Hv M2 V M4 D
+              1540 C440000-0    Ba De Lo Ni Po     804 Hv G0 VI
+              1631 B4403S2-9    De Lo Ni Po        925 Hv G9 V
+              1635 E140285-7    De Lo Ni Po        410 Hv K9 VI
+              1637 B36A395-C    Lo Ni Wa           324 Hv M5 V
+              1638 C3336T1-A    Na Ni Po           410 Hv G0 VI

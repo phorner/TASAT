@@ -1,0 +1,38 @@
+@SUB-SECTOR:Aphlaz  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Moundeson     0205 X686459-0    Ni              R  800 Na        
+Thirle        0210 C4749A9-B  S Hi In              204 Na        
+Darkmage      0304 A766696-9    Ag Ni Ri           414 Na        
+Teria         0310 C15099A-9  S De Hi Po           214 Na        
+Lahbro        0403 D6577A8-4  S Ag                 600 Na        
+Vicarii       0406 X553345-0    Lo Ni Po        R  422 Na  
+Hollerith     0502 A8C7ADC-E  S Fl Hi           A  714 Na        
+Zachary       0508 E330256-5    De Lo Ni Po        801 Na        
+Pole          0510 C411667-7    Ic Na Ni           103 Na       
+Hewlett       0601 A4108AD-A    Na                 223 Na        
+Spark         0708 E00046A-A    As Ni              404 Na        
+Vicenzi       0808 C555642-6  S Ag Ni              204 Na        
+Hodlow        0810 E7C3573-8    Fl Ni           A  803 Na        

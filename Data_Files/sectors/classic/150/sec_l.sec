@@ -1,0 +1,14 @@
+@SUB-SECTOR:Iaikhya SECTOR:Uistilao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Awaui         2829 E160144-4    De Lo Ni           114 Ta F2 V M7 D
+Oioireiheah   2927 E766698-5    Ag Ni Ri           804 Ta F4 V
+Htearleaai    2928 E57258A-6    Ni                 425 Ta F1 V M6 D
+Wasaal        2929 E41058A-4    Ni                 612 Ta M6 V M5 V
+Oukhtoihwea   3026 D89979B-6  S                    300 Ta F1 V

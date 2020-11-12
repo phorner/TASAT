@@ -1,0 +1,41 @@
+@SUB-SECTOR:I SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0122 E79A79A-7    Wa                 604 So M2 V
+              0123 D422621-6    Na Ni Po           305 So M4 V
+              0124 A534535-C    Ni                 500 So M0 V
+              0125 C2508CC-5    De Po              800 So M2 II
+              0127 C47A851-7    Wa                 700 So M0 V
+              0129 D247755-6    Ag                 903 So M2 V M2 D
+              0130 C445433-5    Ni                 920 So G1 III
+              0222 C424402-8    Ni                 200 So F4 V M1 D
+              0227 A86A326-C    Lo Ni Wa           825 So M6 V
+              0228 CA97157-6    Lo Ni              403 So K5 V
+              0321 B596126-7    Lo Ni              404 So G4 V M9 D
+              0322 C867355-7    Lo Ni              312 So G9 VI
+              0323 B450897-9  F De Po              304 So M4 D M8 D
+              0325 D24458B-4    Ag Ni              912 So K3 V
+              0328 CA88855-7    Ri                 800 So M2 IV M1 V
+              0329 C4568AF-7                       710 So G3 V
+              0429 C7B2687-7    Fl Ni              711 So K2 V M5 D
+              0522 C776585-5    Ag Ni              512 So M0 IV M3 VI
+              0523 C479402-7    Ni                 104 So G2 V
+              0621 C662100-A    Lo Ni              400 So F9 V M5 D
+              0622 CA69755-A    Ri                 323 So M5 III
+Boreal        0623 A3309C9-E    De Hi Na Po        205 So K0 V M6 D
+Tigr          0626 C8C899C-8    Fl Hi              903 So G4 V
+              0725 D000201-7    As Lo Ni           314 So M6 D
+              0727 C000310-C    As Lo Ni           802 So M3 VI M4 D
+              0728 CAE979A-8    Fl                 710 So F0 V M7 D
+Vitek         0822 E100997-9    Hi In Na Va        303 So M9 V
+              0823 E765136-2    Lo Ni              100 So G5 III
+              0824 B383666-6    Ni Ri              503 So A0 V
+              0828 B377122-B    Lo Ni              710 So M3 V M1 D
+              0829 D101232-A    Ic Lo Ni Va        303 So K8 V
+              0830 D2306A7-3    De Na Ni Po        913 So M6 III M3 D

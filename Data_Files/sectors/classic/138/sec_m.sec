@@ -1,0 +1,50 @@
+@SUB-SECTOR:Mansker  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0139 B8B4463-A  J Fl Ni           A  223 Hv         
+              0232 C7798T1-6  M                    515 Hv        
+              0235 C7B3004-5  M Fl Lo Ni        A  604 Hv        
+              0238 A6818S2-A  J Ri                 403 Hv        
+              0239 B202421-A  J Ic Ni Va           901 Hv        
+              0240 B2247S5-8  K                    104 Hv        
+              0332 A776662-C    Ag Ni              700 Hv        
+              0334 B7387S3-8                       105 Hv        
+              0336 C888763-4    Ag Ri              214 Hv        
+              0431 A744306-B  K Lo Ni              800 Hv        
+              0434 B64AAW1-B    Hi In Wa           215 Hv        
+              0437 B7836S4-5  M Ni Ri              604 Hv        
+              0440 B746322-9  K Lo Ni              710 Hv        
+              0531 A326AW5-F    Hi In              210 Hv        
+              0539 B99AAU6-E    Hi In Wa           200 Hv        
+              0632 C1008S3-A    Na Va              624 Hv        
+              0731 A444364-9  K Lo Ni              903 Hv        
+              0732 A4637S1-C    Ri                 105 Hv        
+              0734 D659001-5    Lo Ni              813 Hv        
+              0737 B120322-C  J De Lo Ni Po        704 Hv        
+              0832 C999313-7  M Lo Ni              804 Hv        
+              0833 A615561-9  K Ic Ni              402 Hv        
+              0834 A5468T4-B                       502 Hv        
+              0835 A7527S6-8  M Po                 104 Hv        
+              0838 B2208S4-8  K De Na Po           513 Hv        

@@ -1,0 +1,55 @@
+@SUB-SECTOR:Elaska  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Manchester    0115 C69A699-7  S Ni Wa              402 Na        
+Gerbrantius   0116 C89A766-7  S Wa                 700 Na        
+              0117 B260764-7  K De Ri              713 Hv        
+              0118 CAA3211-5    Fl Lo Ni           915 Hv        
+Fagtor        0213 E662773-4    Ri                 734 Na        
+Elizabeth     0215 C3549D8-7    Hi                 514 Na        
+              0217 A669201-D    Lo Ni              105 Hv        
+Seg           0311 X486436-3    Ni              R  214 Na        
+Pravda        0314 E211667-4    Ic Na Ni           303 Na        
+Derig         0315 E79799A-8    Hi In              413 Na        
+              0317 A581202-D    Lo Ni              104 Hv        
+              0318 A6955S5-9    Ag Ni              905 Hv        
+Dunkirk       0413 E5898DE-5                       900 Na        
+Krossbyr      0415 E000499-7    As Ni              803 Na        
+Eregdor       0416 C739798-8                       800 Na        
+              0418 B160212-B  M De Lo Ni           204 Hv              
+Sirma         0512 C7A6105-B    Fl Lo Ni           324 Na        
+Hardon        0514 X523314-1    Lo Ni Po        R  912 Na        
+              0519 B1305S6-9  M De Ni Po           104 Hv         
+Angie         0614 A633110-9    Lo Ni Po           213 Na        
+Betraytor     0615 A87488A-B  N                    400 Na        
+              0617 A383101-C  K Lo Ni              210 Hv        
+              0619 B100213-B  K Lo Ni Va           924 Hv        
+              0716 E7696S4-4    Ni Ri              323 Hv        
+              0720 A5549S6-9  K Hi                 301 Hv        
+Bielform      0813 C000249-B  S As Lo Ni           114 Na        
+              0817 B683002-8  J Ba Lo Ni           503 Hv        
+              0818 B6669W5-C    Hi                 413 Hv        
+              0819 B1006S4-9  J Na Ni Va           314 Hv        
+              0820 A5759T3-D  K Hi In              213 Hv        

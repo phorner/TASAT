@@ -1,0 +1,35 @@
+@SUB-SECTOR:B SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0901 B323858-D    Na Po              900 Na M4 V M1 D
+              0903 C331647-6    Na Ni Po           411 Na M0 V
+              0909 A78A874-A    Wa Ri              813 So M3 V M6 D M1 D
+              0910 C776875-6                       413 Na G2 V M4 D
+              1002 C201563-6    Ic Ni Va           500 Na K4 V
+              1010 E777454-8    Ni                 710 Na M6 IV
+              1104 A665663-A  F Ag Ni Ri           523 Na M4 V
+              1106 B233798-B    Na Po              500 Na G2 V
+              1206 CA99535-9    Ni                 900 Na M0 V
+              1207 A551875-7  F Po                 514 Na G9 D M8 D
+              1208 C788543-7    Ag Ni              110 Na G0 V
+              1209 B48A886-A    Wa Ri              604 Na K1 V
+              1301 E77A578-7    Ni Wa              402 Na M1 V M8 V
+              1302 BA9A677-B    Ni Wa              115 Na K9 VI M8 D
+              1303 C201467-9    Ic Ni Va           520 Na M2 V
+              1307 C550778-6    De Po              803 Na M2 V M6 D
+              1401 C411500-B    Ic Ni              900 Na K0 V
+              1405 A211377-D    Ic Lo Ni           610 Na G0 V
+              1407 E6A5888-7    Fl                 305 Na G8 VI M4 D
+              1410 C535587-5    Ni                 503 Na M2 IV
+              1502 C326522-B    Ni                 314 Na M4 IV
+              1508 E550499-6    De Ni Po           303 Na A4 V K2 D
+              1601 C101540-B    Ic Ni Va           800 Na M3 III
+              1604 D843547-7    Ni Po              400 Na M2 V
+              1605 D442626-6    Ni Po              200 Na M4 V
+              1607 D311734-5    Ic Na              500 Na G0 IV

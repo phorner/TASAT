@@ -1,0 +1,60 @@
+@SUB-SECTOR:Kinnant  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1722 E655321-5    Lo Ni              303 Hv        
+              1723 C5507S2-6  M De Po              914 Hv        
+              1724 C574AW6-7  M Hi In              104 Hv        
+              1725 C432101-A    Lo Ni Po           224 Hv        
+              1726 E787321-5    Lo Ni              712 Hv        
+              1728 E755724-1    Ag                 811 Hv        
+              1729 C686303-9  M Lo Ni              613 Hv        
+              1821 E547562-3    Ag Ni              414 Hv        
+              1823 E4658S4-7    Ri                 514 Hv        
+              1824 E100312-8    Lo Ni Va           724 Hv        
+              1828 E4456S5-7    Ag Ni              832 Hv        
+              1928 E363464-4    Ni                 905 Hv        
+              1929 E655421-2    Ni                 202 Hv        
+              2023 E120001-5    De Lo Ni Po        610 Hv        
+              2024 C6B08S3-7    De              A  510 Hv        
+              2026 C544364-8    Lo Ni              702 Hv        
+              2027 C89A9T3-7    Hi In Wa           424 Hv        
+              2030 B444202-A    Lo Ni              103 Hv        
+              2121 C310524-7  M Ni                 810 Hv        
+              2123 C556562-9    Ag Ni              200 Hv        
+              2127 B120201-A  K De Lo Ni Po        103 Hv        
+              2130 B5428S6-6  K Po                 823 Hv        
+              2221 C622202-6    Lo Ni Po           112 Hv        
+              2223 D200314-9    Lo Ni Va           304 Hv        
+              2224 D2326S5-7    Na Ni Po           424 Hv        
+              2226 D150463-5    De Ni Po           504 Hv        
+              2227 D100101-A    Lo Ni Va           603 Hv        
+              2228 D301861-6    Ic Na Va           803 Hv        
+              2325 D330464-9    De Ni Po           701 Hv        
+              2421 C410513-6  M Ni                 114 Hv        
+              2422 B453306-C  K Lo Ni Po           213 Hv        
+              2424 B365612-8  M Ag Ni              303 Hv        
+              2427 B3349S4-E    Hi In              402 Hv        
+              2429 E8C76S3-5    Fl Ni           A  211 Hv        
+              2430 E849315-3    Lo Ni              314 Hv        

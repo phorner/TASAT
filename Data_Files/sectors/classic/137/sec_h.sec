@@ -1,0 +1,36 @@
+@SUB-SECTOR:H SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2518 A78A464-9  F Ni Wa              203 Hv K3 V
+              2520 E000243-5    As Lo Ni           514 Na G3 V M7 D
+              2612 B887765-A  F Ag Ri              921 Na K0 V M6 D
+              2613 E674747-5    Ag                 704 Na K1 V
+Tritran       2619 E3325S4-A    Ni Po              523 Hv M2 V M2 D
+              2712 D65A311-6    Lo Ni Wa           903 Na M3 V
+Louis         2714 X110995-4    Hi In Na           824 Na M2 V
+              2716 C9D87S1-C    Fl                 704 Hv K3 V
+              2717 E334754-8                       900 Na K2 V M8 D
+              2718 D87A597-7    Ni Wa              811 Na M5 VI M0 D
+              2814 B440402-D    De Ni Po           804 Na M0 V M1 D
+              2815 B559333-9  F Lo Ni              820 Na M6 IV
+              2820 E577264-D    Lo Ni              200 Hv G0 V
+              2914 C6898CD-4                       900 Na K4 V M4 D M7 D
+              2917 D550764-C    De Po              400 Hv K1 V M4 D
+              3012 A568452-E  F Ni                 713 Na G2 V
+              3018 B8978B9-5  F                    114 Na M3 V M2 D
+              3020 B4007S2-E    Na Va              904 Hv K9 III
+              3112 B111885-8    Ic Na              822 Na M3 D
+              3113 A4307A6-B    De Na Po           604 Na M9 VI
+              3116 C2336S1-C    Na Ni Po           401 Hv M4 V
+              3119 E421752-D    Na Po              300 Hv G0 IV
+              3120 C674541-B    Ag Ni              404 Hv M3 V M3 D
+              3211 C8C4368-5    Fl Lo Ni           603 Na G6 V
+Sline         3214 B1319A7-E  F Hi Na Po           502 Na F1 III
+              3216 A442773-D  F Po                 903 Na K1 III M5 VI
+              3218 B731233-B    Lo Ni Po           202 Na M6 V

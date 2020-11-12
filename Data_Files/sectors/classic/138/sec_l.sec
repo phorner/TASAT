@@ -1,0 +1,49 @@
+@SUB-SECTOR:Lanskur  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2530 B88A201-C  K Lo Ni Wa           903 Hv        
+              2624 B3537S4-7  K Po                 300 Hv        
+              2626 E405102-5    Ic Lo Ni Va        522 Hv        
+              2629 B787325-6    Lo Ni              200 Hv        
+              2724 B331564-C    Ni Po              412 Hv        
+              2727 E64A723-3    Wa                 713 Hv        
+              2728 E673506-6    Ni                 815 Hv        
+              2730 B8B0562-A    De Ni           A  100 Hv        
+              2824 D7A28S1-6  M Fl                 602 Hv        
+              2825 C110204-C    Lo Ni              100 Hv        
+              2828 A4358T2-C  K                    803 Hv        
+              2923 D5129U5-7  M Hi Ic Na           404 Hv        
+              2926 B8B2413-C  M Fl Ni           A  514 Hv        
+              2927 B88A7S6-A  K Wa                 624 Hv        
+              2930 B463411-B    Ni                 510 Hv        
+              3022 E883321-7    Lo Ni              200 Hv        
+              3024 D565204-2  M Lo Ni              404 Hv        
+              3121 B6797S2-9  K                    304 Hv        
+              3125 E8586U4-3    Ag Ni              201 Hv          
+              3221 B759563-9    Ni                 414 Hv        
+              3223 B223525-8  M Ni Po              601 Hv        
+              3224 B8B49T3-B  M Fl Hi           A  734 Hv        
+              3227 B798106-C  M Lo Ni              603 Hv        
+              3229 A150512-C  J De Ni Po           801 Hv        

@@ -1,0 +1,31 @@
+@SUB-SECTOR:E SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 C441569-8    Ni Po              603 So F3 V M2 D
+              0113 B89A365-D  F Lo Ni Wa           715 So M4 V
+              0217 E631511-8    Ni Po              404 So M2 II
+              0220 B210887-9    Na                 702 So M2 V
+Tern          0313 C0009BB-B    As Hi In Na        610 So G0 V
+              0315 A12179A-D    Na Po              800 So M3 V
+Tupindur      0317 A44399C-A  F Hi In Po           403 So K3 V
+              0411 C58A845-8    Wa Ri              311 So M2 V M5 D
+              0415 C645667-4    Ag Ni              413 So M2 V
+Montanna      0416 B7B39BA-C    Fl Hi              813 So M9 IV M6 D
+              0419 D755237-2    Lo Ni              703 So G9 V M4 D
+              0512 C441213-7    Lo Ni Po           320 So F2 V
+              0518 B466899-9  F Ri                 304 So M4 V
+              0615 B000634-9  F As Na Ni           813 So G0 V
+              0619 D89A100-6    Lo Ni Wa           805 So K4 V M6 D
+              0713 D66A769-5    Wa Ri              703 Na M4 V
+              0715 C668476-4    Ni                 420 So K4 V
+              0717 E766246-4    Lo Ni              824 So M4 III
+              0720 X55078C-1    De Po              620 So M2 IV
+              0816 B868854-8    Ri                 402 So M1 V
+              0817 B555640-7    Ag Ni              914 So G0 V
+              0818 A200679-9  F Na Ni Va           300 So M4 III

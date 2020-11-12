@@ -1,0 +1,46 @@
+@SUB-SECTOR:Ikask  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0123 C635101-A    Lo Ni              500 Hv        
+              0125 C877864-7  M                    823 Hv        
+              0127 C856521-6    Ag Ni              905 Hv        
+              0130 C778212-9    Lo Ni              105 Hv       
+              0221 E4267S4-5                       700 Hv        
+              0223 E0008S3-4    As Na              913 Hv        
+              0323 E150512-8    De Ni Po           100 Hv        
+              0330 C744313-5  M Lo Ni              303 Hv        
+              0423 C985105-8    Lo Ni              604 Hv        
+              0424 E110764-9    Na                 720 Hv        
+              0426 E000514-8    As Ni              824 Hv        
+              0430 EA9A503-5    Ni Wa              801 Hv        
+              0530 E967864-5                       914 Hv        
+              0622 E7578S6-2                       925 Hv        
+              0625 C784303-7    Lo Ni              302 Hv        
+              0722 E668562-5    Ag Ni              802 Hv        
+              0725 C6426S2-8  M Ni Po              400 Hv        
+              0821 C4006S4-6    Na Ni Va           202 Hv        
+              0825 C675421-7    Ni                 510 Hv        
+              0826 E200525-6    Ni Va              103 Hv        
+              0827 E460423-8    De Ni              620 Hv        

@@ -1,0 +1,17 @@
+@SUB-SECTOR:Hkear SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0913          0913 X8A0000-1    Ba De Lo Ni        003 Na  
+0920          0920 X370010-0    De Lo Ni           002 Na  
+1115          1115 X73A012-1    Lo Ni Wa           024 Na  
+1215          1215 X765011-2    Lo Ni              005 Na  
+1311          1311 X698003-3    Lo Ni              014 Na  
+1314          1314 X8D5011-1    Fl Lo Ni           004 Na  
+1419          1419 X666000-0    Ba Lo Ni           013 Na  
+1620          1620 X698002-1    Lo Ni              023 Na  

@@ -1,0 +1,50 @@
+@SUB-SECTOR:Cophlan  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Santiago      1704 D303412-5  S Ic Ni Va           504 Na        
+Poynting      1705 D485745-5    Ag Ri              404 Na        
+Frances       1707 D466411-3    Ni                 324 Na        
+Guilomar      1709 B8B0557-B  A De Ni              601 Na        
+Wolfgang      1710 B678454-C    Ni                 414 Na        
+Dumpty        1801 D758420-6  S Ni                 500 Na        
+Vaughn        1902 D886698-5  S Ag Ni Ri           904 Na        
+Day           1903 D8549CC-5    Hi                 103 Na        
+Jean          1906 E537245-7    Lo Ni              803 Na        
+Sarma         1907 C452549-6  S Ni Po              721 Na        
+Karden        1910 E221240-5    Lo Ni Po           913 Na        
+Org           2009 E255684-7    Ag Ni              123 Na        
+Alva          2103 A856AAC-E    Hi                 900 Na        
+Trece         2104 C12079A-6    De Na Po           823 Na        
+Hapsburg      2108 B75A344-C  N Lo Ni Wa           410 Na        
+Ansel         2205 B497431-7    Ni                 802 Na        
+Reginald      2206 A576231-A    Lo Ni              104 Na        
+Cinderella    2208 A889755-A  A Ri                 612 Na        
+Stephenson    2209 A8B8422-C  A Fl Ni              503 Na        
+Arise         2302 C335200-C    Lo Ni              200 Ia        
+Isaiah        2304 C300520-8    Ni Va              100 Na        
+Ordred        2306 A221ABA-F  N Hi In Na Po        902 Na        
+Frater        2310 A3618CA-9  A                    124 Na        
+Runnik        2405 B545314-A  N Lo Ni              603 Na        
+Louisa        2410 A325542-E    Ni                 201 Na        

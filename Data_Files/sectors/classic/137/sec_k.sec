@@ -1,0 +1,42 @@
+@SUB-SECTOR:K SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tasimkin      1721 D540323-D    De Lo Ni Po        710 Hv K8 V
+              1722 A4014T4-E  F Ic Ni Va           514 Hv G4 VI M1 D
+              1729 E550306-8    De Lo Ni Po        611 Hv K1 V
+              1824 X88A685-A    Ni Wa Ri           702 Hv G2 V M4 D
+              1826 B220295-D    De Lo Ni Po        800 Hv M9 V M8 D
+              1827 A654201-9    Lo Ni              400 Hv G4 V
+Tuasye        1828 B1006S6-D    Na Ni Va           710 Hv M0 V
+              1830 A7BA313-D  F Fl Lo Ni Wa        202 Hv M1 IV M1 D
+              1921 D1118S9-3    Ic Na NH           400 Hv G4 V M3 D
+              1922 B78A6T5-F  F Ni Wa Ri           104 Hv M1 V
+              1923 E4998S5-C                       810 Hv K2 V
+              1925 D69A345-C    Lo Ni Wa           313 Hv M0 V
+              1926 A743267-A  E Lo Ni Po NH        200 Hv M1 V M3 D
+              1927 B789265-E    Lo Ni              500 Hv A7 V
+              1930 D7986S6-A    Ag Ni              503 Hv G1 V
+              2026 B5328T6-F    Na Po              205 Hv M1 V
+              2030 EA9A412-9    Ni Wa              905 Hv G5 IV
+              2122 D7BA000-0    Ba Fl Lo Ni Wa     300 Hv M7 V K7 VI
+              2124 C6A44T2-7    Fl Ni              402 Hv G1 III M5 D
+              2125 D6AA7T2-7    Fl Wa              402 Hv G0 V M3 D
+              2127 E6A7463-9    Fl Ni              610 Hv M0 IV
+              2129 X596404-5    Ni                 504 Hv K2 V
+              2224 AAC9467-7  E Fl Ni NH           804 Hv F2 III
+              2230 B101614-E    Ic Na Ni Va        104 Hv M0 V
+              2321 B252865-E    Po                 114 Hv M3 V
+              2323 C1413S6-C    Lo Ni Po           500 Hv K7 V M5 D
+              2328 A44526A-9  F Lo Ni NH           100 Hv M2 IV
+              2329 C89A803-F    Wa                 410 Hv M1 V
+              2421 B442272-E    Lo Ni Po           504 Hv M1 V
+              2422 B131303-C    Lo Ni Po           914 Hv M1 IV M4 V
+              2423 D89A123-8    Lo Ni Wa           200 Hv M6 V
+              2424 A8CA663-C    Fl Ni Wa           510 Hv G4 IV M4 D
+              2427 E468702-9    Ag Ri              404 Hv M0 V M8 D

@@ -1,0 +1,11 @@
+@SUB-SECTOR:Eisyekhye SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2710          2710 X110021-0    Lo Ni              003 Na  
+2806          2806 X348000-2    Ba Lo Ni           024 Na  

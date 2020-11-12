@@ -1,0 +1,11 @@
+@SUB-SECTOR:Ieaaololi' SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2301          2301 X564023-0    Lo Ni              024 Na  
+2406          2406 X140010-0    De Lo Ni Po        001 Na  

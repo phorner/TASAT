@@ -1,0 +1,39 @@
+@SUB-SECTOR:J SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0922 E301410-7    Ic Ni Va           210 So G1 V M2 D
+              0923 C311131-9    Ic Lo Ni           704 So K8 III
+              0927 D8C5557-9    Fl Ni              703 So M0 IV
+              0928 B97A453-9    Ni Wa              822 So M1 V K1 D
+              0929 C340325-6    De Lo Ni Po        302 So K4 V
+Uggi          0930 E48AAFC-D    Hi Wa              703 So K0 V M9 D
+              1021 D698379-2    Lo Ni              802 So G9 V M2 D
+              1022 E996200-5    Lo Ni              602 So M9 VI M5 D
+              1023 B686126-6    Lo Ni              100 So M5 V
+              1024 C7B9885-8    Fl                 504 So G3 V M3 D
+              1029 E79A9S4-7    Hi In Wa           302 Hv G0 V
+              1030 E121415-8    Ni Po              504 So M4 V M4 D
+              1123 C533565-7    Ni Po              803 So K0 V M5 D
+              1126 A75A364-D    Lo Ni Wa           300 So K8 IV
+              1128 A864320-8  F Lo Ni              824 So M3 V M3 D M7 D
+              1129 A663002-8  F Lo Ni              502 So M4 V
+              1224 B565285-B    Lo Ni              820 Hv G6 V M9 D
+              1225 E47A444-6    Ni Wa              400 So G4 V
+              1230 B568413-8    Ni                 600 Hv M3 VI M0 D
+              1322 C799313-7    Lo Ni              305 Hv M0 V
+              1323 C7B876B-7    Fl                 804 So M0 V
+Border        1324 BA9A7T4-F    Wa                 523 Hv M0 V
+              1325 E201642-7    Ic Na Ni Va        400 So M2 V M2 D
+              1327 B989466-C  F Ni                 813 Hv K1 V
+              1423 D344723-C    Ag                 610 Hv K2 V M9 D
+              1427 C7B4000-0    Ba Fl Lo Ni NH     310 Hv M4 IV
+Waft          1522 B5118T5-F  F Ic Na              914 Hv G0 V M4 D
+              1527 B301463-F    Ic Ni Va           800 Hv K3 V
+              1528 B000761-E    As Na              412 Hv M2 V
+              1629 B25A765-D    Wa                 414 Hv G3 D

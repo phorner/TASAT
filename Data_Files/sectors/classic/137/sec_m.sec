@@ -1,0 +1,41 @@
+@SUB-SECTOR:M SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0135 A552554-9  F Ni Po              904 So M2 V M9 D
+              0136 B8CA546-9    Fl Ni Wa           624 So M4 V
+              0231 B4367A9-B  F                    902 So M7 III M0 D
+              0234 D79A410-8    Ni Wa              325 So M2 V
+              0238 A7B3269-C  F Fl Lo Ni           123 So M5 V M4 D
+Keepout       0240 X757968-1    Hi                 404 So K3 V
+              0332 B501446-9    Ic Ni Va           212 So K3 V
+              0333 B459242-A    Lo Ni              100 So M3 V
+              0334 B121858-9    Na Po              801 So G0 V M4 D
+              0337 C400100-8    Lo Ni Va           305 So K4 IV M2 D
+              0338 E6688C7-4                       703 So K0 V M7 D M3 D
+Diln          0339 E00099C-B    As Hi In Na        404 So M4 V M5 D
+              0431 B89A775-B    Wa                 300 So G4 V M1 D
+              0432 C6558CB-8                       704 So M3 V M6 D M8 D
+              0435 B552100-A    Lo Ni Po           110 So M7 V
+              0437 C111599-7    Ic Ni              314 So M2 V
+File          0439 C13099A-D    De Hi Na Po        503 So M0 V
+              0536 B161884-7    Ri                 110 So M0 V
+              0539 A662889-8  F Ri                 702 So M2 V M7 D
+              0631 C121423-B    Ni Po              105 So M3 V
+Trilion       0634 A8C899C-F  M Fl Hi              312 So M4 V
+              0635 E31137A-8    Ic Lo Ni           700 So K4 V M4 D
+              0639 B440555-D    De Ni Po           204 So K3 V M3 D
+              0731 A6A6359-E    Fl Lo Ni           813 So K9 V
+              0733 A450320-C    De Lo Ni Po        800 So G6 IV
+              0739 D87A410-9    Ni Wa              112 So K4 V
+              0831 C7BA410-B    Fl Ni Wa           301 So M4 V M9 D
+              0832 E531445-6    Ni Po              803 So M2 V
+              0834 X857386-1    Lo Ni              500 So M3 IV
+              0835 D99668A-1    Ag Ni              403 So M2 V M7 D
+              0838 E520588-8    De Ni Po           404 So M5 D M0 D
+              0840 A555340-9    Lo Ni              313 So M6 V

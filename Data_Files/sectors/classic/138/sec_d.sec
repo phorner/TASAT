@@ -1,0 +1,33 @@
+@SUB-SECTOR:Delask  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aabe          2503 C89A5AC-7  S Ni Wa              705 Ia        
+Aabidunuur    2504 D400321-7  S Lo Ni Va           103 Ia        
+Aa            2603 C221887-8    Na Po              622 Ia        
+Cindy         2707 E411413-8    Ic Ni              600 Na        
+Dee           2908 E685204-4    Lo Ni              900 Na        
+Aabirzudii    3102 B898305-B  A Lo Ni              903 Ia        
+Aadanmiirer   3103 C100A87-C    Hi Na Va           804 Ia        
+Pynyngg       3209 B75A99C-9  N Hi Wa              314 Na        

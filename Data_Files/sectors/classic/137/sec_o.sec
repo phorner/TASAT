@@ -1,0 +1,40 @@
+@SUB-SECTOR:O SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 B430353-8  F De Lo Ni Po        504 Hv F8 V
+              1736 E688462-A    Ni                 510 Hv M3 V M0 D
+              1738 C8C6567-4    Fl Ni NH           413 Hv M3 V K7 D
+              1740 A663104-E    Lo Ni              304 Hv M0 V
+              1831 B6757S3-F  F Ag                 705 Hv K2 III M3 D
+              1832 A441476-F    Ni Po              313 Hv M0 V
+              1833 E694753-6    Ag                 704 Hv G4 VI M9 D
+              1934 XA7A501-A    Ni Wa              415 Hv K1 V M2 D
+              1938 B677566-C    Ag Ni              335 Hv M6 IV
+              2033 CAEA8S5-B    Fl Wa              704 Hv M1 V
+Amrad         2034 C223364-8    Lo Ni Po NH        200 Hv M7 III
+              2037 C5506S6-C    De Ni Po           803 Hv K1 V
+              2133 B898864-F                       804 Hv M2 V M6 D
+              2134 C867604-9    Ag Ni Ri           724 Hv A3 V
+              2136 A541566-A  E Ni Po NH           713 Hv G2 V M4 D M1 D
+              2137 B766562-F  F Ag Ni              824 Hv F0 V
+              2231 C6559S2-D    Hi                 314 Hv M0 V M5 D
+              2232 D355275-8    Lo Ni              212 Hv M2 D
+              2233 A89A5S2-B    Ni Wa              510 Hv M3 V
+              2235 A897681-F  F Ag Ni              412 Hv M2 V
+              2240 A6A2541-E    Fl Ni              600 Hv M2 IV K2 D
+              2331 C859453-C    Ni                 215 Hv M2 V M5 D M1 D
+              2334 B140464-E  F De Ni Po           804 Hv M3 V
+              2336 C100561-D    Ni Va              914 Hv K0 V
+              2339 A6268S1-F  F                    423 Hv A3 V
+              2340 C966302-A    Lo Ni              711 Hv M7 V
+              2431 D63466B-4    Ni NH              500 Hv G1 V
+              2432 E6465S2-6    Ag Ni              302 Hv M0 III M1 D
+              2433 A8536S6-A    Ni Po              905 Hv G4 VI
+              2435 C6748S1-C                       724 Hv K3 V
+              2437 B4504S1-B    De Ni Po           803 Hv M2 V M9 D

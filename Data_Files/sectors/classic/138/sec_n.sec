@@ -1,0 +1,61 @@
+@SUB-SECTOR:Norensk  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0931 A230202-E    De Lo Ni Po        100 Hv        
+              0934 B659531-9    Ni                 904 Hv        
+              0935 B6888T4-A    Ri                 114 Hv        
+              0940 A8B6422-E    Fl Ni           A  720 Hv        
+              1031 C510425-8  M Ni                 601 Hv        
+              1033 A544103-C  J Lo Ni              704 Hv        
+              1036 C89A562-6  M Ni Wa              302 Hv        
+              1039 C150411-7  M De Ni Po           602 Hv        
+              1040 C544665-7    Ag Ni              305 Hv   
+              1131 C4387S6-6                       604 Hv        
+              1132 A1209T4-C    De Hi In Na Po     204 Hv        
+              1134 A687421-8    Ni                 624 Hv        
+              1135 C665625-5  M Ag Ni Ri           204 Hv        
+              1136 B767462-6  K Ni                 712 Hv        
+              1138 D364301-5  M Lo Ni              403 Hv        
+              1140 C5789S3-7    Hi In              404 Hv        
+              1231 A1007S6-D  K Na Va              320 Hv        
+              1234 A6537T4-9  K Po                 514 Hv        
+              1236 E130565-7    De Ni Po           402 Hv        
+              1237 C342464-9  M Ni Po              110 Hv        
+              1335 A736362-E  K Lo Ni              403 Hv        
+              1337 C584523-7  M Ag Ni              303 Hv        
+              1339 A471611-C    Ni                 312 Hv        
+              1432 C688562-9    Ag Ni              112 Hv        
+              1433 A2007S5-C    Na Va              613 Hv        
+              1434 A224413-A  M Ni                 713 Hv        
+              1435 A7C5312-C  K Fl Lo Ni        A  204 Hv        
+              1436 B448404-A  K Ni                 700 Hv        
+              1438 B445521-A  M Ag Ni              904 Hv        
+              1440 A1307S1-D  K De Na Po           500 Hv        
+              1532 C659213-5    Lo Ni              913 Hv        
+              1534 C5419U6-8  M Hi In Po           424 Hv        
+              1631 B642424-8  M Ni Po              503 Hv        
+              1632 B6867S5-A  K Ag                 602 Hv        
+              1634 A3748S2-C  K                    812 Hv        
+              1638 B689521-7  J Ni                 905 Hv        

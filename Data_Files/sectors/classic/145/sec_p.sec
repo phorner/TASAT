@@ -1,0 +1,31 @@
+@SUB-SECTOR:Feiko SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Steaisoaai    2539 X150597-2    De Ni Po           305 As  
+Oika          2633 C400259-9  S Lo Ni Va           204 As  
+Stoaewalyese  2634 CA9A476-A  S Ni Wa              101 As  
+Feaaearloiea  2638 X678264-0    Lo Ni              402 As  
+Yai           2734 CAC67A8-4    Fl                 100 As  
+Yewyuawar     2739 X120264-5    De Lo Ni Po        215 As  
+Riy           2740 C444263-7    Lo Ni              404 As  
+Hte'eari      2834 C2009CD-B    Hi Na Va           602 As  
+Ealiyakhau    2835 C336699-6    Ni                 502 As  
+Iee           2934 C546474-7  S Ni                 904 As  
+Kiyh          2935 C352255-9  S Lo Ni Po           403 As  
+Hteia         2937 B437677-C    Ni                 601 As  
+Khtaoouwao    2939 X6466A9-0    Ag Ni              521 As  
+Hkyeyu        3034 C685684-7  S Ag Ni Ri           603 As  
+Eyehaol       3039 C367479-A    Ni                 824 As  
+Khtafiyraarl  3040 B5739A9-9    Hi In              502 As  
+Asalalre      3131 C65A620-A    Ni Wa              602 As  
+Eaeialea      3133 C74A244-B  S Lo Ni Wa           304 As  
+Uiilrarlyow   3135 C6449B7-6    Hi In              700 As  
+Aorous        3139 C222034-7  S Lo Ni Po           704 As  
+Yei           3234 C8C6798-8    Fl                 100 As  
+Khouhauhyua   3235 C578030-8  S Lo Ni              815 As

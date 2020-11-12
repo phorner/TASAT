@@ -1,0 +1,20 @@
+@SECTOR:Uistilrao
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Awaui         2829 E160144-4    De Lo Ni           114 Ta F2 V M7 D
+Oioireiheah   2927 E766698-5    Ag Ni Ri           804 Ta F4 V
+Htearleaai    2928 E57258A-6    Ni                 425 Ta F1 V M6 D
+Wasaal        2929 E41058A-4    Ni                 612 Ta M6 V M5 V
+O'ausoila     2932 D235530-6    Ni                 604 Ta G2 II
+Oukhtoihwea   3026 D89979B-6  S                    300 Ta F1 V
+Hiyrihahih    3034 D622103-9  S Lo Ni Po           104 Ta F5 V
+Khtuhlao      3134 D555544-7    Ag Ni              502 Ta K1 V M8 D
+Ialeaoie      3232 C735988-6  S Hi In              820 Ta F2 V
+Isikhtayahre  3234 C89A210-A    Lo Ni Wa           425 Ta F1 V M0 D
+Htoihoftoi    3236 D411979-9    Hi Ic Na           804 Ta G8 V

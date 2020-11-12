@@ -1,0 +1,55 @@
+@SUB-SECTOR:Glosk  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Waldburga     1711 B34457A-7    Ag Ni              122 Na        
+              1719 C536101-8    Lo Ni              203 Hv        
+Rollins       1811 C4837BC-6                       624 Na        
+              1813 D485102-6  M Lo Ni              513 Hv        
+              1818 B2446S1-C  K Ag Ni              804 Hv        
+              1819 C558AW6-C    Hi                 101 Hv        
+              1916 X659211-0    Lo Ni           R  101 Hv        
+              1919 C6357S5-6  M                    902 Hv        
+              2015 X4788T4-0                    R  804 Hv        
+              2019 C795402-7  M Ni                 601 Hv        
+              2112 D876303-3    Lo Ni              223 Hv        
+              2114 X237101-4    Lo Ni           R  611 Hv        
+              2115 D666522-5  M Ag Ni              813 Hv        
+              2116 D8A3515-5    Fl Ni              100 Hv        
+              2118 B000521-E    As Ni              402 Hv        
+              2213 D5848S6-3  M Ri                 923 Hv        
+              2215 A524502-E  M Ni                 812 Hv        
+              2219 C523663-5    Na Ni Po           524 Hv        
+              2220 C554301-8  M Lo Ni              404 Hv        
+Birmingham    2311 D557254-5    Lo Ni              105 Na        
+              2312 D100664-8    Na Ni Va           413 Hv        
+              2313 CAA8662-5    Fl Ni              434 Hv        
+              2316 C300202-B  M Lo Ni Va           102 Hv        
+              2317 C584311-7  M Lo Ni              304 Hv        
+              2320 C536623-4    Ni                 324 Hv        
+              2412 E659562-8    Ni                 110 Hv        
+              2414 C639204-8    Lo Ni              123 Hv        
+              2415 C654561-8    Ag Ni              903 Hv        
+              2418 A8A17S5-C  K Fl                 704 Hv        
+              2419 B4108S1-A    Na                 920 Hv        

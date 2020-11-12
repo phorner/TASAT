@@ -1,0 +1,51 @@
+@SUB-SECTOR:Hlasken  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2511 D646562-7  M Ag Ni              924 Hv        
+              2512 B300201-E  K Lo Ni Va           214 Hv        
+              2516 A4507S6-C  K De Po              214 Hv        
+              2611 D5638T5-3  M Ri                 100 Hv        
+              2612 D6677S6-2  M Ag Ri              804 Hv        
+              2614 X100623-0    Na Ni Va        R  713 Hv        
+              2616 A543411-8    Ni Po              100 Hv        
+              2619 A8A4002-D  K Fl Lo Ni           704 Hv        
+              2713 E5358S4-5                       414 Hv        
+              2714 X100304-4    Lo Ni Va        R  604 Hv        
+              2716 X666763-0    Ag Ri           R  101 Hv        
+              2718 X679101-2    Lo Ni           R  200 Hv        
+              2811 D591523-2  M Ni                 203 Hv        
+              2817 C876521-9    Ag Ni              414 Hv        
+              2818 C9B4105-5    Fl Lo Ni        A  314 Hv        
+              2913 D77A202-7  M Lo Ni Wa           300 Hv        
+              2914 D697561-7  M Ag Ni              402 Hv        
+              3011 D455362-7    Lo Ni              312 Hv        
+              3012 D5487S4-4  M Ag                 102 Hv        
+              3016 C4916S2-8    Ni                 613 Hv        
+              3020 C6957S3-5    Ag                 123 Hv        
+              3116 C5698T4-9    Ri                 500 Hv        
+              3120 C213211-7  M Ic Lo Ni           313 Hv      
+              3211 D0009U5-8    As Hi Na           502 Hv        
+              3218 B5347S3-9  J                    904 Hv        
+              3220 B566301-7  K Lo Ni              824 Hv        

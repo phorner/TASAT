@@ -1,0 +1,11 @@
+@SUB-SECTOR:Eawoaaaoiy SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yeyoauhalr    2830 C231526-8    Ni Po              305 As  
+Yaiiysuiri    3229 C726645-8  S Ni                 703 As  

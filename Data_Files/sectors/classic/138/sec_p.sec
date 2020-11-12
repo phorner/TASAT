@@ -1,0 +1,57 @@
+@SUB-SECTOR:Plaphan  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2534 B3547S2-8    Ag                 103 Hv        
+              2536 B210AW6-B  K Hi Na              223 Hv        
+              2537 A225AU4-F    Hi In              300 Hv        
+              2631 A466421-A    Ni                 604 Hv        
+              2633 A4358S3-E                       720 Hv        
+              2634 A358563-B  K Ag Ni              824 Hv        
+              2637 A64A661-A    Ni Wa              120 Hv        
+              2639 A562312-D    Lo Ni              203 Hv        
+              2640 A5316S4-A  J Na Ni Po           303 Hv        
+              2735 C7A08T5-6    De                 803 Hv        
+              2740 B3217S3-C  M Na Po              403 Hv        
+              2833 C100321-A    Lo Ni Va           105 Hv        
+              2834 A462103-D  K Lo Ni              501 Hv        
+              2836 A4248S5-D                       402 Hv        
+              2839 A858304-B    Lo Ni              204 Hv        
+              2931 B56A8S6-C    Ri Wa              100 Hv        
+              2937 A150101-C  K De Lo Ni Po        502 Hv        
+              2940 C597564-6  M Ag Ni              702 Hv        
+              3031 B8B8311-A  K Fl Lo Ni        A  324 Hv        
+              3032 A7746S3-8    Ag Ni              400 Hv        
+              3033 C4628S5-4    Ri                 903 Hv        
+              3035 B85A8T2-9  K Wa                 103 Hv        
+              3132 B887663-5    Ag Ni Ri           205 Hv        
+              3133 B464624-A  K Ag Ni Ri           403 Hv        
+              3135 B333421-B    Ni Po              704 Hv        
+              3138 C322413-A    Ni Po              924 Hv        
+              3140 C645505-6    Ag Ni              100 Hv        
+              3233 C7A1106-7  M Fl Lo Ni           704 Hv        
+              3235 C9C2521-9  M Fl Ni           A  101 Hv        
+              3236 B335102-8  K Lo Ni              610 Hv        
+              3239 A110AU5-G  E Hi Na              900 Hv        
+              3240 C78A6S4-8    Ni Ri Wa           820 Hv 

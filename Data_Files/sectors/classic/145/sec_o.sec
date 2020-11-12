@@ -1,0 +1,13 @@
+@SUB-SECTOR:Aikhui SECTOR:Hkakhaeaw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2138          2138 X747001-2    Lo Ni              023 Na  
+2340          2340 X584000-0    Ba Lo Ni           005 Na  
+2434          2434 X472023-0    Lo Ni              013 Na  
+2440          2440 X665000-0    Ba Lo Ni           000 Na  

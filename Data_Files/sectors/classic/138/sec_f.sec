@@ -1,0 +1,61 @@
+@SUB-SECTOR:Flaphla  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Lestrigge     0912 X888774-2    Ag Ri           R  203 Na        
+Coseecer      0913 X746441-0    Ni              R  312 Na        
+Lucienne      0914 X78A230-0    Lo Ni Wa        R  412 Na        
+              0917 C8B7201-7    Fl Lo Ni        A  912 Hv        
+              0920 A775302-B    Lo Ni              804 Hv        
+Rudolph       1011 D95A747-6  S Wa                 210 Na        
+              1014 C4369T4-7  M Hi In              225 Hv        
+              1017 A110405-F    Ni                 500 Hv        
+              1020 A7798T5-8  K                    604 Hv        
+              1114 A999203-9    Lo Ni              814 Hv        
+              1115 C4606S6-8  M De Ni Ri           320 Hv        
+              1117 A5637S4-B    Ri                 603 Hv        
+              1119 A324664-D    Ni                 204 Hv        
+              1120 A401201-F  K Ic Lo Ni Va        822 Hv        
+Swanne        1211 C222443-8    Ni Po              215 Na        
+Dominga       1212 C201664-9  S Ic Na Ni Va        100 Na        
+              1215 C6A37S2-7  M Fl                 502 Hv        
+              1220 A332562-D    Ni Po              902 Hv        
+Vescy         1311 AA9A302-F  A Lo Ni Wa           803 Na        
+              1315 B6789T4-7    Hi In              403 Hv        
+              1316 B538663-8    Ni                 304 Hv        
+              1317 B5A1002-A    Ba Fl Lo Ni        523 Hv        
+              1318 B510421-8  K Ni                 602 Hv        
+              1413 B326413-B  K Ni                 724 Hv        
+              1418 B321521-C  J Ni Po              102 Hv        
+              1420 D7785S6-2  M Ag Ni              205 Hv        
+              1512 B545563-8  K Ag Ni              212 Hv        
+              1513 B6A0521-8  K De Ni              903 Hv        
+              1515 C67A9T4-C    Hi In Wa           310 Hv        
+              1516 D646521-3  M Ag Ni              224 Hv        
+              1519 B3009S4-A  J Hi Na Va           214 Hv        
+              1520 D753201-5  M Lo Ni Po           103 Hv        
+              1613 C5105U6-8    Ni                 201 Hv        
+              1617 C439202-7    Lo Ni              111 Hv        
+              1618 D8B3721-4  M Fl              A  804 Hv        
+              1619 B8886S5-B    Ag Ni Ri           304 Hv        

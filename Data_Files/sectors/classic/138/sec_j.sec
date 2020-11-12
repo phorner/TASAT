@@ -1,0 +1,58 @@
+@SUB-SECTOR:Janask  SECTOR:Phlask
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0922 B100421-B    Ni Va              704 Hv        
+              0923 C4546S5-5    Ag Ni              303 Hv        
+              0929 D000564-7    As Ni              905 Hv        
+              0930 A845521-9    Ag Ni              801 Hv        
+              1021 C4339T5-B    Hi In Na Po        413 Hv        
+              1025 A84A461-B    Ni Wa              703 Hv        
+              1026 A55A463-C  K Ni Wa              500 Hv        
+              1029 D1108S4-9    Na                 812 Hv        
+              1030 A778202-D  K Lo Ni              911 Hv        
+              1122 C6387S1-4                       702 Hv        
+              1127 A210421-A  J Ni                 604 Hv        
+              1128 C588203-7  M Lo Ni              103 Hv        
+              1129 C674526-8    Ag Ni              900 Hv        
+              1130 A464312-C  K Lo Ni              204 Hv        
+              1221 B693665-7    Ni                 702 Hv        
+              1222 A9877S4-8    Ag Ri              303 Hv        
+              1224 C6378S1-5  M                    814 Hv        
+              1226 A487216-C  K Lo Ni              904 Hv        
+              1227 C5359T2-9    Hi In              300 Hv        
+              1229 A553103-D  K Lo Ni Po           504 Hv        
+              1323 AAC4301-B  K Fl Lo Ni        A  904 Hv        
+              1325 B210302-E    Lo Ni              204 Hv        
+              1326 B8B8663-9    Fl Ni           A  323 Hv        
+              1330 A3029S6-F  K Hi Ic Na Va        403 Hv        
+              1422 AA8A7T4-9    Ri Wa              104 Hv        
+              1427 C533513-A  M Ni Po              115 Hv        
+              1430 A527424-C    Ni                 603 Hv        
+              1526 C000401-A    As Ni              604 Hv        
+              1529 A9876S5-9    Ag Ni Ri           401 Hv        
+              1530 A100562-E    Ni Va              800 Hv        
+              1623 B777565-9    Ag Ni              901 Hv        
+              1624 A7A8203-B  K Fl Lo Ni           104 Hv        
+              1627 C552301-7  M Lo Ni Po           204 Hv        

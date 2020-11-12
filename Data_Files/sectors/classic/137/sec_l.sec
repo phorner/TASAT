@@ -1,0 +1,44 @@
+@SUB-SECTOR:L SECTOR:Spica
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2522 C798501-E    Ag Ni              804 Hv M7 VI M7 D
+              2523 C8964S5-7    Ni                 914 Hv M5 D M9 D
+              2524 B6557T4-E    Ag                 220 Hv K1 V
+              2525 D1006S6-A    Na Ni Va           305 Hv G3 V
+Erest         2529 A695703-F    Ag                 424 Hv M0 V M0 D
+              2530 C699000-0    Ba Lo Ni           600 Hv M3 V
+              2621 A5549S3-D    Hi                 200 Hv G2 V
+              2624 B3117S5-E  F Ic Na              801 Hv M8 IV M0 D
+              2628 B8C54S6-F  F Fl Ni              803 Hv K3 V M4 D
+              2630 B6795S5-E  F Ni                 903 Hv M4 V M2 D
+              2722 D46A603-D    Ni Wa Ri           302 Hv M3 V
+              2724 A451461-F  E Ni Po              200 Hv M3 V
+Torrent       2725 C210AU1-A    Hi In Na           800 Hv M1 V
+              2728 C5788T1-E                       424 Hv M0 VI
+              2729 X687101-A    Lo Ni              600 Hv M2 VI M8 D
+              2730 C301603-8    Ic Na Ni Va        500 Hv K0 V
+Untion        2823 C5625S4-A    Ni                 500 Hv M6 IV M6 D
+Item          2828 D7A63S6-B    Fl Lo Ni           300 Hv M0 V
+              2921 B5985S6-D    Ag Ni              904 Hv M8 II
+              2922 D621463-8    Ni Po              404 Hv G4 V
+              2925 B9525U5-F  F Ni Po              622 Hv M9 III M0 D
+              2926 B769664-8    Ni Ri              300 Hv M1 V
+              2929 E5509T5-C    De Hi Po           513 Hv M4 V M8 D
+              2930 DA9A302-D    Lo Ni Wa           915 Hv M8 V
+              3021 C1616S2-9    Ni Ri              605 Hv K0 II
+Vensel        3023 C88A3S6-C    Lo Ni Wa           700 Hv M4 V
+              3025 B7797S3-F                       605 Hv M0 V
+              3127 A6A8564-9  E Fl Ni NH           113 Hv M4 V
+              3130 XAEA504-7    Fl Ni Wa           601 Hv M0 V
+              3221 A1106S5-F    Na Ni              222 Hv G3 V M5 D
+              3223 B1003S2-D    Lo Ni Va           400 Hv K9 V M4 D
+              3224 D5314S1-D    Ni Po              303 Hv M2 V
+              3225 B7799T6-F    Hi In              300 Hv K3 V M2 D
+              3226 E3421T4-A    Lo Ni Po           503 Hv K0 VI
+              3230 C4105S1-A    Ni                 400 Hv M3 V M6 D
