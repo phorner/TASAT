@@ -1,0 +1,33 @@
+@SUB-SECTOR:Atlaikharla SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Teeyakhea     1713 B4567K5-E                       511 As M4 V
+Hyukaruitaea  1716 C3642J9-8                       101 As K3 V
+Ouii          1719 A3005M2-A                       210 As G0 V M4 V
+Ste'ayaauai   1814 B1005J7-C                       911 As G1 IV M2 V
+Aea           1817 A6758J2-E                       135 As M0 II M0 V
+Khteaikhtya   1819 D4296L4-A                       500 A9 M2 V
+Khtyehkailr   1820 C1005K8-9                       204 As G1 V
+Iyohaoyah     1914 A3524L9-C  T                    702 A5 M7 III M6 D
+Oaoil         1916 A1003H9-C                       704 As M5 V
+Eirleweiloyu  1918 A3224JB-E                       604 As M9 II
+Seaeaeiheaea  1919 C5696N7-7                       610 As M2 III
+Uaihoi        2012 D7857H8-7                       802 As M0 V
+Hwaeaahiyl    2014 A7545N8-C  R                    702 As G2 V M7 D
+Tehaohtiyar   2112 X5385L7-6                       714 A1 M3 V
+Ea'eahao      2116 E75A4M7-A                       200 As M4 V
+Takhyae       2118 X1107MA-B                       300 As K4 V
+Fyeaare       2211 D78A3L8-6                       304 A4 M2 V
+Tyaesihe      2212 B3514L3-E                       904 A3 K4 V
+Hkuil         2213 A4824H6-E                       905 As G2 V
+Trarlyalaos   2216 B0002KB-D                       201 As K5 V
+Feahaiyeyah   2312 A9C42GC-9  R                    500 As M0 V
+Ewatel        2316 C8562G6-6                       701 As M3 V M2 D
+Eua           2318 A2003M7-A  R                    722 As M2 V
+Hloalalea     2413 D1106L9-8                       403 A9 M2 IV

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Kobayashi SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1807 1605 -1 0
+$1807 1907 0 0
+$1907 2106 0 0
+$2106 2103 0 0
+$2106 2406 0 0
+$2406 2706 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Alphard       1701 B88AAA9-E    Hi Wa              723 Im F3 V
+Phipps        1708 A611878-D    Ic Na              112 So F5 D M5 D
+Fase          1801 B111877-E    Ic Na              200 Im F1 V
+Clown         1807 B401975-E  A Hi Ic In Na Va     402 So F1 V
+Lowhorn       1808 C647775-9    Ag                 120 So F8 D
+Philpott      1904 D511522-A    Ic Ni           A  805 Im M1 V M4 D
+Arrid         1905 E300988-B    Hi In Na Va        804 Im F9 VI M0 D
+Double        1907 A101500-E    Ic Ni Va           604 Im M4 V M6 D
+Esuan         2004 C245967-D    Hi In              810 Tl F3 V
+Justice       2007 C201897-C    Ic Na Va           101 Im F2 V
+Plage         2008 C432A64-E    Hi Na Po           120 Tl M1 V
+Brawley       2009 C46A120-E    Lo Ni Wa           614 Im F1 V
+Seloo         2102 A2319BA-E  N Hi Na Po           800 Im F0 VI M9 D
+Kemper        2103 A1217A8-E    Cp Na Po           900 Im M4 V M7 D
+Cordle        2104 B11168D-E    Ic Na Ni           300 Im M0 V
+Tolson        2106 A232ADJ-E    Xb Hi Na Po     A  210 Tl G4 V
+Luoh          2110 C875430-B    Ni                 404 So F3 V
+Rita's Place  2205 C76689A-A  S Ri                 502 Im M5 VI
+Reichmuth     2206 C234134-B    Lo Ni              225 Im G6 V M9 D
+Yatooma       2207 E223422-B    Ni Po              102 Im M1 V M7 D
+Leriss        2208 E5118B8-8    Ic Na              903 Im F0 D
+Brereton      2209 B346620-D    Ag Ni              912 Im M4 V
+Ziaeehezar    2302 D7B6366-9    Fl Lo Ni           200 Au M3 V
+Guskin        2303 E998220-9    Lo Ni              322 Im K0 D M7 D
+Douglas       2304 D101865-9    Ic Na Va           804 Au F6 D M4 D
+Nahn          2403 B956867-C                       703 Au F6 D M4 D
+Hagymasi      2406 C450867-A    De Po              304 Am G2 V
+Trechier      2409 C8C948B-D    Fl Ni           A  813 Im K0 V M8 D

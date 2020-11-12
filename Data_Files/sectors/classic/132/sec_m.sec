@@ -1,0 +1,38 @@
+@SUB-SECTOR:Eahe SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kerawiyrl     0133 X4443N8-5                       103 As G8 V
+Foiwaliri     0232 A7985L7-E                       114 A1 M0 V
+Htaookh       0237 A5576LB-B                       403 A3 M0 II
+Elosoirl      0238 C4578M6-B                       103 As G1 V
+Ktetlauea     0332 C8A16M6-C                       400 As K6 II M9 D
+Oahahlauaih   0333 C7871H7-8                       410 As K3 V
+Toawaoyatal   0336 C2002J6-A                       500 As M7 VI
+Eaiy          0337 B6212G9-C                       512 As G5 V
+Fiyhreae      0338 C5666L6-7                       421 A9 K4 V M8 D
+Eyuwailiyh    0339 X7B61GA-8                       200 As M4 V
+Tlaarleaheas  0431 BA971N7-A                       302 As G2 V M3 D
+Eaeityeh      0432 C4745M4-8                       114 As M8 D
+Aeliywesaol   0434 B5954N6-C  T                    112 As K5 IV
+Ya            0437 C5567H8-A                       915 As F0 V M7 D
+Hkoiharle     0533 A5533G6-C                       504 As M5 V
+Khaseilr      0536 X5816JC-7                       903 As K0 V
+Yulaar        0540 X8356H9-8                       424 As M5 III
+Ayekhariyha   0639 B3526K6-9                       404 As K3 V
+Auahailirles  0732 B9A86H8-D  T                    723 As K3 V
+Khteruaisuih  0734 C2328L5-E                       904 A5 M1 III
+Keaayekh      0738 C1008M8-C                       114 As M3 V
+Yeearaiiy     0739 A2453HC-A                       811 As M9 IV M0 D
+Hta'          0832 C2007KB-B                       310 As M0 V M0 D
+Woikhiakh     0833 B3387L3-A                       420 A1 M4 V
+Tlaokhaiy     0834 C5668K8-B                       603 As G1 V
+Holreawilai   0835 C7433G3-C                       903 As M9 V M6 D
+Owaa          0837 B7668N6-E  T                    625 As M1 V
+Kaw           0839 C8695J8-C                       700 As M4 VI M7 D
+Lyolasora'ya  0840 C5458L8-D                       714 A1 M4 V

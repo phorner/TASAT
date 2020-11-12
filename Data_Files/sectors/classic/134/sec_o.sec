@@ -1,0 +1,50 @@
+@SUB-SECTOR:Sullivan SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1735 1537 -1 0
+$1833 1735 0 0
+$1833 1830 0 -1
+$2135 1833 0 0
+$2135 2335 0 0
+$2335 2338 0 0
+$2338 2439 0 0 
+$2439 2539 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Genugten      1735 B211432-E    Ic Ni              101 So G8 IV M5 VI
+Ungarn        1736 E89799A-A    Hi In              300 So F2 D
+Coeus         1831 C151633-C    Ni Po              903 So F6 D
+Harpring      1832 B8C788A-C    Fl                 910 Hr K4 V
+Viallalta     1833 A556542-E  A Cp Xb Ag Ni        404 So F7 D
+Furuma        1834 CA99356-C    Lo Ni              803 So G4 V
+Ratri         1836 C55277A-9    Po                 700 So F7 D
+Glenex        1837 B754311-D    Lo Ni              703 So G2 V M4 D
+Barnstone     1838 D861221-7    Lo Ni              303 So F7 V
+Farringhaus   1840 D6AA664-A    Fl Ni Wa           102 St M0 III M1 VI
+Teault        1934 E511414-9    Ic Ni              902 So M1 VI
+Dyavai        1935 C8C8769-A    Fl                 404 Hr F3 V M9 D
+Ebisu         1936 C558369-B    Lo Ni              614 Hr F9 VI M3 D
+Salyer        1939 B977768-C    Ag                 325 St G7 D
+Ghoryana      2032 A888438-E  W Ni                 105 So G3 V
+Tuxhorn       2132 C9B5568-B    Fl Ni              702 Hr M1 V
+Nocha         2133 X531474-4    Ni Po              703 So M0 V
+Urquiza       2134 C9DA142-D    Fl Lo Ni Wa        804 So M4 V M2 D
+Needler       2135 C10076B-D    Na Va              713 Hr F1 V
+Gastineau     2136 D773420-8    Ni                 502 So F7 D
+Stancombe     2139 C000620-B    As Na Ni           520 So K2 V
+Mazotz        2231 X866763-4    Ag Ri              104 Hr G5 VI M4 D
+Tyche         2234 C554611-9    Ag Ni              703 So F4 V
+Balajee       2236 C221355-E    Lo Ni Po           200 So K3 V
+Frykberg      2238 C110343-C    Lo Ni              820 So K4 V M7 D
+Wolfram       2239 B6A3410-C  W Fl Ni              624 So G7 IV
+Licini        2332 C475400-B    Ni                 225 So G8 D M8 D M2 D
+Lisah         2334 A798498-E    Ni                 204 So F2 V
+Roen          2335 A431400-E  N Xb Ni Po           903 So M1 V
+Shigetoshi    2338 A224400-E  S Ni                 722 So M4 V
+Ebaun         2339 E111344-A    Ic Lo Ni           404 So M9 V
+Geb           2434 A554224-D  W Lo Ni              612 So F8 V
+Tuoni         2436 E330377-A    De Lo Ni Po        910 So K7 V
+Wingard       2439 A300531-E    Ni Va              510 So M3 D M0 D

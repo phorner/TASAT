@@ -1,0 +1,32 @@
+Iystyos is an inexpensive intoxicant popular with Aslan spaceship crews. The grain from which it is brewed is native to Kusyu. The brew often causes hallucinations in humans who are unwary enough to try it.
+
+Kusyu is the homeworld of the Aslan and capital of the Aslan Hierate. Its name comes from the Trokh word for "motherland" or "home". All of the 29 Tlaukhu clans (and about 300 others) have landholds on Kusyu. Aslan consider land on Kusyu especially valuable, and clans gain both power and status from their landholds on Kusyu.
+
+Kusyu has three major continents, two of which straddle the equator. Several large archipelagoes lie off the continents' shores. North and south polar ice-caps, anchored by island groups, cover about 15% of the total world surface.
+
+Kusyu has no capital, per se. Each clan has its own hyufteirlerye - the word refers to a meeting place and could be translated as "city" - but there is no one city or administrative centre which speaks for the entire planet. Individual cities are identified with specific clans, and each clan large enough to control several such cities generally has one htahyu, a "first place" where judgements are made, challenges accepted, and the records kept. The Tlaukhu ("Council of the Twenty-nine") meets periodically at agreed-upon sites in rotation.
+
+Kusyu is often spelled "Kuzu" in Galanglic.
+
+Afeahyalhtow
+Winged life-form native to the Aslan homeworld, Kusyu ( Kilrai' / Dark Nebula 1919). Its scientific name is Aculeoptera venator; human names are winger, batsting, or falconbat. These carnivore/killer flyers mass roughly 1 kg, and have a wingspan of .75 metres. Their lower limbs have evolved as grasping claws to carry prey or perch on tree limbs or high rocks.
+
+Afeahyalhtow have sharp eyesight, with cat-like eyes that can adjust to a wide range of lighting conditions. They soar at high altitudes, then swoop down on prey. One claw can inject a poison which paralyses within a few minutes. Its effects wear off after about an hour. The venom is not usually harmful to creatures over 5 kg, but can be deadly to humans who develop an allergic reaction. The primary purpose of the poison is to slow the prey or render it unconcious, allowing the afeahyalhtow to feed (it prefers live meat). Teeth and claws can only do a little damage to the prey, but this is sufficient to make an excellent meal for the afeahyalhtow. The beast then feeds for a few minutes before departing.
+
+Domesticated long before the Aslan achieved star flight, afeahyalhtow are popular as pets, and are found almost anywhere Aslan are found. They are independent, somewhat aloof, but capable of strong affection and attachment - often likened to cats in human space. As pets, they are relatively gentle and companionable, but most humans find their feeding habits distasteful. Afeahyalhtow eat almost any variety of small animals or raw meat.
+
+Domesticated afeahyalhtow are raised and trained much as falcons and garhawks in human space. Properly trained, they can be used to track and hunt prey; such trained hunters will administer poison to the prey, but will feed only when permitted to do so by their owner. Training of an afeahyalhtow takes a moderate hunting skill and 6-12 months before the animal will respond to commands (usually various whistle and tongue-clicking signals). A hunter's ability is much improved when using these sharp-eyed animals!
+
+
+
+Afeahyalhtow respond poorly to being caged; they become listless, lose their hunting spirit, and eventually die. Most owners let them fly free, after attaching small straps around their feet to prevent the stinger claw from functioning. On a starship, they usually require an hour or two per day of flying in the ship's cargo compartment or some other open space. Afeahyalhtow can fly in any standard or dense atmosphere, and in thin atmospheres on worlds with a size of 4 or less. Their size and build prevents them from being outfitted with protective gear, so they are rarely seen outdoors on worlds with tainted (or worse) atmospheres. Afeahyalhtow are not common in human space, except on worlds heavily settled by Aslan colonists. Some humans do keep them as pets, and they command high prices commercially.
+
+Classic Traveller Statistics and Rules
+
+
+Animal        Weight Hits Armour Wounds and Weapons
+
+Flying Hunter 1kg    5/0   none    2 (also see below) A4 F9 S3 
+Poison: 1HD per round for 10 rounds; damage is recovered after 1 hour. 
+The owner's Hunting skill is raised by 1 when using afeahyalhtow to hunt. 
+

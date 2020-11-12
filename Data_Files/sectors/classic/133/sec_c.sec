@@ -1,0 +1,40 @@
+@SUB-SECTOR:Ruih SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2402 2506 1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Aowolkles     1705 B333767-4  F Po Na              304 Na 
+Yeyofui'      1708 A548344-7  F Ni              A  824 Na 
+Doning        1804 A331523-7  F Ni Po              105 Na 
+Bathanfel     1805 C788163-3    Ni                 503 Na 
+EarIure       1901 C73A332-6    Ni Wa              100 Na 
+Murphy        1902 D200A98-4    Hi In V Na         312 Na 
+Samarorn      1906 C775410-3    Ni                 714 Na 
+Aeia          1907 C100756-2    Va Na              324 Na 
+Bontennes     2001 A300522-7    Ni Va              613 Na 
+Rodsban       2002 C552003-3    Ni Po              203 Na 
+Relkema       2008 C442586-2    Ni Po              112 Na 
+Sordno        2010 E222899-0    Po Na              103 Na 
+Cuoon         2105 B96A621-6  J C0 Ni W            803 Na 
+Obalsa        2106 B5858C8-4                       204 Na 
+Febung        2108 B472312-4    C1 Ni              713 Na 
+Tauoilals     2109 C799111-4    Ni                 204 Na 
+Rlndnoir      2201 E9487A6-0    Ag                 622 So 
+Kelmung       2202 E678100-2    Ni                 403 Na 
+Elahkilr      2203 A676757-7    Ag                 114 Na 
+Himitt        2206 C764630-2    Ni Ag              700 Na 
+Dloh          2208 E100354-1    Ni Va              205 So 
+Datja         2302 E673122-1    Ni                 814 So 
+Meskok        2308 C654768-2    Ag                 314 So 
+Wlsu          2402 A446214-6    Ni                 202 So 
+Wanllr        2403 B9C3044-5    Ni                 403 So 
+Mamait        2404 C110366-2    Ni                 924 So 
+Niysk         2405 E867424-1    Ni                 804 So 
+Nogal         2406 D100204-1    Ni Va              210 So 
+Mosarelel     2407 C88856A-3    Ni Ag              413 So 
+Carn Gafall   2408 E100500-1    Ni Va              803 So 
+Cengmang      2410 X352646-0    Ni Po           R  410 So  

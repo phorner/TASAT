@@ -1,0 +1,50 @@
+@SUB-SECTOR:Hrorehe SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$0832 0931 1 0 3
+$0832 0934 1 0 3
+$0835 0934 1 0 3
+$0835 0836 0 0 3
+$0836 0636 0 0 3
+$0636 0436 0 0 3
+$0436 0338 0 0 3
+$0338 0239 0 0 3
+$0239 3239 -1 0 3
+$0836 0937 1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Aoaou         0135 C9B65K8-9    Ni                 323 As 
+Iykye         0136 C6B66L6-9    Ni                 805 A7 
+Hkiho         0140 E4531H7-8    Ni Po              613 As 
+Aoliyyaea     0233 D6546M3-7    Ni Ag              901 As 
+Khlyu         0239 A2106L7-B    Ni Na              404 A5 
+Aotui'asiyr   0334 B3007H5-E    Va Na              224 As 
+Wiykhearl     0335 E1006J6-7    Ni Va N            900 As 
+Eaoer         0336 B2003G9-C    Ni Va              301 As 
+Iywaiwolu     0337 A6542J9-B  R Ni                 603 As 
+Wuarloikh     0338 B5544M2-C    Ni                 903 As 
+Ioa           0339 C3006L7-8    Ni Va N            504 A8 
+Iytaow        0432 C2324K7-9    Ni Po              510 As 
+Eoyaea        0435 B1104H9-C    Ni                 114 As 
+Alteariw      0436 B5467K6-D    Ag                 400 As 
+Traihoa       0437 B98A3N4-B  R Ni Wa              414 As 
+Woira         0439 D6686J9-7    Ni Ri A            224 As 
+Ihkealresiy   0440 A3107J3-D    Na                 312 As 
+Hkahr         0533 D5555L6-8    Ni Ag              512 A3 
+Eohe          0536 B7765L6-9    Ni Ag              310 A8 
+Hyeirih       0537 C4696M7-A    Ni Ri              510 As 
+Hkitei        0634 B73A3G7-E  T Ni Wa              424 As 
+Suairiyw      0636 C68A7J7-B    Ri Wa              823 As 
+Khohoa        0733 B1102M6-E    Ni                 304 As 
+Waohar        0738 B1004N8-9    C1 Ni V            811 As 
+Eakhyehiyye   0740 X5446N3-9    Ni Ag              803 As 
+Hasyesya      0832 D4512G8-A    Ni Po              124 As 
+Fuihalai      0834 C5477K4-C    Ag                 604 As 
+Feakh         0835 A2222L5-B    Ni Po              913 A9 
+Hai Ei        0836 E6649H9-8    Hi                 422 As 
+Ktaherl       0837 A5835H5-E    Ni                 603 As 
+Ahiyh         0838 E62A7L9-9    Wa                 924 A0 
+Ewei          0839 B2104L4-A    Ni                 524 A1 

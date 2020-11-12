@@ -1,0 +1,40 @@
+@SUB-SECTOR:Uirles SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Alaikhaheaea  1721 C6815H6-A                       311 As K1 V M1 D
+Eahukh        1729 A5648J2-E                       103 As M3 V
+Ftaiel        1730 X6677M7-6                       111 As F1 V
+Eio           1823 A5827LC-E                       801 A3 M0 VI
+Khew          1825 X4325MA-6                       501 As M4 V M1 D
+Treaiyrihle   1923 B4682J9-A                       404 As M9 V
+Yowos         1924 C4558J6-E                       500 As M4 V
+Lahistoo      1926 C5572H6-C                       703 As G2 V M7 D
+Ouliyektiy    1929 C7B35N8-C                       402 As M4 V
+Ieastaoyeoi   2021 A7867NB-E                       902 As G5 VI M7 D
+Ul            2022 X9A28KB-8                       213 As M2 V
+Oreasourouou  2023 C5255H9-9                       504 As K1 V
+Eer           2026 B5487L7-A  T                    925 A3 M5 III
+Yaalr         2027 C2003HA-A                       300 As M4 III M7 D
+Earatliyrl    2028 B5665M9-D                       200 As M4 V M5 D
+Khtei         2030 C6687J7-A                       804 As K1 V M4 D
+Oalryokh      2121 B5651J9-A                       701 As F8 V M2 D
+Ea'aiw        2122 C3558NB-9                       501 As M2 III
+Eakhaoaiaiei  2125 A75A5MC-E                       713 As M2 V M4 D
+Aoiyauarl     2129 C2515L7-8                       720 A3 M1 IV M5 V
+Uiyatlye      2221 C3423K8-8                       100 As K9 V
+Aroa          2225 A9999J9-E                       724 As M2 V M3 D
+Tiyhyaesew    2226 C8973H7-C                       403 As M1 VI
+Uheaw         2324 C2105K8-B                       814 As K0 V
+Woiryeou      2325 B3328J8-C                       210 As M0 IV M6 D
+Fyaei         2327 X3411L3-8                       803 A0 M3 V M5 D
+Kalu          2330 B2656H3-D  T                    513 As G1 V
+Eiti          2423 B6686M8-A  T                    405 As M1 V
+Eaokhao       2425 C5565M6-7                       104 As A1 V
+Alaraili      2429 C1105N7-8                       600 As K2 V
+Ihei          2430 B7686L4-E                       103 A6 M4 IV

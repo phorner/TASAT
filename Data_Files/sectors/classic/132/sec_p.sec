@@ -1,0 +1,39 @@
+@SUB-SECTOR:Aiaiheh SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aoheaeahyul   2631 B8848L9-E  T                    705 A7 M3 V
+Hlaihawakha   2632 A8872L7-A                       204 A1 M6 V
+Oiyeleyo'     2633 X4225JC-7                       513 As A1 V M5 D
+Khiai         2638 X4432GC-6                       914 As M5 V M0 D M2 D
+Khye          2639 C6767M6-C                       304 As M4 V
+Ohekhe        2732 C1007KA-8                       712 As M1 V
+Oiehoie       2733 C5473N4-B                       910 As M8 V
+Ehrarakheirl  2734 C7973JC-B                       120 As M3 V M6 D
+Oaheiktala    2736 C1008J7-9                       210 As M0 V
+Eikhaiwisa    2738 B3343G9-9                       804 As M5 IV
+Oiwokhei      2739 A6687M8-E                       105 As G2 V M6 D
+Hteosah       2740 C6686L6-A                       800 A2 K0 V
+Iylreifoa     2832 B4478K4-C                       904 As M1 V
+Osealais      2833 C4672G6-6                       504 As M0 V
+Tyawoal       2834 A6865HA-E                       705 As M7 III
+Eaouaiy       2836 X2327M5-B                       523 As M5 III
+Tisarewoilr   2839 C6578LB-A                       514 A8 M2 II
+Wuikeas       2936 B78A4N7-E  T                    204 As M9 III
+Te            2940 A4741GA-C                       812 As M6 IV
+Heaai         3032 B3337L4-E  T                    502 A0 G0 V M0 D
+Khtai         3034 C3323L7-C                       210 A5 K7 III
+Iystea        3131 C9C57N9-A                       312 As M5 VI
+Htiyh         3138 C3105M7-8                       400 As G7 IV
+Awalr         3233 C1004N6-A                       500 As M4 V
+Erles         3234 B7727M7-B                       603 As M9 VI
+Hwaiasoiaiha  3235 C4628H8-A                       403 As M0 V
+Khtyahea      3236 C3656K7-A                       821 As M6 IV
+Hrearlireal   3238 B5328M9-B  T                    802 As G4 D M2 D
+Iale          3239 B7288L3-B                       503 A2 K0 V
+Leau          3240 C4386N8-7                       200 As M4 V

@@ -1,0 +1,47 @@
+@SUB-SECTOR:Staai SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2635 2434 -1 0 3
+$2635 2537 0 0 3
+$3132 3129 0 -1 3
+$3132 3032 0 0 3
+$3032 2732 0 0 3
+$3032 3033 0 0 3
+$3132 0233 1 0 3
+$3033 3036 0 0 3
+$3036 2837 0 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uiftaoa       2536 E3645N4-6    Ni Ag              903 As 
+Qeafowyahlulr 2537 E6A29N5-A    Hi                 304 As 
+Eiar          2539 C8846M8-7    Ni Ri A            920 As 
+Steahryoah    2540 E8637K5-6    Ri                 100 As 
+Khoalao       2635 A1102G8-9  T Ni                 804 As 
+Hyefteite     2639 C2217L6-D    C2 Po N            600 A8 
+Jingleswelt   2732 B574AB8-8  F Hi In              304 So 
+Ohkiylyo      2734 A1108M6-E    Na                 600 As 
+Ikhalil       2737 E7646K6-8    Ni Ri A            813 As 
+Kihaikhir     2739 A8964H6-E    Ni                 502 As 
+Oskkan        2834 C859498-4    Ni                 911 So 
+Theleme       2836 C300540-3    Ni Va           A  904 So 
+Brlmate       2837 B100865-3  F Va Na              522 So 
+Olrulwos      2838 BAA47M6-A                       402 As 
+Teaolyekh     2839 E4628L8-C    Ri                 504 A5 
+Tua'alou      2936 B7873J9-D    Ni                 213 As 
+Ilalt         2937 A759300-9    Ni                 614 So 
+Glrrsmuh      2938 D210036-0    Ni                 515 So 
+AraJfarg      2940 C223552-4    Ni Po              703 So 
+Caparro       3032 A474131-6  F Ni                 412 So 
+Mlken         3033 B678564-5  F Ni Ag              124 So 
+Hynrl-lavo    3036 A539543-9    Ni                 713 So 
+Nanrenet      3038 A538242-8    Ni                 923 So 
+Treege        3132 B442ABA-7    Hi In P            712 So 
+Kintato       3138 C244551-3    Ni Ag              704 So 
+Sacrifice     3232 C545646-2    Ni Ag              420 So 
+Cybi          3235 E100455-1    Ni Va           A  510 So 
+Junganyika    3236 B100401-5    Ni Va              614 So 
+Canaan        3238 C58677B-2    Ri Ag              500 So 
+Newquay       3240 E210548-1    Ni                 312 So 

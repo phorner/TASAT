@@ -1,0 +1,43 @@
+@SUB-SECTOR:Akhlare SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$1512 1412 0 0 3
+$1412 1313 0 0 3
+$1313 1213 0 0 3
+$1213 1215 0 0 3
+$1213 1014 0 0 3
+$1014 0914 0 0 3
+$0914 0814 -1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kipelaresh    0914 B100358-5  F Ni Va              705 Go 
+Rormepeni     0915 X8B4443-0    Ni              R  102 Go 
+Petle         0916 B100247-4    Ni Va              121 Na 
+Ewula         0918 D30089D-0    Va Na              303 Na 
+Hweshre       1014 D595422-1    Ni                 202 Go 
+Ihkasya       1020 B547100-6    Ni                 603 Na 
+Alaooh        1111 E8A3AD9-3    Hi              A  300 Na 
+Oea           1112 E6A2342-2    Ni              A  115 Go 
+Merplkhnomi   1116 E544653-1    Ni Ag              903 Go 
+Eaisakh       1120 C545102-4    Ni                 112 Na 
+Thometha      1213 C327688-2    Ni                 125 Go 
+Meshmo        1215 B1006BB-3    Ni Va N            915 Go 
+Iopfen        1217 D110ACC-3    Hi In N            201 Na 
+Akhlare       1313 B577AA6-8  F Hi In              504 Go 
+Othinamor     1314 E5A1422-2    C4 Ni              500 Go 
+Weaiyiy       1320 A646497-7  F Ni                 404 Na 
+Papohlrme     1412 B20087C-4  F Va Na              912 Go 
+Uslyao        1418 A666623-6    Ni Ag              212 Na 
+Qyarn         1420 D5219BB-3    Hi In P Na      A  810 Na 
+Nlchekoralo   1512 A000334-6  J Ni As              602 Go 
+Ekhtekih      1518 C534577-4    Ni                 902 Na 
+Eaule         1519 E8C1840-1                       810 Na 
+Aseahya       1611 C100113-2    Ni Va              202 Na 
+Thithmasha    1612 D455523-0    Ni Ag              204 Go 
+Sherarehl     1615 C100695-1    Ni Va N            802 Go 
+Monlln        1617 B100444-4    Ni Va              223 Na 
+Ikharlstei    1620 A20068A-6  F Ni Va N            625 Na 
+

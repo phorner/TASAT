@@ -1,0 +1,27 @@
+@SUB-SECTOR:Eawya'ya SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yehaiea       1707 B2109H7-B  R                    923 As M4 II
+Hoi'          1802 C9B45N9-C                       303 As M2 V
+Ktaaea        1803 C8855H7-A                       302 As G0 V
+Kaokhyahfuir  1902 C5352G2-7  R                    425 A7 M0 V M0 D
+Ikhahikhual   1906 E4275J4-7                       103 As M1 V K4 D
+Ras           2002 B4535N6-B                       402 As M2 V
+Tiwa          2003 B1106J4-D                       304 As K2 V
+Aukhoih       2006 C6574L8-A                       711 A9 K3 V
+Foloilr       2008 E110AH6-9                       300 As K2 V M7 D
+Kheiw         2010 C6B02J9-A                       304 As K7 V
+Kteiea        2101 B2255J4-9                       300 As K5 V
+Aiyiheahtai   2105 D4477K3-B                       403 As M6 VI K5 D
+Aooeihlya     2108 E6574N3-A                       504 As G7 VI M2 D
+Eahlou        2110 B7273N4-A                       813 As M4 V M5 D
+Surl          2202 B3107N4-E                       210 As K4 V
+Iysuahwii     2205 B6A02G6-A  R                    204 As M6 V
+Aikoiras      2408 C1107NA-B                       820 As M0 V
+Aihao         2409 A9CA9K7-C  R                    300 As M0 V M8 D M7 D

@@ -1,0 +1,48 @@
+@SUB-SECTOR:Yataw SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$1027 0827 -1 0 3
+$1027 1226 0 0 3
+$1226 1327 0 0 3
+$1327 1428 0 0 3
+$1428 1430 0 0 3
+$1430 1529 0 0 3
+$1529 1428 0 0 3
+$1529 1628 0 0 3
+$1628 1829 1 0 3
+$1430 1331 0 1 3
+$1622 1724 1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Foiheliy      0922 C110411-2    Ni                 202 Na 
+Taikheia'io   0926 A77A777-8  F Wa                 903 Na 
+Ftihahe.      1023 D5A07M8-C    De                 403 As 
+Leihkyeau     1025 C210631-2    Ni Na              803 Na 
+ilkhah        1027 B4343KA-9    D2 Ni              403 As 
+Ewirle        1028 C6677J2-B    Ri Ag              303 As 
+Oarua         1121 B579510-6    Ni                 322 Na 
+Bacci         1123 D77AADE-4    Hi In W            822 Na 
+Ahehuikh      1124 A998552-8    C1 Ni A            905 Na 
+Hlehekah      1127 X1005N5-A    Ni Va              521 As 
+Troli'ih      1221 B000526-4    Ni As              923 Na 
+Holrhesyea    1223 C7556K8-B    Ni Ag              303 As 
+Hlitilar      1224 E1006L6-7    Ni Va N            914 A9 
+Ftaosye'      1225 B2314H7-D    Ni Po              113 As 
+Khlyuhakh     1226 B88A2G9-B    Ni Wa              320 As 
+Naco          1321 A110557-7    Ni                 313 Na 
+Weisaow       1327 B6565H7-D    Ni Ag              624 As 
+Iyohkelh      1427 E5436K7-5    Ni Po              413 As 
+Alearye       1428 B8C66K6-9    Ni                 502 As 
+Iyokh         1430 A3004K9-C    Ni Va              102 As 
+Seasoi        1521 B9C4000-6  F Ni BA              404 Na 
+Foiselhyaluh  1522 E8642M7-8    Ni                 724 As 
+Alwal         1523 E5999K8-7    Hi                 702 As 
+Aowaelr       1529 B4629H6-B    Hi                 902 As 
+Mihraga       1621 B638752-6                       705 Na 
+Hyesiyr       1622 A1006J8-A  R Ni Va N            405 As 
+Lahaih        1627 B2005J9-D    Ni Va              614 As 
+Rlyikahail    1628 A7A11G2-A    Ni                 423 As 
+Heahelie      1629 E8B21N6-8    Ni                 214 As 

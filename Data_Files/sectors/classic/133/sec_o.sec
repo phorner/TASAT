@@ -1,0 +1,45 @@
+@SUB-SECTOR:Yohkui SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$1740 1939 0 0 3
+$1939 2038 0 0 3
+$2038 2138 0 0 3
+$2138 2140 0 0 3
+$2138 2136 0 0 3
+$2136 2335 0 0 3
+$2335 2434 0 0 3
+$2434 2635 1 0 3
+$2434 2432 0 0 3
+$2432 2430 0 -1 3
+$2131 2230 0 -1 3
+$2131 1930 0 -1 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ihlye         1731 E9A85J8-A    Ni                 902 As 
+Aseflhea      1740 A6454H7-C    Ni                 311 As 
+Hiwoieikh     1832 D8934L5-6    Ni                 204 A8 
+Ualaohei      1934 B4787K7-C    Ag                 313 As 
+AtolIollol    1939 B5533HA-D    Ni Po              534 As 
+Eftase        1940 B7675L6-A    Ni Ag              701 A3 
+Oakhelye      2031 B4636KA-9    Ni Ri              811 As 
+Eahklhkao     2033 E3741H5-A    Ni                 624 As 
+Tloueaelel    2037 B2108H9-C    Na                 323 As 
+Htao'ewyalr   2038 C3235J8-7    Ni Po              422 As 
+Eiaohe        2039 C1005K8-A    Ni Va              723 As 
+Riyai         2040 E7526NC-6    Ni Po              711 As 
+Ehalriwa      2131 A7265HB-A    Ni                 802 As 
+Hkyosali      2132 E4565MB-6    Ni Ag              602 As 
+Ewausiaktiy   2136 E1109N8-7    Hi In N            924 As 
+Yohkui        2138 A0009H8-E    Hi In A Na         803 As 
+Hteaokhewi    2139 C59A1G8-9    Ni Wa              603 As 
+Hkayuea       2140 B1006HA-D    Ni Va N            114 As 
+Hwulwaoh      2239 D6947H4-9    Ag                 414 As 
+Erelefo       2335 B6577L6-C  T Ag                 402 A1 
+Yetluaya      2340 X7683L8-6    Ni                 901 A1 
+Irlhroalea    2432 B3534H8-B    Ni Po              304 As 
+Euhlsai       2434 D5677MA-B    Ri Ag              705 As 
+Ulweallrlao   2435 D4244L5-B    Ni                 204 A7 
+Reierekh      2438 E88A6JB-6    D1 Ni R Wa         304 As 

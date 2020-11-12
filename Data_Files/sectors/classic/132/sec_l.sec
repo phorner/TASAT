@@ -1,0 +1,37 @@
+@SUB-SECTOR:Aiheairl SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Outeasikh     2522 C2004K5-7                       101 As M5 IV
+Yahryew       2523 X5466M7-A                       504 As M0 VI
+Oite          2621 B5488N9-E  T                    101 As M1 V
+Tyaa          2626 C1108N4-E                       520 As M3 V
+Wiyw          2627 A7424NA-A                       304 As G1 V
+Kteaa         2628 X5664HB-7                       222 As G4 V M7 D
+Hauisea       2721 X7568N6-A                       502 As K9 II M1 D
+Hausuir       2726 B6358N7-B  T                    703 As M2 V
+Htehla        2727 B3634N7-9                       704 As M2 V
+O'eehiykhew   2728 C2435M7-8                       704 As M4 V K2 VI
+Yesalraye'ao  2729 C7745J5-C                       503 As M1 V
+Alasaokh      2822 C6573H6-C                       913 As M9 IV M5 D
+Akeheasaua    2825 X8C57J6-9                       503 As K2 V
+Asyehkyo      2827 C66A4M8-B                       504 As K1 V M3 D
+Aurleaastaea  3021 C5394K6-9                       813 As M7 IV M1 D
+Iaoaoh        3022 A95A7H8-D                       111 As K5 II
+Kauai         3023 A8983M3-D                       602 As K2 V
+Iyw           3028 A5775N3-D                       600 As M3 IV
+Yeyewearlal   3030 X6596H5-A                       825 As G0 V
+Aohiheew      3124 C6988L7-9                       205 A6 M1 V M3 D
+Weiyoh        3128 C2107H5-C                       501 As M4 V M4 D
+Ileah         3129 B63A8J9-B                       604 As K0 V
+Areieileea    3130 C5872N5-C                       403 As F0 D
+Khus          3223 B4347M8-A                       903 As M1 IV M3 V
+Hkaiaiee      3224 CAA74M3-C                       214 As K2 V
+Oiiyhrea      3225 C5485M4-8                       622 As M3 V M9 D
+Ryuke         3226 B6636N8-B  T                    203 As K3 IV M3 D
+Oaeaekhilr    3229 C6653M6-7                       104 As M2 V

@@ -1,0 +1,46 @@
+@SUB-SECTOR:Danvers SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2911 3009 0 -1 3
+$2911 2812 0 0 3
+$2812 2609 0 -1 3
+$2812 2913 0 0 3
+$2913 3116 0 0 3
+$3116 2717 0 0 3
+$3116 0113 1 0 3
+$3116 3218 0 0 3
+$3218 2819 0 0 3
+$2819 2922 0 1 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Torlsad       2516 C100446-2    Ni Va              422 So 
+Wolsone       2613 C242698-1    Ni Po              320 So 
+Neween        2619 B788633-4  F Ni Ag              211 So 
+Rales         2712 A4446A9-5    Ni Ag              513 So 
+Hichape       2713 C100377-2    Ni Va              904 So 
+Dyichan       2714 C545765-2    Ag                 101 So 
+Krasiynsk     2717 C100587-2    Ni Va              804 So 
+Liggair       2718 C676687-2    Ni Ag              603 So 
+Nlnnlhrang    2812 A562656-7    Ni Ri              720 So 
+Merelace      2815 A78748B-7    Ni                 403 So 
+Waq           2819 B100777-3  J Va Na              910 So 
+Shobind       2911 A794689-6    Ni Ag              113 So 
+Gakdorjaro    2913 A622756-8    Po Na              205 So 
+Estepona      3011 B8A6555-7    Ni                 904 So 
+Nabebe        3015 D685569-1    Ni Ag              823 So 
+Turnovo       3020 D766762-0    Ri Ag              402 So 
+Yakoru        3114 D889500-3    Ni                 715 So 
+Darnlel       3115 B110500-5  F Ni                 903 So 
+Morsang       3116 B85A587-7  F Ni Wa              404 So 
+Gulland-Malek 3117 D251643-0    Ni Po              213 So 
+Nabokov       3118 DAF4532-2    Ni                 903 So 
+Shrlmia       3119 B7C2644-5    Ni                 824 So 
+Pangringgan   3120 C557431-3    Ni                 404 So 
+Ipallan       3213 E66A167-3    Ni Wa              202 So 
+Aiolio        3214 D110200-1    Ni                 324 So 
+Wangmetjem    3217 E573212-1    Ni                 101 So 
+Ro Hyeres     3218 A759635-7  F Ni                 405 So 
+Iruma         3219 C6B58A6-3                       912 So 

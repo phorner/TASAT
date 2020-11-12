@@ -1,0 +1,51 @@
+@SUB-SECTOR:Kyaenkha SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$0112 3210 -1 -1 3
+$0112 0114 0 0 3
+$0114 0116 0 0 3
+$0116 0317 0 0 3
+$0317 0319 0 0 3
+$0319 0220 0 0 3
+$0220 3219 -1 0 3
+$0220 0222 0 1 3
+$0814 0914 1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Eweuas        0112 A4856M5-B  R C2 Ni R Ag         104 As 
+Ouleawos      0114 C5562M8-7    Ni                 302 As 
+Tyakhyo       0115 D1003G9-A    Ni Va              200 As 
+Kheawyarl     0116 B79A3GA-A    Ni Wa              314 As 
+Hleoe         0117 C5947H8-C    Ag                 603 As 
+Ealyurei      0120 X1002G6-7    Ni Va              612 As 
+Auiyelyu      0214 E6484K6-6    Ni                 813 As 
+Au'aiyyee     0220 B1009H3-D    HI In V Na         123 As 
+Ayeiyfua      0311 E1006J3-8    Ni Va N            903 As 
+Kikeasa       0314 C4001LB-7    Ni Va              611 A4 
+Ellaorla      0315 CAC51H6-B    Ni                 902 As 
+Oyuyes        0316 D7993N6-7    Ni                 400 As 
+Ealalrye      0317 B4104M4-C    Ni                 302 As 
+Hfayulealr    0319 C5566N4-A    Ni Ag              235 As 
+Htaheatelr    0411 C2001G8-A    Ni Va              924 As 
+Ftyuealoi     0416 AAD35J6-E    Ni                 903 As 
+Akhiytle      0514 C6753N4-8    Ni                 914 As 
+Hkyewao       0519 B2005M5-B    Ni Va              123 As 
+Sowei         0520 A7774N7-A    Ni                 113 As 
+Hliyhoai      0612 B6367N7-D                       334 As 
+Hiriiyse      0613 B5643M7-A    Ni                 713 As 
+Ktarua        0614 C4635N6-C    Ni                 813 As 
+Leftearl      0615 B2005K7-D    Ni Va              122 As 
+Hwiysa        0619 E4463K7-9    Ni                 305 As 
+Paroiere      0716 C652468-3    Ni Po           A  501 Go 
+Tahwyafe      0717 E1108CB-0    Na                 120 Na 
+Rosai         0720 E66788C-0    D3 Ri              704 Na 
+Uloirli       0811 E100342-0    Ni Va              504 Na 
+Nishror       0812 E684223-1    Ni                 700 Go 
+Hipera        0814 B657868-4                       323 Go 
+Chorikhnare   0815 E868422-1    Ni                 804 Go 
+Htaweai       0817 E1107M8-B    Na                 713 As 
+Siniob        0819 A200223-7    Ni Va              404 Na 
+

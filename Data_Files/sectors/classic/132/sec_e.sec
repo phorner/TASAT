@@ -1,0 +1,27 @@
+@SUB-SECTOR:Ftaueiefei SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ha'ukh        0117 C6575K9-8                       603 As M2 V
+Kah           0212 C1002J4-7                       824 As G4 V M1 D
+Weeuiyu       0217 E5367M5-7                       810 As K2 V
+Ehlea         0313 C87A9H7-B                       903 As M3 V
+Eye           0413 C4004HC-9                       400 As M3 V K2 D
+Khtaseaei     0417 D2007M4-9                       424 As M2 V M7 D M3 D
+Urlousas      0420 E77A4J6-A                       824 As M2 V
+Eioeh         0514 AAD54H6-A                       620 As M4 V
+Lorearah      0519 B7855M6-9                       403 As M1 V
+Htu           0612 A4346L6-E                       522 A6 K2 V M9 D
+Hkearai       0615 E5379HA-C                       900 As G1 V
+Hlaail        0711 C6857K4-8                       214 As M0 V M3 D
+Uilareaeih    0712 B4612G8-B                       504 As M4 IV
+Oweairl       0717 B8954J4-A                       204 As K4 IV
+Earla         0811 E2312H7-6                       712 As M1 V M9 D
+Eeierluweal   0813 A1003M7-E                       700 As M6 IV
+Ihar          0815 C6482J6-7                       203 As M4 V M1 D
+Raia          0818 C110AN5-E                       304 As G0 D

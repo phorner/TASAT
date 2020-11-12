@@ -1,0 +1,41 @@
+@SUB-SECTOR:Aotrei SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Chesall       0903 C200688-2    Ni Va N            704 Na 
+Aoaki         0907 D110759-0    Na              A  605 Na 
+Syasarai      0909 DAA5499-2    Ni                 704 Na 
+Oldhali       1002 C000200-3    Ni As              204 Na 
+Pannusgario   1003 A3829DB-5    Hi                 503 Na 
+Walryaei      1004 C436541-3    Ni                 810 Na 
+Helene        1005 C665866-2    C5 Ri              502 Na 
+Arahao        1008 C544733-2    Ag                 104 Na 
+Yoaieal       1104 E9A897A-3    Hi                 405 Na 
+Hrowele       1107 E774220-1    Ni                 100 Na 
+Hasyesya      1108 C000333-2    Ni As           A  512 Na 
+Oeuilyuh      1110 BA79413-6    Ni                 910 Na 
+Trlenamm      1203 C200262-3    Ni Va              120 Na 
+Uawelsa       1205 B7B0676-5    Ni De              603 Na 
+Hfleao        1207 E576010-0    Ni                 404 Na 
+Ffahalr       1208 B522863-5  F Po Na              603 Na 
+Elkhuihi      1303 B898347-5    Ni              A  613 Na 
+Canshar       1304 A696444-7  F Ni                 623 Na 
+Uaoya         1305 A322556-8  F Ni Po              224 Na 
+Teioyukh      1310 B110530-4    Ni                 220 Na 
+Reawaiy       1402 C647234-3    Ni                 502 Na 
+Kofyoha       1405 A599768-7                       203 Na 
+Tahetlo       1406 C977853-3                       700 Na 
+Hlakaoea      1408 E4598A8-0                       912 Na 
+Oheou         1501 B898326-5    Ni                 722 Na 
+Nihoipo       1504 E649236-2    Ni                 825 Na 
+E'loa         1505 D686655-1    Ni Ri A            600 Na 
+Hyeirlh       1506 C110001-2    Ni                 113 Na 
+Irekhal       1508 B7357A6-5                       604 Na 
+Iweheh        1603 C110420-2    Ni                 304 Na 
+Jardeng       1604 B424676-4  F Ni                 812 Na 
+Eiyriou       1608 A110877-5    Na                 113 Na 
+Brensal       1609 A8A0689-7    Ni De              724 Na 

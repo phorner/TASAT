@@ -1,0 +1,34 @@
+@SUB-SECTOR:Kouohkakhaur SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Etre'         0105 B4317L3-E                       704 A2 M7 II
+Auoul         0106 C5372NA-8                       123 As A6 V M5 D
+Eirla'        0107 EAB9AAC-D                       622 As K9 V M0 D
+Traiaie       0109 B1104MA-B                       100 As K6 VI
+Khyehyulol    0210 C2009JC-D                       803 As M6 IV
+Eawaiuaa      0304 A6753G6-E  R                    300 A9 K9 V
+Eisuiyl       0305 A7744K7-E                       314 As F1 V
+Hiaoyoheah    0307 C1008J6-A                       300 As M1 V
+Eahahau       0403 A5594H8-A                       213 As K3 V
+Alrarl        0407 A5624KA-E                       104 As G1 V M5 D
+Kyukh         0410 C1001G5-B                       202 As M5 V M6 D
+Stouikhah     0501 B1101M9-A  R                    502 As K9 V
+Khohauawouw   0503 D99A7H2-B                       812 As M1 VI
+Eehikh        0505 E5531J4-5                       812 As M1 V
+Yetriaiktai   0507 E6666N8-6                       700 As M1 V M3 D
+Roaeah        0509 D2318M8-9                       500 As M6 III M0 VI
+Asa'eher      0602 A5863G9-B  R                    903 A3 A2 V
+Elraol        0603 A2102M6-D                       803 As M2 IV
+Fai           0701 C2005H7-8                       325 As K0 V
+Ikhaoka       0707 A7A84N9-E                       414 As M3 IV
+Kterlos       0710 B1007M8-D                       203 As M3 V
+Eielui        0801 B3102G6-A  R                    704 A3 M0 V
+Oieoihlah     0802 E5584N7-A                       410 As K0 V
+Kualoe        0803 C5226J4-B                       104 As G0 V
+Ayaftawaih    0810 A1101J7-B  R                    200 As G4 III

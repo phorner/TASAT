@@ -1,0 +1,40 @@
+@SUB-SECTOR:Bobbo SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0931 0930 0 -1
+$0931 1134 0 0
+$1134 1136 0 0
+$1136 1238 0 0
+$1238 1438 0 0
+$1438 1537 0 0
+$1537 1735 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dewal         0931 BA98978-E  W Hi In              712 So F0 V
+Cea           0934 C864768-8    Ag Ri              904 Bo K7 D M4 D
+Red           0939 D20159A-A    Ic Ni Va           314 So M9 III
+Maxwell       1036 E99A115-A    Lo Ni Wa           420 So G0 D
+Arid          1040 B349330-E    Lo Ni              920 So F6 VI M2 D
+Bobbo         1134 A997526-D  N Cp Xb Ag Ni        602 Bo F2 VI M5 D M5 D
+Krupp         1136 C69A767-B    Wa                 300 Bl F9 D
+023-876       1139 X536400-6    Ni                 915 So M5 IV
+Manta         1140 C653434-9    Ni Po              900 So G5 VI
+Chuvo         1236 B366245-E    Rs Lo Ni           810 So G2 V M3 D
+Zuppe         1238 B6A468A-C  S Fl Ni              211 So M2 V
+Drizz         1240 C69A546-C    Ni Wa              124 So F0 VI M8 D
+Falstaff      1332 C89A798-B    Wa                 405 So F7 D
+Spectrum      1333 E258999-B    Hi                 500 So F3 V M3 D
+Blackjack     1438 A5119BD-E    Hi Ic In Na        712 Bl F4 V M7 D
+Acqua III     1440 B66A211-E  W Lo Ni Wa           303 So F6 D
+Behave        1531 D344443-8    Ni                 601 So G0 V M8 D
+New Ico       1532 C431577-C    Ni Po              410 So M4 V
+Kolin         1534 B244552-D  W Ag Ni              202 So M7 VI M4 D
+Selig         1535 E79A985-B    Hi In Wa           420 So G8 D
+Bois          1537 A201100-E    Xb Ic Lo Ni Va     603 So M0 V
+Xuber         1631 D563433-8    Ni                 512 So M4 D M0 D M4 D
+Free          1632 C201675-B    Ic Na Ni Va        722 So K1 V
+Brellik       1637 C67A110-D    Lo Ni Wa           104 So F8 VI M5 D
+Diaque        1638 C599878-A                       803 So F3 V M5 D

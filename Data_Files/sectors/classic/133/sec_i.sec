@@ -1,0 +1,63 @@
+@SUB-SECTOR:Siei SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$0222 0220 0 -1 3
+$0222 0224 0 0 3
+$0224 0425 0 0 3
+$0425 0327 0 0 3
+$0327 0227 0 0 3
+$0227 0128 0 0 3
+$0327 0328 0 0 3
+$0328 0329 0 0 3
+$0329 0330 0 0 3
+$0330 0530 0 0 3
+$0530 0628 0 0 3
+$0628 0827 0 0 3
+$0827 0829 0 0 3
+$0827 1027 1 0 3
+$0829 0931 1 1 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Eiyea         0128 B8B26N9-9    Ni                 714 As 
+Ktealau       0130 X9981N3-8    Ni                 803 As 
+Syerakhlr     0222 B7747H5-E    Ag                 225 As 
+Fuarl         0223 E3003M4-9    Ni Va              933 As 
+Uiaio         0224 B7773L8-A    Ni                 513 A7 
+Yehla         0226 C1008HB-A    Va Na              904 As 
+Seiirye       0227 C1004K8-7    Ni Va              503 As 
+lyyoiy        0321 A6A34H9-B    Ni                 203 As 
+Ktaol         0327 B8C59H7-E    Hi                 115 As 
+Ruiloih       0328 B1001K3-A    Ni Va              622 As 
+Wuhliaweh     0329 B6233J9-E    Ni Po              110 As 
+Ye'aeaoafokh  0330 D400AK5-C    Hi In V Na         203 As 
+Atayekhe      0421 B5460GA-9    Ni                 710 As 
+Yokiyheir     0423 C1107J6-D    Na                 802 As 
+Khaiai        0425 C4561G9-6    Ni                 620 As 
+Teaiyre       0427 B4234K8-D  R Ni Po              505 As 
+Eltaeikui     0428 D3108M7-B    Na                 414 As 
+Hlyeri        0429 C0005H6-9    Ni As              914 As 
+Hoireh        0523 E1007J9-8    Va Na              221 As 
+Heiaieai'     0524 C2008N6-D    Va Na              502 As 
+Kteaesyah     0527 E4478N8-B                       101 As 
+Uahke         0530 C5532J6-9    Ni Po              724 As 
+Akhatoea      0622 E3005K7-7    Ni Va              503 As 
+Ao'iyauira    0627 A9985N7-E    Ni Ag              102 As 
+Khteau        0628 C9A44J5-B    Ni                 310 As 
+Ihkeh         0629 E3106H3-7    Ni Na              713 As 
+Stofakhaii    0630 D2002NB-7    Ni Va              901 As 
+Stui          0721 D3624H7-B    Ni                 523 As 
+Yasai         0722 EA762G2-5    Ni                 904 As 
+Iyuasea       0724 E5416J6-6    Ni Po              325 As 
+Erloufteaw    0725 C7A06HB-8    Ni DE              203 As 
+Ahaiehea      0726 A7867K6-C    Ri Ag              804 As 
+Aiaiso        0727 C6786K7-8    Ni Ag              823 As 
+Nurnlin       0822 A342878-5  F Po              A  821 Na 
+Ziha          0824 E235595-1    Ni                 720 Na 
+Auyal         0825 C7953KB-B    Ni                 911 As 
+Khlyu         0827 A210AN6-E    Hi In N            503 As 
+Akheariafei'  0828 E86A2G7-9    Ni Wa              303 As 
+Iylhreyu      0829 C8855L3-8    Ni Ag              514 A6 
+

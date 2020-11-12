@@ -1,0 +1,48 @@
+@SUB-SECTOR:Akuusir SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2506 2402 -1 0 3
+$2506 2805 0 0 3
+$2506 2609 0 0 3
+$2805 3005 0 0 3
+$3005 3009 0 0 3
+$3005 3204 0 0 3
+$3204 2904 0 0 3
+$3204 3202 0 0 3
+$3204 0105 1 0 3
+$3009 2911 0 1 3
+$2609 2812 0 1 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Lachbes       2501 D73A146-4    Ni Wa              610 So 
+Chacimu       2503 C664453-4    Ni                 204 So 
+Wang          2506 D789899-1    Ri                 222 So 
+Springflow    2510 B777465-5    Ni                 314 So 
+2601          2601 X341668-0    Ni Po Pr        R  104 So 
+Karziv        2603 D4318BC-0    Po Na              201 So 
+Dengmi        2605 CA88486-3    Ni                 320 So 
+Fonfado       2606 EAA856A-2    Ni                 400 So 
+Caprona       2607 D77A404-4    Ni Wa              332 So 
+Bedegrayn     2608 D000577-0    Ni As              714 So 
+Morlisbon     2609 B873696-4  F Ni                 803 So 
+Satwor        2610 A867632-6  F Ni Ag              904 So 
+Rana          2710 B343100-5    Ni Po              604 So 
+Frasden       2801 D100567-0    Ni Va              920 So 
+Colcan        2805 B9C5268-6  F Ni                 904 So 
+Romart        2810 C342344-2    Ni Po              514 So 
+Mosgat        2901 C354474-2    Ni                 400 So 
+Strava        2903 B222567-5    Ni Po              602 So 
+Renfrew       2904 A8B2541-8  J Ni                 601 So 
+Tenaway       3003 C0006A8-1    Ni As N            104 So 
+Angle         3005 A977223-7  F Ni                 802 So 
+Penrovbl      3008 B000421-4    Ni As              703 So 
+Patawldmam    3009 B110201-5    Ni                 400 So 
+Baconan       3104 C374534-2    Ni Ag              603 So 
+Wormen        3106 D100002-0    Ni Va              923 So 
+Column        3202 B537988-7  F Hi                 110 So 
+Linate        3204 A200544-7    Ni Va           A  304 So 
+Temgassung    3205 C777422-3    Ni                 903 So 
+Savosk        3208 C788534-3    Ni Ag              604 So 

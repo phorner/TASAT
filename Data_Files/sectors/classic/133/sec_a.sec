@@ -1,0 +1,45 @@
+@SUB-SECTOR:Earle SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$0501 0601 0 0 3
+$0501 0503 0 0 3
+$0503 0603 0 0 3
+$0307 0107 0 0 3
+$0207 0307 0 0 3
+$0107 3106 -1 0 3
+$0207 0109 0 0 3
+$0109 3210 -1 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uiwe          0106 D1003K9-B    Ni Va              523 As 
+Oukheayekh    0107 C1006MA-8    Ni Va N            200 As 
+Oifairouw     0109 A6462G5-9    Ni                 512 As 
+Yeasea        0201 E5842GA-7    Ni                 902 As 
+Eahaeahs      0206 X5234L8-7    Ni Po              114 A7 
+Aohoikiy      0207 A4000GB-D  R Ni Va              524 As 
+Uileawi       0210 C66A7M5-9    Ri Wa              901 As 
+Hfautekaoao   0301 C3630G9-8    Ni                 103 As 
+Aiaokhek      0305 C4344N5-9    Ni                 802 As 
+Earle         0307 C532AH9-9    HI Po N            313 As 
+Eakhtya'i     0402 D4277K5-B                       122 As 
+Sowhkeiy      0407 E3008K6-8    Va Na              724 As 
+Haiaokoa      0408 C4007J6-A    Va Na              800 As 
+Ularin        0501 E859166-2    Ni                 623 Uh 
+Limenas       0502 B685202-6    Ni                 903 Uh 
+Usun          0503 B10086B-3  F Va Na              701 Uh 
+Oekhaihikh    0507 B5753J7-D    Ni                 224 As 
+Iyoao         0510 D99A3NA-8    Ni Wa              901 As 
+Amar          0601 A797232-7  F Ni                 302 Uh 
+Ul            0603 A682698-6  F Ni Ri              414 Uh 
+Sanis         0605 C545448-3    Ni              A  103 Uh 
+Ahuawiyoi     0607 X8C45L4-9    Ni                 521 A8 
+Tahetio       0609 D8A28N7-9                       414 As 
+Oiwohas       0707 A1006L6-B    Ni Va N            503 A2 
+Aleikhes      0710 A7555L7-E    Ni Ag              804 A0 
+Nalale        0801 C41089A-2    Na                 910 Uh 
+Elulor        0805 C8B2855-4                    A  111 Uh 
+Fteite        0807 E100566-0    Ni Va              902 Na 
+Hye           0809 B796200-6    Ni                 303 Na               

@@ -1,0 +1,50 @@
+@SUB-SECTOR:Lore SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0115 0119 0 0
+$0115 0415 0 0
+$0211 0413 0 0
+$0211 0409 0 -1
+$0413 0415 0 0
+$0415 0814 0 0
+$0814 0713 0 0
+$0814 1016 1 0
+$0113 3116 -1 0 3
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Schurz        0113 A874310-D    Lo Ni              601 So G1 D M0 D
+Pryon         0115 A889747-D    Cp Ri              820 So F8 VI
+Wair          0116 C89A98C-E    Hi In Wa           823 Wa G6 D
+Hool          0118 C121867-C    Na Po              800 So F6 D
+Mickel        0119 A741855-E    Po                 401 So F4 VI
+Factn         0120 C140999-C    De Hi In Po        102 So F9 D M0 D
+Stanislav     0211 B000688-D  A As Na Ni           700 So K2 V M8 VI
+Zentara       0212 C101200-E    Ic Lo Ni Va        315 So M8 V M1 D M7 D
+Amonchomchu   0215 C599765-B                       704 Wa M7 VI
+Jofil         0216 B101353-E  S Ic Lo Ni Va        904 So F0 IV
+Anderson      0220 B550221-D    De Lo Ni Po        514 So F7 VI M0 D M5 D
+McManus       0315 E511742-9    Ic Na              225 So M9 II M2 V M4 D
+Bowmar        0317 D301466-9    Ic Ni Va           600 Wa M2 V M2 V
+Carol Sue     0319 C334423-D    Ni                 104 So M0 III
+Yergin        0411 D767642-6    Ag Ni Ri           500 So G0 V
+Kaig          0413 A6AA758-E  A Fl Wa              704 So K6 VI
+Dormant       0415 B450645-C    Xb De Ni Po        922 So M1 V
+Papesh        0516 D200664-9    Na Ni Va           600 Wa F1 V M6 D
+Elroy         0517 E556112-7    Lo Ni              903 So F1 V
+Arsdale       0613 D445833-8                       600 So F3 V
+Wells         0614 D677635-6    Ag Ni              800 So F4 V
+Pindur        0615 E131956-C    Hi Na Po           505 So F6 D
+Abbit         0617 A699201-E    Lo Ni              800 So F5 V M3 D
+Joce          0619 B240167-E  W De Lo Ni Po        300 La F5 D
+Fatridge      0712 E99887B-8                       110 So K6 VI
+Bradley       0713 B340879-D  N De Po              401 So G0 V M2 D
+Kazilash      0715 B778100-C    Lo Ni              302 So F2 VI M0 D
+Hodapp        0716 B689541-C    Co Ni              112 So K3 VI
+Lachlan       0720 B101054-E    Ic Lo Ni Va        700 La F7 IV
+Nihonatarashi 0812 C237403-D    Ni                 310 So M0 V
+Meza          0813 B000831-E    As Na              604 So F4 VI M6 D
+Kano          0814 A432503-E    Ni Po              600 So M0 V
+Hurshel       0815 B7B5000-C    Ex Ba Fl Lo Ni     914 Im M5 II M2 D

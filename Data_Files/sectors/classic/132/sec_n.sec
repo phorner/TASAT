@@ -1,0 +1,37 @@
+@SUB-SECTOR:Yastesa SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khaisyo       0938 XAB53K7-8                       812 As M0 V
+Eihei'a'      1031 X4536H9-6                       605 As M4 V
+Orea          1035 A4423N6-C                       504 As K6 V M5 D
+Tewasei'ere   1036 C6556H8-7                       502 As M0 V
+Ahi           1131 C5237N6-B                       213 As M5 VI K6 D
+Yokheiel      1132 C3415JA-B                       710 As K4 V M1 D
+Eaau'aokh     1134 B3673G7-C  T                    512 As M3 VI M4 D
+Eahuiaftayu   1139 C1001J5-8                       400 As M3 V M0 D
+Hfe           1234 C2002N7-B                       500 As M9 V M6 D
+Eiol          1235 B8568NA-E                       110 As F3 V
+Uirehih       1236 C6354L8-8                       214 A8 F0 V M1 D
+Oihiworl      1237 C3435H7-C                       112 As K4 V
+Teahea        1238 A2424JA-C                       122 As K2 IV M5 D
+Ealea         1240 B5324L4-D  T                    703 A4 K2 V
+Eaailr        1432 A5860N5-B                       104 As M3 V
+Eayeke        1433 CA8A4M5-7                       820 As G1 V
+Fteasehah     1439 X3235N3-A                       610 As F1 III
+Tyu'yas       1531 C1006J8-7                       220 As M1 V
+Ftaueasa      1532 B5916N7-C                       903 As K2 II M1 D
+Hriykhi'      1533 C6573G8-8                       723 As K3 V M3 D
+Yohoisairloi  1534 X5554J2-9                       404 As K2 V
+Oihkehaa      1536 B5356H8-B  T                    915 As M3 V K6 D
+Ahriyr        1538 C6693GA-A                       623 As K6 V M4 D
+Teaeioal      1631 C8846N7-7                       911 As F2 III
+Ftye          1636 C1004J9-8                       404 As G1 V M6 D
+Hli'ao        1637 B4857J6-C                       301 As M3 V
+Hoioiyw       1638 C3557M4-B                       700 As K3 V M7 D
+Haiya         1639 C7636N8-B                       201 As M3 VI

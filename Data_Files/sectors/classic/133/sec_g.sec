@@ -1,0 +1,42 @@
+@SUB-SECTOR:Kilrai' SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$2020 2122 0 1 3
+$2020 1919 0 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Alaoyaah      1714 B331758-A    Po Na           A  701 Na 
+Khllyw        1715 C453457-8    Ni Po              223 Na 
+A'awiy        1716 A959678-C  F D5 Ni              103 Na 
+Hlao          1719 X7698CB-5                    R  703 Na 
+Ye            1813 D423547-6    Ni Po              825 Na 
+lla'ouh       1911 B542120-A    Ni Po              503 Na 
+Asati         1912 D729400-9    Ni              A  511 Na 
+Kakhlsil      1915 B6A0444-B    Ni De              225 Na 
+Horrace       1916 A431658-C    Ni Po N         A  414 Na 
+Khoakla       1918 B200211-A  F Ni Va              904 Na 
+Kusyu         1919 A8769H6-E  T Hi In              703 As 
+Taeahehe      2011 C743301-9    D4 Ni P            902 Na 
+Morain        2012 C9A3556-A    Ni                 404 Na 
+Ealarl        2014 C97A575-A    Ni Wa              424 Na 
+Ftyelyar      2017 D100125-5    Ni Va              704 Na 
+Hleahao       2018 D310221-6    Ni                 714 Na 
+Olaous        2020 C6518J9-D    Po                 713 As 
+lkhaeal       2111 C653131-8    Ni Po              714 Na 
+Loyse         2113 C445687-6    Ni Ag               224 Na 
+Embrall       2115 A000434-B  F Ni As              914 Na 
+Sharp         2117 E100335-7    Ni Va              203 Na 
+PrItchard     2214 B300367-C  F Ni Va              714 Na 
+Yakolev       2215 A6B6677-C    Ni                 700 Na 
+Craln         2216 D525340-7    Ni                 210 So 
+Eholol        2218 A789213-D  F Ni                 802 Na 
+van Kemp      2315 B500596-B  J Ni Va           A  904 Na 
+Strin         2316 C1009AD-8    Hi In V Na         205 Na 
+Shlro         2317 C433211-8    Ni Po              101 So 
+Nigdye        2413 B242844-8    Po                 123 So 
+1lrlyhya      2415 C624733-8                    A  804 Na 
+Stop Gap      2416 C684200-9    Ni                 202 So 
+

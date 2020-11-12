@@ -1,0 +1,45 @@
+@SUB-SECTOR:Walpurgis SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2512 2810 0 -1
+$2512 2411 -1 0
+$3012 2810 0 -1
+$3214 0214 1 0
+$3012 3214 0 0
+$3219 3223 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sinott        2512 A131742-E    Na Po              100 Im G3 V
+Pankow        2518 A361412-C    Lo Ni An           310 Im G6 V
+Veneet        2519 C441865-9    Po                 500 Ra M3 V
+Fornorb       2616 C997A85-A    Hi In              504 Im G7 D
+Dix           2617 E8CA343-A  W Fl Pr Lo Ni Wa  R  600 Im M2 V
+Byrley        2715 C687538-A    Ag Ni              700 Im M1 VI M5 D
+Milbrath      2716 E450896-7    De Po              900 Im F9 V
+Randzo        2717 A101402-E    Ic Ni Va           423 Ra G3 V
+Beanland      2718 C8C6789-A    Fl                 710 Im M3 V
+Danko         2811 C777862-A                       210 Sk F6 VI M8 D
+Lonelund      2813 C550320-A    De Lo Ni Po        110 Im F9 D M0 D
+Slota         2815 C6A5754-A    Fl                 523 Im M1 V
+Tyrrell       2816 C421663-A    Na Ni Po           403 Ra F3 V
+Hrongding     2817 B611511-D  A Ic Ni              202 Im G4 V M1 D
+Gyurenek      2912 B778458-C  N Ni An              615 Im F6 D M7 D
+Ramli         2913 C7B5114-C    Fl Lo Ni           204 Im K9 V
+Brand         2914 C101364-E    Ic Lo Ni Va        224 Kl G3 IV M0 D M6 D
+Norkio        2915 C67578A-9    Ag                 224 Im M3 V
+Parperides    2917 C765335-A    Lo Ni              605 Im K4 D M1 D
+Kline         3012 A201987-E    Cp Hi In Na Va     902 Kl F5 D
+Gupta         3014 E101214-A    Ic Lo Ni Va        812 Im M7 V
+Amelbar       3019 C6A4775-B  S Fl                 604 Im M8 D
+Einkamp       3020 E8648BD-8                       102 Im K7 D
+Curson        3113 C350310-C    De Lo Ni Po        914 Im K6 D M3 D
+Melody        3114 D4578C8-8                       700 Im F4 D
+Carllan       3118 B588501-D    Ag Ni              500 Im F0 V
+Sterchi       3212 B697663-B  N Ag Ni           A  104 Kl F0 V
+Rouern        3213 D4568DC-6                       103 Im F1 V
+Unfried       3214 B577355-C    Lo Ni              303 Im F3 D M2 D
+Vallance      3219 A6B4598-E    Fl Ni           A  504 Im M6 IV
+Doucette      3220 B6A78DD-9    Fl                 911 Im F2 D M5 D

@@ -1,0 +1,44 @@
+@SUB-SECTOR:Fugue SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2728 2631 0 1
+$2728 2927 0 0
+$2923 3223 0 0
+$2927 3227 0 0
+$3223 3227 0 0
+$3223 3219 0 -1
+$3223 0123 1 0
+$3227 0126 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sturwold      2522 C500316-A    Lo Ni Va           204 Im K3 II
+Taaksha       2523 C401352-E    Ic Lo Ni Va        104 Im M5 V
+Ghosh         2526 E10068A-9    Na Ni Va           703 So F2 IV M8 D
+Laidlaw       2528 C99A400-D    Ni Wa              510 So K9 D M5 D
+Seker         2529 D310888-9    De Na              210 So K6 D M0 D
+Yarling       2622 E899324-9    Lo Ni              820 Im F7 V
+Morgenstern   2625 E999589-A    Ni An              903 So M4 V M8 D
+Iatur         2628 C510A9E-B    Hi In Na           313 Im F0 V
+Raiden        2724 E49A8A8-9    Wa                 500 Im F7 D
+Parkhill      2725 C6A8630-A    Fl Ni              614 Im G4 V M5 V
+Orpurgo       2726 C232556-E    Ni Po              612 So M9 IV M5 D
+Wicker        2728 A211843-E    Ic Na              315 Im F2 V M5 D
+Namodi        2729 C6798A6-B                       123 So F0 V M2 D
+Butphi        2822 B550110-B    De Lo Ni Po        900 Im M3 VI
+Asorret       2923 B450866-B  N De Po              302 Zo M1 V
+Leikung       2924 C798555-B    Ag Ni Rs           310 Im F2 V M5 D
+Union         2927 C972AA8-A    Cp Xb Hi In        300 Im F6 D
+Clarmeer      3029 D462473-8    Ni                 322 Im F2 D
+Pocatlipcat   3030 E330889-A    De Na Po           814 Im F2 D
+Gjerdingen    3123 X4758A9-3                    R  803 Im F3 V M0 D
+Onewen        3125 D3106BF-8  S Na Ni              912 Im M3 V
+Beta          3128 C576ADA-9  S Hi In              724 Im G6 VI
+Beagle        3129 D766A99-A    Hi                 120 Im K8 D M2 D
+Montlivan     3222 C688456-A    Ni              A  300 Im F7 VI
+Zongwu        3223 C433652-D    Xb Na Ni Po        302 Zo M6 III
+Untamo        3224 C894587-B    Ag Ni              702 Im F5 D M8 D
+Ersgill       3227 B6AA532-E    Fl Ni Wa           204 Im M2 V
+Hemoth        3230 D611425-8    Ic Ni              413 Im M3 V M0 D

@@ -1,0 +1,60 @@
+@SUB-SECTOR:Khtoiakta SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$1829 1628 -1 0 3
+$2430 2432 0 1 3
+$2430 2230 0 0 3
+$2230 2131 0 1 3
+$1930 2131 0 1 3
+$1930 1829 0 0 3
+$1930 2028 0 0 3
+$2028 2026 0 0 3
+$2026 1825 0 0 3
+$1825 1724 0 0 3
+$1724 1622 -1 0 3
+$1724 1923 0 0 3
+$1923 2123 0 0 3
+$2123 2122 0 0 3
+$2122 2322 0 0 3
+$2122 2020 0 -1 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Easouyao      1721 A1003H5-C  T Ni Va              204 As 
+Syauei        1724 A3357L7-E  T                    403 A1 
+Hloklye       1725 D8A16M6-B    Ni                 905 As 
+Aiwaosois     1821 C1004H6-B    Ni Va              304 As 
+Tenarna       1825 B436233-5  F Ni                 704 Na 
+Aftea         1826 D2007KB-A    Va Na              813 As 
+Yelrailr      1829 C1002GA-B    Ni Va              110 As 
+Eieiau        1830 A4436KA-E    Ni Po              710 As 
+Trol'         1923 E7879H8-8  R Hi                 900 As 
+lyaiah        1925 A1005L8-B    Ni Va              522 A1 
+Steiaseah     1927 E1004M5-A    Ni Va              200 As 
+Tlylewoiw     1930 C9C68N7-C                       814 As 
+Ewirarl       2021 B2004K8-9    Ni Va              512 As 
+Ekhly         2023 B6293L6-B    Ni                 204 A8 
+Fyawahri      2026 A100899-5    D0 Va N            313 Na 
+Hakhyas       2027 B3544KB-A    Ni                 302 As 
+Kihahouwu     2028 C2006M8-A    Ni Va N            805 As 
+SewaIair      2121 C4435NA-A  R Ni Po              104 As 
+Khtektawoa    2122 B1005K9-C    Ni Va              903 As 
+Eakhoi        2123 C7869H6-D    Hi                 114 As 
+Iyhahorl      2125 E3373G6-6    Ni                 112 As 
+Aohitao       2126 B5348K3-B                       404 As 
+louhtah       2128 C66A7N4-B    Ri Wa              802 As 
+Saftahfeal    2221 B8835L8-E  T C2 Ni              603 A7 
+Ekhlyeue      2223 E8594H6-A    Ni                 710 As 
+Sequel        2225 C773963-4    Hi In              702 Na 
+Troutlyka     2230 B0002H7-E  R Ni As              703 As 
+Ha'yesfer     2321 C1007L3-8    Va Na              501 A5 
+Khtyasitrao   2322 B3364K8-D    Ni                 922 As 
+Styarolr      2325 C1008H8-9    Va Na              124 As 
+Wuslhahai     2327 C879447-4    Ni              A  311 Na 
+Oskvo         2422 X11038D-0    Ni              R  800 Na 
+lweakhte      2426 C5547J8-9    Ag                 915 As 
+Eiouktoh      2427 C3336L5-B    Ni Po N            923 A8 
+Oiirl         2430 A4539JB-E    Hi Po              713 As 
+

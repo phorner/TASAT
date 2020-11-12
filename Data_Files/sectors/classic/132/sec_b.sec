@@ -1,0 +1,30 @@
+@SUB-SECTOR:Ouoafeileir SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yoktooieal    0904 E5812L6-5                       610 A9 M6 V
+Hleakhaseoii  0906 A4756K8-A                       602 As M0 V M3 D
+Ftei          0907 B4103N3-E                       305 As M9 V M8 D
+Hrasyuewea    0910 A3005K6-B                       913 As M3 V
+Seauahe'      1001 A4884M4-E                       200 As F0 V M8 D
+Ouhwya        1002 D3816NA-A                       202 As K0 V
+Yahwouh       1007 B5A58L2-E                       723 A2 M4 V M2 D
+Hkasahayal    1101 D1006H7-A                       402 As M4 V
+Khoah         1106 B4447N6-E                       404 As M0 V M8 D
+Eihaihurali   1107 D7966M7-9                       103 As M4 V
+Iyiraolorl    1110 E1004L5-9                       400 A8 K4 V
+Ayahrea       1203 C1007JB-D                       813 As K2 D
+Hiraihaikhah  1305 E6356LA-8                       804 A6 M6 III
+Iysaiaorl     1306 C4420H4-C                       801 As M5 V
+Seil          1402 B3516J8-D                       204 As M1 V M5 D
+Ftuihkoi      1408 C99A3M6-C                       524 As K7 V
+Khya'ahekh    1409 D4565N5-6                       412 As K1 V M8 D M1 D
+Toawiyau      1510 C1105N9-9                       103 As F2 V
+Aohiiea       1601 C8A55J5-A                       512 As G4 V
+Arihui        1606 D5211M9-B                       500 As M3 III
+Tarl          1610 C5551K5-C                       614 As M3 VI M0 D

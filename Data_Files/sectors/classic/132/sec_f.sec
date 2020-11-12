@@ -1,0 +1,22 @@
+@SUB-SECTOR:Kaheaaihlyal SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oasi          1013 E3544MB-5                       505 As G1 IV
+Aosaw         1015 D7855LA-9                       101 A6 K4 V
+Oilasoisea    1214 E6335L6-8                       904 A7 K0 V M1 D
+Aryorlyas     1219 D9795K5-6                       221 As G3 V M6 D
+Oifiwawes     1220 C1103G8-A                       203 As M7 III
+Uhuahyahe     1318 C6475J7-7                       704 As G8 IV
+Oahuaki'asei  1420 B1005LA-9                       212 A5 M1 V M7 D
+Yekheioi      1511 E6936L5-A                       101 A9 M2 V
+Ktaluayueroa  1512 C2108K4-B                       605 As M6 II M0 D
+Foteiroisyo   1515 A4859L8-E  T                    723 A2 M0 III
+Italaeaw      1518 X3009N9-9                       800 As M6 IV M4 D
+Hroaheahaha   1612 E1004J8-7                       805 As M4 V
+Eaieaka       1620 B1002G7-D  R                    112 A8 F1 V M9 D

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Yolraoaial SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khtearloa     2501 B5358K4-C                       800 As M0 V M3 D
+Hkaieakhte    2502 A0004J8-D                       423 As K3 V
+Eaoieiw       2504 A5734L7-A                       600 A6 M0 V
+Yoyel         2505 X5652H8-7                       412 As G9 VI M5 D
+Uitiy         2601 B9879H4-E  T                    604 As K7 V M2 D
+Akteaeirlar   2610 D5394K4-9                       503 As K0 V M2 D
+Tisaryarlou   2705 DA7A2K6-8                       900 As M8 III G4 D
+Ihyuhiyilya   2706 B3242GB-8                       505 As K1 V
+Ahyaaw        2708 D2323JA-B                       604 As M7 V
+Feheah        2709 B7695K3-E                       800 As M3 V
+Htyafteaoir   2710 A2003G8-E                       302 As G9 V M9 D
+Iyes          2801 B3103K8-C                       902 As K7 V M5 D
+Kikhtoiw      2808 B5573L6-D                       903 A2 M3 V M9 D
+Hreiaeaw      2904 A6671G6-9                       804 As K3 V
+Eiyetaoyel    2905 C5243G8-8                       115 As M5 V
+Arleahaeihiy  2906 D1007K3-A                       500 As M2 V
+Uilekhalr     2907 A1102G8-E  R                    710 A0 M2 V M3 D
+Tyaou         2909 B1008M8-E  R                    614 As K2 V
+Yeil          2910 D5953L9-7                       310 A4 G6 V
+Iysas         3002 E100ANA-B                       502 As K0 V M4 D M7 D
+Hfae          3003 C241AJ8-A                       303 As K2 VI M6 D
+Foahleahiyah  3004 B9976J2-9                       423 As K4 V
+Aulaolrew     3009 A0006M4-B  R                    702 As A8 IV
+Hahoaui       3010 X564AH6-B                       704 As K0 V
+Yelaohiya     3106 D5564H8-A                       703 As M4 V
+Oahoi'ieyus   3107 C5562M7-7                       824 As K8 V
+Eiwew         3201 C9795N9-7                       300 As M0 V G9 D
+Ahreah        3202 C7C4AH5-E                       303 As M1 V M3 D
+Eayeakha'     3203 C2006K7-8                       412 As M4 V
+Khyaktaeis    3205 A8A43K3-D  R                    804 As M5 V M3 D
+Ahkoi         3207 A6A25NC-D                       604 As M2 V
+Fteira        3209 E1007J9-A                       104 As M5 VI M5 D
+Earlah        3210 B79A4J7-D                       500 As G4 V M9 D

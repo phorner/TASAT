@@ -1,0 +1,48 @@
+@SUB-SECTOR:Breland SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1830 1833 0 1
+$1927 1830 0 0
+$1927 1627 -1 0
+$1927 2124 0 0
+$1927 2229 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Smilgys       1725 E623466-A    Ni Po              500 Ac M6 VI M8 D
+Bishop        1728 D401544-9    Ic Ni Va           315 So K4 D
+Creighton     1730 B236233-D    Lo Ni              410 So M8 V M3 D
+Moxbarg       1821 B550220-C    De Lo Ni Po        633 So F5 D M7 D
+Garniewicz    1823 D450313-9    De Lo Ni Po        903 So F0 D M4 D
+Saienz        1824 B350898-C    De Po              310 So K9 D
+Lanchester    1825 D121469-B    Ni Po              200 Ac F4 V M8 D
+Annu-u        1826 A350679-D    De Ni Po           900 So M0 V
+Winterlot     1827 C501898-A    Ic Na Va           213 So F9 D M7 D
+Shanhaiching  1828 E6A4562-8    Fl Ni              700 Ac G7 D
+Kaarna        1830 A1015AA-E    Ic Ni Va           300 So M3 V
+Ebbing        1924 C511536-B    Ic Ni              112 So G1 V M4 D
+Crius         1926 D999575-8    Ni                 310 So F9 D
+Ramaniam      1927 A331869-E  N Cp Xb Na Po        802 Ac F5 VI
+Yognigath     1928 E101453-D    Ic Ni Va           210 So M9 VI
+Langas        1930 B23646B-E  W Ni                 214 Ac M3 V M6 D
+Vacob         2024 C433640-C    Na Ni Po           104 So F3 V
+McNellen      2026 B441000-E  S An Ba Lo Ni Po  R  501 So F2 VI M6 D
+Helm          2029 E874865-7                       100 Ac F3 V
+Koskiku       2030 B377830-C                       703 So G2 V
+Ahto          2122 C67A376-D    Lo Ni Wa           100 So F9 D
+Ginivia       2124 A7A4564-E    Fl Ni              903 Ac M2 IV
+Paxton        2126 B320121-E  W De Lo Ni Po        224 So G8 V M4 D M4 D
+Yama          2127 C530855-C    De Na Po           300 So M3 V
+Jaro          2128 D455469-9    Ni                 805 Ac G2 D M7 D M0 D
+Burris        2130 X69A300-6    Lo Ni Wa           805 So F4 V
+Elnor         2223 A254611-E    Ag Ni              324 So F4 V
+Fatagin       2229 B667878-B    Ri                 400 So G1 V
+Tlaloc        2230 E37A112-C    Lo Ni Wa           904 So K7 V
+Fyffe         2321 E8CA110-A    Fl Lo Ni Wa        502 Im K4 V
+Kotada        2324 D259354-B    Lo Ni              404 So F4 V M8 D
+Court         2421 D5007A8-9    Na Va              602 Im K0 V
+Argon         2422 C35A755-C    Wa              A  810 Im K3 D
+Kugle         2423 A522656-E    Na Ni Po        A  624 Im M3 V M8 D M1 D
+Mest          2426 D540454-9    De Ni Po           814 So F1 D M5 D

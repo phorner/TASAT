@@ -1,0 +1,46 @@
+@SUB-SECTOR:Sartarak SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0135 0233 0 0
+$0233 0531 0 0
+$0137 0135 0 0
+$0137 0337 0 0
+$0137 0139 0 0
+$0337 0536 0 0
+$0531 0428 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Indet         0131 B7B79BD-D    Fl Hi              204 So F8 D
+Quizen        0134 B6AA865-D    Fl Wa              804 Wi F2 V
+Regasas       0135 A100877-E    Na Va              210 Wi F3 V
+Wilkerson     0136 A7BA767-E    Fl Wa              311 Wi M1 V M5 D
+Bentley       0137 B422644-D    Na Ni Po           200 So M4 V M2 VI
+Xianjin       0139 A77668A-D  S Ag Ni              623 Xi M1 V
+Falkenthal    0140 E69A266-A    Lo Ni Wa           100 Xi F4 VI
+Drang         0233 A54379C-C  N Po                 402 So F8 D
+Crecilius     0239 B6A7114-E  W Fl Lo Ni           515 So K8 V M0 D
+Leto          0333 D101657-B    Ic Na Ni Va        405 So M3 V
+Zandervort    0337 A87489D-E    Cp                 900 So F0 D M0 D
+Mitava        0338 C540222-B    De Lo Ni Po        500 So F2 V M7 D
+Rundle        0340 A51136B-E  W Ic Lo Ni           824 Xi G7 V
+Agari         0432 C58A99D-C    Hi Wa              404 So K7 D M1 D
+Sammadar      0440 C457220-B    Lo Ni              400 So M6 V
+Bhola         0531 B5525A9-B    Xb Ni Po           720 So F7 VI
+Fukasaku      0533 E300577-A    Ni Va              520 So M1 V
+Joliff        0534 D385354-B    Lo Ni              914 So F9 VI
+Dalton        0536 A89A634-E    Xb Ni Wa           220 So K3 V M4 D
+Jiaxiang      0537 B000436-E    As Ni              310 So M1 V
+Ziarko        0540 A201001-E  W Rs Ic Lo Ni Va     400 So M6 V M9 D
+Nimikh        0633 E301532-A    Ic Ni Va           424 So M8 D M1 D
+Adria         0635 C798246-9    Lo Ni              104 So F4 D
+Morsen        0636 B301834-C    Ic Na Va           402 Mo F3 V
+Hershel       0731 D7A5664-8    Fl Ni              414 So K1 V M0 D
+Oldorf        0732 D255588-9    Ag Ni              623 So G6 D M1 D
+Sodra         0736 E334886-9                       200 So K1 V M5 D
+Kroovand      0737 C338562-C    Ni                 203 Mo F0 V M4 D
+Fluri         0740 C78A68C-B    Ni Wa Ri           310 So F3 V
+Drocian       0835 C420552-C    De Ni Po           504 So M8 VI M7 D
+Lincoln       0836 BA9A213-E    Lo Ni Wa           200 So F4 V

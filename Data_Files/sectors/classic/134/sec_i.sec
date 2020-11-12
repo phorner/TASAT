@@ -1,0 +1,54 @@
+@SUB-SECTOR:G'ronshe SECTOR:Magyar
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0125 0227 0 0
+$0125 0223 0 0
+$0223 0523 0 0
+$0227 0427 0 0
+$0227 0428 0 0
+$0428 0531 0 1
+$0523 0624 0 0
+$0624 0427 0 0
+$0624 0722 0 0
+$0722 0921 1 0
+$0227 3129 -1 0 3
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Vaneken       0122 C7B78A9-9    Fl                 804 So G0 V M9 D
+Ulm           0125 A548666-E    Ag Ni              503 Oc G3 D
+Rosefeld      0130 E5218CB-9    Na Po              824 So F0 V M5 D
+Campany       0223 B641888-B    Po                 900 Oc K2 V
+Romm          0224 B331321-D    Lo Ni Po           600 Oc G1 V
+Adopoulos     0225 C100599-E    Ni Va              503 Oc M3 V
+Ock           0227 A9A8855-E  A Cp Fl              813 Oc F2 D M9 D
+Tworek        0229 E8AA446-A    Fl Ni Wa           510 So M1 V
+Usi Ub        0321 C696966-A    Hi In              323 Oc F8 D
+Wright        0322 C000356-D    As Lo Ni           510 So M6 V
+Ciaconn       0327 C89A220-C    Lo Ni Wa           704 Oc F6 D M4 D
+Tenson        0329 C63257A-A    Ni Po              602 So F4 V
+Awrenek       0330 D556110-8    Lo Ni              824 So M7 D
+Rishi         0423 E101668-9    Ic Na Ni Va        822 Oc M2 V M6 D
+Mitaro        0425 B895301-D    Lo Ni              302 Oc F5 D
+Harsanyi      0427 A342468-E    Ni Po              710 Oc F9 D
+Weiji         0428 A441677-E    Ni Po              422 So F1 V
+Shorne        0523 B69A668-E  S Ni Wa              902 Oc M8 D M9 D
+Butchko       0524 E101572-B    Ic Ni Va           804 Oc M3 V M6 D
+Lancess       0526 C677430-9    Ni                 800 Oc K2 V M1 D
+Harnish       0528 D3408AD-8    De Po              120 So F0 D
+Troy          0530 C462369-B    Lo Ni              510 Oc F7 D M2 D
+Pathak        0623 D721400-B    Ni Po              310 So M1 V K4 D
+Iouo          0624 A79A96B-E  N Xb Hi In Wa        710 Oc G0 V
+Esteraj       0625 C7B7400-D    Fl Ni              301 So M1 V
+Lovich        0627 C111224-D    Ic Lo Ni           303 So M2 V
+Jafar         0721 X359100-8    Lo Ni              115 So F8 V
+Damond        0722 B450788-D    De Po              414 So F2 D M3 D
+Boracim       0723 A101232-E    Ic Lo Ni Va        203 So M1 V M9 D
+Ristel        0724 C536555-C    Ni                 705 So M5 D
+Blade         0824 C99A567-B    Ni Wa              402 Oc K8 VI
+Nait          0825 B8C7005-E    Fl Lo Ni           324 So M5 V M3 D
+Sod           0827 B852423-D    Ni Po              700 So F2 V
+Britten       0829 A99A247-E    Lo Ni Wa           500 So F0 V
+Haworth       0830 E653574-9    Ni Po              830 So F4 V M6 D

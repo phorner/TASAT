@@ -1,0 +1,37 @@
+@SUB-SECTOR:Ealriyeihiw SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aurlaouiiyl   2511 E4723H9-8                       505 As M5 V
+Us            2513 E3536K8-8                       404 As A1 II M8 VI
+Earlyehta     2514 A3001MA-D                       602 As M0 V G6 D
+Aiehiiy       2518 C6868K4-9                       310 As M4 V M6 D
+Ealasoul      2612 E3004K5-A                       313 As M0 III M6 V
+Alaieleakhur  2613 C1005JB-B                       415 As F2 V M0 D
+Roueiy        2616 E2101L6-9                       704 A2 M5 V M9 D
+Kii           2617 D2104L4-7                       514 A1 K6 IV M7 VI
+Aueaua        2619 C1002K6-C                       503 As A3 VI
+Iyesuaea      2711 A96A7M6-B                       114 As M4 V
+El            2811 C79A6MA-8                       310 As K0 V
+Aiyekhoa      2812 E7698NA-9                       114 As M2 V G6 D
+Oisiyl        2813 C4340G5-7                       304 As K8 V M7 D
+Iykhyahis     2816 B1102M6-B                       412 As M2 V M4 D
+Ileai         2819 D2215K8-A                       502 As K1 V M3 D
+Oirahea       2915 C3374JA-B                       105 As M1 V M8 D
+Ftow          2916 D96A4J8-6                       305 As M4 V M4 D
+Uiaour        2918 B4349H5-E  R                    403 As M1 V
+Taoea         3011 B4345L4-D                       123 A6 K1 V
+Aialoiiyrei   3017 D6872G6-6                       212 As M5 III M3 D
+Hoikiyhaiha   3019 C2008J9-B                       600 As G5 III
+Aeesa         3020 C9E45L7-7                       200 A2 M3 V
+Stairearl     3115 A6289J4-D                       504 As A6 VI K5 D
+Ayarlyeea     3116 D3109H8-C                       203 As M3 V
+Eiwoakharl    3117 A4277H7-C                       110 As M3 V
+Fihlastea     3119 E5951K7-7                       615 As M7 V
+Eroaewe       3219 B4106M7-A                       803 As G3 V M4 D
+Eiihea        3220 D5223J5-A                       603 As M3 V

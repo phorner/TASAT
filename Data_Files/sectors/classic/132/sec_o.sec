@@ -1,0 +1,38 @@
+@SUB-SECTOR:Aeioarlya SECTOR:Iwahfuah
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eastahrei     1740 A3751M6-A                       304 As G6 VI M7 D
+Elyo          1834 C5458M5-E                       601 As M2 V
+Irleihiy      1933 C3005J7-A                       910 As M5 IV M5 VI
+Yelrye        1934 A5684K8-C                       403 As G0 III
+Teia          1935 C8B32K9-9                       113 As M6 VI M3 D
+Ktausaorlaow  1936 X3437KC-8                       802 As M3 V M0 D
+Fteou         1937 C3215L4-9                       403 A0 M4 V
+Aiealia       1938 B4253N4-C  T                    902 As M6 V
+Aoteahou      1939 C75A4L4-8                       802 A1 G8 III
+Uihoa         2032 BAB48N8-E  T                    502 As G3 V
+Hekheaowis    2034 B9A17LB-E                       121 A6 M4 V
+Eieiata       2038 C1108K6-B                       100 As K1 V
+Steal         2039 B5558J6-B                       313 As M4 V
+Fteieihi      2040 C6612GC-8                       703 As M8 VI
+Oakuaa        2131 X3234M9-7                       400 As M3 V
+Keaeaseakh    2132 A5550N6-C                       921 As M3 III M8 VI
+Yetleaao      2138 X4493G7-8                       123 As M7 V M2 D
+Wiyiyeakh     2236 B5231M6-D                       212 As M6 V
+Kheyukh       2239 B4648H8-B  T                    901 As M3 IV
+Ouhlaolreir   2331 C8646K6-7                       903 As K2 V M1 D
+Eoi           2335 C2001KA-7                       905 As K7 V M0 D
+Heasaoilaha   2336 AAA84KC-A                       112 As M4 IV
+Iyye'         2431 C9674NA-B                       602 As G4 V
+Oisiyeis      2432 CA6A8L5-D                       500 A0 M0 V
+Khtiyi        2434 B6963L9-C  T                    304 A2 M9 V
+Oiyar         2436 C8A37KB-A                       425 As M2 V
+Kawai         2437 C6274N5-9                       320 As M1 V
+Hayayokh      2438 C5926L7-A                       904 A9 M1 IV
+Eahikha'aokh  2440 C1003G4-8                       902 As G6 III

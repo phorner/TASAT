@@ -1,0 +1,54 @@
+@SUB-SECTOR:Kou SECTOR:Dark Nebula
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+$1331 1430 0 -1 3
+$1331 1232 0 0 3
+$1232 1032 0 0 3
+$1032 0931 0 0 3
+$0931 0829 -1 -1 3
+$0931 0832 -1 0 3
+$0934 0832 -1 0 3
+$0934 0835 -1 0 3
+$0934 1135 0 0 3
+$0937 0836 -1 0 3
+$0937 1037 0 0 3
+$1037 1238 0 0 3
+$1238 1039 0 0 3
+$1039 0940 0 0 3
+$1238 1337 0 0 3
+$1337 1235 0 0 3
+$1235 1135 0 0 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Airlyrlyu'eas 0931 C538AM9-A    Hi                 104 As 
+Soukhi'       0934 E1002K6-A    Ni Va              604 As 
+Uryarili      0937 D2008J9-A    Va Na              223 As 
+Fiyhlyha'     0938 B3324KA-B    Ni Po              624 As 
+Seiyasar      0939 B4106M7-A    Ni Na              412 As 
+Ouifauhai     0940 B77A4J6-E    Ni Wa              112 As 
+Wyuyelro      1032 E6457M8-9    C5 Ag              103 As 
+Kheiei        1034 C1004L7-C    Ni Va              122 A0 
+Taleiw        1037 C1005LA-7    Ni Va              824 A5 
+Hriysahoah    1039 B6678N2-E    Ri                 604 As 
+Steisua       1135 C6849M7-D    Hi                 403 As 
+Islkhas       1232 C1003G6-7    Ni Va              603 As 
+Elefel'os     1235 A4264JA-C    Ni                 424 As 
+Teayokhlae    1238 A2106H6-E    Ni Na              504 As 
+Oakhlyye      1240 B2105K8-D    Ni                 521 As 
+Htaka Oea     1331 C4357L9-9    C5                 400 A7 
+Heaeakh       1335 E9487KB-7    C0 Ag              303 As 
+Suikhiyeisela 1337 C2009J7-E    Hi In V Na         313 As 
+Yoreah        1431 D1101G2-A    Ni                 503 As 
+Oihalyo       1434 C4337K8-9    Po Na              314 As 
+lkhoalreih    1439 C1005N9-9    Ni Va              914 As 
+Kofyoha       1440 B6962G9-D    Ni                 402 As 
+Talea         1535 C5475H9-C    Ni Ag              914 As 
+Hrollr        1536 A5566K8-B    Ni Ag              904 As 
+HrikaIr       1631 D8A67N9-B                       621 As 
+Loihuawaw     1634 B7983G7-A    Ni                 114 As 
+Alheisaus     1637 X1004K3-7    Ni Va              700 As 
+Eihkeha       1638 B6894L9-9    Ni                 402 A6 
+Tlaea'yeryel  1640 D3225M9-B    Ni Po              804 As 
