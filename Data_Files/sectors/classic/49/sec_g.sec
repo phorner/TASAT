@@ -1,0 +1,31 @@
+@SUB-SECTOR:The Corner SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1711 X846000-0    Ba Lo Ni           011 --     F3 V 
+              1712 X7A0000-0    Ba De Lo Ni        012 --     F7 V 
+Nitengixag    1720 D3557BA-B  K Ag                 605 KO     F8 V F2 V 
+              2115 X231000-0    Ba Lo Ni Po        001 --     M4 III M4 V 
+              2211 X520000-0    Ba De Lo Ni Po     002 --     M0 V 
+'r't          2320 B7969BF-F  K Hi In              600 KC     F6 V 

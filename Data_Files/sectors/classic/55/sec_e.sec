@@ -1,0 +1,52 @@
+@SUB-SECTOR:Ezh'Bremla  SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0113 X200000-0    Ba Ni Va           401 Na M9 V        
+              0118 X555000-0    Ba Ni              902 Na F4 V M0 V    
+              0211 X000000-0    As Ni An           121 Na M1 V        
+              0215 X794000-0    Ba Ni              203 Na M1 V M1 V    
+              0219 X9A6000-0    Ba Fl Ni           135 Na G5 V        
+              0311 X357000-0    Ba Ni              220 Na M7 IV       
+              0314 X86A000-0    Ba Ni Wa           204 Na G3 IV       
+              0318 X440000-0    Ba De Ni           512 Na M2 V M2 V    
+              0414 X758000-0    Ba Ni              500 Na F8 IV       
+              0415 X343000-0    Ba Ni Po           323 Na M4 V           
+              0417 X696000-0    Ba Ni              213 Na G2 V        
+              0419 X687000-0    Ba Ni              413 Na M3 II  
+              0511 X635000-0    Ba Ni              402 Na M8 V M1 D    
+              0512 X799000-0    Ba Ni Wa           502 Na M4 V            
+              0516 X8A7000-0    Ba Fl Ni           802 Na G2 IV       
+              0518 X630000-0    Ba De Ni           713 Na M1 V M3 V    
+              0613 X000000-0    As Ni              212 Na K1 II       
+              0615 X475000-0    Ba Ni              714 Na M4 V            
+              0618 X446000-0    Ba Ni              104 Na M9 VI       
+              0620 X613000-0    Ba Ic Ni           202 Na K3 III      
+Ritlie        0711 C569748-6    Lo Ni              423 Tn F6 IV  
+              0714 X595000-0    Ba Ni              604 Na F3 III      
+              0715 X867000-0    Ba Ni              704 Na M7 V        
+Dinchya       0717 D744578-6    Ag Ni              904 Na G8 V        
+Quae          0811 B68A975-C  N Hi In Ri Wa        201 Tn M8 IV       
+Ezh'bremla    0812 AAA5AC8-D  D FL Hi In Cp        302 Tn F8 V        
+Qleenba       0816 C554532-9    Ag Ni              501 Na M6 III      

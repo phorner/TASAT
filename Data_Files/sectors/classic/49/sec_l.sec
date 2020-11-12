@@ -1,0 +1,66 @@
+@SUB-SECTOR:Island Fringe SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Luk'rr'koor   2525 E244621-B  K Ag Ni              612 Kk     K1 V 
+Keekubaarika  2528 C868675-C  O Ag Ni Ri           811 Kk     F0 V M0 D M3 D 
+'kreeki       2529 C547232-D  O Lo Ni              302 Kk     F7 V M3 D 
+Xr!kreriit    2622 C566788-F  K Ag Ri              133 Kk     F1 V M7 D 
+!xaatxu       2623 C243557-F  K Ag Ni Po           203 Kk     F0 V M3 V 
+'kr'k         2627 C210885-F  K Na                 510 Kk     F2 V M0 D 
+Kookuukeek    2628 C342656-E  K Ni Po              502 Kk     M2 V M4 D 
+Naniin'nee    2630 C54389A-E  O Po                 612 Kk     F5 V 
+N!ak          2721 D554355-8  K Lo Ni              702 Kk     F3 V  
+Uurrur        2722 C8495AF-B  K Ni                 103 Kk     M3 V 
+Naateerr      2724 C8B48A9-F    Fl                 723 Kk     G5 V
+Kirr'uuk      2725 E434365-8    Lo Ni              404 Kk     M7 V M2 V 
+Nukeera       2727 C413457-B  O Ic Ni              801 Kk     M8 V 
+Kkeek!axaa    2728 B869677-D  O Ni Ri              101 Kk     F0 V 
+Kak't'bee     2729 C24188C-F  K Po                 323 Kk     F3 V
+Geep!k        2730 X53A669-4    Ni Wa              803 Kk     M0 V 
+Tl!geer       2821 E547666-B    Ag Ni              100 Kk     F1 V 
+N'luut        2822 B412263-F  K Ic Lo Ni           901 Kk     M7 V 
+Kurrooru      2825 C200655-E  K Na Ni Va           802 Kk     G0 V M3 D 
+Griigrul'     2826 C255643-E  K Ag Ni              432 Kk     F3 V M4 D 
+Raakoo        2827 B6A5679-F  O Fl Ni              302 Kk     F7 IV M4 V 
+Kreekelee     2828 B7C3665-F  K Fl Ni              203 Kk     G1 III 
+L!oomiixgruu  2921 E140200-B    De Lo Ni Po        500 Kk     F2 V 
+Iir'li        2926 C797003-A  K Lo Ni              318 Kk     K2 V M1 V 
+Enireerakr    2929 C555759-D    Ag                 601 Kk     F8 V M5 V 
+Krikooxi      2930 B584567-D  O Ag Ni              603 Kk     G1 V M6 D
+Kikreghar     3022 C523531-D  K Ni Po              502 Kk     G7 V 
+Xw'krara      3025 B40099D-F  K Hi Na Va           305 Kk     F0 D M1 D 
+G'koooogr     3026 A58889B-F  K Ri                 901 Kk     F8 V M6 D
+Kk'ren        3122 C76A9BB-D  K Hi In Wa           504 Kk     F9 V
+Koon!rruu     3123 D568983-F  K Hi In              404 Kk     F9 V 
+Nookripegeg   3125 D487A97-D  O Hi In              514 Kk     F0 V M1 D
+Laauruu       3126 D231656-B    Na Ni Po           804 Kk     G9 V M6 V
+Nooki         3127 D8A9466-C  O Fl Ni              404 Kk     K0 V M4 V 
+Teghii        3129 C8B2384-A  K Fl Lo Ni           504 Kk     K5 V 
+Kr!!keek      3130 C767511-C  K Ag Ni              404 Kk     F3 V 
+Gheetaakra    3223 X878523-5    Ag Ni              213 Kk     F7 V 
+Kraarur       3225 B638589-F  K Ni                 104 Kk     M7 V M6 D 
+Xin'keei      3226 C648424-F  K Ni                 531 Kk     F2 V M6 D 
+Ghikrooxkip   3227 B242669-D  K Ni Po              402 Kk     G6 V 
+Rooxkxt'ip!!  3228 E884000-8  K Ba Lo Ni           122 Kk     F3 V 

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Chazhdar  SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ziare         1721 A796672-C  N Ag Ni              514 Tn G4 V        
+              1724 X200000-0    Ba Ni Va           124 Na F4 V        
+              1729 X556000-0    Ba Ni              425 Na M6 V        
+              1827 XA6A000-0    Ba Ni Wa           112 Na K3 V        
+              1926 X344000-0    Ba Ni              824 Na M7 V        
+              2023 X5A7000-0    Ba Fl Ni           100 Na M3 III      
+              2024 X341000-0    Ba Ni              222 Na F3 IV       
+              2030 X000000-0    As Ni              702 Na M5 V        
+Chazhdar      2125 A86795B-C  A Hi In Cp         A 622 Na G2 V        
+              2221 X9C8000-0    Ba Fl Ni         A 823 Na F2 III      
+Rathaus       2222 A100559-D  R Ni Va              513 Fj M5 V        
+              2228 X365000-0    Ba Ni              624 Na F6 V        
+Sazhefr       2321 E100300-8    Lo Ni Va           321 Na M7 V        
+Norrway       2322 CAA7652-7    Fl Ni              513 Fj F8 V        
+Fynlan        2324 A764637-A  N Ag Ni              902 Fj M4 V        
+              2327 X511000-0    Ba Ni Po           603 Na M2 V K4 V    
+              2426 X544000-0    Ba Ni              322 Na G3 IV       

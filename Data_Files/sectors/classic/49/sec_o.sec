@@ -1,0 +1,65 @@
+@SUB-SECTOR:Shore Barrens SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ookrem!!      1734 C768631-E  K Ag Ni Ri           720 Kk     F3 V 
+Ghinuleekik   1740 E380221-B  K De Lo Ni           716 Kk     G3 V M5 D
+Ikaarr        1835 A87A310-F  K Lo Ni Wa           100 Kk     F9 V 
+Kraraamioor   1838 C528522-D    Ni                 800 Kk     M5 V M5 D 
+'nakr!        1839 C431232-C  K Lo Ni Po           200 Kk     G2 IV 
+Kr'eeraat     1933 C346200-D  K Lo Ni              519 Kk     F4 V M1 D F6 V M7 D
+Kaeenolengat  1936 B896524-D  O Ag Ni              922 Kk     K8 V  
+Kuitemam't    1937 C786300-E  O Lo Ni              702 Kk     F4 V 
+Ikuuk         1939 D77879D-E  K Ag                 216 Kk     F7 V M7 D M7 D 
+K'leereek'r   1940 C5649AB-F  K Hi In              700 Kk     M8 V M6 D 
+Ekegaa        2031 C68669A-B  K Ag Ni Ri           713 Kk     F8 V M2 D 
+!tuuk         2033 D585300-B  O Lo Ni              405 Kk     F8 V M3 D 
+Gn'tur        2034 E548563-A  K Ag Ni              234 Kk     F1 V M5 D 
+Taamoo        2036 B87989A-F  K                    704 Kk     G3 V M6 D 
+K'eekeloorr   2133 B100473-F  K Ni Va              901 Kk     M1 V 
+Keek'ngkrii   2135 C110435-D  K Ni                 214 Kk     M0 V 
+Urr'rroo'     2132 B642534-F  K Ni Po              213 Kk     K0 V
+Tulee         2137 D745512-9  K Ag Ni              812 Kk     F7 V M3 D 
+Gn'rr!!l      2139 D332665-C    Na Ni Po           900 Kk     M2 V 
+Gzaxxreerr    2231 E344410-C  K Ni                 810 Kk     F5 V 
+Xitur'krooxa  2232 C77A720-E  K Wa                 103 Kk     K2 V 
+Iker          2233 C638200-B  K Lo Ni              300 Kk     M3 III
+Ooxukuur      2234 A584352-D  K Lo Ni              314 Kk     F6 V M2 D 
+X!t'nuu       2235 D400166-C    Lo Ni Va           603 Kk     M3 III 
+Raambaama     2236 C300356-A  K Lo Ni Va           503 Kk     K3 V 
+Ur'nek'r      2238 E140567-9    De Ni Po           904 Kk     M5 V 
+Gh!n't        2239 C755130-D  K Lo Ni              713 Kk     F0 V
+Kii'!p        2240 C240978-E  K De Hi In Po        605 Kk     M1 V 
+Nikrikrung    2332 A375842-F  K                    411 Kk     F0 V 
+Gnignuu       2336 B7B4798-F  K Fl                 702 Kk     M3 V M3 D 
+Ghuriirr      2338 C110686-D  K Na Ni              902 Kk     M4 V M4 D 
+Aak'kreekoo   2339 B555646-F  O Ag Ni              413 Kk     F9 V M8 V 
+Iixeerririgr  2340 C463798-F  O Ag Ri              804 Kk     K1 V 
+Rikrir'k      2432 C648611-F    Ag Ni              111 Kk     M3 V 
+Eexariixam    2434 B213545-F  O Ic Ni              308 Kk     M7 V M3 D 
+Ekukriru      2435 B000854-E  K As Na              404 Kk     F9 D 
+Truk'         2436 D979632-D    Ni                 612 Kk     F1 V 
+Neeiiteek     2437 C665545-B  K Ag Ni              608 Kk     K8 V M3 D 
+Lukr'gr'ka    2439 E441572-9  K Ni Po              514 Kk     G6 V 
+Miik'tax      2440 D355543-E  K Ag Ni              203 Kk     F1 V M0 D 

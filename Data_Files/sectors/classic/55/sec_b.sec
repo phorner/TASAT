@@ -1,0 +1,55 @@
+@SUB-SECTOR:Ziebell   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Darkl         0901 X94A000-0    Ba Ni Wa           112 Na M6 V        
+Lofraits      0905 C967691-7    Ag Ni              524 Na M0 V        
+Shitrav       0907 C511427-8  M Ic Ni              702 Na M2 V M2 V    
+Zhobard       0910 C6A6531-7    Ag Fl Ni           400 Tn M1 V M2 V M3 V
+Yieleba       1002 C766310-5  M Lo Ni              310 Na M7 V        
+Capistra      1009 C8B7000-0    Ba Fl Lo Ni        411 Na G8 V M5 V    
+Izmali        1101 X320000-0    Ba De Ni           804 Na M3 V M0 V    
+Lavelier      1104 A777530-B  N Ag Ni              702 Ed G6 V        
+Chaviets      1107 B352553-C  N Ni Po              220 Ed M9 V  
+Mietle        1110 C987659-9    Ri                 423 Tn M6 V        
+Jdedlesi      1201 X98A675-1    Na Ri Wa           723 Na M7 V M9 V    
+Monteselo     1203 D513264-7    Ic Lo Ni           512 Na G3 V        
+Senjakr       1205 B867876-B    Ag Ri              103 Ed M8 V        
+Piza          1207 B000357-9  M As Lo NI         R 500 Ed F0 V        
+Dubrovnik     1209 A7566B9-B  N Lo Ni              912 Tn G0 V M7 V    
+Milan         1305 B343679-8    Po                 504 Ed M8 V M1 V    
+Shrek         1310 C9678A5-B    Ri Ni              202 Tn M2 III      
+Quasi         1401 B795484-7    Ni                 414 Ed M1 V M6 V    
+Iachav        1402 B8A7652-A  N Ag Fl Ni           213 Ed G2 V        
+Ghent         1404 B753889-6  M Po                 524 Ed M6 V        
+Ziebell       1406 AA6AA52-C  A Hi In Wa Cp        223 Ed G4 V        
+Osterlitz     1407 C787754-5    Ag Ri              425 Ed M7 II       
+Mingun        1410 C410200-B    Lo Ni              613 Tn M9 V        
+Yiedlesi      1504 E302225-6    Ic Lo Ni Va        122 Na K4 V        
+Pabetsian     1507 B75A200-A  M Lo Ni Wa           201 Ed M8 IV       
+Charzdar      1601 B4856BB-6    Ag Ni              410 Ed F3 V        
+Adlie         1602 C521750-7    Na Po              301 Ed K6 V        
+Marproval     1604 E567210-8    Lo Ni              123 Ed F7 V        
+Dar           1606 B400567-D  R Na Ni Va         A 504 Ed M2 V        
+Oia           1609 B636330-C  N Lo Ni              623 Tn M0 V M2 V    

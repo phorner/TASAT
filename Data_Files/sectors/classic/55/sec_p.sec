@@ -1,0 +1,40 @@
+@SUB-SECTOR:Zhdoekl  SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2532 X9A6000-0    Ba Fl Ni           804 Na M4 V        
+              2634 XA67000-0    Ba Ni              722 Na G2 V        
+              2732 X566000-0    Ba Ni              312 Na F6 V        
+              2833 X000000-0    As Ni              501 Na M2 III      
+              2835 X777000-0    Ba Ni              622 Na G3 V        
+              2838 X445000-0    Ba Ni An           224 Na F7 V M3 D    
+              2839 X234000-0    Ba Ni Po           912 Na M1 V        
+              2933 X430000-0    Ba De Ni Po        602 Na F3 IV       
+              2937 X325000-0    Ba Ni              404 Na K2 III      
+              3032 X543000-0    Ba Ni Po           512 Na M2 III      
+              3035 X787000-0    Ba Ni              700 Na F4 II       
+              3133 X8C4000-0    Ba Fl Ni           303 Na M1 V M3 V    
+              3136 X576000-0    Ba Ni              113 Na G7 III      
+              3233 X302000-0    Ba Ic Ni Va        902 Na K3 V        
+              3240 X334000-0    Ba Ni              414 Na F6 V 

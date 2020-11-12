@@ -1,0 +1,57 @@
+@SUB-SECTOR:Snowballs SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zarrdaerr     0114 E466856-2  C Ri                 603 Va     F0 V 
+Gvokokhksal   0116 B232522-8    Ni Po              202 Va     M2 V
+Kfurrkaekhs   0120 D553577-4    Ag Ni Po           824 Va     F0 V M1 V M7 V M3 D
+Tokaax        0212 C847753-C  K Ag                 100 KO     G8 V 
+Kregikr!      0213 D985456-B  O Ni                 903 KO     F6 V 
+Lluknoers     0216 C324455-7  C Ni                 601 Va     M6 V 
+Invoegh       0219 E989878-4  C                    722 Va     F7 V 
+Dhaegvananul  0220 E5349A9-9  C Hi In              203 Va     F9 V 
+Utakeerin     0311 D759751-F  K                    804 KO     F3 V M7 D 
+Kak!!rr       0313 C511565-F  K Ic Ni              403 KO     M5 V 
+Kritur        0314 A445223-F  K Lo Ni              502 KO     F6 V 
+R!rat         0315 D400114-C  K Lo Ni Va           315 KO     M3 V F6 V M1 D 
+Mighur'r      0316 C130322-E  K De Lo Ni Po        701 KO     K9 V 
+Dovae         0320 C425541-6    Ni                 702 Va     M1 V M2 D 
+Kamookr       0411 D222534-D  K Ni Po              706 KO     M6 V M1 D
+Kughaat!      0412 E6A37CC-A    Fl                 210 KO     F8 V 
+Ksorrgtith    0418 D677555-5    Ag Ni              102 Va     G0 V 
+Uethaghakue   0419 B310555-C  G Ni                 803 Va     M3 V
+Ksuksoukfen   0420 CA8A343-6  G Lo Ni Wa           106 Va     F6 V M0 D 
+Ifatsousokhs  0519 C24368C-4    Ag Ni Po           901 Va     F1 V 
+Zongdhaeghz   0520 B596412-A  G Ni                 202 Va     M7 V 
+Iktuat        0613 C8959BB-D  K Hi In              801 KO     F6 V 
+Garrut        0616 C839555-B    Ni                 902 KO     G4 V 
+Gaedho        0619 B777001-5    Lo Ni              333 Va     F0 V M6 D 
+Raedhkfaeng   0620 B4499BD-A    Hi In              416 Va     F2 V M5 D M3 D 
+Lupok         0715 D346662-B  K Ag Ni              704 KO     F0 V 
+Zougedor      0717 E553667-2  C Ag Ni Po           610 Va     K2 V 
+Kougakir      0718 B8B4000-8  G Ba Fl Lo Ni        801 Va     M5 V 
+Naefae        0719 C947202-3    Lo Ni              103 Va     F7 V 
+R'rmaaeeg     0814 B2408B9-F  O De Po              213 KO     F9 V 
+Rukr'         0815 C444632-F  K Ag Ni              612 KO     F8 V M3 D 
+Rarakh        0818 C467442-9    Ni                 312 Va     K0 V 

@@ -1,0 +1,64 @@
+@SUB-SECTOR:Above Corner SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1701 X523000-0    Ba Lo Ni Po        004 --     K3 V 
+Aanuureerr!k  1704 C7787BC-F  K Ag                 801 KO     M4 V M7 D
+Kritiiruung   1705 C100223-C    Lo Ni Va           402 KO     M5 V M1 V 
+R'krugh       1707 BA8A203-F  O Lo Ni Wa           900 KO     K0 V M3 D 
+Booghiir      1708 C335677-D  O Ni                 101 KO     K3 V M5 D
+Reekeex'      1709 E410100-8  K Lo Ni              900 KO     F6 V M8 D 
+Lexkooga      1710 E550130-C    De Lo Ni Po        613 KO     F2 V M0 D 
+              1801 X989000-0    Ba Lo Ni           005 --     K8 V
+              1803 X548000-0    Ba Lo Ni           004 --     M8 V  
+Neghoorrik    1806 E3307CE-F  K De Na Po           101 KO     M5 V 
+Teetaarr'ng   1809 C4429BB-F  K Hi In Po           212 KO     F9 V 
+              1902 X100000-0    Ba Lo Ni Va        002 --     M7 V
+              1903 X697000-0    Ba Lo Ni           002 --     F0 V M2 D 
+              1904 X210000-0    Ba Lo Ni           014 --     M5 II 
+              2003 X536000-0    Ba Lo Ni           024 --     M0 III G8 V 
+              2004 X439000-0    Ba Lo Ni           002 --     M0 V 
+              2006 X566000-0    Ba Lo Ni           004 --     F4 V 
+              2007 X987000-0    Ba Lo Ni           001 --     F1 V M8 D 
+              2008 X7B3000-0    Ba Fl Lo Ni        000 --     F8 V 
+              2104 X300000-0    Ba Lo Ni Va        012 --     M1 V M7 D 
+              2105 X9A4000-0    Ba Fl Lo Ni        003 --     F9 V 
+              2107 XAC1000-0    Ba Fl Lo Ni        026 --     F4 V M2 D 
+              2108 X9B3000-0    Ba Fl Lo Ni        013 --     M2 V M3 D 
+              2109 X535000-0    Ba Lo Ni           022 --     K1 II M1 V 
+              2203 X100000-0    Ba Lo Ni Va        001 --     G2 V
+              2204 X868000-0    Ba Lo Ni           004 --     F6 V
+              2206 X793000-0    Ba Lo Ni           001 --     G2 V 
+              2207 X494000-0    Ba Lo Ni           005 --     G8 V M0 D 
+              2209 X000000-0    As Ba Lo Ni        001 --     F6 IV M6 V 
+              2301 X768000-0    Ba Lo Ni           012 --     F5 V 
+              2302 X568000-0    Ba Lo Ni           004 --     F2 V 
+              2303 X683000-0    Ba Lo Ni           003 --     F2 V
+              2304 X110000-0    Ba Lo Ni           002 --     M4 V 
+              2306 XA88000-0    Ba Lo Ni           003 --     F2 V M2 D 
+              2308 X685000-0    Ba Lo Ni           01: --     F8 V M2 D M5 D
+              2309 X786000-0    Ba Lo Ni           003 --     K0 V 
+              2401 X220000-0    Ba De Lo Ni Po     002 --     F9 V 
+              2402 X655000-0    Ba Lo Ni           004 --     F4 V M5 D 
+              2403 X457000-0    Ba Lo Ni           013 --     F2 V 

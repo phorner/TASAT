@@ -1,0 +1,47 @@
+@SUB-SECTOR:Shallow Depths SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hkiixghur'r   1034 A786488-F  K Ni                 121 KC     F1 V M3 D 
+Gzeegr!'ng    1135 E79A004-7    Lo Ni Wa           100 KC     F4 V
+Xiteekreexk   1335 B573124-E  K Lo Ni              714 Kk     M0 V 
+Eekuuing      1337 C401586-D  K Ic Ni Va           314 Kk     M8 V 
+Tuurrengii    1339 C875102-E  K Lo Ni              800 Kk     F3 V 
+Uukeker       1432 C8B0100-C  K De Lo Ni           503 Kk     M7 V M4 V
+Legnaikel'm   1433 B6A0000-D  O Ba De Lo Ni        810 Kk     M3 V 
+Ilurgh'       1434 B6657BA-F  K Ag Ri              313 Kk     F5 V 
+Kioor'rkoor   1436 A468120-F  K Lo Ni              500 Kk     F6 V M5 D 
+Rrooniix'ter  1437 D464003-B  K Lo Ni              600 Kk     F0 V 
+X'kuukin      1439 A765A98-F  O Hi In              101 Kk     G0 V M8 D 
+Krumatero     1531 C696356-C  K Lo Ni              502 Kk     M1 V 
+Kk!tekraa     1532 D768453-B  K Ni                 311 Kk     F4 V M4 D 
+Kigh!         1533 C510532-E  O Ni                 502 Kk     M5 V 
+Kreeirrik     1534 A510259-F  K Lo Ni              100 Kk     M4 V 
+Leelaatarar   1535 C877300-B  K Lo Ni              624 Kk     F3 V 
+Etiim         1536 C441400-F  K Ni Po              504 Kk     F3 V M8 D 
+Keengirik     1539 C978625-B  K Ag Ni              802 Kk     F5 V 
+K'rruuegni    1631 C88A769-F    Ri Wa              221 Kk     G9 V M0 D
+Krukiit'gr'l  1634 C559300-C  K Lo Ni              404 Kk     F6 V 
+Inegii        1635 C8B3232-E  K Fl Lo Ni           204 Kk     M6 V M7 D 
+Xtool!'neek   1636 C978530-D  O Ag Ni              505 Kk     F3 V

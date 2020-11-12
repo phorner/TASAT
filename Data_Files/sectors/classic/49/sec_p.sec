@@ -1,0 +1,65 @@
+@SUB-SECTOR:Alsnias SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Exwuk         2531 D400227-B  K Lo Ni Va           103 Kk     M0 V
+Greex'l'ng    2533 C89A788-F    Wa                 112 Kk     F1 V 
+Kikkuur       2534 B552876-E  O Po                 214 Kk     F9 V M3 D 
+Xaraam        2536 B522766-E  K Na Po              805 Kk     M7 V M6 D 
+Gn!kugr'laat  2538 E452988-F  K Hi In Po           813 Kk     F6 V 
+Kr'iirul      2635 C332410-E  O Ni Po              304 Kk     M2 V M4 D 
+T!rrroogaur   2639 E0007BB-D  K As Na              300 Kk     M6 V 
+Gnakukuneti   2640 E676324-B    Lo Ni              502 Kk     G8 V 
+Giit'gh'k     2731 C140431-E  K De Ni Po           413 Kk     F2 V 
+Kteexktiluri  2732 D758000-A  O Ba Lo Ni           611 Kk     F0 V 
+K!'kuutak'    2736 E67A8DE-D    Wa                 303 Kk     F0 V
+'kr'k!kruror  2738 B69A556-E  K Ni Wa              734 Kk     F8 V M4 D  
+Etiikraa      2740 C598776-F  O Ag                 716 Kk     F7 V M8 D M1 D 
+Re'           2831 C581ABB-F  K Hi In              404 Kk     M7 V M3 D 
+Laarxti       2833 C9B6000-A  K Ba Fl Lo Ni        925 Kk     F9 V 
+Kraanuri      2834 C333545-C    Ni Po              513 Kk     G5 III M1 V 
+K'ing'        2835 C340899-E  O De Po              105 Kk     F0 V M6 D 
+Hkegr!r       2837 D9B6796-A  K Fl                 400 Kk     M4 V 
+Gr'gag        2839 B74A200-C  O Lo Ni Wa           304 Kk     F5 V 
+Ungukar       2840 C575699-E  K Ag Ni              201 Kk     F0 V M8 D
+Kuug!tukel't  2931 C766ABC-F  K Hi In              500 Kk     F0 V M6 D 
+Kiikiitaar    2933 B343610-F  O Ag Ni Po           602 Kk     M6 V 
+K'an          2934 X200657-2  K Na Ni Va           700 Kk     F9 V 
+Gn'rr'rrxwe   2936 E321642-D  K Na Ni Po           701 Kk     M6 V 
+Ut'gh'aar'n   2937 B88A698-F  O Ni Ri Wa           920 Kk     F0 V M1 D 
+K'x!!         2938 C442478-E    Ni Po              302 Kk     G2 V M2 D 
+Kierik        2939 D7A5500-9  K Fl Ni              400 Kk     M1 III G7 D 
+Gaanughol!r   3031 E20077B-C  K Na Va              320 Kk     F2 V 
+Kekuung       3035 B3347B9-F                       204 Kk     K0 V M5 V 
+Grer!m'       3038 C96A364-C    Lo Ni Wa           327 Kk     F2 V M0 D 
+Keenuunkri    3135 D000300-8  O As Lo Ni           511 Kk     K3 V 
+Gnil'         3137 B304865-F    Ic Va              502 Kk     M0 V M2 D 
+Ukreeta'kr    3231 D412A84-B    Hi Ic Na           616 Kk     F7 V M7 D 
+Paeemugn!'    3233 C78A561-F  K Ni Wa              52; Kk     K6 V M8 D M7 D 
+Eeg'gnegn'n   3234 C474864-F  K                    520 Kk     F4 V  
+Eegr'rrekr    3235 C88A001-B  K Lo Ni Wa           405 Kk     F2 V 
+R'r't         3236 E788648-A    Ag Ni Ri           308 Kk     M1 V M3 D 
+!gooxkxk!x    3237 C100778-D  K Na Va              910 Kk     F1 V 
+Releloon'k    3239 C423A97-D  K Hi In Na Po        404 Kk     F0 V M5 D 
+Hkuk!r!!      3040 C420551-E  K De Ni Po           302 Kk     M4 V M7 D 

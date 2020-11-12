@@ -1,0 +1,49 @@
+@SUB-SECTOR:Fjords   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Boernholm     2522 A355212-C  N Lo Ni              713 Fj M7 V        
+Blekinge      2523 C6A7535-B  N Ag Fl Ni           314 Fj G4 V        
+Schwienfort   2525 A000465-C  N As Ni Po           512 Fj K2 V        
+Faroe         2625 B200588-C  N Ni Va              513 Fj M4 V        
+Leidham       2627 B351354-D  R Lo Ni Po           714 Na F3 V        
+Karlsberg     2722 C687213-9 N  Lo Ni              911 Fj M2 V M2 V    
+Narke         2724 CA8A675-B N  Ni Ri Wa           920 Fj M6 V        
+Lappland      2726 C675331-6    Lo Ni              303 Fj M7 V M3 D    
+Eriksborg     2823 C7A8856-9  N Fl                 115 Fj F2 IV       
+Nordica       2825 AAA7AA7-D  A Fl Hi In           402 Fj G6 V        
+Scania        2827 C220AA5-C  N De Hi In Na Po     125 Fj M4 V            
+Noerwald      2830 E857352-5    Lo Ni              Na  M4 V            
+Iceland       2922 B41379C-C  N Ni Ic Po           401 Fj M2 V        
+Olafshold     2924 C555766-9  N Ag Ni              114 Fj F6 V        
+Gottoland     2927 A363735-B  N Ni Ri              212 Fj M2 III      
+Greenland     2928 A776668-8  N Ni                 503 Fj F7 V        
+Svenland      3022 A667754-D  D Ag Ri Cp           824 Fj G3 V        
+Neiderhiem    3025 E754699-5    Ag Ni              623 Fj F4 IV       
+Anderstien    3124 CA6A223-9  N Lo Ni Wa           900 Fj G1 V        
+Troms         3125 C250622-B  N Lo Ni              401 Fj M3 V        
+Icy Cold      3128 C523576-8    Ni Po              611 Tl F6 V K3 V    
+Dark Tower    3129 A556566-B  N Ag Ni              702 Tl M9 V        
+Bruenstadt    3223 A445320-B  N Lo Ni              424 Fj M2 IV       
+Afar          3230 D6A7501-2    Fl Ni              622 Tc G2 V        

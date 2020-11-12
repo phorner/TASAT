@@ -1,0 +1,57 @@
+@SUB-SECTOR:Upward Void SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aevueghztoz   0102 E958103-3    Lo Ni              413 Va     F3 V 
+Egkhunngus    0201 C000534-A    As Ni              906 Va     M0 V M0 D 
+Ghugzorr      0202 C30068D-E  K Na Ni Va           220 KO     M3 V 
+Nuumir        0203 B000650-F  O As Na Ni           302 KO     M6 V
+!!gr'iikang   0204 C1209B7-F  K De Hi In Na Po     902 KO     F1 V
+Lilil         0205 E300657-A    Na Ni Va           104 KO     G1 V 
+Aruughop      0210 C1309CB-F  K De Hi In Na Po     400 KO     K9 V 
+Khoegnang     0301 C562595-6  C Ni                 405 Va     K6 V 
+Ur!nuunguur   0306 C140100-B  K De Lo Ni Po        614 KO     F1 V M7 D
+Gniku         0309 C440766-F    De Po              500 KO     F5 V 
+K'grghu       0402 C545364-E    Lo Ni              902 KO     M5 V 
+Eekrikixik    0403 D300346-A  K Lo Ni Va           102 KO     G1 V 
+Nane          0405 C320362-D  K De Lo Ni Po        104 KO     M0 V M5 D 
+Rroonigirim   0406 E566747-A    Ag Ri              822 KO     F8 V M1 D 
+Gvuksoul      0501 B536213-9  G Lo Ni              613 Va     K0 V 
+Urriit'rr     0503 B350434-D  O De Ni Po           812 KO     F7 V
+Ku!!kighaal   0504 A000320-D  K As Lo Ni           103 KO     F9 III K4 V  
+Gnigh'kr'guu  0505 C47456A-C  K Ag Ni              604 KO     F9 V M6 D 
+Krix!l!'r'p   0506 C666344-C  K Lo Ni              901 KO     F1 V 
+Lakrux        0508 C547555-E    Ag Ni              403 KO     F7 V M7 D 
+K'gaar        0509 C743233-D  K Lo Ni Po           802 KO     F0 V 
+Akukrureb     0510 C663565-F  O Ag Ni              943 KO     F0 V M5 D 
+Segvuer       0601 A768644-B  G Ag Ni Ri           301 Va     M2 V
+Vokskhon      0602 A689535-A  C Ni                 725 Va     F5 V M3 D 
+Grigmiir'm    0606 C9AA776-D  O Fl Wa              602 KO     M6 V 
+X!'kib!grikr  0704 C655000-B  O Ba Lo Ni           203 KO     F1 V 
+N'kaxk        0710 B347566-D    Ag Ni              823 KO     G1 V 
+Kua           0802 C8746A6-F    Ag Ni              322 KO     F3 V M0 D 
+Gniikib       0805 X6A0462-0    De Ni              305 KO     M3 V 
+Kur'gh!l      0806 B776312-E  K Lo Ni              314 KO     G0 V M4 D 
+Gn!r'kk'ok    0807 E223000-A  K Ba Lo Ni Po        902 KO     M0 V
+L!grikr't     0808 E100005-8    Lo Ni Va           314 KO     M3 V M7 D 

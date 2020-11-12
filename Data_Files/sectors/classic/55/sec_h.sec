@@ -1,0 +1,65 @@
+@SUB-SECTOR:Iplzhdr   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Frezhdr       2512 C6E696E-5    Hi In              113 Zh M6 IV       
+Plensfozh     2513 B797653-B  M Ag Ni              914 Zh M4 V           
+Vlel          2515 E1103A7-A    Lo Ni              523 Zh M7 V        
+Chadzhebl     2517 B6766A7-9    Ag Ni              413 Zh M3 V        
+Iplmiek       2611 B100223-D  R Lo Ni Va           902 Zh M8 V F1 V    
+Bridapabr     2612 B463466-7    Ni                 812 Zh K3 V        
+Fletzlich     2613 B275658-B    Ag Ni              524 Zh M3 V M3 V    
+Zhedebril     2618 A787ABC-C  M Hi In              214 Zh G3 V        
+Dervish       2619 B535403-A    Ni                 403 Zh M9 V        
+Iash          2620 B656464-6    Ag Ni              424 Zh F6 V        
+Kefints       2711 A30089C-D  M Na Va              824 Zh K3 V        
+Bradle        2713 C453496-6    Ni Po              604 Zh G1 V        
+Flestal       2714 E3378B8-8    Ni                 220 Zh F8 V M7 V    
+Qiemisod      2716 E693336-5    Lo Ni              924 Zh M2 V        
+Dlebla        2717 E986340-5    Lo Ni              812 Zh F6 V        
+Chtolshte     2719 B4485A7-C M  Ag Ni              904 Zh M5 V        
+Kretsevli     2811 C5A0578-A    De Fl Ni           223 Zh M0 V K1 V    
+Beshpri       2813 B456213-9    Lo Ni Po           323 Zh K5 V        
+Batsbevel     2815 C422965-9    Hi In Na Po        203 Zh M8 V        
+Vladrkrie     2818 B331444-9    Ni Po              915 Zh M9 V        
+Itlieflat     2820 A68A467-C  M Ni Wa              400 Zh G9 V        
+Ezchta        2915 B200783-A    Na Va              212 Zh M7 V M0 V    
+Iplzhdr       2916 A86A986-D  M Hi In Wa Cp        101 Zh G4 V        
+Krienzh       3011 B525413-8    Ni                 204 Zh K3 V        
+Ietla         3013 B545362-7    Lo Ni              505 Zh M2 V        
+Ekaedienz     3014 B512624-9    Ic Na Ni           803 Zh K3 V        
+Iaffez        3018 A0005A7-C  M As Ni              603 Zh K3 IV       
+Tliashr       3019 C7A7544-8    Fl Ni              404 Zh F6 V        
+Ipilekre      3111 C98A656-9    Ni Ri Wa           900 Zh M7 V        
+Majflail      3112 A6A6666-C  M Fl Ni              703 Zh G8 V        
+Chotsdlor     3114 D687551-8    Ag Ni              212 Zh F2 V M1 V    
+Stovli        3117 CA85653-A    Ag Ni              504 Zh M5 V        
+Chalkozh      3118 A867519-B    Ag Ni              910 Zh F8 V        
+Kriechstie    3211 E467799-3    Ag                 120 Zh G2 V        
+Lapieflt      3213 E454356-8    Lo Ni              101 Zh M3 V        
+Revzdier      3215 A776653-9  M Ag Ni              901 Zh G1 IV       
+Chatekl       3216 C3309A8-B    De Hi In Na Po     103 Zh K2 V        
+Driefbranch   3218 A7B6512-B  M Fl Lo Ni           804 Zh M6 V        
+Sheplazh      3219 B846754-7    Ag                 201 Zh M8 V        
+Tsialsier     3220 A230553-D  D De Lo Ni Po        604 Zh M3 V        

@@ -1,0 +1,58 @@
+@SUB-SECTOR:Tash   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Itliefat      1701 C540344-9    De Lo Ni Po        524 Ed M3 V        
+Belchansh     1704 E955756-6    Ag Ni              803 Ed F8 V        
+Tyliea        1707 C567556-A    Ag Ri              305 Ed G2 V        
+Nienz         1710 C310315-7    Lo Ni              304 Tn M3 V        
+Saminpa       1802 B426555-D  R Ni                 503 Ed M8 IV       
+George        1807 B301588-C  N Ic Ni Va           604 Ed M2 V        
+Wavel         1809 A867955-C  N Hi In              213 Tn M3 V        
+Salvator      1902 C83A311-A    Lo Ni Wa           504 Ed M6 V        
+Pummerin      1903 B445634-8    Ag Ni              221 Ed M5 V        
+Dolens        1904 B6759CA-B  A Hi In              410 Ed M3 IV       
+Tsar          1905 D5449DB-5    Hi In              802 Ed F9 V        
+Geert         1907 B655400-B    Ni                 422 Ed M2 V        
+Sigismund     2003 B554730-9    Ag                 512 Ed M9 V F2 V    
+Bongdeoksa    2005 B535463-A    Ni                 101 Ed K2 III      
+Notre Dame    2006 C8B69A7-A    Fl Hi In           922 Ed F7 V M1I V   
+Cha           2101 B6437C8-9  M Po                 403 Zh G3 IV       
+Gloriosa      2106 A9EA573-D  D Fl Ni Wa           100 Ed F4 V        
+Vie           2110 E210300-9    Lo Ni              714 Na M2 III      
+Tiadesi       2202 B87659A-B  M Ag Ni              312 Zh M3 IV       
+Lutine        2205 B101303-C  N Ic Lo Ni Va        114 Ed F2 III      
+Nexrabl       2206 C856AE9-9    Hi In              103 Ed M8 V        
+Tash          2207 A88A954-D  A Hi IN WA Cp        504 Ed M6 V        
+Dlebavien     2210 E375215-5    Lo Ni              713 Na M9 V M6 D    
+Nebadle       2304 C86A679-8    Ni Ri Wa           214 Zh M5 V        
+Viesiensh     2309 E66796B-7    Hi In              123 Zh M3 V        
+Chatsie       2310 B73A658-B  M Ni Wa              200 Zh M4 V            
+Elba          2401 C665543-6    Ag Ni              800 Zh M4 V            
+Neenjtsi      2404 B557742-8    Ag                 405 Zh F2 IV       
+Ekr           2405 D638ABB-9    Hi In              302 Zh M6 V        
+Zdietlie      2406 A455688-D  D Ag Ni              221 Zh K2 III M3 D  
+Stia          2408 B999224-A    Lo Ni              814 Zh F7 V        
+Jdezhdle      2409 C974785-8    Ag                 714 Zh G3 V M1 D    
+Ozdleietsba   2410 B753264-7    Lo NI Po           204 Zh M7 V        

@@ -1,0 +1,55 @@
+@SUB-SECTOR:Driaflzha   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Idetidler     2501 C8A5ADE-C    Fl Hi In           715 Zh G2 V        
+Piprebia      2502 C120359-B    De Lo Ni Po        301 Zh F3 III      
+Jde           2503 D411AC9-9    Hi Ic In Na        304 Zh M1 IV       
+Intsdients    2504 B588324-8    Lo Ni              111 Zh G7 V        
+Zhdrvie       2505 E579637-5    Ni                 420 Zh M9 V M7 D    
+Brimedr       2508 E98746B-2    Ni                 213 Zh G4 V        
+Pli           2604 B3459ED-A  M Hi In              401 Zh M7 V        
+Tsiadle       2606 C520413-8    De Ni              814 Zh M6 V        
+Fezhdrejlep   2609 B200766-B    Na Va              921 Zh K3 IV       
+Chtamiesdle   2610 C585742-3    Ag Ri              903 Zh F8 V M2 D    
+Chamediet     2703 C7595AB-5    Ni                 511 Zh M2 III      
+Basaidients   2705 C6862C3-6    Lo Ni              414 Zh M4 IV       
+Tiazhdr       2707 C110537-B    Ni                 203 Zh M3 V        
+Nedlehime     2709 B65947B-C  M Ni                 405 Zh M6 V        
+Chadleek      2802 C000221-9    As Lo Ni           803 Zh M9 V        
+Chatlebasi    2807 E343589-5    Ni Po              602 Zh M7 V        
+Ipzhdr        2902 C335112-6    Lo Ni              325 Zh K3 II       
+Ekzhdr        2903 C644232-9    Lo Ni              822 Zh F4 V        
+Ribale        2905 A598312-B  M Lo Ni              112 Zh M4 V           
+Bazhed        2910 C84857A-6    Ag Ni              905 Zh F6 V        
+Siedlesi      3003 AA99966-C  M Hi In Wa           700 Zh G4 V        
+Ozhdr         3101 D546466-5    Ni                 303 Zh K2 III      
+Vle           3102 A593410-D  M Ni                 702 Zh M5 V        
+Shita         3103 C4839A6-A    Hi In              812 Zh F3 V M2 IV   
+Stiedle       3105 B311483-9    Ic Ni              602 Zh K7 V        
+Driaflzha     3108 A987999-D  D Hi In Ri Cp        114 Zh F6 V        
+Flebasi       3203 D5A6956-A    Fl Hi In           500 Zh M7 V        
+Elksi         3206 B9D4ADE-9    Fl Hi In           313 Zh F8 V        
+Feiplesi      3207 C9C4568-9    Fl Ni              422 Zh F9 V        
+Sizhdriet     3209 A000775-F  R As Na              204 Zh K4 V        

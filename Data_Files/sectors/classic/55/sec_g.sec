@@ -1,0 +1,60 @@
+@SUB-SECTOR:Lisheen   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Qri           1711 D99A488-6    Ni Wa              903 Tn F3 V        
+Tokro         1712 A796672-7    Ag Ni              514 Tn G4 V        
+Ronchikesh    1713 B348441-C    Ni                 204 Tn F4 IV       
+Ie            1715 A646224-D  D Lo Ni              220 Tn M3 V        
+Yerdliazia    1716 C120415-B  N De Ni              312 Tn K2 V        
+Zienselt      1718 B6B0344-A  N De Lo Ni           501 Tn M1 V        
+Iaprsime      1813 B565553-B    Ag Ni              405 Tn G2 V        
+Yekrdazia     1819 C000422-B  N As Lo Ni           225 Tn K2 V        
+Baedle        1912 A7B3223-A  N FL Lo Ni           615 Tn F7 V M6 V    
+Shidle        1913 B302584-D  R Ic Ni Va         A 520 Tn M7 V        
+Rens          1916 A214303-C  M Lo Ni Po           802 Zh M5 V        
+Binchadri     1917 B8B955A-A  M Fl Ni              901 Zh F8 IV       
+Siedrsime     2011 AA8A984-9  N Hi In Wa           104 Tn G3 IV       
+Nedlezhdr     2014 B620402-B  M De Lo Ni An        113 Zh M3 V        
+Balekre       2015 C546740-A    Ag                 600 Zh M6 III      
+Sidrdlenj     2017 B7886AD-8    Ag Ni              714 Zh F3 V        
+Iatszdish     2113 A356738-D  D Ag                 222 Zh M5 V        
+Tiazhdr       2116 CAB6AA7-B    Fl Hi In           603 Zh F0 IV       
+Dreflpatl     2118 C338353-C    Lo Ni              704 Zh M7 V        
+Qlenjiebe     2119 C55947C-8    Ni                 401 Zh M2 V        
+Driaflzha     2211 B250310-B  M De Lo Ni Po      A 330 Zh K4 V        
+Kreztliap     2212 X200000-0    Ba Ni Va           213 Zh K3 V        
+Lisheen       2213 A867968-D  M Hi In Cp           104 Zh G9 V        
+Riqlapl       2214 C200684-9    Na Ni Va           701 Zh K7 III      
+Valkrie       2215 C200313-B    Lo Ni Va         R 100 Zh F5 V        
+Nietliaf      2218 B1008CC-D  R Na Va              613 Zh M7 IV       
+Pedlepr       2219 B586856-7  M Ag Ri              211 Zh K6 V        
+Ezhdabria'    2312 E421556-7    Na Ni Po           721 Zh M4 V            
+Driskredl     2317 A6A6956-C  M Fl Hi In           103 Zh G7 V        
+Ozhba         2320 A321300-C  M Lo Ni Po           303 Zh M6 V        
+Elzhidr       2411 A250410-A  M De Ni Po           822 Zh F9 V        
+Zeqla         2413 B988613-B    Ag Ni              704 Zh G5 IV       
+Teshte        2418 A765986-A    Hi In              134 Zh G7 V        
+Tsiebrensh    2419 B776486-A    Ni                 712 Zh M7 V        
+Zhatlchte     2420 C748598-6    Ag Ni              302 Zh M9 V        

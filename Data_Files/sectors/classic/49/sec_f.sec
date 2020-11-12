@@ -1,0 +1,47 @@
+@SUB-SECTOR:Surrounded Space SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ukurukr!t     0913 CA9A579-B  O Ni Wa              601 KO     F9 V 
+Rokik'kul     0916 B310754-F  K Na                 826 KO     K7 V M8 D M4 II M6 D 
+Ueoughan      0918 C694500-8  G Ag Ni              200 Va     F9 V 
+Gnareek       1011 C4845AC-F  K Ag Ni              100 KO     F8 V 
+Gh!m!!        1014 C52A547-F  O Ni Wa              604 KO     M3 V M8 D 
+N'k'rr!!rii   1015 A552764-F  K Po                 526 KO     F9 V M5 D 
+              1019 X695000-0    Ba Lo Ni           022 --     F2 V 
+Rritix        1113 D773400-E  K Ni                 123 KO     G6 V 
+              1117 X160000-0    Ba De Lo Ni        001 --     F6 V 
+              1118 X9C2000-0    Ba Fl Lo Ni        005 --     M3 V M6 D 
+X'eegakr'     1212 B110200-F  O Lo Ni              104 KO     F0 V M3 D 
+R!ri          1213 C463100-A  K Lo Ni              521 KO     M2 V 
+Kixax         1311 C110777-E  K Na                 113 KO     M2 V
+Kukirr        1312 E593534-A  K Ag Ni              810 KO     F2 V 
+Krilighuto    1412 C579459-E  K Ni                 826 KO     M5 V M7 D 
+Uurgrekul     1413 A254630-F  K Ag Ni              406 KO     M3 V M6 D 
+Kir!!iix      1414 C00088A-F  K As Na              300 KO     G0 V 
+T!reerit      1417 C263586-F  O Ag Ni              504 KO     F2 V M4 D 
+Kirook        1513 C532533-D  K Ni Po              615 KO     G1 V 
+              1612 X100000-0    Ba Lo Ni Va        003 --     M3 V 
+              1613 X876000-0    Ba Lo Ni           013 --     G4 V 
+              1614 X438000-0    Ba Lo Ni           000 --     K9 V 

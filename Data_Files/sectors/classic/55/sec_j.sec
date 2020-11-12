@@ -1,0 +1,43 @@
+@SUB-SECTOR:Jdibla   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Diesh         0923 B120764-B  N Lo Ni Po           204 Tn M2 V        
+              0925 X564000-0    Ba Ni              103 Na M5 V        
+              0926 X99A000-0    Ba Ni WA           314 Na F9 V        
+              0927 X776000-0    Ba Ni              724 Na G7 IV       
+Jdesi         1022 CA87959-A  N Hi In              304 Tn F7 V        
+              1029 X435000-0    Ba Ni              411 Na K4 III      
+Anslian       1124 A98A373-B  N Lo Ni Wa           824 Tn G2 V        
+              1127 X555000-0    Ba Ni              911 Na F6 V        
+Imzl          1221 B66A452-C  C Ni Wa              512 Tn G3 V        
+              1226 X543000-0    Ba Ni Po           713 Na F5 V        
+Ismlz         1324 A423398-B  N Lo Ni Po           314 Tn M2 V        
+              1327 X986000-0    Ba Ni Po           702 Na M7 V        
+Ozh           1421 A1008AA-C  N Na Va              522 Tn F7 V        
+Jdibla        1425 A876954-C  A Hi In Cp           222 Na M4 V        
+Ezianzh       1523 C20067A-A    Na Ni Va           501 Tn F2 V        
+              1527 X000000-0    As Ni              202 Na M4 V M1 V    
+Chta'Inch     1622 AA67958-B  N Lo Ni              322 Tn G3 V        
+              1628 X798000-0    Ba Na              915 Na M4 V            

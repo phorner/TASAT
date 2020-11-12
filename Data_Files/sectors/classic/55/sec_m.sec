@@ -1,0 +1,43 @@
+@SUB-SECTOR:Ozenj  SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              0132 X539000-0    Ba Ni              724 Na M5 V        
+              0139 X679000-0    Ba Ni              104 Na F2 III       
+              0233 XAC4000-0    Ba Fl Ni           703 Na M8 V        
+              0234 X8A9000-0    Ba Fl Ni           900 Na G1 V        
+              0236 X400000-0    Ba Ni Va           301 Na K6 III            
+              0331 X664000-0    Lo Ni              504 Na M7 V        
+              0339 X8C0000-0    Ba De Fl Ni        913 Na M6 V              
+              0432 X342000-0    Ba Ni              203 Na M5 V        
+              0435 X666000-0    Ba Ni              315 Na            
+              0437 X202000-0    Ba Ic Ni Va        102 Na K7 V              
+              0534 X567000-0    Ba Ni              803 Na G7 V        
+              0540 X757000-0    Ba Ni              722 Na F1 IV     
+              0632 X79A000-0    Ba Ni Wa           620 Na M7 V        
+              0636 X000000-0    As Ni              303 Na K3 IV     
+              0734 X876000-0    Ba Ni              602 Na F7 III      
+              0736 X6B3000-0    Ba Fl Ni           714 Na M3 V        
+              0738 XAAA000-0    Ba FL Ni Wa        601 Na G2 V        
+              0840 X650000-0    Ba De Ni           503 Na F5 V    

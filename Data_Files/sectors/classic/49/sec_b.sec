@@ -1,0 +1,50 @@
+@SUB-SECTOR:System Solo SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ruooma        0903 C656525-D  K Ag Ni              805 KO     K0 V  
+Griruukr      0906 E985454-B  K Ni                 300 KO     F4 V 
+Koxamikr!'p   0910 A485789-F  K Ag Ri              622 KO     F8 V 
+Kerrghoul     1001 B130520-B    De Ni Po           302 Va     M0 V 
+Gheksaesag    1002 B200330-B  G Lo Ni Va           909 Va     M1 V M5 D K5 V
+Kirutar       1003 B9C4799-F  K Fl                 304 KO     F8 V M4 V 
+Kreengit'kr   1006 B200234-E    Lo Ni Va           412 KO     M3 V M6 D 
+N!r'          1007 C42766A-E  K Ni                 904 KO     M1 V 
+Kku!!raan     1008 C772785-E  K                    903 KO     F1 V 
+Ligadhell     1101 C57326A-3    Lo Ni              300 Va     K0 V 
+Dzagzsurrgh   1102 X686566-0  C Ag Ni              812 Va     F0 V
+Gr'r!         1107 C000555-B  K As Ni              205 KO     F5 IV M7 D
+Kignuux!'r    1108 E584200-C  K Lo Ni              200 KO     F7 V M8 D  
+!!rit         1204 C254242-B  K Lo Ni              915 KO     M5 V M0 D 
+Riruur!'murr  1205 C5A38BD-E  K Fl                 403 KO     F5 V M6 D 
+Inaar         1206 X878542-1    Ag Ni              305 KO     F6 V M3 D M4 V 
+G'xroonguuk   1210 X4249EF-2  K Hi In              700 KO     F0 V
+Kkiki         1303 C300200-E  K Lo Ni Va           300 KO     M3 V 
+Oo!'r         1304 CA96234-B    Lo Ni              203 KO     F2 V M2 D 
+Riirrik!kuk   1309 E200000-8    Ba Lo Ni Va        901 KO     M5 V M5 D 
+N'rr'r        1402 D594200-7  K Lo Ni              612 KO     F9 V 
+Gniiniir      1403 B410687-D  K Na Ni              602 KO     M0 V M4 D  
+Ug!           1510 D888320-7  O Lo Ni              203 KO     F6 V 
+Poonooruur    1607 A224796-F  O                    405 KO     M5 V M5 D 
+Lupi          1609 C200000-9  K Ba Lo Ni Va        801 KO     M5 V M6 D 

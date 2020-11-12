@@ -1,0 +1,51 @@
+@SUB-SECTOR:Ritsie   SECTOR:Farway
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zhbel         0911 A346578-9  N Lo Ni              213 Tn M1 V M3 V    
+Houra         0913 C767232-7    Ag Ni              723 Tn M5 IV       
+Odlee         0916 B000665-A    As Na Ni           625 Tn K2 V        
+Frach         0919 A6B3548-C  N Fl Ni              304 Tn M3 V        
+Ievlezhdr     1011 B75A456-D  R Lo Ni Wa           502 Tn F6 V        
+Shtiasits     1013 D560465-6    De Lo Ni           113 Tn K6 V        
+Sirabidle     1014 AAA6535-C  N Fl Lo Ni           802 Tn G2 V        
+Acidir        1017 C8C5769-A    Fl Na              323 Tn M6 V M7 V    
+Chatpra       1020 C460652-8    De Ri            R 310 Tn M5 V        
+Aktsa         1116 C347512-A    Ag Ni              221 Tn M9 III      
+Aetse         1118 C5658BE-6    Ga Ri              523 Tn G3 V        
+Vrieqietl     1211 B757546-8    Ag Ni              914 Tn F3 V        
+Nela          1213 C88A659-7    Ri Wa              124 Tn M8 V        
+Metilar       1220 A433350-C  N Lo Ni Po           302 Tn G1 V        
+Tamelien      1312 A300332-C  N Lo Ni Va           823 Tn F2 V        
+Enshora       1316 B89A9EH-9    Hi In Wa           213 Tn G9 V        
+Ritsie        1317 AA75998-D  D Hi In Cp           202 Tn F3 V        
+Asimidre      1412 AA7A998-B    Hi In Wa           203 Tn M4 V            
+Ejiek         1415 C546988-5    Hi In              803 Tn M4 V        
+Bramez        1418 B53278B-7    Na Po              513 Tn K3 V        
+Staaluncri    1515 B400310-8    Lo Ni Va           822 Tn M3 V        
+Kedrellie     1517 C748303-8    Lo Ni              504 Tn F1 V        
+Pipequal      1520 A876624-C  N Ag Ni              713 Tn M7 V M2 D    
+Chantseria    1611 C243300-A    Lo Ni Po           802 Tn K0 V        
+Serenesan     1614 A630878-B  N De Na Po           201 Tn M6 V F1 V    
+Altiea        1618 C948554-9    Ag Ni              313 Tn M2 III      

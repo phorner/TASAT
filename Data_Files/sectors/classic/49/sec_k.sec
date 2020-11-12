@@ -1,0 +1,36 @@
+@SUB-SECTOR:Between Stars SECTOR:Gn'hk'r
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gaaiireen!k   1822 C355988-E  K Hi In              504 KO     K3 V M7 D 
+R!tag!        1830 B6B06AF-F  O De Ni              800 Kk     M3 V M6 D 
+B!t!rr        2025 B644799-F  O Ag                 611 KO     F5 V M5 D 
+Turutikerr    2030 A590378-F  K De Lo Ni           804 Kk     K4 V 
+K'raal        2228 D000100-8  K As Lo Ni           902 Kk     M6 V 
+Kieerree      2129 C9B5877-E  K Fl                 535 Kk     F2 V M3 D
+Eema'l't      2130 C8D1210-9    Fl Lo Ni           532 Kk     F7 V 
+Ghaare        2229 D476333-A  K Lo Ni              607 Kk     F6 V M8 D
+K!ub!krxk!xk  2327 E534120-A  K Lo Ni              100 Kk     M4 V
+Roteer        2329 C456546-F  K Ag Ni              802 Kk     F9 V M5 D 
+Riibukun      2330 C885767-F  O Ag Ri              805 Kk     F9 V 
