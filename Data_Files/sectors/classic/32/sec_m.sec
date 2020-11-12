@@ -1,0 +1,49 @@
+@SUB-SECTOR:Grikr!ng SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+^0337 0
+^0337 1
+^0337 3
+^0337 4
+^0337 5
+^0437 0
+^0437 1
+^0437 3
+^0437 4
+^0538 0
+^0538 1
+^0538 2
+^0538 3
+^0538 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0133 X570000-0    Ba Lo Ni De        011 --
+              0135 X441000-0    Ba Lo Ni Po        010 --
+              0138 X886000-0    Ba Lo Ni           021 --
+              0140 XAD6000-0    Ba Lo Ni Fl        024 --
+Orhokouz      0231 B642778-B  C Po                 624 Va
+              0233 X112000-0    Ba Lo Ni Ic        011 --
+              0236 X543000-0    Ba Lo Ni Po        020 --
+Peak Station  0239 AAD7313-E    Fl Lo Ni Rs        532 Na
+Jozem-Layn    0335 B966514-C    Ag                 511 Na
+Gr'nk!rum     0337 B6896RK-A                    A  210 KO
+Naribo        0432 C000687-A    As                 414 Na
+              0433 X230000-0    Ba Lo Ni Po De     000 --
+!!xeruux      0437 C87956A-C                    R  222 KO
+Touzugoth     0439 C565525-9    Ag                 501 Va
+              0535 X796000-0    Ba Lo Ni           010 --
+Grikr!ng      0538 A9959A7-F  K Hi In Cx Cp        922 KO
+Aramados      0540 B98A9CD-A    Wa Hi In        A  603 Na
+              0632 X000000-0    Ba Lo Ni As        011 --
+Kozougnoeg    0635 B346757-A                       301 Va
+Looming Ice   0636 C402534-B    Va Ic              921 Na
+Nog Rughk     0732 D543656-4    Po                 201 Va
+              0734 X000000-0    Ba Lo Ni As        002 --
+Llugoeth      0737 A989875-C                       524 Va
+Stone House   0740 CA65301-9    Ag Lo Ni           723 Na
+              0833 X301000-0    Ba Lo Ni Va Ic     002 --
+Lorrin's Ring 0840 B000514-B    As                 633 Na

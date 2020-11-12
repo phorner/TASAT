@@ -1,0 +1,23 @@
+@SUB-SECTOR:Barren Edge SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0903 X456000-0    Ba Lo Ni           012 --
+              0904 X000000-0    Ba Lo Ni As        022 --
+              0907 X888000-0    Ba Lo Ni           011 --
+              0910 X420000-0    Ba Lo Ni Po De     020 --
+              1001 X365000-0    Ba Lo Ni           003 --
+              1004 X787000-0    Ba Lo Ni           022 --
+              1006 X424000-0    Ba Lo Ni Po        011 --
+              1009 XA8A000-0    Ba Lo Ni Wa        032 --
+              1102 X000000-0    Ba Lo Ni As        002 --
+              1106 X544000-0    Ba Lo Ni Po        011 --
+              1109 X689000-0    Ba Lo Ni           012 --
+              1203 X457000-0    Ba Lo Ni           020 --
+              1305 X211000-0    Ba Lo Ni Ic        001 --
+              1401 X734000-0    Ba Lo Ni Po        011 --

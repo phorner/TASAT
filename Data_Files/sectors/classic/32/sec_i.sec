@@ -1,0 +1,56 @@
+@SUB-SECTOR:Perdumon SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+^0527 0
+^0527 1
+^0527 2
+^0527 4
+^0527 5
+^0528 1
+^0528 4
+^0528 5
+^0628 0
+^0628 1
+^0628 2
+^0629 1
+^0629 2
+^0629 3
+^0629 4
+^0529 3
+^0529 4
+^0529 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0125 X413000-0    Ba Lo Ni Ic        013 --
+              0126 X769000-0    Ba Lo Ni           020 --
+              0129 X696000-0    Ba Lo Ni           001 --
+              0221 X336000-0    Ba Lo Ni           010 --
+Esserton      0222 D967644-9    Ag                 813 Na
+              0224 X77A000-0    Ba Lo Ni Wa        032 --
+Rouge Point   0228 X9C99CD-3    Fl Hi R            302 Na
+              0322 X000000-0    Ba Lo Ni As        014 --
+              0323 X999000-0    Ba Lo Ni           023 --
+Arhope        0325 D588500-A                       402 Na
+Argnoloth     0328 C632658-B  G Po                 821 Va
+Kelrimmey     0422 A898997-C  M Hi In              432 Na
+              0425 X433000-0    Ba Lo Ni Po        011 --
+Hulmings      0427 C502401-9    Va Ic              510 Na
+Wayesworth    0430 BAE47A9-B    Fl                 725 Na
+Wougouk       0521 D661688-B                       321 Va
+N-Shaft       0524 E000314-D    As Lo Ni Rs     A  624 Na
+Larshaw       0527 A000975-E  A As Hi In           735 Pe
+Kebbling      0528 B866668-B  M Ag                 312 Pe
+Perdumon      0529 A96AA9A-F  A Wa Hi In Cp        224 Pe
+Lethner       0624 CA87975-C  M Ag Hi In           724 Na
+Flamepoint    0628 C66056B-B    De              A  801 Pe
+Daroz Corner  0629 B9A5669-B  M Fl                 520 Pe
+Rizellium     0721 CAAAAFE-A    Fl Wa Hi In     A  103 Na
+              0722 X253000-0    Ba Lo Ni Po        011 --
+              0723 X467000-0    Ba Lo Ni           015 --
+Neosanctum    0727 AA86821-A    Ag                 525 Na
+Groeg         0824 E643212-7    Po Lo Ni           510 Na
+              0828 X587000-0    Ba Lo Ni           000 --

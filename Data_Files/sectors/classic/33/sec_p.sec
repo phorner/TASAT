@@ -1,0 +1,33 @@
+@SUB-SECTOR:Alsnias SECTOR:Ukaarriit!!b
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2638 XAC0000-0    Ba Lo Ni De        032 --
+              2740 X000000-0    Ba Lo Ni As        011 --
+Alsnias       2839 C846754-9                       412 Na
+              2840 X321000-0    Ba Lo Ni Po        010 --
+              2932 X987000-0    Ba Lo Ni           013 --
+              3039 X768000-0    Ba Lo Ni           014 --
+              3238 X15A000-0    Ba Lo Ni Wa        021 --
+              3240 X9A7000-0    Ba Lo Ni Fl        024 --

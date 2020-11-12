@@ -1,0 +1,43 @@
+@SUB-SECTOR:Upper Edge SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0102 X332000-0    Ba Lo Ni Po        021 --
+              0104 X446000-0    Ba Lo Ni           020 --
+              0105 X000000-0    Ba Lo Ni As        013 -- 
+              0106 X678000-0    Ba Lo Ni           002 --
+              0109 X8B2000-0    Ba Lo Ni Fl        000 --
+              0110 X200000-0    Ba Lo Ni Va De     015 --
+              0201 X301000-0    Ba Lo Ni Va Ic     011 --
+              0204 X899000-0    Ba Lo Ni           020 --
+              0206 X530000-0    Ba Lo Ni Po De     003 --
+              0209 XA68000-0    Ba Lo Ni           022 --
+              0301 X422000-0    Ba Lo Ni Po        012 --
+              0302 X242000-0    Ba Lo Ni Po        022 --
+              0307 X78A000-0    Ba Lo Ni Wa        030 --
+              0309 X9A0000-0    Ba Lo Ni De        011 --
+              0403 X224000-0    Ba Lo Ni Po        002 --
+              0405 X894000-0    Ba Lo Ni           013 --
+              0408 X101000-0    Ba Lo Ni Va Ic     011 --
+              0409 X567000-0    Ba Lo Ni           020 --
+              0502 X9B6000-0    Ba Lo Ni Fl        020 --
+              0505 X412000-0    Ba Lo Ni Ic        011 --
+              0602 X788000-0    Ba Lo Ni           012 --
+              0604 X210000-0    Ba Lo Ni De        000 --
+              0607 X8AA000-0    Ba Lo Ni Fl Wa     033 --
+Sandguth      0610 D768444-9    Ag                 414 Na
+              0701 X134000-0    Ba Lo Ni Po        011 --
+              0703 XAB4000-0    Ba Lo Ni Fl        022 --
+              0706 X779000-0    Ba Lo Ni           023 --
+Starshine     0707 A000975-D  M As Hi In           734 Na
+Saloeb        0710 C967745-C    Ag                 412 Na
+              0801 X555000-0    Ba Lo Ni           011 --
+              0802 X686000-0    Ba Lo Ni           010 --
+              0804 X200000-0    Ba Lo Ni Va De     012 --
+              0806 X47A000-0    Ba Lo Ni Wa        021 --
+              0808 X9A6000-0    Ba Lo Ni Fl        023 --

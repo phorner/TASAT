@@ -1,0 +1,28 @@
+@SUB-SECTOR:Starlord Trail SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+^0915 0
+^0915 1
+^0915 2
+^0915 5
+^0916 1
+^1016 0
+^1016 1
+^1016 2
+^1016 3
+^0917 2
+^0917 3
+^0917 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tgoek         0912 C637686-A                       313 Va
+Zurrgouz      0915 B5508BD-A  C Po De           A  522 V-
+Lluvornath    0917 AADA9A8-C  H Fl Wa Hi In     A  732 V-
+Zaralon       0920 E6865A9-7    Ag                 912 Na
+              1011 X8A7000-0    Ba Lo Ni Fl        014 --
+Khuworth      1016 B88A9AB-B  G Wa Hi In        A  623 V-
+              1517 XAB4000-0    Ba Lo Ni Fl        024 --

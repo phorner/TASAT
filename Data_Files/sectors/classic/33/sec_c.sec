@@ -1,0 +1,45 @@
+@SUB-SECTOR:Above Corner SECTOR:Ukaarriit!!b
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1906 X348000-0    Ba Lo Ni           011 --
+              1908 X763000-0    Ba Lo Ni           020 --
+              2003 X000000-0    Ba Lo Ni As        000 --
+              2006 X47A000-0    Ba Lo Ni Wa        013 --
+              2008 X8B3000-0    Ba Lo Ni Fl        024 --
+              2010 X436000-0    Ba Lo Ni           011 --
+              2101 X135000-0    Ba Lo Ni           021 --
+              2102 X313000-0    Ba Lo Ni Ic        011 --
+              2105 X9BA000-0    Ba Lo Ni Fl Wa     025 --
+              2109 X9A6000-0    Ba Lo Ni Fl        020 --
+              2202 X789000-0    Ba Lo Ni           031 --
+              2204 X562000-0    Ba Lo Ni           010 --
+              2207 X000000-0    Ba Lo Ni As        005 --
+              2210 X402000-0    Ba Lo Ni Va Ic     023 --
+              2304 XA8A000-0    Ba Lo Ni Wa        034 --
+              2305 X200000-0    Ba Lo Ni Va De     011 --
+              2306 X320000-0    Ba Lo Ni Po De     000 --
+              2308 X8D8000-0    Ba Lo Ni Fl        025 --
+              2403 X8B0000-0    Ba Lo Ni De        032 --
+              2409 X401000-0    Ba Lo Ni Va Ic     020 --

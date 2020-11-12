@@ -1,0 +1,57 @@
+@SUB-SECTOR:Edge Starside SECTOR:Ukaarriit!!b
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              2512 X346000-0    Ba Lo Ni           010 --
+              2517 XAC6000-0    Ba Lo Ni Fl        033 --
+              2518 X111000-0    Ba Lo Ni Ic        020 --
+              2519 X578000-0    Ba Lo Ni           021 --
+              2612 X422000-0    Ba Lo Ni Po        012 --
+              2615 X564000-0    Ba Lo Ni           002 --
+              2619 X200000-0    Ba Lo Ni Va De     013 --
+              2711 X240000-0    Ba Lo Ni Po De     002 --
+              2712 X114000-0    Ba Lo Ni Ic        020 --
+              2713 X586000-0    Ba Lo Ni           013 --
+              2717 X000000-0    Ba Lo Ni As        024 --
+              2720 X58A000-0    Ba Lo Ni Wa        022 --
+              2812 X87A000-0    Ba Lo Ni Wa        023 --
+              2815 X244000-0    Ba Lo Ni Po        021 --
+              2816 X470000-0    Ba Lo Ni De        012 --
+              2911 X202000-0    Ba Lo Ni Va Ic     010 --
+              2914 X777000-0    Ba Lo Ni           033 --
+              2916 X456000-0    Ba Lo Ni           021 --
+              2918 X8BA000-0    Ba Lo Ni Fl Wa     015 --
+              2919 X000000-0    Ba Lo Ni As        022 --
+              3013 X000000-0    Ba Lo Ni As        012 --
+              3014 X353000-0    Ba Lo Ni Po        014 --
+              3017 XAD7000-0    Ba Lo Ni Fl        034 --
+              3019 X889000-0    Ba Lo Ni           020 --
+              3111 X548000-0    Ba Lo Ni           021 --
+              3116 X000000-0    Ba Lo Ni As        010 --
+              3118 X223000-0    Ba Lo Ni Po        022 --
+              3120 X679000-0    Ba Lo Ni           014 --
+              3213 X9B6000-0    Ba Lo Ni Fl        020 --
+              3215 X86A000-0    Ba Lo Ni Wa        024 --
+              3218 X123000-0    Ba Lo Ni Po        012 --
+              3219 X560000-0    Ba Lo Ni De        010 --

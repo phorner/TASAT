@@ -1,0 +1,50 @@
+@SUB-SECTOR:The Corner SECTOR:Ukaarriit!!b
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+              1811 X452000-0    Ba Lo Ni Po        012 --
+              1812 X000000-0    Ba Lo Ni As        022 --
+              1813 X668000-0    Ba Lo Ni           010 --
+              1915 X320000-0    Ba Lo Ni Po De     001 --
+              1917 X879000-0    Ba Lo Ni           021 --
+              2011 X560000-0    Ba Lo Ni De        010 --
+              2014 X872000-0    Ba Lo Ni           022 --
+              2017 X300000-0    Ba Lo Ni Va De     002 --
+              2020 X523000-0    Ba Lo Ni Po        015 --
+              2111 X858000-0    Ba Lo Ni           032 --
+              2113 X410000-0    Ba Lo Ni De        014 --
+              2114 X66A000-0    Ba Lo Ni Wa        010 --
+              2116 X466000-0    Ba Lo Ni           004 --
+              2119 X000000-0    Ba Lo Ni As        022 --
+              2213 X356000-0    Ba Lo Ni           013 --
+              2214 XAF4000-0    Ba Lo Ni Fl        020 --
+              2218 X222000-0    Ba Lo Ni Po        002 --
+              2220 X696000-0    Ba Lo Ni           012 --
+              2311 X323000-0    Ba Lo Ni Po        021 --
+              2312 X000000-0    Ba Lo Ni As        010 --
+              2412 X236000-0    Ba Lo Ni           003 --
+              2413 X000000-0    Ba Lo Ni As        021 --
+              2415 X78A000-0    Ba Lo Ni Wa        013 --
+              2416 X661000-0    Ba Lo Ni           010 --
+              2418 X441000-0    Ba Lo Ni Po        022 --

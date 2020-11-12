@@ -1,0 +1,65 @@
+@SUB-SECTOR:Hoeknaeth SECTOR:Grikr!ng
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+^0413 0
+^0413 1
+^0413 4
+^0413 5
+^0514 0
+^0514 1
+^0614 0
+^0614 1
+^0715 0
+^0715 1
+^0814 2
+^0814 3
+^0414 4
+^0414 5
+^0316 0
+^0316 2
+^0316 3
+^0316 4
+^0316 5
+^0415 2
+^0415 3
+^0415 5
+^0515 3
+^0615 3
+^0615 4
+^0717 0
+^0717 1
+^0817 0
+^0817 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 X56A000-0    Ba Lo Ni Wa        023 --
+              0114 X7A7000-0    Ba Lo Ni Fl        035 --
+              0115 X655000-0    Ba Lo Ni           004 --
+              0117 X000000-0    Ba Lo Ni As        031 --
+              0120 X334000-0    Ba Lo Ni Po        011 --
+              0211 X000000-0    Ba Lo Ni As        000 --
+Gazorouhk     0215 C256354-8    Lo Ni              612 Va
+Damontyne     0218 BAFA886-C  M Fl Wa              523 Na
+              0312 X656000-0    Ba Lo Ni           002 --
+Thangfallahou 0316 B8888A9-A  G Ag              A  411 V-
+Rozofouhou    0317 C456699-7                       100 Va
+Darcy's Rock  0320 E100223-9  S Va De Lo Ni        611 Na
+North Edge    0412 C688556-9    Ag                 312 Na
+Dorzorkhz     0413 A9A3AAC-C  H Fl Hi In        A  223 V-
+Zorhouzuth    0415 B47A9DF-A  C Wa Hi In        A  300 V-
+Garfuhoe      0417 D532687-7    Po                 702 Va
+Thafuwoukr    0514 B0008AA-B  G As              A  814 V-
+              0518 X300000-0    Ba Lo Ni Va De     012 --
+Rugnoeth      0611 C364586-A                       511 Va
+Ruthnorz      0614 B6439BB-A  N Po Hi In        A  112 V-
+Hoeknaeth     0615 A996AAA-D  H Hi In Cp        A  433 V-
+              0620 X620000-0    Ba Lo Ni Po        002 --
+Urnoekh       0717 CA9A786-B    Wa                 620 Va
+Orning        0812 C564665-A    Ag                 312 Na
+Gnoerzoegz    0818 D322443-7    Po                 203 Va
+              0819 X879000-0    Ba Lo Ni           014 --
+Tipolo        0820 C412556-9    Ic                 821 Na
