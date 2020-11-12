@@ -1,0 +1,10 @@
+Pannet
+
+The insidious atmosphere is tainted with specific contaminants in different regions of the world's surface.  Harvesting these gasses is dangerous employment, but their value to industry on Lunion (hex 2124) makes it highly profitable for companies and workers alike.  Several corporations maintain operations on-planet, and the majority of the population are corporate employees engaged in atmospheric extraction.
+
+Image
+-----
+Corroded atmospheric mining facility.
+
+@@@@pannet.jpg
+

@@ -1,0 +1,22 @@
+Paya
+
+Only a portion of the Highport is maintained/used, it was originally intended to service the starship traffic trading with Paya's pre-disaster population of 12 million. Hostel accommodation and a bar-restaurant is run by the Travellers' Aid Society. There is plenty of high grade fuel for sale and an on-demand shuttle service to the Downport supplied by two TL-9 50ton Inthe Modular Cutters.
+ 
+Adjacent to the Downport, is the Startown with accommodation for the majority of the planets 500 or so inhabitants, the surface base for the Imperial Navy facility, the Oberlindes Lines office and private Shipyard (TL12 for maintenance & repairs of the Oberlindes Fleet, 4,000tn capacity) and the locally owned tech 9 Paya Shipyard capable of construction, maintenance and repair of craft, including Starships, up to 100tn. Imperiallines has a small forwarding office for their J1/2 tramp traders from Focaline (Spinward Marches 2607) and Violante (Spinward Marches 2708) entering the J1 cluster.
+ 
+The Paya Shipyard constructs the Paya Light Freighter, a J1 100ton freighter designed to service the local J1 cluster. Paya is the only shipyard building high tech (TL-9) starships in the 10 world cluster that forms this part of the J1 main. One or two Light Freighters are sold each year, depending on other shipyard commitments. The cost to purchase a new light freighter is 27.52MCr, including a 5.504MCr deposit. Construction time is 29 weeks, but is heavily dependent on other commitments, often the 29 weeks will extend to 30-40 weeks. 
+
+Given the lack of maintenance and repair facilities for higher tech ships (the Oberlindes Lines shipyard excepted), it is rare to see higher tech ships in the cluster. The Paya Light Freighter holds most contracts and fills the needs of the majority of worlds. Occasional high tech (TL10-12) tramp traders will be seen, either independently owned or affiliated to Imperiallines (which also owns several Paya Light Freighters). But the ship graveyards on several remote worlds hold the canibalized remains of dead tramp traders that could not get repairs when needed. 
+
+Oberlindes Lines, headquartered at Regina maintains a private shipyard here at TL-12 of 4,000tn capacity to provide maintenance for its Aramis Subsector fleet. Private access to the yard is restricted. 
+
+It should be noted that Tukera Lines lost interest in servicing Paya in the aftermath of the asteroid strike.
+ 
+To achieve the 2,000,000tn refined refueling capacity needed to be declared a Class A Starport, Oberlindes Lines operates as part of its lease a commercial operation providing 1,000,000tn of refined fuel capacity for the Class A Starport, with the Imperial Navy lease obliging that the Navy provide the remaining capacity when required. An Imperial Navy Fleet Tanker Squadron is based here in part to fullfil this obligation in peace-time. However normal trade use rarely approaches a tenth of the refined fuel capacity available, with the majority of trade being Oberlindes commercial ships traveling into the Aramis Subsector via Paya to Violante and beyond.
+
+Image
+-----
+Picture of the surface of Paya.
+
+@@@@paya.jpg
+

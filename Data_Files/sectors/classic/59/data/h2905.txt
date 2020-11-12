@@ -1,0 +1,9 @@
+Pavanne
+
+A barren world without people or development.  A mining company once prospected extensively, but found no economically exploitable deposits.  The company maintains a beacon marking the main landing location. A few abandoned mining camps remain scattered about the world.
+
+IMAGE
+-----
+Image of an abandoned mining camp.
+
+@@@@pavanne.jpg
