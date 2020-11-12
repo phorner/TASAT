@@ -1,0 +1,44 @@
+@SUB-SECTOR:Nadon SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0905          0905 X324000-0    Ba                 014 Na
+1005          1005 X353000-0    Ba                 010 Na
+1006          1006 X643000-0    Ba                 000 Na
+1007          1007 X566000-0    Ba                 002 Na
+1009          1009 X848000-0    Ba                 010 Na
+1201          1201 X613000-0    Ba                 004 Na
+1210          1210 X486000-0    Ba                 003 Na
+Earric        1401 D879100-9    Lo Ni              704 Jn
+Hanlon        1402 B624776-A                       404 Jn
+Zemenco       1403 C785003-6  S Lo Ni              923 Jn
+Faerrleah     1404 C889556-7  S Ni                 714 Jn
+1406          1406 X433000-0    Ba                 000 Na
+1409          1409 X450000-0    Ba                 003 Na
+Tussah        1504 C5A0767-9    De                 400 Jn
+Hast-Ra-Kodi  1505 C497985-8    Hi In              804 Jn
+Christoph     1602 C300311-9    Lo Ni Va           203 Jn
+Ghaur         1603 C253435-A  S Ni Po              434 Jn
+1606          1606 X000000-0    Ba                 005 Na
+1607          1607 X693000-0    Ba                 010 Na

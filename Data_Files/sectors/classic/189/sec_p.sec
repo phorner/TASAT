@@ -1,0 +1,42 @@
+@SUB-SECTOR:Suluman SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2734 2335 -1 0
+$2734 2830 0 -1
+$2734 3035 0 0
+$3035 0235 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Grenklezodini 2533 D652454-8    Po                 621 Na
+Stennen       2536 C888888-C  S                    424 Na
+              2538 X622000-0    Ba Lo Ni Po        013 --
+              2639 X450000-0    Ba Lo Ni Po De     010 --
+Dennenmorg    2733 C887555-A  S Ag                 513 Na
+Suluman       2734 AAA2899-D  F Fl Cp              725 Na
+Pogetlu       2736 C699522-5                       311 Na
+              2737 X000000-0    Ba Lo Ni As        001 --
+              2740 X9AA000-0    Ba Lo Ni Fl Wa     032 --
+Dasmir        2833 B000666-A  N As                 221 Na
+Spectre-Os    2834 C523598-8    Po              A  810 Na
+              2838 X550000-0    Ba Lo Ni Po De     012 --
+              2839 X000000-0    Ba Lo Ni As        011 --
+Pesno's       2932 C569478-A  S                    921 Na
+              2938 X888000-0    Ba Lo Ni           021 --
+              2939 X515000-0    Ba Lo Ni Ic        010 --
+              2940 X15A000-0    Ba Lo Ni Wa        001 --
+Teenofhetander3033 D674778-8                       310 Na
+Reoleisi      3035 B440756-A  N Po De              521 Na
+McKarper      3131 D667544-9    Ag                 510 Na
+Deseploisi    3134 B89A887-B  N Wa                 114 Na
+              3136 X213000-0    Ba Lo Ni Ic        020 --
+              3138 X574000-0    Ba Lo Ni           011 --
+Kasnyk        3231 X696100-A    Lo Ni           R  512 Na
+Enengno       3233 D83399A-9    Po Hi In           303 Na
+              3236 X000000-0    Ba Lo Ni As        000 --
+              3238 X9B9000-0    Ba Lo Ni Fl        023 --
+              3239 X426000-0    Ba Lo Ni           011 --
+              3240 X88A000-0    Ba Lo Ni Wa        012 --

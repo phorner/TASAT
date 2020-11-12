@@ -1,0 +1,42 @@
+@SUB-SECTOR:Anderson SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0931          0931 X000000-0    Ba                 000 Na
+0933          0933 X304000-0    Ba                 020 Na
+0940          0940 X7B0000-0    Ba                 004 Na
+1035          1035 X867000-0    Ba                 020 Na
+1131          1131 X648000-0    Ba                 004 Na
+1133          1133 X899000-0    Ba                 003 Na
+1140          1140 X442000-0    Ba                 000 Na
+1231          1231 X331000-0    Ba                 005 Na
+1237          1237 X769000-0    Ba                 000 Na
+1238          1238 X979000-0    Ba                 010 Na
+1434          1434 X427000-0    Ba                 012 Na
+1436          1436 X443000-0    Ba                 002 Na
+1438          1438 X9D7000-0    Ba                 003 Na
+1440          1440 X655000-0    Ba                 002 Na
+1634          1634 X668000-0    Ba                 005 Na
+1636          1636 X210000-0    Ba                 004 Na
+1638          1638 X230000-0    Ba                 004 Na

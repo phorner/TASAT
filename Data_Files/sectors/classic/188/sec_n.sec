@@ -1,0 +1,45 @@
+@SUB-SECTOR:Free Worlds SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Sheba         0931 B755866-7  N Ag                 925 Ne        
+Jiro          0933 B659864-9  N Ni                 701 Ne        
+Jorge         0936 E757600-1  S Ag Ni            A 103 Ne        
+Interpol      0939 E552763-6    Po                 420 Me     
+Atchison      1038 C000252-9  N As Lo Ni           900 Me        
+Stranski      1131 C0003B6-9    As Na Ni           403 Ne        
+Magda         1135 C689776-5    Ri                 702 Me        
+Margerison    1138 C666966-9  S Ag Hi Ri           504 Me      
+Rustah        1233 E6515I3-4    Ni Po              102 Me        
+Vannen        1234 C6687I1-7    Ag Ri              800 Me        
+Arden         1236 A7628J6-9  A Lo Ni Po           203 Me        
+De Berghnby   1237 A863974-9    Hi                 222 Me   
+Stalin        1433 C668766-5    Ag Ri              320 Me        
+Luxor         1435 A883964-B    Hi                 703 Me        
+Pepyn         1436 B6639B5-9  S Hi                 120 Me        
+Politburo     1440 BA84964-6    Hi                 901 Me     
+Mystral       1533 X6516B6-2  K Ni Po            R 902 Me        
+Germania      1536 A7849A6-B  A Hi                 502 Me        
+Kaj           1540 CA864B4-8    Ni                 803 Me     
+Viridis       1638 C000222-9    As Lo Ni           404 Me       

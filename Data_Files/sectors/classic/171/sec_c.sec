@@ -1,0 +1,57 @@
+@SUB-SECTOR:Heiligebet SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Muire         1709 C7A5542-6  S Fl Ni              503 Gt K8 V M1 D
+Francisco     1710 C200242-9    Lo Ni Va           712 Gt M5 V
+1806          1806 X999000-0    Lo Ni              002 Na G7 V
+Seward        1808 B495762-6  S Ag                 403 Gt K7 V
+McFadden      1809 B400541-B    Ni Va              502 Gt G3 IV
+Benderick     1810 C676466-4    Ni                 223 Gt F7 V
+1901          1901 X794000-0    Lo Ni              005 Na G6 V
+1904          1904 X587000-0    Lo Ni              012 Na K1 V M6 D
+1905          1905 X9D8000-0    Fl Lo Ni           023 Na K4 V M4 D
+Rockies       1909 C676876-7                       623 Gt F9 V
+Ernst         1910 C335135-7  S Lo Ni              304 Gt F0 V
+2004          2004 X557000-0    Ba Lo Ni           015 Na F1 V M6 D M5 D
+Nicoll        2009 B410441-8  N Ni                 400 Gt F3 V M0 D
+Zar           2010 B549763-8                       303 Gt F2 V
+2105          2105 X525000-0    Ba Lo Ni           013 Na M0 V M7 D
+Frances       2109 C78A300-9  S Lo Ni Wa           104 Gt F8 V
+Surtut        2110 C758745-3  S Ag                 213 Gt F3 V M9 D
+2202          2202 X310000-0    Ba Lo Ni           002 Na M5 V
+2203          2203 X100000-0    Lo Ni Va           024 Na K1 V M2 D
+2205          2205 X100000-0    Lo Ni Va           013 Na G3 IV M3 V
+2206          2206 X440000-0    Ba De Lo Ni Po     011 Na G6 V M5 D
+Jacer         2208 C8868AA-3                       603 Gt G6 V M9 D
+Gaunt         2209 B000323-C    As Lo Ni           902 Gt F0 V
+2303          2303 X668000-0    Ba Lo Ni           003 Na G3 V
+2304          2304 X511000-0    Ba Ic Lo Ni        015 Na M6 V M8 D
+Plainfield    2309 B75A431-B  N Ni Wa              401 Gt F5 V M8 D
+2401          2401 XA8A000-0    Ba Lo Ni Wa        003 Na K3 V M2 D
+2402          2402 X200000-0    Lo Ni Va           003 Na G9 V M6 D M2 D
+2403          2403 X260000-0    Ba De Lo Ni        004 Na F2 V M6 D
+2406          2406 X410000-0    Lo Ni              003 Na M7 V M5 V
+Tasslehoff    2409 C410352-C    Lo Ni              105 Gt M2 V
+Derel         2410 B676878-7                       723 Gt F1 V

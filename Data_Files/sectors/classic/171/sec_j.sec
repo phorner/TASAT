@@ -1,0 +1,69 @@
+@SUB-SECTOR:Lords SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0921          0921 X76A000-0    Ba Lo Ni Wa        003 Na F2 V
+Baru          0923 E76A751-5    Ri Wa              515 Lv F5 V
+Onondaga      0924 C847222-6  S Lo Ni              903 Lv F5 V
+Fabienne      0925 C75A554-7    Ni Wa              114 Lv F2 V
+0929          0929 X301000-0    Ic Lo Ni Va        004 Na K7 V M2 D
+1021          1021 X000000-0    As Ba Lo Ni        003 Na M3 V M8 D
+Thelma        1024 E300420-6    Ni Va              600 Lv A4 V
+Beldon        1025 E000588-6    As Ni              913 Lv M9 V
+1029          1029 X352000-0    Lo Ni Po           014 Na F7 V
+1030          1030 X386000-0    Lo Ni              014 Na F5 V
+1121          1121 X597000-0    Ba Lo Ni           003 Na F9 V
+1124          1124 X547000-0    Lo Ni              001 Na F7 V
+Piter         1126 C856447-7  S Ni                 604 Lv G3 V
+Tasha         1127 E4149CD-5    Hi Ic              314 Lv F8 V M1 D M6 D
+1129          1129 X610000-0    Ba Lo Ni           033 Na M4 V
+1221          1221 X555000-0    Ba Lo Ni           013 Na F6 V
+1222          1222 X534000-0    Lo Ni              000 Na M2 V M8 D
+1223          1223 X202000-0    Ic Lo Ni Va        003 Na K3 V
+1224          1224 X100000-0    Lo Ni Va           003 Na F1 V
+Alhraed       1226 C335668-A  S Ni                 302 Lv F0 V M5 D
+Verdi         1227 D333550-8  S Ni Po              125 Lv A3 V
+1229          1229 X69A000-0    Ba Lo Ni Wa        003 Na M9 V
+1230          1230 X748000-0    Lo Ni              022 Na G7 V
+1321          1321 X486000-0    Lo Ni              024 Na F6 V M0 D
+1324          1324 X696000-0    Ba Lo Ni           004 Na F2 V M3 D
+1325          1325 X678000-0    Ba Lo Ni           004 Na F4 V M6 D
+1327          1327 X646000-0    Lo Ni              013 Na F9 V
+1328          1328 X88A000-0    Lo Ni Wa           015 Na G7 V
+1330          1330 X763000-0    Lo Ni              002 Na F5 V
+1421          1421 X77A000-0    Ba Lo Ni Wa        015 Na F6 V
+1423          1423 X353000-0    Ba Lo Ni Po        001 Na F8 V M4 D
+1426          1426 X777000-0    Lo Ni              021 Na G5 V
+1429          1429 X8A2000-0    Fl Lo Ni           013 Na M0 V
+1521          1521 X693000-0    Ba Lo Ni           010 Na F3 V M9 D
+1522          1522 X457000-0    Ba Lo Ni           023 Na F0 V M1 D
+1523          1523 X220000-0    De Lo Ni Po        012 Na M4 V M8 D
+1524          1524 X775000-0    Lo Ni              002 Na K8 V M9 D
+1525          1525 X633000-0    Ba Lo Ni Po        004 Na G3 V
+1526          1526 X326000-0    Ba Lo Ni           012 Na M7 V
+1527          1527 X564000-0    Lo Ni              003 Na G1 V
+1528          1528 X595000-0    Lo Ni              004 Na F4 V M5 D
+1621          1621 X321000-0    Ba Lo Ni Po        000 Na M9 V M7 D M5 D
+1624          1624 X668023-0    Lo Ni              024 Na F7 V
+1626          1626 X7A7000-0    Fl Lo Ni           004 Na G0 V M6 D

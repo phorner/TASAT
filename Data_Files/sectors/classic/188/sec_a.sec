@@ -1,0 +1,57 @@
+@SUB-SECTOR:Destan SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ising         0102 C885102-9    Lo Ni              400 Na        
+Yahkahiyra    0106 X000000-0    As Ba Lo           004 Az        
+Americana     0107 B765585-8    Ag Ni              700 Na        
+Ftuirl        0108 C639346-7    Lo                 302 Az        
+Columbia      0109 C764AB6-A    Hi                 705 Na    
+Prevo         0201 C652476-9    Ni Po              703 Na        
+Aheaui        0204 X120000-0    Ba De Lo           003 Az        
+Suiwawiwea    0205 E564324-8    Lo Ni              814 Az        
+Roever        0208 B130545-9  N De Ni Po           703 Na    
+Wade          0306 D689996-9  S Hi                 504 Na  
+Knowles       0402 C645354-8    Lo Ni              803 Na        
+Jo            0403 C333474-9    Ni Po              900 Na        
+Balthus       0405 A886974-9    Hi                 812 Na        
+Fistor        0407 B663621-7  S Ni                 414 Na        
+Birmingham    0410 D671763-5  S De                 504 Na
+Bodie         0503 C5A1401-8    Fl Ni              513 Na        
+Unduine       0508 E526100-9  S Lo Ni              300 Na        
+Ymir          0509 A873883-A  N                    524 Na 
+Skelbanda     0605 C577442-6    Ni                 913 Na        
+Boryng        0606 C426432-8  N Ni                 704 Na        
+Clarinda      0607 E867722-2  S Ag              A  905 Na        
+Brennender    0608 C400420-9    Ni Va              802 Na  
+Dennis        0701 C658483-6    Ni                 413 Na        
+Adric         0704 B68A662-A    Ni Ri Wa           502 Na        
+Bruno         0707 B777600-A    Ag Ni              804 Na        
+Fannin        0709 E651510-5    Ni Po              314 Na 
+Fonya         0801 A673796-9    In                 712 Na        
+Rhoda         0803 C98A633-7    Ni Wa              224 Na        
+Baylor        0805 B984620-9  S Ag Ni              803 Na        
+Usea          0806 D440313-7    De Lo Ni Po        604 Na        
+Zaccarrio     0807 A884985-8  N Hi                 200 Na        
+Casy          0808 C666652-7    Ag Ni Ri           713 Na 

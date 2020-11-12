@@ -1,0 +1,44 @@
+@SUB-SECTOR:Kiel SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0133          0133 X100000-0    Lo Ni Va           000 Na M0 V G4 D
+0134          0134 X423000-0    Lo Ni Po           020 Na G5 IV M0 V
+0234          0234 X444000-0    Lo Ni              004 Na F4 V
+0235          0235 X552000-0    Lo Ni Po           000 Na K8 V M3 D
+0332          0332 X638000-0    Lo Ni              010 Na M2 V
+0334          0334 X667000-0    Lo Ni              003 Na F5 V
+0335          0335 X84505A-2    Lo Ni              004 Na F5 V M8 D
+0340          0340 X100046-5    Lo Ni Va           000 Na K0 V M0 D
+0440          0440 X200000-0    Lo Ni Va           000 Na M8 V M8 D M2 D
+0531          0531 X697021-2    Lo Ni              024 Na F7 V M7 D
+0540          0540 X454000-0    Lo Ni              024 Na F7 V
+0632          0632 X879024-1    Lo Ni              011 Na F9 V
+0636          0636 X894000-0    Lo Ni              022 Na F0 V
+0732          0732 X898000-0    Lo Ni              004 Na G9 V M8 D
+0733          0733 X520000-0    Ba De Lo Ni Po     005 Na M5 V
+0735          0735 X444000-0    Ba Lo Ni           024 Na G3 V M8 D
+0737          0737 X8C2022-0    Fl Lo Ni           002 Na G4 V
+0834          0834 X000047-0    As Lo Ni           020 Na M5 V M5 D
+0835          0835 X130000-0    De Lo Ni Po        002 Na M1 V M7 D

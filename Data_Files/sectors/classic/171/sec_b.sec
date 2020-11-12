@@ -1,0 +1,44 @@
+@SUB-SECTOR:Maiste SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0903          0903 X796024-1    Lo Ni              000 Na F4 V
+Mylner        0906 C225303-9  S Lo Ni              524 Mu M1 V
+1001          1001 X231000-0    Lo Ni Po           000 Na M7 V
+1102          1102 X260000-0    De Lo Ni           010 Na G9 V M1 D
+1103          1103 X542000-0    Lo Ni Po           000 Na G5 V M3 D
+Bechtel       1106 CAE4621-7    Fl Ni              602 Mu F4 V
+Borin         1108 C526510-6    Ni                 403 Mu M7 V
+1202          1202 X8A9000-0    Fl Lo Ni           020 Na F2 IV
+Sara          1204 C674459-6  S Ni                 302 Mu G9 V
+Steelaxe      1205 C35667A-4  S Ag Ni              100 Mu F2 V
+1303          1303 X7B1000-0    Fl Lo Ni           000 Na M5 V M5 D
+1401          1401 X331000-0    Lo Ni Po           024 Na G0 IV M7 D
+1504          1504 X65A044-0    Lo Ni Wa           002 Na F2 V
+Nazarene      1508 D437476-6  S Ni                 212 Gt M5 V M3 D
+Rustle        1509 D464698-7    Ag Ni Ri           123 Gt F7 V M7 D
+Macedon       1510 B75A778-9    Wa                 425 Gt F4 V
+1603          1603 X000000-0    As Lo Ni           021 Na F8 V
+Maiste        1607 B88699E-A    Hi                 103 Gt G1 V M4 D
+Grenoble      1608 B968665-5    Ag Ni Ri           914 Gt F1 V

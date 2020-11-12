@@ -1,0 +1,36 @@
+@SUB-SECTOR:Grieg SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0105          0105 XA9A000-0    Ba                 003 Na
+0203          0203 X676000-0    Ba                 012 Na
+0304          0304 X594000-0    Ba                 022 Na
+0401          0401 X247000-0    Ba                 003 Na
+0403          0403 X222000-0    Ba                 005 Na
+0406          0406 X300000-0    Ba                 002 Na
+0408          0408 X695000-0    Ba                 023 Na
+0607          0607 X66A000-0    Ba                 003 Na
+0703          0703 X8B4000-0    Ba                 004 Na
+0705          0705 X320000-0    Ba                 000 Na
+0802          0802 X886000-0    Ba                 024 Na

@@ -1,0 +1,83 @@
+@SUB-SECTOR:Trufor SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2525 2125 0 0
+$2525 2926 0 0
+$2926 3225 0 0
+$3225 0324 1 0
+$2830 3028 0 0
+$3028 2926 0 0
+$3028 0128 1 0
+$3225 0128 1 0
+#Political Boarders
+^2521 5
+^2521 4
+^2522 3
+^2522 4
+^2522 5
+^2622 4
+^2623 0
+^2623 1
+^2623 2
+^2624 1
+^2624 2
+^2625 1
+^2625 2
+^2625 3
+^2527 2
+^2527 3
+^2924 0
+^2924 1
+^2924 4
+^2924 5
+^3024 0
+^3024 1
+^3024 2
+^3025 1
+^3025 2
+^3026 1
+^3026 2
+^3026 3
+^2927 2
+^2927 3
+^2927 4
+^2927 5
+^2926 4
+^2926 5
+^2925 4
+^2925 5
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zenkenzer     2521 BAA6775-C  F Fl                 923 Na
+Premendes     2524 C4308DD-9    Po De           A  311 Am
+Genleshani    2525 A9789A9-E  F Hi In           A  610 Am
+Dohged        2527 C5559CB-B  M Hi In           A  112 Am
+Sporengiz     2623 B6608CB-C    De              A  121 Am
+Dalenmor      2625 A986975-F  F Hi In              922 Am
+Yhuizen       2626 B00089B-D  M As              A  411 Am
+Rarigutho     2630 C67A557-9  S Wa                 515 Na
+Gavaresi      2727 A000A88-C  F As Hi In           122 Na
+Guiklek       2821 X9B38CC-2    Fl              R  520 Na
+Besnes        2822 B556989-C  N Hi In              622 Na
+Quirianor     2828 A000756-C  F As                 722 Na
+Leporte       2830 B999544-9                       411 Na
+Depridu       2922 D422552-6    Po              A  111 Na
+Kruifor       2924 B3369EJ-C  M Hi In           A  420 Fo
+Eljaize       2925 B6A666J-B  M Fl              A  915 Fo
+Trufor        2926 A9889EJ-E  A Ag Hi In Cp     A  614 Fo
+Uinefor       2927 A000ADJ-D  F As Hi In        A  232 Fo
+Nureazzi      3024 B30196J-B  M Va Ic Hi In     A  102 Fo
+Diemenfor     3025 BA878DJ-C  M Ag              A  722 Fo
+Engafiosi     3026 B55376J-B  M Po              A  413 Fo
+Nheator       3028 A989688-C  N                    923 Na
+Talbart       3122 E558538-A                       802 Na
+Blue Ellipsoid3128 C9E7677-B  S Fl                 223 Na
+Po'uli        3222 C868501-5    Ag                 412 Na
+Koranoto      3223 C355684-C  S                    614 Na
+Swovak        3225 A9AA875-C  B Fl Wa              825 Na
+Oternelli     3227 C87A454-B  W Wa                 310 Na
+Snowdrift     3228 C51A323-9    Ic Wa Lo Ni        622 Na

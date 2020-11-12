@@ -1,0 +1,52 @@
+@SUB-SECTOR:Sudenwald SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Highland      1711 B7689C3-C  N Hi                 411 Na        
+Irma          1712 E760542-6    De Ni              300 Na  
+Liberia       1911 A867984-D  N Hi                 323 Na        
+Cail          1912 D653100-4  S Lo Ni Po           205 Na        
+Khayman       1914 B8638B6-8    In                 700 Na        
+Chiron        1916 C9B3311-9    Fl Lo Ni           500 Na   
+De Bromston   2012 E600000-7    Lo Ni              115 Na        
+Friedrich     2013 A797875-B  N In                 802 Na        
+Nutsy         2015 C987941-8    Hi                 813 Na        
+Bob's World   2018 E562200-5    Lo Ni              201 Na     
+Dairylea      2113 D761882-5    Ri                 903 Na        
+New Ethiopia  2114 C755621-4  S Ag Ni              212 Na        
+Mastrich      2115 E665543-5    Ag Ni              903 Na        
+Stel          2116 A9977CF-6    Ag                 804 Na        
+Shanghai      2118 D552722-6    Po                 222 Na  
+Cygnus        2212 D894541-3  S Ag Ni              113 Na        
+Brunhilde     2216 C766632-7  S Ag Ni              415 Na        
+Croftes       2217 A8679A4-E    Hi                 700 Ls        
+Zhao-Ping     2218 C886585-7  S Ag Ni              405 Na        
+Dwight        2219 C656851-7    Ag                 214 Na   
+Argent        2312 E676452-3    Ni                 900 Na        
+Cael's World  2317 E648300-7    Lo Ni              110 Na        
+Toni          2319 A768884-B  A Ri                 504 Ls        
+Tuileries     2320 A685884-9    Ri                 123 Ls  
+Elena         2412 D560666-5  S De Ni Ri         R 203 Ve        
+Carlyle       2418 D441443-6  K Hi               A 301 Ls        
+Muong         2420 C310361-8  S Lo Ni              905 Ls  

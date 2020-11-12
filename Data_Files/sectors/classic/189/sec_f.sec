@@ -1,0 +1,59 @@
+@SUB-SECTOR:Dysprosuk SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1515 1215 0 0
+$1515 1916 1 0
+#
+#Political Boarders
+^1115 0
+^1115 1
+^1115 4
+^1115 5
+^1116 0
+^1116 1
+^1215 0
+^1215 3
+^1315 0
+^1315 1
+^1315 5
+^1415 0
+^1415 3
+^1515 0
+^1515 1
+^1515 2
+^1515 5
+^1516 1
+^1516 2
+^1516 3
+^1516 4
+^1316 2
+^1316 3
+^1316 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0915 X502000-0    Ba Lo Ni Va Ic     012 --
+              0917 X7C4000-0    Ba Lo Ni Fl        023 --
+              0919 X669000-0    Ba Lo Ni           021 --
+              1111 X411000-0    Ba Lo Ni Ic        021 --
+Dysprosuk Hei 1115 E76A7A9-9    Wa                 412 Dy
+Dysprosuk Gime1116 B898988-C  M Hi In              323 Dy
+              1118 X461000-0    Ba Lo Ni           012 --
+              1212 X000000-0    Ba Lo Ni As        000 --
+Dysprosuk Alef1215 AA65975-E  A Ag Hi In Cp        925 Dy
+              1219 X9C8000-0    Ba Lo Ni Fl     A  012 --
+DysprosukEmbsy1317 A000613-D  A As                 935 Na
+              1320 X6A0000-0    Ba Lo Ni De     R  014 --
+              1411 X000000-0    Ba Lo Ni As        004 --
+              1412 X353000-0    Ba Lo Ni Po        010 --
+Dysprosuk Beit1415 A997ACB-D    Hi In           A  220 Dy
+              1418 X834000-0    Ba Lo Ni Po        013 --
+              1420 X9C8000-0    Ba Lo Ni Fl     R  015 --
+              1513 X516000-0    Ba Lo Ni Ic        022 --
+DysprosukDalet1515 A000885-C  M As                 732 Dy
+Dysprosuk Vav 1516 EAA4824-9    Fl                 214 Dy
+Entrell       1518 C677545-A    Ag                 621 Na
+Trapente      1617 C876556-B    Ag                 422 Na
+              1619 X8C9000-0    Ba Lo Ni Fl     R  012 --

@@ -1,0 +1,41 @@
+@SUB-SECTOR:Gesetz SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0122          0122 X427000-0    Lo Ni              012 Na M6 V K6 D
+0126          0126 X759000-0    Lo Ni              003 Na F6 V
+0323          0323 X668001-1    Lo Ni              005 Na F1 V M2 D
+0421          0421 X681001-0    Lo Ni              004 Na F8 V
+0425          0425 X7C3000-0    Ba Fl Lo Ni        003 Na M6 V M1 D M0 D
+0427          0427 X73A000-0    Ba Lo Ni Wa        005 Na G5 V
+0524          0524 X89A005-4    Lo Ni Wa           023 Na F7 V
+0528          0528 X313000-4    Ba Ic Lo Ni        003 Na A8 V
+0622          0622 X210000-0    Lo Ni              010 Na K5 V
+0623          0623 X764000-0    Ba Lo Ni           024 Na F0 V
+0627          0627 X558030-1    Lo Ni              005 Na F7 V
+0628          0628 X262000-4    Ba Lo Ni           012 Na G3 V M8 D M7 D
+0629          0629 X230000-0    Ba De Lo Ni Po     012 Na M2 V M5 D
+0729          0729 XAD7000-0    Fl Lo Ni           013 Na K4 V
+0826          0826 X764000-0    Lo Ni              024 Na F7 V
+0829          0829 X422000-0    Lo Ni Po           024 Na F7 V M6 D

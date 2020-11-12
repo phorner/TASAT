@@ -1,0 +1,62 @@
+@SUB-SECTOR:Wouchou SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Palladian     0901 E5647B6-4    Ag                 502 Na        
+Quith         0903 A558842-C    Ag Ni              713 Na        
+Greenblade    0906 C584774-4    Ag Ri              100 Na        
+Hanna         0908 D99A301-9  N Lo Ni Wa           804 Na        
+Mayra         0909 D200486-8  S Na Va              303 Na 
+Whippotte     1001 B654775-A    Ag                 520 Na        
+Stuttgart     1003 AA7A986-D  S Hi In Wa           914 Na        
+Carper        1004 C671400-9    Ni                 813 Na        
+Lagrange      1005 C8567A6-6    Ag                 100 Na        
+Kogrin        1008 A661872-A  N Ri                 815 Na 
+Max           1102 B545554-9    Ag Ni              610 Na        
+Riellagos     1104 E556412-6    Lo Ni              104 Na        
+Maori         1106 B689686-A  A Ni                 301 Na        
+Pingeala      1108 C531653-A  N Na Ni Po           915 Na        
+Trostag       1109 DA6A500-6  S Ni Wa              800 Na        
+Seton         1110 B789541-9    Ni                 104 Na 
+Durar         1206 C586621-5  S Ag Ni              914 Na        
+Dou Zhou      1207 C765875-9    Ag Ni              504 Ka        
+Monica        1208 A762820-A  A Lo Ni Po           101 Na        
+Moira         1209 C797643-7  S Ag Ni              425 Na 
+Chiang        1308 B300363-9  N Lo Ni Va         A 504 Ka        
+Kallen        1310 C346622-4  s Ag Ni              802 Na 
+Poyna         1401 E758542-7    Ag Ni              122 Na        
+Emerson       1403 C000434-A  S As Ni              903 Na        
+Colmen        1404 B694752-9  S Ag                 812 Na        
+Sirtis        1406 B844544-6  S Ag Ni              113 Na        
+Karol         1407 C588662-3  S Ag Ni Ri           603 Na        
+Darkseid      1409 C554685-6    Ag Ni              103 Na        
+Jake          1410 C676400-5    Ni                 623 Na
+McClure       1504 A649556-A  N Ni                 103 Na        
+Fioned        1505 B677553-7    Ag Ni              514 Na        
+Leannan       1506 C654664-7    Ag Ni              120 Na        
+Paulsen       1510 D460630-7  S De Ni              612 Na 
+Frost         1601 D657423-2  S Ni                 105 Na        
+Fredericton   1602 C478401-9    Ni                 700 Na        
+Parlan        1604 C655634-9    Ag Ni              303 Na        
+Roseda        1609 B445464-9  S Ni                 203 Na

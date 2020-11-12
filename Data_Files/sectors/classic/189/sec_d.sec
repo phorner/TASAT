@@ -1,0 +1,43 @@
+@SUB-SECTOR:Alduwai Edge SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2502 X366000-0    Ba Lo Ni           003 --
+Fenlekast     2505 D8567AA-6    Ag                 321 Na
+              2601 X78A000-0    Ba Lo Ni Wa        021 --
+Rozebif       2606 E547202-5    Lo Ni              210 Na
+Neeski        2608 C879548-B  S                    812 Na
+              2703 X899000-0    Ba Lo Ni           003 --
+              2704 X000000-0    Ba Lo Ni As        021 --
+Naebaus       2709 BAB4889-C  N Fl                 631 Na
+              2801 X553000-0    Ba Lo Ni Po        010 --
+              2803 X100000-0    Ba Lo Ni Va De     002 --
+              2805 X674000-0    Ba Lo Ni           012 --
+Elbernogen    2807 C856558-B  S                    323 Na
+Harvey's World2809 C223745-9    Po                 913 Na
+              2902 X567000-0    Ba Lo Ni           021 --
+              2905 X202000-0    Ba Lo Ni Va De     000 --
+              2906 X000000-0    Ba Lo Ni As        024 --
+              2907 XAF5000-0    Ba Lo Ni Fl        031 --
+              2908 X333000-0    Ba Lo Ni           003 --
+              2909 X87A000-0    Ba Lo Ni Wa        012 --
+              3001 X236000-0    Ba Lo Ni           012 --
+              3003 X8A0000-0    Ba Lo Ni De        022 --
+              3006 X541000-0    Ba Lo Ni Po        010 --
+              3007 X777000-0    Ba Lo Ni           033 --
+Vliraruzi     3010 C463588-A  S                    212 Na
+              3106 X66A000-0    Ba Lo Ni Wa        012 --
+              3108 X8A1000-0    Ba Lo Ni Fl        023 --
+              3109 X587000-0    Ba Lo Ni           011 --
+              3110 X324000-0    Ba Lo Ni Po        010 --
+              3201 X000000-0    Ba Lo Ni As        011 --
+              3202 X889000-0    Ba Lo Ni           022 --
+              3205 X456000-0    Ba Lo Ni           015 --
+              3206 X111000-0    Ba Lo Ni Ic        000 --
+              3208 X430000-0    Ba Lo Ni Po De     003 --
+              3210 X8B6000-0    Ba Lo Ni Fl        023 --

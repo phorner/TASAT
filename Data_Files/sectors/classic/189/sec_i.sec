@@ -1,0 +1,104 @@
+@SUB-SECTOR:Chromirim SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0223 0622 0 0
+$0223 0327 0 0
+$0223 3223 -1 0
+$0622 0620 0 0
+$0622 0725 0 0
+$0622 0923 0 0
+$0327 0630 0 0
+$0327 0727 0 0
+$0725 0727 0 0
+$0630 0732 0 1
+#
+#Political Boarders
+^0121 0
+^0121 1
+^0121 5
+^0221 0
+^0221 1
+^0331 2
+^0331 3
+^0331 4
+^0325 4
+^0421 0
+^0421 5
+^0521 5
+^0621 1
+^0721 3
+^0721 4
+^0721 5
+^0722 1
+^0822 0
+^0822 1
+^0823 2
+^0823 3
+^0824 5
+^0824 4
+^0725 2
+^0725 3
+^0625 2
+^0625 3
+^0625 4
+^0526 0
+^0526 4
+^0526 5
+^0426 2
+^0426 3
+^0327 0
+^0327 2
+^0327 3
+^0327 4
+^0327 5
+^0326 1
+^0326 2
+^0326 0
+^0224 3
+^0125 2
+^0125 3
+^0125 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Carreve       0121 C655665-8    Ag                 422 Ch
+Pilovis       0123 B444363-A  N Po Lo Ni           613 Ch
+Duyong        0125 C66A574-9    Wa                 525 Ch
+Eronis        0126 C9D4974-A    Fl Hi In           735 Na
+              0128 X335000-0    Ba Lo Ni Po        024 --
+Zerrero       0129 C679432-9                       224 Na
+Ellitt        0222 D553564-5    Po                 212 Ch
+Chromirim     0223 A899AAC-D  A Hi In Cp           225 Ch
+Lozan         0226 C85A686-A    Wa                 420 Na
+              0228 X635000-0    Ba Lo Ni Po        015 --
+Zogan         0322 C300364-9    Va De Lo Ni     A  414 Ch
+Crerir        0325 C666565-7  M Ag                 522 Ch
+Oneth         0326 C634644-9    Po                 812 Na
+Laevan        0327 B000855-B  F As                 734 Ch
+              0328 X64A000-0    Ba Lo Ni Wa        010 --
+              0330 X777000-0    Ba Lo Ni           033 --
+Zowir         0424 D424677-9  M Po                 614 Ch
+Savigus Labs  0521 A000515-F    As Rs              535 Ch
+Onezul        0523 C998875-A  A                    820 Ch
+Curren        0524 C7A5566-9  M Fl                 413 Ch
+Unzoo         0526 CAA8673-A    Fl                 522 Na
+Gurrwaz       0528 E887ACC-7    Ag Hi In        R  212 Na
+              0529 X431000-0    Ba Lo Ni Po        001 --
+Unlis         0622 C000763-B  M As                 734 Ch
+Wrulus        0625 D980400-8    De              A  213 Ch
+              0627 X7A2000-0    Ba Lo Ni Fl        000 --
+              0628 X8A2000-0    Ba Lo Ni Fl     R  012 --
+Lumarr        0630 BA89544-A  N                    925 Na
+Nizovil       0723 C787664-9    Ag                 621 Ch
+Zunor         0725 BAF8988-C  F Fl Hi In           534 Ch
+Umiloskov     0727 C000974-A    As Hi In           735 Na
+              0728 X9B7000-0    Ba Lo Ni Fl     R  020 --
+              0729 X431000-0    Ba Lo Ni Po        000 --
+Sulmenor      0822 C748765-9                       421 Ch
+Kruzenor      0823 C7548DB-A  M Po              A  513 Ch
+              0824 X8B2000-0    Ba Lo Ni Fl     R  000 --
+              0826 X8C6000-0    Ba Lo Ni Fl     R  023 --
+              0828 X442000-0    Ba Lo Ni Po        011 --
+              0829 X9A5000-0    Ba Lo Ni Fl     A  014 --

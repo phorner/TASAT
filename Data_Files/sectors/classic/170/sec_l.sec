@@ -1,0 +1,42 @@
+@SUB-SECTOR:Lennon SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2521          2521 X498000-0    Ba                 004 Na
+2522          2522 X575000-0    Ba                 015 Na
+2527          2527 X000000-0    Ba                 001 Na
+2622          2622 X403000-0    Ba                 004 Na
+2626          2626 X462000-0    Ba                 020 Na
+2825          2825 X534000-0    Ba                 003 Na
+2828          2828 X332000-0    Ba                 025 Na
+2922          2922 X888000-0    Ba                 002 Na
+2927          2927 X400000-0    Ba                 003 Na
+2930          2930 X887000-0    Ba                 000 Na
+3024          3024 X594000-0    Ba                 004 Na
+3026          3026 X386000-0    Ba                 000 Na
+3121          3121 X647000-0    Ba                 004 Na
+3122          3122 X95A000-0    Ba                 023 Na
+3125          3125 X200000-0    Ba                 000 Na
+3225          3225 XA9A000-0    Ba                 000 Na
+3229          3229 X7A7000-0    Ba                 005 Na

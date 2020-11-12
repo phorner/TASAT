@@ -1,0 +1,54 @@
+@SUB-SECTOR:Losenor SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hatfield      2502 C968974-8    Hi                 304 Na        
+Tarragona     2503 B650500-9    De Ni Po           400 Na        
+Khaine        2504 C769983-B  S Hi                 602 Na 
+Aides         2602 C320432-9    De Ni Po           304 Na        
+McGill        2604 C655695-5    Ag Ni              402 Na        
+Ophiucus      2605 C7839D6-4    Hi                 503 Na        
+Flavio        2606 B688764-7    Ag Ri              724 Na  
+Randolphe     2703 C664886-9    Ri                 702 Na        
+Wone          2704 X6BA1A3-9    Fl Lo Ni Wa        403 Na        
+De Brigham    2705 A7969A6-9    Hi In            A 604 Na        
+Imman Ali     2706 A785882-E    Ri                 306 Na        
+Donkan        2707 B545494-9    Ni                 204 Na  
+Estra         2801 D656554-8    Ag Ni              503 Na        
+Matril        2803 D640303-A    De Lo Ni Po        212 Na        
+Balisi        2805 C100401-9    Ni Va            A 903 Na        
+Elantir       2806 A763844-C    Ni Po              224 Na        
+Goodman       2807 C554421-7  S Ni                 101 Na     
+Watkins       2903 C762972-9    Hi                 904 Na 
+Wilfred       3002 C6519A6-9    Hi Po              100 Na        
+Rubi          3004 C641433-6    Ni Po              501 Na        
+Luisa         3005 C883700-9  N Lo Ni Po           804 Na        
+Rigel 786     3008 X000000-0  R                    000 Na 
+Oldsmobile    3105 B557576-9  N Ag Ni              901 Na        
+Kines         3106 C454342-5    Lo Ni              332 Na        
+Marks         3108 C651552-8    De Ni Po           223 Na 
+Czech         3202 C651442-9  S Ni Po              800 Na        
+Shawnee       3204 C851566-6    Ni Po              704 Na        
+Garibaldi     3205 A782753-A    Ri                 103 Na        
+Heinz         3207 C8827C6-6    Ag Ri            A 614 Na        

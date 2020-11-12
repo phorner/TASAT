@@ -1,0 +1,34 @@
+@SUB-SECTOR:Wonder SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0237          0237 X768000-0    Ba                 012 Na
+0331          0331 X200000-0    Ba                 000 Na
+0437          0437 X797000-0    Ba                 011 Na
+0440          0440 X755000-0    Ba                 004 Na
+0534          0534 X587000-0    Ba                 020 Na
+0631          0631 X550000-0    Ba                 004 Na
+0736          0736 X8C0000-0    Ba                 004 Na
+0737          0737 X683000-0    Ba                 024 Na
+0832          0832 X401000-0    Ba                 004 Na

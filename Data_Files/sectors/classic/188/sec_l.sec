@@ -1,0 +1,51 @@
+@SUB-SECTOR:Honda SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Calanthe      2521 C675624-6  S Ag Ni              700 Ls        
+Witner        2526 C966620-9    Ag Ni              414 Na        
+Budepest      2529 A9699A3-9    Hi                 302 Mc        
+Payntour      2530 B677833-9                       324 Rr 
+Aachenbahn    2621 B557764-9    Ag                 934 Ls        
+Carfergus     2622 A564850-C  A Ri                 603 Ls        
+Miranda       2625 X325000-0    Ba Lo              002 Na        
+Uri'vk        2626 B764934-9  N Hi                 403 Na        
+Ehrlich       2629 C995864-9    In                 411 Mc        
+Sensei        2630 B678962-8    Hi In              803 Rr 
+Berelate      2722 C554755-9    Ag                 513 Ls        
+Lammas        2724 DA00311-C    Lo Wa              314 Na        
+Wyntryngham   2725 C7639E6-8    Hi               A 523 Na        
+Derthe Belt   2728 D000500-9    As Ni            A 743 Na    
+Julio         2821 C57A520-9    Ni Wa              100 Ls        
+Wayfinder     2823 A663821-C  N In                 700 Ls  
+Wolf 965      2922 X200000-0    As Ba Lo Ni        802 Ls        
+Fabriano      2923 B767623-9    Ag Ni              501 Ls        
+Raschev       2929 D8697C4-6                       101 Na        
+Morovia       2930 D657972-6    Hi               A 321 Na  
+Losner        3026 C662A63-6    Hi                 103 Fh        
+Orlando       3028 D000432-9    As Ni              224 Na  
+Davics        3123 X669504-0  N Ag               R 502 Na        
+Heron         3126 A632984-C    Hi In Na Po        513 Fh 
+Narayanan     3226 C6766D4-5    Ag Ni              924 Na        
+Hrugen        3228 X765672-0    Ag Ni Ri           214 Na            

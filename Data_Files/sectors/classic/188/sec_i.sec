@@ -1,0 +1,52 @@
+@SUB-SECTOR:Delhi SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kaufman       0122 B86A5D0-A    Ni Wa              302 Ce        
+Morrissey     0123 D856662-3    Ag Ni              810 Na        
+Hawkwind      0126 B685550-9    Ag Ni              510 Na        
+Elmsford      0127 D6B0213-9    De Lo Ni           504 Na        
+Lyman         0128 B787624-C    Ag Ni              601 Iw      
+Estalia       0222 B6619D6-C  S Hi              A  103 Ce        
+Dazos         0224 C200420-9  S Ni Va              913 Na   
+Methuselah    0323 C6485D6-4    Ag Ni           A  504 Ce        
+Dardenelles   0324 B863974-9    Hi                 604 Na        
+Dumfrieth     0326 DA846B6-2  S Ag Ni           A  803 Na 
+Khumbanigahsh 0422 C533331-7    Lo Ni Po           402 Na        
+Whitman       0423 A2737D3-A    Lo Ni              702 Ce        
+Locklear      0424 A1207B6-9    De Na Po           321 Na        
+Epsom         0427 C764872-6    Ri                 813 Na    
+Anhlaoigh     0524 B750610-A    De Ni Po           910 Na        
+Mormon        0525 C683774-6  S Ri                 223 Na        
+Marseilles    0528 X77A753-5    Ni Wa           A  514 Na        
+Hapsburg      0529 B885863-9    Ri              A  903 Ne  
+Sloane        0623 E766500-5    Ag Ni              704 Na        
+Norys         0628 E694874-4    Ag                 313 Na        
+Rafaello      0630 B769730-8  N Ni                 612 Ne   
+Sadie         0723 B373342-A    Lo                 103 Na        
+Knutr         0727 A659742-A  N In                 203 Na        
+Flagstaff     0730 D200474-8    Ni Va              314 Ne 
+Ariel         0822 C889A99-A    Hi                 811 Na        
+Cadate        0826 A777721-9    Ag Ni              423 Na        
+Prince Samuel 0828 E867724-3  S Ag                 325 Na 

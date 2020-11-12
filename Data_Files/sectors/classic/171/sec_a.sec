@@ -1,0 +1,49 @@
+@SUB-SECTOR:Malorn SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Jost          0103 D53A365-7  S Lo Ni Wa           203 Mu M6 V K7 D
+Whane         0104 DAE2478-6  S Fl Ni              414 Mu M5 V
+Paraguay      0205 D22075A-7  S De Na Po           504 Mu K5 V
+Blaecleah     0206 C67398A-5    Hi In              904 Mu F4 V
+Varmer        0208 E400586-9    Ni Va              600 Mu M6 V
+Dade          0304 A388000-0    Ba Lo Ni           904 Mu G4 V
+Carthag       0305 A586322-8  S Lo Ni              112 Mu K4 V
+Spector       0306 A351000-9    Ba Lo Ni Po        910 Mu F1 V M8 D
+Uadrian       0401 D665675-4    Ag Ni Ri           100 Mu F6 V M3 D
+Lipschitz     0402 E310898-5    Na                 813 Mu F1 V
+Taro          0403 E411785-8    Ic Na              401 Mu F2 V
+Ringwood      0407 E447456-4    Ni                 702 Mu G7 V
+0410          0410 X410023-3    Lo Ni              003 Na M0 V M0 D
+Dart          0501 D130622-4  S De Na Ni Po        623 Mu M2 V M1 D
+Wympylster    0504 E200447-9    Ni Va              303 Mu G5 V M2 D
+Estra         0508 E323467-5    Ni Po              904 Mu M5 V
+0510          0510 X447000-0    Lo Ni              001 Na F3 V
+Battelle      0603 E886433-2    Ni                 300 Mu F8 V M1 D
+Ryan          0704 E372767-3                       514 Mu M9 V M2 D
+Emery         0705 E410756-9    Na                 323 Mu M1 IV
+0710          0710 X411000-0    Ba Ic Lo Ni        025 Na M7 V
+0802          0802 X897000-0    Lo Ni              004 Na F2 V
+Ordred        0806 CAB87AC-4  S Fl                 302 Mu M5 V
+0810          0810 X310000-0    Lo Ni              024 Na F6 V

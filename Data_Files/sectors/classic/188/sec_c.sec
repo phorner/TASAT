@@ -1,0 +1,55 @@
+@SUB-SECTOR:Kirosawa SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hesperus      1707 C95A594-7  S Ni Wa              511 Na        
+Gabon         1709 X663736-1  N Ri               R 210 Na        
+Hoar Frost    1710 E894200-9    Lo Ni              422 Na 
+De Slyndkesky 1802 C666572-6  S Ag Ni              602 Na        
+Mai           1803 X851785-3    Po                 904 Na        
+Camino        1806 E661265-7    Lo Ni              600 Na        
+Coning        1807 X130230-A    De Lo Ni Po        610 Na        
+Philadelphia  1808 C772873-8    Ni                 603 Na  
+Lottie        1904 E450422-8    De Ni Po           203 Na        
+Nikson        1905 C553796-6    Po                 920 Na        
+Nicolson      1906 C650941-9    De Hi Po           614 Na        
+Bonde         1909 A966A45-E    Hi                 121 Na        
+Palyntir      1910 A688584-D    Ag Ni              924 Na 
+Abi           2003 A6A3784-C  S Fl                 922 Na        
+Buadhach      2004 C9A2374-9  S Fl Lo Ni           401 Na        
+Krager        2006 B792502-A  S Ni                 105 Na        
+Sangakara     2007 A777820-A  N                    104 Na        
+Gilchrist     2008 X510486-3  S Ni               R 105 Na  
+Gwent         2103 B654585-A    Ag Ni              921 Na        
+Phoebus       2104 C651552-9    Ni Po              402 Na        
+Frinay        2108 X120000-0    Ba De Lo           014 Na        
+Flinder       2109 X866772-4    Ba Lo              405 Na
+Targon        2203 C856400-9  S Ni                 803 Na        
+Dhugal        2209 A797542-9  S Ag Ni              620 Na   
+Dow           2301 D500202-9  N Lo Ni Va           404 Na        
+Kabul         2302 D655862-5    Ni                 324 Na        
+Sadie         2303 E766701-6    Ag                 900 Na        
+De Balne      2310 B640685-A  N De Ni Po           613 Na 
+De Westby     2401 C6637B6-7    Ni Ag              400 Na        
+Tortha        2407 X784600-0  S Ag Ni            R 405 Na 

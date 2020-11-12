@@ -1,0 +1,57 @@
+@SUB-SECTOR:Hanson SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Alameda       1732 C8849C6-9    Hi                 515 Na        
+Trede         1733 C669696-8    Ni Ri              105 Na        
+Ferreira      1734 B574660-9  S Ag Ni              511 As        
+La Paz        1736 A7748G5-9  N Lo Ni              602 As        
+Herc          1739 E7667B6-6    Ag                 905 As   
+Von Strang    1833 B668721-9    Ag                 702 Na        
+Sakon         1834 C310451-9  N Ni                 400 As        
+Rime          1835 C783730-6    Ag                 602 Fr        
+Titan         1836 A673831-A  N Ni                 504 Fr        
+Yung          1837 C768974-9  S Hi                 100 Fr             
+Respite       1931 D661500-6    Ni                 400 Na        
+Gorton        1940 EA86643-2    Ag Ni Ri           125 Na     
+Zang          2036 X772600-0    Ni               R 102 Na        
+Coddington    2039 C873752-7    Ni Po              703 Na 
+Dunbar        2132 B778771-9    Ag                 624 Na        
+Citroen       2133 B652820-9    Po                 722 Na        
+Somerset      2134 B667842-9    Ri                 810 Na        
+Aeltra        2135 C94AAC6-A  S Hi In Wa           203 Fr        
+Vladislav     2136 D982686-5    Ni Ri              600 Fr       
+Sao           2231 A54467B-B  N Ag                 504 Na        
+Stulwig       2236 A762842-B    Ri                 705 Fr        
+Kreen         2237 A654720-A    Ag                 502 Fr        
+Storm         2238 C776574-4  S Ag Ni              202 Fr    
+Knott         2331 C88A696-6  S Ni Ri Wa           101 Mc        
+Raynaldo      2338 CA9A611-7    Ni Wa              804 Fr        
+Dama          2339 E685801-6    Lo Ni              712 Na        
+Canberra      2340 A676842-B  A Ag Ni              223 Fr      
+Del Green     2433 E989642-7    Ni Ri              902 Fr        
+Marceau       2434 B671532-9    Ni                 313 Fr        
+Spiegel       2435 A883811-9    Ni                 504 Fr        
+Taillour      2438 B665950-9  N Hi                 302 Fr        
+Boldor        2439 B885710-9    Ag                 704 Fr        

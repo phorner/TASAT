@@ -1,0 +1,59 @@
+@SUB-SECTOR:Terese SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2531          2531 X341000-0    Lo Ni Po           003 Na F3 V M4 D
+2536          2536 X273000-0    Lo Ni              003 Na F9 V
+2538          2538 X524000-0    Lo Ni              010 Na F5 V
+2539          2539 X348000-0    Lo Ni              022 Na K9 V
+2631          2631 X000000-0    As Lo Ni           001 Na G0 V M7 D
+2634          2634 X555000-0    Lo Ni              003 Na F4 V M8 D
+2635          2635 X539000-0    Lo Ni              010 Na M2 V
+2636          2636 X324000-0    Lo Ni              014 Na G6 V
+2637          2637 X777000-0    Lo Ni              014 Na F7 V
+2638          2638 X746000-0    Lo Ni              010 Na G6 V M6 D
+2639          2639 X324000-0    Lo Ni              000 Na M5 II
+2731          2731 X878000-0    Lo Ni              014 Na K9 V M5 D
+2732          2732 X8A2000-0    Ba Fl Lo Ni        013 Na M9 V M9 V
+2733          2733 X425000-0    Lo Ni              022 Na K8 V
+2739          2739 X200000-0    Lo Ni Va           023 Na M1 II K4 V
+2831          2831 X481000-0    Lo Ni              014 Na G8 V M6 D
+2832          2832 X443000-0    Lo Ni Po           021 Na F9 V
+2834          2834 X694000-0    Lo Ni              010 Na F7 V
+2837          2837 X370000-0    De Lo Ni           004 Na F4 V M3 D M8 D
+2933          2933 X663000-0    Lo Ni              014 Na G8 V
+2937          2937 X356000-0    Lo Ni              025 Na F8 V M6 D
+2939          2939 X77A045-0    Lo Ni Wa           002 Na F5 V
+3031          3031 X9E8000-0    Fl Lo Ni           000 Na M7 V M1 D
+3032          3032 X637000-0    Lo Ni              033 Na F3 V M2 D
+3034          3034 X110000-0    Lo Ni              014 Na K8 V
+3038          3038 X400000-0    Lo Ni Va           004 Na M7 IV
+3131          3131 X945000-0    Lo Ni              004 Na F9 V M5 D
+3132          3132 X583000-0    Lo Ni              023 Na F7 V M6 D
+3134          3134 X482000-0    Lo Ni              013 Na G3 V
+3138          3138 X322000-0    Lo Ni Po           011 Na M8 V M5 D
+3140          3140 X454000-0    Lo Ni              003 Na F7 V M3 D
+3232          3232 X212000-0    Ic Lo Ni           000 Na G8 V
+3233          3233 X453000-0    Lo Ni Po           000 Na F1 V
+3237          3237 X563000-0    Lo Ni              004 Na F3 V M6 D

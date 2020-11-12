@@ -1,0 +1,43 @@
+@SUB-SECTOR:Dvorak SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2503          2503 X9B8000-0    Ba                 002 Na
+2506          2506 XA9A000-0    Ba                 003 Na
+2508          2508 X754000-0    Ba                 024 Na
+2601          2601 X8B4000-0    Ba                 010 Na
+2607          2607 X330000-0    Ba                 011 Na
+2610          2610 X300000-0    Ba                 013 Na
+2703          2703 X645000-0    Ba                 023 Na
+2704          2704 X433000-0    Ba                 024 Na
+2705          2705 X110000-0    Ba                 033 Na
+2807          2807 X300000-0    Ba                 014 Na
+Hidlimar      2902 C645468-7    Ni                 713 Mu
+2905          2905 X255000-0    Ba                 023 Na
+2906          2906 X221000-0    Ba                 013 Na
+Dvorak        3104 C8A5978-8    Fl Hi              600 Mu
+Coates        3106 C668511-5    Ag Ni              414 Mu
+Jaspre        3107 C66A588-8    Ni Wa              604 Mu
+3110          3110 X328000-0    Ba                 012 Na
+Sparling      3204 C846300-6    Lo Ni              400 Mu

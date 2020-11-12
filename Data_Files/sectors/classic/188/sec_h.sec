@@ -1,0 +1,56 @@
+@SUB-SECTOR:Kasparov SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Andalar       2513 C881464-6    Ni               R 700 Ve        
+Karin II      2514 C771664-4    Po                 404 Ve        
+Locke         2517 B778531-7  S Ag Ni              920 Ls        
+De Stowe      2518 C546724-8    Ba Lo              104 Ls  
+Houdini       2613 B8578G5-B  N Ag Ni              313 Ve        
+Varella       2614 A8969G6-D    Lo Ni              621 Ve        
+Kern          2616 C797511-9  N Ag Ni              905 Ls        
+Hemi's World  2617 B762820-5    Ni                 412 Ls        
+Stevenson     2618 C76A901-9    Hi Wa              220 Ls        
+Winterzee     2620 A65A886-9    Wa                 800 Ls
+Kwang         2714 A766AG5-A  N Hi               R 104 Ve        
+Roanne        2716 C668866-9  N Ri                 113 Ve  
+Braban        2811 EAB6246-8    Fl Lo Ni           423 Na        
+Wnderwynd     2813 D3003G6-5    Lo Ni Va           903 Ve        
+Caomhan       2814 C6957G6-A  N Ag                 404 Ve        
+Hogun         2816 C5517G6-9    Lo Ni Po           104 Ve        
+Krim          2817 A563800-B  N                    910 Ls        
+Mekt          2818 A585853-C    Ag Ni Ri           602 Ls  
+De Payth      2912 C973564-8  S Ni                 400 Ve        
+Forenton      2913 C686751-4    Ag Ri              200 Ve        
+Talapur       2916 C779920-9  S Hi In              304 Ls        
+Moreland      2917 A768944-D  S Hi                 414 Ls   
+Nockmaar      3015 X110000-0    Ba Lo              010 Ls        
+Everglades    3016 C789372-7    Lo Ni              514 Ls        
+Dionysus      3017 A863854-A  N Ri                 813 Ls  
+Afzal         3112 D786743-3    Ag Ri              101 Na        
+Imma Ingrida  3115 C677466-8  S Ni                 900 Na        
+Hatcher       3117 E6537A4-4    Po                 523 Ls 
+Kennedy       3212 B685742-7    Ag Ri              502 Na        
+Minsk         3213 C7689D6-7  S Hi               R 712 Na        
+Adalgar       3215 E663623-3    Ni                 510 Na

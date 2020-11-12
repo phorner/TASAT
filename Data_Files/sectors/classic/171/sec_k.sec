@@ -1,0 +1,57 @@
+@SUB-SECTOR:Toh SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1723          1723 X226000-0    Lo Ni              004 Na G5 V M8 D
+Cadenza       1727 X89A574-0    Ni Wa              203 Tr F4 V M3 D
+1823          1823 X200000-0    Lo Ni Va           002 Na M6 V M6 D
+1825          1825 X563000-0    Ba Lo Ni           003 Na G5 V
+Fogter        1828 X86379A-0    Ri                 802 Tr F0 V M4 D
+1830          1830 X565000-0    Lo Ni              002 Na G4 V
+1925          1925 X321000-0    Lo Ni Po           013 Na K3 V
+Bavaria       1927 D657210-6  S Lo Ni              204 Tr F4 V
+1930          1930 X583000-0    Lo Ni              000 Na F0 V
+Idint         2026 D512000-0    Ba Ic Lo Ni        502 Tr F2 V M3 D
+2028          2028 X454000-0    Ba Lo Ni           003 Na F5 V
+2029          2029 X879000-0    Lo Ni              000 Na F1 V M8 D
+2121          2121 X353000-0    Lo Ni Po           003 Na F0 V M7 D
+2122          2122 X664000-0    Ba Lo Ni           012 Na M3 V M8 D M1 D
+2123          2123 XA98000-0    Lo Ni              002 Na G7 V
+Ortho         2125 X4419CA-1    Hi In Po           303 Tr M4 V
+2127          2127 X9E7000-0    Fl Lo Ni           001 Na K7 V
+2128          2128 X635033-0    Lo Ni              003 Na M6 IV M9 D
+2130          2130 X543000-0    Ba Lo Ni Po        000 Na F6 V M9 D
+2222          2222 X254000-0    Lo Ni              002 Na G6 V M0 D
+Arcy          2224 X686467-0    Ni                 703 Tr F4 V
+2230          2230 X467000-0    Ba Lo Ni           022 Na F0 V
+2321          2321 X775000-0    Lo Ni              004 Na G2 V
+2322          2322 X534000-0    Ba Lo Ni           004 Na M7 V M0 D
+Schweitzer    2325 D150212-7  S De Lo Ni Po        902 Tr G8 V
+2328          2328 X100000-0    Lo Ni Va           004 Na F1 V M1 D
+2330          2330 X424000-0    Ba Lo Ni           004 Na F9 V
+2423          2423 X778000-0    Ba Lo Ni           023 Na F3 V M3 D
+2426          2426 X200000-0    Ba Lo Ni Va        014 Na K0 IV M5 V
+2427          2427 X223000-0    Ba Lo Ni Po        003 Na M0 V
+2428          2428 X53A000-0    Lo Ni Wa           001 Na K8 V M5 D
+2429          2429 X666000-0    Lo Ni              004 Na F6 V

@@ -1,0 +1,36 @@
+@SUB-SECTOR:Fteiheiel SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Iyheahi'a     0915 D482AHB-D  T Hi                 903 Fo
+Hkeeyofao     0916 C1403J9-8  R De Lo Ni Po        601 Fo
+1113          1113 XAB8000-0    Ba                 003 Na
+Kuraikho      1116 C6766K2-C    Ag Ni              402 Fo
+1318          1318 X320000-0    Ba                 024 Na
+1412          1412 X484000-0    Ba                 014 Na
+1415          1415 X617000-0    Ba                 002 Na
+1513          1513 X110000-0    Ba                 015 Na
+1515          1515 X986000-0    Ba                 004 Na
+1612          1612 X451000-0    Ba                 000 Na
+1618          1618 X77A000-0    Ba                 015 Na

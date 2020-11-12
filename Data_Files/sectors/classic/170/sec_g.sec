@@ -1,0 +1,46 @@
+@SUB-SECTOR:Heads SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1713          1713 X201000-0    Ba                 024 Na
+1811          1811 X355000-0    Ba                 033 Na
+1812          1812 X644000-0    Ba                 011 Na
+1813          1813 X220000-0    Ba                 004 Na
+1815          1815 X387000-0    Ba                 003 Na
+1913          1913 XAE4000-0    Ba                 022 Na
+1914          1914 XAB3000-0    Ba                 000 Na
+1920          1920 X594000-0    Ba                 024 Na
+2012          2012 X436000-0    Ba                 011 Na
+2016          2016 X402000-0    Ba                 002 Na
+2019          2019 X353000-0    Ba                 002 Na
+2116          2116 X320000-0    Ba                 012 Na
+Schepehyrd    2214 A988765-7  N Ag Ri              405 Hc
+2220          2220 X400000-0    Ba                 004 Na
+2311          2311 X85A000-0    Ba                 034 Na
+Bassett       2314 A400432-D  N Ni Va              303 Hc
+2411          2411 X436000-0    Ba                 004 Na
+2412          2412 X465000-0    Ba                 005 Na
+Knot          2414 B423361-A    Lo Ni Po           923 Hc
+2417          2417 X876000-0    Ba                 004 Na
+2418          2418 X8B4000-0    Ba                 001 Na

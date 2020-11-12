@@ -1,0 +1,43 @@
+@SUB-SECTOR:Empty Quarter SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ishikawa      0232 C8C4895-A    Fl                 712 Ne        
+Tenko         0235 C662820-9    Ni                 313 Ne        
+Hanshin       0237 B885866-9    Ri                 334 Ne        
+Hornsby       0238 B864963-8  N Hi                 100 Ne
+Ambersand     0332 C689411-9    Ni                 400 Ne        
+Nihongo       0334 B765874-2  S Ri              A  115 Ne        
+Moragi        0338 X781663-2    Ni Ri           R  214 Ne       
+Hanshu        0435 A884AA6-C  N Hi In Ri           113 Ne    
+Dyke          0538 E584762-3    Ag Ri              823 Ne        
+Margherita    0540 CA75664-8  S Ag Ni              902 Ne       
+Clovis        0632 B756661-7  S Ag Ni              602 Ne        
+Mitsubushi    0633 A665994-C  N Hi                 810 Ne        
+Farrokh       0635 C100564-8    Ni Va              202 Ne        
+Wiley         0636 C655866-7                       100 Ne    
+Akimatsu      0735 C7559A4-8    Hi                 111 Ne      
+Rhineland     0831 BA86866-8  S Ri               A 300 Ne        
+Lugh          0832 A864866-B    Ri                 213 Ne        
+Pyonyang      0837 C664730-2  S Ag               A 414 Ne        

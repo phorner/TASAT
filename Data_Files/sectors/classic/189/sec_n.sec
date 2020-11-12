@@ -1,0 +1,54 @@
+@SUB-SECTOR:Warzone Defence SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1233 1433 0 0
+$1433 1633 0 0
+$1633 1830 1 -1
+$1633 2034 1 0
+#
+#Political Boarders
+^1534 0
+^1534 3
+^1534 4
+^1534 5
+^1633 0
+^1633 1
+^1633 5
+^1634 4
+^1635 3
+^1635 4
+^1635 5
+^1636 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0932 X224000-0    Ba Lo Ni Po        013 --
+              0934 X540000-0    Ba Lo Ni Po De     021 --
+              1031 X8C2000-0    Ba Lo Ni Fl     R  012 --
+              1036 X300000-0    Ba Lo Ni Va De     023 --
+              1039 X257000-0    Ba Lo Ni           013 --
+              1131 X000000-0    Ba Lo Ni As     R  013 --
+              1134 X212000-0    Ba Lo Ni Ic        022 --
+              1140 X778000-0    Ba Lo Ni           012 --
+              1231 X1B1000-0    Ba Lo Ni Fl     R  021 --
+WarzoneDefence1233 A000975-F  A As Hi In Rs Cp     735 Na
+              1235 X456000-0    Ba Lo Ni           010 --
+Galimak       1236 C988754-C  F Ag                 515 Na
+              1238 X512000-0    Ba Lo Ni Ic        015 --
+Umorrani      1334 C966555-B    Ag                 523 Na
+Skogluk       1336 B997775-B                    N  114 Na
+              1339 X588000-0    Ba Lo Ni           023 --
+              1432 XAC7000-0    Ba Lo Ni Fl     A  024 --
+Esramer       1433 C448744-9                       515 Na
+              1531 X9A4000-0    Ba Lo Ni Fl     A  014 --
+              1533 XAA7000-0    Ba Lo Ni Fl     A  024 --
+Ovenar        1534 B98A644-C  F Wa                 525 GD
+              1537 X834000-0    Ba Lo Ni Po        023 --
+              1539 X100000-0    Ba Lo Ni Va De     010 --
+              1631 X6B8000-0    Ba Lo Ni Fl     R  000 --
+West Gate     1633 A8A4975-E  A Fl Hi In           525 GD
+Themmureth    1635 C414555-B    Ic                 414 GD
+Esperion      1637 C67A636-9    Wa                 921 Na
+              1640 X320000-0    Ba Lo Ni Po De     002 --

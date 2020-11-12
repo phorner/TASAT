@@ -1,0 +1,65 @@
+@SUB-SECTOR:Ancient SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Boarders
+^0406 0
+^0406 5
+^0406 4
+^0406 3
+^0507 4
+^0507 3
+^0507 2
+^0606 3
+^0606 2
+^0606 1
+^0506 0
+^0506 5
+^0605 0
+^0605 5
+^0705 0
+^0705 1
+^0705 5
+^0706 0
+^0706 1
+^0706 5
+^0804 1
+^0804 2
+^0804 3
+^0806 0
+^0806 1
+^0806 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0101 X73A000-0    Ba Lo Ni Wa        012 --
+              0103 X724000-0    Ba Lo Ni Po        022 --
+              0105 X665000-0    Ba Lo Ni           014 --
+              0106 X9A5000-0    Ba Lo Ni Fl        024 --
+              0107 X000000-0    Ba Lo Ni As        033 --
+              0108 X560000-0    Ba Lo Ni De        010 --
+              0109 X423000-0    Ba Lo Ni Po        002 --
+              0202 X365000-0    Ba Lo Ni           012 --
+              0209 X210000-0    Ba Lo Ni De        022 --
+              0302 X344000-0    Ba Lo Ni Po        012 --
+              0306 X878000-0    Ba Lo Ni           014 --
+              0405 X430000-0    Ba Lo Ni Po De     021 --
+Izik-gul      0406 X454302-0    Po Lo Ni           413 AW
+              0501 X330000-0    Ba Lo Ni Po De     013 --
+              0503 X312000-0    Ba Lo Ni Ic        020 --
+Zhkgul        0506 X898600-1                       310 AW
+Mammoth       0507 E512625-6  M Ic                 525 AW
+Anwir         0509 X66A575-4    Wa              A  622 Na
+              0510 X89A000-0    Ba Lo Ni Wa        011 --
+              0601 X000000-0    Ba Lo Ni As        024 --
+Inuzgur       0604 E442572-0    Po                 123 Na
+Zurngog       0606 X6678BB-1    Ag              A  411 AW
+              0610 X336000-0    Ba Lo Ni           012 --
+Nnurukgr      0705 E637900-5    Hi In              213 AW
+              0706 X000000-0    Ba Lo Ni As        011 --
+Unzir         0707 C000589-C    As Rs              515 Na
+              0802 X357000-0    Ba Lo Ni           021 --
+Knuz          0804 E552643-4    Po                 121 Na
+              0809 X201000-0    Ba Lo Ni Va Ic     014 --

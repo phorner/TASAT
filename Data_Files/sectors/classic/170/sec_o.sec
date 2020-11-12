@@ -1,0 +1,42 @@
+@SUB-SECTOR:Jangole SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1740          1740 X410000-0    Ba                 002 Na
+1834          1834 X202000-0    Ba                 003 Na
+1839          1839 X89A000-0    Ba                 023 Na
+1931          1931 X523000-0    Ba                 024 Na
+1935          1935 X233000-0    Ba                 003 Na
+2035          2035 X523000-0    Ba                 001 Na
+2138          2138 X879000-0    Ba                 011 Na
+2140          2140 X444000-0    Ba                 024 Na
+2239          2239 X898000-0    Ba                 004 Na
+2240          2240 X520000-0    Ba                 005 Na
+2332          2332 X735000-0    Ba                 014 Na
+2333          2333 XAD7000-0    Ba                 013 Na
+2334          2334 X767000-0    Ba                 003 Na
+2336          2336 X335000-0    Ba                 001 Na
+2338          2338 X764000-0    Ba                 024 Na
+2437          2437 X697000-0    Ba                 024 Na
+2440          2440 X130000-0    Ba                 002 Na

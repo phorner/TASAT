@@ -1,0 +1,49 @@
+@SUB-SECTOR:Federation SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Balin         0914 D666631-7  S Ag Ni              705 Na        
+Faran         0916 X566202-8    Lo Ni              303 Vw        
+Phlunk        0917 D560331-9    De Lo Ni           200 Vw
+Taurius       1012 B656602-8    Ag Ni              104 Na        
+Whitehall     1013 E755555-8    Ag Ni              534 Na        
+Liechtenstein 1016 A88A773-B  N Ri Wa              502 Vw        
+Tronge        1017 D474740-4  S Ag                 904 Vw 
+De Emsay      1111 C625866-8                       303 Na        
+Nouveau Rwanda1114 A663984-9  A Ri                 310 Nf 
+Augustus      1212 X780400-7    De Lo Ni         R 402 Na        
+Bismark       1214 A555AAC-D    Hi                 804 Nf        
+Americano     1216 C886662-8  S Ag Ni Ri           400 Na        
+Amelia        1218 X200110-A  R Lo Ni Va           311 Na   
+Zalbar        1311 D544420-5    Ni                 820 Na        
+Hilbrand      1315 A474532-C    Ag Ni              911 Nf        
+Athabascan    1317 D78A301-7    Lo Ni Wa           825 Na  
+Sylvane       1413 A566ACH-9    Hi                 703 Na        
+Danilo        1414 C688886-8    Ag Ri              324 Nf        
+Wylson        1416 B656520-9  N Ag Ni              911 Na 
+Dariel        1511 C6699B4-A    Hi                 635 Na        
+Manefeln      1513 C565686-4    Ag Ni Ri           204 Na  
+Drin          1611 C767661-9    Ag Ni Ri         A 404 Na        
+Fychelere     1612 D6115A4-9    Ic Ni              205 Na        
+Somalia       1613 E660400-8    De Ni              213 Na 

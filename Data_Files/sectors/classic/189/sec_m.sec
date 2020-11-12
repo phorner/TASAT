@@ -1,0 +1,38 @@
+@SUB-SECTOR:Numentower SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0732 0533 0 0
+$0732 1233 1 0
+$0732 0630 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0135 X500000-0    Ba Lo Ni Va De     011 --
+              0138 X685000-0    Ba Lo Ni           000 --
+              0140 X614000-0    Ba Lo Ni Ic        023 --
+              0233 X8B7000-0    Ba Lo Ni Fl        023 --
+              0239 X000000-0    Ba Lo Ni As        020 --
+              0333 X8C5000-0    Ba Lo Ni Fl        011 --
+              0431 X633000-0    Ba Lo Ni Po        021 --
+              0433 X768000-0    Ba Lo Ni           004 --
+              0436 X348000-0    Ba Lo Ni           012 --
+              0532 X100000-0    Ba Lo Ni Va De     012 --
+Numentower    0533 CA65955-C    Ag Hi In Cp        534 Na
+              0536 X764000-0    Ba Lo Ni           010 --
+              0537 X000000-0    Ba Lo Ni As        013 --
+              0540 X760000-0    Ba Lo Ni De        021 --
+Onliser       0633 CAD7821-B    Fl                 532 Na
+Curts         0634 D334333-9    Po Lo Ni           620 Na
+              0638 X77A000-0    Ba Lo Ni Wa        031 --
+              0639 X440000-0    Ba Lo Ni Po De     013 --
+Emgarot       0732 D8879AA-9    Ag Hi In           222 Na
+Suluk-Mai     0734 D740534-4    Po De              421 Na
+              0736 X213000-0    Ba Lo Ni Ic        013 --
+              0737 X000000-0    Ba Lo Ni As        013 --
+              0831 X400000-0    Ba Lo Ni Va De     021 --
+              0835 X657000-0    Ba Lo Ni           022 --
+              0837 X332000-0    Ba Lo Ni Po        011 --
+              0840 XA6A000-0    Ba Lo Ni Wa        015 --

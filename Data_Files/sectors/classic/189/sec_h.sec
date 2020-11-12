@@ -1,0 +1,70 @@
+@SUB-SECTOR:Reach's Edge SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Boarders
+^2513 0
+^2513 1
+^2513 2
+^2513 3
+^2513 4
+^2513 5
+^2815 0
+^2815 1
+^2815 2
+^2815 4
+^2815 5
+^2816 1
+^2816 3
+^2816 4
+^2816 5
+^2917 0
+^2917 1
+^2917 2
+^2917 3
+^2917 4
+^2518 0
+^2518 1
+^2518 2
+^2518 4
+^2518 5
+^2519 1
+^2519 2
+^2519 3
+^2519 4
+^2519 5
+^2520 4
+^2520 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kammpreni     2513 B5A7612-B  F Fl                 725 RR
+Messo Hope    2515 D311333-A  S Ic Lo Ni           410 Na
+Dircy         2516 C67A520-9    Wa                 211 Na
+Varir Station 2518 B000414-D    As Rs              830 RR
+Garenada      2519 C64399B-A    Po Hi In        A  501 RR
+Blezekro      2611 C426330-6    Po Lo Ni           500 Na
+Rumridge      2613 B653569-9    Po                 323 Na
+Agings        2616 E8A78A7-2    Fl              A  714 Na
+Denromik      2711 C88298B-9    Hi In              212 Na
+Dagenzi       2712 C456543-9  S                    814 Na
+Fergos        2713 D201658-B    Va Ic              520 Na
+Dalenli       2715 C99A565-9  S Wa                 221 Na
+Nerever       2718 B422313-9    Po Lo Ni           401 Na
+Reach's Edge  2815 A78AA9A-E  A Wa Hi In Cp        324 RR
+Nuvezzen      2816 C414588-9    Ic                 820 RR
+Sanperami     2819 C5898AA-A  S                    114 Na
+El Dez        2912 C35A243-9    Wa Lo Ni           811 Na
+Korrugat      2914 D767565-B  S Ag                 424 Na
+Asniles       2917 AAD6612-D  D Fl                 732 RR
+Temenglaza    3013 B000577-B  N As                 520 Na
+Panthalassa   3018 C98A656-8    Wa                 811 Na
+Nevlerezith   3019 C85A346-7    Wa Lo Ni           601 Na
+Kiansar       3020 BAA7988-C  N Fl Hi In           330 Na
+ChallengerRock3112 D100310-D    Va De Lo Ni Rs     524 Na
+Keliesi       3116 C568645-9    Ag                 213 Na
+Cerrito       3118 C776555-B  S Ag                 622 Na
+Little Sea    3216 B451656-A    Po                 914 Na
+Odorger       3218 C7889A8-B    Hi In Mr        A  321 Na

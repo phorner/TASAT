@@ -1,0 +1,37 @@
+@SUB-SECTOR:Thomson SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2534          2534 X000000-0    Ba                 020 Na
+2735          2735 X000000-0    Ba                 004 Na
+2838          2838 X7C7000-0    Ba                 003 Na
+2840          2840 X894000-0    Ba                 022 Na
+2932          2932 X552000-0    Ba                 000 Na
+2940          2940 X8A4000-0    Ba                 000 Na
+3031          3031 X869000-0    Ba                 000 Na
+3033          3033 X845000-0    Ba                 004 Na
+3039          3039 X200000-0    Ba                 000 Na
+3040          3040 X100000-0    Ba                 000 Na
+3140          3140 X9A6000-0    Ba                 025 Na
+3235          3235 X9D3000-0    Ba                 010 Na

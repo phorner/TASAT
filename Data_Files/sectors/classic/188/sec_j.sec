@@ -1,0 +1,39 @@
+@SUB-SECTOR:New Kansas SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ingran        0922 X515000-0    Ba Ic Lo           022 Na   
+Babs          1022 D555213-6    Lo Ni              204 Na        
+Makojiro      1030 B75A764-9  N Wa               A 402 Ne  
+Ishtar        1122 E784793-6    Ag Ri              502 Na  
+Brakynholm    1222 B650885-8    De Po              314 Na        
+Sesklos       1226 X763879-6    Ri                 704 Na        
+Lissajous     1227 X694500-2    Ni                 402 Na  
+Agravaine     1323 C662564-A  S Ni                 104 Na        
+Balkok        1327 X658425-3    Ni                 405 Na     
+New Israel    1422 C984796-4    Ag Ri              923 Na        
+Prince Albert 1423 A667884-A    Ag Ri              121 Na   
+Andes         1523 B7639C6-8  A Hi Po              203 Na 
+Kruger        1623 X000000-0    As Ba Lo           002 Na        
+Pearl River   1630 X566785-1  R Ag Ri            R 700 Na  

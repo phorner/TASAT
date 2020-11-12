@@ -1,0 +1,50 @@
+@SUB-SECTOR:Alexandrov SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Connors       1723 B583612-6    Ni                 620 Na        
+Marshall Clay 1724 BA86924-A    Hi                 203 Na        
+Weinberg      1727 B8649A6-A    Hi                 904 Cc        
+Missoula      1728 C88A842-8    Ri Wa              303 Cc        
+Cilia         1729 E878776-7    Ag                 504 Cc  
+MacKenzie     1824 A652601-9  N Ni Po              915 Na        
+Barcelona     1826 A764955-A  N Hi                 404 Cc        
+Lund          1827 B796564-6    Ag Ni              213 Cc  
+Kiseti        1925 B664964-7    Hi                 204 Kk
+Cornelio      2025 X200000-0    Ba Lo Ni Va        004 Kk 
+Storm         2122 E774800-8    De                 200 Na        
+Kalora        2126 A676A94-D  S Hi In            A 224 Kk        
+Valuchistan   2129 B783845-8    Ri                 803 Id        
+Alcmena       2130 C978744-9    Ag                 903 Id 
+Mackinac      2226 B593964-7    Hi                 204 Kk        
+Nazarene      2228 D6617E6-6    De               A 805 Na        
+Milner        2230 C669611-7    Ni                 604 Na 
+Arcy          2327 A776712-A    Ag                 204 Na        
+Strensall     2328 X600000-0    Ba Lo Ni Va        404 Na        
+Khmer         2330 E989764-7    Ri               A 911 Mc 
+Fafnir        2422 X000000-0    As Ba Lo Ni        010 Na        
+Gustafson     2423 D473464-7    Ni                 412 Na        
+DM19 2426     2426 X000000-0    As Ba Lo Ni        301 Na        
+De Naburn     2428 B663765-9    Ri                 804 Mc        
+Hrothgar      2429 E8998G4-9  N In                 703 Mc 

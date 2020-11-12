@@ -1,0 +1,85 @@
+@SUB-SECTOR:Amderstun SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1830 1928 0 0
+$1928 2125 0 0
+$2125 2122 0 0
+$2122 1920 0 -1
+$1830 1932 -1 1
+$2125 2525 0 0
+#
+#Political Boarders
+^1921 0
+^1921 4
+^1921 5
+^1922 5
+^1922 4
+^1822 2
+^1822 3
+^1723 2
+^1723 3
+^1724 4
+^1724 5
+^1725 5
+^1728 4
+^1729 3
+^1729 4
+^1729 5
+^1829 4
+^1830 4
+^1730 1
+^1730 2
+^2420 2
+^2421 1
+^2421 2
+^2422 1
+^2427 2
+^2427 3
+^2428 4
+^2428 5
+^2429 4
+^2429 5
+^2430 4
+^2430 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 X223000-0    Ba Lo Ni Po     A  010 --
+              1723 EADA000-0    Ba Lo Ni Fl Wa  R  033 --
+Druthon       1724 C560AFE-E  M De Hi In        A  113 Am
+Elthor        1725 B88A8AF-C    Wa              A  621 Am
+Wwulindor     1727 A000998-F  F As Hi In           732 Am
+Kawellis      1729 B5148CC-D    Ic              A  414 Am
+              1822 X2B8000-0    Ba Lo Ni Fl     R  010 --
+Prison One    1824 C89A71B-9    Wa Pr           R  614 Am
+Viremer       1826 AA989CD-G  F Hi In           A  624 Am
+Kenruce       1827 C4438DC-B    Po              A  110 Am
+Espolar       1830 A67589B-E  F Ag              A  413 Am
+Itromor       1921 B5528BC-C  M Po              A  502 Am
+Prison Three  1923 D45271B-9    Po Pr           R  800 Am
+Prison Two    1924 CAF581A-A    Fl Pr           R  422 Am
+Zorgnorm      1926 C8979FJ-C    Hi In           R  412 Am
+Covenar       1928 A8A6887-F  D Fl                 621 Am
+Nozguethi     2021 C9668BE-A    Ag              A  712 Am
+Kespans       2023 C54367A-8    Po                 220 Am
+Kolpir        2025 B79A9AA-C  M Wa Hi In        A  313 Am
+Useon         2026 A000765-G  F As                 632 Am
+Nemporani     2122 B5468BB-B  M                 A  111 Am
+Estever       2124 D2239CC-9    Po Hi In        A  820 Am
+Amderstun     2125 AA659AB-G  A Ag Hi In Cp Cx  A  635 Am
+Cansakur      2127 B000777-C  M As                 721 Am
+Romekno       2130 C758ADE-A    Hi In           A  302 Am
+Kerveldi      2222 C0008AC-A  M As              A  410 Am
+Fondoge       2223 D667AFC-B    Ag Hi In        A  202 Am
+Leskemar      2225 AADA514-G    Fl Wa Rs           732 Am
+Fire Shout    2228 C54187B-9    Po              A  310 Am
+Radizakos     2230 B9988CA-E  A                 A  521 Am
+Teneslis      2322 A9978CA-B  F                 A  413 Am
+Oskaroes      2327 CA89875-A                       714 Am
+Asparen       2330 A4569AD-F  A Hi In           A  522 Am
+Nomenski      2422 C778899-A                       321 Am
+Vaskno        2425 B9968CB-C  F                 A  710 Am
+Frerenesk     2426 C340ABE-A  M Po De Hi In     A  122 Am
+Nesletlo      2429 E000543-7    As                 904 Am

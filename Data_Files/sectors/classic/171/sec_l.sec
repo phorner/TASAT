@@ -1,0 +1,67 @@
+@SUB-SECTOR:Attacotti SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Pericles      2522 D463000-5  S Ba Lo Ni           503 Bs K5 V M9 D
+Jew           2523 DAC4757-7  S Fl                 901 Bs K7 V M5 D
+2526          2526 X633000-0    Lo Ni Po           012 Na K0 V
+2528          2528 X665000-0    Lo Ni              013 Na F9 V M2 D
+2529          2529 X97A000-0    Lo Ni Wa           014 Na K6 V
+2530          2530 X957000-0    Ba Lo Ni           012 Na F5 V M1 D
+Peredon       2621 C548568-5    Ag Ni              205 Bs F2 V M8 D
+California    2622 D100422-8  S Ni Va              814 Bs M0 V
+Ra            2623 C666677-4    Ag Ni Ri           604 Bs F7 V
+Guy-Fern      2624 D888536-5  S Ag Ni              303 Bs M0 V
+2626          2626 X320000-0    Ba De Lo Ni Po     000 Na M6 V
+2629          2629 X8A5000-0    Fl Lo Ni           005 Na F5 V M7 D
+Elisha        2721 B320675-A  N De Na Ni Po        631 Bs M3 V M4 D
+Thunderstroke 2722 C538530-5    Ni                 305 Bs G5 V M3 D M4 D
+Jyrre         2725 D498311-8  S Lo Ni              605 Bs F5 V
+2728          2728 X677000-0    Lo Ni              002 Na F6 V M0 D
+2729          2729 X594000-0    Lo Ni              001 Na K4 V
+Attacotti     2821 C560974-8    De Hi              404 Bs F4 V
+2823          2823 X644000-0    Lo Ni              020 Na G8 V
+2824          2824 X665000-0    Lo Ni              005 Na F6 V M2 D
+2825          2825 X747000-0    Ba Lo Ni           023 Na F7 V M0 D
+2826          2826 X538000-0    Lo Ni              013 Na M0 V
+2829          2829 X500000-0    Lo Ni Va           004 Na K1 IV
+2921          2921 XAB2000-0    Ba Fl Lo Ni        002 Na K2 V
+2922          2922 XAE3000-0    Ba Fl Lo Ni        013 Na A7 V M5 V
+2923          2923 X557000-0    Lo Ni              024 Na G6 V M9 D
+2924          2924 X240000-0    Ba De Lo Ni Po     003 Na F5 V M6 D
+Nostrand      2926 B613644-B  N Ic Na Ni           501 Dj M8 IV M1 V
+2927          2927 X100000-0    Lo Ni Va           001 Na M1 V M8 D
+2928          2928 X140000-0    De Lo Ni Po        003 Na M8 V M7 D
+3025          3025 X457000-0    Ba Lo Ni           005 Na F5 V M8 D M0 D
+3027          3027 X744000-0    Lo Ni              001 Na F3 V M3 D
+3028          3028 X775000-0    Lo Ni              004 Na F9 V
+3030          3030 X8A7000-0    Fl Lo Ni           003 Na M9 II M7 V
+Tuskegee      3121 C467773-5    Ag Ri              604 Cn K9 V M4 D
+3122          3122 X434000-0    Lo Ni              000 Na G8 V
+3123          3123 X453000-0    Lo Ni Po           021 Na G0 V
+Darious       3125 C140557-A  S De Ni Po           912 Dj F5 V M9 D
+Asia          3126 C746445-6  S Ni                 703 Dj F2 V
+3130          3130 X310000-0    Lo Ni              004 Na M2 V
+Peite         3221 C645221-5    Lo Ni              100 Cn F6 V
+3224          3224 X774000-0    Ba Lo Ni           000 Na G4 V

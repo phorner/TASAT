@@ -1,0 +1,51 @@
+@SUB-SECTOR:Singh SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Berman        2534 C580733-8  S De                 721 Fr        
+Diloen        2536 C552665-9    Ni Po              600 Fr        
+Dylan         2539 C87A541-9    Ni Wa              524 Fr     
+Il Po         2636 A763733-B    In Po              700 Fr        
+Cascade       2638 D761700-5  S Ni Po              403 Fr        
+Senwen        2640 C884852-8    Ri                 101 Fr     
+Berenice      2731 B7649F6-9    Hi               R 304 Rr        
+Bimler's World2732 B7568B6-6    Ni               A 500 Rr        
+Coffman       2733 C000400-9    As Ni              604 Na        
+Noosa         2737 D678643-8    Ag Ni              612 Na        
+Auicia        2738 B9C9567-9  N Fl                 623 Na   
+Bridgewater   2832 B889795-9    Ri                 522 Rr        
+New Arnham    2835 C764722-6    Ag                 420 Na        
+Salsburg      2836 C689851-9    Ri                 104 Oe        
+Freidland     2838 X752774-3    Po                 905 Na        
+Troutman      2840 D865971-3    Hi                 202 Na
+Ratan         2933 D686611-5    Ag Ni              103 Na        
+Christchurch  2937 A85A831-9    Wa                 424 Oe           
+Flavian       3034 D665794-4  S Ag Ri            A 924 Oe        
+Guinevere     3035 D120200-9    De Lo Ni Po        100 Oe        
+Nikkita       3039 D663734-6    Ni                 901 Oe        
+Saud's Planet 3040 B663774-9    Ri                 822 Oe     
+Kiril         3135 B762972-9    Hi                 203 Oe        
+Evansville    3136 C766644-6    Ag Ni Ri           301 Oe        
+Prometheus    3237 C675496-5    Ni                 504 Na        
+Chisako       3240 C662610-6    De Lo Ni           315 Na        

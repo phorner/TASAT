@@ -1,0 +1,62 @@
+@SUB-SECTOR:Seroglas SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1920 1916 0 0
+$1916 1515 0 0
+$1916 2012 0 0
+$2012 1910 0 -1
+#
+#Political Boarders
+^1920 2
+^1920 3
+^1820 2
+^2019 2
+^2019 3
+^2120 0
+^2120 1
+^2120 5
+^2219 1
+^2219 2
+^2219 3
+^2219 4
+^2319 0
+^2319 1
+^2319 5
+^2320 5
+^2419 0
+^2419 1
+^2419 2
+^2420 1
+^2420 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rionthra      1711 B999999-C  N Hi In              620 Na
+Divedown      1714 CAF7667-A    Fl                 314 Na
+Xexenar       1717 C000613-B    As                 730 Na
+              1720 X8B3000-0    Ba Lo Ni Fl     R  000 --
+Merthrow      1812 B966742-A  N Ag                 822 Na
+Dells         1818 A99AA88-D  A Wa Hi In           232 Na
+Chovul        1915 B99A975-C    Wa Hi In           512 Na
+Seroglas      1916 A9B0885-D  F De Cp              834 Na
+Deepwater     1917 BA8A887-C    Wa                 523 Na
+Rainbow Sun   1920 A6VV997-D  F Hi In Sp           223 Na
+Way Forward   2012 B898955-C  F Hi In              524 Na
+Toleres       2015 C461401-A  A                    610 Na
+Ervink        2016 D000557-9  S As                 414 Na
+Arkney-Ramon  2018 X678200-3    Lo Ni           R  511 Na
+Nergski       2111 C575654-8                       312 Na
+Koroz         2112 C3438BA-A    Po              A  500 Na
+Pulver        2120 B88A89A-D  F Wa                 323 Am
+Snoiges       2213 C675565-8    Ag                 911 Na
+Denektor      2216 B9AA745-B  N Fl Wa              621 Na
+Venluison     2218 A000775-C  F As                 713 Na
+Monek         2219 C336658-9                       215 Na
+Zelepartis    2315 BAA7976-C  A Fl Hi In           925 Na
+Fanringen     2319 C3028BD-A    Va Ic           A  210 Am
+Noresluk      2320 C586AFH-C  M Ag Hi In        R  500 Am
+Resekali      2411 C87A537-A  S Wa                 420 Na
+Gonesh        2414 B86689A-B  N Ag                 812 Na
+Kasreneger    2419 A4009AB-D  A Va De Hi In     A  522 Am

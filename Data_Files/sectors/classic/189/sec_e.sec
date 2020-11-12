@@ -1,0 +1,42 @@
+@SUB-SECTOR:Morges-Cartorr SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Boarders
+^0520 0
+^0520 1
+^0520 4
+^0520 5
+^0620 0
+^0620 1
+^0620 2
+^0420 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0116 X402000-0    Ba Lo Ni Va Ic     021 --
+              0120 X520000-0    Ba Lo Ni Po De     012 --
+Cartorr-Post  0211 E350213-7  S De Lo Ni           423 Na
+              0214 X000000-0    Ba Lo Ni As        022 --
+              0217 XA89000-0    Ba Lo Ni           032 --
+              0314 X7B0000-0    Ba Lo Ni De        021 --
+              0316 X505000-0    Ba Lo Ni Va Ic     023 --
+Morges        0319 E200500-A    Va De              423 Na
+              0412 X414000-0    Ba Lo Ni Ic        023 --
+              0415 X150000-0    Ba Lo Ni De        000 --
+              0418 X000000-0    Ba Lo Ni As        011 --
+              0512 X332000-0    Ba Lo Ni Po        000 --
+Savigus       0520 B966975-C  F Ag Hi In           334 Ch
+              0613 X9CA000-0    Ba Lo Ni Fl Wa     022 --
+              0615 X301000-0    Ba Lo Ni Va Ic     010 --
+Elnile        0619 C46A316-9  S Wa Lo Ni           423 Na
+Cartorr       0620 A989974-C  A Hi In              525 Ch
+              0715 X332000-0    Ba Lo Ni Po        010 --
+              0717 X000000-0    Ba Lo Ni As        013 --
+              0812 XAE8000-0    Ba Lo Ni Fl        032 --
+              0813 X312000-0    Ba Lo Ni Ic        011 --
+              0815 X27A000-0    Ba Lo Ni Wa        010 --
+              0818 X542000-0    Ba Lo Ni Po        021 --
+Evenar        0820 A889514-C  A Ag                 935 Na

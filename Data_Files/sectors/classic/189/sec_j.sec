@@ -1,0 +1,71 @@
+@SUB-SECTOR:Warzone SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Boarders
+^1623 2
+^1624 1
+^1624 2
+^1624 3
+^1625 5
+^1625 4
+^1626 4
+^1626 5
+^1627 3
+^1627 4
+^1627 5
+^1628 1
+^1628 2
+^1629 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 X857000-0    Ba Lo Ni           014 --
+Kepevar       0923 A89A864-C  F Wa                 624 Ch
+              0925 XAB7000-0    Ba Lo Ni Fl     R  022 --
+Lathine       0926 C965755-A    Ag                 733 Na
+              0928 X6C7000-0    Ba Lo Ni Fl     R  011 --
+              0929 X563000-0    Ba Lo Ni           000 --
+              0930 XAA2000-0    Ba Lo Ni Fl     R  023 --
+              1021 X334000-0    Ba Lo Ni Po        011 --
+              1022 X896000-0    Ba Lo Ni        R  013 --
+              1024 X8AA000-0    Ba Lo Ni Fl Wa  R  021 --
+              1026 X9B1000-0    Ba Lo Ni Fl     R  000 --
+              1027 XACA000-0    Ba Lo Ni Fl Wa  R  015 --
+              1029 X9D4000-0    Ba Lo Ni Fl     R  031 --
+              1121 X7A7000-0    Ba Lo Ni Fl     A  024 --
+              1122 X8C1000-0    Ba Lo Ni Fl     B  010 --
+              1124 X9C9000-0    Ba Lo Ni Fl     R  015 --
+              1126 XAAA000-0    Ba Lo Ni Fl Wa  R  032 --
+              1128 X9B0000-0    Ba Lo Ni De     R  014 --
+              1129 XAF5000-0    Ba Lo Ni Fl     R  025 --
+              1221 X8E8000-0    Ba Lo Ni Fl     R  013 --
+              1223 XAC4000-0    Ba Lo Ni Fl     R  022 --
+              1224 X9BA000-0    Ba Lo Ni Fl Wa  R  020 --
+              1226 X8B2000-0    Ba Lo Ni Fl     R  011 --
+              1227 XAA7000-0    Ba Lo Ni Fl     A  023 --
+Radioactive   1230 D8C5513-A    Fl Rs           A  434 Na
+              1323 X8B9000-0    Ba Lo Ni Fl     R  021 --
+              1325 XABA000-0    Ba Lo Ni Fl Wa  R  022 --
+              1326 X8C3000-0    Ba Lo Ni Fl     R  010 --
+              1328 X5C0000-0    Ba Lo Ni De     R  000 --
+              1330 X9AA000-0    Ba Lo Ni Fl Wa  A  032 --
+              1421 X7BA000-0    Ba Lo Ni Fl Wa  R  010 --
+              1423 X8A9000-0    Ba Lo Ni Fl     R  022 --
+              1426 X5C2000-0    Ba Lo Ni Fl     R  014 --
+              1427 X000000-0    Ba Lo Ni As     B  022 --
+              1430 E9A9000-0    Ba Lo Ni Fl     B  032 --
+              1521 X8C3000-0    Ba Lo Ni Fl     R  002 --
+              1524 E000000-0    Ba Lo Ni As     R  015 --
+              1525 X6B9000-0    Ba Lo Ni Fl     R  000 --
+              1527 E7C2000-0    Ba Lo Ni Fl     B  033 --
+              1528 X9A6000-0    Ba Lo Ni Fl     R  022 --
+              1529 XAAA000-0    Ba Lo Ni Fl Wa  R  023 --
+              1621 X4B7000-0    Ba Lo Ni Fl     R  000 --
+              1624 E6C0000-0    Ba Lo Ni De     R  015 --
+Mizarluk      1625 A986885-E  F Ag                 524 Am
+Estrozo       1627 C6427BD-C    Po              A  110 Am
+Chem-Station  1628 DAC7413-D  F Fl Rs           R  833 Na
+              1630 X8AA000-0    Ba Lo Ni Fl Wa  A  013 --

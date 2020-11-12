@@ -1,0 +1,42 @@
+@SUB-SECTOR:Auftei SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0922          0922 X755000-0    Ba                 000 Na
+Aoria         0924 B4414J5-E    Ni Po              414 Ak
+Ealraieyal    0925 B5716J6-D    Ni                 100 Ak
+Aorl          1024 B2004J7-D  R Ni Va              424 Ak
+1026          1026 X226000-0    Ba                 000 Na
+1124          1124 X464000-0    Ba                 005 Na
+1125          1125 X431000-0    Ba                 002 Na
+1130          1130 X72A000-0    Ba                 011 Na
+1224          1224 X673000-0    Ba                 003 Na
+1322          1322 X510000-0    Ba                 012 Na
+1326          1326 X200000-0    Ba                 003 Na
+1330          1330 X6A1000-0    Ba                 003 Na
+1428          1428 X854000-0    Ba                 023 Na
+1430          1430 X886000-0    Ba                 020 Na
+1528          1528 X899000-0    Ba                 012 Na
+1621          1621 X225000-0    Ba                 004 Na
+1626          1626 X514000-0    Ba                 013 Na

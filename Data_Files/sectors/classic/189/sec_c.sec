@@ -1,0 +1,102 @@
+@SUB-SECTOR:Alduwai SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1910 2012 0 0
+$1910 1906 0 0
+$1906 1606 -1 0
+#
+#Political Boarders
+^1805 0
+^1805 1
+^1805 3
+^1805 4
+^1805 5
+^1906 0
+^1906 2
+^1906 4
+^2005 0
+^2005 1
+^2005 2
+^2005 3
+^2005 5
+^2105 0
+^2105 2
+^2105 3
+^2105 4
+^2105 5
+^2204 0
+^2204 1
+^2204 2
+^2204 3
+^2204 5
+^2305 0
+^2305 1
+^2305 3
+^2305 4
+^2305 5
+^2405 0
+^2405 1
+^2405 2
+^2405 3
+^2405 4
+^2306 0
+^2306 1
+^2306 2
+^2306 4
+^2306 5
+^2307 1
+^2307 2
+^2307 3
+^2307 5
+^2207 0
+^2207 2
+^2207 3
+^2207 4
+^2207 5
+^2206 1
+^2206 2
+^2206 3
+^2206 4
+^2206 5
+^2205 0
+^2205 1
+^2205 2
+^2205 4
+^2205 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eslalyat      1702 B493AXB-A  Q Hi In           R  211 Dr
+Oadur         1703 B584832-A  P Ag              R  822 Dr
+Affenfyr      1704 A674513-C    Ag Rs D3           724 Na
+Usulumar      1707 A000955-D  A As Hi In           832 Na
+Solid         1805 B400875-D  M Va De              411 PC
+Entrach       1808 C6728AA-9                       400 Na
+              1901 X356000-0    Ba Lo Ni           000 --
+Seymour       1904 C858787-A    Ag                 722 Na
+Alduwai       1906 A000A75-F  A As Hi In Cp        535 PC
+Gas           1907 AAA5897-D  M Fl                 832 PC
+Ecovir        1910 A865875-D    Ag                 423 Na
+              2002 X6A5000-0    Ba Lo Ni Fl        013 --
+Liquid        2005 B98A888-D  M Wa                 322 PC
+Norliss       2008 C7547AB-7    Po                 402 Na
+Sam's Redoubt 2009 D434522-8  S Po                 903 Na
+Laketown      2104 C564422-9    Ag                 821 Na
+Salt          2105 A967986-E  F Ag Hi In Cp        433 P1
+Wedding Ring  2107 D000511-B    As                 612 Na
+              2201 X000000-0    Ba Lo Ni As        011 --
+              2202 X100000-0    Ba Lo Ni Va De     000 --
+Pepper        2204 C8B0568-C  M De                 512 P1
+Compression   2205 AAD7795-D  M Fl                 224 P2
+Rarefaction   2206 AAF8875-D  F Fl Cp              520 P2
+Security      2207 B8989CC-C  M Hi In           A  404 P4
+              2302 X568000-0    Ba Lo Ni           012 --
+Ransuize      2304 C425551-8  S Po                 611 Na
+Lava          2305 B9B4575-C  M Fl                 330 P3
+Liberty       2306 A96A844-E  F Wa Cp              721 P4
+Des Lorias    2310 D686537-9    Ag                 214 Na
+Laddison      2404 B999875-D  N                    622 Na
+Snow          2405 AA56A75-E  F Hi In Cp           524 P3
+Mercurions    2408 C5537AA-9    Po                 102 Na

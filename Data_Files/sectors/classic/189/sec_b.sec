@@ -1,0 +1,64 @@
+@SUB-SECTOR:Iminorgg SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1606 1906 1 0
+$1606 1307 0 0
+$1307 1005 0 0
+#
+#Political Boarders
+^0904 0
+^0904 1
+^0904 5
+^0904 4
+^0905 5
+^1003 2
+^1003 3
+^1104 0
+^1104 1
+^1204 0
+^1204 1
+^1204 2
+^1205 1
+^1205 2
+^1205 3
+^1206 5
+^1107 0
+^1107 5
+^1107 4
+^1007 2
+^1007 3
+^1007 4
+^0907 3
+^0907 4
+^0907 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0902 X8E4000-0    Ba Lo Ni Fl        012 --
+Reindeer      0904 X857600-0    Ag                 414 AW
+Sulukhm       0906 E9B25A6-6  M Fl                 820 AW
+Aurochs       0907 X66A520-2    Wa                 521 AW
+              0910 X421000-0    Ba Lo Ni Po        002 --
+              1003 X565000-0    Ba Lo Ni           012 --
+Iminorgg      1005 C852902-7  M Po Hi In Cp        424 AW
+Crane         1007 X88A570-3    Wa                 812 AW
+              1010 X000000-0    Ba Lo Ni As        020 --
+              1101 X000000-0    Ba Lo Ni As        002 --
+Sevengal      1104 E000720-6  M As                 724 AW
+Lion          1107 X760603-0    De                 913 Na
+Erewir        1109 D9A7575-9    Fl                 622 Na
+              1202 X222000-0    Ba Lo Ni Po        010 --
+Asanorg       1204 E576743-4  M                    213 AW
+Nugurakr      1205 X766ADD-2    Ag Hi           A  402 AW
+Bear          1209 E765521-2    Ag                 821 Na
+Fox           1305 X557700-0    Ag                 413 Na
+Izonalar      1307 DAD9513-9    Fl Rs              833 Na
+              1310 X552000-0    Ba Lo Ni Po        022 --
+              1402 X8B0000-0    Ba Lo Ni De        001 --
+              1501 X34A000-0    Ba Lo Ni Wa        014 --
+Ibex          1505 E664521-3    Ag                 420 Na
+              1603 X000000-0    Ba Lo Ni As        013 --
+Mouflon       1605 X656700-0    Ag                 211 Na
+Uxxionar      1606 A000713-F  N As Rs              534 Na

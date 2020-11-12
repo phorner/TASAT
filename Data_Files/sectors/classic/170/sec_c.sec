@@ -1,0 +1,45 @@
+@SUB-SECTOR:Mozart SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Lilith        1701 C674453-9  S Ni                 702 Jn
+1705          1705 X223000-0    Ba                 000 Na
+1708          1708 X323000-0    Ba                 010 Na
+1709          1709 X200000-0    Ba                 014 Na
+1804          1804 X200000-0    Ba                 003 Na
+1902          1902 X331000-0    Ba                 004 Na
+1908          1908 X7A2000-0    Ba                 005 Na
+1909          1909 X564000-0    Ba                 002 Na
+2002          2002 X6A1000-0    Ba                 001 Na
+2006          2006 X666000-0    Ba                 011 Na
+2007          2007 X321000-0    Ba                 023 Na
+2108          2108 X77A000-0    Ba                 000 Na
+2109          2109 X464000-0    Ba                 000 Na
+2203          2203 X778000-0    Ba                 000 Na
+2204          2204 X854000-0    Ba                 003 Na
+2206          2206 X9BA000-0    Ba                 010 Na
+2301          2301 X353000-0    Ba                 003 Na
+2306          2306 X886000-0    Ba                 004 Na
+2401          2401 X000000-0    Ba                 010 Na
+2402          2402 X000000-0    Ba                 001 Na

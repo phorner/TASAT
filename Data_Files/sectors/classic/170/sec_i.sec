@@ -1,0 +1,40 @@
+@SUB-SECTOR:Eha SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0127          0127 X547000-0    Ba                 014 Na
+0221          0221 X272000-0    Ba                 001 Na
+0223          0223 X410000-0    Ba                 002 Na
+0323          0323 X300000-0    Ba                 001 Na
+0324          0324 X325000-0    Ba                 000 Na
+0425          0425 X363000-0    Ba                 000 Na
+Eha           0624 B8983L7-D  T Lo Ni              903 Fo
+0628          0628 X678000-0    Ba                 003 Na
+0724          0724 X226000-0    Ba                 013 Na
+Yuhoahtiyol   0726 B4480G3-E    Ba Lo Ni           403 Fo
+0729          0729 X464000-0    Ba                 004 Na
+0730          0730 X649000-0    Ba                 000 Na
+0821          0821 X757000-0    Ba                 014 Na
+0827          0827 X515000-0    Ba                 000 Na
+0829          0829 X431000-0    Ba                 005 Na

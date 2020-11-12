@@ -1,0 +1,106 @@
+@SUB-SECTOR:Galizon SECTOR:Amderstun
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2034 1633 -1 0
+$2034 1932 0 0
+$2034 1937 0 0
+$2034 2335 0 0
+$1932 1830 0 -1
+$1937 2039 0 0
+$2039 2003 0 1
+$2335 2734 1 0
+#
+#Political Boarders
+^1733 1
+^1733 2
+^1733 3
+^1733 4
+^1831 0
+^1832 0
+^1832 5
+^1932 0
+^1932 1
+^1932 5
+^2032 0
+^2032 1
+^2133 0
+^2133 1
+^2233 0
+^2233 1
+^2233 2
+^2234 1
+^2335 0
+^2335 1
+^2335 2
+^2336 1
+^2336 2
+^2337 1
+^2337 2
+^2337 3
+^2237 2
+^2237 3
+^2237 4
+^2137 3
+^2137 4
+^2036 3
+^1937 2
+^1937 3
+^1937 4
+^1836 3
+^1836 4
+^1736 3
+^1736 4
+^1731 1
+^1931 3
+^1931 4
+^2031 3
+^2031 4
+^2132 3
+^2132 4
+^2232 1
+^2232 2
+^2232 3
+^2232 4
+^2231 2
+^2331 1
+^2331 2
+^2331 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 EAB8000-0    Ba Lo Ni Fl     R  013 --
+              1733 X7AA000-0    Ba Lo Ni Fl Wa  A  021 --
+Enethy        1735 C441544-B    Po                 310 GD
+Vioris        1736 BA97896-D  M                    624 GD
+Uvelonar      1737 B000755-C    As                 915 Na
+              1831 EAA9000-0    Ba Lo Ni Fl     R  023 --
+Elvidor       1832 BA67822-C  M Ag                 515 GD
+Rettontur     1833 C47A545-9    Wa                 921 GD
+Trodoth       1931 B5028DB-D    Va Ic           A  121 Am
+North Gate    1932 A88A878-E  F Wa                 911 GD
+Etrovel       1934 C667756-C    Ag                 512 GD
+South Gate    1937 A996996-E  A Hi In              232 GD
+Tronig        1939 C586535-9    Ag                 510 Na
+Ebbenazo      2033 C300899-7    Va De           A  301 GD
+Galizon       2034 A677988-F  A Ag Hi In Cp        423 GD
+Nacoli        2035 B986967-C  F Ag Hi In           612 GD
+Tanokil       2039 C7A3675-A  S Fl                 910 Na
+St Albertine  2040 C8878CA-9    Ag                 511 Na
+Tarezog       2131 C301AEH-B    Va Ic Hi In     R  210 Am
+Van Dares     2133 BAB6788-C  F Fl                 832 GD
+Komviluu      2136 D865543-7    Ag                 410 GD
+Nensagi       2137 C5548A9-A  M Po                 512 GD
+Kansar-Iso    2232 B5537AD-B  F Po              A  123 Am
+Vonlaizo      2233 C413556-A  M Ic                 212 GD
+Cevuelen      2235 A9C4998-E  A Fl Hi In           813 GD
+Esumasi       2237 E464334-5    Lo Ni           A  802 GD
+Moskile       2240 C884545-A  S                    420 Na
+Bedumaw       2331 C7A08B9-D  M De              A  811 Am
+East Gate     2335 A000985-E  A As Hi In           733 GD
+Ellison's Rest2337 C787522-A    Ag                 310 GD
+Drelituponar  2339 C5308AA-8  S Po De              501 Na
+Old Tree      2433 C666856-9  S Ag                 210 Na
+Knerog        2436 X8988CC-1                    R  511 Na
+Mesnet        2440 B9E6548-A    Fl                 632 Na

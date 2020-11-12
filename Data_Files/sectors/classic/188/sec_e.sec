@@ -1,0 +1,46 @@
+@SUB-SECTOR:Millar SECTOR:Holowon
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ffouler       0111 C7A1364-9    Fl Lo Ni           614 Az 
+Yawofohiy     0113 B657443-8                       522 Az        
+Cillcumhan    0115 C746673-9    Ag Ni              910 Az
+Khtafeoka     0212 X6A0000-0    Ba De Lo           000 Az        
+Oiwer         0215 D568766-3  S Ag                 301 Az        
+Milsanda      0217 C656765-6    Ag                 113 Na  
+Canti         0315 E9878D6-3  S Ag              R  103 Na        
+Jeliane       0318 B6588B4-9  S Ni              A  912 Na 
+Grimaldi      0411 A688886-9    Ag Ri              802 Na        
+Xeros         0414 BA7A974-9  N Hi In Wa           712 Na        
+Zan           0415 E550312-7    De Lo Ni Po        705 Na        
+Sirius        0416 C750322-A  S De Lo Ni Po        904 Na        
+Arnaund       0417 C658576-9  S Ag Ni           A  402 Na        
+Meliel        0418 C663545-6    Ni                 913 Na  
+Laurie        0511 C758543-9  S Ag Ni              304 Na        
+Kenneth       0513 D360111-9    De Lo Ni           122 Na        
+Satan's Hold  0517 C400414-9    Ni Va           A  212 Na 
+Concaline     0614 C200450-9  S Ni Va              702 Na        
+Kye           0616 B650885-8    De Po              213 Na  
+Feoras        0712 D746352-9    Lo Ni              103 Na        
+Ketial        0718 C667986-7    Hi In              503 Na 

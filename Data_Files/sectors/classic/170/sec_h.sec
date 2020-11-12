@@ -1,0 +1,38 @@
+@SUB-SECTOR:Bach SECTOR:Hanstone
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2512          2512 X433000-0    Ba                 004 Na
+2519          2519 X352000-0    Ba                 004 Na
+2612          2612 X72A000-0    Ba                 020 Na
+2618          2618 X7A4000-0    Ba                 004 Na
+2620          2620 X400000-0    Ba                 003 Na
+2711          2711 X634000-0    Ba                 013 Na
+2715          2715 X847000-0    Ba                 000 Na
+2812          2812 X384000-0    Ba                 012 Na
+2913          2913 X404000-0    Ba                 010 Na
+3119          3119 X320000-0    Ba                 024 Na
+3120          3120 X565000-0    Ba                 014 Na
+3211          3211 X539000-0    Ba                 004 Na
+3217          3217 X543000-0    Ba                 002 Na

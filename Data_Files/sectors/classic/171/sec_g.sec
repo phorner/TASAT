@@ -1,0 +1,64 @@
+@SUB-SECTOR:Volxenke SECTOR:Malorn
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Elisabetta    1711 B000336-E  2 As Lo Ni           803 Gt M4 III
+1714          1714 X9D6000-0    Fl Lo Ni           013 Na M0 V
+1716          1716 X9A1000-0    Fl Lo Ni           003 Na M7 V M4 D
+1717          1717 X240000-0    De Lo Ni Po        004 Na G8 V
+1719          1719 X200000-0    Lo Ni Va           014 Na M8 III M6 D
+1720          1720 X558000-0    Lo Ni              012 Na G7 V
+1815          1815 XA77000-0    Lo Ni              004 Na F9 V
+Hughson       1817 E230978-7    De Hi In Na Po     224 Jd G6 V M4 D
+1819          1819 XAB6000-0    Fl Lo Ni           024 Na F9 V
+1820          1820 X536000-0    Lo Ni              002 Na F8 V M3 D
+Gay           1912 C89869B-3    Ag Ni              725 Gt F9 V
+Johanna       1913 C666142-7  S Lo Ni              204 Gt F2 V
+Cymel         1917 E756752-5    Ag                 734 Jd K3 V M4 D
+Elijah        1918 E68A541-4    Ni Wa              811 Jd F4 V
+Torchlock     2013 C564200-0  S Lo Ni              600 Gt F7 V
+2014          2014 X272000-0    Lo Ni              024 Na G9 V
+2015          2015 X200000-0    Lo Ni Va           004 Na A5 V
+Ffycher       2017 C23056A-B  S De Ni Po           903 Jd M9 V M5 V
+Marype        2018 E471649-5    Ni                 303 Jd G2 V
+Skelbroke     2019 C10067B-6    Na Ni Va           202 Jd K0 V
+Tannis        2113 C462425-7    Ni                 104 Gt F0 V M2 D
+2116          2116 X381000-0    Lo Ni              000 Na M5 V M1 D
+2117          2117 X664000-0    Lo Ni              004 Na F2 V
+2118          2118 X464000-0    Lo Ni              022 Na F3 V
+2120          2120 X7A2000-0    Fl Lo Ni           004 Na F8 III M7 V
+Santana       2212 B510458-9  N Ni                 205 Gt K2 V M9 D
+Hapsburg      2213 C545646-7  S Ag Ni              910 Gt G8 V M7 D
+2218          2218 X555000-0    Lo Ni              003 Na G2 V M2 D
+2219          2219 X327000-0    Lo Ni              004 Na F1 V
+2220          2220 X342000-0    Ba Lo Ni Po        012 Na F0 V
+Kalunda       2311 C32286A-5    Na Po              402 Gt F1 V M4 D
+Baumer        2312 C201532-A    Ic Ni Va           502 Gt M1 V
+2313          2313 X681000-0    Ba Lo Ni           003 Na F7 V M3 D
+2317          2317 X483000-0    Ba Lo Ni           014 Na F0 V
+2319          2319 X8A4000-0    Fl Lo Ni           000 Na G9 IV
+2412          2412 X110000-0    Lo Ni              002 Na M8 V
+2414          2414 X665000-0    Ba Lo Ni           023 Na F3 V
+2417          2417 X444000-0    Ba Lo Ni           001 Na F9 V
+2418          2418 X7C6000-0    Fl Lo Ni           000 Na G3 V
