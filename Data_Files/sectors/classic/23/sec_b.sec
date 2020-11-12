@@ -1,0 +1,57 @@
+@SUB-SECTOR:Dzighkafe  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Sorrgharrgh   0901 B000565-C  K As Ni              603 Va K7 V            
+Uea           0906 B695767-6  K Ag                 222 Va F4 V            
+Songuzgzurrgan0908 B76A666-7  K Ni Ri Wa           503 Va F0 V            
+Gnuesosoll    0910 D4229AC-4    Hi In Na Po        504 Va G8 V M6 D        
+Soegezounuets 1003 A575453-C  K Ni                 313 Va F3 V            
+Akhokh        1009 D662786-5  C                    302 Va F3 V            
+Uezizgikhs    1101 C643679-5  K Ag Ni Po           405 Va M5 V M7 D        
+Roa           1102 D100597-9  C Ni Va              300 Va M6 V            
+Gaekaeofunggor1104 C997877-5                       400 Va K9 V            
+Khoengoks     1106 C300874-7    Na Va              503 Va F6 D            
+Ogzzarvellroni1109 B424986-9  C Hi In              300 Va F6 V            
+Kitskaz       1201 B465444-9    Ni                 114 Va M8 V M1 D        
+Akhgarregh    1205 B724654-B    Ni                 604 Va K8 III          
+Ouou          1207 C200568-7  K Ni Va              303 Va M8 V            
+Rraghu        1209 B788879-5                       122 Va F6 V            
+Kogak         1302 A884000-D  K Ba Lo Ni           901 Va F8 V            
+Ello          1303 C333413-9    Ni Po              401 Va M8 V M4 D        
+Aegougkan     1305 C584432-4  K Ni                 804 Va G0 V M7 D        
+Dugoeae       1307 C544688-7  C Ag Ni              212 Va F7 V M5 D        
+Dhaeghorrg    1402 E000768-7    As Na              403 Va F3 V M8 V        
+Uaghue        1403 D559795-4                       503 Va M0 V            
+Knarrghdhaerth1404 C3406BC-2  K De Ni Po           325 Va G4 V M5 D        
+Lluenkhaegon  1407 D434500-6    Ni                 402 Vd M8 V            
+Rrokskhuer    1409 B340844-6    De Po              200 Vd M8 V M6 D        
+Adhaeginlladh 1410 E9B5775-4  C Fl                 323 Vd M1 V M5 D        
+Oaezogzueks   1504 C454434-6    Ni                 400 Va F8 V            
+Aksoth        1506 D653349-1  K Lo Ni Po           820 Va F5 V            
+Katsaezgnuo   1510 E100302-B  C Lo Ni Va           201 Vd M5 V            
+Eghuekarorrg  1603 B777977-6  K Hi In              913 Va F0 V            
+Uekur         1604 E876256-2    Lo Ni              804 Va F6 V            
+Zoegatsllaerr 1607 C200545-A  K Ni Va              200 Vd M4 V            
+Kuksogllaksllu1608 A430540-C  K De Ni Po           204 Vd M1 V M5 D        

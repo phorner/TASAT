@@ -1,0 +1,40 @@
+@SUB-SECTOR:Zarthurrue  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Nullkfaetskhue2638 A546376-A    Lo Ni              203 Va F0 V            
+Nadhograng    2732 B6A3534-8  K Fl Ni              442 Va G4 V M3 V M0 V    
+Kourrgenong   2740 CAC6977-5  K Fl Hi In           503 Vo F2 V            
+Rrorrunaeng   2832 C98A443-8  C Ni Wa              910 Va F6 V            
+Tukdhakell    2833 C443374-4  C Lo Ni Po           620 Va F7 V            
+Khaenuesous   2835 C456677-8  C Ag Ni              500 Va M1 V            
+Ksaetong      2837 C410412-6  K Ni                 500 Va M3 V M7 D        
+Gurroerrggeksg2840 D412436-8    Ic Ni              534 Vo F4 V M7 D        
+Dhullokhteks  2936 B858846-5  K                    900 Va F3 V M8 D        
+Aekhsoksrraeng3131 C728200-5  K Lo Ni              703 Va F5 V            
+Aekuez        3134 E775562-7    Ag Ni              823 Va F0 V            
+Dzarengghadzoe3136 C453654-A    Ag Ni Po           800 Va F8 V            
+Touaenfaez    3140 D000878-7  C As Na              904 Vo F8 D M1 D        
+Daengoekh     3235 E597722-0    Ag                 612 Va F8 V            
+Usullghourzok 3237 B323100-C  K Lo Ni Po           623 Vo M0 V M0 D 

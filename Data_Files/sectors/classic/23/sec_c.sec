@@ -1,0 +1,51 @@
+@SUB-SECTOR:Rourukhae  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aaghzkhagzarrs1702 A515775-A    Ic                 113 Va G1 V M0 D        
+Llaerrghorr   1705 D610454-8    Ni                 112 Va F7 V            
+Tsoggandzous  1708 A232776-9    Na Po              213 Vd F8 V M3 V        
+Kfaenorrgh    1710 E466562-7  C Ag Ni              422 Vd G7 V M4 D        
+Rurkoenikh    1801 B400422-C    Ni Va              912 Va G6 V            
+Adhfaezdoel   1803 E335975-9    Hi In              803 Va F2 V            
+Lekhssoustsulo1804 B472000-9  K Ba Lo Ni           101 Va F6 V M4 D        
+Knarzuenfong  1901 C8C88CE-7    Fl                 602 Va K5 V M8 D        
+Ao            1905 B894456-8  K Ni                 201 Va F5 V            
+Vezoezagh     1907 D454974-5  C Hi In              403 Vd F8 V            
+Dogaekhroe    1909 B46876A-7  K Ag Ri              713 Vd F1 V             
+Orzknangloerz 2002 B466640-7    Ag Ni Ri           824 Va F7 V M5 D        
+Lloethagknougs2007 C212578-9    Ic Ni              203 Vd K5 V M7 D        
+Ksongdhorsgzuz2101 D2008A8-6    Na Va              603 Va F2 D            
+Gvughfaenvueks2103 A533473-A    Ni Po              706 Va M2 V M4 V        
+Kaethaeng     2106 C635972-5  K Hi In              300 Vd F9 V            
+Dhuefungksag  2110 C000110-8  K As Lo Ni           902 Vd M7 V            
+Thokhag       2201 C66A466-7    Ni Wa              523 Va F9 V M2 D        
+Dhoeokueo     2207 C43778B-7                       203 Vd F6 IV           
+Ouullogoeode  2209 C546688-2    Ag Ni              314 Vd G5 V M0 D        
+Oknaeg        2301 B40547B-B  C Ic Ni Va           503 Va M3 V M1 V        
+Gaeksan       2302 A577000-C  K Ba Lo Ni           801 Va F9 V            
+Oughonur      2306 D8B5343-4  C Fl Lo Ni           126 Vd M8 V M5 D        
+Uthgaen       2308 A368246-C    Lo Ni              103 Vd F4 V                      
+Faenvorrra    2406 C43377A-8  C Na Po              902 Vd M6 V            
+Ghaekuethea   2410 C7368B8-8  C                    814 Vd G7 V M7 D K4 V M8 D

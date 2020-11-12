@@ -1,0 +1,46 @@
+@SUB-SECTOR:Elkhaghaza  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Vafozouthallkf2513 E586474-7  K Ni                 300 Vd F8 V            
+Adhaeoe       2517 A7C7237-C  K Fl Lo Ni           202 Vd G6 V M4 D        
+Ghukno        2518 E000685-3  C As Na Ni           500 Vd M4 V M7 III      
+Unaluks       2519 C98A540-9  C Ni Wa              922 Vd G3 V            
+Oukughoell    2613 E342200-5    Lo Ni Po           206 Vd K0 V M8 D        
+Angaerrgzorrfu2615 C567431-5  K Ni                 325 Vd F8 V K4 V        
+Khoekho       2620 C1406AD-9  H De Ni Po           200 Vd F7 V            
+Vuenrrong     2712 E776678-3  C Ag Ni              400 Vd F1 V            
+Uerraghuou    2713 B7A6634-5    Fl Ni              900 Vd M2 V            
+Rruru         2719 B412677-8    Ic Na Ni           713 Vd K9 V            
+Thaorrgoedzorr2720 D767973-3  K Hi In              801 Vd F4 V M0 D        
+Khaghousgoelin2815 D78A695-2  C Ni Ri Wa           503 Vd K6 V            
+Air           2820 B275241-A  K Lo Ni              402 Vd M6 V                      
+Soelughzoellor2918 B694667-7  C Ag Ni              313 Vd G9 V M6 D        
+Ghaueng       2920 C69768B-5  K Ag Ni              511 Vd F2 V M5 D              
+Zidhogughz    3014 D9A6133-2  C Fl Lo Ni           302 Vd M7 V            
+Knongogz      3113 C447641-9    Ag Ni              900 Vd K7 V            
+Ngazoerraknago3115 D7A5231-4  C Fl Lo Ni           106 Vd M2 V M5 D          
+Anguksknaengon3211 C150333-7  H De Lo Ni Po        903 Vd F2 V M5 D        
+Aaefough      3215 B34077B-7    De Po              212 Vd F8 V            
+Dongoukaeg    3219 B786520-5    Ag Ni              922 Vd G7 V            

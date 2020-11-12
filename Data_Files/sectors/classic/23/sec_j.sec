@@ -1,0 +1,41 @@
+@SUB-SECTOR:Irrarrdhang SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gorraeggaeghko1023 C768585-6  K Ag Ni              413 Va K8 V            
+Akfull        1027 B5226A7-8    Na Ni Po           200 Vx M5 V M4 D              
+Aegverrgfakh  1123 C564103-5    Lo Ni              204 Va M7 V M3 D K2 V    
+Thueknorrurr  1127 B679002-A  K Lo Ni              315 Vx F9 V M3 D        
+Serue         1221 A320589-F    De Ni Po           804 Va M3 V M3 V        
+Dougfoekoeng  1228 A000451-D    As Ni              300 Vx K9 V            
+Khodhothgvouks1323 C500453-6  K Ni Va              120 Vx M1 V            
+Utogagzae     1327 C200200-7  C Lo Ni Va           423 Vx M2 V            
+Ullgvong      1329 A455444-9    Ni                 404 Vx F7 V M0 D              
+Okskorztsillka1427 E857222-0    Lo Ni              900 Vx G8 V M1 D        
+Kaeuelldhuegh 1522 E251314-5  C Lo Ni Po           106 Va M2 V M0 D        
+Osathasa      1527 C561345-3    Lo Ni              920 Vx F0 V            
+Oethendogh    1528 C000675-B  C As Na Ni           100 Vx M1 V                      
+Ghokoeue      1621 B549337-6  K Lo Ni              202 Va F7 V M7 D        
+Atathagaengorr1623 D653100-4  K Lo Ni Po           503 Vx K2 V            
+Agaeors       1628 E987455-6    Ni                 710 Vx M7 V            

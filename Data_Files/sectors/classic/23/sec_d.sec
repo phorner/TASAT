@@ -1,0 +1,49 @@
+@SUB-SECTOR:Ourdzoeg SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Rrourag       2507 A85A300-C  K Lo Ni Wa           905 Vd G5 V M5 D        
+Ghagudzgongoen2508 B502200-8  K Ic Lo Ni Va        742 Vd K2 V M0 D        
+Negarrghoeoego2510 A558454-B  K Ni                 104 Vd F0 V            
+Ruerrgknorr   2601 B000341-A  K As Lo Ni           303 Va F1 V M4 D        
+Sueodhoeng    2602 C53559B-9    Ni                 200 Va M4 II           
+Gzaeogvaksksue2605 A52489A-6  K                    303 Vd F3 V M3 D        
+Oudhurlongkou 2607 E000205-5  C As Lo Ni           705 Vd M6 V M3 V        
+Nogvullfaghzae2610 C35489A-2  K                    901 Vd F2 V                      
+Khokharoethsun2702 E997315-2    Lo Ni              100 Va F0 V M3 D        
+Kfavuerrgghoz 2801 E444002-2  C Lo Ni              706 Va F7 V M6 D M0 D    
+Gaengangourkho2804 E140679-2  C De Ni Po           317 Vd G9 V M1 D        
+Rourruengghog 2807 C8B6100-A  H Fl Lo Ni           402 Vd M5 V            
+Taegkurzong   2810 A566234-C  K Lo Ni              303 Vd F2 V                      
+Fuu           2904 A577679-9    Ag Ni              305 Vd M4 V M4 D M0 D    
+Gaekhsononggha2905 E542698-1  C Ni Po              516 Vd F3 V M7 D        
+Enagoksghaegva2907 B000445-C  K As Ni              804 Vd K3 V            
+Outsaerrghfars2909 E110315-8  C Lo Ni              503 Vd M4 V M7 D        
+Ekaertsaenralk3004 B100330-8    Lo Ni Va           100 Vd G1 V            
+Gzethnanang   3102 B464444-C    Ni                 400 Va F5 V M4 D        
+Urrakhorrgguth3104 C63869A-7    Ni                 922 Vd K5 V M6 D        
+Aerfaz        3107 D837543-2  C Ni                 602 Vd G7 V            
+Tuekoungoull  3110 E999302-5  C Lo Ni              913 Vd F9 V            
+Orrgoerr      3206 D693323-5    Lo Ni              702 Vd F5 V            
+Ksoeaongurr   3209 C7A4864-4  C Fl                 700 Vd F6 V M4 D        

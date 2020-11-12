@@ -1,0 +1,55 @@
+@SUB-SECTOR:Goengsakh  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Atokhlloeg    2521 A323333-C  K Lo Ni Po           202 Vd M2 V            
+Rotazuksdzang 2527 E639231-6  C Lo Ni              704 Vd K3 V            
+Sungourr      2529 D767451-4  C Ni                 504 Vd F6 V M4 D        
+Ghuksun       2621 C785111-2    Lo Ni              216 Vd K4 V M4 D        
+Raggzarrgh    2623 C210573-9  K Ni                 102 Vd M3 V            
+Goevozuou     2624 B85A356-9  K Lo Ni Wa           302 Vd G1 V M1 D        
+Dugzkoegzoen  2626 C30036B-5    Lo Ni Va           303 Vd M6 V K6 V        
+Toghdzoerzuedh2628 C303002-B    Ic Lo Ni Va        904 Vd K8 V M7 V M5 D K2 D
+Idzagudzuegaet2630 A611400-A    Ic Ni              903 Va F0 IV M5 V       
+Oaerrgdhougoug2725 A000465-D  K As Ni              902 Vd M8 V            
+Ezaruersrokhll2727 E76A778-5    Wa                 714 Vd F2 V            
+Duesaenlaell  2729 A858978-D    Hi In              602 Vd F6 V M4 D        
+Aea           2822 B436775-B                       500 Vd M1 V            
+Khaethaeghae  2825 C410552-A    Ni                 218 Vd M2 V M7 D        
+Eeraeghzraerro2826 D567125-2    Lo Ni              211 Vd F5 V            
+Ruegno        2829 E654544-6    Ag Ni              613 Vd F2 V M8 D        
+Ozaksaegzorrda2927 B321563-C    Ni Po              603 Vd G5 V M1 D        
+Voruegva      2928 CAD5410-8  C Fl Ni              102 Vd F3 V M2 V        
+Dzedhrrenkfaek2929 D456976-6    Hi In              714 Vd F8 V            
+Ghoghkoeveghou3022 D565773-5    Ag                 521 Vd F2 V            
+Natsaesoegdzou3024 B569676-7    Ni                 800 Vd F1 V M8 D        
+Theerruks     3026 B766563-B    Ag Ni              103 Vd K7 V            
+Knogaeruengthi3027 B787325-9  K Lo Ni              923 Vd F6 V            
+Gingougughzing3028 B211677-8  K Ic Na Ni           912 Vd F7 V            
+Seogorgak     3122 B967553-7  C Ag Ni              410 Vd F1 V            
+Thievakhars   3125 A5225A9-C    Ni Po              708 Vd M6 V M2 D        
+Geker         3130 B610300-9    Lo Ni              300 Va M3 V            
+Dzonoer       3222 B120777-8  K De Na Po           203 Vd M8 V            
+Ghokoeksedh   3224 C765410-4    Ni                 200 Vd K4 V            
+Azkegzaesvoedh3230 B584487-9  C Ni                 912 Va F3 V                      

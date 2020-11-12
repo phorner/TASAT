@@ -1,0 +1,54 @@
+@SUB-SECTOR:Riadr   SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Jelniekl      0103 C555977-A    Hi In              712 Zh F7 V            
+Ovlshablde    0106 B566663-5  U Ag Ni Ri           103 Zh F8 V            
+Olzitranjonshi0108 C65A565-A  M Ni Wa              903 Zh F9 V M7 D  
+Sablzhdafrne  0201 B310799-8    Na                 902 Zh M4 V            
+Sablzhdafrne  0203 B310799-8    Na                 902 Zh M4 V            
+Enzhra        0207 B4109ED-9  M Hi Na           A  324 Zh F8 V M5 D  
+Aeprzhdaziepr 0302 C402488-A    Ic Ni Va           311 Zh F7 V            
+Baklderiedlfre0308 C436520-8  M Ni                 910 Zh F1 V M8 D        
+Fitsekr       0309 B342442-8    Ni Po           A  204 Zh M3 V            
+Klefriaaatsidl0310 B355333-C    Lo Ni              304 Zh F8 V M1 D
+Zhdatlshtianch0402 A22286A-B    Na Po              813 Zh F5 V            
+Plazhtlaiqrdre0403 B375687-A    Ag Ni              700 Zh G4 V M8 D        
+Eiantqia      0405 C678423-7  M Ni                 800 Zh K9 V M3 D        
+Sienzhdeqrchan0406 B5828AB-7  M Ri              A  201 Zh F9 V M7 D        
+Shirnavlatlpla0410 A757533-9  M Ag Ni              804 Zh F2 V    
+Inafrsti      0501 A68868A-B  M Ag Ni Ri           313 Zh F3 V            
+Zhdifrzhdozhia0503 E110315-7    Lo Ni              100 Zh M6 III          
+Shanchdadliaya0505 B858201-C  M Lo Ni           A  800 Zh F0 V            
+Ea            0507 C410769-8    Na                 602 Zh G7 V            
+Iaiensh       0508 E000422-A    As Ni              902 Zh M4 V M1 D        
+Brapliaa      0510 A553377-B    Lo Ni Po           326 Zh F2 V M7 D   
+Agghelu       0601 E424200-7    Lo Ni              534 Va F1 V M0 V        
+Llizan        0605 A674001-8    Lo Ni              414 Va F2 V            
+Iencharjenshsi0609 B30068A-A  M Na Ni Va           803 Zh F9 V   
+ Ghingtholkoen0705 C4126BC-A    Ic Na Ni           104 Va M0 V M4 D        
+Kaezthuerserrg0707 D410545-7  K Ni                 300 Va M8 V M6 D        
+Iezhdebdleflsh0710 A260301-E  M De Lo Ni           802 Zh F5 V M3 D                  
+Gnekugzkfaldor0804 B838412-8    Ni                 216 Va M5 II G5 V       
+Aethirz       0806 B879323-6  K Lo Ni              901 Va F2 V            

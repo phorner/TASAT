@@ -1,0 +1,48 @@
+@SUB-SECTOR:Thoeg SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Roethoeegaeaeg1726 A5009ED-C  K Hi Na Va           412 Vx F5 D M0 D        
+Gvaegaenuoekht1730 B65278A-A  K Po                 315 Vx M2 V M0 D        
+Ghuenazueghz  1827 C985521-5    Ag Ni              924 Vx G8 V            
+Dzogdongrouksu1828 C363431-9    Ni                 503 Vx F6 V            
+Dzilagh       1921 B495875-5  C                    301 Va F2 V            
+Ghokhougaks   1924 B501678-9    Ic Na Ni Va        214 Va M0 V M0 D        
+Dourouatue    1926 D120578-9  K De Ni Po           102 Va M7 V M6 D        
+Arozdhaerzuero1929 B789210-A  K Lo Ni              405 Vx K8 V M6 D        
+Adonranggoeks 2023 B452333-6  K Lo Ni Po           813 Va F4 V            
+Dzidhungueng  2024 D361451-2  K Ni                 713 Va F9 V M3 D        
+Gzukno        2025 A9C077A-B  K De                 306 Va K1 V M1 D        
+Rughuedhoekuko2029 D529659-5  K Ni                 503 Vx G1 IV           
+Vugthul       2030 B454346-A    Lo Ni              900 Vx K5 V            
+Noesagzae     2122 E632102-7  C Lo Ni Po           914 Va F7 V            
+Arueturz      2125 C100456-8  C Ni Va              605 Va K4 D            
+Suedhang      2127 C879211-3  C Lo Ni              504 Va F2 V M5 D        
+Ghurrakhalorr 2222 B452575-9    Ni Po              604 Vd F8 V            
+Doerra        2227 B617677-6    Ic Ni              510 Va M4 V            
+Kouvuerueng   2322 C7C3113-6  C Fl Lo Ni           505 Vd M4 V M0 D        
+Naezaengoz    2323 B200300-9  K Lo Ni Va           112 Vd M6 II           
+Ghaeuuza      2324 A100785-B    Na Va              303 Vd M2 V M0 D        
+Llaenaekaesgha2423 C616577-A  C Ic Ni              514 Vd M0 II           
+Urakh         2424 B568387-7    Lo Ni              400 Vd F1 V M2 D        

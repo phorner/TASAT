@@ -1,0 +1,46 @@
+@SUB-SECTOR:Yeplzhaf SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Iabrzotlstepl 0124 B3007A9-9    Na Va              602 Zh K0 V  
+Ikofl         0128 B413412-8  M Ic Ni              102 Zh M2 V 
+Intdepribradr 0129 C728242-7    Lo Ni              603 Zh M8 V M6 D        
+Baotchij      0225 C78A9AF-7  M Hi In Wa           430 Zh F2 V            
+Rbrchdlan     0227 C879894-6                       100 Zh F0 V M0 D        
+Zhiblchins    0321 A323553-D    Ni Po              603 Zh M5 V            
+Chavlzhdoblshe0324 B526765-8                       503 Zh F8 V M1 D        
+Jodlzhiat     0327 X639525-6    Ni              R  403 Zh M2 V            
+Qliantsinja'ez0330 B697204-8    Lo Ni              335 Zh F9 V M1 D            
+Aiak          0423 A300320-E  M Lo Ni Va           117 Zh M2 V M3 D        
+Chtevlbe      0427 C435210-8    Lo Ni              307 Zh M7 V M1 D        
+Zianchzdietsti0430 A453000-C    Ba Lo Ni Po        415 Zh F7 V M3 D        
+Apla          0521 E5A3310-8    Fl Lo Ni           424 Zh M6 V            
+Opafzhdar     0524 E10079A-7    Na Va              616 Zh M5 V M7 D        
+Anjazolvliad  0623 C895544-9    Ag Ni              201 Zh F0 V M0 D        
+Ajadnench     0626 E565323-5    Lo Ni              303 Zh G7 V            
+Payiajfarachia0630 E210422-7    Ni                 904 Zh K2 V M0 D        
+Oie           0723 C3007AB-A    Na Va              824 Zh M2 V M6 D        
+Zeplyieplenian0728 D00058A-7    As Ni              900 Zh G0 V            
+Chedranjviatvr0825 D400522-9  M Ni Va              400 Zh M5 V            
+Freqlvlrlons  0829 B9C6422-9    Fl Ni              322 Zh M3 V            

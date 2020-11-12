@@ -1,0 +1,45 @@
+@SUB-SECTOR:Engakhs  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Uego          0911 D536854-5  H                    115 Va F2 V M3 D        
+Venuerrrroell 0913 A564658-7  K Ag Ni Ri           320 Va F4 V M2 D        
+Zditviapl     0918 B899622-7    Ni                 208 Zh G0 V M4 D               
+Kuoeedhuerrgh 1012 C332476-7  K Ni Po              100 Va K9 V            
+Zovoe         1013 C986432-7    Ni                 203 Va F9 V M4 D        
+Dhonaegvaro   1019 B490401-B    De Ni              802 Va F9 V            
+Souo          1020 A6B1423-C  K Fl Ni              341 Va M6 V M3 D        
+Aenguezae     1114 B140664-8    De Ni Po           213 Va F2 V M5 D        
+Vanthoskaedhok1119 C451267-6    Lo Ni Po           304 Va F9 V M1 D        
+Khezoeridosai 1212 A998678-9    Ag Ni              102 Va F2 V            
+Tetsoung      1213 E5A0630-2  C De Ni              700 Va M2 V            
+Oedzksuentsoeg1316 E3416BD-3  C Ni Po              804 Vd F2 V            
+Dhothou       1319 B522300-9  K Lo Ni Po           400 Va F9 V M2 D        
+Kegzdar       1415 A544577-8    Ag Ni              625 Vd F3 V            
+Ruegueks      1416 A384100-9    Lo Ni              104 Vd F1 V M6 D        
+Ogoez         1515 D47267B-2    Ni                 801 Vd M1 V            
+Dhoedhue      1520 E7A2321-7    Fl Lo Ni           122 Va M8 V            
+Ouoegzu       1612 A667005-C    Lo Ni              513 Vd F3 V            
+Okazeth       1615 D230453-3    De Ni Po           609 Vd G9 III M2 V G5 V  
+Dhakakna      1617 E5425AB-4    Ni Po              903 Va F5 V            

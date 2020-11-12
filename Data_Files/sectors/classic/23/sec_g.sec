@@ -1,0 +1,46 @@
+@SUB-SECTOR:Oguegh  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gaeksathaen   1712 E542430-2  C Ni Po              312 Vd F2 V M2 D        
+Raethaezuzuz  1716 B696679-8  K Ag Ni              623 Vd F7 V            
+Zaurfoeg      1720 C9A5777-7  K Fl                 902 Va G6 V                      
+Ngokhirraang  1811 C360652-9    De Ni Ri           912 Vd K2 V M2 D        
+Gusegksaeks   1815 A432230-B  K Lo Ni Po           302 Vd K2 V K8 D        
+Kouug         1817 E430101-5    De Lo Ni Po        411 Vd M3 III          
+Uorangeng     1820 A85A6AF-B  K Ni Wa              112 Va F9 V            
+Orakoosoz     1911 E849443-6    Ni                 600 Vd F2 V            
+Agoenorrgaets 1915 A200635-9  K Na Ni Va           914 Vd M7 V M7 D         
+Gziriggurkhosr1919 A498879-C  K                    700 Vd F7 V            
+Rougorrg      2013 B66A221-7  K Lo Ni Wa           705 Vd G3 V M4 D        
+Daedhun       2015 C7A0575-9    De Ni              524 Vd M5 III          
+Nouoegu       2016 B6B2323-7  K Fl Lo Ni           302 Vd M5 V            
+Adhkok        2020 B89A625-9  K Ni Wa              500 Vd F1 V M8 D        
+Dhoaerrorang  2118 E458547-2    Ag Ni              822 Vd F3 V M1 D        
+Dhokhadhaeze  2119 C656443-7  C Ni                 504 Vd F7 V M5 D        
+Khoertsuengosa2120 A659465-9  K Ni                 527 Vd F5 V M5 D        
+Ouollou       2211 C647669-5  K Ag Ni              602 Vd G1 V            
+Odaefidae     2216 D9C5410-4    Fl Ni              405 Vd F0 V            
+Oaoegagh      2316 C100745-B    Na Va              404 Vd M4 V M3 D        
+Rroekhsuek    2414 A78A650-D  K Ni Ri Wa           314 Vd K8 V            

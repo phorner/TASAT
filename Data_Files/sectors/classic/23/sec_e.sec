@@ -1,0 +1,45 @@
+@SUB-SECTOR:Etlieejibia  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Obliaaklbel   0111 D558669-5    Ag Ni              723 Zh F4 V  
+Iaievriafl    0113 A584000-A    Ba Lo Ni           502 Zh F7 V M5 D
+Rfchrnshieaklz0116 D5A5203-8  M Fl Lo Ni           700 Zh M0 V            
+Zdianchklav   0118 B8B7662-9    Fl Ni              514 Zh G5 V M5 D  
+Ietledevlshtia0213 A3468A7-C  M                    923 Zh F6 V            
+Chtakrchieshri0220 C656557-8    Ag Ni           A  812 Zh F0 V M2 D        
+Ila           0314 B7A4669-8    Fl Ni              303 Zh M2 V M0 D        
+Idrrrzrovryazh0318 D326774-7                       905 Zh M6 V K5 V        
+Eqdleshtaql   0413 E201435-9    Ic Ni Va           521 Zh M3 V            
+Etsrens       0415 C566731-4    Ag                 815 Zh F9 V M8 D        
+Evlvaabrzhanjf0417 A567000-D  M Ba Lo Ni           203 Zh K3 V            
+Iachtiazchtivr0419 C78577B-7  M Ag Ri              801 Zh F1 V                     
+Yianzshtefradr0514 B10089D-8    Na Va              723 Zh F9 V            
+Chtialchtachti0520 A5A0758-D  M De                 514 Zh K4 V M2 D        
+Chtiqkleapr   0611 E311511-7    Ic Ni              911 Zh K3 V            
+Tenshoflqlabr 0612 CAC7413-9  M Fl Ni              202 Zh A3 III M7 D      
+Rdozhinspazh  0620 A346356-A  M Lo Ni              103 Zh F2 V M6 D        
+Tliaklo       0711 B221675-C    Na Ni Po           802 Zh M4 V            
+Ianshziblvokl 0717 E677646-5    Ag Ni              314 Zh F3 V            
+Blibrvritlekry0815 C876001-8  M Lo Ni              322 Zh F4 V M5 D        

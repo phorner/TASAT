@@ -1,0 +1,41 @@
+@SUB-SECTOR:Khuzedhoth  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Thaeghuer     0933 C8B468A-7    Fl Ni              612 V9 M8 V                       
+Llosoets      0937 A341323-C    Lo Ni Po           900 V9 F1 V            
+Egang         1034 B746774-A    Ag                 312 V9 M5 V            
+Ragerzesu     1038 A769776-B                       123 V9 F4 V            
+Kfoethoennael 1040 B5978CC-6                       514 V9 F5 V            
+Tsouu         1131 D98A463-5  C Ni Wa              102 V9 K5 V F7 V M0 D    
+Tuellaerrghog 1134 C5A0588-4    De Ni              813 Va F9 V M7 D        
+Duelunogoerrzu1138 B000A79-B    As Hi Na           602 V9 G5 V M7 D        
+Rrigrragaen   1237 C36476A-8    Ag Ri              704 V9 F5 V            
+Lleronggvoeng 1239 E100302-7    Lo Ni Va           103 V9 G6 V            
+Gvuerllagztuni1334 D7645A8-4    Ag Ni              512 Va G1 V            
+Gvaegnesosluez1340 D866775-1    Ag                 202 V9 F3 V            
+Raeraz        1432 C560100-3    De Lo Ni           314 Vx F7 V M3 D        
+Vaaenesrouz   1532 C672644-4  C Ni                 412 Vx G4 V            
+Ukozarrill    1537 A6A2759-B    Fl                 102 Vx F5 V            
+Gidhang       1633 AAD6488-9  C Fl Ni              236 Vx F8 IV M4 V       

@@ -1,0 +1,43 @@
+@SUB-SECTOR:Piprninsh  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Intdepribradr 0131 C728242-7    Lo Ni              603 Zh M8 V M6 D        
+Ebljodla      0135 B302369-D    Ic Lo Ni Va        303 Zh G3 V M1 D     
+Dlianzhfetlsti0231 B544442-A  M Ni                 803 Zh F9 V M3 D        
+Zdrnzhie      0233 E6697CC-2                       503 Zh K2 V            
+Nieflenanz    0235 B7C4525-A  M Fl Ni              405 Zh M5 V M0 D        
+Ia            0239 X2776AB-5    Ag Ni           R  104 Zh F9 V M6 D       
+Kofna         0434 E3265AB-7    Ni                 401 Zh M6 V                      
+Doblrenj      0531 B413888-8  M Ic Na              700 Zh F1 V            
+Eiaprtej      0535 B2358B8-8  M                    617 Zh G7 V M0 D        
+Zaraerrgougzur0540 C77A8AA-5    Wa                 423 Va F1 V                 
+Roelourrgaghoe0636 C4546A8-5    Ag Ni              405 Va G8 V M5 D        
+Asal          0637 B5A0500-D  C De Ni              312 Va M0 V            
+Thaerarrg     0639 C6A0331-6    De Lo Ni           522 Va M6 II K2 V             
+Sungos        0733 D000574-5    As Ni              714 Va F2 V M8 D        
+Gitsuraeguetho0736 A365341-C  K Lo Ni              800 Va F5 V            
+Khuntuegkhagna0831 B9C6443-6    Fl Ni              205 Va M1 V M6 D               
+Zungosgzalloek0833 A436879-9  K                    323 V9 G8 V            
+Ngurrourzegh  0837 B545776-7    Ag                 400 V9 F2 V            

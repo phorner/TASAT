@@ -1,0 +1,50 @@
+@SUB-SECTOR:Raelas  SECTOR:Khoellighz
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zalgvadzokh   1732 A230662-D    De Na Ni Po        203 Vx G0 V            
+Thaghuzaeng   1737 B541543-8  K Ni Po              102 Vx G9 V            
+Khokhurr      1739 D000877-6  K As Na              206 Vx F5 D M4 D        
+Rriuerak      1831 E566689-2    Ag Ni              102 Vx F2 V            
+Oekanraz      1833 B8B0446-A  C De Ni              913 Vx M8 V            
+Ronaeksourrgh 1838 C363961-7  K Hi In              420 Vx F2 V            
+Llatourrnanour1931 D304403-8  C Ic Ni Va           204 Vx F9 V M3 D        
+Ngallorrounkor1933 A676222-9    Lo Ni              104 Vx K6 V            
+Zighagnagvaen 1937 B765589-B  K Ag Ni              937 Vx F9 V M0 V M3 D    
+Oudzorzkon    1940 B63627A-5    Lo Ni              305 Vx M3 V M6 D        
+Eaerukazsung  2031 C5688A9-4  K                    802 Vx F3 V            
+Ghandhorr     2033 B330542-B    De Ni Po           102 Vx G1 V            
+Dhognodozelldz2036 C498632-6    Ag Ni              701 Vx F5 V M4 D M1 V    
+Goedaeag      2132 B526667-6  K Ni                 622 Vx M6 V            
+One           2134 C797300-6    Lo Ni              300 Vx F0 V            
+Ksaellaez     2233 C553102-5  C Lo Ni Po           322 Va F5 V M5 D        
+Uosa          2237 D544976-8  C Hi In              126 Vx F6 V M0 D        
+Uknonueng     2240 X78A576-1  C Ni Wa              808 Vx K6 V M0 D        
+Lloezuknurzouk2332 E130567-9  C De Ni Po           606 Va M3 V M3 D        
+Garrillon     2338 E526301-7    Lo Ni              312 Vx K4 II           
+Koegoezi      2431 B459420-8  K Ni                 805 Va G6 V M5 D        
+Orethourzueruz2433 E687110-6  C Lo Ni              404 Va F5 V M3 D        
+Tasoloe       2435 C559120-8    Lo Ni              706 Va K0 V M7 D        
+Dzagok        2436 A100658-F    Na Ni Va           614 Va F4 V            
+Naeknazoeks   2440 C348110-7  K Lo Ni              311 Va F0 V            
