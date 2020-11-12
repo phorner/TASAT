@@ -1,0 +1,39 @@
+@SUB-SECTOR:Gaar SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Diki          0121 C344300-7    Lo Ni              811 Ga
+Inama         0124 B330665-8    De Na Ni Po        315 Ga
+Dishamdi      0126 C495544-5  S Ag Ni              613 Ga
+Iimanasi      0130 A8C0446-A  N De Ni              400 Ga
+Isbuuki       0223 E54A334-5    Lo Ni Wa           604 Ga
+Mugurmakag    0226 C220583-9  S De Ni Po           333 Ga
+Meshideken    0227 C755002-5    Lo Ni              703 Ga
+Muulukhu      0230 A51067A-B  N Na Ni              404 Ga
+Egasha        0321 E352889-7    Po                 603 Ga
+Rashuu        0322 B597543-7  N Ag Ni              203 Ga
+Nashgaza      0324 A254100-C  S Lo Ni              325 Ga
+Shigar        0327 D5107BE-4  S Na                 914 Ga
+Amgizik       0330 C200779-9    Na Va              303 Ga
+Ilesha        0424 C7B3454-A  S Fl Ni              900 Ga
+Didashke      0426 E000573-6    As Ni              504 Ga
+Gidkusar      0429 EA89137-7    Lo Ni              304 Ga
+Mukhassashi   0430 E97A77A-7    Wa                 310 Ga
+Gurkhis       0524 B472AAE-A  2 Hi In              503 Ga
+Ukuman        0527 D5696AB-5    Ni                 203 Ga
+Akigluu       0528 E3728C9-6                       104 Ga
+Imarnirdira   0529 E300624-8    Na Ni Va           112 Ga
+Milaakha      0621 C100256-9    Lo Ni Va           823 Ga
+Kimim         0622 C6648B9-5                       404 Ga
+Mashergi      0625 A434588-A  N Ni                 804 Ga
+Kiishgu       0626 E551797-2    Po                 703 Ga
+Malumalu      0724 A24079B-B  N De Po              510 Ga
+Aragmudasha   0822 C875333-5    Lo Ni              402 Ga
+Aguugase      0826 C000611-6    As Na Ni           813 Ga
+Agamdi        0828 B310412-8  N Ni                 723 Ga
+Gidedipkaga   0830 D500411-3  S Ni Va              402 Ga

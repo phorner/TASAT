@@ -1,0 +1,44 @@
+@SUB-SECTOR:Karuin SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gimaa         1735 B435044-9    Lo Ni              901 Ga
+Zikhu         1736 X330304-3    De Lo Ni Po        411 Ga
+Gili          1738 B8C7868-7    Fl                 203 Ga
+Khagikir      1739 A564442-B  N Ni                 705 Ga
+Iingikanka    1831 E774733-3    Ag                 323 Ga
+Unkuusekuu    1832 E568410-3    Ni                 100 Ga
+Gukigaka      1833 C839453-7  S Ni                 300 Ga
+Shuu          1836 E765100-5    Lo Ni              301 Ga
+Asru          1838 E551975-7    Hi Po              203 Ga
+Emesh         1839 A997447-8  S Ni                 714 Ga
+O-13          1936 D400333-4  S Lo Ni Va           312 Ga
+O-15          1938 A838588-9    Ni                 203 Ga
+Lakamlii      2032 A260400-A    De Ni              500 Ga
+Khakhanmii    2033 A255677-B  N Ag Ni              113 Ga
+Udiruukhen    2034 C836143-6    Lo Ni              710 Ga
+Mepalira      2036 C439594-9  S Ni                 523 Ga
+Ligaami       2040 D6749AE-8  S Hi In              705 Jm
+Geshgiidum    2136 C6A1643-5  S Fl Ni              603 Ga
+Ashirdagii    2137 C998A76-8  S Hi In              205 Ga
+Guduugi       2138 B493696-A  N Ni                 602 Ga
+Adamiishkha   2233 A336456-A  S Ni                 420 Ga
+Mash          2238 B5258AB-9                       203 Ga
+Sekaban       2331 E589730-2                       813 Ga
+Khamukhadam   2332 C000410-7    As Ni              800 Ga
+Ambiikhar     2333 B78A8AB-C    Wa                 904 Ga
+Samamshik     2334 B839145-B    Lo Ni              701 Ga
+Kimalargugu   2335 E688836-2                       111 Ga
+Ureske        2337 B681688-5  S Ni Ri              503 Ga
+Emikishenga   2338 D234346-6  S Lo Ni              803 Ga
+Midishashuu   2339 B68657A-8  S Ag Ni              802 Ga
+Ikhuki        2436 C23616B-6  S Lo Ni              903 Ga
+Nadinuru      2437 C58948A-A  S Ni                 700 Ga
+Argurkhike    2438 C10047C-7    Ni Va              504 Ga
+Ikukkhuu      2439 C237323-7    Lo Ni              525 Ga
+Arzuda        2440 B554476-9  N Ni                 403 Ga

@@ -1,0 +1,33 @@
+@SUB-SECTOR:Mumari SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Raslelimur    0101 C100595-9    Ni Va              504 Na
+Iirigniis     0106 E686645-3    Ag Ni Ri           903 Na
+Agikuguukhi   0110 A896433-C  N Ni                 714 Na
+Udep          0207 C691324-4    Lo Ni              314 VT
+Arukhi        0208 A524875-B  S                    702 VT
+Kapid         0209 C7B4572-8  S Fl Ni              502 VT
+Ashaar        0301 D441472-3  S Ni Po              400 Na
+Kinishe       0308 EA8777A-1    Ag Ri              403 VT
+Kidu          0403 C8D5442-9  S Fl Ni              933 Na
+Maaparluku    0404 C360203-6  S De Lo Ni           305 Na
+Kikiilu       0501 A687342-A    Lo Ni              702 Na
+Uggashigale   0507 B222569-8    Ni Po              604 Na
+Gimmikud      0601 C9C5520-A    Fl Ni              501 Na
+Anurgaka      0605 E56AA5A-B    Hi Wa              612 Na
+Urdiminli     0606 C555110-8    Lo Ni              600 Na
+Kenar         0607 E262540-6    Ni                 902 Na
+Kaka          0609 D472168-5  S Lo Ni              804 Na
+Siisaguslu    0610 A463004-B    Lo Ni              612 Na
+Igada         0703 B546765-7    Ag                 802 Na
+Esha          0704 B699220-A  S Lo Ni              504 Na
+Ammasakuma    0705 C3529DC-7    Hi Po              113 Na
+Inabem        0707 D561561-7  S Ni                 204 Na
+Ashudami      0709 C758033-5    Lo Ni              405 Na
+Kidshii       0808 C410451-C  S Ni                 404 Na

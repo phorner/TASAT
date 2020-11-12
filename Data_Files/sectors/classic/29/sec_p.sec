@@ -1,0 +1,28 @@
+@SUB-SECTOR:Idudika SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Giledudkemi   2531 A442210-B    Lo Ni Po           703 Ga
+Irush         2533 B222233-A  S Lo Ni Po           303 Ga
+Urugashiilu   2534 C563997-6    Hi                 613 Ga
+Gikam         2535 X310534-4    Ni                 520 Ga
+Lali          2537 B875421-3  N Ni                 603 Vw
+Iirkhu        2538 E300535-5    Ni Va              103 Vw
+Usumusgi      2638 C100546-B    Ni Va              203 Vw
+Giirugim      2834 A21059D-9    Ni                 514 Ga
+Sumeraa       2837 B95A687-A  S Ni Wa              105 Vw
+Lamunke       2839 B793312-8    Lo Ni              511 Vw
+Ligikagin     2933 C677410-4    Ni                 503 Ga
+Mumbiinur     3031 C512111-A    Ic Lo Ni           403 Ga
+Irgilakhii    3039 D000357-A  S As Lo Ni           502 J-
+Shupikasii    3040 C795337-4    Lo Ni              623 J-
+Uderakhii     3134 B488687-B  N Ag Ni Ri           604 J-
+Ikaarmaa      3135 C665568-7    Ag Ni              105 J-
+Igiluumune    3136 B56498C-9  S Hi                 324 J-
+Kamkhiir      3233 C663000-9  S Ba Lo Ni           234 J-
+Shamushu      3238 C634438-9    Ni                 102 J-

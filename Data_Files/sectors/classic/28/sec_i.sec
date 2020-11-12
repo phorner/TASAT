@@ -1,0 +1,50 @@
+@SUB-SECTOR:Ishigisi SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Khikhakam     0121 D565972-8  S Hi                 703 Ga
+Liizakum      0122 D342001-5    Lo Ni Po           302 Ga
+Amlizigar     0123 B7859A8-C  N Hi                 204 Ga
+Gisu          0124 A432533-C  N Ni Po              314 Ga
+Ipardiri      0129 D11066A-8  S Na Ni              715 Ga
+Lagudishur    0221 C2616AB-6    Ni                 203 Ga
+Iisilish      0222 B564787-7    Ag Ri              211 Ga
+Mikhu         0223 D350831-5  S De Po              904 Ga
+Ekkhi         0225 A86A98D-8    Hi Wa              904 Ga
+Akur          0321 C978621-8  S Ag Ni              313 Ga
+Ilar          0322 B4257AE-A  S                    925 Ga
+Shigakdarur   0323 E688340-5    Lo Ni              703 Ga
+Kaasham       0324 C320669-5    De Na Ni Po        110 Ga
+Uugkakapalu   0326 B66458B-6    Ag Ni              203 Ga
+Aala          0421 E4419B8-8    Lo Ni Po           203 VQ
+Umimasiir     0422 D210838-5    Lo Ni              504 VQ
+Kikusharde    0424 B688874-A  N Ri                 414 Ga
+Kadalikhi     0426 D656514-4  S Ag Ni              923 Ga
+Ladi          0427 C684689-7    Ag Ni Ri           702 Ga
+Irkigika      0429 C311765-5    Ic Na              224 Ga
+Giinashsa     0522 B351938-9  N Po                 904 VQ
+Arshe         0523 C330858-8  S De Na Ni Po        624 VQ
+Inluraamge    0525 E448450-5    Ni                 314 Ga
+Shidii        0528 C84A200-9    Lo Ni Wa           800 Ga
+Dukhur        0530 D365389-4    Lo Ni              625 Ga
+Shilikedi     0621 C98A698-8  S Ni Ri Wa           400 Ga
+Akhikirimgu   0622 A100741-C  N Na Va              804 Ga
+Igepmagagi    0623 A3136AA-C  N Ic Na Ni           613 Ga
+Ugmiguli      0625 E9A2889-3    Fl                 402 Ga
+Uumikha       0626 C000104-9    As Lo Ni           803 Ga
+Kinkadka      0627 C97A025-8  S Lo Ni Wa           413 Ga
+Ukhikidir     0629 A799361-C  N Lo Ni              504 Ga
+Ligar         0630 A87A475-C    Ni Wa              913 Ga
+Aguudguka     0722 C240540-7  S De Ni Po           320 Ga
+Shaazan       0725 C34099C-9    De Hi In Po        900 Ga
+Gamkham       0726 C667879-5  S Ri                 104 Ga
+Likharkiima   0729 X100655-4    Na Ni Va           313 Ga
+Amiinsuuraa   0822 C231555-C  S Ni Po              900 Ga
+Imgingikud    0826 B9A7648-A  2 Fl Ni              300 Ga
+Irkasikisu    0829 C673734-6                       603 Ga
+Khasmikika    0830 B768436-8  N Ni                 704 Ga

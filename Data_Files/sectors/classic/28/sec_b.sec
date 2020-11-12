@@ -1,0 +1,31 @@
+@SUB-SECTOR:Arim SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lakiigzemi    0903 C5367AB-8  S                    823 Na
+Mishisgela    0905 A759400-B    Ni                 912 Na
+Suliirap      0908 C773430-6    Ni                 303 VN
+Khukar        0909 C9C2143-A    Fl Lo Ni           713 VN
+Dergasguu     0910 C342610-7    Ni Po              112 VN
+Enma          1003 C434237-9    Lo Ni              914 Na
+Shashurshi    1008 A130599-A  N De Ni Po           613 VN
+Eshazapgu     1101 B200631-7  N Na Ni Va           524 Na
+Giilish       1103 E878643-1    Ag Ni              123 Na
+Guulegimle    1108 D658576-3    Ag Ni              923 VN
+Igiisi        1204 C541100-6    Lo Ni Po           503 Na
+Ipdagu        1206 B598311-B  N Lo Ni              710 VN
+Lamgura       1207 D778222-7  S Lo Ni              100 VN
+Ikigabu       1208 B5628DH-4                    A  703 VN
+Dishim        1210 A779457-C  N Ni                 704 Na
+Ipsuguka      1306 A695989-9  N Hi In              725 VN
+Arin          1401 C446752-7  S Ag                 101 Na
+Kenakhunkha   1402 C254457-B    Ni                 200 Na
+Khur          1405 C6A0668-7    De Ni              424 VN
+Kadir         1409 D465553-5    Ag Ni              404 Na
+Rikirdamam    1505 B876544-8    Ag Ni              223 VN
+Shaba         1506 C898678-7    Ag Ni              214 VN

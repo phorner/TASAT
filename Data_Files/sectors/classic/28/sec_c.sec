@@ -1,0 +1,25 @@
+@SUB-SECTOR:Kikurarkaga SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arenashkar    1707 B653200-9  N Lo Ni Po           603 Na
+Ripasharmi    1801 C5A0433-5    De Ni              104 Na
+Mashasiraar   1802 B8A888A-6    Fl                 602 Na
+Mushar        1805 C67A477-A    Ni Wa              735 Na
+Kerga         1902 A779443-B  S Ni                 504 Na
+Khadekeshe    1908 B200574-C  N Ni Va              800 Na
+Megurkhii     2001 A559463-C    Ni                 402 Na
+Urgile        2007 D84A334-5    Lo Ni Wa           133 Na
+Ugdanabiir    2203 C877679-4    Ag Ni              604 Na
+Gudshish      2210 EA6A338-7    Lo Ni Wa           512 Na
+Gakhi         2301 A534436-B  N Ni                 204 Na
+Gipaa         2303 E543200-4    Lo Ni Po           503 Na
+Shaker        2306 E8A5341-4    Fl Lo Ni           321 Na
+Dipaga        2307 C2007B9-5  S Na Va              404 Na
+Lana          2308 X754322-1    Lo Ni              500 Na
+Midariir      2406 C75A8AA-8  S Wa                 700 Na

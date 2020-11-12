@@ -1,0 +1,27 @@
+@SUB-SECTOR:Karlanshi SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Aaradugamir   1708 DA6786B-6  S Ri                 811 Na
+Shashnur      1709 C366120-8  S Lo Ni              610 Na
+Gankam        1803 E8A5758-6    Fl                 121 Na
+Kudshupkhur   1806 X110000-0    Ba Lo Ni           013 Na
+Liizur        1901 C649962-7    Hi In              601 Na
+C-17          1907 E120421-8    De Ni Po           703 Na
+Sekar         2004 C4619CB-A    Hi                 605 Na
+Maksuupzar    2009 A100875-C    Na Va              900 Na
+Karram        2010 B77A302-C    Lo Ni Wa           103 Na
+Egdemali      2104 EA8A540-9    Ni Wa              702 Na
+Imirki        2106 C100237-C    Lo Ni Va           411 Na
+Lash          2110 C659777-6                       414 Na
+Liis          2205 C588743-5    Ag Ri              313 Na
+Iddu          2209 E768988-8    Hi                 723 Na
+Ukuru         2210 D66A004-6  S Lo Ni Wa           822 Na
+Khimgaaba     2301 A999866-C                       702 Na
+Kudiisa       2402 E43178A-4    Na Po              800 Na
+Kamsakii      2404 B321133-B  2 Lo Ni Po           524 Na

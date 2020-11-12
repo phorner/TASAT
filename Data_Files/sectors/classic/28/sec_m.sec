@@ -1,0 +1,46 @@
+@SUB-SECTOR:Stand SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Uudikaas      0131 B6A4204-A  S Fl Lo Ni           703 Ga
+Kargaru       0132 X648757-0    Ag                 400 Ga
+Giishzi       0133 C100665-8    Na Ni Va           213 Ga
+Rikhizi       0134 X756846-0                       800 Ga
+Kulerekha     0136 B698768-8  N Ag                 700 Ga
+Linadkadun    0231 B331559-B  2 Ni Po              404 Ga
+Iirdikiik     0233 C456455-A  S Ni                 200 Ga
+Ganidinriir   0234 BA8A513-C  N Ni Wa              704 Ga
+Irzi          0235 B886432-8  S Ni                 600 Ga
+Khakhampu     0240 A4248A9-9                       600 Ga
+Manige        0331 C300411-B  S Ni Va              503 Ga
+Kuskakhigan   0332 C624752-7  S                    420 Ga
+Shiismur      0335 X253685-0    Ni Po              724 Ga
+Kikhiishad    0336 C301212-7    Ic Lo Ni Va        210 Ga
+Mushdaaduri   0433 E426100-6    Lo Ni              413 Ga
+Imad          0435 C473444-A  S Ni                 703 Ga
+Ikun          0436 A76A462-A  N Ni Wa              313 Ga
+Lenlashirsu   0437 E563734-2                       220 Ga
+Kakukardi     0439 B756211-8  2 Lo Ni              905 Ga
+Eshadi        0440 C866000-6  S Ba Lo Ni           623 Ga
+Ussas         0532 E483484-6    Ni                 210 Ga
+Imasiika      0534 C351433-9  S Ni Po              402 Ga
+Shalikhir     0537 B33259B-B  N Ni Po              614 Ga
+Masig         0538 E371879-6                       401 Ga
+Gusum         0540 E000468-6    As Ni              804 Ga
+Kekir         0636 C200256-9    Lo Ni Va           802 Ga
+Amza          0637 C487049-8    Lo Ni              420 Ga
+Mige          0640 B748599-7  S Ag Ni              502 Ga
+Ludesa        0732 CA78201-8  S Lo Ni              824 Ga
+Kukurkidni    0736 B679999-B  2 Hi In              213 Ga
+Pikudeki      0737 C789522-5    Ni                 204 Ga
+Gingaa        0738 B466657-8  S Ag Ni Ri           812 Ga
+Gaarkisidir   0739 A438586-B    Ni                 403 Ga
+Iigadudamar   0740 A523546-B  S Ni Po              300 Ga
+Kusha         0833 E335435-9    Ni                 604 Ga
+Kashiraam     0834 E000543-A    As Ni              603 Ga
+Shilirdus     0835 C7B4951-C  S Fl Hi              404 Ga

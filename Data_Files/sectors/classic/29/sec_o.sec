@@ -1,0 +1,20 @@
+@SUB-SECTOR:Ishbigii SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Shigulur      1733 C66347A-9  S Ni                 222 Ga
+Amka          1734 C745575-9    Ag Ni              810 Ga
+Mikakhishu    1735 E76A469-6    Ni Wa              800 Ga
+Kudikhumnid   1935 C5759CB-A    Hi In              100 Ga
+Akap          1938 C9B8520-A    Fl Ni              404 J-
+Igima         2036 B5379EG-C  2 Hi In           A  222 J-
+Gimu          2132 B321654-C  N Na Ni Po           310 Ga
+Kamlakip      2138 C23277B-6  S Na Po              804 J-
+Kasaamupu     2334 A648568-8    Ag Ni              500 Ga
+Shirgilam     2338 E89A455-5    Ni Wa              604 Vw
+Apige         2431 C400210-B  S Lo Ni Va           523 Ga

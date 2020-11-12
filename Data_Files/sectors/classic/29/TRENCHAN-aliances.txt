@@ -1,0 +1,20 @@
+
+Allegiance:
+08 Na = Non-aligned
+15 JP = Julian Prot. (Unincorporated)
+15 Jc = Julian Prot. (Const. of Koekhon)
+15 Jo = Julian Prot. (Alliance of Ozuvon)
+15 Ja = Julian Prot. (Asimikigir Confed.)
+15 Jr = Julian Prot. (Rukadukaz Rep.)
+15 Hl = Julian Prot. (Lorean Hegem.)
+15 Jh = Julian Prot. (Hhkar Sphere)
+15 J- = Julian Prot. (Unincorporated)
+15 Jm = Julian Prot. (Cmnwlth of Mendan)
+15 Jl = Julian Prot. (Lumda Dower)
+15 Jv = Julian Prot. (Vugurar Dominion)
+15 Jp = Julian Prot. (Pirbarish Starlane)
+15 Ju = Julian Prot. (Ukhanzi Coord.)
+15 Vw = Julian Prot. (Rar Errall/Wolves W.)
+12 Ga = Third Empire of Gashikan
+10 VT = Trae Aggregation
+08    = Unknown

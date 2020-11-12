@@ -1,0 +1,27 @@
+@SUB-SECTOR:Ugamipli SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Maagarla      1718 A373110-A    Lo Ni              225 Ga
+Gadukham      1811 X100610-5    Na Ni Va           504 Na
+Irudagii      1911 B401569-8    Ic Ni Va           701 Na
+Khisii        1914 BAB6357-8    Fl Lo Ni           103 Ga
+Anshi         2013 C000666-8  S As Na Ni           800 Ga
+Gagi          2015 A402556-8  N Ic Ni Va           320 Ga
+Miidii        2016 B552000-B  N Ba Lo Ni Po        523 Ga
+Kamkhu        2020 D533347-4    Lo Ni Po           900 Ga
+Aanlagu       2120 D402767-6    Ic Na Va           102 Ga
+Inunlugukha   2211 B556679-5  N Ag Ni              615 Na
+Kakama        2213 D797463-3  S Ni                 714 Ga
+Shishmag      2215 X100664-3    Na Ni Va           211 Ga
+Mamelidaga    2313 B573541-7  2 Ni                 623 Ga
+Kaanu         2315 C86A695-5    Ni Ri Wa           802 Ga
+Galuumimir    2317 C250203-9    De Lo Ni Po        224 Ga
+Amakikid      2320 A231885-B  N Na Po              204 Ga
+Nikiikhap     2411 C745569-6  S Ag Ni              514 Na
+Gadida        2413 B673446-9  S Ni                 104 Ga

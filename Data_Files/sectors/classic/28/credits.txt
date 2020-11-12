@@ -1,0 +1,10 @@
+
+Credits
+-------
+
+Jeff Zeitlin (jeff.zeitlin@mail.execnet.com) contributed the
+Gashikan Sector on 21-Sept-98. The star positions are taken from the dot map in the Vargr
+section of _Vilani_and_Vargr_, DGP. Historical information
+and notes are generally based on the information included in
+_Challenge_ #49, GDW, concerning the Julian Protectorate and
+the Empires of Gashikan.

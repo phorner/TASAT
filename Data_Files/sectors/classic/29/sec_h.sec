@@ -1,0 +1,23 @@
+@SUB-SECTOR:Alariki SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uparkinik     2515 B224448-A  2 Ni                 200 Ga
+Pamekgaasha   2615 A63177A-8    Na Po              320 Ga
+Ligur         2711 D2107CF-4  S Na                 904 Na
+Kakemur       2813 B6617CE-A                       104 Na
+Shergim       2815 C463421-A  S Ni                 402 Ga
+Gashkhu       2816 C756879-8  S                    601 Ga
+Magikhesham   2819 C243426-5  S Ni Po              924 Ga
+Imimuka       3012 A577310-8    Lo Ni              402 Na
+Giikakame     3015 C7A4563-8    Fl Ni              105 Ga
+Gadaruum      3016 B568424-A  S Ni                 724 Ga
+Arur          3019 C735232-7    Lo Ni              701 Ga
+Arurdimikhe   3116 B364111-A  S Lo Ni              704 Ga
+Gishduriid    3216 CA9A774-7    Wa                 923 Ga
+Kakhima       3217 B526468-7    Ni                 503 Ga

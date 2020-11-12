@@ -1,0 +1,46 @@
+@SUB-SECTOR:Urshu SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Giigash       1721 A89A656-A    Ni Wa              813 Ga
+Urkha         1722 X744573-0    Ag Ni              923 Ga
+Shinu         1723 E210763-3    Na                 301 Ga
+Lishdasu      1725 A739687-C  N Ni                 204 Ga
+Khaadigiir    1728 B5A69D9-6    Fl Hi              104 Ga
+Uurgashar     1823 D465337-7  S Lo Ni              524 Ga
+Samip         1922 C501763-8    Ic Na Va           113 Ga
+Kaner         1924 C10087C-6    Na Va              513 Ga
+Zumelin       1929 B793534-8    Ni                 313 Ga
+Kedushikhir   2021 C4445AA-8  S Ag Ni              710 Ga
+Armar         2022 B5316BE-8    Na Ni Po           602 Ga
+Araamaamkur   2024 E787A99-5    Hi                 402 Ga
+Amki          2027 C758651-4    Ag Ni              224 Ga
+Dikmu         2029 A8B0631-8  2 De Ni              804 Ga
+Kish          2030 C847469-9    Ni                 604 Ga
+Argiishdu     2121 B34399A-C  2 Hi In Po           403 Ga
+Badu          2122 B220349-8    De Lo Ni Po        301 Ga
+Riguladaa     2125 C350764-6    De Po              600 Ga
+Sika          2129 E556366-4    Lo Ni              511 Ga
+Munkisuras    2130 E561411-3    Ni                 802 Ga
+Dagasani      2222 A6A5569-A    Fl Ni              424 Ga
+Ashiku        2225 B353448-7    Ni Po              603 Ga
+Guumas        2227 B243510-B    Ni Po              823 Ga
+Kekaagaam     2229 D442532-3  S Ni Po              304 Ga
+Nuushange     2230 C77859C-8    Ag Ni              602 Ga
+Zuukhemkhar   2322 C776054-4    Lo Ni              703 Ga
+Igpargagina   2323 C575401-9    Ni                 300 Ga
+Gimirkharep   2325 A769879-9    Ri                 314 Ga
+Erdii         2326 D66596A-6  S Hi                 404 Ga
+Gaglag        2328 B8C5565-C  N Fl Ni              903 Ga
+Arikas        2421 E210200-6    Lo Ni              512 Ga
+Idkanmukida   2422 E546653-6    Ag Ni              422 Ga
+Iikugagi      2423 E577447-4    Ni                 905 Ga
+Esheru        2425 A100837-A    Na Va              304 Ga
+Laarudushuk   2427 D759200-4  S Lo Ni              512 Ga
+Khuu          2428 C535668-5  S Ni                 801 Ga
+Lurura        2429 A64A264-9  S Lo Ni Wa           923 Ga

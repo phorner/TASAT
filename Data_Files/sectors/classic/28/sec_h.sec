@@ -1,0 +1,49 @@
+@SUB-SECTOR:Edmagali SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sumkhuurma    2511 C555897-6                       703 Na
+Guzuzare      2516 CAB7578-6    Fl Ni              205 Ga
+Ariidudish    2520 B455138-C    Lo Ni              302 Ga
+Kugena        2613 C641002-6    Lo Ni Po           703 Ga
+Kagemuli      2616 B53677A-A  N                    203 Ga
+Akhukas       2619 E88A885-6    Ri Wa              710 Ga
+Imluugirnuu   2712 C9C3676-5  S Fl Ni              224 Na
+Iidiira       2714 E300465-5    Ni Va              110 Ga
+Naamishushu   2716 D889677-7    Ni Ri              714 Ga
+Kimikammash   2717 E9B8200-9    Fl Lo Ni           203 Ga
+Izarmu        2718 B533541-A  2 Ni Po              121 Ga
+Khinadenuup   2720 B2008AB-C  2 Na Va              900 Ga
+Enla          2812 BA9A79A-C  N Wa                 223 Na
+Mirurgubur    2818 B592656-6  N Ni                 702 Ga
+Dirgiisakha   2819 C323732-5  S Na Po              600 Ga
+Ushigadumpi   2820 E000344-5    As Lo Ni           804 Ga
+Khaseki       2912 C2108A5-8    Na                 702 Na
+Nukunme       2915 A374514-9    Ag Ni              514 Ga
+Udamiish      2919 BA6979A-9    Ri                 223 Ga
+Kaag          3011 D797586-7  S Ag Ni              402 Na
+Shekuglus     3012 B120589-B  N De Ni Po           712 Na
+Uushamshiir   3013 B0009DC-B    As Hi Na           615 Na
+Apga          3016 C868697-3  S Ag Ni Ri           102 Ga
+Ligmuu        3019 C9789AB-9    Hi In              900 Ga
+Lashushgika   3111 C412633-5    Ic Na Ni           402 Na
+Lushipashu    3112 A7B6434-A  N Fl Ni              314 Na
+Kakhirgu      3113 C7C8555-9    Fl Ni              100 Na
+Ikiiden       3114 C975005-4    Lo Ni              600 Ga
+Iinashnu      3115 B557159-9  N Lo Ni              214 Ga
+Ishzaa        3116 E656300-4    Lo Ni              100 Ga
+Arurigila     3117 D7759A9-4    Hi In              623 Ga
+Kulu          3119 C798562-6    Ag Ni              904 Ga
+Imka          3120 D97A788-5  S Wa                 524 Ga
+Ashigashuse   3211 B5955AB-6  N Ag Ni              912 Na
+Amiim         3212 D8B5101-5    Fl Lo Ni           413 Na
+Gagu          3213 B221848-9  N Na Po              224 Na
+Nidarar       3214 E000589-7    As Ni              705 Ga
+Kuli          3215 E647362-6    Lo Ni              500 Ga
+Mannakhan     3217 A000410-8  N As Ni              102 Ga
+Amkhuu        3219 C6B0411-5  S De Ni              910 Ga

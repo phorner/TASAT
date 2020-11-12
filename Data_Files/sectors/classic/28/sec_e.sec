@@ -1,0 +1,45 @@
+@SUB-SECTOR:Arirmida SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lamunke       0113 D677510-2    Ag Ni              903 VN
+Ligikagin     0115 C785200-9  S Lo Ni              622 Na
+Mumbiinur     0116 C201623-9  S Ic Na Ni Va        502 Na
+Irgilakhii    0118 B787AAB-A  N Hi                 503 Ga
+Shupikasii    0119 C584766-3    Ag Ri              500 Ga
+Uderakhii     0120 B100843-C    Na Va              704 Ga
+Ikaarmaa      0211 X84759A-2    Ag Ni              404 VN
+Igiluumune    0212 E436463-8    Ni                 125 VN
+Kamkhiir      0213 B9A2301-B    Fl Lo Ni           610 VN
+Shamushu      0218 B697620-7  S Ag Ni              124 Ga
+Uguurge       0219 C66A654-7  S Ni Ri Wa           302 Ga
+Gami          0220 C66A57B-8  S Ni Wa              720 Ga
+Inenam        0315 C435103-C    Lo Ni              400 VN
+Emuum         0317 E7495A7-6    Ni                 802 Ga
+Nishisha      0319 C675322-8    Lo Ni              902 Ga
+Ushar         0320 A471625-C    Ni                 802 Ga
+Kigigiika     0411 E336476-8    Ni                 403 VN
+Dakhari       0412 B665546-6  2 Ag Ni              220 VN
+Shigarasida   0413 X99468A-0    Ag Ni              800 VN
+Ibamumenara   0419 C4409C9-7  S De Hi In Po        502 Ga
+Dinkharbuum   0512 A210853-A    Na                 812 VN
+Gikudgu       0515 B362400-A    Ni                 403 VN
+Shumgiir      0519 C886413-6  S Ni                 305 Ga
+Kaake         0612 B300303-A    Lo Ni Va           700 VN
+Isabum        0613 X160755-0    De Ri              623 VN
+Lipedikhi     0616 A4558A9-A  N                    700 Ga
+Akarisu       0618 C643462-9  S Ni Po              501 Ga
+Sali          0620 B899376-7  2 Lo Ni              305 Ga
+Mirundiriir   0711 C5656BA-7  S Ag Ni              204 VN
+Laalaruum     0712 B476440-9  N Ni                 100 VN
+Mugamushi     0713 B776998-8  N Hi In              812 VN
+Alig          0720 B526203-B  2 Lo Ni              224 Ga
+Shuka         0815 D42238B-9  S Lo Ni Po           603 Ga
+Siisa         0816 C345566-5  S Ag Ni              230 Ga
+Shulakali     0817 X556723-0    Ag                 523 Ga
+Rilunnaka     0818 D200725-6  S Na Va              204 Ga

@@ -1,0 +1,25 @@
+@SUB-SECTOR:Kaginaku SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Miisuumleg    2501 C576733-8  S Ag                 212 Na
+Kashge        2505 D595101-6  S Lo Ni              903 Na
+Armiisubuga   2506 C9A89AA-A  S Fl Hi              703 Na
+Leninnamdir   2507 B51447C-9    Ic Ni              401 Na
+Gakhanar      2602 E651833-1    Po                 814 Na
+Kadur         2606 C234550-C    Ni                 914 Na
+Khag          2705 B335441-B    Ni                 623 Na
+Irish         2706 B76A610-A    Ni Wa              625 Na
+Upar          2709 DA778A8-1  S                    710 Na
+Gularkagka    2804 B466797-6    Ag Ri              505 Na
+Garagmu       2805 D458530-7  S Ag Ni              204 Na
+Amla          2901 X525320-4    Lo Ni              702 Na
+Ukha          3006 A87A7B9-A    Wa                 424 Na
+Kakhap        3010 E3408AC-5    De Po              100 Na
+Giinam        3204 C2436BB-4    Ni Po              703 Na
+Amkashdan     3208 E84A7AA-4    Wa                 224 Na

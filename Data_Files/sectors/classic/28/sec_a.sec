@@ -1,0 +1,35 @@
+@SUB-SECTOR:Gali SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Saasaame      0110 C150787-5  S De Po              400 VN
+Irbirarmame   0201 C877202-5  S Lo Ni              920 Na
+Isurgaa       0206 B110A76-C    Hi Na              400 Na
+Mukukuge      0207 E666550-4    Ag Ni              314 Na
+Galirduri     0208 A454442-B    Ni                 624 Na
+Iigii         0301 B611676-A  S Ic Na Ni           603 Na
+Mulukhedmi    0304 B444103-8  S Lo Ni              112 Na
+Aran          0310 D492576-8    Ni                 502 VN
+Nuge          0405 C625330-8    Lo Ni              615 Na
+Urduduk       0406 A575533-A  S Ag Ni              213 Na
+Imkarga       0407 X6A1352-1    Fl Lo Ni           602 Na
+Niikhurimi    0504 B272A86-B    Hi In              800 Na
+Kemikamer     0505 B234847-C                       711 Na
+Lilarushi     0507 X651452-1    Ni Po              704 Na
+Dulaga        0601 C350110-7    De Lo Ni Po        405 Na
+Khige         0603 B678554-9  2 Ag Ni              103 Na
+Kika          0605 B374562-7    Ag Ni              100 Na
+Misha         0609 B776400-B  N Ni                 804 VN
+Shir          0701 C672987-9    Hi In              625 Na
+Lugishkada    0702 A443965-C    Hi In Po           704 Na
+Dilenakhar    0705 D353212-3  S Lo Ni Po           504 Na
+Umiigadishu   0707 E20099E-8    Hi Na Va           101 Na
+Amlina        0803 C676A79-C  S Hi In              902 Na
+Umakarirzii   0808 C997210-9  S Lo Ni              910 VN
+Pikhenkhu     0809 B380457-B    De Ni              400 VN
+Nangar        0810 XA97955-5    Hi In              115 VN

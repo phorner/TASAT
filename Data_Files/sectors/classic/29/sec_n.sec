@@ -1,0 +1,39 @@
+@SUB-SECTOR:Ikii SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Giilish       0932 A787A97-A  N Hi                 500 Ga
+Guulegimle    0938 A210325-9  2 Lo Ni              901 Ga
+Igiisi        0939 C1307A8-8  S De Na Po           623 Ga
+Ipdagu        1031 C358200-6    Lo Ni              905 Ga
+Lamgura       1032 C8B0530-9    De Ni              504 Ga
+Ikigabu       1035 A3816A7-B  N Ni                 404 Ga
+Dishim        1037 A523376-B    Lo Ni Po           313 Ga
+Ipsuguka      1038 C765347-4    Lo Ni              200 Ga
+Arin          1131 D8A3798-2    Fl                 804 Ga
+Kenakhunkha   1132 B88A262-C  N Lo Ni Wa           814 Ga
+Khur          1140 E300376-5    Lo Ni Va           200 J-
+Kadir         1233 D342796-3  S Po                 500 Ga
+Rikirdamam    1235 BA5A340-9    Lo Ni Wa           804 Ga
+Shaba         1331 C405220-6    Ic Lo Ni Va        201 Ga
+Arenashkar    1333 C596555-7  S Ag Ni              122 Ga
+Ripasharmi    1334 C85A202-A    Lo Ni Wa           202 Ga
+Mashasiraar   1335 C40366A-9    Ic Na Ni Va        300 Ga
+Mushar        1339 C300430-B  S Ni Va              900 J-
+Kerga         1340 D9A4867-4    Fl                 814 J-
+Khadekeshe    1433 C9C3795-8    Fl                 502 Ga
+Megurkhii     1435 C54A221-A    Lo Ni Wa           220 Ga
+Urgile        1436 B426663-8    Ni                 724 Ga
+Ugdanabiir    1437 D401430-6    Ic Ni Va           404 Ga
+Gudshish      1440 EA67200-6    Lo Ni              405 J-
+Gakhi         1535 AAB97A8-9    Fl                 414 Ga
+Gipaa         1537 C11069D-7  S Na Ni              214 Ga
+Shaker        1538 B647457-B  S Ni                 304 Ga
+Dipaga        1539 C244765-4  S Ag                 713 Ga
+Lana          1633 C263452-B  S Ni                 104 Ga
+Midariir      1635 B340345-B    De Lo Ni Po        311 Ga

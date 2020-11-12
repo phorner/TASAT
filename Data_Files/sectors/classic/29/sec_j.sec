@@ -1,0 +1,29 @@
+@SUB-SECTOR:Akir SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ekhukiras     0921 E725589-6    Ni                 913 Ga
+Giimad        1023 B651426-9  2 Ni Po              300 Ga
+Kadu          1030 C300A8A-A    Hi Na Va           204 Ga
+Anguraddi     1124 B96A200-B    Lo Ni Wa           404 Ga
+Shiskumiim    1125 B698255-C  2 Lo Ni              904 Ga
+Inipkip       1129 E130765-5    De Na Po           414 Ga
+Arudud        1221 B98A679-7  S Ni Ri Wa           415 Ga
+Kali          1223 D545430-3  S Ni                 404 Ga
+Kidurge       1230 B429A77-C  N Hi In              903 Ga
+Shulagupii    1321 D203431-8    Ic Ni Va           321 Ga
+Rimadiim      1324 A434000-A  N Ba Lo Ni           603 Ga
+Kimamii       1326 A457668-A    Ag Ni              112 Ga
+Limkaka       1328 B694463-A    Ni                 401 Ga
+Isulun        1330 B641468-8    Ni Po              105 Ga
+Mashurdi      1424 B567878-5  S Ri                 624 Ga
+Miimegiin     1526 B955244-A    Lo Ni              514 Ga
+Akhuli        1622 C225858-8  S                    803 Ga
+Lunkumaash    1626 A264532-9  2 Ag Ni              610 Ga
+Isuu          1628 A8B4223-A    Fl Lo Ni           614 Ga
+Maaganen      1629 D87A411-4  S Ni Wa              904 Ga

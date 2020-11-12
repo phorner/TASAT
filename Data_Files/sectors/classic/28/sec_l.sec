@@ -1,0 +1,49 @@
+@SUB-SECTOR:Gashikan SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Isshigi       2521 DAA7767-6    Fl                 625 Ga
+Khunad        2525 E510400-5    Ni                 501 Ga
+Ardakhani     2526 B235130-8  S Lo Ni              324 Ga
+Gegumishiin   2527 D311757-6    Ic Na              701 Ga
+Ladu          2529 A456444-A    Ni                 720 Ga
+Gugerkhi      2530 B9B9668-C  S Fl Ni              803 Ga
+Giikgi        2622 B545ACH-B  S Hi In              933 Ga
+Neki          2623 A585203-B    Lo Ni              623 Ga
+Nekarigin     2624 C6788A9-4                       710 Ga
+Enad          2625 A9C5A57-7  2 Fl Hi              403 Ga
+Unara         2723 C8B7420-9  S Fl Ni              900 Ga
+Ubasirisha    2726 C7468CC-6                       411 Ga
+Duluugusuk    2729 C565110-8    Lo Ni              904 Ga
+Lika          2821 A5A0315-A  S De Lo Ni           703 Ga
+Luuniishima   2823 A5559DB-A  N Hi                 302 Ga
+Udikzudu      2824 A2777AA-8    Ag                 702 Ga
+Khumpu        2827 D240543-7    De Ni Po           604 Ga
+Ikaamid       2829 A2306BB-B    De Na Ni Po        703 Ga
+Iile          2830 A400432-9  N Ni Va              504 Ga
+Iniishasir    2924 D455497-7    Ni                 903 Ga
+Ikargagun     2928 C200553-7  S Ni Va              602 Ga
+Adkhishigpa   2929 C000404-B  S As Ni              103 Ga
+Guulan        2930 B221722-A  N Na Po              303 Ga
+Kemir         3023 E30068C-8    Na Ni Va           800 Ga
+Dukabansha    3024 B000440-A  2 As Ni              923 Ga
+Eshagudida    3025 A5A3557-9    Fl Ni              114 Ga
+Lamarki       3026 B510358-B    Lo Ni              700 Ga
+Migaram       3029 B100400-A    Ni Va              914 Ga
+Gislar        3030 B200520-8    Ni Va              124 Ga
+Khagka        3122 B657679-6    Ag Ni              501 Ga
+Ikhazudshi    3123 C310200-8    Lo Ni              614 Ga
+Edinipu       3124 A898044-9    Lo Ni              505 Ga
+Kashzas       3125 D7C6665-6  S Fl Ni              904 Ga
+Arnimam       3129 B536450-B    Ni                 303 Ga
+Ishi          3130 C9B7478-8  S Fl Ni              702 Ga
+Kushim        3223 B675576-A    Ag Ni              711 Ga
+Nishi         3226 E8C9652-4    Fl Ni              812 Ga
+Kukush        3227 AAB5798-C    Fl                 900 Ga
+Negim         3229 A430412-C  S De Ni Po           804 Ga
+Ukaganmi      3230 D7B18AE-5  S Fl                 105 Ga

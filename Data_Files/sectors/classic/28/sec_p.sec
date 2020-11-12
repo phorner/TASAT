@@ -1,0 +1,49 @@
+@SUB-SECTOR:Gashilean SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kakudan       2531 BAF4311-C    Fl Lo Ni           523 Ga
+Gekhaag       2532 C404869-7    Ic Va              912 Ga
+Suugkadekid   2534 C671878-6  S                    603 Ga
+Kugipar       2535 C10077B-A    Na Va              105 Ga
+Iikipimiman   2537 A435521-B    Ni                 422 Ga
+Digumsidiid   2540 D8A4402-5    Fl Ni              904 Ga
+Miraashiku    2632 B677577-8    Ag Ni              902 Ga
+Ishmikuuka    2639 B341964-A    Hi In Po           405 Ga
+Lishikuu      2640 C546352-7  S Lo Ni              804 Ga
+Iirshiku      2731 E300886-4    Na Va              211 Ga
+Gashikan      2732 A8679AD-C  N Hi                 302 Ga
+Siikule       2734 C8C587A-6    Fl                 603 Ga
+Name          2736 A226310-C    Lo Ni              204 Ga
+Ardagir       2738 A634867-C                       322 Ga
+Gidasha       2740 C544655-5  S Ag Ni              513 Ga
+Asakhegur     2831 C230134-7    De Lo Ni Po        112 Ga
+Dadiin        2832 C758442-4  S Ni                 403 Ga
+Kadam         2833 C651689-7  S Ni Po              821 Ga
+Digashgangu   2836 D000756-5    As Na              220 Ga
+Giisadugiin   2931 B454365-7    Lo Ni              212 Ga
+Pukhusan      2935 C450543-A    De Ni Po           122 Ga
+Akiiddigega   2937 D737876-5                       800 Ga
+Kaadladirmi   2938 D634988-9  S Hi In              304 Ga
+Akakhaamar    2939 A99A376-A  2 Lo Ni Wa           124 Ga
+Khase         3032 C000999-C    As Hi Na           304 Ga
+Ashir         3036 B68A9AB-A  S Hi Wa              504 Ga
+Naagi         3038 B510000-A    Ba Lo Ni           924 Ga
+Arshaka       3039 B447357-8    Lo Ni              200 Ga
+Lararar       3040 B89759B-6  S Ag Ni              135 Ga
+Shunzir       3132 C554740-3    Ag                 502 Ga
+Maglukaki     3135 C253510-6  S Ni Po              613 Ga
+Liishikapa    3137 C7B2676-5  S Fl Ni              613 Ga
+Kashiis       3138 C7669EH-7    Hi              A  813 Ga
+Liiriirda     3139 A594797-C  S Ag                 314 Ga
+Karlanshi     3140 B9D6485-9    Fl Ni              414 Ga
+Kukaa         3233 C568413-4  S Ni                 602 Ga
+Shidima       3237 C2005AE-9    Ni Va              823 Ga
+Lukhuugu      3238 B538625-8  S Ni                 204 Ga
+Lasudinigii   3239 B89A784-8    Wa                 903 Ga
+Kuru          3240 B230223-C  S De Lo Ni Po        400 Ga

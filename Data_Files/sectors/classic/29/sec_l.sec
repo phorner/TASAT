@@ -1,0 +1,27 @@
+@SUB-SECTOR:Namirkika SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Galisuurig    2524 B120300-C    De Lo Ni Po        603 Ga
+Kasuur        2527 C325114-A    Lo Ni              205 Ga
+Dulim         2623 B8A6874-6    Fl                 812 Ga
+Gadadasar     2722 C8869B9-9    Hi                 304 Ga
+Irsekhe       2723 C799536-6  S Ni                 103 Ga
+Arisheguka    2824 B3869AC-B  N Hi                 713 Ga
+Shid          2828 B230596-8  2 De Ni Po           215 Ga
+Imdikshuki    2921 C246778-4    Ag                 304 Ga
+Laka          2923 C449345-A  S Lo Ni              703 Ga
+Ikhiduuken    2928 BA9A314-B  2 Lo Ni Wa           300 Ga
+Kisushusak    2929 C8B3558-B    Fl Ni              112 Ga
+Shunaagii     3022 C549779-9                       502 Ga
+Kiidar        3024 B768426-B  S Ni                 614 Ga
+Gunidela      3025 B000213-A    As Lo Ni           304 Ga
+Urkuma        3028 D9C8995-4  S Fl Hi              511 Ga
+Saasaame      3123 B527ADF-B  S Hi In              210 Ga
+Irbirarmame   3124 C3289BA-B    Hi In              104 Ga
+Isurgaa       3130 B527200-9    Lo Ni              314 Ga

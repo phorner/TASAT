@@ -1,0 +1,22 @@
+@SUB-SECTOR:Didushilii SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Khaar         1726 A648343-8  N Lo Ni              404 Ga
+Erugerasdir   1730 C83A7AE-8    Wa                 515 Ga
+Irshashe      1921 E886203-4    Lo Ni              200 Ga
+Lashdi        2030 CA8A9BB-7    Hi Wa              532 Ga
+Zamgimur      2122 C587520-6  S Ag Ni              214 Ga
+Lazurki       2123 C434100-8  S Lo Ni              814 Ga
+Ladikush      2124 C64889B-7  S                    820 Ga
+Gigushgek     2227 B97A455-A    Ni Wa              614 Ga
+Kagakhi       2229 A651452-9    Ni Po              223 Ga
+Ankhiila      2321 B231466-8  S Ni Po              322 Ga
+Umusiilu      2324 B222540-B    Ni Po              812 Ga
+Bagadas       2327 D8C4201-6    Fl Lo Ni           400 Ga
+Gale          2427 A786A64-B    Hi                 904 Ga

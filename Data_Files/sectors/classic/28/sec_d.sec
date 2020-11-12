@@ -1,0 +1,29 @@
+@SUB-SECTOR:Apdashi SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Shigulur      2510 C76A120-A  S Lo Ni Wa           903 Na
+Amka          2606 B7458AB-8  2                    923 Na
+Mikakhishu    2705 B665796-6    Ag Ri              424 Na
+Kudikhumnid   2709 B648544-A  S Ag Ni              324 Na
+Akap          2803 A888576-8    Ag Ni              403 Na
+Igima         2804 A78A347-9    Lo Ni Wa           113 Na
+Gimu          2806 B534775-A                       510 Na
+Kamlakip      2808 A210162-B  2 Lo Ni              201 Na
+Kasaamupu     2901 C515885-6    Ic                 803 Na
+Shirgilam     2903 X755200-4    Lo Ni              424 Na
+Apige         2905 B402575-B  N Ic Ni Va           810 Na
+Giledudkemi   2906 BAA6596-B    Fl Ni              303 Na
+Irush         3004 A545468-9  N Ni                 320 Na
+Urugashiilu   3007 C7A5773-6  S Fl                 912 Na
+Gikam         3101 B976559-7  2 Ag Ni              114 Na
+Lali          3110 A664566-9  S Ag Ni              212 Na
+Iirkhu        3203 C225305-7    Lo Ni              213 Na
+Usumusgi      3208 C677557-A  S Ag Ni              913 Na
+Giirugim      3209 C633335-5    Lo Ni Po           421 Na
+Sumeraa       3210 B642423-7  S Ni Po              905 

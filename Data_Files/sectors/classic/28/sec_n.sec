@@ -1,0 +1,47 @@
+@SUB-SECTOR:Paanir SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arnu          0931 C310232-9  S Lo Ni              520 Ga
+Zeguzaliraa   0932 E6A0559-5    De Ni              200 Ga
+Igmisum       0933 D244415-5    Ni                 410 Ga
+Agiguki       0935 C200469-8  S Ni Va              802 Ga
+Gushadumkhi   0936 B510102-8  N Lo Ni              702 Ga
+Geli          0937 E594100-8    Lo Ni              703 Ga
+Nanlas        0938 E693535-3    Ni                 103 Ga
+Gagaana       0940 E240315-5    De Lo Ni Po        203 Ga
+Uuruudker     1037 C554999-5    Hi                 922 Ga
+Bikiru        1038 D553553-5  S Ni Po              102 Ga
+Guka          1134 E753487-3    Ni Po              803 Ga
+Sinusiimu     1136 A454211-A  S Lo Ni              204 Ga
+Alikhuresha   1233 B54A423-B  S Ni Wa              424 Ga
+Kaker         1234 C557477-6    Ni                 803 Ga
+Kumii         1235 E513678-4    Ic Na Ni           900 Ga
+Kumlagukaa    1238 E79A9DC-4    Hi In Wa           802 Ga
+Emenshaar     1239 C894547-4  S Ag Ni              603 Ga
+Arsu          1240 C446310-8    Lo Ni              304 Ga
+Genba         1332 E334300-9    Lo Ni              703 Ga
+Miikimki      1334 B525434-9  S Ni                 400 Ga
+Idushilu      1335 C612436-5    Ic Ni              434 Ga
+Uukaar        1336 B364578-B    Ag Ni              623 Ga
+Unshuusunli   1337 C68A467-7  S Ni Wa              813 Ga
+Imbagi        1339 C413302-A  S Ic Lo Ni           415 Ga
+Adkilegash    1340 C412100-7    Ic Lo Ni           403 Ga
+Shagalalar    1432 C658669-6    Ag Ni              903 Ga
+Geshidgani    1433 B77248B-6  N Ni                 814 Ga
+Idakhidiiku   1435 A454634-B    Ag Ni              212 Ga
+Ashkhukaga    1436 E401546-5    Ic Ni Va           213 Ga
+Urkiikemeg    1532 C11079E-7    Na                 800 Ga
+Kirma         1533 C537320-7    Lo Ni              402 Ga
+Kikus         1534 E744573-2    Ag Ni              103 Ga
+Duure         1537 A647654-B    Ag Ni              604 Ga
+Ikigiilizu    1538 E585336-3    Lo Ni              813 Ga
+Diirdash      1631 C59279D-8                       113 Ga
+Eshirnebash   1632 C65A158-9    Lo Ni Wa           104 Ga
+Agunkami      1636 C885331-6    Lo Ni              204 Ga
+Mumari        1638 C374ACE-8  S Hi In              701 Ga

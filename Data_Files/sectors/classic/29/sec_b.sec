@@ -1,0 +1,22 @@
+@SUB-SECTOR:Liiriirda SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Khaadaak      0905 A596203-C  N Lo Ni              603 Na
+Khinnishmir   0906 A76A233-A    Lo Ni Wa           715 Na
+Eshaar        0907 AAD4310-B  N Fl Lo Ni           302 Na
+Imkha         0908 A95A542-9  2 Ni Wa              223 Na
+Darkhakur     0910 C000511-8    As Ni              900 Na
+Anemkabeki    1006 B656430-B    Ni                 222 Na
+Lamkhir       1009 A879622-B  N Ni                 620 Na
+Khakagmam     1102 E869767-7    Ri                 605 Na
+Kukumkhakar   1105 A434488-A  2 Ni                 710 Na
+Inira         1206 A754510-A  N Ag Ni              312 Na
+Irka          1208 E594864-6                       823 Na
+Agmusge       1310 C583585-8  S Ni                 503 Na
+Kadarinlu     1402 E7B2588-8    Fl Ni              100 Na

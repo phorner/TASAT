@@ -1,0 +1,40 @@
+@SUB-SECTOR:Nankishii SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Mukukuge      0132 B461355-B  S Lo Ni              700 Ga
+Galirduri     0133 B4349BB-C    Hi In              204 Ga
+Iigii         0134 B614552-9  N Ic Ni              420 Ga
+Mulukhedmi    0137 A510565-9    Ni                 111 Ga
+Aran          0231 B69547A-6  N Ni                 503 Ga
+Nuge          0232 C757530-6    Ag Ni              303 Ga
+Urduduk       0234 C84556A-9  S Ag Ni              905 Ga
+Imkarga       0239 B796AB7-B    Hi In              114 Ga
+Niikhurimi    0331 C0006A7-9    As Na Ni           903 Ga
+Kemikamer     0332 B300683-9  N Na Ni Va           602 Ga
+Lilarushi     0337 A9B0135-A    De Lo Ni           803 Ga
+Dulaga        0339 BA78568-B  N Ag Ni              410 Ga
+Khige         0431 E795248-5    Lo Ni              220 Ga
+Kika          0432 E568AAA-9    Hi                 405 Ga
+Misha         0439 B563876-5  N Ri                 900 Ga
+Shir          0440 B594542-A  N Ag Ni              503 Na
+Lugishkada    0531 C310785-9  S Na                 804 Ga
+Dilenakhar    0534 B643351-C    Lo Ni Po           714 Ga
+Umiigadishu   0535 D678596-7  S Ag Ni              705 Ga
+Amlina        0537 E8A5322-3    Fl Lo Ni           704 Ga
+Umakarirzii   0540 C578875-5                       823 Na
+Pikhenkhu     0632 B201435-9    Ic Ni Va           904 Ga
+Nangar        0638 A886586-A  N Ag Ni              903 Ga
+Lakiigzemi    0639 B767AAC-9    Hi                 112 Ga
+Mishisgela    0734 A32748B-C  2 Ni                 503 Ga
+Suliirap      0736 A546866-B                       512 Ga
+Khukar        0738 B7C3420-B    Fl Ni              104 Ga
+Dergasguu     0740 B677200-9  N Lo Ni              114 Na
+Enma          0831 B6B5220-C    Fl Lo Ni           304 Ga
+Shashurshi    0837 A8A2777-8    Fl                 614 Ga
+Eshazapgu     0838 B8B4656-9  N Fl Ni              720 Ga

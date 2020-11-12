@@ -1,0 +1,39 @@
+@SUB-SECTOR:Khishpe SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Udishi        0911 C333566-7    Ni Po              704 VN
+Zulishamar    0913 C452AFH-A    Hi Po           A  924 Na
+Akhagegdag    0919 C330433-6    De Ni Po           823 Ga
+Akaagi        0920 C464203-6    Lo Ni              803 Ga
+Anshenilar    1012 B7B4778-6    Fl                 820 Na
+Uneshagi      1018 B85A465-8  N Ni Wa              723 Ga
+Shuumaskhu    1019 A4668C9-A                       803 Ga
+Khakishagi    1117 C535550-8  S Ni                 104 Ga
+Imiishi       1118 B150898-B  2 De Po              700 Ga
+Mukikid       1120 E575400-7    Ni                 110 Ga
+Uumiiglup     1213 E330330-6    De Lo Ni Po        313 Ga
+Ursaashenar   1216 D7A4878-7  S Fl                 513 Ga
+Ankhuku       1220 D355430-7    Ni                 502 Ga
+Kimuregi      1314 C363866-8  S Ri                 215 Ga
+Mibigaarmu    1315 A310265-A    Lo Ni              202 Ga
+Ikish         1318 C330679-5  S De Na Ni Po        302 Ga
+Uudgarabid    1319 C442538-A    Ni Po              915 Ga
+Shudisam      1412 A68A654-C    Ni Ri Wa           603 Na
+Iszararuuri   1419 C100866-6    Na Va              511 Ga
+Ashdimashe    1420 E432322-7    Lo Ni Po           103 Ga
+Khigii        1512 A475116-9  S Lo Ni              404 Na
+Kiginiir      1513 DAA3AEE-8    Fl Hi              104 Na
+Muki          1515 C535734-7                       102 Ga
+Khumakirkha   1516 B436578-B  2 Ni                 304 Ga
+Khurlali      1519 B322ABC-C    Hi In Na Po        704 Ga
+Iisa          1612 E777344-7    Lo Ni              104 Na
+Gugaru        1616 E1307CE-6    De Na Po           614 Ga
+Iimii         1618 E5759EC-7    Hi In              122 Ga
+Igugkiidisi   1619 D445462-5  S Ni                 523 Ga
+Semedim       1620 B244212-A    Lo Ni              523 Ga

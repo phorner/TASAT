@@ -1,0 +1,50 @@
+@SUB-SECTOR:Bugkhir SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kuurnaka      0921 C528300-B  S Lo Ni              810 Ga
+Idki          0923 C667499-5    Ni                 723 Ga
+Kagaka        0927 C442623-8    Ni Po              801 Ga
+Ladur         0929 C32386B-8  S Na Po              624 Ga
+Limnu         0930 A628799-C                       402 Ga
+Kagu          1024 B565731-7  N Ag                 113 Ga
+Khume         1027 A56A310-B  S Lo Ni Wa           203 Ga
+Ipala         1028 C533344-7    Lo Ni Po           904 Ga
+Akhagaakur    1029 D7599A9-6  S Hi                 713 Ga
+Kush          1030 AA8A138-A  N Lo Ni Wa           524 Ga
+Igakhemush    1121 E555432-2    Ni                 821 Ga
+Elagikhe      1122 C59A875-6    Wa                 505 Ga
+Arkiinishar   1123 B636478-7  S Ni                 514 Ga
+Kedashuduu    1124 B543220-7    Lo Ni Po           123 Ga
+Gikakurala    1128 A449762-A                       710 Ga
+Edshikamum    1129 D875001-3    Lo Ni              701 Ga
+Uurkumkhika   1130 A435442-B  N Ni                 504 Ga
+Shukiguniri   1221 B5238A9-8    Na Po              611 Ga
+Erkhudu       1224 D778899-2  S                    803 Ga
+Geshu         1225 C85A569-7  S Ni Wa              102 Ga
+Dakushu       1227 D330458-9  S De Ni Po           500 Ga
+Ashudirga     1228 C5877C8-7  S Ag                 603 Ga
+Ilelushsu     1230 E200421-8    Ni Va              800 Ga
+Iidishidar    1321 A7A4437-B  N Fl Ni              110 Ga
+Kipala        1325 B451210-A    Lo Ni Po           213 Ga
+Igalam        1326 B233886-C    Na Po              212 Ga
+Ugemid        1327 A446166-A  N Lo Ni              801 Ga
+Imaga         1421 B55A788-A  N Wa                 300 Ga
+Akha          1425 C3647AA-9    Ag                 605 Ga
+Apurgadeni    1427 X110996-4    Hi Na              222 Ga
+Uukhed        1429 E698755-7    Ag                 704 Ga
+Lagushishu    1430 AA8A523-B  2 Ni Wa              801 Ga
+Karkha        1521 A785263-A  S Lo Ni              912 Ga
+Mimiguna      1522 A000210-B    As Lo Ni           511 Ga
+Gamshu        1524 E310454-A    Ni                 920 Ga
+Dulaa         1526 D221102-8    Lo Ni Po           514 Ga
+Kiid          1528 A300683-C  N Na Ni Va           703 Ga
+Miniguu       1530 E240246-6    De Lo Ni Po        800 Ga
+Ugugli        1623 E410554-9    Ni                 514 Ga
+Giirakir      1627 C7637A9-3                       403 Ga
+Diliki        1629 A656530-8  S Ag Ni              600 Ga

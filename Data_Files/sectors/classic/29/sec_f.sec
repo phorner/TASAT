@@ -1,0 +1,29 @@
+@SUB-SECTOR:Shasedimini SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Idalu         0913 AAA4345-A  2 Fl Lo Ni           104 Na
+Shaadiin      0916 A644010-A  S Lo Ni              804 Ga
+Pirkhara      0917 E5426A8-3    Ni Po              703 Ga
+Kiima         0918 A659575-A  N Ni                 304 Ga
+Likhurkar     1013 X656588-1    Ag Ni              805 Na
+Duugi         1017 C235431-8    Ni                 801 Ga
+Kusamaa       1018 D7679A9-8  S Hi                 103 Ga
+Umdakam       1019 C464223-9    Lo Ni              803 Ga
+Khagagasu     1020 B2606AA-7    De Ni              104 Ga
+Kekhamdar     1114 A9C2414-B    Fl Ni              900 Na
+Kuriikida     1115 B534345-A    Lo Ni              203 Na
+Linasga       1118 B334302-B    Lo Ni              804 Ga
+Khiikir       1120 E7A4641-4    Fl Ni              402 Ga
+Idadshe       1311 B692535-7  2 Ni                 313 Na
+Kada          1412 B547320-6  2 Lo Ni              203 Na
+Sush          1418 D567000-2  S Ba Lo Ni           803 Ga
+Gaash         1420 B201868-7    Ic Na Va           304 Ga
+Ashsuda       1512 C86A553-A    Ni Wa              421 Na
+Duudazigama   1513 E6A0300-6    De Lo Ni           223 Na
+Umgimush      1515 B533358-B  N Lo Ni Po           924 Na

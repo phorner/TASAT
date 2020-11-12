@@ -1,0 +1,28 @@
+@SUB-SECTOR:Gikharbe SECTOR:Gashikan
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lishe         1714 A79A441-C  S Ni Wa              821 Na
+Shaki         1717 B886435-9  N Ni                 701 Ga
+Ganinlargam   1720 C140352-8    De Lo Ni Po        823 Ga
+Gabupug       1812 E5449A8-4    Hi In              904 Na
+Khishagi      1819 B200100-B  S Lo Ni Va           603 Ga
+Dakukii       1820 BA967A7-8  N Ag                 510 Ga
+Gasa          1916 A201302-C    Ic Lo Ni Va        222 Ga
+Uusuurar      2014 C480421-6  S De Ni              801 Na
+Uudud         2016 C6A37CA-5    Fl                 401 Ga
+Ukgikimkhu    2020 E310532-5    Ni                 803 Ga
+Isheda        2120 E652400-4    Ni Po              103 Ga
+Ginunam       2214 B688467-8  S Ni                 614 Na
+Karu          2217 E100514-9    Ni Va              103 Ga
+Khima         2219 B8B6734-7    Fl                 610 Ga
+Egimushba     2317 B776557-C    Ag Ni              714 Ga
+Agikiremash   2318 C554403-7  S Ni                 803 Ga
+Gash          2319 C895746-7    Ag                 703 Ga
+Gugaas        2416 B340400-9  2 De Ni Po           513 Ga
+Irduniishlu   2420 B78977B-A  N Ri                 314 Ga

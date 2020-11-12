@@ -1,0 +1,43 @@
+@SUB-SECTOR:Iishur SECTOR:Trenchans
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kadukikamu    0111 C2127A9-9  S Ic Na              924 Na
+Idku          0112 A510878-9    Na                 504 Na
+Gashbim       0115 C7B258A-9    Fl Ni              605 Ga
+Karshud       0116 B547878-6                       623 Ga
+Khiikagi      0117 D5987CB-2  S Ag                 404 Ga
+Kilun         0118 B533684-B    Na Ni Po           412 Ga
+Khuumugar     0211 C584597-8  S Ag Ni              710 Na
+Khinkhun      0212 A525200-A    Lo Ni              612 Na
+Asbamalur     0213 B77A466-B  S Ni Wa              810 Na
+Gukuudlii     0214 D665663-5  S Ag Ni Ri           604 Na
+Niki          0216 BAC7768-B  2 Fl                 104 Ga
+Unirgi        0220 C333ADB-7    Hi In Na Po        102 Ga
+Kakadishim    0313 A886121-B    Lo Ni              802 Na
+Dikhargugi    0315 C559535-A  S Ni                 304 Na
+Gesham        0317 B653585-A    Ni Po              704 Ga
+Kuushasumla   0318 C9C7678-4  S Fl Ni              705 Ga
+Kimar         0319 C664765-7  S Ag Ri              302 Ga
+Dishaa        0320 A637410-B    Ni                 124 Ga
+Emkirbikus    0411 C888564-7    Ag Ni              514 Na
+Shashgu       0420 E5459AB-5    Hi In              202 Ga
+Gigi          0516 B586564-9    Ag Ni              600 Ga
+Nuda          0612 A427540-9  S Ni                 504 Na
+Geshimagir    0614 D68A6AA-3  S Ni Wa              704 Ga
+Gikikhu       0615 A6B6655-A    Fl Ni              304 Ga
+Sudaamkha     0620 A330555-9  2 De Ni Po           403 Ga
+Khirerakii    0715 E476442-8    Ni                 804 Ga
+Kepkiikad     0718 D85A652-4  S Ni Wa              423 Ga
+Lanzu         0719 E8A7535-6    Fl Ni              603 Ga
+Kaliim        0720 E332246-5    Lo Ni Po           502 Ga
+Kuukum        0811 E324A89-C    Hi In              801 Na
+Agerii        0812 B000832-A    As Na              901 Na
+Adkhad        0813 B250865-A  N De Po              105 Na
+Lanuugamig    0816 E474987-5    Hi In              124 Ga
+Ligim         0818 C65A563-7    Ni Wa              714 Ga
