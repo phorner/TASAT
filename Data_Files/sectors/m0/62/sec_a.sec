@@ -1,0 +1,61 @@
+@SUB-SECTOR:A SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eras          0101 E256231-0    Lo Ni              404 Im F5 V G6 VI   
+Kap           0102 E799000-0    Ba Lo Ni           010 Im M3 V        
+Akiim         0104 E332000-0    Ba Lo Ni Po        010 Im A9 III K8 D
+Gikkon        0105 E343100-0    Lo Ni Po           732 Im G8 IV G0 D
+Taraddiin     0107 D656220-0    Lo Ni              411 Im M9 V     
+Khuur         0109 C658442-0    Lo Ni              623 Im G1 V    
+Ossin         0110 C100888-0    Na Va              305 Im M5 V   
+Diankhis      0202 D444300-0    Lo Ni              524 Im F8 II K2 D
+Bannon'S World0203 E100000-0    Ba Lo Ni Va        020 Im M3 V K6 V
+Khankari      0205 B885000-0    Ba Lo Ni           010 Im M2 V    
+Ipkaka        0209 E746335-0    Lo Ni              803 Im M2 V   
+Kuus          0210 E576110-0    Lo Ni              801 Im M5 V  
+Anert         0303 B9B3667-0    Fl Ni              710 Im G7 V  
+Daded         0306 B585000-0    Ba Lo Ni           010 Im M0 D K0 D   
+Khiiig Duumaa 0307 C8D279A-0    Fl                 301 Im M5 V M7 D  
+Dali          0402 D240100-0    De Lo Ni Po        401 Im F2 V K6 D 
+Gadad Daar    0403 D438000-0    Ba Lo Ni           020 Im G2 V     
+Katti         0404 A8A8100-0    Fl Lo Ni           704 Im M3 V    
+Shaddukan     0408 C622000-0    Ba Lo Ni Po        010 Im G1 V   
+Lugaluru      0502 C859000-0    Ba Lo Ni           001 Im M0 V   
+Iduushgaa     0506 B524568-0    Ni                 401 Im K0 V M3 V
+Kharta        0507 E352100-0    Lo Ni Po           304 Im K6 VI G9 D  
+Arfaan        0508 C767100-0    Lo Ni              913 Im M5 V       
+Athanuez      0601 C100300-0    Lo Ni Va           201 Im K5 V M0 V 
+Sheshat       0605 A526000-0    Ba Lo Ni           024 Im F8 V     
+Rakurram      0610 C200100-0    Lo Ni Va           712 Im G7 V    
+Unud          0701 D665165-0    Lo Ni              414 Im G0 D M5 D    
+Khigapka      0703 B797000-0    Ba Lo Ni           002 Im M2 V        
+Shiniis Li    0705 D727555-0    Ni                 110 Im M7 V       
+Miuuran       0707 E000000-0    As Ba Lo Ni Va     010 Im M4 V      
+Voskhod       0708 B110865-0    Ic Na              101 Im M1 V M0 D
+Kharzet       0709 A565000-0    Ba Lo Ni           001 Im M0 V G3 D    
+Diir          0801 E62A786-0    Wa                 110 Im M7 V       
+Kegirur       0804 E76A985-0    Hi Wa              401 Im M0 V      
+Anka          0806 E88A100-0    Lo Ni Wa           401 Im F9 V K8 D M8 D
+Kunumi        0807 A254000-0    Ba Lo Ni           021 Im A0 V         

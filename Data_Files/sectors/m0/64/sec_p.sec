@@ -1,0 +1,56 @@
+@SUB-SECTOR:P SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Uurvlaa As    2535 B510133-A    Lo Ni              102 Im K8 V
+Buurki        2536 B333310-A    Lo Ni Po           104 Im M0 V
+Irguu         2537 B610753-7    Na                 403 Im M7 IV M4 D
+Ishar Kuuim   2538 CAC3000-8    Ba Fl Lo Ni        010 Im A2 V M2 D K3 D
+Kis           2631 D464444-6    Lo Ni              625 Im G8 D
+Kuue Ir       2634 B99AAB9-B    Hi In Wa           920 Im F1 D M8 D
+Ghou          2635 D5548BA-7                       834 Im F3 VI M8 D
+Annikhuu      2637 B463000-8    Ba Lo Ni           004 Im M8 D
+Khikin        2638 B8AA56B-D    Fl Ni Wa           105 Im K0 VI
+Kiiiki        2639 E200331-6    Lo Ni Va           204 Im M1 V M5 D
+Maguu         2734 E3227BE-0    Na Po              902 Im F6 VI M5 D
+Rami          2736 E755000-4    Ba Lo Ni           012 Im G5 V M9 D
+Deduurgalu    2739 C583000-7    Ba Lo Ni           014 Im K4 V
+Kaaarrap      2740 B7B3000-9    Ba Fl Lo Ni        010 Im G7 V
+Eshkhuundguu  2833 E994100-6    Lo Ni              905 Im G0 D M8 D
+Geankhish     2835 D765300-4    Lo Ni              323 Im M8 D M5 D
+Korparov      2840 C8B08A8-B    De                 600 Im F9 D
+Ishdi Un      2932 D262578-5    Ni                 510 Im F1 VI
+Mapashar      2933 E000000-6    As Ba Lo Ni Va     004 Im M3 D M5 D
+Khavla        2935 C140640-9    De Ic Ni Po        204 Im F9 D
+Dime Lu       2938 C665859-6                       404 Im G3 VI M3 D
+Gikuushkhuu   2940 B7B1420-9    Fl Lo Ni           304 Im K0 V
+Endin Nuu     3031 D748000-6    Ba Lo Ni           023 Im K9 V
+Luumaish      3033 D444400-5    Lo Ni              313 Im K3 V M2 D
+Mikhuuuunshush3037 B632400-8    Lo Ni Po           203 Im K5 V
+Ardii         3038 C6B5000-8    Ba Fl Lo Ni        022 Im M5 II M1 D
+Khashlu Karkhu3131 E768999-0    Hi                 923 Im G4 D M3 D M6 D
+Iirluu        3135 C77759A-6    Ag Ni              313 Im G6 V M4 D
+Dini          3139 D382653-A    Ni                 413 Im F6 D M5 D
+Kiir          3235 B99A614-8    Ni Wa              432 Im F9 VI
+Kashark Ai    3237 E667234-5    Lo Ni              604 Im F5 D M0 D

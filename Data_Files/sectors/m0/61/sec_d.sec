@@ -1,0 +1,55 @@
+@SUB-SECTOR:D SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Uuslir Ag     2502 B586100-6    Lo Ni              314 Im K7 V    
+Iiruunziinme  2503 E242000-2    Ba Lo Ni Po        022 Im M8 V   
+Plunge        2505 C240589-A    De Ni Po           324 Im G7 V  
+Adka Ish      2506 D757899-4                       213 Im M4 V G1 III  
+Kaaa Kuu      2603 C534000-6    Ba Lo Ni           003 Im M1 V  
+Vlashme Dim   2606 B64A110-A    Lo Ni Wa           302 Im M0 V 
+Khuum         2701 B424420-B    Lo Ni              101 Im M6 V    
+Ama As        2710 B79A320-A    Lo Ni Wa           304 Im M5 V   
+Siiis         2801 E9B3100-5    Fl Lo Ni           923 Im A8 V     
+Dinassi       2804 D63A000-7    Ba Lo Ni Wa        002 Im M9 V    
+Ishkad        2806 B766000-A    Ba Lo Ni           010 Im K5 VI M1 VI  
+Kaas          2810 C595000-5    Ba Lo Ni           020 Im M7 V        
+Siikhin Luur  2901 B223358-A    Lo Ni Po           704 Im M4 VI 
+Naama         2902 E410576-5    Ni                 302 Im K0 V 
+Verrgno       2903 D8679AD-3    Hi                 401 Im K9 VI K5 D 
+Riiur Em      2904 D577200-2    Lo Ni              702 Im M0 V M1 D 
+Iisgii        2905 E543537-3    Ni Po              811 Im F2 V K6 VI
+Nish          2906 B568200-A    Lo Ni              612 Im K6 V     
+Gekha         2907 C797532-6    Ag Ni              512 Im M0 V    
+Gir           2908 C653000-5    Ba Lo Ni Po        024 Im G7 V   
+Din           3004 C400346-9    Lo Ni Va           512 Im M9 V    
+Giim          3010 D663000-6    Ba Lo Ni           012 Im M1 V   
+Gaga Uush     3104 B454000-9    Ba Lo Ni           010 Im M3 V F0 D   
+Gaashkha Duun 3106 C000474-8    As Lo Ni Va        114 Im M5 V       
+Nirk          3107 D470211-7    De Lo Ni           620 Im G1 V      
+Shuuin        3201 B272000-8    Ba Lo Ni           001 Im F5 IV M1 V  
+Aaruun Zi     3202 D544589-4    Ag Ni              201 Im F4 V M2 D  
+Zagkam        3207 C75A433-9    Lo Ni Wa           902 Im K7 V      
+Gaash         3208 A220510-C    De Ni Po           613 Im F5 V K8 D
+Arkind        3209 C646120-8    Lo Ni              920 Im M5 V    

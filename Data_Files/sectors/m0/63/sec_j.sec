@@ -1,0 +1,62 @@
+@SUB-SECTOR:J  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gisharzuush   0921 C96566B-7    Ag Ni              600 Im G7 VI M4 D     
+Arkkir Ir     0922 A595667-9    Ag Ni              303 Im K0 D           
+Amar          0923 D584468-6    Lo Ni              313 Im F7 D           
+Laadliag      0927 B97A000-D    Ba Lo Ni Wa        004 Im G3 V           
+Ushiin Uur    0928 B687420-5    Lo Ni              510 Im M6 D M9 D      
+Irmash        0929 C897685-4    Ag Ni              802 Im F1 D           
+Nigi          0930 E845200-3    Lo Ni              604 Im K6 D M8 D      
+Zammii A      1026 B643000-9    Ba Lo Ni Po        010 Im G7 D           
+Kinmuum       1027 E628364-5    Lo Ni              304 Im M4 V           
+Indmen        1028 C8C8311-8    Fl Lo Ni           902 Im M9 V           
+Irpi          1121 D744100-4    Lo Ni              613 Im F0 V           
+Darkhamaar    1125 E524200-5    Lo Ni              420 Im M2 V           
+Ama Shuun     1221 B000499-9    As Lo Ni Va        813 Im G4 V           
+Zekhi         1222 B6A3534-A    Fl Ni              323 Im K1 V M1 D      
+Din           1228 C442000-9    Ba Lo Ni Po        023 Im G4 D           
+Beuur Nin     1322 C989000-9    Ba Lo Ni           025 Im G7 V           
+Khugar        1323 C658000-6    Ba Lo Ni           023 Im K1 V M5 D      
+Mikha Am      1326 A421251-C    Lo Ni Po           410 Im M1 V G0 D      
+Aanem         1328 C6A8000-7    Ba Fl Lo Ni        010 Im K2 D           
+Raakhi Sha    1329 D200333-9    Lo Ni Va           623 Im M2 V M0 D      
+Uurgauum      1330 B447000-B    Ba Lo Ni           004 Im K4 D           
+Khuunan       1424 E110000-7    Ba Ic Lo Ni        000 Im M3 V M4 D      
+Uudge She     1430 B576200-A    Lo Ni              802 Im F1 V M0 D      
+Gag           1521 C446000-4    Ba Lo Ni           003 Im F2 V M7 D M5 D 
+Kim           1522 D6B4000-6    Ba Fl Lo Ni        003 Im M1 V           
+Kas           1524 D110254-8    Ic Lo Ni           410 Im F4 V           
+Emuush Iip    1525 E776200-2    Lo Ni              804 Im K0 V M1 D      
+Naas          1526 C492686-8    Ni                 500 Im G3 D M5 D      
+Agugaa        1528 E655358-5    Lo Ni              712 Im F6 D           
+Kurimash      1529 C9B6331-7    Fl Lo Ni           401 Im K2 V M5 D      
+Agid          1530 D545000-6    Ba Lo Ni           033 Im F1 D           
+Geengin       1621 C87A344-5    Lo Ni Wa           904 Im M1 D           
+Kiivluu       1622 B665578-C    Ag Ni              113 Im F0 D M0 D      
+Bash          1623 C220213-9    De Lo Ni Po        504 Im K3 V           
+Iram          1625 E160300-7    De Ic Lo Ni        810 Im M2 D           
+Taccis        1627 B672675-C    Ni                 101 Im G1 D           
+Lishi         1629 E667488-6    Lo Ni              300 Im F0 VI M1 D     

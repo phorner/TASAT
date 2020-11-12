@@ -1,0 +1,57 @@
+@SUB-SECTOR:C SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Mig           1703 C33679B-5                       413 Im G1 III M8 D
+Gakaa         1704 C766111-5    Lo Ni              924 Im K1 V      
+Aamgiuum      1803 B323200-A    Lo Ni Po           112 Im M4 III 
+Udmi Kike     1808 A795110-A    Lo Ni              901 Im M5 V M2 V
+Liri          1810 D443000-6    Ba Lo Ni Po        023 Im G7 V    
+Armaa Khiigkha1904 A333000-A    Ba Lo Ni Po        023 Im K9 V   
+Uurmiir Uushek1905 D438545-8    Ni                 610 Im M3 V  
+Amki          1906 B2208BF-9    De Na Po           415 Im M5 III
+Shiiir Aa     1908 C335444-8    Lo Ni              402 Im M3 V 
+Lur           2003 C100000-8    Ba Lo Ni Va        015 Im F3 V    
+Gizuu Im      2004 D654000-5    Ba Lo Ni           022 Im F1 V   
+Espe          2006 B788758-7    Ag                 801 Im K3 IV M6 D
+Imki          2009 E7A3000-5    Ba Fl Lo Ni        022 Im F1 V     
+Isar          2010 D364433-7    Lo Ni              421 Im K8 V    
+Shidgi Muu    2101 C0007AA-9    As Na Va           214 Im G9 IV  
+Makhinid      2102 C662595-3    Ni                 214 Im G7 V  
+Maark Ad      2106 E241000-5    Ba Lo Ni Po        001 Im M0 V 
+Aasish        2108 A631753-A    Na Po              523 Im G2 V
+Zuurnuund Uum 2109 B592100-8    Lo Ni              910 Im M1 V
+Gami Uun      2201 C540543-6    De Ni Po           423 Im M3 V   
+Udgiin        2202 A877000-9    Ba Lo Ni           001 Im F4 V M1 D
+Zadi          2205 C629000-8    Ba Lo Ni           001 Im M5 V G6 V
+Gigaauugmu    2206 C000438-A    As Lo Ni Va        724 Im A8 IV   
+Gigi          2208 B410631-9    Na Ni              522 Im G5 VI K4 D
+Kisha Ki      2209 C47878C-8    Ag                 403 Im M2 V K4 D
+Kuuaggi       2303 B487000-9    Ba Lo Ni           001 Im M9 V  
+Muunsha       2304 E000300-2    As Lo Ni Va        611 Im A7 V M6 D
+Diriiim       2306 C9C7620-6    Fl Ni              101 Im M2 V    
+Ker           2307 C200135-8    Lo Ni Va           201 Im M4 V   
+Ishuug        2403 B666132-9    Lo Ni              813 Im M5 V 
+Zaarniki      2405 C553256-3    Lo Ni Po           121 Im M5 D
+Iguunmii      2409 E120100-7    De Ic Lo Ni Po     801 Im M7 D M3 D

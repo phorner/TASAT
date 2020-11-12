@@ -1,0 +1,54 @@
+@SUB-SECTOR:A SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ishash        0102 C474000-5    Ba Lo Ni           020 Im F3 V
+Khouth        0104 A8C3985-B    Fl Hi              920 Im M3 V
+Shar          0105 C356000-6    Ba Lo Ni           021 Im M1 V K3 V I
+Daadir        0106 B541111-6    Lo Ni Po           301 Im M7 V M0 D
+Muasem        0109 E864466-4    Lo Ni              920 Im M2 V
+Kugi Id       0205 C543313-8    Lo Ni Po           122 Im M5 V
+Mikesh        0206 D8B7885-A    Fl                 625 Im K1 V
+Aruush        0209 B625233-8    Lo Ni              111 Im M6 III K5 V
+Iirkaka       0210 D110430-8    Ic Lo Ni           701 Im M5 V M9 V
+Gase A        0304 B89AA95-9    Hi In Wa           623 Im M4 V
+Panirli       0306 B253631-7    Ni Po              920 Im M1 V
+Uundguuk      0307 A000352-B    As Lo Ni Va        311 Im M5 V
+Arii Urnirk   0308 D682224-2    Lo Ni              813 Im M5 V
+Esla Ges      0401 C859000-6    Ba Lo Ni           021 Im F9 IV
+Dirge Iim     0402 B100967-9    Hi Na Va           510 Im M7 V
+Garmi         0407 D000314-6    As Lo Ni Va        112 Im A9 V M9 V
+Gakkip        0502 E463000-4    Ba Lo Ni           034 Im A9 III
+Mas           0509 C7B5511-5    Fl Ni              912 Im M8 V
+Ushkhasiindkii0510 D461410-8    Lo Ni              223 Im M2 V K8 V
+Nidir         0601 A560000-9    Ba De Lo Ni        001 Im M2 VI M5 D
+Amir Za       0603 D8A3111-4    Fl Lo Ni           423 Im M5 II
+Apmaalim      0605 C432530-9    Ni Po              503 Im M0 V K3 V
+Uurguunamki   0606 B610765-8    Na                 610 Im K8 V
+Khinukhin     0608 C9B2341-7    Fl Lo Ni           120 Im G5 VI
+Samnirk       0609 D461464-5    Lo Ni              102 Im M7 V M1 V
+Shadga Ishgaa 0701 B490000-8    Ba De Lo Ni        001 Im K6 V
+Arga          0709 B200333-8    Lo Ni Va           911 Im A9 V
+Kiidga Aark   0804 D3359A9-4    Hi In              823 Im A4 V 
+Kiigmiiii     0807 E552000-3    Ba Lo Ni Po        002 Im K2 V M0 D

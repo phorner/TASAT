@@ -1,0 +1,69 @@
+@SUB-SECTOR:M SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Nira Am       0131 C587000-9    Ba Lo Ni           004 Im G2 V M9 D
+Arkiiin       0132 D565000-5    Ba Lo Ni           015 Im M2 V
+Nuush         0133 A433200-C    Lo Ni Po           512 Im M1 V M4 D
+Loungel       0134 C6A5786-6    Fl                 112 Im G5 VI M5 D
+Gamma         0135 B344300-C    Lo Ni              200 Im F0 V
+Argusap       0231 A6549A8-A    Hi                 715 Im G0 D
+Kuaruu        0235 E486222-5    Lo Ni              824 Im F6 D
+Leshgar Khi   0236 B256499-7    Lo Ni              400 Im F3 D M6 D
+Irli Am       0237 C160635-7    De Ic Ni           604 Im F2 VI M4 D
+Igsa          0239 C768644-4    Ag Ni              324 Im G4 V
+Adshaa        0333 A323310-D    Lo Ni Po           814 Im M1 V
+Shinla        0336 C324000-8    Ba Lo Ni           000 Im K1 V
+Armaii        0337 B522000-6    Ba Lo Ni Po        013 Im K2 V M6 D
+Aanash        0339 A200434-B    Lo Ni Va           312 Im M7 V M9 D
+Imir          0340 C697300-5    Lo Ni              813 Im G0 V
+Arkkhuus      0431 D8D3220-7    Fl Lo Ni           904 Im M1 V M8 D
+Kuurni        0432 C330000-A    Ba De Lo Ni Po     003 Im K2 IV
+Ishke Amge    0433 D655322-5    Lo Ni              803 Im F8 VI M0 D
+Khed          0434 C5547BC-4    Ag                 930 Im G0 V
+Iniir Ash     0435 C898522-6    Ag Ni              903 Im F9 D
+Adza          0436 C402000-A    Ba Lo Ni Va        015 Im F0 III
+Biiki Si      0437 D863300-4    Lo Ni              604 Im K2 V
+Uurkne        0438 E766211-2    Lo Ni              824 Im F4 V
+Gaer          0439 C545888-7                       615 Im F2 V
+Zirbaa        0440 B252212-7    Lo Ni Po           424 Im K3 V
+Iisshi Kizuu  0531 D260000-5    Ba De Lo Ni        000 Im K1 V
+Saazi         0533 D585ADH-1    Hi                 904 Im G4 D
+Daadii        0535 B23157B-8    Ni Po              710 Im K2 V M8 D
+Ashkuu        0536 E694200-1    Lo Ni              403 Im M4 V M1 D
+Infrapolis    0632 D737574-6    Ni                 504 Im F8 D
+Garenbaguu    0639 B568000-8    Ba Lo Ni           001 Im F2 V M9 D
+Zamshem Im    0640 E100334-5    Lo Ni Va           110 Im M3 V M3 D
+Geka          0731 D9C5000-5    Ba Fl Lo Ni        022 Im M5 V
+Sir           0732 D322489-5    Lo Ni Po           202 Im M3 V
+Irash Bu      0734 B201000-D    Ba Lo Ni Va        003 Im K5 V M2 D
+Kiim          0735 C8B5468-9    Fl Lo Ni           203 Im K4 V
+Urlir         0736 B574000-8    Ba Lo Ni           010 Im F2 VI
+Gam           0737 C561438-5    Lo Ni              702 Im F0 VI M3 D
+Pea Aam       0738 C326100-6    Lo Ni              303 Im M1 V
+Kauur Ki      0739 C20048A-9    Lo Ni Va           812 Im A4 V
+Kavla Givli   0833 E464130-3    Lo Ni              901 Im K1 VI
+Imga          0834 B000000-B    As Ba Lo Ni Va     000 Im G4 V
+Irkad         0836 C450945-7    De Hi Po           414 Im K4 VI M6 D
+Asmala        0840 C210631-7    Na Ni              913 Im M0 V

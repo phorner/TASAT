@@ -1,0 +1,42 @@
+@SUB-SECTOR:J SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ganiir        0921 C423000-0    Ba Lo Ni Po        005 Im M3 V G5 V   
+Gazzum        0923 B54957B-0    Ni                 220 Im F2 V M2 D  
+Emirdur       0924 E745110-0    Lo Ni              801 Im M8 V      
+Havland       0927 C793787-0                       601 Im M2 V M0 D
+Ship          0930 E581583-0    Ni                 610 Im F3 V M0 VI   
+Apurshish     1028 C555758-0    Ag                 923 Im G8 VI         
+Shiku         1128 CAD4300-0    Fl Lo Ni           401 Im M5 V M4 V  
+Ashuur        1227 D232000-0    Ba Lo Ni Po        001 Im M6 V M3 V     
+Robbuun       1323 B524240-0    Lo Ni              502 Im K0 V K7 D 
+Gaap Em       1523 D510000-0    Ba Lo Ni           001 Im M0 V         
+Bakog         1530 B8A9130-0    Fl Lo Ni           232 Im G8 V        
+Etsur         1623 D410436-0    Lo Ni              120 Im M4 III K3 D 
+Zushar        1624 D631642-0    Na Ni Po           211 Im M2 V K9 D  
+Bashimus      1625 A542343-0    Lo Ni Po           720 Im A4 V      
+Lalazim       1626 E8C4257-0    Fl Lo Ni           210 Im M5 V          
+Akumid        1628 A867000-0    Ba Lo Ni           023 Im K0 V         
+Miis          1630 E7B0354-0    De Lo Ni           103 Im M2 V        

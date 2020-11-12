@@ -1,0 +1,31 @@
+@SUB-SECTOR:L SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Len           2930 D879325-4    Lo Ni              522 Im K3 V  
+Puuer         3030 DA87000-3    Ba Lo Ni           001 Im K1 V M2 V M2 V
+Dakiimi       3129 B565300-8    Lo Ni              422 Im F5 V     
+Shaniin       3225 C226BEE-9    Hi In              810 Im M1 V   
+Akguukhi      3229 C543775-4    Po                 334 Im M6 II 
+Rin           3230 C643000-5    Ba Lo Ni Po        003 Im M7 V 

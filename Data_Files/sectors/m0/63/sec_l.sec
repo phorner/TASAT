@@ -1,0 +1,71 @@
+@SUB-SECTOR:L  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Bair          2521 B556000-A    Ba Lo Ni           022 Im K0 V           
+Lanka Dir     2523 D947324-3    Lo Ni              224 Im F4 D           
+Miuuruup      2529 E200100-5    Lo Ni Va           100 Im M0 IV          
+Mir           2621 E444000-4    Ba Lo Ni           004 Im K9 D           
+Khasha Ga     2622 C895241-7    Lo Ni              214 Im K6 D           
+Idim          2624 B201744-9    Na Va              102 Im M4 V M0 D      
+Gap           2628 D23549B-6    Lo Ni              922 Im M5 D           
+Meshge        2630 A686320-9    Lo Ni              610 Im K1 D           
+Lei           2722 C897214-7    Lo Ni              700 Im G6 VI M7 D     
+Rash          2723 D310157-9    Lo Ni              310 Im M3 IV          
+Uurras Uur    2724 C366454-6    Lo Ni              410 Im F3 V M3 D      
+Inerenuur     2725 E611000-3    Ba Lo Ni           002 Im G0 V           
+Iishvla Im    2726 E546335-5    Lo Ni              410 Im F3 VI M0 D M0  
+Niirge Khar   2729 A594510-B    Ag Ni              900 Im G8 VI          
+Kheda         2730 A888552-8    Ag Ni              603 Im M3 V           
+Iimavlir      2821 E84A142-4    Lo Ni Wa           402 Im M6 D           
+Indum         2823 C548521-6    Ag Ni              513 Im K6 V           
+Uumar Gi      2824 D9AA434-8    Fl Lo Ni Wa        315 Im M4 V M3 V      
+Lan           2825 A749512-A    Ni                 320 Im F9 VI          
+Sirris        2829 D85499E-8    Hi                 700 Im F0 D M0 D      
+Gik           2830 C476343-A    Lo Ni              203 Im F0 V M7 D      
+Aama          2921 C200446-8    Lo Ni Va           600 Im M8 V           
+Kerip Ka      2922 C484000-9    Ba Lo Ni           000 Im K4 V M7 D      
+Kir           2923 E876000-2    Ba Lo Ni           000 Im G0 V           
+Ot Zell       2924 C9B7873-9    Fl                 210 Im K4 D M7 D      
+Garga         2925 C363000-5    Ba Lo Ni           005 Im F2 D           
+Lideip        2928 D432000-9    Ba Lo Ni Po        000 Im M4 V           
+Suuruunniim   2929 D140000-8    Ba De Ic Lo Ni Po  000 Im G7 D M2 D      
+Biimirkan     3021 E000400-6    As Lo Ni Va        501 Im M4 V K4 D      
+Khalish       3022 B300774-A    Na Va              401 Im M3 V           
+Kabesh        3024 C467000-7    Ba Lo Ni           004 Im F2 D M7 D      
+Giii Guu      3026 C541200-5    Lo Ni Po           400 Im M0 V M5 D      
+Mirii         3030 E589200-6    Lo Ni              705 Im F1 V           
+Khaam         3122 C65658B-8    Ag Ni              700 Im K4 V M1 D M9 D 
+Mechport      3123 D5A369B-4    Fl Ni              400 Im F4 V           
+Guush         3125 D654533-5    Ag Ni              510 Im K5 D M7 D      
+Imir          3126 A587444-B    Lo Ni              600 Im M3 D           
+Irish Dak     3129 C3008AA-6    Na Va              704 Im K5 D M7 D      
+Merka         3221 B786000-9    Ba Lo Ni           004 Im G9 D           
+Irgur         3222 D779777-8                       820 Im F3 V           
+Peake         3223 D468A77-8    Hi                 804 Im K4 V           
+Uuriim Ir     3225 B766510-6    Ag Ni              700 Im G2 V           
+Arkhik        3226 E76A664-5    Ni Wa              610 Im G8 D M6 D      
+Liirandle     3227 A150231-C    De Ic Lo Ni Po     713 Im K9 V M7 D      
+Vluragedkuu   3229 E689155-6    Lo Ni              334 Im F9 D M3 D M0 D 
+Gir           3230 AAC8477-B    Fl Lo Ni           512 Im K2 V           

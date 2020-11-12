@@ -1,0 +1,53 @@
+@SUB-SECTOR:F SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Iren          1011 B8C1589-0    Fl Ni              314 Im K7 V M3 V
+Ashkhinaman   1012 C554000-0    Ba Lo Ni           002 Im M0 V G8 D  
+Dikhir        1112 B8976B7-0    Ag Ni              310 Im F3 V        
+Shagi         1113 C898300-0    Lo Ni              520 Im F3 III     
+Gukhaga       1114 A877000-0    Ba Lo Ni           010 Im G4 V M6 D 
+Darmagu       1116 B412000-0    Ba Lo Ni           001 Im M9 V K5 V
+The Uris Belt 1117 C000000-0    As Ba Lo Ni Va     011 Im M1 V K5 V     
+Daku          1119 C332451-0    Lo Ni Po           804 Im K2 VI        
+Ideshe        1120 B969111-0    Lo Ni              620 Im M5 V G6 V   
+Gagzoe        1211 A585000-0    Ba Lo Ni           002 Im M8 V M3 VI   
+Siruga        1215 C100000-0    Ba Lo Ni Va        001 Im M0 V K3 VI  
+Estoff        1217 B6B6000-0    Ba Fl Lo Ni        020 Im M2 V       
+Ramir         1219 D66A132-0    Lo Ni Wa           201 Im M2 V K8 V 
+Imik          1220 C263000-0    Ba Lo Ni           024 Im F1 II    
+Kema          1311 E100000-0    Ba Lo Ni Va        010 Im M2 V 
+Madi          1312 D432000-0    Ba Lo Ni Po        010 Im K4 V
+Aadas         1313 C778664-0    Ag Ni              914 Im M0 V          
+Anik          1317 D441000-0    Ba Lo Ni Po        011 Im M1 D         
+Irkhi Mamna   1319 E200000-0    Ba Lo Ni Va        021 Im M0 V       
+Uummi         1412 D200599-0    Ni Va              101 Im M0 V         
+Centra        1414 B592000-0    Ba Lo Ni           024 Im M5 V        
+Astira        1417 C552300-0    Lo Ni Po           720 Im M0 V       
+Luunbu        1515 E8A6000-0    Ba Fl Lo Ni        010 Im M4 V       
+Nar           1516 E464100-0    Lo Ni              410 Im M1 V      
+Kagamira      1519 B477542-0    Ag Ni              725 Im G4 V     
+Shulishu      1520 B352347-0    Lo Ni Po           710 Im M0 V K1 V     
+Naaan         1612 E361133-0    Lo Ni              110 Im F6 V      
+Gapis         1619 C764224-0    Lo Ni              410 Im F3 III   

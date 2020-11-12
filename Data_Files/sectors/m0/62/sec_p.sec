@@ -1,0 +1,72 @@
+@SUB-SECTOR:P SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kiddinu       2531 B455100-0    Lo Ni              934 Im M0 II        
+Aki           2533 D6A7698-0    Fl Ni              610 Im M0 III F5 D 
+Adi Uu        2534 C411676-0    Na Ni              722 Im M7 V       
+Ermund        2536 E200376-0    Lo Ni Va           519 Im G9 V      
+Nunaat        2539 C624000-0    Ba Lo Ni           024 Im F0 V     
+Kalaalit      2540 A769742-0                       210 Im M9 V    
+Kane          2631 E789877-0                       723 Im K9 V  
+Wakarsat      2634 B68A68A-0    Ni Wa              114 Im M6 V 
+Kakadan       2636 B9C7222-0    Fl Lo Ni           301 Im M2 V
+Akon          2637 B463467-0    Lo Ni              903 Im M1 V K4 V   
+Statia        2640 C300000-0    Ba Lo Ni Va        010 Im M7 V       
+Gam           2732 E582322-0    Lo Ni              604 Im M8 V G0 D
+Jarmat        2733 B210000-0    Ba Lo Ni           014 Im M6 V    
+Rambant       2734 B110110-0    Ic Lo Ni           604 Im F4 V K0 D    
+Kesali        2737 B2009A9-0    Hi Na Va           103 Im M3 V        
+Tepmaa        2738 C410000-0    Ba Lo Ni           023 Im M0 V       
+Sg'Aa         2739 BAB578D-0    Fl                 213 Im K6 V M4 V 
+Vlekhaandaanin2740 D454226-0    Lo Ni              810 Im M2 V     
+Kiimzhal      2831 D554346-0    Lo Ni              901 Im M3 V M7 D  
+Telkaa        2832 C635100-0    Lo Ni              921 Im M8 V K3 D K3 D 
+Inushir       2836 E9899B9-0    Hi                 323 Im K0 V          
+Kheaadge      2837 D794331-0    Lo Ni              922 Im M3 V K4 D    
+Zombagu       2839 B684344-0    Lo Ni              424 Im F7 V        
+Icuspin       2931 B2006AC-0    Na Ni Va           320 Im M2 V  
+Zanski        2932 B585247-0    Lo Ni              521 Im M3 V
+Kanat         2933 B567000-0    Ba Lo Ni           013 Im F2 V
+Assazak       2934 C490633-0    De Ni              801 Im M1 V    
+Kirama        2936 E200000-0    Ba Lo Ni Va        001 Im K9 V G0 D M0 D
+Punnari       2938 C737000-0    Ba Lo Ni           001 Im M8 V M5 D    
+Teralvar      2939 C585110-0    Lo Ni              901 Im G3 V M8 V   
+New Salen     3031 D2029CA-0    Hi Na Va           620 Im M4 V          
+Matuyama      3032 C140300-0    De Ic Lo Ni Po     223 Im G0 III M0 D  
+Diikuu        3035 D651416-0    Lo Ni Po           901 Im M9 V G2 D   
+Raanbazziil   3037 B428000-0    Ba Lo Ni           010 Im M0 II     
+Gilnat Paz    3039 B535000-0    Ba Lo Ni           021 Im M1 V         
+Maamibrin     3131 B562463-0    Lo Ni              620 Im F7 V        
+Khakuu        3134 D424410-0    Lo Ni              922 Im F2 III     
+Debekov       3135 C572000-0    Ba Lo Ni           001 Im M2 V      
+Alleman       3137 B200225-0    Lo Ni Va           502 Im K6 III K1 D 
+Nasaa         3138 E325435-0    Lo Ni              620 Im G8 V       
+Idash Uush    3140 E653100-0    Lo Ni Po           210 Im M4 V K0 V 
+Vanutappan    3231 C447000-0    Ba Lo Ni           024 Im F7 III M9 D
+Tamayo        3232 B779000-0    Ba Lo Ni           001 Im M0 V G6 D M6 D
+Siir          3235 C481676-0    Ni                 610 Im A9 V G4 V    
+Zhannag       3237 C534376-0    Lo Ni              934 Im G8 III      
+Dirshum Di    3238 E768000-0    Ba Lo Ni           013 Im K0 V K1 D  
+Aggiida       3239 D845000-0    Ba Lo Ni           001 Im M9 V  

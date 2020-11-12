@@ -1,0 +1,67 @@
+@SUB-SECTOR:M SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Likii         0131 D763000-0    Ba Lo Ni           024 Im M8 V  
+Kald          0132 D2507AE-0    De Po              901 Im M1 V M1 D   
+Kuarsu        0134 E66A624-0    Ni Wa              323 Im F2 III     
+Sakin         0135 D330343-0    De Lo Ni Po        814 Im M4 III F9 V
+Shaaki        0137 C9B3120-0    Fl Lo Ni           220 Im M5 V F1 V 
+Shimshirar    0232 E9C7759-0    Fl                 323 Im F7 III M2 V
+Nurrungar     0234 B649120-0    Lo Ni              110 Im M3 V M3 V
+Khishugii     0236 C120567-0    De Ic Ni Po        910 Im M6 V    
+Shashim       0237 B327235-0    Lo Ni              603 Im G8 V   
+Paspaa        0333 A454358-0    Lo Ni              810 Im K3 V G0 D
+Ishuus Pika   0335 D97A000-0    Ba Lo Ni Wa        020 Im M1 V    
+Parsi         0336 B989644-0    Ni                 824 Im M9 III 
+Vanessa       0338 E468000-0    Ba Lo Ni           010 Im M6 V K8 D   
+Jessheim      0340 AAC5100-0    Fl Lo Ni           125 Im M2 V       
+Answerin      0431 B5848BD-0                       520 Im A7 II G0 V
+Makhamen      0434 E000120-0    As Lo Ni Va        225 Im K1 V     
+Ganidam       0435 D100350-0    Lo Ni Va           401 Im M4 V M5 D 
+Meprim        0436 C300000-0    Ba Lo Ni Va        010 Im M7 V     
+Dar           0437 EA7A335-0    Lo Ni Wa           524 Im A8 V    
+Dand          0531 D9AA000-0    Ba Fl Lo Ni Wa     020 Im F1 V     
+Kinswana      0532 D110347-0    Ic Lo Ni           604 Im K6 V    
+Indi          0533 E668362-0    Lo Ni              701 Im M9 V M3 VI   
+Vluushuurgi   0534 C657400-0    Lo Ni              921 Im M9 V        
+Fauski        0536 B1208A9-0    De Ic Na Po        801 Im M5 V K0 D  
+Enbart        0631 B201334-0    Lo Ni Va           820 Im M1 V         
+Laam          0633 E454478-0    Lo Ni              310 Im K1 VI       
+Savvud        0635 C445347-0    Lo Ni              801 Im M5 V       
+Bood          0637 A240100-0    De Lo Ni Po        710 Im M0 V      
+Liigima       0639 C7C2000-0    Ba Fl Lo Ni        003 Im K9 V K2 V
+Aquacade      0640 A67A000-0    Ba Lo Ni Wa        020 Im M2 V    
+Emaa Gir      0732 E524200-0    Lo Ni              822 Im G4 II M2 D
+Kishbar       0734 B301000-0    Ba Lo Ni Va        020 Im M2 V     
+Kuzey Anadolu 0737 D500635-0    Na Ni Va           403 Im K5 V K3 V      
+Daglari       0738 D110257-0    Ic Lo Ni           421 Im M9 V          
+Iriin         0739 D454578-0    Ag Ni              620 Im M7 III       
+Kirov         0740 B683644-0    Ni                 510 Im K5 V K4 VI  
+Igsudi        0831 C472352-0    Lo Ni              120 Im K6 V G4 V  
+Urmanaan      0832 C140000-0    Ba De Ic Lo Ni Po  002 Im M2 V      
+Gad           0833 E487000-0    Ba Lo Ni           010 Im M1 V     
+Khisber       0834 C87A000-0    Ba Lo Ni Wa        023 Im F6 V    
+Lashe         0835 E000000-0    As Ba Lo Ni Va     010 Im M2 V M9 D   
+Kiimiim       0839 B672000-0    Ba Lo Ni           003 Im G2 V       

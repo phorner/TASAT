@@ -1,0 +1,59 @@
+@SUB-SECTOR:O  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kasan Ar      1733 B764211-8    Lo Ni              113 Im F0 D M0 D      
+Arga Iirir    1735 C342000-A    Ba Lo Ni Po        000 Im F8 V M6 D      
+Feldon        1831 D988552-7    Ag Ni              220 Im F2 V M3 D      
+Zaan          1832 C352214-7    Lo Ni Po           915 Im F7 VI          
+Mali          1834 E232442-5    Lo Ni Po           210 Im M2 V M3 D      
+Khiika Ik     1835 B555200-A    Lo Ni              903 Im F1 D M0 D      
+Kaadaarguu    1836 E685000-4    Ba Lo Ni           004 Im K0 V           
+Guurus        1837 E400000-6    Ba Lo Ni Va        004 Im K8 IV M1 D     
+Xagra         1932 C40088B-C    Na Va              404 Im M4 VI          
+Giidshii      1934 B78898D-8    Hi                 322 Im F3 D           
+Inir          1935 E526334-5    Lo Ni              120 Im A2 V           
+Arar Mish     1936 C53A535-8    Ni Wa              603 Im F5 D           
+Iisaam        1939 E776000-6    Ba Lo Ni           022 Im G8 D M3 D      
+Kashe         2032 C88A310-6    Lo Ni Wa           804 Im K4 VI          
+Guuka Shada   2033 B431555-A    Ni Po              900 Im G4 V           
+Periish       2036 A747100-7    Lo Ni              803 Im F2 V           
+Kuza Kuundka  2037 E362000-4    Ba Lo Ni           012 Im F0 V M0 D      
+Duka Kuu      2038 C556876-7                       924 Im F1 V           
+Aardaa        2039 C546000-6    Ba Lo Ni           004 Im M8 D M7 D      
+Gakan         2040 A524100-9    Lo Ni              624 Im K1 V           
+Kir           2133 A110797-B    Ic Na              904 Im K4 D M2 D      
+Kadar         2140 CAD7000-8    Ba Fl Lo Ni        004 Im M8 IV M8 VI    
+Zibikiian     2232 E110000-5    Ba Ic Lo Ni        004 Im G8 VI          
+Liiir         2235 D95A221-5    Lo Ni Wa           102 Im F5 VI          
+Strashna      2236 C5789AB-B    Hi In              700 Im F6 D M8 D M3 D 
+Ashan         2240 A86A112-B    Lo Ni Wa           902 Im F2 V           
+Leim Ku       2333 B360BC9-B    De Hi              412 Im M9 D           
+Darvli Ga     2336 D348598-3    Ag Ni              311 Im G2 V M3 D      
+Kinshir Un    2338 B13057C-B    De Ic Ni Po        810 Im K4 V M9 VI     
+Urgishi       2340 D85A232-6    Lo Ni Wa           622 Im F7 D           
+Amir          2432 C879100-6    Lo Ni              504 Im K7 V M9 D      
+Shegla Gis    2434 C223512-7    Ni Po              210 Im K1 VI          
+Pier Shiir    2435 E746353-2    Lo Ni              604 Im G0 D           
+Amambenlii    2439 E514475-5    Lo Ni              800 Im G0 V           

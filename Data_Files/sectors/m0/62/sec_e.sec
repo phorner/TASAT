@@ -1,0 +1,29 @@
+@SUB-SECTOR:E SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Giikur        0211 B689000-0    Ba Lo Ni           010 Im M2 VI M9 D   
+Omero         0311 A230000-0    Ba De Lo Ni Po     022 Im M3 V G8 D 
+Lalaki        0619 A9B3200-0    Fl Lo Ni           802 Im M3 V   
+Rishiin       0711 D539100-0    Lo Ni              310 Im M2 V M7 V   

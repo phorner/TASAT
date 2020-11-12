@@ -1,0 +1,67 @@
+@SUB-SECTOR:K SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Imiman        1722 D454000-0    Ba Lo Ni           004 Im A6 V G4 V   
+Kalimgar      1725 C799755-0                       824 Im A8 V       
+Gunavarum     1726 E553000-0    Ba Lo Ni Po        004 Im K0 V K1 D 
+Vliam         1728 B698000-0    Ba Lo Ni           020 Im G0 V     
+Kargem        1729 E110679-0    Ic Na Ni           220 Im G8 V M1 V      
+Lurkha        1730 C67478B-0    Ag                 920 Im F7 V          
+Iikhok        1821 C334200-0    Lo Ni              824 Im M8 V     
+Kasear        1822 A547730-0    Ag                 520 Im M2 V  G5 D   
+Karfir        1825 A753AC9-0    Hi Po              323 Im K4 V        
+Sindal        1830 C9B8300-0    Fl Lo Ni           301 Im G6 V M3 VI 
+Sagida        1923 C2239CB-0    Hi In Na Po        702 Im M6 V M0 V 
+Nimmer        1928 C420000-0    Ba De Lo Ni Po     024 Im G4 V     
+Sakhem        1929 C404000-0    Ba Lo Ni Va        010 Im M0 V    
+Ziirkago      1930 A878363-0    Lo Ni              213 Im F0 V   
+Kakaaim       2022 D100565-0    Ni Va              201 Im M6 V     
+Zhattar       2023 B88A000-0    Ba Lo Ni Wa        010 Im M3 III  
+Daaiish       2027 B775000-0    Ba Lo Ni           020 Im F0 V M1 VI   
+Gabik         2029 B512000-0    Ba Lo Ni           033 Im F2 V        
+Duusan        2030 C9CA435-0    Fl Lo Ni Wa        222 Im M9 V       
+Lekkon        2122 C440200-0    De Lo Ni Po        602 Im K8 VI M1 D
+Giga Pir      2123 C5A4357-0    Fl Lo Ni           201 Im K7 V M9 V
+Razzun        2124 A472431-0    Lo Ni              810 Im M4 VI M2 D   
+Liiaskuurkga  2125 E799466-0    Lo Ni              110 Im M8 V K2 V   
+Dekhuun       2126 C478000-0    Ba Lo Ni           020 Im M9 V       
+Limla A       2129 E000423-0    As Lo Ni Va        210 Im M4 V      
+Karlum        2221 B5AA000-0    Ba Fl Lo Ni Wa     020 Im A2 V K5 V  
+Dirgii Ga     2222 E778433-0    Lo Ni              523 Im F2 V G4 D 
+Gurzish       2223 E76A000-0    Ba Lo Ni Wa        001 Im M2 V M8 D       
+Iamone        2225 D110AA6-0    Hi Ic Na           524 Im K4 V     
+Zikurag       2227 A536568-0    Ni                 624 Im F8 II   
+Munakhiin     2229 E202210-0    Lo Ni Va           310 Im K5 V   
+Lushem        2321 C432000-0    Ba Lo Ni Po        033 Im F3 III  
+Inaarak       2322 D775545-0    Ag Ni              415 Im M4 V   
+Zruub         2323 E353000-0    Ba Lo Ni Po        003 Im M7 V  
+Firdakh       2324 D332000-0    Ba Lo Ni Po        020 Im A9 V 
+Derkhuun      2325 E310425-0    Lo Ni              805 Im F1 V K5 D    
+Fharnas       2328 D8A8633-0    Fl Ni              901 Im M6 V        
+Tobrun        2329 B400266-0    Lo Ni Va           910 Im F8 V M9 VI 
+Umzgaa        2330 D000000-0    As Ba Lo Ni Va     010 Im M3 V      
+Martle        2425 D1408BF-0    De Ic Po           924 Im M6 V        
+Khanaddar     2426 B000000-0    As Ba Lo Ni Va     012 Im K6 V M6 D  
+Esish         2429 E120000-0    Ba De Ic Lo Ni Po  012 Im M9 V      

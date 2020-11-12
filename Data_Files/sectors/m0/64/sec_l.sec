@@ -1,0 +1,32 @@
+@SUB-SECTOR:L SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gash          2528 B62A763-9    Wa                 100 Im K2 IV
+Dinsha        2630 D510000-7    Ba Lo Ni           015 Im M5 D
+Iindaarim     2730 B528310-A    Lo Ni              403 Im K4 V M8 D
+Ishgiirad     2922 D9A5643-2    Fl Ni              320 Im M0 V
+Guukin        2930 B638110-A    Lo Ni              215 Im M7 V
+Mukusi        3129 D457A6B-8    Hi                 712 Im G1 V
+Khiiniish     3230 D000000-6    As Ba Lo Ni Va     023 Im M4 V M2 D

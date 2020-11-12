@@ -1,0 +1,64 @@
+@SUB-SECTOR:C SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Arguunuund    1701 E340000-3    Ba De Lo Ni Po     000 Im G9 V M0 D
+Conire        1703 B434858-A                       603 Im G9 D
+Shaiid Za     1704 C231000-9    Ba Lo Ni Po        000 Im G6 IV
+Lir           1709 C100585-8    Ni Va              601 Im K3 V
+Khakim A      1801 EA5A444-0    Lo Ni Wa           502 Im F9 D
+Khar          1802 C75A658-9    Ni Wa              304 Im K8 D M5 D
+Uunendii      1804 B83A000-8    Ba Lo Ni Wa        002 Im F0 VI
+Gaan          1806 D300446-8    Lo Ni Va           315 Im G2 V M6 D
+Girkir        1808 B514200-9    Lo Ni              724 Im M5 V
+Uurvluu Rimir 1810 C241379-7    Lo Ni Po           903 Im G3 D M6 D
+Pem           1903 D452425-1    Lo Ni Po           504 Im G4 D M5 D
+Nir           1904 E778459-3    Lo Ni              704 Im G4 V M7 D
+Gakaa         1905 D6AA400-8    Fl Lo Ni Wa        624 Im M3 VI M3 D
+Shaam         1909 E458837-0                       714 Im F6 D M3 D
+Bain          1910 E410000-5    Ba Lo Ni           013 Im G5 IV M4 D
+Gaiir         2001 D506112-6    Lo Ni Va           903 Im F1 VI M8 D
+Degesh        2002 C535000-6    Ba Lo Ni           014 Im K8 V
+Kiikuu        2003 D322200-7    Lo Ni Po           503 Im M2 V
+Igvlekenmi    2006 B410335-9    Lo Ni              904 Im K2 V M9 VI
+Gain          2008 C140000-7    Ba De Ic Lo Ni Po  004 Im F1 V
+Daaraam       2009 E673578-0    Ni                 124 Im G0 D
+Giipi         2105 E8B6420-3    Fl Lo Ni           403 Im F2 V
+Gan           2110 C88A253-7    Lo Ni Wa           804 Im M4 D M3 D
+Iirer         2201 C433740-8    Na Po              400 Im M0 V M8 D
+Bigam         2207 D6B0000-6    Ba De Lo Ni        003 Im K1 V
+Areshu        2209 C1309DH-B    De Hi Ic In Na Po  304 Im F4 V M5 D
+Esem          2210 E472000-4    Ba Lo Ni           004 Im M6 VI
+Milii         2301 E776345-3    Lo Ni              805 Im F7 D
+Uurka         2303 C666300-4    Lo Ni              900 Im G3 V M5 D
+Uku           2308 B6A6626-B    Fl Ni              503 Im G1 V
+Shibar Ar     2310 C451000-5    Ba Lo Ni Po        002 Im G3 D
+Sauu          2401 B100230-A    Lo Ni Va           702 Im M7 IV
+Niuumin       2403 E449237-4    Lo Ni              803 Im G1 D M4 D
+Kiiridli      2404 B120000-C    Ba De Ic Lo Ni Po  004 Im M9 V
+Kaap Pi       2405 E87A000-6    Ba Lo Ni Wa        014 Im K7 V
+Kiduunim      2406 A7897AF-9                       430 Im M2 VI
+Vlur          2407 E528224-6    Lo Ni              504 Im M5 V
+Laapirli      2408 D552000-7    Ba Lo Ni Po        003 Im G2 VI M5 D
+Irmaapuu      2409 E522545-2    Ni Po              522 Im K3 V

@@ -1,0 +1,60 @@
+@SUB-SECTOR:I  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Arkeg         0121 C000512-A    As Ni Va           903 Im M1 V M6 D      
+Lakhii        0122 E584214-5    Lo Ni              303 Im G9 V M1 D      
+Kikheukuu     0124 D425000-7    Ba Lo Ni           003 Im K0 V M7 D      
+Lirla         0125 C9C5887-9    Fl                 614 Im K1 VI          
+Lemishlar     0128 E343000-5    Ba Lo Ni Po        021 Im G0 D M4 D      
+Voyd          0130 D4249AA-9    Hi In              402 Im F9 D M7 D      
+Magi          0221 A000A9B-C    As Hi Na Va        103 Im K3 V           
+Dimuun        0222 C677332-5    Lo Ni              511 Im F0 V           
+Arkig Khuuir  0223 E59969A-4    Ni                 710 Im F2 D           
+Shuna         0227 A385643-E    Ag Ni              912 Im G5 V M4 D      
+Erna          0228 B865000-6    Ba Lo Ni           013 Im M3 VI          
+Ina Iime      0321 C424340-A    Lo Ni              702 Im G2 V M3 D      
+Mapkha        0427 B623530-B    Ni Po              900 Im G7 II          
+Kiimin        0429 C220000-9    Ba De Lo Ni Po     010 Im M4 IV          
+Amne Suur     0526 BAE2322-9    Fl Lo Ni           300 Im M2 V M8 D      
+Giiga         0527 C000157-B    As Lo Ni Va        703 Im M7 VI          
+Ishgu         0529 D000865-5    As Na Va           413 Im G4 D M7 D      
+Biaz Ven      0530 B445ABA-C    Hi In              222 Im K2 V M9 D      
+Luukhikii     0621 A786000-B    Ba Lo Ni           024 Im K7 VI          
+Giin Uur      0622 B613455-9    Lo Ni              603 Im M9 D G5 D      
+Nuuiim I      0623 D575110-4    Lo Ni              300 Im K0 V           
+Iindir Za     0625 B885521-9    Ag Ni              710 Im G9 D           
+Gishgi        0626 A300BBB-B    Hi Na Va           100 Im K4 V           
+Kash          0628 D360000-5    Ba De Lo Ni        003 Im G3 D M8 D      
+Tonnes        0722 D897AAF-8    Hi In              200 Im G6 D M9 D      
+Ixteline      0723 E5248DD-8                       210 Im G9 D M5 D      
+Ashde         0725 B657100-9    Lo Ni              602 Im K6 D           
+Zaamimaar     0726 C402100-9    Lo Ni Va           800 Im K2 III         
+Kaer          0728 A37055A-C    De Ni              603 Im F3 V           
+Zuuir         0729 E461467-5    Lo Ni              621 Im K8 VI M5 D     
+Khaaruu       0730 E351000-3    Ba Lo Ni Po        022 Im F1 VI M4 D     
+Ipvlimmaarir  0826 EA9A000-4    Ba Lo Ni Wa        020 Im K7 D           
+Kadim         0827 B768000-7    Ba Lo Ni           023 Im F2 V           
+Shuuin Aep    0829 C5249A9-6    Hi In              100 Im K5 D M6 D      
+Armishidiir   0830 C547567-8    Ag Ni              214 Im G0 D M0 D      

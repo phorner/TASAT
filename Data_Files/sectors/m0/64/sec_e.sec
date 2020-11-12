@@ -1,0 +1,61 @@
+@SUB-SECTOR:E SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Khaar La      0112 D525000-6    Ba Lo Ni           002 Im M1 IV M7 D
+Adguuk        0113 BA85221-A    Lo Ni              603 Im F1 D
+Raguegh       0114 C000AD9-9    As Hi Na Va        302 Im F2 V
+Gii           0115 C87A000-7    Ba Lo Ni Wa        004 Im F2 VI
+Juba          0118 E32369B-7    Na Ni Po           822 Im K5 D
+Aruud         0120 C22377C-7    Na Po              211 Im G0 V
+Laki Khuu     0211 B324000-8    Ba Lo Ni           002 Im M9 III
+Luukaa Kuu    0213 B676433-6    Lo Ni              303 Im F1 V
+Emim          0216 A445100-9    Lo Ni              713 Im M3 V M6 D
+Gisashnaa     0220 C545000-7    Ba Lo Ni           001 Im F6 D M9 D
+Renak         0312 E77A37B-6    Lo Ni Wa           101 Im G4 V M2 D
+Irkha         0315 E223210-4    Lo Ni Po           900 Im M1 VI
+Asshagar      0316 A667000-7    Ba Lo Ni           024 Im F1 D M1 D
+Shiaarzim     0318 E100157-6    Lo Ni Va           404 Im M0 V M3 D
+Insont        0319 E5A7786-7    Fl                 103 Im K3 D
+Imiin         0411 B548133-B    Lo Ni              204 Im G8 D M7 D
+Liind Erkgend 0412 D844779-5    Ag                 711 Im F6 VI M2 D
+Gardiaagash   0419 A421787-D    Na Po              121 Im K8 II
+Shalan        0420 E334456-6    Lo Ni              114 Im M0 V
+Gamar Shid    0513 E847766-5    Ag                 400 Im G8 VI M0 D
+Ishkhuun      0516 E446000-1    Ba Lo Ni           005 Im G0 V M5 D
+Lejeune       0519 E33779A-8                       603 Im F4 D M0 D
+Shuundshaas Uu0520 B223000-8    Ba Lo Ni Po        000 Im K7 V M6 D
+Uudish        0611 D8C5774-7    Fl                 514 Im G6 D
+Duunkuu       0613 E547998-0    Hi In              304 Im F0 D
+Imgim         0616 C140241-7    De Ic Lo Ni Po     710 Im F1 V
+Basme Uug     0618 C438000-9    Ba Lo Ni           003 Im M8 V
+Erdii         0620 D654459-7    Lo Ni              314 Im M5 V
+Deliku        0711 E97A000-4    Ba Lo Ni Wa        000 Im F9 VI M0 D
+Khiiduu       0713 D340864-5    De Po              812 Im F9 D
+Armezi        0714 C246543-9    Ag Ni              203 Im G7 D M3 D
+Rarluu Ger    0716 A300268-C    Lo Ni Va           704 Im M3 V
+Irii          0717 E533242-0    Lo Ni Po           711 Im K3 V
+Ekkuu Vlumuu  0720 B000000-C    As Ba Lo Ni Va     001 Im M2 V M8 D
+Khuuluun      0811 D483400-6    Lo Ni              214 Im G0 V
+Gaum Vluu     0818 C000000-A    As Ba Lo Ni Va     004 Im M3 V M7 D M7 D

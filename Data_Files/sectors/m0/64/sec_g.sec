@@ -1,0 +1,66 @@
+@SUB-SECTOR:G SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Livlaan       1711 C635000-7    Ba Lo Ni           002 Im G3 V M9 V
+Khash         1713 B200278-8    Lo Ni Va           804 Im M7 III
+Vlear Khe     1714 C7C2000-7    Ba Fl Lo Ni        004 Im G7 VI
+Kigmuu        1716 B98A534-7    Ni Wa              605 Im M2 V
+Nar           1718 B785577-5    Ag Ni              134 Im F2 VI
+Maer          1719 E527000-0    Ba Lo Ni           013 Im M9 V
+Giash         1812 E250000-3    Ba De Lo Ni Po     004 Im F0 V
+Kiguu         1813 D571120-6    Lo Ni              500 Im K5 V
+Laar          1814 D799358-6    Lo Ni              714 Im G2 D
+Marruu        1815 D574000-6    Ba Lo Ni           000 Im F2 V M2 D M2 D
+Ashgi         1816 B573324-A    Lo Ni              203 Im G0 V
+Divliikha     1817 C311866-8    Na                 912 Im K2 V M1 D
+Irkkii        1818 E646420-3    Lo Ni              622 Im F0 V
+Ashzu         1819 E575356-5    Lo Ni              521 Im F3 D
+Giduur        1820 E373322-1    Lo Ni              715 Im K8 V
+Sam           1911 B686126-7    Lo Ni              104 Im F5 D
+Uurka Sen     1912 C487300-8    Lo Ni              125 Im F1 V M4 D
+Giliak        1913 CAB7344-6    Fl Lo Ni           802 Im G2 V
+Anin Ishir    1915 C96A79C-6    Wa                 500 Im G2 D
+Ocho          1920 D264443-6    Lo Ni              514 Im M8 D
+Liuu Ka       2012 A000100-C    As Lo Ni Va        901 Im M3 V K9 D
+Empuuir       2013 A868543-9    Ag Ni              610 Im G3 D
+Gerpa Ad      2111 CA9A000-7    Ba Lo Ni Wa        003 Im F9 V M2 D
+Ankha Vluug   2112 C485578-8    Ag Ni              804 Im G4 V M2 D
+Amkha Gamer   2113 D110000-6    Ba Ic Lo Ni        023 Im K4 V
+Uumaan An     2114 C98A341-9    Lo Ni Wa           104 Im G8 D
+Khikma Ga     2115 B6AA000-A    Ba Fl Lo Ni Wa     000 Im M1 V
+Irgi          2117 E160100-7    De Ic Lo Ni        504 Im G3 V
+Asma          2118 D676313-5    Lo Ni              404 Im K6 D M1 D
+Nir           2212 C99A432-7    Lo Ni Wa           321 Im K4 D M2 D
+Kashmi        2213 E446500-4    Ag Ni              600 Im G0 VI
+Kiir          2216 C464561-9    Ag Ni              103 Im M1 D M5 D
+Daeshpamuuk   2218 D897000-2    Ba Lo Ni           013 Im G3 V M3 D
+Apkara        2219 E425321-6    Lo Ni              911 Im M3 V M8 D
+Suuglad       2220 B433000-A    Ba Lo Ni Po        004 Im G8 V
+Irale         2315 B898875-8                       620 Im F9 VI
+Emki          2316 E653513-4    Ni Po              804 Im K4 VI M3 D
+Saam          2320 E798000-2    Ba Lo Ni           012 Im F7 V M9 D
+Gadli Sha     2411 EAB4000-3    Ba Fl Lo Ni        024 Im M1 V
+Daaud Kar     2413 B8A6857-9    Fl                 603 Im K1 IV
+Ara Ar        2417 C898000-4    Ba Lo Ni           023 Im G0 VI

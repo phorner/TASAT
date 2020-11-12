@@ -1,0 +1,58 @@
+@SUB-SECTOR:B SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Daiik         0903 B262132-8    Lo Ni              704 Im K4 D M8 D
+Aarle         0904 E230542-6    De Ni Po           523 Im M2 V M4 D
+Pritine       0906 D483557-A    Ni                 924 Im G4 V
+Zedesu        0908 C354AA9-7    Hi                 902 Im F4 V
+Iisan Karash  1001 C526489-8    Lo Ni              903 Im M2 V
+Duuu          1002 B4507AC-B    De Po              100 Im M7 D
+Shiplishkair  1006 E586000-5    Ba Lo Ni           004 Im G9 VI
+Shaaaar       1101 E69A000-7    Ba Lo Ni Wa        012 Im K4 V
+Khashiir Lar  1104 E683263-0    Lo Ni              114 Im F1 D
+Kisha Uur     1105 D522000-4    Ba Lo Ni Po        014 Im A7 II
+Buumka        1106 B878000-9    Ba Lo Ni           013 Im F0 D M7 D
+Gumurlag      1109 B797689-B    Ag Ni              704 Im G0 V
+Anuush        1201 A320578-9    De Ni Po           702 Im K1 V M0 D
+Gaar          1202 B687000-7    Ba Lo Ni           001 Im F5 V M4 D
+Girk          1203 C54A576-5    Ni Wa              200 Im K4 D
+Giindii Min   1205 E749000-4    Ba Lo Ni           011 Im F2 V M9 D
+Lishmiidrin   1206 A443447-9    Lo Ni Po           224 Im G2 VI
+Muuer         1210 B353000-8    Ba Lo Ni Po        014 Im K9 VI
+Duurgin Rii   1301 C568243-7    Lo Ni              313 Im K4 VI M2 D
+Irni Irlas    1305 E748000-3    Ba Lo Ni           024 Im F1 V
+Namirer       1307 E200000-4    Ba Lo Ni Va        012 Im K6 VI M5 D
+Niirkem       1310 C343200-5    Lo Ni Po           504 Im F6 VI
+Miirniga      1403 E666000-2    Ba Lo Ni           012 Im G8 D
+Rikeakle      1404 C572311-6    Lo Ni              414 Im F0 V M0 D
+Mesh          1501 E553578-3    Ni Po              105 Im G3 V
+Asidaan       1502 A767312-A    Lo Ni              604 Im G1 V
+Lukhas        1504 E54A000-4    Ba Lo Ni Wa        024 Im G6 D M7 D
+Irii          1508 B000100-9    As Lo Ni Va        223 Im K5 IV M5 D
+Parip Sha     1509 B000344-B    As Lo Ni Va        403 Im K2 V
+Ari           1603 B555100-8    Lo Ni              704 Im M9 D
+Maaangir      1604 B100000-A    Ba Lo Ni Va        013 Im M4 V
+Gashi         1608 D400435-3    Lo Ni Va           612 Im M3 V K2 D
+Nidar         1610 C968689-6    Ag Ni              404 Im K4 V M2 D

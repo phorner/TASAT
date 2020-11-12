@@ -1,0 +1,62 @@
+@SUB-SECTOR:K  SECTOR:Lishun
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kensus        1722 E895633-6    Ag Ni              503 Im K3 VI          
+Gar           1723 C75A100-5    Lo Ni Wa           102 Im F4 VI          
+Khaain Shi    1724 C000112-7    As Lo Ni Va        614 Im M4 V M5 D      
+Baki          1725 C888200-5    Lo Ni              400 Im K1 D           
+Iinin Uush    1730 A867531-B    Ag Ni              913 Im K7 D M3 D      
+Shigiir Na    1823 C140642-B    De Ic Ni Po        801 Im F5 D           
+Laak          1826 C355000-7    Ba Lo Ni           000 Im K4 VI M1 D     
+Iskhi         1827 E335263-5    Lo Ni              521 Im K9 III M4 V    
+Mira          1829 E120000-5    Ba De Ic Lo Ni Po  000 Im G5 VI M4 D     
+Khiiniin Uus  1922 D330000-9    Ba De Lo Ni Po     014 Im M3 V M1 D      
+Irkaamguus    1923 E100000-6    Ba Lo Ni Va        001 Im M6 V           
+Sharna        1926 C736000-6    Ba Lo Ni           010 Im G3 V M0 D      
+Aamim Daadun  1927 C898200-8    Lo Ni              623 Im F8 D M9 D      
+Kiim          1929 B98A632-A    Ni Wa              501 Im F7 D           
+Khigres       1930 E000100-8    As Lo Ni Va        720 Im M0 V K1 D      
+Iirma         2021 D545774-3    Ag                 304 Im F4 V M5 D      
+Enshap        2022 D234555-9    Ni                 100 Im A2 V           
+Mirsha Nu     2023 A427000-C    Ba Lo Ni           001 Im K3 III         
+Eruuranir     2024 B200335-9    Lo Ni Va           903 Im M1 V           
+Mine          2025 B130312-C    De Ic Lo Ni Po     200 Im M4 V           
+Gani Kauus    2122 C483000-8    Ba Lo Ni           000 Im F2 V           
+Giiadger      2124 A56248C-9    Lo Ni              125 Im K5 D M6 D      
+Gaga Khu      2126 E487444-3    Lo Ni              700 Im K5 VI          
+Iiram Aas     2127 C596343-5    Lo Ni              903 Im G9 V M6 D      
+Naan          2129 E73A148-6    Lo Ni Wa           220 Im M7 V           
+Iriid         2222 D410000-8    Ba Lo Ni           023 Im M5 III         
+Khimlaa Am    2224 E332000-6    Ba Lo Ni Po        023 Im M3 VI          
+Kagi          2226 B501000-6    Ba Lo Ni Va        033 Im M8 III         
+Ipan          2228 D63A895-9    Wa                 102 Im G2 V           
+Kariinpesh    2321 D323000-7    Ba Lo Ni Po        004 Im M2 VI M7 D     
+Uukaash Ne    2326 D8AA000-6    Ba Fl Lo Ni Wa     010 Im K3 V M0 D      
+Iiris Is      2329 B537743-7                       110 Im K2 V           
+Liguum        2423 E100221-7    Lo Ni Va           803 Im G2 V           
+Aarnamsha     2424 E300100-5    Lo Ni Va           902 Im M1 V           
+Aguun Ar      2426 E646000-3    Ba Lo Ni           000 Im K0 D M8 D      
+Renmiruur     2427 C342420-8    Lo Ni Po           700 Im F3 D M7 D      
+Ludmii        2428 B251000-8    Ba Lo Ni Po        005 Im F4 V           

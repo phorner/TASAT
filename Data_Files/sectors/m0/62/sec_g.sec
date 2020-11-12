@@ -1,0 +1,59 @@
+@SUB-SECTOR:G SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Enaa          1716 B3008CC-0    Na Va              502 Im M2 V   
+Vland         1717 B967343-0    Lo Ni              220 Im K8 V  
+Kirma         1718 A797000-0    Ba Lo Ni           025 Im G8 V K2 D     
+Uushiish Uunap1719 E586468-0    Lo Ni              403 Im M6 VI F2 D   
+Anaam         1811 C424454-0    Lo Ni              210 Im G1 V      
+Khusher       1813 D6A6364-0    Fl Lo Ni           622 Im G5 VI G9 D    
+Shinla        1816 C160445-0    De Ic Lo Ni        634 Im F2 III M9 V  
+Tauri         1817 A130897-0    De Ic Na Po        220 Im K3 V        
+Arirk         1819 D9E2111-0    Fl Lo Ni           520 Im F3 V       
+Kha           1820 B86A000-0    Ba Lo Ni Wa        024 Im M6 II     
+Giinam        1915 C265000-0    Ba Lo Ni           004 Im M9 V        
+Kipii         1916 C130000-0    Ba De Ic Lo Ni Po  002 Im M3 V       
+Daer Map      1918 E496610-0    Ag Ni              520 Im F8 V         
+Khula         1919 B475AAA-0    Hi In              810 Im M6 V        
+Inkha         1920 B797113-0    Lo Ni              110 Im M6 V F4 D  
+Isbudin       2013 D9C5223-0    Fl Lo Ni           523 Im F6 V M7 V      
+Guuish        2016 C736345-0    Lo Ni              402 Im M1 V M1 V     
+Tahaver       2017 C769A86-0    Hi                 410 Im M8 V         
+Diipa         2019 E554133-0    Lo Ni              610 Im F2 V M3 V   
+Shushguum     2020 C522146-0    Lo Ni Po           124 Im G6 V      
+Flire         2111 D779851-0                       823 Im A8 V      
+Ishala        2113 D866553-0    Ag Ni              304 Im M7 V     
+Bishiin Gisha 2115 E533000-0    Ba Lo Ni Po        001 Im M5 V K2 V    
+Uri           2117 A313141-0    Lo Ni              920 Im F9 V        
+Pyam          2120 B799000-0    Ba Lo Ni           020 Im M7 V       
+Inbuu Am      2211 B568000-0    Ba Lo Ni           023 Im M7 V         
+Ashbakha      2216 B672000-0    Ba Lo Ni           001 Im M4 V K9 D   
+Dangasha      2314 D350766-0    De Po              701 Im M9 V        
+Kagush        2316 A463000-0    Ba Lo Ni           024 Im K6 V       
+Duugguur      2319 A766A75-0    Hi                 825 Im G6 V G2 V 
+Gidapisek     2320 B200333-0    Lo Ni Va           610 Im K7 V     
+Ansin         2412 E563A9D-0    Hi                 420 Im F2 V F2 V 
+Liisurkhish   2416 B362412-0    Lo Ni              310 Im K0 V  M2 D    
+Eshiirmagi    2419 E200000-0    Ba Lo Ni Va        010 Im M6 V M2 D    

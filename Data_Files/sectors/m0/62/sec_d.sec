@@ -1,0 +1,53 @@
+@SUB-SECTOR:D SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Garashlii     2501 B623100-0    Lo Ni Po           223 Im M0 III A1 D   
+Rhodes        2502 C413100-0    Lo Ni              102 Im F0 III M5 V  
+Shunisar      2507 D556654-0    Ag Ni              101 Im M9 V M6 V   
+Zipuush       2508 E425100-0    Lo Ni              810 Im M7 V       
+Daztsoun      2602 C456000-0    Ba Lo Ni           011 Im F7 V   
+Uungir Uum    2603 C100342-0    Lo Ni Va           801 Im M9 V M3 D    
+Uurer Ind     2604 C300200-0    Lo Ni Va           701 Im M0 V        
+Raltaedz      2605 C130000-0    Ba De Ic Lo Ni Po  004 Im M1 III     
+Gakhe Aand    2610 E571666-0    Ni                 201 Im F8 V M2 D 
+Uurvlaa       2804 B989225-0    Lo Ni              102 Im M9 V    
+Paval         2806 C581000-0    Ba Lo Ni           024 Im M3 V   
+Spinport      2808 D575621-0    Ag Ni              420 Im M8 V       
+Khaais Aargim 2905 E453000-0    Ba Lo Ni Po        034 Im K8 VI      
+Akkunat       2907 D878000-0    Ba Lo Ni           001 Im M4 V K8 VI
+Kaaiim        2909 D344000-0    Ba Lo Ni           023 Im M8 V     
+Arnuu Ish     3002 D327879-0                       514 Im F1 V       
+Amuum         3003 E9A9000-0    Ba Fl Lo Ni        020 Im F2 V      
+Shupin        3004 B511400-0    Lo Ni              134 Im F1 V     
+Mukata        3006 B310443-0    Lo Ni              401 Im F0 V M3 V     
+Shishaldin    3008 D3208DB-0    De Na Po           603 Im M6 V         
+Arga          3106 C300315-0    Lo Ni Va           510 Im M7 V M8 V   
+Theton        3107 BABA59A-0    Fl Ni Wa           710 Im M0 V K1 VI 
+Irkhuu Paar   3201 C676323-0    Lo Ni              903 Im M8 V     
+Ushir         3202 E665452-0    Lo Ni              520 Im M6 V F8 D      
+Kuir          3206 E8AA000-0    Ba Fl Lo Ni Wa     020 Im M0 V          
+Sardia        3208 E236337-0    Lo Ni              333 Im K6 III       
+Sagemesh      3209 E684135-0    Lo Ni              604 Im M8 V        
+Tasho         3210 E225100-0    Lo Ni              222 Im K1 IV      

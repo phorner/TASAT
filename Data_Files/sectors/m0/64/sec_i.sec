@@ -1,0 +1,56 @@
+@SUB-SECTOR:I SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Karli Dem     0123 D328555-9    Ni                 104 Im K5 III M8 D
+Lir           0124 B264244-8    Lo Ni              500 Im G3 V M2 D
+Lake          0125 B8B0677-9    De Ni              700 Im K6 IV M8 D
+Daakhaan      0126 B515000-7    Ba Lo Ni           004 Im M3 V M5 D
+Anshaa Lamleg 0127 C85A351-7    Lo Ni Wa           904 Im F3 V
+Vliririar     0128 D510244-6    Lo Ni              300 Im K4 V
+Ganshe        0223 D645000-7    Ba Lo Ni           004 Im F6 D
+Imararik      0224 D574000-3    Ba Lo Ni           002 Im K2 D M2 D
+Vlaark        0225 E554000-5    Ba Lo Ni           000 Im K0 VI
+Inuug         0227 D220888-5    De Na Po           504 Im F3 D M0 D
+Berashzuu     0323 E444200-4    Lo Ni              103 Im G5 VI
+Erzaa         0327 B792412-7    Lo Ni              604 Im F0 V
+Anir          0421 C486000-7    Ba Lo Ni           013 Im K1 V M6 D
+Kigi          0423 B672136-6    Lo Ni              713 Im M3 V M9 D
+Kala Sha      0524 B457100-9    Lo Ni              610 Im M4 V M7 D
+Suunu         0527 D333100-6    Lo Ni Po           522 Im K1 V
+Kip           0528 E220000-6    Ba De Lo Ni Po     011 Im K1 VI M0 D
+Maashii       0623 E776337-0    Lo Ni              303 Im F4 V M5 D
+Biiluu        0626 A510677-8    Na Ni              404 Im M1 V M4 D
+Shiguu        0627 BA67644-9    Ag Ni              112 Im K1 D M1 D
+Endain        0628 C000000-B    As Ba Lo Ni Va     012 Im M3 V M1 D
+Luumgi        0722 C98A000-9    Ba Lo Ni Wa        005 Im G1 V M1 D M4 D
+Amvlakhir     0724 B240988-9    De Hi In Po        610 Im G7 D
+Gashash Khash 0725 D342221-4    Lo Ni Po           700 Im F1 D
+Kier          0726 D778300-4    Lo Ni              401 Im K0 V M0 D
+Naila         0727 E786000-5    Ba Lo Ni           000 Im G9 VI M6 D
+Kuudi Li      0728 C774100-5    Lo Ni              101 Im K0 V
+Kaarda        0821 C410344-5    Lo Ni              124 Im K4 V
+Eshiir        0823 E322400-4    Lo Ni Po           123 Im G6 D
+Idsiuug       0824 C999000-5    Ba Lo Ni           002 Im K4 V
+Guuiir        0827 D463440-5    Lo Ni              204 Im G0 VI

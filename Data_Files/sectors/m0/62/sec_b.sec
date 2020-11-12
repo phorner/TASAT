@@ -1,0 +1,56 @@
+@SUB-SECTOR:B SECTOR:Vland
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Otsaellghue   0902 A225100-0    Lo Ni              303 Im K9 V      
+Iishashun     0906 D625000-0    Ba Lo Ni           013 Im A3 IV    
+Jiinasha      0909 D200000-0    Ba Lo Ni Va        020 Im M4 III  
+Vlimla        1001 D525557-0    Ni                 910 Im K0 V M6 D
+Iduunkhaa     1003 B340200-0    De Lo Ni Po        311 Im M5 V    
+Giar          1004 EA7A000-0    Ba Lo Ni Wa        020 Im M4 V       
+Laaru         1007 D69A532-0    Ni Wa              324 Im G7 IV     
+Azu           1102 A447653-0    Ag Ni              401 Im M7 VI M3 D
+Gash          1104 E885000-0    Ba Lo Ni           010 Im F2 V K6 D
+Khirmii       1107 B332475-0    Lo Ni Po           722 Im G2 V    
+Vakhoneri     1108 D76A833-0    Wa                 710 Im M8 III 
+Suragginsu    1109 E333200-0    Lo Ni Po           511 Im F6 V M8 D     
+Liwar         1110 C350000-0    Ba De Lo Ni Po     005 Im K2 V         
+Vliias        1201 D573535-0    Ni                 101 Im M1 VI K0 D    
+Zuudim        1202 E430640-0    De Na Ni Po        520 Im K9 VI        
+Kin           1203 C322000-0    Ba Lo Ni Po        034 Im F3 II K0 II 
+Dekag         1206 D234356-0    Lo Ni              902 Im M1 V       
+Vhodan        1208 B7586AC-0    Ag Ni              523 Im G1 II K0 IV   
+Khirkle       1309 E577578-0    Ag Ni              621 Im K8 V  
+Deraan        1403 B4268CD-0                       610 Im M4 V     
+Diiron        1405 C89A586-0    Ni Wa              704 Im G3 V    
+Miirmamuum    1406 C98A7CA-0    Wa                 521 Im M0 V   
+Guusimka      1407 E539A96-0    Hi In              511 Im M6 V  
+Maran         1408 B3529BB-0    Hi Po              822 Im M7 V 
+Kium          1410 D8D3110-0    Fl Lo Ni           920 Im K3 V G4 V     
+Odinaga       1505 B201123-0    Lo Ni Va           803 Im M0 V M5 D    
+Audhumla      1509 B98A100-0    Lo Ni Wa           501 Im M5 V G1 D   
+Gamgilebo     1604 C000456-0    As Lo Ni Va        412 Im F4 IV M1 VI M1
+Dannar        1606 C200100-0    Lo Ni Va           120 Im F6 V M3 D    
+Mamkha        1608 E746000-0    Ba Lo Ni           001 Im M9 V        
+Iirguuli      1609 C11058A-0    Ic Ni              301 Im M5 V       

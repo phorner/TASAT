@@ -1,0 +1,65 @@
+@SUB-SECTOR:A SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kai Buu       0102 D756420-5    Lo Ni              214 Im G5 D
+Lampigas      0103 E000000-5    As Ba Lo Ni Va     023 Im K8 V
+Anir          0108 CABA526-9    Fl Ni Wa           715 Im M4 V M2 D
+Irduukam      0110 E798000-3    Ba Lo Ni           003 Im G2 V
+Occulun       0203 C242554-8    Ni Po              400 Im K3 V M1 D
+Urishaak      0204 E6749AE-3    Hi In              103 Im F8 D
+Usba Kaarki   0206 D364100-5    Lo Ni              604 Im F3 D M9 D
+Shiriik Ka    0207 B989A9A-C    Hi                 502 Im G0 VI
+Kardaa        0210 D566400-6    Lo Ni              805 Im M3 D
+Bumkuumim     0302 B0007CF-B    As Na Va           923 Im M0 V
+Gumi          0304 C646100-6    Lo Ni              202 Im G4 V
+Laaraam       0307 C549000-6    Ba Lo Ni           012 Im F6 D M4 D
+Irshii        0309 B344310-8    Lo Ni              902 Im K8 D M4 D
+Kim           0310 D686456-3    Lo Ni              504 Im G2 V
+Kamaaa        0402 E553120-3    Lo Ni Po           213 Im G0 V M5 D
+Idki          0403 C544788-6    Ag                 714 Im K1 D
+Sham          0404 E100679-6    Na Ni Va           613 Im M3 V
+Khazu Ar      0406 C428313-9    Lo Ni              102 Im M2 V
+Shishguurki   0408 C332000-5    Ba Lo Ni Po        013 Im M3 V
+Dirish        0409 E463000-5    Ba Lo Ni           012 Im K8 D
+Suuker        0410 B759687-8    Ni                 304 Im G1 V
+Girkig        0503 B88A000-8    Ba Lo Ni Wa        003 Im F2 V
+Gaaag         0505 D536230-2    Lo Ni              105 Im K2 D M1 D
+Khuuir        0507 C758554-5    Ag Ni              510 Im F3 VI
+Buuim         0508 C858000-6    Ba Lo Ni           024 Im G4 D M9 D
+Kaabuurarar   0602 A8A7630-A    Fl Ni              801 Im M9 IV M9 D
+Shiga Kaska   0603 D380521-8    De Ni              824 Im M6 D M4 D
+Mami Shi      0604 D100000-5    Ba Lo Ni Va        001 Im A2 V
+Nerim Gaa     0605 E336000-2    Ba Lo Ni           003 Im M2 V
+Dirk          0607 B364100-9    Lo Ni              722 Im F9 D M1 D
+Mam           0609 B736332-A    Lo Ni              404 Im A0 V
+Uundpuu       0702 C365000-5    Ba Lo Ni           034 Im G2 V M5 D
+Ashii Me      0704 D464611-5    Ag Ni              503 Im G4 V M0 D
+Askhirk       0707 B563656-7    Ni                 513 Im F4 V
+Lar           0801 E948000-5    Ba Lo Ni           003 Im F2 VI M8 D
+Khaaran       0804 D895100-4    Lo Ni              214 Im G2 D
+Shakam        0806 B586986-A    Hi                 321 Im G5 D
+Nuun          0808 C643431-6    Lo Ni Po           705 Im G3 D
+Gis           0809 B310158-A    Lo Ni              913 Im M4 D M5 D
+Ladshake      0810 A974114-8    Lo Ni              810 Im G3 D

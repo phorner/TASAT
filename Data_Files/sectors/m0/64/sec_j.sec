@@ -1,0 +1,62 @@
+@SUB-SECTOR:J SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Iimar         0921 C352565-7    Ni Po              903 Im K9 D
+Lar           0924 E74A000-5    Ba Lo Ni Wa        000 Im K5 D M7 D
+Rinaa         0929 D57A877-4    Wa                 723 Im F8 VI
+Dakhari       1023 D436244-4    Lo Ni              612 Im M0 VI
+Gash          1027 C3607BE-7    De                 303 Im K6 D
+Uurkhaur      1029 D582885-6                       714 Im F2 D
+Shavlu        1121 C301455-8    Lo Ni Va           604 Im M4 V
+Aarli Im      1122 D686000-1    Ba Lo Ni           013 Im F7 V M2 D M3 D
+Magin Irur    1125 D686344-4    Lo Ni              823 Im F4 VI
+Kaka          1127 E000434-7    As Lo Ni Va        700 Im G4 V M0 D
+Guuuu Shuu    1129 E586548-3    Ag Ni              224 Im F1 V M4 D M8 D
+Shaki         1130 D372545-5    Ni                 114 Im G9 D
+Lii Khan      1221 C200000-A    Ba Lo Ni Va        015 Im M4 V M9 D
+Shuuim Gaanguu1222 CAD1000-7    Ba Fl Lo Ni        000 Im K0 V
+Shuuanid      1225 E98A575-4    Ni Wa              911 Im G0 V
+Lesgireshar   1226 E682000-3    Ba Lo Ni           002 Im F8 D
+Kakaar        1228 DAD376A-8    Fl                 304 Im M1 V
+Uushar        1321 E437130-4    Lo Ni              604 Im M2 V
+Baash         1323 A656AEC-9    Hi                 504 Im G8 VI
+Shainle       1324 B263556-9    Ni                 120 Im K9 V
+Kaapar        1328 C89A6AB-7    Ni Wa              205 Im F3 D
+Khiuur Idmesh 1329 B98A000-7    Ba Lo Ni Wa        003 Im G4 D
+Gipum         1424 A110655-A    Ic Na Ni           401 Im M2 D M0 D
+Apla Daand    1425 C667774-8    Ag                 501 Im F2 VI
+Parar         1427 D977300-4    Lo Ni              604 Im F2 V
+Keid          1428 E265862-2                       103 Im F0 VI
+Livla Imaam   1521 E220221-5    De Lo Ni Po        803 Im M2 D
+Imsiiuus      1523 D66A110-5    Lo Ni Wa           204 Im G0 VI
+Uupe          1525 E561ABB-0    Hi                 824 Im G1 V
+Mein Khaaga   1527 A465000-B    Ba Lo Ni           002 Im G7 D
+Kuuasaa       1528 B677000-7    Ba Lo Ni           005 Im F6 VI
+Uushes        1529 D210100-5    Lo Ni              802 Im M9 V
+Len           1530 E77A457-4    Lo Ni Wa           901 Im G2 V
+Khimaar Kher  1624 CAD77BD-8    Fl                 104 Im M1 V
+Squire        1625 D490766-A    De                 610 Im G1 V
+Likir         1627 E474000-6    Ba Lo Ni           003 Im K0 D
+Nukuu         1628 D5157AD-6                       101 Im M4 V M7 D

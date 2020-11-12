@@ -1,0 +1,61 @@
+@SUB-SECTOR:K SECTOR:Antares
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Liine Gi      1722 E110545-7    Ic Ni              304 Im K2 V
+Girduur       1723 E698550-3    Ag Ni              114 Im G3 V
+Zeuushka      1726 C4136BB-5    Na Ni              623 Im M6 D M5 D
+Emshaan Zi    1822 A679223-A    Lo Ni              600 Im G5 D M2 D
+Uruun Lida    1825 D887213-6    Lo Ni              703 Im F4 V M5 D
+Gadduga       1826 B501000-8    Ba Lo Ni Va        003 Im G3 III M6 VI
+Markdig Me    1921 E110621-4    Ic Na Ni           124 Im M0 V
+Uurki As      1923 B755300-7    Lo Ni              502 Im F1 V M7 D
+Khuushesh Vlas1925 E311000-3    Ba Lo Ni           004 Im M8 D M4 D
+Asimuuk       1926 E676668-2    Ag Ni              103 Im G3 V M7 D
+Kudii Ki      2021 C544200-8    Lo Ni              912 Im F8 D M6 D
+Ipvlunbiash   2022 C767000-6    Ba Lo Ni           000 Im F3 V M6 D
+Makhi         2024 C765132-4    Lo Ni              400 Im F9 D M4 D M5 D
+Kiiem         2025 AA6A448-9    Lo Ni Wa           211 Im F4 V
+Daam          2026 D635000-4    Ba Lo Ni           013 Im K2 V
+Liikhuugkhi   2030 C637000-8    Ba Lo Ni           012 Im G9 V M0 D
+Vliguur       2121 E234414-4    Lo Ni              803 Im M4 V
+Aanshand Vle  2122 A234585-A    Ni                 200 Im M0 II
+Luir          2126 E300000-4    Ba Lo Ni Va        002 Im M1 V M9 VI
+Bashu         2127 D879000-8    Ba Lo Ni           003 Im F2 D
+Gindiiga      2128 E556100-2    Lo Ni              502 Im G1 V
+Dadish Uunkuu 2130 E350000-4    Ba De Lo Ni Po     000 Im G5 D M4 D
+Ensiikhuu     2223 B10097A-A    Hi Na Va           200 Im G7 III M0 D M1
+Ershuu Khunaa 2224 C220100-8    De Lo Ni Po        220 Im M2 V
+Amgi Du       2227 B653546-6    Ni Po              113 Im M2 V
+Bad           2228 C432410-5    Lo Ni Po           522 Im M1 V M9 D
+Anuza         2229 E251642-9    Ni Po              413 Im K6 VI
+Piikhi Ir     2324 C797346-8    Lo Ni              300 Im F7 D M2 D
+Uunduu Ig     2326 C587331-4    Lo Ni              204 Im G1 V
+Reanduush     2328 D683577-4    Ni                 302 Im G1 V
+Vlakuuaag     2330 E572215-4    Lo Ni              403 Im F4 D
+Antares       2421 A762789-B                       621 Im M1 Ib A0 VI
+Naara         2422 E550200-0    De Lo Ni Po        100 Im K2 V M0 D M7 D
+Ansenz        2425 B547AAD-A    Hi In              703 Im G2 V M9 D
+Guesh         2426 D785000-3    Ba Lo Ni           003 Im F1 D
+Shaan         2427 C350595-6    De Ni Po           322 Im G2 D

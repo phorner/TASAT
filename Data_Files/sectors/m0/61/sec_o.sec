@@ -1,0 +1,46 @@
+@SUB-SECTOR:O SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Nuuze         1832 B551100-8    Lo Ni Po           201 Im G2 V M2 D
+Giiraashar    1840 B898342-A    Lo Ni              713 Im G5 V    
+Gaiemi        2037 A201543-B    Ni Va              413 Im F9 V
+Kiun          2039 B686000-6    Ba Lo Ni           001 Im K1 V M9 D
+Shimni        2040 B757540-A    Ag Ni              404 Im K0 V    
+Mim           2135 E427100-4    Lo Ni              414 Im F1 V G2 V  
+Shigagaki     2136 C223743-6    Na Po              401 Im M8 V K4 D 
+Inarli        2137 B677551-B    Ag Ni              214 Im M6 V     
+Amiinar       2140 D483143-5    Lo Ni              803 Im M2 V    
+Shirdind      2234 E436522-5    Ni                 910 Im M8 V K0 V
+Kir           2235 B310333-C    Lo Ni              320 Im M2 V K3 V
+Aargap Esh    2238 C8C0534-5    De Ni              822 Im M5 V    
+Laar          2239 B57237B-7    Lo Ni              310 Im M9 V   
+Uumgi         2333 E466646-0    Ag Ni              935 Im F4 V G0 D
+Duueshshi     2334 D76A000-5    Ba Lo Ni Wa        021 Im F1 V M3 D
+Kham          2335 AA9A442-9    Lo Ni Wa           604 Im F2 V    
+Gir           2336 C456000-5    Ba Lo Ni           003 Im M3 V   
+Zeke Gind     2338 B360211-9    De Lo Ni           124 Im F0 V  
+Vlanshiariir  2435 D8B4598-5    Fl Ni              620 Im M1 V    
+Gika          2439 E9B4245-3    Fl Lo Ni           722 Im F6 V K6 VI
+Iruur         2440 E443000-4    Ba Lo Ni Po        001 Im G1 V M0 D

@@ -1,0 +1,36 @@
+@SUB-SECTOR:G SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Giiku Es      1711 B578135-9    Lo Ni              902 Im M2 V     
+Pinkhu Shaa   1712 C553000-7    Ba Lo Ni Po        010 Im M4 V M0 D
+Vliisdulium   1713 C6A5000-5    Ba Fl Lo Ni        022 Im K9 V    
+Lagi          1811 C637000-7    Ba Lo Ni           024 Im F6 V   
+Urgirduu      1912 C342259-5    Lo Ni Po           610 Im F7 V M1 D
+Guus          1913 E000664-3    As Na Ni Va        423 Im F7 II   
+Rin           2012 D525110-5    Lo Ni              310 Im F7 D M3 D
+Muumma        2111 E78A535-5    Ni Wa              612 Im G1 V    
+Diilugge      2116 C150100-8    De Ic Lo Ni Po     120 Im F0 V   
+Vluush        2212 D400000-9    Ba Lo Ni Va        010 Im M2 V    
+Irgirgi       2311 C545348-8    Lo Ni              510 Im M9 V K5 V 

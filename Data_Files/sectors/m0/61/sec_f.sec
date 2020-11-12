@@ -1,0 +1,45 @@
+@SUB-SECTOR:F SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Shiikha       0912 A36677B-C    Ag                 701 Im M2 V M7 D
+Uguund        0913 B3417AA-9    Po                 422 Im K9 V M7 VI
+Uugkuuurlii   0916 A445631-A    Ag Ni              924 Im F3 V
+Naagardaa     0918 D9D6113-1    Fl Lo Ni           201 Im M8 V M8 V
+Giuun         1011 D96A431-7    Lo Ni Wa           101 Im M2 D M3 D  
+Apki Aaa      1013 A532553-B    Ni Po              402 Im K6 V     
+Mariir        1111 C849000-8    Ba Lo Ni           022 Im A6 V    
+Khark         1112 B326000-A    Ba Lo Ni           023 Im M1 V   
+Shiipan       1213 C200000-7    Ba Lo Ni Va        002 Im M9 V G5 VI
+Galamund      1216 B577000-7    Ba Lo Ni           001 Im M8 V     
+Aarla I       1218 D658000-3    Ba Lo Ni           020 Im M4 V G9 D
+Gamin         1413 D442000-7    Ba Lo Ni Po        002 Im F7 V    
+Giish         1414 C412000-6    Ba Lo Ni           022 Im F7 V M9 D
+Zudagim       1415 E682777-3                       722 Im F4 V    
+Enki          1418 CAC8000-7    Ba Fl Lo Ni        022 Im M9 III 
+Luug          1511 B686346-C    Lo Ni              423 Im M4 V     
+Kish          1513 C362000-7    Ba Lo Ni           022 Im F4 III M8 D
+Luum          1514 E567000-3    Ba Lo Ni           012 Im F8 V M3 D 
+Ashima        1515 E443777-7    Po                 510 Im G6 V     
+Uugshi Shinii 1611 B63A689-8    Ni Wa              801 Im M4 V 

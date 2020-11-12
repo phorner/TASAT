@@ -1,0 +1,48 @@
+@SUB-SECTOR:E SECTOR:Corridor
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Guun          0111 E879000-5    Ba Lo Ni           022 Im F9 V
+Kilii Ar      0112 B354ACA-B    Hi                 501 Im M0 V K5 V
+Asiim         0113 A9B8332-A    Fl Lo Ni           301 Im M4 V K7 VI
+Bimesh Ma     0115 D676223-2    Lo Ni              524 Im M0 V
+Irar          0119 C615000-9    Ba Lo Ni           002 Im M3 V
+Shim          0213 B7C0530-6    De Ni              604 Im M6 V
+Immaagiin     0218 D582523-5    Ni                 635 Im G1 V
+Nimush        0311 E300000-1    Ba Lo Ni Va        023 Im G8 IV M8 D
+Amki          0312 D453415-5    Lo Ni Po           301 Im M6 V
+Yubitty       0313 D96A89C-6    Wa                 132 Im K9 V
+Giivluu Gaa   0411 C514146-5    Lo Ni              702 Im K2 V
+Lir           0416 A5A8998-9    Fl Hi              303 Im M2 V
+Irasumshu     0417 E554765-5    Ag                 901 Im M0 V
+Dikhaaa       0511 E322222-5    Lo Ni Po           422 Im M2 V
+Kakha Vla     0512 D543325-2    Lo Ni Po           214 Im M1 V
+Kiiama        0513 C331AEF-A    Hi In Na Po        725 Im K7 V
+Kain Diida    0516 E664000-0    Ba Lo Ni           014 Im M8 V
+Vlishummi     0611 B756000-8    Ba Lo Ni           001 Im M0 V
+Kanba         0614 D247330-8    Lo Ni              221 Im G5 VI M8 V
+Lasir Uush    0617 C223000-7    Ba Lo Ni Po        002 Im F9 V
+Khiishin      0714 C438000-A    Ba Lo Ni           010 Im M3 V M0 D
+Sumi Aruurk   0815 B494100-8    Lo Ni              101 Im M0 V
+Askizan       0816 A223332-B    Lo Ni Po           114 Im F6 V

@@ -1,0 +1,559 @@
+@SECTOR:Vland
+#
+# Milieu 0 version
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Eras          0101 E256231-0    Lo Ni              404 Im F5 V G6 VI   
+Kap           0102 E799000-0    Ba Lo Ni           010 Im M3 V        
+Akiim         0104 E332000-0    Ba Lo Ni Po        010 Im A9 III K8 D
+Gikkon        0105 E343100-0    Lo Ni Po           732 Im G8 IV G0 D
+Taraddiin     0107 D656220-0    Lo Ni              411 Im M9 V     
+Khuur         0109 C658442-0    Lo Ni              623 Im G1 V    
+Ossin         0110 C100888-0    Na Va              305 Im M5 V   
+Likii         0131 D763000-0    Ba Lo Ni           024 Im M8 V  
+Kald          0132 D2507AE-0    De Po              901 Im M1 V M1 D   
+Kuarsu        0134 E66A624-0    Ni Wa              323 Im F2 III     
+Sakin         0135 D330343-0    De Lo Ni Po        814 Im M4 III F9 V
+Shaaki        0137 C9B3120-0    Fl Lo Ni           220 Im M5 V F1 V 
+Diankhis      0202 D444300-0    Lo Ni              524 Im F8 II K2 D
+Bannon'S World0203 E100000-0    Ba Lo Ni Va        020 Im M3 V K6 V
+Khankari      0205 B885000-0    Ba Lo Ni           010 Im M2 V    
+Ipkaka        0209 E746335-0    Lo Ni              803 Im M2 V   
+Kuus          0210 E576110-0    Lo Ni              801 Im M5 V  
+Giikur        0211 B689000-0    Ba Lo Ni           010 Im M2 VI M9 D   
+Keshiil       0221 D530423-0    De Lo Ni Po        820 Im M2 V        
+Shimshirar    0232 E9C7759-0    Fl                 323 Im F7 III M2 V
+Nurrungar     0234 B649120-0    Lo Ni              110 Im M3 V M3 V
+Khishugii     0236 C120567-0    De Ic Ni Po        910 Im M6 V    
+Shashim       0237 B327235-0    Lo Ni              603 Im G8 V   
+Anert         0303 B9B3667-0    Fl Ni              710 Im G7 V  
+Daded         0306 B585000-0    Ba Lo Ni           010 Im M0 D K0 D   
+Khiiig Duumaa 0307 C8D279A-0    Fl                 301 Im M5 V M7 D  
+Omero         0311 A230000-0    Ba De Lo Ni Po     022 Im M3 V G8 D 
+Paspaa        0333 A454358-0    Lo Ni              810 Im K3 V G0 D
+Ishuus Pika   0335 D97A000-0    Ba Lo Ni Wa        020 Im M1 V    
+Parsi         0336 B989644-0    Ni                 824 Im M9 III 
+Vanessa       0338 E468000-0    Ba Lo Ni           010 Im M6 V K8 D   
+Jessheim      0340 AAC5100-0    Fl Lo Ni           125 Im M2 V       
+Dali          0402 D240100-0    De Lo Ni Po        401 Im F2 V K6 D 
+Gadad Daar    0403 D438000-0    Ba Lo Ni           020 Im G2 V     
+Katti         0404 A8A8100-0    Fl Lo Ni           704 Im M3 V    
+Shaddukan     0408 C622000-0    Ba Lo Ni Po        010 Im G1 V   
+Niirka        0422 A300443-0    Lo Ni Va           222 Im M9 III K5 D 
+Laaariim      0430 E6778DH-0                       622 Im G3 V       
+Answerin      0431 B5848BD-0                       520 Im A7 II G0 V
+Makhamen      0434 E000120-0    As Lo Ni Va        225 Im K1 V     
+Ganidam       0435 D100350-0    Lo Ni Va           401 Im M4 V M5 D 
+Meprim        0436 C300000-0    Ba Lo Ni Va        010 Im M7 V     
+Dar           0437 EA7A335-0    Lo Ni Wa           524 Im A8 V    
+Lugaluru      0502 C859000-0    Ba Lo Ni           001 Im M0 V   
+Iduushgaa     0506 B524568-0    Ni                 401 Im K0 V M3 V
+Kharta        0507 E352100-0    Lo Ni Po           304 Im K6 VI G9 D  
+Arfaan        0508 C767100-0    Lo Ni              913 Im M5 V       
+Pirrom        0530 A884100-0    Lo Ni              311 Im G2 V      
+Dand          0531 D9AA000-0    Ba Fl Lo Ni Wa     020 Im F1 V     
+Kinswana      0532 D110347-0    Ic Lo Ni           604 Im K6 V    
+Indi          0533 E668362-0    Lo Ni              701 Im M9 V M3 VI   
+Vluushuurgi   0534 C657400-0    Lo Ni              921 Im M9 V        
+Fauski        0536 B1208A9-0    De Ic Na Po        801 Im M5 V K0 D  
+Athanuez      0601 C100300-0    Lo Ni Va           201 Im K5 V M0 V 
+Sheshat       0605 A526000-0    Ba Lo Ni           024 Im F8 V     
+Rakurram      0610 C200100-0    Lo Ni Va           712 Im G7 V    
+Lalaki        0619 A9B3200-0    Fl Lo Ni           802 Im M3 V   
+Diriirlashmir 0622 E8B8237-0    Fl Lo Ni           715 Im M8 D  
+Marbiiimdi    0630 E455000-0    Ba Lo Ni           024 Im A3 III        
+Enbart        0631 B201334-0    Lo Ni Va           820 Im M1 V         
+Laam          0633 E454478-0    Lo Ni              310 Im K1 VI       
+Savvud        0635 C445347-0    Lo Ni              801 Im M5 V       
+Bood          0637 A240100-0    De Lo Ni Po        710 Im M0 V      
+Liigima       0639 C7C2000-0    Ba Fl Lo Ni        003 Im K9 V K2 V
+Aquacade      0640 A67A000-0    Ba Lo Ni Wa        020 Im M2 V    
+Unud          0701 D665165-0    Lo Ni              414 Im G0 D M5 D    
+Khigapka      0703 B797000-0    Ba Lo Ni           002 Im M2 V        
+Shiniis Li    0705 D727555-0    Ni                 110 Im M7 V       
+Miuuran       0707 E000000-0    As Ba Lo Ni Va     010 Im M4 V      
+Voskhod       0708 B110865-0    Ic Na              101 Im M1 V M0 D
+Kharzet       0709 A565000-0    Ba Lo Ni           001 Im M0 V G3 D    
+Rishiin       0711 D539100-0    Lo Ni              310 Im M2 V M7 V   
+Emaa Gir      0732 E524200-0    Lo Ni              822 Im G4 II M2 D
+Kishbar       0734 B301000-0    Ba Lo Ni Va        020 Im M2 V     
+Kuzey Anadolu 0737 D500635-0    Na Ni Va           403 Im K5 V K3 V      
+Daglari       0738 D110257-0    Ic Lo Ni           421 Im M9 V          
+Iriin         0739 D454578-0    Ag Ni              620 Im M7 III       
+Kirov         0740 B683644-0    Ni                 510 Im K5 V K4 VI  
+Diir          0801 E62A786-0    Wa                 110 Im M7 V       
+Kegirur       0804 E76A985-0    Hi Wa              401 Im M0 V      
+Anka          0806 E88A100-0    Lo Ni Wa           401 Im F9 V K8 D M8 D
+Kunumi        0807 A254000-0    Ba Lo Ni           021 Im A0 V         
+Igsudi        0831 C472352-0    Lo Ni              120 Im K6 V G4 V  
+Urmanaan      0832 C140000-0    Ba De Ic Lo Ni Po  002 Im M2 V      
+Gad           0833 E487000-0    Ba Lo Ni           010 Im M1 V     
+Khisber       0834 C87A000-0    Ba Lo Ni Wa        023 Im F6 V    
+Lashe         0835 E000000-0    As Ba Lo Ni Va     010 Im M2 V M9 D   
+Kiimiim       0839 B672000-0    Ba Lo Ni           003 Im G2 V       
+Otsaellghue   0902 A225100-0    Lo Ni              303 Im K9 V      
+Iishashun     0906 D625000-0    Ba Lo Ni           013 Im A3 IV    
+Jiinasha      0909 D200000-0    Ba Lo Ni Va        020 Im M4 III  
+Ganiir        0921 C423000-0    Ba Lo Ni Po        005 Im M3 V G5 V   
+Gazzum        0923 B54957B-0    Ni                 220 Im F2 V M2 D  
+Emirdur       0924 E745110-0    Lo Ni              801 Im M8 V      
+Havland       0927 C793787-0                       601 Im M2 V M0 D
+Ship          0930 E581583-0    Ni                 610 Im F3 V M0 VI   
+Arluk         0933 C411411-0    Lo Ni              313 Im M4 V        
+Imdakhun      0934 A203000-0    Ba Lo Ni Va        001 Im M5 V G5 VI 
+Rhyolite      0938 D360200-0    De Lo Ni           324 Im M0 V K7 III
+Karmuu Gaa    0939 E76A222-0    Lo Ni Wa           802 Im G8 V      
+Vlimla        1001 D525557-0    Ni                 910 Im K0 V M6 D
+Iduunkhaa     1003 B340200-0    De Lo Ni Po        311 Im M5 V    
+Giar          1004 EA7A000-0    Ba Lo Ni Wa        020 Im M4 V       
+Laaru         1007 D69A532-0    Ni Wa              324 Im G7 IV     
+Iren          1011 B8C1589-0    Fl Ni              314 Im K7 V M3 V
+Ashkhinaman   1012 C554000-0    Ba Lo Ni           002 Im M0 V G8 D  
+Apurshish     1028 C555758-0    Ag                 923 Im G8 VI         
+Iinirk        1032 D432000-0    Ba Lo Ni Po        023 Im A6 V K2 V    
+Ammuu         1033 C200000-0    Ba Lo Ni Va        020 Im G7 V F8 V   
+Isle          1038 E68AAAE-0    Hi Wa              101 Im M9 V K0 VI
+Azu           1102 A447653-0    Ag Ni              401 Im M7 VI M3 D
+Gash          1104 E885000-0    Ba Lo Ni           010 Im F2 V K6 D
+Khirmii       1107 B332475-0    Lo Ni Po           722 Im G2 V    
+Vakhoneri     1108 D76A833-0    Wa                 710 Im M8 III 
+Suragginsu    1109 E333200-0    Lo Ni Po           511 Im F6 V M8 D     
+Liwar         1110 C350000-0    Ba De Lo Ni Po     005 Im K2 V         
+Dikhir        1112 B8976B7-0    Ag Ni              310 Im F3 V        
+Shagi         1113 C898300-0    Lo Ni              520 Im F3 III     
+Gukhaga       1114 A877000-0    Ba Lo Ni           010 Im G4 V M6 D 
+Darmagu       1116 B412000-0    Ba Lo Ni           001 Im M9 V K5 V
+The Uris Belt 1117 C000000-0    As Ba Lo Ni Va     011 Im M1 V K5 V     
+Daku          1119 C332451-0    Lo Ni Po           804 Im K2 VI        
+Ideshe        1120 B969111-0    Lo Ni              620 Im M5 V G6 V   
+Shiku         1128 CAD4300-0    Fl Lo Ni           401 Im M5 V M4 V  
+Neegak        1131 C537200-0    Lo Ni              222 Im F8 V      
+Jupset        1134 C8C3000-0    Ba Fl Lo Ni        023 Im M1 V     
+Abalakova     1135 C465410-0    Lo Ni              922 Im M9 V F5 D     
+Daangiilu     1136 A565000-0    Ba Lo Ni           003 Im G2 V M4 D    
+Usaamkirkhiiri1137 E364000-0    Ba Lo Ni           014 Im K1 V        
+Gep           1138 D1308CG-0    De Ic Na Po        501 Im M1 VI M0 V 
+Uureg         1139 C2539BD-0    Hi Po              912 Im M4 V      
+Giinluun      1140 C675466-0    Lo Ni              301 Im M3 V K5 D 
+Vliias        1201 D573535-0    Ni                 101 Im M1 VI K0 D    
+Zuudim        1202 E430640-0    De Na Ni Po        520 Im K9 VI        
+Kin           1203 C322000-0    Ba Lo Ni Po        034 Im F3 II K0 II 
+Dekag         1206 D234356-0    Lo Ni              902 Im M1 V       
+Vhodan        1208 B7586AC-0    Ag Ni              523 Im G1 II K0 IV   
+Gagzoe        1211 A585000-0    Ba Lo Ni           002 Im M8 V M3 VI   
+Siruga        1215 C100000-0    Ba Lo Ni Va        001 Im M0 V K3 VI  
+Estoff        1217 B6B6000-0    Ba Fl Lo Ni        020 Im M2 V       
+Ramir         1219 D66A132-0    Lo Ni Wa           201 Im M2 V K8 V 
+Imik          1220 C263000-0    Ba Lo Ni           024 Im F1 II    
+Ashuur        1227 D232000-0    Ba Lo Ni Po        001 Im M6 V M3 V     
+Lekziika      1232 C88557A-0    Ag Ni              620 Im A9 V         
+Themistocles  1235 B333400-0    Lo Ni Po           701 Im M7 V F6 V   
+Irgaguu       1236 C351200-0    Lo Ni Po           610 Im F1 V       
+Ugzilii       1237 D755000-0    Ba Lo Ni           020 Im A0 V     
+Induush Shi   1238 D000000-0    As Ba Lo Ni Va     011 Im K1 V    
+Nelson        1240 E200000-0    Ba Lo Ni Va        020 Im M0 V   
+Khirkle       1309 E577578-0    Ag Ni              621 Im K8 V  
+Kema          1311 E100000-0    Ba Lo Ni Va        010 Im M2 V 
+Madi          1312 D432000-0    Ba Lo Ni Po        010 Im K4 V
+Aadas         1313 C778664-0    Ag Ni              914 Im M0 V          
+Anik          1317 D441000-0    Ba Lo Ni Po        011 Im M1 D         
+Irkhi Mamna   1319 E200000-0    Ba Lo Ni Va        021 Im M0 V       
+Robbuun       1323 B524240-0    Lo Ni              502 Im K0 V K7 D 
+Nii Khu       1332 B554253-0    Lo Ni              101 Im K0 V M3 D
+Lukham        1334 A464512-0    Ag Ni              902 Im F1 D K6 D     
+Eshkhii       1336 E140100-0    De Ic Lo Ni Po     611 Im F8 V K3 VI   
+Duamar        1337 D511242-0    Lo Ni              304 Im F5 V M5 V   
+Darm          1339 B100000-0    Ba Lo Ni Va        024 Im M5 D       
+Anishda       1340 E614000-0    Ba Lo Ni           002 Im M0 V      
+Deraan        1403 B4268CD-0                       610 Im M4 V     
+Diiron        1405 C89A586-0    Ni Wa              704 Im G3 V    
+Miirmamuum    1406 C98A7CA-0    Wa                 521 Im M0 V   
+Guusimka      1407 E539A96-0    Hi In              511 Im M6 V  
+Maran         1408 B3529BB-0    Hi Po              822 Im M7 V 
+Kium          1410 D8D3110-0    Fl Lo Ni           920 Im K3 V G4 V     
+Uummi         1412 D200599-0    Ni Va              101 Im M0 V         
+Centra        1414 B592000-0    Ba Lo Ni           024 Im M5 V        
+Astira        1417 C552300-0    Lo Ni Po           720 Im M0 V       
+Kagzag Kirmuu 1431 C558100-0    Lo Ni              610 Im M8 V M1 D 
+Agagir        1432 C330324-0    De Lo Ni Po        410 Im M4 II    
+Dakeshir      1435 C401000-0    Ba Lo Ni Va        002 Im M5 V    
+Igikuuni      1437 B797755-0    Ag                 622 Im G0 V   
+Zaal          1438 A896000-0    Ba Lo Ni           001 Im K4 V M5 VI    
+Odinaga       1505 B201123-0    Lo Ni Va           803 Im M0 V M5 D    
+Audhumla      1509 B98A100-0    Lo Ni Wa           501 Im M5 V G1 D   
+Luunbu        1515 E8A6000-0    Ba Fl Lo Ni        010 Im M4 V       
+Nar           1516 E464100-0    Lo Ni              410 Im M1 V      
+Kagamira      1519 B477542-0    Ag Ni              725 Im G4 V     
+Shulishu      1520 B352347-0    Lo Ni Po           710 Im M0 V K1 V     
+Gaap Em       1523 D510000-0    Ba Lo Ni           001 Im M0 V         
+Bakog         1530 B8A9130-0    Fl Lo Ni           232 Im G8 V        
+Shuud         1531 C322256-0    Lo Ni Po           610 Im M0 V       
+Samotk        1533 B100000-0    Ba Lo Ni Va        001 Im M1 V M8 VI
+Senkon        1534 D510000-0    Ba Lo Ni           023 Im M3 V G6 D
+Narpuule      1535 C326000-0    Ba Lo Ni           020 Im K0 V    
+Pamiimkhi     1536 D000000-0    As Ba Lo Ni Va     020 Im M6 V   
+Zarurza       1539 B95A241-0    Lo Ni Wa           912 Im M5 V F6 V G6 V
+Limed         1540 B330400-0    De Lo Ni Po        613 Im M2 V         
+Gamgilebo     1604 C000456-0    As Lo Ni Va        412 Im F4 IV M1 VI M1
+Dannar        1606 C200100-0    Lo Ni Va           120 Im F6 V M3 D    
+Mamkha        1608 E746000-0    Ba Lo Ni           001 Im M9 V        
+Iirguuli      1609 C11058A-0    Ic Ni              301 Im M5 V       
+Naaan         1612 E361133-0    Lo Ni              110 Im F6 V      
+Gapis         1619 C764224-0    Lo Ni              410 Im F3 III   
+Etsur         1623 D410436-0    Lo Ni              120 Im M4 III K3 D 
+Zushar        1624 D631642-0    Na Ni Po           211 Im M2 V K9 D  
+Bashimus      1625 A542343-0    Lo Ni Po           720 Im A4 V      
+Lalazim       1626 E8C4257-0    Fl Lo Ni           210 Im M5 V          
+Akumid        1628 A867000-0    Ba Lo Ni           023 Im K0 V         
+Miis          1630 E7B0354-0    De Lo Ni           103 Im M2 V        
+Imdur         1632 E240000-0    Ba De Lo Ni Po     010 Im M5 V       
+Darkishar     1633 C420000-0    Ba De Lo Ni Po     010 Im M9 V K0 VI
+Zishlam       1634 E756112-0    Lo Ni              513 Im G6 V G0 D
+Kis           1637 D451000-0    Ba Lo Ni Po        001 Im M1 V    
+Twana         1638 C353210-0    Lo Ni Po           920 Im M2 II G8 D M8 D
+Khira         1701 C624234-0    Lo Ni              410 Im M5 V          
+Lir           1703 C210000-0    Ba Lo Ni           001 Im F7 V M0 D    
+Kid           1704 E224246-0    Lo Ni              720 Im F1 V        
+Ugarun        1705 C7C0454-0    De Lo Ni           302 Im G8 V       
+Zelaklaka     1708 D7B2000-0    Ba Fl Lo Ni        001 Im M8 V M2 V 
+Zigaadig      1709 C541000-0    Ba Lo Ni Po        023 Im G9 V K6 D
+Din           1710 C884233-0    Lo Ni              101 Im M9 V    
+Enaa          1716 B3008CC-0    Na Va              502 Im M2 V   
+Vland         1717 B967343-0    Lo Ni              220 Im K8 V  
+Kirma         1718 A797000-0    Ba Lo Ni           025 Im G8 V K2 D     
+Uushiish Uunap1719 E586468-0    Lo Ni              403 Im M6 VI F2 D   
+Imiman        1722 D454000-0    Ba Lo Ni           004 Im A6 V G4 V   
+Kalimgar      1725 C799755-0                       824 Im A8 V       
+Gunavarum     1726 E553000-0    Ba Lo Ni Po        004 Im K0 V K1 D 
+Vliam         1728 B698000-0    Ba Lo Ni           020 Im G0 V     
+Kargem        1729 E110679-0    Ic Na Ni           220 Im G8 V M1 V      
+Lurkha        1730 C67478B-0    Ag                 920 Im F7 V          
+Kuun          1732 E8AA155-0    Fl Lo Ni Wa        910 Im M3 V         
+Miku          1734 B8C3337-0    Fl Lo Ni           904 Im M1 V        
+Zhinutar      1735 B312425-0    Lo Ni              804 Im G6 V M0 VI 
+Gaar Nila     1736 C528000-0    Ba Lo Ni           001 Im M5 V A9 V 
+Glanidarn     1740 E235862-0                       923 Im M2 V     
+Khushuush Giii1801 D567200-0    Lo Ni              202 Im M4 V    
+Khuus         1802 B545000-0    Ba Lo Ni           020 Im G8 V   
+Gim           1803 C645100-0    Lo Ni              822 Im G7 V  
+Arkhii Kasa   1804 B140437-0    De Ic Lo Ni Po     420 Im F2 III M8 D  
+Kuurkar Kuu   1807 C999000-0    Ba Lo Ni           001 Im K1 V G5 VI  
+Eshu          1810 D360000-0    Ba De Lo Ni        022 Im A3 V       
+Anaam         1811 C424454-0    Lo Ni              210 Im G1 V      
+Khusher       1813 D6A6364-0    Fl Lo Ni           622 Im G5 VI G9 D    
+Shinla        1816 C160445-0    De Ic Lo Ni        634 Im F2 III M9 V  
+Tauri         1817 A130897-0    De Ic Na Po        220 Im K3 V        
+Arirk         1819 D9E2111-0    Fl Lo Ni           520 Im F3 V       
+Kha           1820 B86A000-0    Ba Lo Ni Wa        024 Im M6 II     
+Iikhok        1821 C334200-0    Lo Ni              824 Im M8 V     
+Kasear        1822 A547730-0    Ag                 520 Im M2 V  G5 D   
+Karfir        1825 A753AC9-0    Hi Po              323 Im K4 V        
+Sindal        1830 C9B8300-0    Fl Lo Ni           301 Im G6 V M3 VI 
+Iinuup        1831 D546347-0    Lo Ni              325 Im M5 V K3 III  
+Shadi         1833 B597476-0    Lo Ni              201 Im M3 V G6 D   
+Gumi          1839 D778766-0    Ag                 403 Im M9 V       
+Ghurrllekh    1901 C560000-0    Ba De Lo Ni        020 Im M9 V      
+Gemid         1903 A423A62-0    Hi In Na Po        524 Im K0 V     
+Kiiip         1904 C576000-0    Ba Lo Ni           001 Im M4 V K4 VI   
+Zainmisha     1906 D9C5332-0    Fl Lo Ni           801 Im M8 V        
+Kakkin        1907 B423000-0    Ba Lo Ni Po        002 Im G8 V       
+Nashazi       1909 B300000-0    Ba Lo Ni Va        020 Im M2 III F7 IV
+Giinam        1915 C265000-0    Ba Lo Ni           004 Im M9 V        
+Kipii         1916 C130000-0    Ba De Ic Lo Ni Po  002 Im M3 V       
+Daer Map      1918 E496610-0    Ag Ni              520 Im F8 V         
+Khula         1919 B475AAA-0    Hi In              810 Im M6 V        
+Inkha         1920 B797113-0    Lo Ni              110 Im M6 V F4 D  
+Sagida        1923 C2239CB-0    Hi In Na Po        702 Im M6 V M0 V 
+Nimmer        1928 C420000-0    Ba De Lo Ni Po     024 Im G4 V     
+Sakhem        1929 C404000-0    Ba Lo Ni Va        010 Im M0 V    
+Ziirkago      1930 A878363-0    Lo Ni              213 Im F0 V   
+Kikaash       1931 E130469-0    De Ic Lo Ni Po     702 Im M7 V  
+Rur           1932 D765000-0    Ba Lo Ni           024 Im G8 V 
+Kishsuur      1933 C673000-0    Ba Lo Ni           001 Im M0 V K6 D    
+Bina          1936 E400211-0    Lo Ni Va           601 Im M0 III M7 D 
+Nulisud       1937 A8D3336-0    Fl Lo Ni           221 Im K3 V       
+Gadushan      2005 D536000-0    Ba Lo Ni           010 Im M4 III F5 III
+Niitomok      2006 C552000-0    Ba Lo Ni Po        001 Im M4 VI       
+Shiindge      2007 C898341-0    Lo Ni              301 Im F7 V M8 V  
+Morimur       2008 C450543-0    De Ni Po           213 Im M0 V      
+Isbudin       2013 D9C5223-0    Fl Lo Ni           523 Im F6 V M7 V      
+Guuish        2016 C736345-0    Lo Ni              402 Im M1 V M1 V     
+Tahaver       2017 C769A86-0    Hi                 410 Im M8 V         
+Diipa         2019 E554133-0    Lo Ni              610 Im F2 V M3 V   
+Shushguum     2020 C522146-0    Lo Ni Po           124 Im G6 V      
+Kakaaim       2022 D100565-0    Ni Va              201 Im M6 V     
+Zhattar       2023 B88A000-0    Ba Lo Ni Wa        010 Im M3 III  
+Daaiish       2027 B775000-0    Ba Lo Ni           020 Im F0 V M1 VI   
+Gabik         2029 B512000-0    Ba Lo Ni           033 Im F2 V        
+Duusan        2030 C9CA435-0    Fl Lo Ni Wa        222 Im M9 V       
+Vuldaan       2032 C522640-0    Na Ni Po           523 Im F8 V      
+Hykluitt      2035 B140645-0    De Ic Ni Po        204 Im M5 V     
+Diinagar      2036 C160134-0    De Ic Lo Ni        610 Im M2 V K0 D     
+Miizam        2039 C573145-0    Lo Ni              110 Im M2 V M0 D    
+Uurgag        2101 C000000-0    As Ba Lo Ni Va     020 Im F1 V        
+Hteh Hut      2103 A000677-0    As Na Ni Va        211 Im K7 V M5 V  
+Khikish Lin   2105 C9A5731-0    Fl                 810 Im M5 V      
+Araam         2106 DAB3212-0    Fl Lo Ni           801 Im M8 V G2 V   
+Kash          2107 C778154-0    Lo Ni              804 Im M1 V       
+Flire         2111 D779851-0                       823 Im A8 V      
+Ishala        2113 D866553-0    Ag Ni              304 Im M7 V     
+Bishiin Gisha 2115 E533000-0    Ba Lo Ni Po        001 Im M5 V K2 V    
+Uri           2117 A313141-0    Lo Ni              920 Im F9 V        
+Pyam          2120 B799000-0    Ba Lo Ni           020 Im M7 V       
+Lekkon        2122 C440200-0    De Lo Ni Po        602 Im K8 VI M1 D
+Giga Pir      2123 C5A4357-0    Fl Lo Ni           201 Im K7 V M9 V
+Razzun        2124 A472431-0    Lo Ni              810 Im M4 VI M2 D   
+Liiaskuurkga  2125 E799466-0    Lo Ni              110 Im M8 V K2 V   
+Dekhuun       2126 C478000-0    Ba Lo Ni           020 Im M9 V       
+Limla A       2129 E000423-0    As Lo Ni Va        210 Im M4 V      
+Kagshar In    2132 B374226-0    Lo Ni              120 Im F3 V     
+Erusam        2133 D483000-0    Ba Lo Ni           020 Im F7 V    
+Riduum        2134 C6A9261-0    Fl Lo Ni           310 Im M9 V M5 D  
+Uurin La      2137 E410000-0    Ba Lo Ni           012 Im F0 V       
+Istuary       2138 C5828CH-0                       522 Im M1 V      
+Zolo          2139 C628210-0    Lo Ni              501 Im M7 V     
+Irde          2203 C657000-0    Ba Lo Ni           020 Im M8 V    
+Anarsi        2205 B747833-0                       420 Im G3 II M3 III 
+Arkaa         2208 E5468CB-0                       120 Im M3 V        
+Shalaazis     2210 E73748C-0    Lo Ni              512 Im K2 V G4 D K4 D
+Inbuu Am      2211 B568000-0    Ba Lo Ni           023 Im M7 V         
+Ashbakha      2216 B672000-0    Ba Lo Ni           001 Im M4 V K9 D   
+Karlum        2221 B5AA000-0    Ba Fl Lo Ni Wa     020 Im A2 V K5 V  
+Dirgii Ga     2222 E778433-0    Lo Ni              523 Im F2 V G4 D 
+Gurzish       2223 E76A000-0    Ba Lo Ni Wa        001 Im M2 V M8 D       
+Iamone        2225 D110AA6-0    Hi Ic Na           524 Im K4 V     
+Zikurag       2227 A536568-0    Ni                 624 Im F8 II   
+Munakhiin     2229 E202210-0    Lo Ni Va           310 Im K5 V   
+Miinir        2232 C999788-0                       310 Im M3 V G2 V   
+Segikin       2233 E768434-0    Lo Ni              301 Im M3 V       
+Rishin        2235 E210577-0    Ni                 624 Im G0 V      
+Pakhii        2236 E343569-0    Ni Po              713 Im M2 V K7 D
+Khugan        2238 C786000-0    Ba Lo Ni           004 Im M3 V    
+Uumum         2240 B878535-0    Ag Ni              310 Im M9 V K0 D    
+Knaeghzoka    2301 B431477-0    Lo Ni Po           601 Im M5 V M1 D   
+Nelak         2306 D64A668-0    Ni Wa              110 Im M6 V       
+Bolziin       2308 B210000-0    Ba Lo Ni           014 Im M3 V     
+Moribur       2309 D150435-0    De Ic Lo Ni Po     520 Im M4 V    
+Barshun       2310 B510000-0    Ba Lo Ni           020 Im F8 V M8 V    
+Dangasha      2314 D350766-0    De Po              701 Im M9 V        
+Kagush        2316 A463000-0    Ba Lo Ni           024 Im K6 V       
+Duugguur      2319 A766A75-0    Hi                 825 Im G6 V G2 V 
+Gidapisek     2320 B200333-0    Lo Ni Va           610 Im K7 V     
+Lushem        2321 C432000-0    Ba Lo Ni Po        033 Im F3 III  
+Inaarak       2322 D775545-0    Ag Ni              415 Im M4 V   
+Zruub         2323 E353000-0    Ba Lo Ni Po        003 Im M7 V  
+Firdakh       2324 D332000-0    Ba Lo Ni Po        020 Im A9 V 
+Derkhuun      2325 E310425-0    Lo Ni              805 Im F1 V K5 D    
+Fharnas       2328 D8A8633-0    Fl Ni              901 Im M6 V        
+Tobrun        2329 B400266-0    Lo Ni Va           910 Im F8 V M9 VI 
+Umzgaa        2330 D000000-0    As Ba Lo Ni Va     010 Im M3 V      
+Aaluggidira   2331 C79A47C-0    Lo Ni Wa           303 Im F3 V     
+Khar          2332 E483000-0    Ba Lo Ni           001 Im M5 V M8 V     
+Miiliinlur    2335 B322310-0    Lo Ni Po           424 Im G7 II M4 D   
+Kunni         2336 B784422-0    Lo Ni              701 Im M4 V M0 D   
+Idi           2337 A361345-0    Lo Ni              312 Im G8 V M6 D  
+Shuumdama     2340 E545534-0    Ag Ni              620 Im M9 V      
+Kfoerudzo     2402 B559100-0    Lo Ni              321 Im M1 V     
+Kaarkhuube    2406 D54697C-0    Hi In              820 Im K6 V    
+Umiin         2407 E200200-0    Lo Ni Va           310 Im M3 V   
+Shabii        2408 B854100-0    Lo Ni              101 Im M5 V G9 VI   
+Sardiika      2409 A444344-0    Lo Ni              410 Im F9 V        
+Guurkii       2410 C338000-0    Ba Lo Ni           020 Im M6 III     
+Ansin         2412 E563A9D-0    Hi                 420 Im F2 V F2 V 
+Liisurkhish   2416 B362412-0    Lo Ni              310 Im K0 V  M2 D    
+Eshiirmagi    2419 E200000-0    Ba Lo Ni Va        010 Im M6 V M2 D    
+Martle        2425 D1408BF-0    De Ic Po           924 Im M6 V        
+Khanaddar     2426 B000000-0    As Ba Lo Ni Va     012 Im K6 V M6 D  
+Esish         2429 E120000-0    Ba De Ic Lo Ni Po  012 Im M9 V      
+Dusekhip      2431 B633245-0    Lo Ni Po           222 Im K7 V     
+Korm          2432 C987622-0    Ag Ni              903 Im M6 V    
+Mirk          2433 C210100-0    Lo Ni              720 Im G6 VI  
+Gidiirk Khar  2435 E423666-0    Na Ni Po           420 Im M5 V  
+Shakir        2438 A626000-0    Ba Lo Ni           023 Im M6 II
+Rashugurnu    2440 D65258A-0    Ni Po              310 Im F8 V M5 VI
+Garashlii     2501 B623100-0    Lo Ni Po           223 Im M0 III A1 D   
+Rhodes        2502 C413100-0    Lo Ni              102 Im F0 III M5 V  
+Shunisar      2507 D556654-0    Ag Ni              101 Im M9 V M6 V   
+Zipuush       2508 E425100-0    Lo Ni              810 Im M7 V       
+Iigshuren     2511 B66A000-0    Ba Lo Ni Wa        023 Im G5 V      
+Imziinune     2512 B627100-0    Lo Ni              620 Im M1 D     
+Shiigus       2513 B271658-0    Ni                 901 Im F5 V M9 D   
+Shaaiir       2515 C9A758B-0    Fl Ni              422 Im K8 V        
+Guukhi Ka     2518 E333000-0    Ba Lo Ni Po        001 Im M8 V       
+Niuur Giivli  2519 B523212-0    Lo Ni Po           411 Im M7 VI     
+Ma            2520 D485000-0    Ba Lo Ni           010 Im M0 V M0 V 
+Kakhashedir   2524 B160120-0    De Ic Lo Ni        502 Im M4 V     
+Daapuken      2526 E464000-0    Ba Lo Ni           010 Im M1 V G8 D    
+Uurshuu       2527 E4217BD-0    Na Po              211 Im K9 V        
+Shuurnnish    2528 C202343-0    Lo Ni Va           601 Im M5 V       
+Thaggesh      2530 C666473-0    Lo Ni              901 Im F6 V M7 V M6 D
+Kiddinu       2531 B455100-0    Lo Ni              934 Im M0 II        
+Aki           2533 D6A7698-0    Fl Ni              610 Im M0 III F5 D 
+Adi Uu        2534 C411676-0    Na Ni              722 Im M7 V       
+Ermund        2536 E200376-0    Lo Ni Va           519 Im G9 V      
+Nunaat        2539 C624000-0    Ba Lo Ni           024 Im F0 V     
+Kalaalit      2540 A769742-0                       210 Im M9 V    
+Daztsoun      2602 C456000-0    Ba Lo Ni           011 Im F7 V   
+Uungir Uum    2603 C100342-0    Lo Ni Va           801 Im M9 V M3 D    
+Uurer Ind     2604 C300200-0    Lo Ni Va           701 Im M0 V        
+Raltaedz      2605 C130000-0    Ba De Ic Lo Ni Po  004 Im M1 III     
+Gakhe Aand    2610 E571666-0    Ni                 201 Im F8 V M2 D 
+Paark         2611 E403300-0    Lo Ni Va           901 Im M3 VI K2 D    
+Gaska Khiin   2612 C444255-0    Lo Ni              223 Im M5 V         
+Kusu          2613 B441000-0    Ba Lo Ni Po        002 Im K3 IV       
+Malta         2615 B000000-0    As Ba Lo Ni Va     011 Im M9 V K6 D  
+St George     2616 B7C5300-0    Fl Lo Ni           120 Im G5 IV    
+Leirk         2618 C510000-0    Ba Lo Ni           001 Im M6 V M0 D     
+Kuen          2620 B858779-0    Ag                 421 Im F3 V         
+Irur Nuu      2621 C683100-0    Lo Ni              124 Im F8 V M3 D   
+Irbiruurk     2624 C683000-0    Ba Lo Ni           003 Im M1 V       
+Piremad       2627 D594252-0    Lo Ni              823 Im M6 III    
+Giam Khanaar  2628 C8B3243-0    Fl Lo Ni           201 Im M0 V M3 D
+Mur           2629 E8A8675-0    Fl Ni              410 Im M2 V    
+Kane          2631 E789877-0                       723 Im K9 V  
+Wakarsat      2634 B68A68A-0    Ni Wa              114 Im M6 V 
+Kakadan       2636 B9C7222-0    Fl Lo Ni           301 Im M2 V
+Akon          2637 B463467-0    Lo Ni              903 Im M1 V K4 V   
+Statia        2640 C300000-0    Ba Lo Ni Va        010 Im M7 V       
+Aanshi        2713 BA8A522-0    Ni Wa              901 Im M3 VI     
+Uurlaiim      2716 D6AA157-0    Fl Lo Ni Wa        420 Im A8 V G7 V
+Nodden        2721 C774112-0    Lo Ni              801 Im M0 V G6 IV   
+Kir           2723 E763688-0    Ni                 710 Im K7 V        
+Duranus       2725 C000000-0    As Ba Lo Ni Va     015 Im M1 V       
+Kuushi        2728 B594142-0    Lo Ni              120 Im M6 II     
+Gam           2732 E582322-0    Lo Ni              604 Im M8 V G0 D
+Jarmat        2733 B210000-0    Ba Lo Ni           014 Im M6 V    
+Rambant       2734 B110110-0    Ic Lo Ni           604 Im F4 V K0 D    
+Kesali        2737 B2009A9-0    Hi Na Va           103 Im M3 V        
+Tepmaa        2738 C410000-0    Ba Lo Ni           023 Im M0 V       
+Sg'Aa         2739 BAB578D-0    Fl                 213 Im K6 V M4 V 
+Vlekhaandaanin2740 D454226-0    Lo Ni              810 Im M2 V     
+Uurvlaa       2804 B989225-0    Lo Ni              102 Im M9 V    
+Paval         2806 C581000-0    Ba Lo Ni           024 Im M3 V   
+Spinport      2808 D575621-0    Ag Ni              420 Im M8 V       
+Eshlii Khuushu2812 E997344-0    Lo Ni              533 Im A1 III M2 V  
+Karmanidora   2815 C110000-0    Ba Ic Lo Ni        002 Im K4 V        
+Eslaar Iraar  2816 C656566-0    Ag Ni              410 Im M6 V      
+Mauush        2818 C9B2100-0    Fl Lo Ni           702 Im M3 V     
+Amga          2820 EA9A000-0    Ba Lo Ni Wa        034 Im M3 V G7 D 
+Nirgaa        2823 C536000-0    Ba Lo Ni           001 Im M4 V M3 VI  
+Jana          2824 D300226-0    Lo Ni Va           923 Im G6 V       
+Diuus Sha     2825 D324372-0    Lo Ni              120 Im F3 V      
+Irmar Mu      2826 E475000-0    Ba Lo Ni           035 Im F4 II    
+Hannipur      2827 E100858-0    Na Va              701 Im F4 IV M2 V    
+Luukon        2829 A5778CC-0                       801 Im M7 V K3 V    
+Lezaneraz     2830 E447343-0    Lo Ni              302 Im M2 V        
+Kiimzhal      2831 D554346-0    Lo Ni              901 Im M3 V M7 D  
+Telkaa        2832 C635100-0    Lo Ni              921 Im M8 V K3 D K3 D 
+Inushir       2836 E9899B9-0    Hi                 323 Im K0 V          
+Kheaadge      2837 D794331-0    Lo Ni              922 Im M3 V K4 D    
+Zombagu       2839 B684344-0    Lo Ni              424 Im F7 V        
+Khaais Aargim 2905 E453000-0    Ba Lo Ni Po        034 Im K8 VI      
+Akkunat       2907 D878000-0    Ba Lo Ni           001 Im M4 V K8 VI
+Kaaiim        2909 D344000-0    Ba Lo Ni           023 Im M8 V     
+Admiiis       2911 E5555A8-0    Ag Ni              901 Im M9 V K3 D    
+Damakho       2912 B998365-0    Lo Ni              723 Im F0 V        
+Mimere        2914 C9B6623-0    Fl Ni              110 Im M7 V M2 V  
+Lormiza       2915 B33587B-0                       810 Im M6 V K6 V 
+Iizmarna      2916 B227332-0    Lo Ni              320 Im M9 V     
+Beroni        2918 C563422-0    Lo Ni              601 Im M7 V M5 V    
+Meas          2919 E454100-0    Lo Ni              720 Im M6 V F1 D   
+Kanan Am      2920 E210223-0    Lo Ni              220 Im M7 V K8 V  
+Niirli        2921 DAD7000-0    Ba Fl Lo Ni        001 Im M5 V      
+Khegair       2923 D471000-0    Ba Lo Ni           010 Im M6 V M6 D
+Kaanpush      2925 B230100-0    De Lo Ni Po        120 Im M4 V    
+Sanderson     2926 A9C0432-0    De Lo Ni           720 Im K9 V   
+Icuspin       2931 B2006AC-0    Na Ni Va           320 Im M2 V  
+Zanski        2932 B585247-0    Lo Ni              521 Im M3 V
+Kanat         2933 B567000-0    Ba Lo Ni           013 Im F2 V
+Assazak       2934 C490633-0    De Ni              801 Im M1 V    
+Kirama        2936 E200000-0    Ba Lo Ni Va        001 Im K9 V G0 D M0 D
+Punnari       2938 C737000-0    Ba Lo Ni           001 Im M8 V M5 D    
+Teralvar      2939 C585110-0    Lo Ni              901 Im G3 V M8 V   
+Arnuu Ish     3002 D327879-0                       514 Im F1 V       
+Amuum         3003 E9A9000-0    Ba Fl Lo Ni        020 Im F2 V      
+Shupin        3004 B511400-0    Lo Ni              134 Im F1 V     
+Mukata        3006 B310443-0    Lo Ni              401 Im F0 V M3 V     
+Shishaldin    3008 D3208DB-0    De Na Po           603 Im M6 V         
+Lourer        3011 E5948CG-0                       510 Im M9 V K8 D   
+Uuruum        3014 D557000-0    Ba Lo Ni           004 Im G5 V       
+Kuurgish      3018 D545500-0    Ag Ni              510 Im M7 V M1 D 
+Irkidin       3019 D8A7436-0    Fl Lo Ni           320 Im M4 V G6 D
+Trilorn       3020 C100464-0    Lo Ni Va           410 Im K3 V M5 D     
+Kika Ma       3021 B410232-0    Lo Ni              302 Im M9 V M8 VI   
+Arklin        3022 B9CA000-0    Ba Fl Lo Ni Wa     034 Im M3 II       
+Kishash       3024 E200648-0    Na Ni Va           313 Im M7 VI      
+Nirshi Ish    3025 E54557B-0    Ag Ni              824 Im G2 V K6 VI
+Kamolad       3029 D8A8100-0    Fl Lo Ni           301 Im M1 V M4 VI G4 V
+New Salen     3031 D2029CA-0    Hi Na Va           620 Im M4 V          
+Matuyama      3032 C140300-0    De Ic Lo Ni Po     223 Im G0 III M0 D  
+Diikuu        3035 D651416-0    Lo Ni Po           901 Im M9 V G2 D   
+Raanbazziil   3037 B428000-0    Ba Lo Ni           010 Im M0 II     
+Gilnat Paz    3039 B535000-0    Ba Lo Ni           021 Im M1 V         
+Arga          3106 C300315-0    Lo Ni Va           510 Im M7 V M8 V   
+Theton        3107 BABA59A-0    Fl Ni Wa           710 Im M0 V K1 VI 
+Vlimarkir     3111 E754000-0    Ba Lo Ni           024 Im M1 VI     
+Dusuureg      3115 D404000-0    Ba Lo Ni Va        022 Im F9 V K6 D
+Bigugaand     3116 D546767-0    Ag                 823 Im G5 V    
+Altman        3117 B361455-0    Lo Ni              310 Im A6 V   
+Irgiip Gush   3119 D577000-0    Ba Lo Ni           025 Im M7 V  
+Kuurkisud     3122 E56069C-0    De Ni              424 Im G6 D M9 D    
+Piim Ush      3124 E87A322-0    Lo Ni Wa           202 Im M7 V M6 V   
+Inandir       3125 C676A9B-0    Hi In              211 Im K9 III M0 D
+Zamar         3126 C568587-0    Ag Ni              410 Im K9 V      
+Xantril       3128 B676100-0    Lo Ni              820 Im M3 V     
+Gala          3129 D765310-0    Lo Ni              224 Im F6 V    
+Arkun Gir     3130 DA5A200-0    Lo Ni Wa           812 Im M7 V G1 D    
+Maamibrin     3131 B562463-0    Lo Ni              620 Im F7 V        
+Khakuu        3134 D424410-0    Lo Ni              922 Im F2 III     
+Debekov       3135 C572000-0    Ba Lo Ni           001 Im M2 V      
+Alleman       3137 B200225-0    Lo Ni Va           502 Im K6 III K1 D 
+Nasaa         3138 E325435-0    Lo Ni              620 Im G8 V       
+Idash Uush    3140 E653100-0    Lo Ni Po           210 Im M4 V K0 V 
+Irkhuu Paar   3201 C676323-0    Lo Ni              903 Im M8 V     
+Ushir         3202 E665452-0    Lo Ni              520 Im M6 V F8 D      
+Kuir          3206 E8AA000-0    Ba Fl Lo Ni Wa     020 Im M0 V          
+Sardia        3208 E236337-0    Lo Ni              333 Im K6 III       
+Sagemesh      3209 E684135-0    Lo Ni              604 Im M8 V        
+Tasho         3210 E225100-0    Lo Ni              222 Im K1 IV      
+Uurkish E     3211 D577000-0    Ba Lo Ni           010 Im M1 V      
+Amnukun       3212 B410765-0    Na                 311 Im M7 V     
+Amgegamir     3213 E567554-0    Ag Ni              902 Im M7 V G3 V    
+Aarluu        3214 E9B7000-0    Ba Fl Lo Ni        002 Im M4 V        
+Shaia         3215 C64A343-0    Lo Ni Wa           510 Im M1 V       
+Ishdaar Kiir  3216 E561000-0    Ba Lo Ni           013 Im M5 V      
+Kashkhiig     3218 D556000-0    Ba Lo Ni           010 Im M1 V M7 VI  
+Sadkha        3221 C836000-0    Ba Lo Ni           021 Im G6 V       
+Gis           3222 E300123-0    Lo Ni Va           520 Im M7 V F5 V 
+Anakod        3224 A796000-0    Ba Lo Ni           024 Im F7 V     
+Sam           3226 E747100-0    Lo Ni              823 Im K2 VI K4 D    
+Nirnalur      3228 B444321-0    Lo Ni              523 Im G3 V         
+Diikaras      3229 AAAA675-0    Fl Ni Wa           502 Im M2 V        
+Vanutappan    3231 C447000-0    Ba Lo Ni           024 Im F7 III M9 D
+Tamayo        3232 B779000-0    Ba Lo Ni           001 Im M0 V G6 D M6 D
+Siir          3235 C481676-0    Ni                 610 Im A9 V G4 V    
+Zhannag       3237 C534376-0    Lo Ni              934 Im G8 III      
+Dirshum Di    3238 E768000-0    Ba Lo Ni           013 Im K0 V K1 D  
+Aggiida       3239 D845000-0    Ba Lo Ni           001 Im M9 V  
