@@ -1,0 +1,53 @@
+@SUB-SECTOR:Hla'ei SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1112 0712 -1 0
+$1112 1010 0 -1
+$1112 0911 0 0
+$0911 0912 0 0
+$0911 1010 0 -1
+$1112 1311 0 0
+$1311 1410 0 -1
+$1311 1412 0 0
+$1414 1410 0 -1
+$1118 1318 0 0
+$1318 1619 0 0
+$1619 1819 1 0
+$1617 1619 0 0
+$1619 1521 0 1
+$1519 1716 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hla'ei        0911 A5559HB-E    Hi                 914 As M2 V
+Iykhiyea      0912 A6635J8-B    Ni                 113 As M4 V
+Khisktoeea    0914 C1003N6-9    Lo Ni Va           104 As K5 V
+Uahoar        0915 E5106L5-7    Na Ni              102 A5 M1 V G1 D
+Hwuarloauilr  0920 C2001J8-8    Lo Ni Va           104 As K1 V
+Ohaiyu'o      1012 E6474N7-5    Ni                 703 As M0 V
+Laaisea       1016 E8689N7-A    Hi                 423 As G2 V M9 D
+Alausiy       1017 C8944N6-7    Ni                 504 As M0 V M9 D
+Areaolrrealr  1019 D6654L9-8    Ni                 102 A3 M1 V
+Khihaua       1111 E8691KA-9    Lo Ni              714 As M1 V M5 D
+Ahhyoe        1112 A5353G6-C  T Lo Ni              604 As K4 V
+Eakhta        1118 A677ANA-E  R Hi In              903 As M1 V
+Hkoikheaoha   1212 E3100GB-9                       704 As M3 V
+Eawkta'a      1218 C8665H5-A    Ag Ni              603 As M0 V
+Syiauhktaorl  1220 A7826J6-E    Ni Ri              813 As M6 D M0 D
+Esyah         1311 A110AH3-E    Hi In Na           204 As G1 V
+Iylarlyawsieae1318 B6776H2-B    Ag Ni              104 As M4 V M2 D
+Eaealearl     1319 C3236MB-C    Na Ni Po           414 As G3 V M2 D
+Oirleea       1412 B4534J5-D    Ni Po              505 As M2 V M1 D
+Eaeayaah      1414 A6582G7-9    Lo Ni              704 As M2 V
+Aihktiyuahkhei1415 C3005H9-C    Ni Va              513 As G3 V
+Sahkhaiyar    1417 E1002K8-8    Lo Ni Va           500 As G6 V M9 D
+Yorloai       1511 C3514K8-7    Ni Po              804 As M4 V M7 D
+Aolraaaleahaw 1512 C9C26K5-A    Fl Ni              324 As G0 V
+Eyeolyoawtear 1517 C6873NA-C    Lo Ni              513 As M8 III K7 V
+Iwouhstayes   1519 A2106M4-E  R Na Ni              400 As M2 V M1 D
+Aihoalr       1614 C3108M6-A    Na                 305 As M2 V
+Aoeilrau      1617 A1006J5-D    Na Ni Va           200 As K0 V
+Khehoirl      1619 A7773G4-E    Lo Ni              814 As K0 V
+Ahroaea       1620 C5346M8-A    Ni                 514 As M5 III M5 VI

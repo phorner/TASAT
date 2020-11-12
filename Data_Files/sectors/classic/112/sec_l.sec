@@ -1,0 +1,29 @@
+@SUB-SECTOR:Ryuwahah SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ryo           2524 C649634-4    Ni                 903 As
+Htifto'yoae'  2528 C88A636-A  S Ni Wa              220 As
+Eieyahke      2529 C9C397A-7  S Fl Hi              100 As
+Haihauh       2624 B436115-B    Lo Ni              323 As
+Ile'eatoirea  2626 C754410-7  S Ni                 513 As
+Ois           2628 B41499C-9    Hi Ic              203 As
+Tluiewa       2629 A6A6454-E    Fl Ni              413 As
+Oawyoaih      2725 B200565-A    Ni Va              614 As
+Foahtuiha'    2726 C77A748-5  S Wa                 403 As
+Oileahiy      2830 C110466-A  S Ni                 302 As
+Khtaeauhaoa   2925 C434478-7  S Ni                 520 As
+Alyekh        2927 B96A110-C    Lo Ni Wa           320 As
+Wiea'         3022 B673434-B    Ni                 502 As
+Eyahtoaau     3025 B000997-D  S As Hi Na           204 As
+Ulelre        3028 BA98999-8    Hi In              204 As
+Aarl          3030 C510697-5    Na Ni              902 As
+Toilah        3122 C2209BA-9    De Hi In Na Po     103 As
+Taurear       3126 C411200-7  S Ic Lo Ni           800 As
+Yetaaasal     3127 B88A556-C  N Ni Wa              600 As
+Ilaoyokoirl   3128 B200220-9  N Lo Ni Va           703 As
+Traeawiioilr  3223 C572462-4  S Ni                 403 As
+Hwye          3229 B540331-B    De Lo Ni Po        900 As

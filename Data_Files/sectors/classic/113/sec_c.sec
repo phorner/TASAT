@@ -1,0 +1,36 @@
+@SUB-SECTOR:C SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1705 B2006H5-D    Ni Va Na           913 As G4 V M4 D
+              1707 C79A2LA-8    Ni Wa              513 A7 G7 V
+              1709 C53A7JB-B    Wa                 814 As K9 II M2 V
+              1806 B3422G7-8    Ni Po              305 As M5 V M6 D M9 D
+              1807 E5566N4-8    Ni Ag              323 As M2 V
+              1808 E4464K6-7    Ni                 304 As M4 IV
+              1901 A5468N5-E                       212 As M1 V
+              1903 B1108K2-C    Na                 603 As M3 V
+              1905 AAD55L7-A    Ni                 312 A0 M1 V K7 D
+              1907 C1005H6-9    Ni Va              300 As M3 V
+              1908 C9893G8-7    Ni                 402 As M5 IV M9 D
+              2003 D4564H7-7    Ni                 914 As M0 V
+              2006 C1005J4-A    Ni Va              905 As K0 V
+              2007 C6A34H9-8    Ni                 511 As M2 V M7 D M5 D
+              2008 B6847N7-D    Ri Ag              504 As M6 D
+              2009 B3002G6-8  R Ni Va              503 A8 M5 V
+              2103 B5365LA-E    Ni                 104 A1 K1 D M5 D
+              2105 C3573J4-9    Ni                 305 As M8 V
+Kawao         2108 C0009K6-D  R Hi In As Na        510 As M5 V
+              2201 C5663M8-C    Ni                 801 As M3 V
+              2204 C5274LB-7    Ni                 311 A8 M2 V M1 D
+              2206 B1004LA-B    Ni Va              313 A6 M4 III
+              2207 C8C56L7-A    Ni                 602 A7 K3 V M9 D
+              2208 C1002JB-9    Ni Va              204 As M6 V
+              2306 A4475J9-D    Ni Ag              104 As M1 V
+              2408 D8654M6-6    Ni                 903 As K0 V
+              2410 B8794M7-C  T Ni                 804 As M1 V M1 VI

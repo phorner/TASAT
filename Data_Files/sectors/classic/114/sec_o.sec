@@ -1,0 +1,33 @@
+@SUB-SECTOR:Wasealya SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2234 2136 0 0
+$1734 1534 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yewaeaiis     1731 E5355K8-7    Ni                 514 As K3 V M9 D
+Arlauos       1732 D8894H5-6    Ni                 215 As K0 V M5 D
+Oi'a'hea      1734 B5543L6-B    Lo Ni              304 A8 G8 V M5 D
+Yuaieh        1735 D6252H4-7    Lo Ni              703 As M8 II
+Uiraouaiih    1739 E6433M4-5    Lo Ni Po           421 As M7 V
+Erliyil       1836 C2611L9-A    Lo Ni              201 A6 M3 V M8 D
+Eawhtuikhoah  1839 CAC58L3-C    Fl                 103 A0 M0 V M1 D
+Eauale        1933 D9D52J8-6    Fl Lo Ni           510 As K0 V M1 VI
+A'akheiiylhwiy1937 EAA70G9-8    Fl                 513 As G5 V
+Hlaliyiaol    1938 B7A05L4-C  T De Ni              200 A7 M4 V M1 D
+Iylareakh     2034 C4353M5-A    Lo Ni              223 As M6 VI M7 D K5 D
+Khaoeikh      2038 C4772GB-6    Lo Ni              704 As G7 IV
+Eahtawa       2131 D8C65N4-B    Fl Ni              122 As K3 VI M7 D
+Oawyeoaiya    2132 A2366K2-E    Ni                 113 As F1 V
+Ftakhyues     2135 E5452M9-9    Lo Ni              504 As K5 V
+Khaaur        2136 B4336M3-B  T Na Ni Po           703 As M0 V
+Iskhais       2232 C6857J8-C    Ag Ri              112 As K2 VI
+Awaeah        2234 B2230G9-D  T Po                 712 As M4 V
+Tourlae       2235 C6747N4-B    Ag                 123 As M1 V
+Iyrlelas      2333 E3326K5-6    Na Ni Po           604 As K1 V
+Hkeauas       2340 D5823H7-7    Lo Ni              812 As K3 V
+Hoiew         2432 B5663HA-9  T C6 Lo Ni           201 As G4 II M8 D M7 D
+Yeheais       2433 C6436HC-8    C4 Ni Po           904 As M6 II M2 VI

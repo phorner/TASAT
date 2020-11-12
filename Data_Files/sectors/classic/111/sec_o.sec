@@ -1,0 +1,18 @@
+@SUB-SECTOR:Iaeyaiy SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ealoaheili    1738 D340144-8  S De Lo Ni Po        110 As F4 V M7 D
+Ohiluiao      1739 C554574-6    Ag Ni              402 As G1 V M3 D
+Auawoi'eiwao  1839 C445686-7    Ag Ni              604 As F3 V M1 D
+2035          2035 X130002-1    De Lo Ni Po        023 Na G5 V
+Aiiaol        2037 A68A135-D    Lo Ni Wa           103 As G2 V
+Feikhti       2338 A160365-E  N De Lo Ni           714 As F9 V M7 D
+Yearesau      2339 A324136-A  2 Lo Ni              214 As M3 V
+Ktalurlauail  2436 A9A4356-B  S Fl Lo Ni           822 As M6 V
+Eatrekter     2437 A100575-G    Ni Va              413 As M5 V

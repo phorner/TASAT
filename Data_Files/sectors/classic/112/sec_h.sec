@@ -1,0 +1,14 @@
+@SUB-SECTOR:Ahesailiyhah SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+3018          3018 X8C7000-0    Ba Fl Lo Ni        003 Na
+Hlaliualeaaw  3119 B330100-E  N De Lo Ni Po        404 As
+Uehkaroi      3120 C400468-7    Ni Va              602 As
+Hei'          3216 C00059B-8    As Ni              225 As
+Ktihtyeoh     3217 C0008CE-9    As Na              103 As
+Eiahiyhawer   3218 C78868A-3    Ag Ni Ri           314 As
+Aoasa         3219 B575654-A  N Ag Ni              611 As

@@ -1,0 +1,33 @@
+@SUB-SECTOR:F SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0913 B89A1J3-B    Ni Wa              801 As M7 V M1 D
+              0914 A9985N7-E    Ni Ag              904 As M3 V M0 D
+              0917 C9981K7-A    Ni                 503 As M6 III
+              0918 E1102M6-7    Ni                 800 As G1 V
+              0919 C3003K6-B    Ni Va              901 As M5 V
+              1013 A8885N6-E    Ni Ag              603 As K1 V
+              1017 E6961N9-5    Ni                 415 As K3 V M7 D M8 D
+              1111 C4562G7-6    Ni                 400 As G6 D
+              1113 A4363L6-C    Ni                 902 A8 M5 V
+              1114 C9A44J5-B    Ni                 503 As K1 V
+              1120 B9A85N4-C    Ni                 804 As K2 IV
+              1212 EAC74J6-9    Ni                 213 As K4 V
+              1213 X1004HB-7    Ni Va              822 As M4 V
+              1214 E6574M9-8    Ni                 303 As M2 V M3 D
+              1219 B1004L3-9    Ni Va              402 A6 M2 V M7 D
+              1312 C4835M8-9    Ni                 112 As K2 V
+              1315 A5466L9-E    Ni Ag              200 A6 G4 V
+              1319 A1103N5-A    Ni                 704 As M4 D M1 D
+              1516 B6687M5-D    C5 Ri Ag           521 As G2 V M3 D
+              1517 E5562GB-7    Ni                 703 As M6 V
+              1519 E1104N4-9    Ni                 300 As M4 V
+              1614 D4577LA-7    Ag                 803 A5 K0 IV
+              1616 A4874N6-E    Ni                 904 As K5 IV
+              1618 C6695H8-8    Ni                 204 As G3 V

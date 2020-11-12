@@ -1,0 +1,19 @@
+@SUB-SECTOR:Oarua  SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Lakheisewer   1728 D8B7247-8  S Fl Lo Ni           610 As
+Khoi          1730 X6A0987-3    De Hi              901 As
+Auheliylaol   1827 X578766-0    Ag                 303 As
+Aoarlealoilr  1828 X10087A-0    Na Va              503 As
+Tlaiahi       1930 DAC3134-6  S Fl Lo Ni           204 As
+Yutaohre      2326 B624452-C  N Ni                 414 As
+Hlauyase'u    2327 B6A2120-7    Fl Lo Ni           314 As
+Ieilil        2328 B7839AB-A    Hi                 205 As
+Laherikh      2329 X252762-3    Po                 404 As
+Wieelr        2425 B837344-8    Lo Ni              923 As
+Ahyaleyekh    2428 X223430-1    Ni Po              304 As
+Eikoiwakh     2430 D677563-7  S Ag Ni              601 As

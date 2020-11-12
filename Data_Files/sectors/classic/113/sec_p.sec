@@ -1,0 +1,37 @@
+@SUB-SECTOR:P SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2535 B4527J6-E    Po                 800 As M2 V
+              2537 B8746H6-D    Ni Ag              502 As M1 V M4 D
+              2539 D1006K8-B    Ni Va Na           812 As M2 V
+              2632 BA9A3G8-B    Ni Wa              423 As M3 IV
+              2633 B3512G8-B    Ni Po              803 As M0 V
+              2634 B6937K9-A  R                    622 As G1 V
+              2635 C7996K7-8    Ni                 413 As M9 IV M2 D
+              2636 X9A42G9-9    Ni                 914 As K6 V
+              2640 X4004H6-9    Ni Va              912 As F2 V
+              2731 A4105N3-C    Ni                 620 As K4 V
+              2735 B5867J6-A    Ri Ag              811 As K1 V
+              2737 C2105N4-B    Ni                 614 As K2 V
+              2831 C7693J3-8    Ni                 405 As M7 III M8 VI
+              2833 B3005KA-D    Ni Va              202 As K5 VI
+              2933 C3263M8-A    C2 Ni              504 As M7 V M9 D M2 D
+              2934 E79A7N6-6    Wa                 904 As M0 V
+              2936 A9E31KA-C    Ni                 300 As M3 V M5 D
+              2937 A7636N8-E    Ni Ri              104 As M0 V
+Akhei'elei    2940 E6569H4-C    D3 Hi              404 As M3 V M1 D
+              3035 A1008M8-E  R Va Na              304 As K0 V
+              3038 E6731N9-7    Ni                 524 As G2 V
+              3133 C8C44N9-9    Ni                 923 As M2 V M8 D
+              3134 C9A32G4-8    Ni                 401 As M1 V
+              3136 C8C06H5-C    Ni De              900 As K0 V M2 D
+              3232 B1105L6-9    Ni                 603 A9 M3 V
+              3234 C2004K8-7    Ni Va              722 As M4 V
+              3237 A7867H3-D    Ri Ag              324 As M9 VI M4 D
+              3239 E9D75H4-6    Ni                 305 As M3 V

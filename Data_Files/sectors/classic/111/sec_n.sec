@@ -1,0 +1,18 @@
+@SUB-SECTOR:Ktyaoireikh SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1040          1040 X414000-0    Ba Ic Lo Ni        000 Na M9 V
+1139          1139 X420001-1    De Lo Ni Po        004 Na M9 V M4 D
+1238          1238 X625000-3    Ba Lo Ni           021 Na M8 V M1 V
+1431          1431 X6B1034-0    Fl Lo Ni           010 Na K1 V M7 D
+Aeouhyeh      1439 D8968BC-2  S                    304 As F8 V
+Asaalreweh    1440 D798368-4  S Lo Ni              500 As G1 V M3 D
+1531          1531 X515035-3    Ic Lo Ni           004 Na M5 V
+1635          1635 X260005-0    De Lo Ni           012 Na F6 V
+Aauihlaita    1638 CA89751-8  S Ri                 824 As G7 V

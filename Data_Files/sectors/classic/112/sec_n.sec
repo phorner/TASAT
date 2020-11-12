@@ -1,0 +1,33 @@
+@SUB-SECTOR:Tousyosyesoh SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Weirearle     0932 D623668-5  S Na Ni Po           602 As
+Fteihal       0933 D656436-2    Ni                 701 As
+I'iyyuouraih  0935 C9A389B-6  S Fl                 212 As
+Haolye        1032 C200356-A    Lo Ni Va           405 As
+Htihkuiew     1035 C969567-A  S Ni                 112 As
+Fehaso        1038 C559788-4  S                    713 As
+Iaia          1040 B363366-A  N Lo Ni              502 As
+Eweae         1135 E756048-3    Lo Ni              404 As
+Ouwoira       1232 D78A5AA-4    Ni Wa              223 As
+Hoiseayuei    1235 C236353-C    Lo Ni              600 As
+Keiekhei      1237 E682488-4    Ni                 912 As
+Kheyakheal    1239 E120263-8    De Lo Ni Po        102 As
+Wesiikhea     1335 E477057-8    Lo Ni              403 As
+Eakhelei      1336 E334385-6    Lo Ni              513 As
+Relohyasa     1337 C8B6569-5    Fl Ni              310 As
+Oisehekhyelr  1340 A896666-9  N Ag Ni              602 As
+Hawyuiwyalr   1432 C543ADB-8    Hi In Po           814 As
+Eail          1433 D7B1330-8    Fl Lo Ni           502 As
+Khtoil        1434 D996498-6  S Ni                 734 As
+Iwaroa        1435 D9757CA-2    Ag                 814 As
+Eakhyaw       1440 A754334-D    Lo Ni              700 As
+Ktyarliyse    1534 C577685-7  S Ag Ni              512 As
+Ahiywa        1537 B653301-7  2 Lo Ni Po           603 As
+Teahehwaih    1538 A446AAD-G    Hi In              905 As
+Alasel        1539 A42277A-9    Na Po              805 As
+Ihlau         1639 B557474-9  N Ni                 104 As

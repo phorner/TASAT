@@ -1,0 +1,15 @@
+@SUB-SECTOR:Yuyahtao SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0228          0228 X557000-0    Ba Lo Ni           013 Na
+Hiyalrou      0230 C458889-7                       212 As
+Ealraowaw     0530 E510448-8    Ni                 403 As
+Awiyl         0629 E536887-4                       513 As
+Yaferoakh     0728 E889765-6    Ri                 312 As
+Eayakheahyei  0729 C466410-5    Ni                 304 As
+0821          0821 X894000-2    Ba Lo Ni           002 Na
+Aihu          0828 E67999B-6    Hi In              923 As

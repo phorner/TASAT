@@ -1,0 +1,39 @@
+@SUB-SECTOR:E SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 B5543G5-C    Ni                 322 As K3 V
+              0117 B6786J4-9    Ni Ag              500 As M3 V
+              0120 A1005LA-A    Ni Va              304 A5 M4 V M1 D
+              0213 C4488M7-C                       600 As M2 V
+              0220 A8456MB-A    Ni Ag              310 As K6 IV M1 D
+              0311 C1005L9-B    Ni Va              705 A0 K1 V
+              0316 B4108M4-E    Na                 214 As K3 V M7 D
+              0317 C6753G3-B    Ni                 724 As M2 V
+              0318 B86A2G7-D    Ni Wa              603 As A5 V
+              0319 B6475J7-9    Ni Ag              204 As M1 V
+              0414 D3218N3-A    Po Na              523 As M0 V
+              0415 E1004N8-7    C1 Ni Va           805 As G5 V
+              0416 E5863G8-8    Ni                 623 As M1 V
+Hliyhyue      0418 E8959M4-8    Hi                 615 As M8 D
+              0419 B1105N5-E    Ni                 312 As K2 V
+              0512 C5366J7-B    Ni                 803 As M1 V M6 D
+              0514 C3005K7-7    Ni Va              705 As M4 V M4 D
+              0516 CA9A4N4-9    Ni Wa              312 As M4 V
+              0520 B6678N2-E    Ri                 203 As M1 V
+              0612 E5875J5-6    Ni Ag              902 As K3 V
+              0615 D5446N3-A    Ni Ag              704 As F0 VI
+              0617 A2002G9-A  R Ni Va              901 As M0 V K9 D
+              0619 D1102M4-8    Ni                 403 As K6 V
+              0620 B9A36H7-9    Ni                 902 As K8 VI M9 D
+Tiyriy        0713 E759AH7-A    Hi                 410 As K0 II
+              0715 A3233G7-C  R Ni Po              500 As K0 V
+              0716 C7B38J8-E                       304 As G4 V
+              0814 A3733K6-D    Ni                 601 As K2 V M8 D
+              0816 C3844J7-7    Ni                 604 As K0 V
+              0817 B4636M8-A    Ni Ri              204 As M1 IV M9 D M4 D

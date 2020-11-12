@@ -1,0 +1,48 @@
+@SUB-SECTOR:Kilrya SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1713 1914 0 0
+$1914 1912 0 0
+$1912 2111 0 0
+$1914 2514 1 0
+$2412 2514 1 0
+$1914 1815 0 0
+$1815 1716 0 0
+$1716 1617 -1 0
+$1819 1821 0 1
+$1819 1619 -1 0
+$2412 2612 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eaaoaies      1713 B6448K3-E                       300 As M4 V
+Sa'ioyesaiy   1714 C2108H4-C    Na                 404 As G9 V
+Oeakhisi      1715 D9A44JA-8    Fl Ni              824 As K1 V M4 D
+Tuyoyaa       1716 B9B26NB-9    Fl Ni              203 As M4 III
+Oiweeakh      1720 E6884M4-8    Ni                 313 As K1 V
+Eihkho        1812 C1108K3-B    Na                 614 As G4 V
+Eauiwea       1814 X8D07K8-8    De                 213 As M0 V M3 D
+Ilkaao        1815 A7B44K6-E    Fl Ni              903 As M1 V
+Ealhalria     1819 B3362HC-B    Lo Ni              600 As K5 V
+Eihiouhftei   1820 C5412G8-A    Lo Ni Po           213 As G4 V
+Aorlailakh    1911 C3103G2-A    Lo Ni              934 As K1 VI
+Kilrya        1912 B2109H6-C    Hi In Na           903 As M0 V M8 D
+Eahheilr      1914 A7870G9-9                       803 As M5 IV K5 D
+Yowtlol       1915 C9680N8-B                       700 As M9 V
+Iiyraw        1916 C5642M6-8  R Lo Ni              604 As A3 V M7 D
+Yeshleao      1919 C9770N2-8                       504 As K2 V M1 D
+Eiskhteaoulr  2014 D5753NB-B    Lo Ni              502 As K5 V
+Tiaiarle      2111 A1102K7-E    Lo Ni              433 As M8 V M7 D
+Iweil         2113 E5517M6-B    Po                 400 As K3 V
+Sekhtai       2114 C55A9N9-9    Hi Wa              601 As G2 V
+Ftalea        2117 C3718H7-9                       613 As M3 V M1 D
+Aolaiaw       2118 X6345K8-6    Ni                 703 As M2 V
+Khaahktya     2213 C6597K4-9                       524 As K3 V
+Ilreakh       2214 C3725L7-9    Ni                 911 A2 M0 V
+Yo'aosoi      2312 C8A54K6-8    Fl Ni              414 As K7 VI
+Yoliyeirlalr  2314 B2008K9-E    Na Va              804 As A3 V
+Iraois        2320 C5544H6-A    Ni                 411 As G3 V M0 D
+Khyoaeia      2412 A1000GA-C    Va                 824 As M7 V
+Erlourfeal    2417 A87A0G8-C    Wa                 720 As M4 V M4 D

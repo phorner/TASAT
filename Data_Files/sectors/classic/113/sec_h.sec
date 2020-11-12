@@ -1,0 +1,42 @@
+@SUB-SECTOR:H SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2512 C5794NB-7    Ni                 704 As K0 V M6 D
+Troaw         2514 X5459H6-8    D2 Hi In           924 As K4 V
+              2517 B1107M8-E    Na                 613 As M1 V
+              2519 B3008HA-E    Va Na              402 As K3 V M5 D
+              2520 A5661N8-E    Ni                 205 As K7 D M6 D
+              2612 E8875NA-8    Ni Ag              304 As M2 V M6 D
+              2613 C5646NB-B    Ni Ri Ag           202 As M1 V
+Irloi'        2614 C9D49H5-B    Hi                 611 As M2 V
+              2617 A4426LA-E    Ni Po              504 A7 M1 V
+              2711 D1104H9-9    Ni                 401 As M0 V
+              2713 B2005K9-E    Ni Va              803 As K0 V M1 D
+              2714 C7365KA-8    Ni                 314 As M0 VI
+              2715 A2435H5-A    Ni Po              303 As K1 V
+Htao'ua       2719 C6659H7-A    Hi                 704 As K1 V M0 D
+              2811 D9B66J8-8    Ni                 203 As M4 V M6 D
+              2812 B8662N7-9    Ni                 704 As M4 V
+              2814 B5A66MA-C    Ni                 500 As K4 V M1 D
+              2815 D2434H7-9    Ni Po              701 As M1 V
+              2818 B2104L4-A    D1 Ni              904 A1 G7 D
+              2819 A1103G8-D    Ni                 803 As A1 V M4 D
+              2820 C4533G3-9    C3 Ni Po           902 As M5 V M2 D
+              2911 B5467K6-D    Ag                 423 As M1 V M0 D
+Iweahle'      2914 D1109H7-B    Hi In Na           700 As M2 V
+              2917 C8B43G5-A    Ni                 613 As M5 V
+              2919 B1006HC-C    Ni Va Na           704 As K4 V
+              3011 E1105K7-8    Ni                 101 As M4 V
+              3018 B6872G6-9    Ni                 120 As M5 V M9 D
+              3111 D3107J3-9    Na                 903 As M3 V
+              3114 B3006K3-B    Ni Va Na           302 As A4 V K9 D
+Yolyetau      3116 C8799L9-D    Hi In              703 A5 G3 V M0 D
+              3118 D6575K9-7    Ni Ag              704 As F2 V
+              3120 E2411GB-5    Ni Po              404 As G8 V
+              3217 X2101L6-9    Ni                 833 A2 K0 D

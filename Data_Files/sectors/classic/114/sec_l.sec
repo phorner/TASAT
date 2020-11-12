@@ -1,0 +1,83 @@
+@SUB-SECTOR:Tulrakh SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2630 2732 0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+^2521 0
+^2521 1
+^2621 0
+^2621 1
+^2721 1
+^2721 2
+^2721 3
+^2722 1
+^2722 2
+^2723 1
+^2723 2
+^2724 1
+^2724 2
+^2725 1
+^2725 2
+^2726 1
+^2726 2
+^2727 1
+^2727 2
+^2728 1
+^2828 0
+^2828 1
+^2928 2
+^2929 0
+^3027 2
+^3027 3
+^3127 2
+^3127 3
+^3226 2
+^3226 3
+^3225 0
+^3225 1
+^3225 5
+^3125 3
+^3125 4
+^3024 3
+^3024 4
+^2924 3
+^2924 4
+^2823 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eaoiryu'      2521 E3003G8-7    Lo Ni Va           605 As G0 V M8 D
+Yaea          2522 C1006K8-B    Na Ni Va           611 As M4 V M9 V
+Ftiyloeal     2525 D1007L9-A    Na Va              614 A0 M3 V
+Aealeilr      2526 D1005H9-9    Ni Va              214 As M1 V
+Awkhouas      2621 E8936M7-9    Ni                 504 As M1 V M9 D
+Uaahaoaouh    2628 C3822GB-8    Lo Ni              124 As K0 V M3 D
+Elrouwsoi     2630 B8A73L4-E  T Fl Lo Ni           214 A5 G8 V M6 D
+Ftao          2721 C3769DD-1    Hi In              704 Na M3 V M0 D
+Hwalyaea      2722 C1104M7-B    Ni                 703 As M4 V
+Yelrtaieoah   2723 D3004K6-B    Ni Va              804 As K4 V
+Eatlei        2725 E7859H7-8    Hi                 503 As K1 V
+Ftalaoear     2729 E5A02MC-A    De Lo Ni           200 As M4 V
+Ktaihei       2821 A1108B9-5  F Na                 204 Id K3 V
+Auyuhsti      2822 B233343-5    Lo Ni Po           201 Id M4 V
+Yalealhkirl   2823 D100442-0    Ni Va              803 Id G4 V
+Khaeaai       2826 C68767A-2    Ag Ni Ri           614 Na K7 D M9 D
+Oulktauw      2828 B4675N2-A  T Ag Ni              904 As G4 II
+Khtiuarel     2829 C3318N6-9    Na Po              104 As M7 III
+Eahhkaeas     2921 B625323-6    Lo Ni              703 Id M8 V M9 D
+Uisewalwei    2922 E556530-1    Ag Ni              203 Id M6 D M4 D
+Erlaw         2923 B6449A7-6  F Hi In              414 Id K0 V M6 D M0 D
+Kaouaiylr     2925 C346732-1    Ag                 523 Na K3 V M3 D
+Hlaseuikh     3021 B200544-5  F Ni Va              714 Id G1 V
+Heiyyahe      3023 C100566-2    Ni Va              904 Id M3 V M2 D
+Yuoul         3122 C6A1547-4    Fl Ni              402 Id M2 V
+Ftalhkealiy   3125 X77A300-0    Lo Ni Wa           103 Id G7 III M9 VI
+Ktaoleas      3222 B9C7101-7    Fl Lo Ni           621 Id M3 V
+Syoyorlea     3223 A000156-7  F As Lo Ni           503 Id G6 V
+Keiiokh       3225 C371025-1                       224 Na K8 V
+Uawahtaleih   3226 C839000-5    Ba                 600 Na A4 V K6 D

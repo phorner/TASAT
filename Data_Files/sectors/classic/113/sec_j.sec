@@ -1,0 +1,34 @@
+@SUB-SECTOR:J SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 A8374M8-A  R Ni                 523 As M2 V M5 D
+              0922 D6653G7-A    Ni                 320 As G9 V
+              0925 A2336J5-E  R Ni Po Na           914 As K0 D
+              1030 A7885J7-C    Ni Ag              603 As M3 V
+              1121 B5564MA-A    Ni                 103 As K4 V
+              1124 B1106J7-D    Ni Na              112 As M8 VI M1 D
+Tyear         1128 E7A0AH7-B    Hi De              804 As K4 V
+              1129 B6642H3-B    Ni                 621 As M4 V M1 VI
+              1221 B4875L7-D    Ni Ag              513 A6 M4 V K9 D
+              1223 C2105K8-B    Ni                 104 As M0 IV
+              1224 CAD98H8-C                       924 As M1 V M5 D
+              1227 E6753J5-8    Ni                 604 As G2 V M2 D
+              1322 C8746M8-B    Ni Ag              413 As M1 V
+              1323 C6573H6-C    Ni                 804 As M5 V
+              1324 A4104J7-E    Ni                 324 As M1 VI
+              1326 E5483K4-5    Ni                 813 As G8 IV
+              1329 B4415J6-D    Ni Po              212 As A2 V
+E'iyhyakhye   1424 A9D39H2-D    Hi                 702 As M1 V M0 D
+              1429 C6A68H4-E                       124 As M2 V M5 D
+              1430 E5832N9-A    Ni                 203 As M7 V M2 D
+              1523 B4347M8-A                       603 As M4 II
+              1529 D5584KC-A    Ni                 604 As K2 VI M4 D
+              1621 B1009K7-E  R Hi In Va Na        101 As M3 V
+Kioihwuiea    1622 BXXXXXX-X                       104 As M2 V
+              1626 C6764H5-7    Ni                 120 As K9 V M6 D

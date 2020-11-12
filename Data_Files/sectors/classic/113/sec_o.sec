@@ -1,0 +1,38 @@
+@SUB-SECTOR:O SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1735 B66A6L5-C    Ni Ri Wa           223 A4 G1 V
+              1736 A77A4M9-A    Ni Wa              510 As G0 V M3 D
+              1737 C3466H2-9    Ni Ag              602 As M3 V M5 D
+              1831 E4443N8-5    Ni                 413 As A0 III
+              1834 C4236L9-A    Ni Po Na           302 A6 M1 V
+              1937 A1003M7-E    Ni Va              903 As M7 V
+              1938 E7675H9-9    Ni Ag              924 As K1 III
+              1940 A9C61HB-A  R Ni                 515 As M1 IV M4 D
+              2032 E2104H9-A    Ni                 504 As K1 V M2 D
+              2033 C6975M7-B    Ni Ag              223 As K7 III
+              2034 A4471G8-C  T Ni                 300 As M9 V M1 D
+              2035 C5245H6-8    Ni                 503 As M1 V M9 D
+              2037 X5458L8-B    C0                 904 A1 K7 V
+              2039 E1006H2-A    Ni Va Na           604 As M1 V M2 D
+              2131 B6653M7-D    Ni                 201 As K7 V
+              2134 E7580HC-7    Ni                 104 As M0 IV
+              2135 E6545MC-5    Ni Ag              815 As G2 II M5 D
+              2136 E77A6N8-5    Ni Wa              500 As K6 II M0 VI
+              2138 CAE76K7-9  R Ni                 103 As K3 V
+              2231 DA8A4M5-6    Ni Wa              404 As K1 V M8 D
+Reauwais      2232 B323AJ6-B    Hi In Po Na        211 As M0 V M8 D
+              2240 C5362G9-A  R Ni                 800 A7 A6 V F6 D
+              2331 E9C36KC-A    Ni                 903 As M4 V M9 D
+              2332 B4527H9-A    Po                 202 As K0 V M5 D M1 D
+              2338 B1102G3-D  T Ni                 412 As K8 V
+              2339 C5000H8-A    Ni Va              710 As K6 V M4 D
+              2431 E4843NC-7    Ni                 613 As M6 V
+              2432 B1003G6-E    Ni Va              902 As M0 V
+              2440 B5835N8-E  R Ni                 200 As A1 V K3 D

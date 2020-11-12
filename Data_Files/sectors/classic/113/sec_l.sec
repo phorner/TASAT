@@ -1,0 +1,37 @@
+@SUB-SECTOR:L SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2523 C4558J6-E                       914 As G1 IV M5 D
+              2527 B5648J2-E    Ri                 703 As G4 V
+              2529 C1107M5-8    Na                 204 As M0 V K1 D
+              2721 B5651J9-A    Ni                 704 As K5 V
+              2726 C0001L9-7    Ni As              220 A3 M8 V M9 D
+              2727 D7B35N8-B    Ni                 204 As M1 V M7 D
+              2730 B6695N9-9    Ni                 403 As K1 V M9 D
+              2821 D5862G6-9    Ni                 100 As M1 V M0 D
+              2824 A2106L8-A    Ni Na              214 A3 M1 V
+              2922 B1005N5-E    Ni Va              705 As M1 V
+              2927 B2656H3-D    Ni Ri Ag           223 As M0 V
+              2928 C5410GC-8    Ni Po              303 As M9 V
+              2929 E4630G3-5    Ni                 703 As M1 V
+              3021 C6581G6-7    Ni                 704 As M6 V
+              3024 B0008K7-C    As Na              104 As M4 V
+              3025 C1101G2-B    Ni                 313 As M8 V M2 D
+              3026 B1005M7-9    Ni Va              711 As M1 V M3 D
+              3123 C6692H5-C    Ni                 502 As G8 IV
+              3124 B6472GB-8    Ni                 911 As G4 V M3 D
+              3126 E2006JB-7    Ni Va Na           600 As M4 V
+              3127 B7745J5-E    Ni Ag              814 As M2 V M3 D
+              3128 A8742KB-C    Ni                 905 As F7 V M1 D
+              3222 B5827LC-E    Ri                 305 A3 M4 V
+              3224 D6542H8-7    Ni                 424 As M7 V M2 D
+              3226 C7496N5-8    C1 Ni              803 As M6 III
+              3227 BAA92GA-9    Ni                 104 As K7 III M8 D M8 D
+              3228 B4443G9-A  T Ni                 635 As M8 V M1 D
+              3229 C8D41K8-8    Ni                 614 As K3 V

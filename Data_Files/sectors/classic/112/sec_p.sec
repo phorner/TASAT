@@ -1,0 +1,38 @@
+@SUB-SECTOR:Ehrelew  SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Htyohehweya   2537 E130202-6    De Lo Ni Po        602 As
+Eawa'iyakhye  2540 E100636-9    Na Ni Va           904 As
+Ehfau         2631 E233744-8    Na Po              403 As
+Iiheirilos    2633 C687224-7    Lo Ni              703 As
+Stouoihalra   2634 E8C4965-4    Fl Hi              104 As
+Ealeakeharer  2635 C332776-8    Na Po              303 As
+Hkyahkarleaw  2637 B8C1679-9    Fl Ni              801 As
+Oiiyrerei     2639 D657100-3    Lo Ni              203 As
+Iyeihtea      2731 C7A4766-4    Fl                 311 As
+Aiyr          2732 C6B1430-9    Fl Ni              420 As
+Elyahehe      2733 E580100-4    De Lo Ni           212 As
+Toasoih       2734 E555401-8    Ni                 300 As
+Htiyuw        2831 E688520-7    Ag Ni              701 As
+Auoiwah       2832 E767300-5    Lo Ni              823 As
+Hoatyusariy   2836 B89A786-9    Wa                 725 As
+Khouaai       2931 D659955-9  S Hi                 103 As
+Tloilrea      2932 E89A468-6    Ni Wa              300 As
+Alikh         2933 C447988-B    Hi In              904 As
+Yewooa        3032 E37157C-5    Ni                 802 As
+Aihya'ekha    3033 C898865-8  S                    603 As
+Iyarearli'    3035 C310420-7    Ni                 301 As
+Kaeakhihta    3039 B232664-8  N Na Ni Po           503 As
+Uasyulaor     3131 C000548-7    As Ni              602 As
+Aihea         3132 C796983-7    Hi In              104 As
+Ahiyeyoloi    3133 E454243-7    Lo Ni              702 As
+Roayo         3136 E696345-5    Lo Ni              915 As
+Seaaihyuki    3138 B796122-9    Lo Ni              920 As
+Auwyu         3140 B373889-8                       204 As
+Iyrlyehkekh   3232 E555120-4    Lo Ni              324 As
+Eaaooastiei   3234 E110565-9    Ni                 614 As
+Koas          3240 C6867A9-8    Ag                 822 As

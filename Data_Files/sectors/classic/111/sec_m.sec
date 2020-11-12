@@ -1,0 +1,14 @@
+@SUB-SECTOR:Iewyu SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0240          0240 X310020-1    Lo Ni              012 Na G9 V M6 V
+0339          0339 X447033-0    Lo Ni              024 Na F9 V M4 D
+0537          0537 X555032-0    Lo Ni              024 Na M2 V M6 D M9 D
+0639          0639 X5A0020-0    De Lo Ni           003 Na G2 V M5 D
+0739          0739 X342023-2    Lo Ni Po           023 Na G2 V M2 D

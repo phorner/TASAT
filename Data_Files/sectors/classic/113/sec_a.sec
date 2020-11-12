@@ -1,0 +1,21 @@
+@SUB-SECTOR:A SECTOR:Hlakhoi
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0310 X3008K6-8    Va Na              423 As M4 V
+              0409 C3002K6-C    Ni Va              202 As K7 V
+              0502 E3336KB-8    Ni Po Na           903 As M2 V M8 D
+              0608 C6585M6-C    Ni Ag              912 As M3 V
+Tiyroa        0610 B5469H8-E    Hi In              900 As M2 IV
+              0703 C5948H6-9                       613 As M0 II
+              0704 B7452L8-D    Ni                 513 A2 M0 V
+              0706 D7A35K7-8    Ni                 301 As M4 V M3 D
+Hteai         0709 B100AL8-C    Hi In Va Na        724 A6 K8 IV M1 D
+              0805 C7773L8-8    Ni                 504 A7 M5 V M9 D
+              0806 C1008N4-E    Va Na              103 As K0 IV
+              0808 B7888N7-B  R Ri                 412 As K6 IV

@@ -1,0 +1,11 @@
+@SUB-SECTOR:Uir SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0708          0708 XA6A023-0    Lo Ni Wa           003 Na F5 V
+0709          0709 X9B2020-0    Fl Lo Ni           000 Na K2 V

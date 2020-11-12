@@ -1,0 +1,44 @@
+@SUB-SECTOR:Fearah SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1821 1820 0 -1
+$1821 1922 0 0
+$1922 2122 0 0
+$1922 1923 0 0
+$1823 1825 0 0
+$1823 2221 0 0
+$2221 2323 0 0
+$2425 2326 0 0
+$2425 2327 0 0
+$2326 2327 0 0
+$1728 1627 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Yorlkar       1721 D9D84KA-7    C2 Fl Ni           812 As M4 II
+Osahkhteasoa  1727 C4392J7-8    Lo Ni              104 As M5 III M1 D
+Khieaohau     1728 B7857H5-B  T Ag Ri              702 As M3 VI M2 D M1 D
+Oiah          1729 C63A2G8-B    Lo Ni Wa           223 As M6 IV
+Htaistea      1821 C1009H8-D    Hi In Na Va        204 As K4 V M3 D
+Htiah         1823 CA79AH9-D    Hi In              905 As M2 V
+Iyskyar       1824 B5467M4-E    Ag                 803 As M0 V
+Yulriyyew     1825 B5286L7-C    Ni                 701 A5 K4 VI M1 D
+Khtaoiwe      1828 E4257N9-B                       114 As M1 V M8 D
+Ftairlya      1922 B4457M9-E  R Ag                 120 As M2 V
+Yoweaserl     1923 C100AH8-B    Hi In Na Va        315 As K2 V
+Khiewriaar    1926 C5764L8-B    Ni                 421 A9 K6 VI
+Htyeiylra     1927 C4346HA-A    D4 Ni              834 As M3 V
+Ihaaeaus      2025 D5874K5-8    Ni                 103 As M9 VI
+Khaiheiiyaul  2122 B5264L8-D  T Ni                 323 A9 M2 V
+Tehyo         2221 C321AH6-C    Hi In Na Po        100 As K3 V
+Okhayehauoil  2222 C3633G9-B    Lo Ni              904 As M0 V M1 D
+Uarla         2224 E3554L9-6    Ni                 112 A3 M0 V
+Aoseie'       2225 X1009HA-A    Hi In Na Va        804 As M0 V
+Yewehhar      2323 B6454NA-B    Ni                 604 As M4 V M7 D
+Fearah        2326 A99AAH7-E    Hi In Wa           302 As G6 IV M7 D
+Eiyehei       2327 B4584K9-B    Ni                 902 As K3 V M1 VI
+Hlyeiyuikiy   2329 D8558JB-9                       102 As M7 D
+Yakyu         2425 B5859H8-E    Hi                 100 As G6 V M7 D
+Easai         2430 C5991G4-6    Lo Ni              702 As M6 V

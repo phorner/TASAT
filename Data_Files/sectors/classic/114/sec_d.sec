@@ -1,0 +1,51 @@
+@SUB-SECTOR:Ihearu SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2510 2408 -1 0
+$2510 2410 -1 0
+$2610 2410 -1 0
+$2610 2510 0 0
+$2610 2712 0 1
+$2610 2809 0 0
+$2809 2910 0 0
+$2910 2911 0 1
+$3210 3211 0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+^2509 0
+^2509 1
+^2609 0
+^2609 1
+^2710 0
+^2809 5
+^2809 0
+^2809 1
+^2910 0
+^2910 1
+^3009 3
+^3110 2
+^3110 3
+^3110 4
+^3209 3
+^3210 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hkeaei        2510 B6624J6-D    Ni                 112 As M2 V
+Ahetaowa      2604 B535504-C    Ni                 403 Na M4 V M3 D M4 D
+Ftairai       2605 C21096B-4    Hi In Na           600 Na M3 V
+Iyaaahai      2609 C7C05L6-9    De Ni              905 A5 M7 III M7 D
+Eaaileishryaor2610 BAD57M6-E    Fl                 404 As M3 V
+Uailraul      2704 C559620-3    Ni                 703 Na K0 V M3 D
+Yooiwhi       2710 E5613N9-7    C6 Lo Ni           922 As M8 V
+Fterlyuhlye   2807 D110AEC-3    Hi In Na           924 Na M0 V
+Eaheoil       2809 B7893K7-C    C0 Lo Ni           812 As K1 V M1 D
+Ikhuaei       2907 C786621-2    Ag Ni Ri           104 Na K1 III
+Tlelyeoa      2910 A5837L4-E    C5 Ri              713 A8 M0 V
+Ye'iyeah      3006 C662269-3    Lo Ni              213 Na F1 VI
+Kea'yaaie     3108 X000464-0    As Ni              403 Na M3 V
+Leseaua       3210 B9884KA-C    D3 Ni              513 As K4 V M8 D

@@ -1,0 +1,28 @@
+@SUB-SECTOR:Aeaiy SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eileahiy      2535 B688340-A    Lo Ni              813 As F5 V
+Aheaeakhealr  2536 A529577-C  S Ni                 531 As K8 V
+Eah           2538 B794899-7  N                    422 As F9 V
+Uweal         2539 B747345-9    Lo Ni              604 As G7 V
+Ahioasaseaw   2540 B374343-A    Lo Ni              100 As F7 V
+Khterlelrui   2639 B866454-B    Ni                 303 As G2 V M8 D
+Hresa         2736 B343558-C  S Ni Po              710 As F7 V M0 D M2 D
+3031          3031 X525000-2    Ba Lo Ni           014 Na F0 V
+3032          3032 X549001-0    Lo Ni              023 Na F6 V
+3033          3033 X440002-1    De Lo Ni Po        013 Na F2 V
+Eifyelreah    3035 B639677-B  N Ni                 210 As M6 IV
+3131          3131 X476003-0    Lo Ni              034 Na F5 V
+Hwawarluaeia  3134 B160220-C  N De Lo Ni           603 As F7 V M3 D M0 D
+Oheieah       3231 B311666-7  N Ic Na Ni           903 As A7 V
+Ea'iyhfeakh   3232 B988555-C    Ag Ni              724 As F1 V
+Tloulaorloal  3233 B100440-E    Ni Va              304 As G0 IV
+Steawoihkoi   3234 B695677-8  N Ag Ni              902 As F6 V
+Tlausiylryu   3237 B9A1221-8   Fl Lo Ni            714 As K6 V
+Wiyhteaie     3240 B5566BE-A  N Ag Ni              323 As G5 V M1 D

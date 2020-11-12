@@ -1,0 +1,41 @@
+@SUB-SECTOR:Eiyhkihte SECTOR:Ealiyasiyw
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0540 0501 0 1
+$0233 3232 -1 0
+$0431 0640 0 -1
+$0732 0640 0 -1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+^0231 0 2
+^0231 4 2
+^0231 5 2
+^0232 0 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eaeilr        0134 E3310J5-6    Po                 802 As K9 III M2 D
+Arlasye       0231 C5467L9-9    Ag                 313 A7 M3 V
+Yawaaikh      0233 B7A11GA-C  T Fl Lo Ni           715 As M4 V
+Htaoairlawi   0234 C2225K7-B    Ni Po              304 As K3 V M1 D
+Failraiskea   0240 D7885K3-A    Ag Ni              104 As F2 V
+Yerlaiaie     0332 E5226N6-8    C0 Na Ni Po        105 As M2 V
+O'hfyuiyw     0431 B4246HB-B  T Ni                 923 As G0 V
+Auyashrakhew  0432 C8B64K7-A    Fl Ni              902 As M2 V
+Hyayelaa      0437 D7894M4-9    Ni                 203 As K0 V M3 D
+Yoaokheah     0439 C59A1N8-9    Lo Ni Wa           603 As K0 V
+Aiwtleal      0540 B5277MA-E  T                    214 As M4 V
+Iyryakhye     0635 C6954K8-7    Ni                 504 As K0 V M6 D
+Eaeleal       0638 C5377N8-8                       703 As G1 V
+Eahouoire     0640 E3232M7-9    Lo Ni Po           703 As M9 VI M7 D
+Waaihais      0731 C5262N9-9    Lo Ni              122 As M9 V
+Ktiyyarlkhtiy 0732 A3476K8-E    Ag Ni              812 As M6 III M8 D M5 D
+Yulaah        0737 D5846H7-6    Ag Ni Ri           502 As M5 III
+Ui'aeaesiy    0738 B9D24NB-E  T Fl Ni              213 As M8 III
+Awwiyahkhyeh  0739 C4462G7-6    Lo Ni              310 As K3 V
+Uieahaa       0833 D7778L9-C    C1                 403 A9 M0 V
+Liewsiywuiw   0838 EAA61L6-8    Fl Lo Ni           704 A3 M8 V M0 D

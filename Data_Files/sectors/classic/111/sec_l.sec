@@ -1,0 +1,12 @@
+@SUB-SECTOR:Aiworlaisaoh SECTOR:Ftaoiyekyu
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2821          2821 XAA8031-3    Fl Lo Ni           002 Na M4 V M8 V
+3030          3030 X645000-2    Ba Lo Ni           012 Na F8 V M9 D
+3227          3227 X100000-3    Ba Lo Ni Va        004 Na K5 V

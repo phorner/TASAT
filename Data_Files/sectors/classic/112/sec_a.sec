@@ -1,0 +1,8 @@
+@SUB-SECTOR:Hkao   SECTOR:Afawahisa
+#
+# Trade routes within the subsector
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+0103          0103 X348002-0    Lo Ni              020 Na
