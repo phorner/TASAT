@@ -1,0 +1,16 @@
+LEROY/HINTERWORLDS (1231 C574969-9) DATE: 064-1121 
+All fusion power systems connected to the commercial power grid on Leroy involuntarily shut down over a period of 17 hours yesterday. The time period is associated with the local day. 
+
+The massive power outages resulting from the main power failures were alleviated for a short time by stand-by systems and local backups, but these systems were, of course, not intended to maintain the full primary usage of the planet. Power plants which were connected to the primary commercial grid all experienced failure within three hours of each other. Power systems which remained isolated from the main system were not affected. 
+
+Although for most the power failures were only an inconvenience, extensive casualties were reported when the active seawall protecting low-lying Gintle province collapsed and the resulting North Sea flood inundated several thousand square kilometers of residential settlements. Days later, search and rescue teams were still transporting small groups of survivors from their positions on scattered pieces of high ground. 
+
+Heavy casualties were also reported in the polar under-ice city of Nesabbar. The power failures caused environmental failures and several structural collapses. 
+
+Efforts to restart the commercial power grid were plagued by continued failures and a lack of suitable spare parts. 
+
+Initial investigations placed responsibility for the failures on the installation of faulty component software which confused a string of local data for a system-wide priority emergency shutdown instruction. 
+
+Full power was restored six days later following a complete replacement of the operating software for the overall system. 
+
+Charges that the software was deliberately sabotaged were dismissed by Ministry of Energy officials. [Challenge 48] 
