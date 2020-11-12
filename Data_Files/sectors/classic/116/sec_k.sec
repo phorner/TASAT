@@ -1,0 +1,40 @@
+@SUB-SECTOR:Dudin SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 B325415-D    Ni                 220 Im M3 IV M5 D
+              1724 DA8A746-A    Ri Wa              915 Im G5 IV M2 D
+              1725 C55A476-D    Ni Wa              615 Im M4 V M8 D
+Corve         1729 E472ABA-B    Hi In              604 Im K1 V M2 D
+              1730 A653200-F    Ni Po              815 Im M6 V M1 D
+              1821 E1007B8-B    Va Na              613 Im M1 V
+              1824 C100200-F    Ni Va           A  702 Im K6 V M0 D
+              1825 E110001-C    Ni                 123 Im M5 V M9 D
+              1827 E775452-8    Ni              A  102 Im G1 V
+              1829 D200584-A    Ni Va              723 Im M3 V M7 D
+              1922 A9896BB-E    Ni                 912 Im M4 V M7 D
+              1925 D564255-9    Ni                 101 Im A3 V
+              1929 E588334-9    Ni              A  403 Im M7 V
+              1930 C451114-A    D6 Ni Po        A  904 Im F9 VI M8 D
+              2021 C978730-8    Ag                 323 Im K3 V M7 D
+              2023 A100865-F    Va Na              703 Im K1 V M6 D
+              2025 C0007A6-C    As NA              210 Im M4 V M2 VI
+Dudin         2028 D745A67-C    C2 Hi In           702 Im M1 V
+              2121 E9C3733-7                       913 Im M0 V M7 D
+              2122 D786131-9  S Ni                 504 Im M5 V
+              2124 E5A1574-A    Ni                 804 Im M3 V M0 D
+              2126 B987483-D    Ni                 802 Im M1 V M8 D
+              2129 C364645-9    Ni Ri Ag           510 Im M1 V
+              2224 B879485-E    C3 Ni           A  600 Im M8 IV
+              2228 C887212-B    Ni                 705 Im M3 V
+              2322 C64A101-E    Ni Wa              324 Im K4 V M0 V
+              2323 C5667AC-A    Ag                 904 Im M5 IV
+Tukera        2423 E6A3AA8-B    Hi                 700 Im M2 V
+              2426 X481114-5    Ni              R  500 Im G7 V M5 D
+              2428 D443755-A    Po                 814 Im M0 V M9 D
+              2429 A200113-F    Ni Va              812 Im M1 V

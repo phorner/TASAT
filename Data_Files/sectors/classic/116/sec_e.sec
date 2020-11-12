@@ -1,0 +1,27 @@
+@SUB-SECTOR:Woomera SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0112 B200456-F  N Ni Va              303 Im M0 V
+Woomera       0114 A5839CC-E    Hi                 600 Im K3 IV
+              0120 B100413-F    Ni Va              303 Im M2 V
+              0220 B100403-F    Ni Va              604 Im K9 IV M3 D
+              0316 C76626A-A    Ni                 624 Im F4 V M7 D
+              0317 C967557-C    C3 Ni Ag        A  702 Im M0 V M6 D
+              0320 E300454-C    Ni Va              102 Im M1 V
+              0411 E362410-A    Ni                 303 Im M4 V M0 D M0 D
+              0420 B000135-F    Ni As              810 Im M5 V
+              0516 C300554-C    Ni Va              323 Im M2 V
+              0611 C300543-D    Ni Va           A  704 Im G2 V
+              0613 B31058C-F    Ni                 102 Im M1 V M9 D
+              0615 B200412-E  N Ni Va              813 Im M1 IV
+              0714 C100586-D    Ni Va              501 Im K9 IV
+              0718 C547100-B    Ni                 613 Im K2 V M0 D
+              0720 A685556-F    Ni Ag              503 Im A3 V
+              0817 B665866-B    C5 Ri              503 Im M1 V M2 D
+              0820 E655567-8    Ni Ag              803 Im M1 V

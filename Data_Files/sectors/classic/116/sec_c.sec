@@ -1,0 +1,43 @@
+@SUB-SECTOR:Standish SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1701 C8C1641-B    Ni                 704 Im M0 V
+              1705 D400111-A    Ni Va              104 Im M4 V
+              1708 A400679-F    Ni Va Na           502 Im M8 IV M2 D
+              1802 E200656-9    Ni Va Na           315 Im M3 V K8 D
+              1810 A100300-F    Ni Va           A  404 Im M4 V
+              1901 C694524-B  S D3 Ni Ag           714 Im M1 V
+              1902 B100447-F  N D0 Ni Va           802 Im K3 V M6 D
+              1903 B100200-F    Ni Va              100 Im M8 V
+              1904 C3008A8-A    Va Na              113 Im M4 V
+              1907 E737610-7    Ni                 523 Im A2 V M0 D
+              1909 D110155-C    Ni              A  904 Im G8 V
+              2001 A63A66B-F    Ni Wa              401 Im G0 V
+              2004 B324532-D    Ni                 515 Im K4 V
+              2005 B538332-D    Ni                 904 Im K7 VI
+              2007 A444435-E    Ni                 803 Im M3 V M2 D
+              2009 B8B4553-E    Ni                 712 Im G0 V
+              2010 E84A445-A    Ni Wa              213 Im K2 V
+              2102 E78A452-C    Ni Wa              411 Im M2 V
+              2107 C645102-C    Ni                 110 Im M8 V K7 D
+              2108 C637146-C    Ni                 925 Im M9 V M1 D
+              2109 C000305-F    Ni As              804 Im G9 D
+              2202 D9C8333-8  S Ni                 504 Im K8 V
+              2203 D84A430-A  S Ni Wa              802 Im M2 V M3 D
+              2301 A96A762-E    D0 Ri Wa        A  605 Im G2 V
+              2303 C794776-A  S Ag                 302 Im M0 V M6 D
+              2306 C769444-A    Ni                 112 Im G1 V M4 D
+              2310 B100466-F    Ni Va              103 Im F1 V M0 D
+              2401 D100779-9    Va Na              713 Im K3 V
+              2404 C5A0569-C    Ni De              303 Im K4 V M1 D
+              2405 B332457-F    Ni Po              705 Im M5 IV
+              2406 B100120-E  N Ni Va              700 Im K7 V
+              2408 A000663-F    Ni As Na           800 Im F2 V M7 D
+              2409 D562435-9    Ni                 311 Im K2 V
+              2410 C100767-B    Va Na              410 Im M7 III M5 V

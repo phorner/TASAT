@@ -1,0 +1,36 @@
+@SUB-SECTOR:Alun SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0904 C326542-C  S Ni                 700 Im M4 V M2 D
+              0909 C11058B-E    Ni                 224 Im K2 V
+              1003 B553346-D    Ni Po              802 Im K6 IV M2 V
+              1004 B000249-E  N Ni As              722 Im K8 V M6 D M7 D
+              1006 C6A3422-C    Ni                 222 Im G4 V
+              1008 B000412-F  N Ni As              425 Im K4 V
+Shaid Mamke   1101 D00097C-B  S Hi In As Na        505 Im M6 III M2 D
+              1104 C548632-9    Ni Ag              802 Im M0 V M2 D
+              1107 C000452-D    Ni As              504 Im K3 V M5 D
+              1108 B334253-F  N Ni                 500 Im M2 V
+              1202 B200515-F    Ni Va              714 Im K3 V
+              1204 C100434-C    Ni Va              105 Im M2 IV M7 D
+              1206 D48658B-8    Ni Ag              703 Im M3 V K0 D
+              1301 B100676-D    Ni Va Na           310 Im M9 VI
+              1303 C9A2878-A                       303 Im G2 IV M7 D
+              1304 B795764-C    C0 Ag              201 Im M1 V M0 D
+              1308 C627248-C    Ni                 713 Im M2 V
+              1405 X442662-4    Ni Po           R  313 Im M0 V
+              1406 C555896-8                       424 Im A4 VI K1 D M3 D
+              1408 B3336A9-D    Ni Po Na           402 Im M8 VI M2 D
+              1502 C67A430-B  S Ni Wa              223 Im K4 III M8 VI
+              1505 B88A336-D  N Ni Wa              800 Im M4 V M1 D
+              1506 D67836A-8    Ni                 604 Im M6 V
+              1508 A300863-F    Va Na              404 Im M2 V M9 D
+              1509 C456002-B    Ni                 604 Im K6 V M6 D
+              1510 B778687-C    Ni Ag              104 Im K0 V
+              1608 A675037-C    C0 Ni           A  323 Im M9 V

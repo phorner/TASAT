@@ -1,0 +1,37 @@
+@SUB-SECTOR:Hermes SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lushiir       0932 B5A16A7-B    Ni              A  103 Im A0 V
+Damar         0937 E9A69A9-A    Hi                 404 So M3 V
+Parade        0940 A4458AA-F                       413 So M2 V
+Kiiri         1031 A669300-F    Ni                 504 Im M7 V M6 D
+Asim          1032 C100311-C    Ni Va              801 Im G3 V
+Voluun        1033 B879831-C                       412 Im K6 VI M7 D
+Parsifal      1039 A66A696-E    Ni Ri Wa        A  400 So K8 III M4 VI
+Maakan        1131 C57288D-A                       100 Im M3 V
+Lancelot      1137 A335336-F    Ni                 613 So M3 V M8 D
+Bedivere      1138 B456445-D    Ni                 100 So M3 V
+Gawain        1140 A979201-F    Ni                 505 So M6 V M6 D
+Nu Polis      1236 D624979-B  S Hi In              204 Im M1 V
+Skatter       1238 B000669-F    Ni As Na           313 Im A5 V
+Acropolis     1336 B88856A-C    Ni Ag              500 Im K0 V
+Chrono        1339 E543563-8    C5 Ni Po           525 Im A4 II
+Hermes        1431 D100ABA-F  S Hi In Va Na        432 Im G6 II M6 D
+Firine        1438 C6A2121-B    Ni              A  204 Im G4 D M3 D
+Karma         1439 B373320-D    D2 Ni              403 Im K7 IV
+Phars         1440 BA69644-B    Ni Ri              732 Im K3 V M5 D
+Aspare        1533 C100214-D    Ni Va              303 Im K6 V M8 D
+Accent        1534 C441523-A    Ni Po              401 Im K3 V
+Pierson       1536 C265379-C  S Ni                 601 Im G3 V
+Xenon         1537 AAD2357-F    Ni                 604 Im M0 V
+Kafal         1539 E548351-8    Ni                 802 Im K7 V
+Litten        1632 C447320-B    Ni                 200 Im F7 V
+Brewin        1635 A784200-F    Ni                 814 Im M7 V
+Oifuerr       1637 B210AD9-F    Hi In Na           603 Im M4 V
+Axis          1639 D434212-A    Ni                 322 Im A2 V

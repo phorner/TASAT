@@ -1,0 +1,37 @@
+@SUB-SECTOR:Iingar SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2501 C5327AD-9    Po Na           A  500 Im M0 V
+              2504 E54557A-9    Ni Ag              314 Im M2 V M6 D
+              2509 E766344-7    Ni                 400 Im M5 D M9 D
+              2603 C788000-B    D8 Ni Ba           223 Im G5 V
+              2606 C541216-B    C1 Ni Po           803 Im M0 D
+              2610 B300555-F    Ni Va              103 Im M2 V
+              2702 C453449-A    C6 Ni Po           305 Im M2 V
+              2705 D3007CC-8    Va Na              503 Im M1 V
+              2706 AA97664-C    Ni Ag              914 Im K0 V
+              2708 A636638-E    Ni                 900 Im M1 V
+              2803 C9B58A9-A                       214 Im K6 IV
+              2806 B86A027-D    Ni Wa              223 Im K9 V M7 D
+              2901 E89A365-9    Ni Wa              302 Im M7 IV M7 D
+              2902 B525634-D    Ni                 300 Im M5 IV
+              2904 B678500-D    Ni Ag              702 Im M4 V
+              2908 D352441-8    Ni Po              102 Im K4 V M3 D
+              2909 E310314-9    Ni                 713 Im M7 V M7 D
+              3001 A869650-F    Ni Ri              724 Im M4 V
+              3003 C100226-C    Ni Va              305 Im M8 V M1 D
+              3006 B366243-C    Ni                 813 Im M0 V
+Iinen         3010 A593989-E    Hi                 813 Im M1 V
+              3108 C200476-D    Ni Va              702 Im K1 V
+              3201 B00058B-F  N Ni As              314 Im G5 II M5 D
+              3203 C996633-A    Ni Ag           A  113 Im M2 V
+              3204 A43288A-F    Po Na              621 Im K2 V
+              3206 B782005-D  S Ni                 404 Im M0 V
+              3208 B110466-F  N Ni                 614 Im K2 V
+              3210 C9A5566-B    Ni                 205 Im G0 V

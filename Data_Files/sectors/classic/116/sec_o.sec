@@ -1,0 +1,40 @@
+@SUB-SECTOR:Narya SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1731 B94A643-E    Ni Wa              704 Im M9 III
+              1734 D100799-A  S Va Na              604 Im K4 V M7 D
+              1736 E000220-B    Ni As              202 Im M8 V M8 D
+              1737 C2347A9-B                       702 Im K2 V
+              1739 D668769-8    Ri Ag              824 Im K0 V
+              1831 B424756-E                    A  201 Im M3 V
+              1832 X75A431-5    C4 Ni Wa        R  504 Im M1 V M5 D
+              1838 C96A334-D    Ni Wa              123 Im G2 V
+              1933 C500596-A    Ni Va           A  320 Im K3 V
+Narya         1934 C877ADD-A  S Hi In              312 Im K6 III
+              1935 A200589-F  S Ni Va              302 Im K3 V M8 D
+              1936 D8A3465-9    Ni                 613 Im M3 V M9 D
+              1938 C100354-E    Ni Va              524 Im M7 V
+              1939 E110246-C    Ni                 713 Im K7 IV
+              2031 B337267-F  N Ni                 904 Im G0 V M4 VI
+              2033 B572634-C    Ni                 420 Im M7 IV
+              2039 C23445A-D    Ni                 823 Im K6 III
+              2040 B797754-C    Ag                 504 Im M7 III M7 D
+              2131 C100369-D    Ni Va              912 Im M0 IV M6 V
+              2136 B572466-D    Ni                 303 Im M0 VI
+Karukhi       2137 C467AED-D    Hi                 702 Im M0 V
+              2231 B558334-B    Ni                 102 Im M3 V M0 D
+              2232 E325587-A    Ni                 313 Im K0 V M6 D
+              2234 D210566-B    Ni                 204 Im M3 V
+              2235 C8878A8-9                       305 Im M0 V
+Kimel         2239 A555AEH-F    Hi                 804 Im M2 V
+              2337 B544113-D  N Ni                 504 Im G6 V
+              2340 B6A2773-B                       604 Im G3 V
+              2431 C21045A-C    Ni                 912 Im G1 V
+              2432 C576685-8    Ni Ag              203 Im M1 V
+              2435 X432787-5    Po Na           R  900 Im K0 VI

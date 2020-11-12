@@ -1,0 +1,41 @@
+@SUB-SECTOR:Zhemi SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0122 C78A646-B    Ni Ri Wa        A  202 Im K3 V
+              0123 B100455-F  S Ni Va              604 Im M4 V
+              0124 B888110-B    Ni              A  614 Im K6 VI
+Ashima        0126 C749984-B    D5 Hi In        A  601 Im M1 V M7 D
+              0127 A526466-F    Ni                 203 Im K0 V
+              0223 E98A521-B    C0 Ni Wa           924 Im M5 IV M1 VI
+              0228 C855300-A    Ni                 710 Im M5 V M0 D
+              0323 E332331-B    Ni Po              704 Im G7 V
+              0324 B774414-B    C0 Ni              320 Im K0 V M1 D
+              0326 A9B9520-F  N Ni                 704 Im M1 V M9 D
+              0327 A94A100-F    Ni Wa              705 Im K2 V
+              0328 D9A7663-7    Ni                 114 Im M3 V M4 D
+              0330 E200233-9    Ni Va              604 Im M1 V
+              0424 B332856-D  N Po Na              904 Im M5 III
+              0429 B666698-A    Ni Ri Ag           603 Im G7 II
+              0526 B594775-A    C5 Ag              513 Im M4 V
+              0527 B9C3011-D    Ni                 422 Im K9 V
+              0530 A10069A-F  N Ni Va Na           110 Im M2 V
+              0622 D75A310-B    Ni Wa              404 Im M6 V
+              0624 D497779-8    Ag                 912 Im M1 V
+Zhemi         0627 C89AA8C-F    Hi Wa              901 Im G4 V M1 D M1 D
+              0628 B100569-F    Ni Va              102 Im M5 VI
+              0630 C76A413-C    Ni Wa              613 Im M1 V
+              0722 C692422-A    Ni                 504 Im M2 V M4 D
+              0727 B110566-E    Ni                 104 Im G6 III
+              0728 C352675-9    D4 Ni Po           702 Im K2 V
+              0823 E110200-D    Ni                 102 Im K2 V
+              0824 B46165A-C    Ni Ri              304 Im G4 VI
+              0825 E100148-A    Ni Va              314 Im M9 V
+              0826 A899666-E    Ni                 124 Im G0 IV M1 D
+              0828 C110446-E    Ni                 223 Im G0 VI M2 D
+              0830 X66A630-6    Ni Wa           R  304 Im G0 III M4 D

@@ -1,0 +1,44 @@
+@SUB-SECTOR:Cruxway SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2524 CA6A454-D    Ni Wa              810 Im M4 IV
+              2528 B525873-C                       710 Im M2 II
+              2530 C888413-9    Ni                 504 Im G2 V
+              2621 C455599-B    Ni Ag              220 Im G2 V
+              2622 C694664-8    Ni Ag              623 Im K4 V M1 D
+              2623 C235388-D    Ni                 303 Im M2 V
+              2624 D200310-A    Ni Va              303 Im M7 III
+              2626 A100248-F    Ni Va              922 Im M4 V
+              2627 A96A776-F    Ri Wa              700 Im M0 V
+              2722 D453316-9    Ni Po              414 Im K9 V
+              2723 C310100-C  S Ni                 803 Im M5 V M3 D
+              2729 E546451-A    Ni                 203 Im M1 V
+              2730 C400212-B    Ni Va              413 Im M6 V M0 D
+              2822 D76A520-9    Ni Wa              113 Im M0 V
+              2828 B529302-F    Ni                 914 Im M3 IV M1 D
+              2829 D200231-9    Ni Va              501 Im M6 III
+              2830 C98989B-B    Ri                 403 Im K4 V M9 D M4 D
+              2922 B65557A-C    Ni Ag              530 Im M7 VI
+Cruxway       2926 C89A963-E    Hi Wa              504 Im K8 D
+              2928 C4638A9-9                       810 Im M0 V
+              2929 E422852-A    Po Na              301 Im M0 V
+              2930 A300301-F    Ni Va              224 Im M5 V M2 D
+              3021 E557312-8    Ni                 914 Im M3 D
+              3024 D300463-A    Ni Va              522 Im M4 V
+              3121 A5A1759-F                       904 Im M1 V
+              3127 B665323-D    Ni                 204 Im K3 V M2 V
+              3128 B100366-E    Ni Va              300 Im F2 IV
+Home          3129 D200956-D    Hi In Va Na        204 Im M5 IV M4 VI
+              3130 B100535-F  S Ni Va              522 Im M2 V
+              3224 B978757-D    Ag                 903 Im M3 VI K6 D
+805-111       3225 X736988-7    Hi              R  300 Im M2 V
+              3226 A00076B-F    As Na              704 Im M4 V
+              3228 D300555-A    Ni Va              714 Im K4 V M7 D
+Ilin          3229 E110997-C    Hi In Na           123 Im G3 III M6 D
+              3230 C656324-A    Ni                 404 Im K3 VI

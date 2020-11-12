@@ -1,0 +1,39 @@
+@SUB-SECTOR:Amdani SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1711 D000266-B    Ni As              210 Im K1 V M2 D
+              1712 EAA9642-9    Ni                 313 Im M1 V M8 VI M7 D
+              1716 E85959E-9    Ni                 605 Im M4 V
+              1811 C769776-9    Ri              A  933 Im M1 V
+              1812 D444514-8    Ni Ag              903 Im G9 D M1 D
+              1818 C100400-D    Ni Va              800 Im K2 V
+              1819 E766300-8    Ni                 124 Im M6 V
+              1820 A645367-F  N Ni                 205 Im M5 V
+              1911 C200234-C    Ni Va           A  824 Im K3 V
+              1916 A427689-F    Ni                 725 Im M4 V
+Unkashe       2011 D549AAE-D  S Hi In              424 Im M0 IV
+              2013 B9D447A-D  N Ni              A  725 Im K8 III M8 D
+Amdani        2014 A865AEA-F    Hi                 904 Im M3 V
+              2015 C879311-C    Ni              A  513 Im M3 V
+              2020 B265301-F    Ni                 923 Im K0 II
+              2111 D1108CB-A    Na                 401 Im M3 V M2 D
+              2113 C10078C-B    Va Na              112 Im K3 V M5 D
+              2116 CAC3765-B                       513 Im F1 V M7 D
+              2119 A53657B-F  N Ni                 423 Im K3 V M5 D
+              2212 C341766-A    Po                 314 Im K2 V
+              2214 C435687-B    Ni                 603 Im M0 V M2 D M7 D
+              2217 D595422-9    Ni                 100 Im G3 V
+              2311 C66788C-A    D3 Ri              804 Im M2 V M1 D
+              2316 D100238-A    Ni Va              600 Im K0 V
+Laudumash     2319 D110A99-D    Hi In Na           822 Im A1 V
+              2320 B6487A9-A  N Ag                 513 Im M3 V
+              2411 D426588-B    Ni                 700 Im M4 V
+              2413 C453463-B    Ni Po              600 Im A4 V G9 D
+              2415 A331400-F    Ni Po              902 Im K1 V M0 D
+              2419 C785451-B  S Ni                 402 Im M1 V

@@ -1,0 +1,24 @@
+@SUB-SECTOR:Edge SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0210 D6B5341-8    Ni                 523 Im M8 V
+              0407 A300200-F    Ni Va              323 Na M0 V M6 D
+              0409 D76A047-8  S Ni Wa              402 Im M5 VI M2 D
+              0410 A85A166-F    Ni Wa              903 Im M4 V
+Warinir       0507 A889978-F    Hi                 600 Im M3 V
+              0510 B567466-C  N Ni                 423 Im M1 V M8 D
+              0608 A1107BG-F    Na                 623 Im G3 V
+              0705 C66957C-A    Ni                 104 Im K3 VI
+              0707 C200746-A    Va Na              513 Im M2 V
+              0709 C433501-C    Ni Po              804 Im K4 V
+              0710 A9D8650-F    Ni              A  515 Im M3 V
+              0805 D884622-8    Ni Ag              812 Im G2 V
+              0807 X74A634-5    Ni Wa           R  133 Im M4 V
+              0808 B657436-C    Ni                 613 Im K0 V
+              0810 B100441-F    Ni Va              813 Im M2 V

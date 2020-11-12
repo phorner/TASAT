@@ -1,0 +1,35 @@
+@SUB-SECTOR:Outback SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0912 C798156-C    Ni                 802 Im K6 V
+              0913 A86A344-F    Ni Wa              914 Im M4 V
+              0916 B30089D-D    Va Na              613 Im M0 V
+              1012 B796200-E    Ni                 901 Im K9 V M9 D
+              1113 C987568-A    Ni Ag              302 Im K6 VI M9 D
+              1114 A675898-C                       914 Im K1 V
+              1118 E5A079C-8    De                 125 Im K1 V
+              1119 D541544-9    Ni Po              912 Im M0 VI
+              1214 E100541-A    Ni Va              302 Im K9 II M6 V M5 V
+              1216 C355550-B    Ni Ag              900 Im M7 II
+              1219 C200577-B    C3 Ni Va           914 Im M4 V
+              1317 B574466-C  N Ni                 625 Im M1 V
+              1320 D300666-A    Ni Va Na           701 Im K0 V
+              1411 C100330-C  S Ni Va              202 Im M7 V M2 D
+              1413 D772524-7    Ni                 613 Im K3 V
+              1415 E366315-8    Ni                 103 Im M0 V
+              1511 C100665-C    Ni Va Na           101 Im M0 V M2 D
+              1512 EA5A89B-9    Wa                 802 Im M2 V M9 D
+              1513 A571352-F    Ni                 214 Im M8 V K0 D
+              1520 C552331-9    Ni Po              424 Im M2 IV
+              1612 C000220-D    Ni As              104 Im K8 IV
+              1614 C774300-C    Ni                 714 Im A1 II M0 VI
+              1615 D97A668-9    Ni Wa           A  202 Im M2 V
+              1616 C699622-B    Ni                 503 Im K2 V
+              1617 E544733-8    Ag                 133 Im K1 V M2 D
+              1618 B626346-C    Ni                 303 Im G6 V

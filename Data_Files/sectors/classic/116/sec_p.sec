@@ -1,0 +1,46 @@
+@SUB-SECTOR:Orvon SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2533 B798266-B  N Ni                 214 Im G7 V M3 D
+Mgg           2535 A351998-F  N Hi Po              604 Im M1 V
+              2536 BA7A554-F  N Ni Wa              705 Im M3 V
+              2537 A988369-F    Ni                 402 Im M1 V
+              2538 C438525-C    Ni                 405 Im M1 V
+              2540 E453300-B    Ni Po              800 Im G0 V
+              2635 A2008DC-C    Va Na              300 Im M9 IV
+              2638 D11069B-9    Ni Na              101 Im M1 V M0 D
+              2640 C553100-A    Ni Po              801 Im K9 V
+              2731 C766201-C    Ni                 904 Im M3 V
+              2732 C110269-D    Ni                 703 Im K1 V
+              2737 A724473-F  N Ni                 810 Im G3 V M6 D
+              2832 C300766-C  S Va Na              314 Im K2 V M4 D
+              2833 B63A588-F    Ni Wa              702 Im M5 IV
+              2837 B6A47A7-C                       604 Im M3 V M6 D
+              2838 C110368-E    Ni                 802 Im M2 V
+              2931 A9D5321-F    Ni                 512 Im M6 V M5 D
+              2932 B110876-D    Na                 703 Im K1 III
+Orvon         2935 C4659D9-A    Hi                 313 Im K5 II M8 D
+              2936 B976775-B    Ag                 404 Im K4 V
+              2937 C876351-A    Ni                 103 Im M9 IV
+              2938 B325200-F    Ni                 203 Im K0 V
+              2939 B555767-A    Ag                 802 Im K2 V M3 D
+              3031 C474765-B    Ag                 504 Im M0 V
+              3033 C2107A9-C    C1 Na              704 Im M2 V
+              3035 C868141-A    Ni                 800 Im K5 III M4 D
+              3037 C95A769-B    Wa                 525 Im M0 V M2 D M9 D
+              3039 D100687-9    Ni Va Na           325 Im M1 V M0 D
+              3132 A55788A-E                       924 Im G3 V
+              3133 X8C58AA-5                    R  404 Im M4 V M6 V
+              3137 E100203-D    Ni Va              303 Im K7 V
+              3138 B668247-C    Ni                 202 Im F2 VI M9 D
+              3140 B224500-F    Ni                 815 Im G4 V
+              3234 D657215-9    Ni                 523 Im M5 V
+              3235 C668873-9    Ri                 200 Im M2 V
+              3237 E644000-9    Ni Ba              224 Im G0 D M5 D
+Tura          3239 C110954-F    Hi In Na           204 Im A4 II M6 V

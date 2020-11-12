@@ -1,0 +1,39 @@
+@SUB-SECTOR:Gaalorn SECTOR:Daibei
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0131 C410462-B    Ni                 413 Im K2 V M3 D
+              0133 C110544-D    Ni                 413 Im M4 V M3 D
+              0138 C100422-E    Ni Va              314 So M0 V M0 D
+Uston         0139 A100A98-F    Hi In Va Na        902 So F4 V
+              0140 A0005AC-F  M Ni As              605 So M0 V
+              0236 B566576-C    Ni Ag              603 So K0 V
+              0237 A210558-F    Ni                 534 So G0 V M1 D
+              0240 C424732-B                       203 So M0 V
+              0332 B684300-D    Ni                 604 Im M1 V
+              0333 A366001-E    Ni                 802 Im K0 V M1 D
+              0334 C9A8348-C    Ni              A  403 Im M6 V M4 D
+              0335 A878411-D    Ni                 705 Im G2 V
+              0339 B525647-C    Ni                 204 So M3 V M6 D
+              0432 B310543-F    Ni                 720 Im M4 V K8 D
+              0435 C100359-D    Ni Va              305 Im G5 V
+              0436 E371564-A    Ni                 502 So M0 V
+              0437 B110655-E    Ni Na              814 So M8 IV M1 V
+              0440 B575210-D  M Ni                 301 So M9 IV
+              0531 B436457-F    Ni                 600 Im K4 VI M5 D
+              0536 A835865-F                       300 So M3 V
+              0634 C100895-C    Va Na              404 Im K1 V M5 D
+Gulurkhi      0636 C0009A7-E    Hi In As Na        703 So G3 V M0 D
+              0639 A000320-F    Ni As              714 So M2 V
+              0731 C689023-B    Ni              A  120 Im M2 V
+              0736 C100204-F    Ni Va              600 So M5 IV M2 D
+              0831 C6389A9-D    Hi                 700 Im K0 V M3 D
+              0832 A655300-F    Ni                 912 Im M6 V K4 D
+              0833 C66A453-E    Ni Wa           A  704 Im G3 V M3 D
+              0838 E898599-8    Ni Ag              300 So M2 V M3 VI
+              0839 C655775-9    Ag                 313 So K3 V
