@@ -1,0 +1,80 @@
+@SUB-SECTOR:Regina SECTOR:Spinward Marches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1705 1307 -1 0
+$1904 1903 0 0
+$1904 2005 0 0
+$1904 1705 0 0
+$1903 2202 0 0
+$2005 2007 0 0
+$2007 1910 0 0
+$1910 1912 0 1
+$1910 1810 0 0
+$2410 2510 1 0
+$1810 1711 -1 1
+#Political boundaries
+^1708 3
+^1708 4
+^1808 3
+^1808 4
+^1909 4
+^1910 5
+^1810 0
+^1810 5
+^1710 3
+^1704 5
+^1704 0
+^1803 5
+^1802 0
+^1802 1
+^1802 4
+^1802 5
+^1903 0
+^2002 0
+^2002 5
+^2102 0
+^2102 5
+^2201 0
+^2201 5
+^2201 1
+^2302 0
+^2401 2
+^2401 3
+^2401 4
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Efate         1705 A646930-D  B Hi In An           810 Im K4 V
+Alell         1706 B46789C-A    Ri                 410 Im M7 V M7 D
+Yres          1802 BAC6773-7    Fl                 335 Im G5 V
+Menorb        1803 C652998-7    Hi Po              310 Im M5 II
+Uakye         1805 B439598-D    Ni Mi              320 Im M9 V
+Whanga        1806 E676126-7    Lo Ni              224 Im A1 V M1 D
+Knorbes       1807 E888787-2    Ag Ri An           834 Im G3 V
+Forboldn      1808 E893614-4    Ni                 312 Im G0 V
+Ruie          1809 C776977-7    Hi In           A  701 Na M3 V
+Jenghe        1810 C799663-9  S Ni                 323 Im M0 V
+Pixie         1903 A100103-D  N Lo Ni Va An Px     901 Im M1 V M0 D
+Boughene      1904 A8B3531-D  S Ni Fl              601 Im M7 V
+Hefry         1909 C200423-7  S Ni Va              320 Im K6 II M6 D
+Regina        1910 A788899-C  A Ri Cp              703 Im F7 V M8 D M6 V
+Feri          2005 B384879-B  S Ri                 620 Im G4 V M3 D
+Roup          2007 C77A9A9-7  S Hi In Wa        A  323 Im F9 V
+Pscias        2106 X355423-1    Ni              R  501 Im M5 VI
+Yori          2110 C360757-A    Ri De An Rs        713 Im F1 V
+Tentus        2201 C979500-A  S Ni                 920 Im M2 V
+Kinorb        2202 A663659-8    Ni Ri              622 Im M7 V
+Beck's World  2204 D88349D-4    Ni An              701 Im M0 V M2 D
+Enope         2205 C411988-6    Hi In Na Mi Fr     600 Im M4 V M5 D
+Wochiers      2207 EAC28CC-9    Fl                 703 Im F0 V
+Yorbund       2303 C7C6503-7    Ni Fl              220 Im M8 VI
+Shionthy      2306 X000742-8    Na As           R  714 Im M4 V
+Algine        2308 X766977-4    Hi              R  723 Im M9 VI
+Yurst         2309 E7B4643-5    Ni Fl              824 Im K9 V
+Heya          2402 B687745-5    Ag Ri              734 Im K6 III M8 D
+Keng          2405 E2718CA-3                       812 Im G5 III M9 D
+Moughas       2406 CA5A588-B    Ni Wa              801 Im M9 V M9 D
+Rethe         2408 E230AA8-8    Hi Na Po De        323 Im G7 V
+Inthe         2410 B575776-9  A Ag An              423 Im F8 V

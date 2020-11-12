@@ -1,0 +1,67 @@
+@SUB-SECTOR:Querion  SECTOR:Spinward Marches
+#
+# Trade routes within the subsector
+$0712 0610 0 -1 13
+$0712 0614 0 0 13
+$0614 0412 0 0 13
+#  Boarders
+^0511 6
+^0511 5
+^0511 4
+^0512 5
+^0412 6
+^0412 5
+^0412 4
+^0413 5
+^0413 4
+^0413 3
+^0414 1
+^0515 6
+^0515 1
+^0615 6
+^0715 5
+^0714 4
+^0714 5
+^0714 6
+^0813 5
+^0812 5
+^0812 4
+^0811 4
+^0711 5
+^0711 4
+^0711 3
+^0520 2
+^0619 2
+^0619 3
+^0719 3
+^0819 4
+^0819 3
+^0620 5
+^0620 4
+^0820 1
+^0820 2
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Atson         0111 B310598-8    Ni                 933 Na K8 VI
+Yiktor        0114 C6B6431-A    Ni Fl              123 Na G4 V M4 D
+Xhosa         0115 EA95124-4    Lo Ni              910 Na M0 III
+Prinx         0212 C436635-6    Ni                 720 Na A9 V K8 VI
+Rushu         0215 E765664-4    Ag Ni Ri           903 Va A0 IV M6 D
+Bael          0218 E200100-8    Lo Ni Va           812 Na K2 V
+Mizan-fel     0311 B46258A-8    Ni                 323 Na F3 V
+Sansibar      0412 B200310-A  Z D4 Lo Ni Va        701 Zh M3 V M3 D
+Attica        0414 C400546-8    Ni Va              810 Na K1 VI M6 D
+Retinae       0416 E8C69AA-5    Hi Fl Rs           910 Cs M4 V
+Terra Nova    0511 C786342-9    Lo Ni              812 Na M7 D
+Asmodeus      0512 E596400-4    Ni                 205 Zh K8 V
+Faisal        0518 D445436-3    Ni                 810 Cs K9 V M7 D
+Lebeau        0613 B869554-C    Ni                 901 Zh G8 V M5 D
+Querion       0614 B254788-9  Z Ag Cp              804 Zh M6 V
+Dekalb        0618 EA8A799-6    Ri Wa              320 Cs M1 V
+Winston       0620 E887573-6    Ag Ni              501 Sw K5 V M9 D
+Rapp's World  0712 C592320-8  Z Lo Ni              402 Zh M5 V M8 VI
+Thanber       0717 B243653-C    Ni Po              210 Cs M9 V M1 D
+Entrope       0720 E336AAA-C    Hi                 720 Sw G6 V M1 D
+Anselhome     0820 C110588-8    Ni                 601 Sw M6 VI M0 D

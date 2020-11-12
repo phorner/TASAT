@@ -1,0 +1,48 @@
+@SUB-SECTOR:Rhylanor  SECTOR:Spinward Marches
+#
+# Trade routes within the subsector
+$2712 2510 0 -1
+$2712 2814 0 0
+$2716 2913 0 0
+$2913 3212 0 0
+$3212 0302 1 0
+$2913 3010 0 -1
+$2716 2417 -1 0
+$2520 2418 -1 0
+$2520 2621 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kinorb        2512 C449433-9    Ni                 502 Im A0 V K9 D
+Gileden       2514 C483103-6    Lo Ni Mi           203 Im M9 V
+Plannet       2519 E9C5677-7    Ni Fl              224 Im K5 V
+Garrincski    2520 B632520-7  S Ni Po              410 Im M0 V M7 D
+Macene        2612 B000453-E  N Ni As              911 Im G8 V M8 D
+Fulacin       2613 A674210-D    Lo Ni              810 Im G3 V
+Natoko        2620 C8879AB-9    Hi                 204 Im F4 V
+Risek         2712 A325579-A  N Ni                 401 Im M5 V M3 D
+Porozlo       2715 A867A74-B    Hi                 201 Im M1 V M9 D
+Rhylanor      2716 A434934-F  A Hi Cp              810 Im M2 VI
+Loneseda      2720 C86A215-7    Lo Ni Wa           705 Im M9 V
+Valhalla      2811 E365432-5    Ni                 622 Im G4 IV
+Zivije        2812 C6B199C-B    Hi Fl           A  421 Im G6 V
+Jae Tellona   2814 A560565-8  N Ni De Mr           913 Im F9 IV
+Gerome        2818 X573000-0    Lo Ni Ba Ex     R  701 Im K2 V
+Henoz         2912 A245543-B    C0 Ag Ni           824 Im F3 D
+Celepina      2913 B434456-9  A Ni                 201 Im M2 VI
+Gitosy        2918 B000676-9    Na Ni As           620 Im G6 V M3 D
+Belizo        3015 B895646-5    Ag Ni              923 Im G1 V
+Kegena        3016 E869569-3    Ni              A  224 Im F6 V
+Heroni        3017 E7A0614-3    Ni De              820 Im G5 V
+457-973       3019 X372215-4    Lo Ni           R  534 Im G9 V
+Somem         3020 C301340-B    Lo Ni Va Ic Fr     201 Im M6 V M7 VI
+Vinorian      3111 B879610-9    Ni                 610 Im M3 V M4 D
+Nutema        3112 B864310-8  N Lo Ni              822 Im M3 V
+Huderu        3114 X575000-0    Lo Ni Ba        R  920 Im M0 III
+Cipatwe       3118 B35879A-6    Ag                 623 Im M1 V
+Vanejen       3119 C686854-5    C4 Ri              520 Im K1 V M0 D
+Margesi       3212 A576257-C  A Lo Ni              920 Im F0 V
+Bevy          3216 D4209CC-A  S Hi Na In Po De     224 Im F4 V
+Tacaxeb       3218 C230411-B    Ni Po De           801 Im M6 V M2 D
+Powaza        3220 C787566-5    Ag Ni              332 Im A5 V K4 D

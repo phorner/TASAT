@@ -1,0 +1,45 @@
+@SUB-SECTOR:Glisten SECTOR:Spinward Marches
+#
+# Trade routes within the subsector
+$2336 2536 1 0
+$2334 2733 1 0
+$2334 2231 0 0
+$2036 2336 0 0
+$2036 2138 0 0
+$2036 1938 0 0
+$2036 1937 0 0
+$1937 1507 -1 0
+$2138 2101 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Grote         1731 A400404-B    Ni Va              124 Im F8 V
+Lydia         1733 E110430-6    Ni                 902 Im M4 III M0 VI
+Melior        1736 D140466-7    Ni Po De        A  724 Im G 3 V
+Egypt         1737 BAC6567-7  N Ni Fl              521 Im F8 V
+Aster         1739 C86A410-9    Ni Wa              401 Im M9 V
+Callia        1836 E150852-6    Po De              810 Im M7 V
+Mithras       1932 C8B5546-6    Ni Fl Px           302 Im M3 V
+Weiss         1934 A626464-B    Ni              A  703 Im M0 III M2 D
+Windsor       1935 C783511-9    Ni                 210 Im K9 V M0 D
+Overnale      1937 B45467A-9    Ag Ni              423 Im G3 V
+New Rome      1938 B837866-B  N                    704 Im F8 V M0 D
+Craw          1939 C573645-3    Ni                 923 Im G7 V
+Aki           2035 B443987-9    Hi In Po        A  214 Im G6 V M2 D
+Glisten       2036 A000986-F  A Hi Na In As Cp     821 Im K9 V
+Trane         2038 C639422-B    Ni                 704 Im F4 V M3 D
+Centry        2132 E222447-6    Ni Po              220 Im K3 V
+Caledonia     2134 C541636-5    Ni Po              910 Im M4 III M0 D
+Sorel         2137 E48569A-2    Ag Ni Ri           921 Im G3 V M3 D
+Horosho       2138 C3378A6-A  S                    920 Im F4 V
+Romor         2140 B450456-B  A Ni Po De           112 Im M5 V M3 D
+Marastan      2231 D868772-5    Ag Ri Re           924 Im M7 V
+Crout         2232 E4359CA-7    Hi                 314 Im M7 II M9 VI
+Tirem         2233 C7B5975-B    Hi Fl Mi           621 Im K5 V
+Inthe         2234 C100598-B    Ni Va Mi           924 Im K3 V
+Tsarina       2236 D120636-5    Na Ni Po De Mi  A  301 Im M5 V M2 D
+Wurzburg      2237 C795300-A  S Lo Ni           A  510 Im F8 V
+Bicornn       2331 E563576-2    Ni                 210 Im M0 V
+Ffudn         2334 A41489D-C    Ic                 904 Im F3 V M3 VI
+Bendor        2336 A756656-C  A Ag Ni              820 Im A5 V

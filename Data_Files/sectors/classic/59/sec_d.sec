@@ -1,0 +1,56 @@
+@SUB-SECTOR:Aramis SECTOR:Spinward Marches 
+#
+# Trade routes within the subsector
+$2510 2410 -1 0
+$2510 2712 0 1
+$3003 0102 1 0
+$3010 0109 1 0
+$3010 2913 0 1
+# borders
+^2502 5
+^2502 6
+^2601 5
+^2601 6
+^2701 5
+^2701 6
+^2701 1
+^2801 6
+^2801 1
+^2902 6
+^3001 5
+^3001 6
+^3001 1
+^3102 6
+^3201 5
+^3201 6
+^3201 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Paya          2509 A655241-9  N Lo Ni              603 Im F3 V
+Dhian         2510 C9A769D-4    Ni Fl              202 Im M5 V
+Corfu         2602 X895674-8    Ag Ni           R  222 Im M0 V
+Focaline      2607 EA88544-A    Ag Ni              724 Im F3 V
+Lablon        2701 B646589-A    Ag Ni              503 Im M2 III M4 D
+Heguz         2706 E66A224-C    Lo Ni Wa           510 Im M5 V M7 D
+Violante      2708 C669452-A    Ni                 420 Im M0 V
+Pavanne       2905 C669452-A    Ni                 425 Im G2 V
+Carsten       2906 C427402-B    Ni Mi              804 Im M8 V
+Zila          2908 E25672C-7    Ag              A  701 Im M6 V M3 D
+Jesedipere    3001 C775300-7    Lo Ni              411 Im F4 V
+Yebab         3002 C9A489A-7    Fl                 712 Im M9 V
+Nasemin       3003 B98A422-B  S Ni Wa              612 Im K2 V
+Zykoca        3004 X994542-6    Ag Ni           R  320 Im M9 V
+Aramanx       3005 B657974-6    Hi                 210 Im G0 V
+Pysadi        3008 C4766D7-4    Ag Ni              201 Im K9 V M1 D
+L'oeul d'Dieu 3010 B98A510-B  N Ni Wa              502 Im G1 V M9 D
+Rugbird       3102 BAC5634-A    Ni Fl           A  811 Im M1 V
+Towers        3103 B444448-A  S Ni              A  735 Im A8 III K6 D
+Feneteman     3104 C222200-C    Lo Ni Po Mi        910 Im G4 V M7 D
+Lewis         3107 X427402-D    Ni Sa           R  701 Im F8 V
+Aramis        3110 A6B0556-B  A Ni De Cp           710 Im M9 VI
+Junidy        3202 B434ABD-9  W Hi                 310 Im F7 V M9 D
+Patinir       3207 C000632-9    Na Ni As           223 Im F3 V
+Natoko        3209 B582211-8  N Lo Ni           A  801 Im M2 VI M6 D
+Reacher       3210 C9A8542-8    Ni Fl           A  233 Im G4 D

@@ -1,0 +1,45 @@
+@SUB-SECTOR:Lanth   SECTOR:Spinward Marches
+#
+# Trade routes within the subsector
+$1912 1910 0 -1
+$1912 1815 0 0
+$1815 1719 0 0
+$1719 1920 0 0
+$1920 2319 0 0
+$2319 2417 0 0
+$2319 2418 0 0
+$2417 2716 1 0
+$2418 2520 1 0
+$1711 1810 0 -1
+$1711 1413 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Extolay       1711 B45589A-A  N                    110 Im M2 V M4 D
+Lanth         1719 A879533-B  A Ni Cp              710 Im F5 IV M9 D
+Dinon         1811 D100535-A    Ni Va              201 Im A4 III
+Ghandi        1815 B211455-A  N Ni Ic              303 Im F8 V M3 D
+Victoria      1817 X697772-2    Ag              R  112 Im M2 V
+Dinomn        1912 B674632-9  S Ag Ni              204 Im M8 VI
+Ylaven        1916 X587552-4    Ag Ni           R  922 Im F9 V
+Sonthert      1918 X6266AB-3    Ni              R  314 Im K6 V M0 D
+D'Ganzio      1920 B120410-D  N Ni Po De           312 Im M3 V M0 D
+Wypoc         2011 E9C4547-8    Ni Fl           A  922 Im M3 V
+Djinni        2111 E459000-9    Lo Ni Ba Xb     R  822 Im K5 V
+Rech          2112 D9957AA-6    Ag                 501 Im M0 V
+Kkirka        2212 CAA5345-8    Lo Ni Fl Mi        102 Im M8 V
+Quopist       2215 B150679-A    Ni Po De        A  721 Im M3 V
+Treece        2311 D232866-8    Na Po              610 Im M1 V
+Echiste       2313 C53A313-A    Lo Ni Wa           720 Im G4 V
+Pirema        2314 D691142-5    Lo Ni              802 Im M4 V
+Rhise         2317 C100576-A    Ni Va           A  710 Im M7 V
+Ivendo        2319 B324659-A  A C0 Ni              112 Im A9 V
+Keanou        2411 C792348-7  S Lo Ni              213 Im M3 III M2 D
+Tureded       2414 C465540-9    Ag Ni              614 Im M3 V
+Vreibefger    2415 E481542-3    Ni Rs              901 Im M9 V
+La'Belle      2416 C564112-4    Lo Ni              701 Im F2 V M3 D
+Equus         2417 B55A858-B  S Wa                 202 Im F6 V M5 D
+Icetina       2418 B5245A9-7  N Ni              A  301 Im M9 V M8 D
+Cogri         2419 CA6A643-9    Ni Ri Wa           432 Im M1 II
+Skull         2420 C2237C7-9  N Na Po              601 Im M1 V M0 VI
