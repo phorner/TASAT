@@ -1,0 +1,71 @@
+@SUB-SECTOR:Oegerag SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Rouy          1731 X000000-0    Ba Lo As           001 Ve 
+Zyon          1732 C5759BE-5  C Hi                 814 Ve 
+Ygh           1734 B594766-8    Ag                 714 Ve 
+Bedhghoghek   1735 A35167A-8                       813 Ve 
+Rualsoghou    1738 D998332-5  C Lo                 124 Ve 
+Rorghfuuguur  1740 E553441-3                       420 Ve 
+Khek          1831 D631233-8  C Lo                 700 Ve 
+Zardzygum     1835 A5686A5-9  G Ag                 222 Ve 
+Rrouruibhsak  1932 C493212-6    Lo                 504 Ve 
+Ghimaya       1933 C745578-7    Ag                 514 Ve 
+Uenre         1935 A65679A-B    Ag                 103 Ve 
+Eir           1936 B8B2227-B    Fl Lo              810 Ve 
+Ounsuu        1937 C581366-6    Lo                 604 Ve 
+Zueg          1939 C343400-9                       113 Ve 
+Khaemghek     1940 A6A06B9-8  G De                 832 Ve 
+Ouhiekhigh    2031 B7867B6-5    Ag                 613 Ve 
+Rrdaghzag     2032 B728434-A                       702 Ve 
+Oukghumghal   2033 C755221-7  C Lo                 920 Ve 
+Aghkhath      2034 C546348-6    Lo                 612 Ve 
+Fuingghen     2035 B8A2324-7    Fl Lo              102 Ve 
+Korugh        2038 C677233-7    Lo                 600 Ve 
+Uyg           2039 A655773-A  G Ag                 115 Ve 
+Ah            2040 X000000-0    Ba Lo As           003 Ve 
+Sounrrveghyk  2131 A968777-9    Ag                 714 Ve 
+Velgha        2132 A548646-B  G Ag                 521 Ve 
+Souyethror    2133 X000000-0    Ba As Lo           022 Ve 
+Ighzighfeh    2135 A757888-A                       620 Ve 
+Segh          2136 A439330-B    Lo                 323 Ve 
+Zi            2137 A466ADA-A    Hi                 202 Ve 
+Ebvaerrvoll   2140 X000000-0    Ba Lo As           003 Ve 
+Ghael         2231 A67699B-A    Hi                 403 Ve 
+Ghud          2233 A89A834-9    Wa                 114 Ve 
+Eidghouth     2234 A694732-C  G Ag                 900 Ve 
+Khuerthour    2238 D8D8489-4                       404 Ve 
+Zyaghmeysui   2239 X000000-0    As Ba Lo           003 Ve 
+Khaevu        2240 A739210-D  G Lo                 404 Vl 
+Gheidh        2332 A45696A-B    Hi                 903 Ve 
+Zebhegghath   2333 X000000-0    Ba As Lo           010 Ve 
+Be            2334 B343256-9    Lo                 602 Ve 
+Dzybhikhoug   2335 B8DA5A9-A  G Wa                 714 Ve 
+Okhuyghzknog  2336 A563998-A    Hi                 803 Ve 
+Vaebhsakheig  2434 A525464-B                       400 Ve 
+Vom           2435 C56AAB7-A    Hi Wa              102 Ve 
+Vagaf         2436 A7669FF-B  P Hi              A  703 Ve 
+Kaarlag       2440 A444521-D  G Ag                 213 Vl 

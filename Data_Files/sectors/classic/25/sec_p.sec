@@ -1,0 +1,68 @@
+@SUB-SECTOR:Serrken SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Akfoum        2531 A76AABD-A    Hi Wa              303 Ve 
+Aghuyb        2533 X000000-0    As Ba Lo           013 Ve 
+Sib           2535 X000000-0    Ba Lo As           004 Ve 
+Ikhkheraer    2536 A879662-9    Ag                 704 Ve 
+Aedkeykhirgh  2538 X000000-0    Ba Lo As           013 Ve 
+Yesouhaeg     2539 X000000-0    Ba Lo As           003 Ve 
+Thram         2632 A9989CD-8    Hi                 423 Ve 
+Kghyt         2633 X000000-0    Ba Lo As           004 Ve 
+Uem           2635 B5487A8-8    Ag                 314 Ve 
+Vuthra        2636 X000000-0    Ba Lo As           013 Ve 
+Ezhdrag       2732 A546699-9    Ag                 424 Ve 
+Arghuuren     2733 X000000-0    Ba As Lo           023 Ve 
+Gadhsihku     2736 B442474-9  G                    124 Ve 
+Koumekhker    2737 A792953-9  G Hi                 524 Ve 
+Abhpakgh      2738 A555665-8    Ag                 403 Ve 
+Bhroug        2739 A83A765-C    Wa                 102 Ve 
+Khak          2740 X000000-0    Ba Lo As           004 Ve 
+Oetthaegagh   2831 A664A73-C  G Hi                 223 Ve 
+Somsuirsam    2833 A351426-C                       603 Ve 
+Aema          2834 X000000-0    Ba As Lo           004 Ve 
+Ighzyerghu    2836 A464977-E  G Hi                 404 Ve 
+Omakgheg      2840 A78AA97-F  G Hi Wa              500 Ve 
+Rakhtansuyk   2931 A372872-9                       200 Ve 
+Veun          2932 A758410-C                       523 Ve 
+Oumkurkhe     2933 A5669BA-B  G Hi                 403 Ve 
+Aruuy         2935 D767889-2  C                    412 Ve 
+Oukoraf       2936 B579444-C                       900 Ve 
+Afrangker     2937 A64A668-C  N Ag Wa              404 Ve 
+Seighi        2938 AAA4365-B    Fl Lo              900 Ve 
+Roug          2940 A888895-8                       402 Ve 
+Azyeraeth     3031 A867A9A-8  G Hi                 304 Ve 
+Oulloubh      3035 C536654-9                       901 Ve 
+Rab           3036 B684664-4    Ag                 414 Ve 
+Samaeghz      3039 B383659-C                       114 Ve 
+Fothetigh     3040 A99AA67-G  G Hi Wa              204 Ve 
+Shkek         3135 D52649A-8  C                    802 Ve 
+Ryn           3138 B989414-B                       404 Ve 
+Vraemaeg      3139 C686440-8                       422 Ve 
+Iniyourr      3140 B556ADF-8    Hi                 502 Ve 
+Akhghier      3236 A330354-C  G De Lo              204 Ve 
+Khyvage       3237 X000000-0    Ba Lo As           003 Ve 
+Ybhrem        3239 C555357-8    Lo                 613 Ve 

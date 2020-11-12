@@ -1,0 +1,51 @@
+@SUB-SECTOR:Vaerr SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Sueghfgourgh  0232 D486211-6    Lo                 614 Ve 
+Bhainge       0234 C414254-8    Ic Lo              414 Ve 
+Kodhfouva     0238 X000000-0    Ba Lo As           000 Ve 
+Uarghagh      0239 A679733-B  G Ag                 924 Ve 
+Gerrg         0334 D535200-7  C Lo                 601 Ve 
+Yan           0335 D77A8A8-8    Wa                 504 Ve 
+Aghzbhoug     0336 C445430-A                       423 Ve 
+Ghourkhadh    0337 B55379B-6                       620 Ve 
+Er            0338 A885687-8    Ag                 720 Ve 
+Knoubhvuell   0339 X000000-0    Ba Lo As           002 Ve 
+Oungbhyebh    0340 A300413-B  G Va                 604 Ve 
+Saefong       0431 C300442-8    Va                 103 Ve 
+Vibh          0434 D44299A-7  C Hi                 424 Ve 
+Ibhrrounrru   0531 X000000-0    Ba As Lo           021 Ve 
+Kurthoun      0534 E435354-7    Lo                 400 Ve 
+Angsoeghorrd  0536 X000000-0    Ba Lo As           012 Ve 
+Oughvough     0540 A332547-B  G                    215 Ve 
+Saerad        0631 X000000-0    Ba As Lo           003 Ve 
+Ithresa       0640 B776540-7  G Ag                 605 Ve 
+Ghothvae      0732 B67559D-5    Ag                 102 Ve 
+Kau           0735 X000000-0    Ba As Lo           004 Ve 
+Ghuun         0738 C7A3254-8    Fl Lo              802 Ve 
+Eumbeg        0739 C76A332-6    Lo Wa              400 Ve 
+Khaeghkhoru   0836 A553672-7                       203 Ve 
+

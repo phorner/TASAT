@@ -1,0 +1,41 @@
+@SUB-SECTOR:Voetsgouz SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ngoutaenuenag 2503 E537556-4  C Ni                 703 Ve M8 V M8 D         
+Danuellkakhnga2506 B201132-C  K Ic Lo Ni Va        303 Ve M6 V             
+Ngoezogkhorrue2509 E301456-8  C Ic Ni Va           803 Ve M4 V             
+Daellksansuer 2704 C100788-7    Na Va              813 Ve K0 V             
+Gvivakhirzknos2901 A226355-E    Lo Ni              105 Ve M6 V M6 V         
+Tadaeroeksaeks2904 E2218C9-3    Na Po              515 Ve F6 V             
+Ngoekhsvolan  2906 E4639DG-1    Hi In              620 Ve F8 V             
+Sonellzurzin  2910 C221795-7    Na Po              924 Ve F1 V M1 D M8 D        
+Raezaedhuz    3001 C646133-5    Lo Ni              703 Ve F8 V M7 D         
+Taderrgtsaeng 3004 D647643-0    Ag Ni              500 Ve F5 V             
+Llaellos      3009 B87A344-7    Lo Ni Wa           413 Ve F7 V M6 D         
+Lluedoer      3107 E655677-0  C Ag Ni              803 Ve F8 V             
+Ghuegiks      3110 CA8A753-5    Ri Wa              102 Ve F7 V             
+Nadzazras     3202 E200331-6    Lo Ni Va           105 Ve M1 V M8 D         
+Unorarrgh     3204 B240879-9    De Po              124 Ve F1 V             
+Kusaen        3209 C240533-9  C De Ni Po           902 Ve F4 V             

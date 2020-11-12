@@ -1,0 +1,41 @@
+@SUB-SECTOR:Oekhsith SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kfagnongoughz 1703 E420333-5  C De Lo Ni Po        824 Ve A1 V M2 V         
+Edekakssek    1708 E697435-4  C Ni                 635 Ve F6 V M5 D         
+Khezalzungzaeg1807 E65A215-2    Lo Ni Wa           826 Ve F5 V M5 V M5 D     
+Dzoudzuenger  1810 A67A563-D  K Ni Wa              204 Ve F9 V             
+Daevaknunuegko2005 C447445-4    Ni                 403 Ve F5 V             
+Daengaethganur2009 D2007AC-3    Na Va              725 Ve M5 V M4 V         
+Ugalluerzkfaed2105 E200889-5    Na Va              601 Ve F0 D             
+Gogorou       2106 C302133-7    Ic Lo Ni Va        713 Ve M3 V             
+Toukozghanguen2205 D6696A9-2    Ni                 810 Ve F7 V             
+Kaenguerrghdou2207 B7B4333-A    Fl Lo Ni           608 Ve K6 V M8 D         
+Saaghae       2210 E323878-4    Na Po              200 Ve K5 V M3 D         
+Aazaenataerrgh2309 B78A458-E    Ni Wa              510 Ve F7 V             
+Nifoltsunirrg 2401 C5538BB-3  C Po                 914 Ve M3 V             
+Kikhou        2403 C337776-6  C                    312 Ve M1 V             
+Ksooudakhksoks2406 C312975-9  K Hi Ic Na           101 Ve F4 V             
+Kevegzitsngour2408 E523678-6    Na Ni Po           303 Ve K9 V M0 D         

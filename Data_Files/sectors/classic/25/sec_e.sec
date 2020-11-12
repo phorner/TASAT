@@ -1,0 +1,43 @@
+@SUB-SECTOR:Dhaendzouts SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Oghruubh      0115 CA98566-7    Ag                 204 Ve 
+Oumsaengve    0212 A566754-9  G Ag                 902 Ve 
+Uybharrgig    0213 B8A2448-C    Fl                 703 Ve 
+Agherrye      0219 E579210-8    Lo                 820 Va 
+Eto           0311 A6678DB-8                       403 Ve 
+Shkatagh      0315 X000000-0    Ba Lo As           023 Ve 
+Ghageghz      0320 D795997-A  C Hi                 223 Va 
+Saf           0414 C763300-9    Lo                 313 Ve 
+Ruies         0420 B665623-6  X Ag Ni Ri           323 Va 
+Gagghuu       0512 B72248C-A                       212 Ve 
+Ghurrpay      0518 X000000-0    As Ba Lo           001 Ve 
+Kigseuyaibh   0616 D232340-9  C Lo                 300 Ve 
+Vuekkouyag    0618 X000000-0    Ba As Lo           021 Ve 
+Oesoufuk      0713 B66A99A-C  G Hi Wa              504 Ve 
+Yetdzor       0716 C560420-5    De                 224 Ve 
+Rrvag         0720 X000000-0    As Ba Lo           013 Ve 
+Rroufaerghir  0820 C351975-C    Hi                 310 Ve 

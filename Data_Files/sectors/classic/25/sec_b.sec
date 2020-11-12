@@ -1,0 +1,33 @@
+@SUB-SECTOR:Kfirzin SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zyoyghen      0904 E371215-8  C Lo                 504 Va  
+Oukough       1205 E546779-3    Ag                 802 Ve  
+Oudugh        1306 D576213-2    Lo                 305 Ve  
+Khabhsegei    1409 C9B8268-A    Fl Lo              100 Ve  
+Khaghiell     1508 A545A8C-D  G Hi                 123 Ve  
+Ysugoukh      1602 C6C1362-9    Fl Lo              804 Ve  
+Aeze          1610 C486422-9                       404 Ve  

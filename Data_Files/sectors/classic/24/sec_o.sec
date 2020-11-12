@@ -1,0 +1,45 @@
+@SUB-SECTOR:Utheng SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gougenaeks    1732 C654AAD-8    Hi In              103 Vb F9 V             
+Ksaerarsalaekf1735 C330796-3    De Na Po           600 Vb M7 V M4 D         
+Goghzkfingaegz1836 E240622-4  C De Ni Po           610 Vb F5 V M2 D         
+Tsaeghaell    1839 A78A202-A  C Lo Ni Wa           902 Vb G3 V M8 D         
+Faraerrghksoeg1840 E232778-5  C Na Po              503 Vb M3 V             
+Ghuelrrirrg   1933 A342100-9  K Lo Ni Po           404 Vb F2 V             
+Ghangrorrllugh2035 B100565-C    Ni Va              303 Vb G1 V             
+Godzoutiraez  2036 C8B7464-8  C Fl Ni              713 Vb F7 V M8 V         
+Dhueghakhiz   2039 C346479-A  C Ni                 204 Va F6 V             
+Ghollorrinaera2132 B540568-6    De Ni Po           113 Vb K9 V             
+Ksunaedhzaerra2137 A455620-9    Ag Ni              114 Vb F9 V             
+Laezoeghaesaet2139 C76A531-A  K Ni Wa              802 Va F0 V M0 D         
+Llogztughghiz 2236 A8B9AA6-G    Fl Hi In           205 Vb K4 V M5 D         
+Llana         2239 B3659DB-6  K Hi In              424 Va F0 V             
+Rroghaerzuek  2331 B000255-D  K As Lo Ni           110 Vb M1 III           
+Llaegzagounoen2333 C638401-6  K Ni                 704 Vb M6 V M1 D         
+Kfaguenknuth  2336 B65988A-5                       400 Vb F9 V F7 V M4 D     
+Taesagvog     2340 C767795-1  K Ag Ri              703 Va F1 V M4 D         
+Khogna        2433 D43488B-7                       501 Vb K9 V             
+Kethaksvon    2436 E41167B-5  C Ic Na Ni           401 Vb M1 V M7 D         

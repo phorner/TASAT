@@ -1,0 +1,51 @@
+@SUB-SECTOR:Aenael SECTOR:Ngathksirz
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ughzouh       1715 C456240-A    Lo                 703 Ve 
+Onaeken       1719 B757649-A    Ag                 612 Ve 
+Aesorekh      1811 X677742-1    Ag                 103 Ve 
+Irru          1813 C535241-7    Lo                 420 Ve 
+Kipe          1814 AAB6575-9    Fl                 503 Ve 
+Gorghaekouh   1818 A768844-A                       301 Ve 
+Vaeyae        1819 A66697C-A  P Hi                 105 Ve 
+Auk           1914 A110369-9  G De Lo              603 Ve 
+Bhienou       1917 A463996-E  G Hi                 105 Ve 
+Soth          1919 A461999-D  G Hi                 800 Ve 
+Afkhoufue     2012 C110200-8    De Lo              303 Ve 
+Ethrabhuf     2013 C74A210-8    Lo Wa              803 Ve 
+Uhfokrreeth   2014 X000000-0    As Ba Lo           001 Ve 
+Arkug         2016 B365899-C                       211 Ve 
+Varroerth     2017 A697A3D-G  G Hi                 402 Ve 
+Rrguekgh      2018 A75AA3B-F    Hi Wa              413 Ve 
+Pirae         2019 A49779C-D    Ag                 714 Ve 
+Uyghf         2115 A88A755-C    Ag Wa              204 Ve 
+Aeghzaem      2219 A748452-B                       200 Ve 
+Kigaegak      2313 X000000-0    Ba Lo As           002 Ve 
+Kheg          2314 C436222-8    Lo                 124 Ve 
+Tsaeghar      2320 B547630-8    Ag                 800 Ve 
+Faeroghzubhr  2414 X454734-2    Ag                 802 Ve 
+Kagaeba       2417 E550214-7    De Lo              404 Ve 
+Oksoegh       2418 E688314-5    Lo                 512 Ve 
+Ueralgnaekh   2419 C99897C-7    Hi                 404 Ve 

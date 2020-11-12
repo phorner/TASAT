@@ -1,0 +1,47 @@
+@SUB-SECTOR:Thafo SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Shkuekdzuun   0925 A893544-A                       904 Ve 
+Ofkghaeg      0926 B464768-A    Ag                 923 Ve 
+Imaghrak      0927 C430210-8    De Lo              602 Ve 
+Akhogmakh     1021 D330212-9  C De Lo              604 Ve 
+Rrgagh        1023 C474210-B    Lo                 801 Ve 
+Zaerokh       1030 E588512-4    Ag                 403 Ve 
+Eersek        1124 C576430-8                       724 Ve 
+Rakhe         1125 X000000-0    As Ba Lo           000 Ve 
+Epar          1126 A86A9AC-F    Hi Wa              423 Ve 
+Khaerrghzaim  1226 X000000-0    Ba Lo As           003 Ve 
+Urrghengae    1228 C7B1335-A    Fl Lo              402 Ve 
+Aybhaeyu      1326 A747799-7    Ag                 303 Ve 
+Bhuyeu        1421 C6A1534-7    Fl                 802 Ve 
+Ghairkhghe    1425 A5888BD-A  G                    102 Ve 
+Igoy          1426 A423677-D  G                    812 Ve 
+Oudith        1430 E16046A-3    De                 105 Ve 
+Aereghzar     1523 B665776-5    Ag                 101 Ve 
+Rraereg       1529 D86A5AE-4  C Ag Wa              302 Ve 
+Egoy          1621 C586877-4                       914 Ve 
+Ekhghfaemem   1624 X000000-0    Ba Lo As           024 Ve 
+

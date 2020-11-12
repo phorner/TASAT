@@ -1,0 +1,42 @@
+@SUB-SECTOR:Sogae SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Doutaelfoutsok1002 C755322-6  K Lo Ni              812 Va F1 V             
+Dzerrueng     1003 D1007CC-5    Na Va              104 Va M8 V M4 D         
+Kherrghoezgnoe1005 B8A3241-B  K Fl Lo Ni           104 Va K7 V             
+Ao            1010 A635125-B  K Lo Ni              300 Vd K7 V             
+Oetsuerrlaeghi1104 C575105-6    Lo Ni              310 Va F7 V M6 D         
+Faetoegue     1105 E754573-7    Ag Ni              700 Va M4 V             
+Voedoghan     1109 B410524-D    Ni                 501 Va M0 V M7 V         
+Tsilueaeue    1202 D975376-1  C Lo Ni              703 Va K8 V M7 D         
+Oku           1208 D785236-6    Lo Ni              801 Va M7 V             
+Gzaenona      1402 B682535-8    Ni                 902 Ve K6 V             
+Tsansuez      1407 B77479B-9    Ag                 712 Va F7 V M8 D F2 V     
+Ourrghorrghorr1410 D320876-8    De Na Po           403 Va M2 V             
+Uzendour      1504 C421645-9  K Na Ni Po           100 Ve K6 V             
+Zaegvekaguetha1601 E575699-2  C Ag Ni              916 Ve K5 V M8 D         
+Gonguerrlloll 1603 A000777-8    As Na              300 Ve M4 V             
+Kfitheg       1605 D883A73-8    Hi In              406 Ve F6 V M1 D         
+Naerraegueg   1606 C843736-4    Ag Po              106 Ve F5 V M2 D         

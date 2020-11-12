@@ -1,0 +1,50 @@
+@SUB-SECTOR:Dagvigae SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Noefaes       0931 E673699-6  C Ag Ni              517 Vb F7 V M0 D F4 V     
+Dzaghuekhurrg 0933 C524346-9  K Lo Ni              800 Vb F2 V             
+Luekhaenoethul0937 C200666-A  C Na Ni Va           203 Vb F8 V M3 D         
+Ghoufougag    1033 B98676A-7  K Ag Ri              800 Vb F2 V             
+Fingunego     1036 E644879-0                       610 Vb F7 V             
+Riloukhoerrg  1131 C20069D-4    Na Ni Va           814 Vb K6 V             
+Zalknin       1136 B886666-4    Ag Ni Ri           703 Vb M4 V             
+Llukhgaghza   1138 CAD7400-9    Fl Ni              800 Vb M3 V             
+Urzgvuegisoeg 1231 CA9A978-8  C Hi In Wa           922 Vb F6 V M5 D         
+Ghuthdaelaghae1232 C542746-5  K Po                 900 Vb K6 V M5 D         
+Thaekhaekh    1236 E682A77-9    Hi In              503 Vb F8 V             
+Daeghnonael   1238 C655879-5                       606 Vb F6 V M5 D         
+Goega         1239 A9857B9-8    Ag                 400 Vb G0 V             
+Dhaengouzathzo1333 B432200-9    Lo Ni Po           810 Vb M8 V M7 V M5 D     
+Ogue          1335 A330434-E    De Ni Po           403 Vb F5 V             
+Khaedhllaeghku1337 E444677-3    Ag Ni              400 Vb K1 V M6 D         
+Zaeuegzuer    1432 B200895-B  K Na Va              112 Vb G0 V             
+Ksoenthutsthae1436 C310554-9  K Ni                 501 Vb M5 V M3 D         
+Odaeghzksugong1439 E321755-6    Na Po              311 Vb M0 V             
+Zoughzighorzae1532 E000432-7    As Ni              301 Vb M6 V             
+Kuerouzongaeni1535 C732977-7    Hi In Na Po        313 Vb F6 V             
+Thaskaz       1540 E787355-3    Lo Ni              801 Vb K0 V M6 D         
+Dzarslloekuenu1632 A85747B-9  K Ni                 711 Vb F3 V             
+Goenal        1633 D450220-6    De Lo Ni Po        303 Vb M3 V M6 V         
+Taeghaeu      1638 C582444-2  C Ni                 718 Vb F8 V M5 D         

@@ -1,0 +1,47 @@
+@SUB-SECTOR:Aengangvuer SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ebhorron      2501 X000000-0    As Ba Va Lo        004 Ve 
+Gheb          2502 E484575-9  C Ag Ni              613 Ve 
+Akoun         2507 A887953-C    Hi                 404 Ve 
+Ghegefi       2608 X000000-0    Ba As Lo           003 Ve 
+Ghogrraehrir  2609 A666964-C  G Hi                 803 Ve 
+Ghugaethr     2703 E544315-7    Lo                 102 Ve 
+Reg           2709 A98A846-9    Wa                 402 Ve 
+Kni           2804 X000000-0    Ba Lo As           003 Ve 
+Kih           2807 C676549-5    Ag                 304 Ve 
+Fag           2902 X000000-0    Ba Lo As           022 Ve 
+Zudzyes       2906 X000000-0    As Ba Lo           003 Ve 
+Igregerr      2908 C36185A-7                       803 Ve 
+Kyh           2909 X000000-0    Ba Lo As           000 Ve 
+Kherauzhdror  2910 A688AEF-A  G Hi                 114 Ve 
+Uakh          3102 E543530-5    Po Ni              623 Ve 
+Ikkeffog      3105 X000000-0    Ba Lo As           004 Ve 
+Kyefghekghar  3109 A371868-8                       522 Ve 
+Raeruerrgkso  3201 E6A257B-5    Fl Ni              214 Ve 
+Ikhuefuel     3204 E343867-6    Po                 215 Ve 
+Aenglloeze    3207 E7A3670-4    Fl Ni              104 Ve 
+Aerrkueghue   3208 C787742-7    Ag                 410 Ve 

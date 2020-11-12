@@ -1,0 +1,58 @@
+@SUB-SECTOR:Kueroe SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Bhubhaek      1702 D654978-4  C Hi                 303 Ve 
+Ohueghfag     1705 C888899-8    Cw                 423 Ve 
+Bhohorbugh    1707 BA8A965-9    Hi Wa              310 Ve 
+Ebhroughgael  1708 X000000-0    As Ba Lo           005 Ve 
+Augui         1709 A784659-A  G Ag                 514 Ve 
+Koutueghaegh  1710 A565ACD-A    Hi                 123 Ve 
+Ougsai        1803 D443210-7    Lo                 714 Ve 
+Vugknaseg     1806 C454587-5    Ag                 405 Ve 
+Ogoukgheibh   1807 B42475A-C                       213 Ve 
+Ghikkor       1809 A747432-D  G                    812 Ve 
+Rrougsalebhr  1810 B48588A-7                       214 Ve 
+Khoghefegh    1901 EAC7214-8    Fl Lo              105 Ve 
+Kuasig        1903 C546842-6                       722 Ve 
+Thikhkadh     1907 B5879A9-7    Hi                 814 Ve 
+Arrof         1909 A58A554-C    Ag Wa              905 Ve 
+Oghu          2002 C340453-7    De                 204 Ve 
+Ovugh         2010 B42745A-9  G                    304 Ve 
+Rehabhe       2102 X000000-0    As Ba Lo           012 Ve 
+Dzazhd        2104 D578656-6  C Ag Ni              320 Ve 
+Aemi          2105 C98A542-A    Ag Wa              903 Ve 
+Ghagkhae      2106 B65569E-5    Ag                 113 Ve 
+Roke          2108 A356834-C                       915 Ve 
+Oufigae       2110 B466777-A  G Ag                 603 Ve 
+Farvrorrv     2201 E200210-9    Lo Va              200 Ve 
+Ighak         2202 E37169B-6    Ni                 315 Ve 
+Udzougur      2205 D546599-6    Ag                 513 Ve 
+Ikkaes        2306 X000000-0    Ba Lo As           014 Ve 
+Oufegh        2308 BAFA462-7  G Wa                 702 Ve 
+Oshkughoubhr  2404 E440666-4    De Ni              113 Ve 
+Uyrr          2406 A572965-C  G Hi                 900 Ve 
+Arasae        2408 A548799-C    Ag                 504 Ve 
+Seud          2409 BA8A969-D    Hi Wa              825 Ve 

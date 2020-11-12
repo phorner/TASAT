@@ -1,0 +1,44 @@
+@SUB-SECTOR:Aegroul SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Koungolaeghzil2524 A437751-9  K                    406 Vm K7 V M1 D         
+Nanou         2528 E546552-5  C Ag Ni              203 Vb F3 V M6 D         
+Gaguedzouts   2529 D678567-2    Ag Ni              524 Vb G5 V M2 D         
+Kharounour    2530 X63787A-1  C                    404 Vb F5 V                        
+Rronfaegheksdh2624 C200513-A  H Ni Va              710 Vm A9 V             
+Nuerrgnok     2629 E403695-3    Ic Na Ni Va        502 Vb A6 V                         
+Ghagaen       2721 E4339BF-7  C Hi In Na Po        104 Vm F9 V             
+Llogvuerrgh   2729 D210788-4    Na                 604 Vb F1 V             
+Saeo          2825 D899577-5  C Ni                 615 Va F9 V             
+Lliguthoun    2827 A56837A-9  K Lo Ni              802 Vb G1 V             
+Nueangruellkfi2922 D7A09AE-5  C De Hi In           316 Va G7 V M7 D         
+Taghaek       2929 BA9A976-C  K Hi In Wa           301 Vb F9 V M2 D         
+Nangaeghzaers 3021 C546776-2  C Ag                 103 Va F0 V M3 D         
+Lagzgakuktsueg3121 E300976-9  C Hi Na Va           202 Va F7 D M5 D         
+Tusvaegzuegol 3127 C326232-7  K Lo Ni              703 Va K7 V             
+Ghuzae        3128 C657546-6    Ag Ni              100 Va F5 V             
+Dzozgokaeveng 3222 D7C07A8-5  C De                 830 Va M8 V             
+Toufaell      3226 D7486BC-1  K Ag Ni              503 Va F9 V             
+Aksovirfourrgn3228 C766875-3                       104 Va M7 V M7 D         

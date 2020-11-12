@@ -1,0 +1,40 @@
+@SUB-SECTOR:Ruevoga SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Tueghsi       0917 A778644-A  G Ag                 703 Ve 
+Ghieghuuh     1014 X110000-0    Ba Lo              023 Ve 
+Yaegh         1018 B5A5532-9    Fl                 504 Ve 
+Ghukgh        1111 X334000-0    Ba Lo              014 Ve 
+Bhabraehzakh  1116 A447AEE-C  G Hi                 502 Ve 
+Dzaeghkghung  1120 C535100-9    Lo                 613 Ve 
+Aebhrdzamgan  1313 A9D99AA-D  G Hi                 903 Ve 
+Gaeghfazhdek  1315 A799673-C    Ag                 323 Ve 
+Ofsoum        1319 C7B2368-7    Fl Lo              705 Ve 
+Imrrebeg      1411 B477658-9    Ag                 102 Ve 
+Rrvukberan    1420 B856735-8  G Ag                 600 Ve 
+Ghaerrgam     1511 X5A1000-0    Ba Fl Lo           005 Ve 
+Knoughz       1515 A875965-B    Hi                 413 Ve 
+Guerrknue     1517 X472474-4  C Lo Ni              603 Ve 

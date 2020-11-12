@@ -1,0 +1,46 @@
+@SUB-SECTOR:Ugaethi SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Figirrugkfuksu0101 B130765-8  K De Na Po           302 Va K1 IV M8 V        
+Kfoevokhonuerr0106 BA6A775-7    Wa                 410 Vd F4 V M7 D         
+Gikungoenzaegh0201 A55549D-A  K Ni                 610 Va F3 V M3 D         
+Tsuakhkigorrg 0206 C221578-A  C Ni Po              215 Vd F3 V M3 D         
+Ueagzaegikh   0207 C97A535-8  K Ni Wa              402 Vd F7 V             
+Ikougagh      0209 C674776-7    Ag                 903 Vd G5 V             
+Saezzaezughkso0303 C400559-C  C Ni Va              600 Vd M2 V             
+Tsongaengirrue0306 C683356-8  C Lo Ni              103 Vd F7 V             
+Aeegnasathodou0404 B483669-6    Ag Ni Ri           404 Vd K8 V              
+Agvourrg      0407 D578531-5    Ag Ni              816 Vd F9 V M6 D         
+Eurraezuekhso 0409 D0006AC-5  K As Na Ni           904 Vd M8 V M3 D         
+Veskarrg      0503 E222599-3  C Ni Po              701 Va M7 V K7 V         
+Dhoaeng       0506 A241338-A  K Lo Ni Po           602 Vd F5 V M6 D         
+Dzuegaerrghaer0508 C89A674-6    Ni Wa              302 Vd F0 V             
+Vougrungouksko0601 A310002-9  K Lo Ni              423 Va F9 V             
+Ukfinferrgkhae0603 C644975-5  K Hi In              501 Va F8 V             
+Dhugakh       0610 D341216-3    Lo Ni Po           101 Vd F3 V             
+Tsaerraroekgha0702 C737778-6                       214 Va K5 V             
+Thukhighuell  0706 EA69378-7  C Lo Ni              404 Vd F7 V M6 D         
+Dhukhaeghzegvo0709 C86777B-4  K Ag                 902 Vd M1 V F2 V M1 D         
+Kfoeksrrengan 0803 C595354-9  C Lo Ni              700 Va F5 V             

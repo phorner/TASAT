@@ -1,0 +1,38 @@
+@SUB-SECTOR:Gadhognae SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Dhirrgaezvanaz0915 C545683-3  K Ag Ni              215 Vd F8 V M8 D         
+Nagtueldhoukhu0918 E586A7A-9  C Hi In              203 Vd F8 V                       
+Goso          1013 B754630-4  K Ag Ni              203 Vd F5 V             
+Fegheghz      1016 C557333-7    Lo Ni              925 Vd F2 V M0 D         
+Knakhonggzurs 1020 D564445-3    Ni                 320 Vd F9 V                         
+Gvoghgvughoen 1116 B371775-5  C                    213 Vd K5 V M6 D         
+Zoagvar       1213 E352896-4  C Po                 503 Vd F1 V M1 D         
+Naekhgheghsan 1319 CAB2347-5    Fl Lo Ni           800 Va F7 V             
+Rrekhun       1413 A66577B-A  K Ag                 324 Va F0 V             
+Gverrghaegugll1416 C69697B-8    Hi In              914 Va F6 V             
+Khougvifurloen1516 B361875-A                       723 Va G4 V M4 D         
+Dhalughaersgzo1617 B763A75-7    Hi In              123 Va F3 V             
+Dugourollgvaek1619 X100476-4  C Ni Va              700 Vm F2 V             

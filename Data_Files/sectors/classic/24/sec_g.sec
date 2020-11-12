@@ -1,0 +1,40 @@
+@SUB-SECTOR:Khoeng SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ghazasu       1711 B210778-A    Na                 303 Ve F5 V             
+Tsuekoes      1713 A58387B-7  K                    700 Ve F2 V             
+Kodirsodaelteg1718 C746887-6  K                    100 Va G9 V                        
+Dzagaenourang 1813 A775000-A  C Ba Lo Ni           511 Ve F0 V             
+Garinagvueloth1820 E5A0663-4    De Ni              801 Vm K1 III M5 V             
+Aghoukhaea    1913 B513757-7    Ic Na              644 Ve G0 V M5 D         
+Thaaekaelguel 2012 C9D5537-9    Fl Ni              200 Ve G5 IV M8 D M6  M1 D
+Dhesagzueg    2113 C110978-B    Hi Na              404 Ve F8 V M8 D         
+Osaeroenaek   2118 B560865-6    De Ri              211 Vm K0 V M6 D                 
+Sunoukhorrnin 2213 B535735-B  K                    205 Ve M1 V M7 V         
+Onarrorroghz  2217 B85A978-C  C Hi In Wa           914 Vm M3 V             
+Gvoughzgoukrik2311 C445553-4  K Ag Ni              503 Ve F0 V             
+Uedoraerrghzos2317 D496567-5  H Ag Ni              922 Vm F1 V M8 D         
+Zoghangurrgagh2413 E779888-2  C                    520 Ve F8 V             
+Kaengaerzdzigh2419 C8B2789-4    Fl                 527 Vm F2 V M2 D         

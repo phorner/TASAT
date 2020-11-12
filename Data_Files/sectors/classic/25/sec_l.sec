@@ -1,0 +1,55 @@
+@SUB-SECTOR:Raez SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Oughaekh      2522 C453972-9    Hi                 913 Ve 
+Gharsesar     2524 X000000-0    Ba Lo As           004 Ve 
+Foussudhoug   2525 X000000-0    Ba Lo As           004 Ve 
+Sesakham      2527 D253200-4  C Lo                 323 Ve 
+Geegherour    2623 C260521-8  C De                 404 Ve 
+Radakho       2624 D444776-7    Ag                 404 Ve 
+Iebh          2625 D58597A-9    Cw Hi              214 Ve 
+Vikorkhouy    2721 B232246-A  G Lo                 802 Ve 
+Vuekighkgho   2722 C225452-A                       303 Ve 
+Ghfaerghotoe  2821 X000000-0    Ba As Lo           010 Ve 
+Thegaghzvo    2824 B34669B-5    Ag                 723 Ve 
+Dzuth         2825 X000000-0    Ba Lo As           002 Ve 
+Sougthad      2827 C486210-9    Lo                 100 Ve 
+Yagho         2921 A594545-A  G Ag                 200 Ve 
+Tough         2929 AA6A9CC-9    Hi Wa              413 Ve 
+Egaghe        2930 A96AAFF-A  G Hi Wa           A  203 Ve 
+Aegtsirr      3021 A7977B8-A    Ag                 820 Ve 
+Egyemo        3025 A864ADD-9  G Hi                 104 Ve 
+Khikheih      3028 A759550-C    Ag                 702 Ve 
+Khakhaegbegh  3030 B4849CB-B  G Hi                 203 Ve 
+Faekaegh      3126 X000000-0    Ba As Lo           002 Ve 
+Kheuta        3127 A130694-9    De                 613 Ve 
+Egaeth        3222 AA8858D-9    Ag                 903 Ve 
+Souyrroghz    3223 BA86887-A  G                    302 Ve 
+Ifghaerrg     3224 C5519BB-B    Hi                 201 Ve 
+Ralla         3226 B250556-B    De                 815 Ve 
+Uraefaey      3227 A451676-8                       814 Ve 
+Aeghghaer     3230 C432365-9    Lo                 504 Ve 
+

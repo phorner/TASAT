@@ -1,0 +1,51 @@
+@SUB-SECTOR:Nouksaezor SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aeghroukh     0933 E435354-7    Lo                 400 Ve 
+Avurrgthi     0937 B646466-5                       810 Ve 
+Keyghagthaek  1035 A675588-8    Ag                 915 Ve 
+Okourkyrrg    1040 B333698-C  G                    300 Ve 
+Ourat         1133 D88798B-2  C Hi                 814 Ve 
+Ouraghaeh     1134 C200310-7    Lo Va              321 Ve 
+Aegour        1232 D783776-4                       210 Ve 
+Kghamvuakh    1234 B8859EH-7  C Hi              A  602 Ve 
+Aghzorrdeugh  1235 X000000-0    Ba As Lo           012 Ve 
+Rrvako        1238 A98A652-E  P Ag Wa              513 Ve 
+Khegarghikh   1240 X000000-0    Ba Lo As           013 Ve 
+Abhrayi       1333 X000000-0    Ba Lo As           004 Ve 
+Ourigh        1335 A443351-A  G Lo                 711 Ve 
+Zhdag         1336 X000000-0    As Ba Lo           004 Ve 
+Ghoukgaete    1338 A669A87-E  G Hi                 204 Ve 
+Iekosyf       1434 A76AAA8-E  G Hi Wa              102 Ve 
+Kibhrsie      1531 D773533-5                       825 Ve 
+Ekhakghkuam   1532 C44365A-A                       420 Ve 
+Ingak         1536 A586ABB-F    Cw Hi              314 Ve 
+Aeghbhurebh   1538 B443212-D    Lo                 403 Ve 
+Ziezhdkur     1539 X000000-0    As Ba Lo           012 Ve 
+Mebhghouy     1631 C310314-C    Lo                 601 Ve 
+Aergh         1633 B864564-6    Ag                 320 Ve 
+Uimoeghe      1634 A33676B-8  G                    610 Ve 
+Ghzebhkhak    1638 C8A5374-9    Fl Lo              404 Ve 

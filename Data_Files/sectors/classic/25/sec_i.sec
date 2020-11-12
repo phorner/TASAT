@@ -1,0 +1,54 @@
+@SUB-SECTOR:Zarrkoe SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Agiksa        0124 A78798A-E  G Hi                 504 Va 
+Kghoughghoug  0127 D5589AA-5    Hi                 630 Va 
+Ukhvour       0130 D757885-4                       404 Va 
+Reyghuaghoug  0221 B779530-8    Ag                 303 Va 
+Datu          0223 B868AE9-A  X Hi                 112 Va 
+Ghzisrerrg    0226 D7799CB-7    Hi                 513 Va 
+Khaekhosam    0227 E868677-6  C Ag                 803 Va 
+Raiyazae      0323 A863AEA-B    Hi                 224 Va 
+Erre          0326 X000000-0    Ba As Lo           011 Va 
+Bouga         0328 X000000-0    Ba Lo As           023 Va 
+Vegighog      0330 C527334-8    Lo                 323 Ve 
+Ighuirrref    0421 X000000-0    Ba As Lo           013 Va 
+Ghouvoug      0422 X000000-0    As Ba Lo           000 Va 
+Asghan        0424 X000000-0    Ba Lo As           002 Ve 
+Zakehoghf     0430 D537413-7    Lo                 103 Ve 
+Uyk           0525 B47456B-9    Ag                 814 Ve 
+Inorfaeb      0526 B778300-B    Lo                 602 Ve 
+Ayur          0527 A66A598-B  G Ag Wa              904 Ve 
+Tou           0530 C66287B-6                       424 Ve 
+Oukhthi       0621 A976753-9  G Ag                 822 Ve 
+Ueghf         0623 B242656-B  P                    803 Ve 
+Fagh          0627 B72978A-C                       401 Ve 
+Saedh         0628 C404210-7    Ic Lo Va           903 Ve 
+Thregh        0721 B4647AB-5    Ag                 414 Ve 
+Zhdeth        0725 B56559B-9    Ag                 603 Ve 
+Shkol         0726 B8786BA-9    Ag                 600 Ve 
+Efkharrv      0729 D537413-7    Lo                 103 Ve 
+Fam           0828 E453564-4    Lo                 102 Ve 

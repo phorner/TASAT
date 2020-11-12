@@ -1,0 +1,39 @@
+@SUB-SECTOR:Llako SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Vougzueg      0133 C638621-8    Ni                 900 Va M0 V             
+Dadhoezorzksag0139 B7A4446-A    Fl Ni              500 Vo M3 V             
+Aeakirfaetsuen0140 A381133-A    Lo Ni              810 Vo F5 V             
+Tegvaesakhungt0232 B434A79-C    Hi In              900 Va F0 V M1 D M4 D     
+Ghoeoundhaegh 0336 E8A4400-7  C Fl Ni              313 Va A6 V M4 D         
+Arzagogerz    0438 B546000-8  K Ba Lo Ni           402 Vb F0 V             
+Gvakhtoegzoul 0534 A400865-8  K Na Va              403 Vb F2 V             
+Goraeguenrogzo0535 E556550-5    Ag Ni              302 Vb M2 V             
+Nazaeghuzu    0631 DA5A124-5    Lo Ni Wa           603 Vb F5 V M3 D         
+Gaeoungar     0634 A210421-E  K Ni                 101 Vb F9 V M0 D         
+Llaedza       0635 C9B4332-6    Fl Lo Ni           400 Vb M1 V M8 D         
+Koedhighokses 0640 B547430-6  K Ni                 601 Vb G2 V             
+Nathikhkfin   0733 A58297A-B  K Hi In              312 Vb F4 V             
+Ghuenrarrgh   0832 C2108DD-3    Na                 203 Vb F5 V M0 V         

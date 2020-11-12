@@ -1,0 +1,36 @@
+@SUB-SECTOR:Dhaetsae SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gaedhoung     2518 A656576-8  K Ag Ni              901 Vm F4 V             
+Fada          2612 B75A226-B  C Lo Ni Wa           603 Ve F5 V M1 D         
+Otarrou       2619 A452365-A    Lo Ni Po           700 Vm M1 V             
+Rruegzue      2711 A575422-8    Ni                 400 Ve M6 V             
+Khekhudhtogh  2718 C233679-4  C Na Ni Po           613 Vm M5 III M3 D M6 D   
+Funirroesaegha2817 X695401-0  C Ni                 602 Vm F7 V             
+Furraegan     2915 E457879-2  C                    812 Ve F2 V             
+Taeghaegnanueg3014 D683335-3    Lo Ni              103 Ve F9 V M6 D         
+Soghezok      3017 B251663-4    Ni Po              605 Va K8 V             
+Nourgharr     3115 C54887A-3  H                    800 Ve F7 V M6 D         
+Vekhsdunganouk3220 C450541-4    De Ni Po           520 Va F9 V M5 D         

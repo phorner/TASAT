@@ -1,0 +1,41 @@
+@SUB-SECTOR:Uengou SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Uraub         1726 C271244-9    Lo                 213 Ve 
+Irgha         1728 B56368B-9                       905 Ve 
+Sebh          1826 A655777-7    Ag                 602 Ve 
+Ibghfeergh    1922 C554451-9                       703 Ve 
+Adzi          1923 C7C5200-7  C Fl Lo              713 Ve 
+Thibh         2030 A587997-D    Hi                 600 Ve 
+Yeghf         2221 D74A441-8    Wa                 202 Ve 
+Oubhkae       2224 X000000-0    Ba Lo As           012 Ve 
+Sevouftsot    2225 A7899CB-C  G Hi                 403 Ve 
+Irvae         2226 A454778-8    Ag                 313 Ve 
+Kuk           2322 C685A9B-B  G Hi                 103 Ve 
+Dzaeghougegh  2421 DA5A210-A    Lo Wa              204 Ve 
+Karkougoubh   2423 B4418BB-5                       823 Ve 
+
+

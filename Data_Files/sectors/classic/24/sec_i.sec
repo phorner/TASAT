@@ -1,0 +1,44 @@
+@SUB-SECTOR:Udzginger SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Foegulu       0121 D656105-1  K Lo Ni              320 Vd G1 V             
+Zadzaenksaelae0130 B410277-8    Lo Ni              103 Va M8 V             
+Kfakhaegog    0224 X412773-3  C Ic Na              602 Vd G3 V M0 D         
+Kokhoeraedhgha0225 B400775-7    Na Va              703 Vd G2 V             
+Ourrgaenourrgo0227 B728779-9                       402 Vd F0 III           
+Gikhonruegogz 0321 B252454-8  K Ni Po              301 Vd F3 V M6 D         
+Thaeghzgoen   0422 E67A898-5  C Wa                 306 Vd F5 V M0 D         
+Gaeraen       0430 C45556A-6  K Ag Ni              421 Vb F1 V             
+Thuerkfengough0521 CAD8652-5    Fl Ni              801 Vd M2 V M3 D         
+Vousughunthouk0525 A582564-B    Ni                 101 Vd F1 V M4 D         
+Vaedzaghavu   0529 B658547-5  K Ag Ni              201 Vb F7 V M7 D         
+Aenguzus      0623 B210436-7    Ni                 200 Vd M0 V             
+Rukhtsokhaedh 0626 C32647A-4    Ni                 134 Vd M1 V M0 D         
+Naeo          0725 D100234-6  C Lo Ni Va           112 Vd F9 IV            
+Voeroegoranazo0729 D300445-3  C Ni Va              103 Vb K2 V M6 D         
+Gveturrgogh   0821 A784465-9  K Ni                 300 Vd F6 V             
+Thodo         0824 E676373-2  C Lo Ni              536 Vd F1 V M8 D         
+Duerroungugh  0826 A544656-9    Ag Ni              602 Va F8 V             
+Kirrothorz    0829 C766267-7  K Lo Ni              612 Vb F4 V             

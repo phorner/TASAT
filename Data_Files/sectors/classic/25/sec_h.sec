@@ -1,0 +1,57 @@
+@SUB-SECTOR:Roenvoegazdu SECTOR:Ngathksirz
+#
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0-5)
+#^1840 0
+#^1840 1
+#
+#
+#  1-13: Name
+# 15-18: HexNbr
+# 20-28: UWP
+#    31: Bases
+# 33-47: Codes & Comments
+#    49: Zone
+# 52-54: PBG
+# 56-57: Allegiance
+# 59-74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc. UPP Code   B   Remarks       Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ghzabhrouyer  2511 B586633-9    Ag                 900 Ve 
+Aughsar       2512 B538695-9                       524 Ve 
+Knaf          2515 B778843-6                       803 Ve 
+Orkhsog       2518 D8A3212-8  C Fl Lo              814 Ve 
+Ve            2520 B321264-8    Lo                 904 Ve 
+Esaghzboughz  2612 C585553-8    Ag                 103 Ve 
+Aetughai      2617 X000000-0    Ba Lo As           010 Ve 
+Raef          2618 D7A2253-8    Fl Lo              202 Ve 
+Aerzhdedsa    2713 C544447-7                       114 Ve 
+Ounsaegvyg    2718 E535472-7                       330 Ve 
+Te            2813 C585574-9    Dw Ag              822 Ve 
+Ouvo          2815 E774300-7    Lo                 214 Ve 
+Ofkag         2817 D74745A-6                       520 Ve 
+Araeg         2916 X000000-0    Ba Lo As           000 Ve 
+Theuve        2917 C775300-8    Lo                 312 Ve 
+Vakar         2918 A986979-A    Hi                 813 Ve 
+Payourogh     2920 X000000-0    Ba Lo As           003 Ve 
+Yogh          3014 B481783-7                       713 Ve 
+Oghfakh       3017 A83A772-B    Wa                 410 Ve 
+Bhakoughidh   3018 X000000-0    As Ba Lo Va        013 Ve 
+Oughfahsaef   3020 A69A776-A  G Ag Wa              223 Ve 
+Raey          3113 D410211-8  C De Lo              201 Ve 
+Aga           3115 C577424-7                       523 Ve 
+Sarkhghzakgh  3119 A585532-A  G Ag                 712 Ve 
+Ueghzsehsif   3120 X000000-0    As Ba Lo Va        004 Ve 
+Afuri         3212 E737467-7                       203 Ve 
+Kheur         3214 B584754-B  G Ag                 603 Ve 
+Kouroudhgho   3215 A883AAF-A    Hi                 114 Ve 
+Vokourigh     3217 A874977-B  G Hi                 400 Ve 
+Soullseg      3219 A59A5A9-A  G Ag Wa              403 Ve 
+Gherrruusi    3220 A455766-8    Ag                 714 Ve 

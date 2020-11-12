@@ -1,0 +1,41 @@
+@SUB-SECTOR:Ithueng SECTOR:Dhuerorrg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kneghoung     2534 C202663-8  K Ic Na Ni Va        100 Vb M0 D             
+Vaedzeru      2535 X466842-2  C Ri                 934 Vb K8 V M2 D         
+Dhaksaedzazgha2540 B38377B-5    Ag                 513 Ve G4 V             
+Dezorraks     2633 B434445-9  K Ni                 222 Vb G4 V             
+Faekaelluethun2737 C68AACC-A  C Hi In Wa           414 Ve F7 V             
+Uegzaekgvoukug2833 A120630-C  C De Na Ni Po        704 Va M4 V             
+Zangsazoerr   2837 A8686AC-A    Ag Ni              700 Ve M8 V M8 D         
+Gzinrraets    2934 B536575-7  K Ni                 813 Va F7 V M8 D         
+Taekane       2939 D786224-0  H Lo Ni              112 Ve F5 V M3 D         
+Rougkfoghaeng 2940 E234143-5    Lo Ni              227 Ve K5 V M7 D         
+Gvurugzlluel  3034 E99897A-2  C Hi In              303 Va M2 V             
+Gugirr        3039 C9E8664-5    Fl Ni              500 Ve M0 V             
+Gvaenethrok   3132 C140212-B  C De Lo Ni Po        103 Va F4 V M0 D         
+Gvasinggvan   3232 B566566-9  K Ag Ni              902 Va M4 V M6 D         
+Geghakaegaeghg3235 B556975-A    Hi In              300 Ve F7 V             
+Rravuegerro   3237 B675642-A  K Ag Ni              916 Ve F7 V M8 D 
