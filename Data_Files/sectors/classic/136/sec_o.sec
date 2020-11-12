@@ -1,0 +1,52 @@
+@SUB-SECTOR:New Holland SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2431 2230 0 -1
+$2431 2531 1 0
+$2431 2333 0 0
+$2333 2234 0 0
+$1732 1834 0 0
+$1834 1836 0 0
+$1836 1737 0 0
+$1737 1435 -1 0
+$1834 1935 0 0
+$1935 2234 0 0
+$2234 2437 0 0
+$2437 2738 1 0
+$2437 2139 0 0
+$2139 2039 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1732 B200442-D    Ni Va              804 So M7 IV M9 VI
+              1733 E556102-9    Ni                 603 So G6 V
+              1737 B6747BB-A    Ag                 302 So M1 V
+Neubund       1738 C6939ED-C    Hi                 203 So M3 V M1 D
+              1832 C85A673-C    Ni Wa              110 So K0 V M3 D
+              1834 A1008A5-F    Va Na              200 So M8 V M0 D
+              1836 B100436-E  X Ni Va              803 So M3 V M0 V
+              1934 E532420-9    Ni Po              933 So K0 V
+Maas          1935 C732986-B    Hi Po Na           114 So K6 D
+              2034 C678699-9    Ni Ag              204 Na M1 V K9 D
+              2037 C454430-A    Ni                 800 Na K7 III
+              2039 A799332-E    Ni                 200 So M3 II M1 D
+              2132 B100000-F    Ni Va Ba           624 So M5 D K0 D K5 D
+              2138 D200443-A    Ni Va              402 So F3 D M1 D
+              2139 B97A511-F    Ni Wa              904 Na K4 V
+Burton        2234 A210303-F  X Ni                 323 So M7 V
+Narnia        2236 X559974-6    Hi              R  200 So M1 V
+              2237 D646651-8    Ni Ag              303 So M0 V
+Eldritch      2239 D848665-8    Ni Ag           A  902 So M3 V
+Dawkins       2333 C110641-B    Ni Na              820 So M3 IV K5 D
+              2334 E461353-A    Ni                 804 So M6 V
+Caldron       2335 E0009BE-B    Hi In As Na        403 So M4 V M2 D
+              2339 B445000-C    Ni Ba              300 Na M6 IV M7 D
+              2431 B335666-C    Ni                 310 So K3 V M8 D
+              2433 C67A655-B    Ni Wa              804 So K3 V M0 D
+Brookwall     2435 C10096A-F    Hi In Va Na        403 Na M8 IV M2 D
+Osmond        2437 A466465-F  X Ni                 112 So M1 V
+              2439 D41089A-A    Na                 123 So M0 V M9 D
+              2440 E754510-7    Ni Ag              103 Na K8 D

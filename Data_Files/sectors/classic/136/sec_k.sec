@@ -1,0 +1,46 @@
+@SUB-SECTOR:Vald SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2021 1919 0 -1
+$2021 2122 0 0
+$2122 1924 0 0
+$2122 2324 0 0
+$1924 2324 0 0
+$2324 2525 1 0
+$1924 1724 0 0
+$1724 1624 -1 0
+$1727 1624 -1 0
+$1727 2129 0 0
+$1727 1527 -1 0
+$2129 2230 0 0
+$2230 2431 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dalmina       1721 B110312-F    Ni                 900 Na M8 V M3 D
+Darlok        1722 C332400-E    Ni Po              504 So A0 V
+              1724 B546535-D    Ni Ag              900 So M3 V
+Psion         1727 B445689-B    C4 Ni Ag           110 So M0 V M6 D
+Xiphias Delta 1728 D300558-C    Ni Va              403 So G2 V
+Drek          1921 C543545-B    Ni Po              824 So M1 V
+Zilon         1924 A8B6410-F  X Ni                 513 So M1 V M4 D
+              2021 B565424-B    Ni                 403 So M1 II
+              2027 C8A5779-9                       425 Na K3 V M1 D
+              2029 B7A2531-E    Ni                 823 Na M3 V
+              2121 E527100-B    Ni                 612 So M5 V
+              2122 B100442-E    Ni Va              611 So A3 V M4 D
+              2127 B658877-B  X                    503 Na K2 V
+Pesacce       2129 B578011-B  X Ni                 514 So K4 V
+Vald          2226 C9D6400-D    C3 Ni           A  324 So K4 V
+Rilo          2228 A491436-F  X Ni                 504 Na K0 IV
+              2229 E79A333-A    Ni Wa              523 So K1 V
+Totu          2230 B777486-D  X Ni                 703 So G4 V M6 D
+Haven         2324 B000454-F    Ni As              102 So M4 V M4 D
+              2325 C553410-A    Ni Po              914 So K2 V
+Olina         2328 C7A2641-B    Ni              A  624 Na G4 V
+              2423 C200400-D    Ni Va              113 So M4 D M1 D
+Delin         2425 X778635-2    Ni Ag           R  100 So M0 V M9 D
+Ben's Oath    2426 C745874-A    C3                 103 So M0 V M6 D

@@ -1,0 +1,37 @@
+@SUB-SECTOR:Alderamin SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0717 0919 1 0
+$0717 0814 0 0
+$0717 0317 0 0
+$0317 0215 0 0
+$0215 0214 0 0
+$0214 0612 0 0
+$0214 3215 -1 0
+$0214 0111 0 0
+$0111 0110 0 -1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Grendel       0111 A96A98B-E    Hi Wa              802 Im F4 V M2 D
+Purdishi      0116 D610168-E    Lo Ni              834 Im M1 V
+Shulusish     0214 A584A22-F  W Hi Cp              304 Im F8 V
+Desdemona     0215 A76999C-E    Hi                 303 Im G8 V M8 D
+Sarmaty       0217 A889877-F    Ri                 403 Im M5 V
+Hayt          0313 B4219AF-E    Hi Na In Po        310 Im M4 V M6 D
+Finnegans     0316 C379533-B    Ni                 320 Im G1 V M8 D
+Bemishii      0317 A567988-E    Hi                 212 Im G9 V M6 D
+Seym          0319 A1009CB-C  N Hi Na In Va        423 Im M3 V M9 D
+Diomedes      0411 A8777A8-F    Ag                 700 Im F4 V
+Yrsai         0511 A663A9B-F    Hi                 402 Im G0 V M5 D
+Arukhur       0518 E200365-E    Lo Ni Va           522 Im M3 V
+Glaucas       0612 A8869A9-F  S Hi                 532 Im M8 V M9 D K2 D
+Hoatzin       0617 A967986-E    Hi                 534 Im F4 V
+Stralsund     0618 B0007BE-E    Na As              520 Im A7 IV
+Omsk          0713 B511547-A    Ni Ic              103 Im M0 V
+Furioso       0717 A9C5761-D    Fl                 313 Im M0 V
+Ippuraash     0718 C200612-A    Na Ni Va           714 Im K0 IV
+Weipu         0719 X543000-0    Lo Ni Po Ba     R  702 Im K8 V M8 D
+Thars         0720 B7A7797-D    Fl                 714 Im M0 V
+Upirzanu      0814 A9B5752-F  N Fl                 924 Im M2 V

@@ -1,0 +1,62 @@
+@SUB-SECTOR:Oriah SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2311 2009 0 -1
+$2411 2311 0 0
+$2411 2410 0 -1
+$2411 2811 1 0
+$1717 1616 -1 0
+$1717 1817 0 0
+$1817 1918 0 0
+$1918 1919 0 0
+$1919 2021 0 1
+#
+#Political Borders
+^1711 1
+^1711 3
+^1711 4
+^1711 5
+^1811 0
+^1811 1
+^1811 2
+^1811 3
+^1811 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1711 B342875-D  X Po                 403 Na M2 V M0 D
+              1713 C45757A-C    Ni Ag              425 Na M1 V
+              1714 E464354-A    Ni                 533 So K4 D M8 D
+              1717 D327631-A    Ni                 403 So K3 V
+              1718 B548675-C    Ni Ag              300 Na M4 IV M2 V
+              1719 B200899-D  X Va Na              803 So K2 V
+              1720 C332445-D    Ni Po           A  802 So K0 V
+              1811 C524553-D    Ni                 805 Na K2 V
+Weeven        1812 E110A9A-F    Hi In Na           901 So M4 II M5 D
+              1817 B7398AF-D                       914 Na M1 V
+              1914 D300875-8    Va Na              104 So M4 V
+              1915 C100453-D    Ni Va              414 So G0 IV
+              1918 A328687-E    Ni                 712 So G3 V
+Point         1919 A6729C7-F    Hi In              411 So K4 V M8 D
+              1920 C799755-B                       500 So K1 V M6 D
+              2011 E334642-A    Ni                 505 So K0 D
+              2018 C351612-B    Ni Po              114 So M3 V
+              2019 B100426-F  X Ni Va              604 Na K1 V
+              2111 E88A58B-B    Ni Wa              604 Na K4 V
+              2120 E21087A-8    Na                 100 So M1 V
+Flyby         2212 X100043-6    Ni Va           R  823 So G7 V M1 D
+Mosellice     2213 A565322-D  X Ni              A  804 Na M5 V
+              2218 D342413-8    Ni Po              720 So A4 III M3 D
+              2220 C786751-A    Ri Ag              120 So K2 V
+Fuilcwain     2311 C655415-9    Ni              A  824 So M2 V
+              2314 EAA8347-8    Ni                 603 So M3 V
+Thassor       2317 C6A2A9A-D    Hi                 600 So K8 VI M5 D
+              2318 C9B8434-A    Ni                 514 So K6 V M8 D
+              2411 B475210-E  X Ni                 103 So M3 IV
+              2415 B356842-B  X                    804 Na A0 V M5 D
+              2416 A585785-D    Ri Ag              903 So M4 V
+              2417 B738300-E    Ni                 224 Na M2 IV M8 D
+              2418 D584200-9    Ni                 223 So K1 V
+Oriah         2419 B0009A6-F  X Hi In As Na        513 Na M0 V

@@ -1,0 +1,105 @@
+@SUB-SECTOR:Orichalc SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0115 0216 0 0
+$0115 2905 -1 0
+$0216 0217 0 0
+$0207 0220 0 0
+$0220 0121 0 1
+$0511 0510 0 -1
+$0511 0613 0 0
+$0613 0713 0 0
+$0713 0912 1 0
+$0613 0515 0 0
+$0515 0413 0 0
+$0515 0615 0 0
+$0615 0716 0 0
+$0716 0816 0 0
+$0816 0917 1 0
+$0515 0417 0 0
+$0417 0719 0 0
+$0719 0720 0 0
+$0720 1018 1 0
+$0720 0822 0 1
+#Political Borders
+^0311 0
+^0311 4
+^0311 5
+^0711 0
+^0711 1
+^0711 2
+^0711 3
+^0711 4
+^0711 5
+^0811 0
+^0811 1
+^0312 4
+^0312 5
+^0313 4
+^0313 5
+^0314 4
+^0314 5
+^0315 4
+^0315 5
+^0316 4
+^0316 5
+^0317 4
+^0317 5
+^0318 4
+^0318 5
+^0318 0
+^0318 1
+^0418 0
+^0418 1
+^0418 2
+^0418 3
+^0319 2
+^0319 3
+^0319 4
+^0319 5
+^0320 4
+^0320 5
+^0220 2
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0113 C356401-C    Ni                 421 Im K3 IV M0 D
+              0115 A353211-F    Ni Po              304 Im K2 III
+Qaal          0119 E10096A-D    Hi In Va Na     A  201 Im M1 V M6 D
+Toonge        0216 B100333-F  S Ni Va           A  904 Im M8 V M0 VI
+              0217 C673879-8                    A  602 Im M0 IV M4 D M9 D
+              0220 A110443-F    Ni                 700 Im M0 V M6 D
+Brigand       0311 D3446B7-7    Ni Ag              604 So K1 V
+              0318 D7927A9-8                       714 Na A0 V
+              0319 A959257-F    Ni                 522 Na M8 II M4 V
+              0411 C799488-C    Ni                 320 Na M1 V
+              0413 B8A7497-E    Ni                 324 So M1 V
+              0414 D536654-8    Ni                 324 Na M2 V M2 D
+Bard          0416 B592541-B    Ni              A  305 Na M0 V M3 D M6 D
+              0417 B767565-C    Ni Ag              723 So M0 V
+              0418 E775257-9    Ni                 803 Na M3 IV M6 VI
+              0420 E354533-8    Ni Ag              922 So M4 V
+              0511 B64779B-A    Ag                 903 So M0 V
+              0514 E343366-9    Ni Po              703 So F5 IV
+Cthonia       0515 A455ACB-F    Hi                 701 So M0 III
+              0517 C352210-B    Ni Po              803 So K9 V M6 D
+Mallory       0612 E200789-A    Va Na           A  211 Na M0 IV
+              0613 B99A89C-C    Wa                 314 So K2 V M7 D
+              0614 E100788-9    Va Na              202 So K0 V
+              0615 C423653-B    Ni Po Na           703 So M0 V
+              0616 A544335-D    Ni                 310 Na K3 V
+              0711 A6787AB-C  X Ag                 105 Na K4 V M0 D
+              0712 C510345-C    Ni                 204 So K6 V
+              0713 C100001-D    Ni Va              703 So A6 V
+              0714 C100665-C    Ni Va Na           504 So M5 IV
+              0715 B769233-C    Ni                 304 So M9 V M7 D
+Summit        0716 BA7A99C-F    Hi In Wa           310 So M2 V
+              0717 A463566-F    Ni                 311 Na K2 V M7 D
+Archernar     0719 C2005AB-B    Ni Va              314 So G4 III
+Gustav        0720 B587621-B  X Ni Ag              614 So K0 V
+              0811 C6B0763-9    De              A  604 So M0 V M6 D
+              0816 CAD647A-C    Ni                 714 So M1 V M8 D
+              0818 C632765-9    Po Na              714 So M8 III

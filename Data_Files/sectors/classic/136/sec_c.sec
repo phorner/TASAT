@@ -1,0 +1,81 @@
+@SUB-SECTOR:Dagir SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1803 1903 0 0
+$1803 1904 0 0
+$1903 2101 0 0
+$2101 2301 0 0
+$2301 2501 1 0
+$1904 2106 0 0
+$2106 2305 0 0
+$2305 2405 0 0
+$2405 2505 1 0
+$2405 2408 0 0
+$2408 2410 0 0
+$2410 2411 0 1
+$2009 2311 0 1
+#
+#Political Borders
+^1901 0
+^1901 5
+^1801 0
+^1801 4
+^1801 5
+^1802 4
+^1802 5
+^1803 4
+^1803 5
+^1805 5
+^1804 0
+^1804 1
+^1804 2
+^1804 3
+^1804 4
+^1804 5
+^1805 4
+^1805 5
+^1806 4
+^1806 5
+^1807 0
+^1807 1
+^1807 2
+^1807 3
+^1807 4
+^1807 5
+^1808 4
+^1808 5
+^1809 4
+^1809 5
+^1810 4
+^1810 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Occam         1701 B87A999-E    Hi In Wa           313 Im M4 V
+              1703 C10078A-B    Va Na              300 Im M4 V
+              1710 C100644-D    C2 Ni Va Na     A  600 Im M8 VI M6 D
+              1801 C491651-A    D0 Ni              204 So K1 II M1 VI
+              1803 B775887-B                       910 So G3 V
+              1804 C467478-B    Ni                 300 Na K3 V M1 D
+              1807 D7628AF-6                       305 Na A0 V
+              1901 C73767A-A    Ni                 300 So M4 V
+              1903 C000322-C    Ni As              202 So M9 V
+              1904 C000201-F    Ni As              824 So K4 V
+Killbrouha    1907 B423965-F    Hi In Po Na     A  813 So A3 V K0 D
+Hallom        1909 D4749A7-A    Hi In              100 So M1 V M9 D
+              2001 B100203-F  X Ni Va              613 Na G7 D
+              2009 B459476-F    Ni                 322 So M9 III M5 D
+              2101 B000883-E    As Na              400 So G4 V M0 D
+              2103 C100355-F    Ni Va              522 Na M7 V M0 D
+              2106 C455003-A    Ni              A  403 So K3 V
+              2108 B553655-B  X Ni Po              913 Na G3 V M5 D
+Dagir         2201 C26498B-B    C0 Hi              701 Na M4 V
+              2301 B668220-C    Ni                 704 So M2 V
+              2305 A436468-F  X Ni                 222 So G7 VI
+Cloudia       2401 A11099A-F    Hi In Na           214 Na M6 VI M5 D
+              2404 C455632-9    Ni Ag              410 So M4 V M5 D
+              2405 B989302-F    Ni              A  222 So G6 V
+              2408 A599427-F    Ni                 104 So K3 V
+              2410 E785675-6    Ni Ri Ag           112 So K6 VI

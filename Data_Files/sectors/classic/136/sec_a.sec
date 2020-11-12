@@ -1,0 +1,72 @@
+@SUB-SECTOR:Ximenes SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0105 3106 -1 0
+$0105 0203 0 0
+$0203 0303 0 0
+$0303 0402 0 0
+$0402 0502 0 0
+$0502 0601 0 0
+$0601 0640 0 -1
+$0601 0801 0 0
+$0601 0804 0 0
+$0801 0903 1 0
+$0804 0805 0 0
+$0804 0903 1 0
+$0805 0806 0 0
+$0805 1006 1 0
+$0806 0808 0 0
+$0808 0809 0 0
+#Political borders
+^0510 0
+^0510 1
+^0510 5
+^0409 3
+^0609 3
+^0610 0
+^0610 1
+^0410 0
+^0410 5
+^0310 3
+^0210 2
+^0710 3
+^0810 4
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0102 C200747-A    Va Na              803 Im A3 V M7 D
+              0105 B110884-D    Na                 113 Im G7 V
+              0106 D976678-8    Ni Ag              400 Im M0 V
+              0108 C33569C-B    C6 Ni              414 Im M8 D M8 D
+              0110 C635668-B    Ni                 603 Im M0 V
+              0201 A100204-F    Ni Va              301 Im M2 II K0 D
+              0203 B345657-D    Ni Ag              704 Im M4 V
+              0204 E453300-9    Ni Po              622 Im M6 IV
+Iamir         0208 C100AAB-F  S Hi In Va Na        304 Im M2 V M0 D
+              0210 C445575-B    Ni Ag              401 Im M0 V M0 D
+              0302 B847348-B    Ni                 200 Im K5 V M4 D
+Wulfe         0303 A434964-F    Hi                 602 Im M0 VI
+              0305 C9878AA-A                       500 Im M3 V M8 D
+              0306 D335314-A  S Ni                 203 Im M8 V
+              0402 C84A866-C    Wa                 403 Im M2 V
+              0405 D423474-9    Ni Po              813 Im M2 V
+              0407 E110433-A    Ni                 802 Im M2 V K1 D
+              0409 D100867-A    Va Na              913 Im M1 V
+Faro          0502 D100AAC-F    Hi In Va Na        310 Im M0 V
+              0503 C6B0562-C    Ni De              621 Im A0 IV K0 VI
+              0509 XAA7327-6    Ni              R  223 Im M9 D
+              0510 A648757-D    Ag                 402 So K0 V
+              0601 A88856A-D    Ni Ag              113 Im M2 V
+              0603 C100587-E    Ni Va              300 Im G1 V M7 D
+              0608 C8C4620-A    Ni                 123 Im M4 V
+              0609 B663622-C    Ni                 710 Im M2 V M0 D
+              0701 C441748-B    Po                 104 Im M3 V M0 D
+              0707 C223412-B    Ni Po              402 Im G4 V
+              0801 B265379-E    Ni                 302 Im G1 V
+              0804 B110850-F  N Na                 803 Im K2 V
+              0805 B7C0743-B  S De                 314 Im M1 V K7 D
+              0806 E554167-8    Ni                 502 Im M1 IV
+              0808 D858557-A    D4 Ni Ag           302 Im M2 V M0 D M3 D
+              0809 A374754-F    Ag                 615 Im M3 V

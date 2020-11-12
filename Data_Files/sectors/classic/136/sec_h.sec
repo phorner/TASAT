@@ -1,0 +1,59 @@
+@SUB-SECTOR:Fervore SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2811 2411 -1 0
+$2811 3112 0 0
+$3112 3114 0 0
+$3114 2814 0 0
+$2814 2613 0 0
+$2613 2615 0 0
+$3114 3115 0 0
+$3115 3116 0 0
+$3116 3117 0 0
+$3117 3118 0 0
+$3118 3119 0 0
+$3119 3020 0 0
+$3020 3124 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fervore       2511 E5349CD-B    Hi                 520 Na K0 V
+              2512 C210235-D    Ni                 603 So M5 V M1 D
+              2516 E7A4232-8    Ni              A  601 So K3 V M5 D
+              2517 C76A567-C    Ni Wa              213 Na M0 V
+              2518 A200205-F    Ni Va              600 So M1 V M6 D
+              2519 B100684-F    Ni Va Na           730 So A1 V
+Cyan          2613 A25199C-F  X Hi Po              503 So M4 V M7 D
+              2615 B643332-B    Ni Po              204 So F4 III
+              2620 E586545-7    Ni Ag              711 So M0 V
+              2711 D575611-7    Ni Ag              515 So G3 V M8 D
+              2715 E100100-B    Ni Va              113 So M6 V M8 D
+              2718 E696389-9    Ni                 113 Na M5 V M6 D
+              2720 C66879A-8    Ri Ag           A  600 Na K2 V
+Drimgir       2811 B225AFD-F  X Hi In              304 So M3 VI M8 D
+              2814 B695444-B  X Ni                 112 So G4 V
+              2818 C544879-A                    A  510 So M7 III
+              2819 E100334-A    Ni Va              110 So G3 V M0 D
+              2911 D633695-8    Ni Po Na        A  603 Na M1 V M4 VI
+              2914 B234246-E    Ni                 403 Na M9 V
+              2916 D879554-9    Ni                 900 So M4 IV
+              2918 C361431-B    Ni                 700 Na M0 V M6 D
+              3013 E85A8B7-8    Wa                 202 So M3 V G2 D
+Wiseman       3019 B10099B-F    Hi In Va Na        704 Na K5 IV
+              3020 A40038B-F    Ni Va              720 So M0 V M2 D
+              3112 A523555-F  X Ni Po              913 So M3 IV M4 D M4 D
+              3114 B66A733-E  X Wa                 104 So K2 V
+              3115 E723256-9    Ni Po              103 So K8 V M3 D
+              3116 D9C5640-9    Ni                 722 So K2 V
+              3117 C76A400-D    C0 Ni Wa           303 So G3 V M0 D
+              3118 C565424-B    Ni                 724 So M1 V
+              3119 A10079B-F    Va Na              804 So K4 VI M9 D
+              3120 E665564-8    C1 Ni Ag           303 Na G2 V
+              3211 D100798-B    Va Na              903 So G0 V
+              3212 B894353-E    Ni                 804 So M9 V M5 D
+              3213 E100ACB-E    Hi In Va Na        800 So G3 V M9 D
+              3217 C322462-D    C4 Ni Po           604 So K1 V M4 D
+              3218 C88857A-B    Ni Ag           A  621 So K4 V M1 D

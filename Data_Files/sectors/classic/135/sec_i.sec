@@ -1,0 +1,42 @@
+@SUB-SECTOR:Albadawi SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0123 3222 -1 0
+$0123 0524 0 0
+$0524 0722 0 0
+$0722 0921 1 0
+$0524 0528 0 0
+$0230 3229 -1 0
+$0230 0330 0 0
+$0330 0632 0 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oz            0121 A153887-F    Po                 913 Im M3 V M4 D
+Jarslav       0123 A8879A9-E  N Hi                 823 Im F8 V
+Kishakhpap    0125 X410000-0    Lo Ni Ba        R  804 Im F9 V
+Beal          0126 A4577CD-F  N Ag                 222 Im M7 V M8 D
+Shaalgar      0224 A666769-B    Ag Ri              100 Im M2 VI M7 D
+Limerick      0226 C579634-A    Ni                 904 Im K2 V
+Alizarin      0230 A466987-C    Hi                 800 So M5 V M8 D
+Eneldun       0326 A31498A-E    Hi In Ic           120 Im M1 V
+Krypton       0330 A9A49BC-D  N Hi Fl              414 So F8 V
+Gustav        0424 B798534-E    Ag Ni              703 Im M2 V K4 VI
+Eyck          0426 B130879-E    Na Po De           102 Im F4 V
+Irashdaa      0524 A689869-F  S Ri                 513 Im M2 V M8 VI
+Basse         0527 A6699AC-E    Hi                 823 Im M1 V
+Kidashi       0528 A457A69-E  N Hi              A  824 Im M0 V
+York          0624 C8A2263-F    Lo Ni Fl           523 Im F6 V
+Albrecht      0626 B742747-E    Po                 903 Im G3 V M9 D
+Bajavanang    0628 A5898CA-E                       405 Im M0 V M9 D
+Akhamin       0721 B662765-D    Ri                 503 Im M7 V M0 D
+Gaea          0722 A986986-E    Hi Cp              303 Im K1 V
+Tonopah       0723 A866ADB-D    Hi                 423 Im F5 V
+Halo          0726 C000679-D    Na Ni As           335 Im F2 V
+Edaazun       0729 A46A969-E    Hi Wa              720 Im K5 V M4 D
+Colmar        0822 B427832-B                       702 Im F2 V M4 D
+Shiransar     0823 BAA5453-D    Ni Fl           A  614 Im M7 V M5 D
+Ranulf        0824 B6429CB-D    Hi In Po           101 Im G1 V M2 D
+Duriim        0825 A488AA7-C  N Hi                 100 Im A2 V M9 D
+Minilgan      0826 A55499D-D    Hi                 322 Im K2 V M3 D

@@ -1,0 +1,32 @@
+@SUB-SECTOR:Sol SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1822 1523 -1 0
+$1822 2121 0 0
+$2121 2218 0 -1
+$2121 2521 1 0
+$1827 1526 -1 0
+$1827 2227 0 0
+$1827 1830 0 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Nusku         1822 A569943-F    Hi                 314 Im K5 V K7 V
+Agidda        1824 A972979-C    Hi In              801 Im M4 V
+Terra         1827 A867A69-F  B Hi                 414 Im G2 V
+Fenris        1830 AA98969-E  N Hi In           A  220 Im F5 V
+Barnard       1926 B200869-E    Na Va              534 Im M5 V
+Junction      1929 B975869-F                    A  302 Im M6 V
+Ishimshulgi   2021 E200478-7    Ni Va              702 Im M1 V M2 D
+Prometheus    2027 A785969-F  S Hi                 723 Im G4 V K2 V
+Peraspera     2028 B7A2536-D    Ni Fl              920 Im M5 V
+Midway        2029 B699552-D    Ni                 722 Im M2 V
+Hades         2030 B432366-E    Lo Ni Po           412 Im M4 D
+Lagash        2121 A667A8B-F  N Hi Cp              524 Im K2 V M5 D
+Ninkhur Sagga 2222 BAA7769-D    Fl                 603 Im G5 V M5 V
+Ember         2227 A412969-D  N Hi Na In Ic        312 Im M5 V M6 V
+Loki          2228 C9CA369-D    Lo Ni Fl Wa        702 Im M5 V
+Mukhaldim     2323 B533413-C    Ni Po              720 Im K4 V
+Kaguk         2325 C648669-A    Ag Ni              201 Im M3 D
+Dismal        2330 C421542-E    Ni Po              212 Im M8 D

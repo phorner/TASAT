@@ -1,0 +1,70 @@
+@SUB-SECTOR:Denebola SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0822 0720 0 -1
+$0822 1023 1 0
+$0727 0926 1 0
+$0727 0427 0 0
+$0727 0730 0 0
+$0730 0630 0 0
+$0830 0930 1 0
+$0630 0332 0 1
+$0730 0932 1 1
+#
+#Political Borders
+^0221 1
+^0221 2
+^0321 5
+^0222 1
+^0222 2
+^0223 1
+^0223 2
+^0224 1
+^0224 2
+^0225 1
+^0225 2
+^0226 1
+^0226 2
+^0227 1
+^0227 2
+^0228 1
+^0228 2
+^0229 1
+^0229 2
+^0230 1
+^0230 2
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0121 A000130-F    Ni As              604 Im M4 V
+              0123 C000723-B    As Na              604 Im M6 IV M5 D
+              0124 E9A457C-8    Ni                 415 Im M1 V
+              0125 B200442-F    Ni Va              913 Im K6 V
+              0128 C645620-8    Ni Ag              302 Im M1 V
+              0129 B83A333-F    Ni Wa              812 Im A8 V M6 D
+              0130 B33387A-C    Po Na              804 Im K4 V M6 D
+Phoenix       0221 C265ACH-F    Hi                 814 Im M4 V
+Koz           0230 D786787-7    Ri Ag           A  423 Im M3 V K0 D
+              0326 D5738BD-7                    A  402 So M3 V
+              0327 D200244-A    Ni Va              803 So A3 V K0 D
+              0421 E100245-A    Ni Va              824 So M3 III K2 D
+              0424 CA99120-C    Ni                 413 Na M1 VI
+              0425 E52A422-A    Ni Wa              314 So M4 V M1 D
+              0427 A100596-F    Ni Va              613 So M4 V
+              0430 D89A411-A    Ni Wa              200 Na K9 V M8 D
+              0524 A988788-C    Ri Ag              210 Na M8 D
+              0526 E535321-8    D0 Ni           A  523 Na M3 V M2 D M3 D
+              0527 E334457-B    Ni                 525 So M4 V
+              0528 C554200-C    Ni                 802 So M0 V M1 D M1 D
+              0529 C633523-B    C0 Ni Po           820 So K3 V M2 D
+Keith         0626 E796987-9    Hi                 104 So M3 V
+Turin         0630 A623A99-F  X C5 Hi In Po Na     412 So M3 V
+              0723 C662543-B    Ni                 314 Na M1 V
+Arsenal       0725 C4249BA-D    Hi In              301 Na G4 V
+              0727 B335854-F                       300 So M3 V
+Lourdes       0730 A67668B-C    Ni Ag              514 So M3 VI
+              0821 E100840-B    Va Na              604 Na K3 V M9 D
+              0822 B443420-E  X Ni Po              202 So K2 V
+              0830 B74336A-D    Ni Po              703 So M1 V

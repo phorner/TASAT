@@ -1,0 +1,53 @@
+@SUB-SECTOR:Alba SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+$2501 2301 -1 0
+$2501 2701 0 0
+$2701 3001 0 0
+$3001 3003 0 0
+$3003 3004 0 0
+$3004 2905 0 0
+$2905 2805 0 0
+$2805 2706 0 0
+$2706 2605 0 0
+$2605 2505 0 0
+$2505 2405 -1 0
+#Political borders
+^3101 0
+^3101 1
+^3201 0
+^3201 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Efretti       2501 DAA9585-9    Ni                 304 So M4 V
+Lasen         2505 B6A4421-E    Ni                 300 So M4 V M3 D M4 D
+              2510 C300443-D    Ni Va              405 So M3 V M4 D
+Calimite      2605 E0008A7-B    As Na              203 Na M1 V
+              2607 E56558A-8    Ni Ag              924 Na M0 V M9 D
+              2610 C000303-E    Ni As              524 So M5 V
+Snarf         2701 A473355-F    Ni                 114 So K2 VI
+Zenux         2704 D6A2773-7                       923 So K1 V
+Moonshan      2706 C10066A-D    Ni Va Na           602 So A3 V K8 D
+Rog's Planet  2710 X355746-3    Ag              R  713 So M8 IV
+              2801 D596430-8    Ni                 103 So G8 III M3 D
+Knobel        2805 A551636-D    Ni Po              804 So M1 V M3 D
+              2902 A64159B-E    C0 Ni Po           304 Na M1 V
+Villbert      2905 C88888B-9    Ri                 822 Na M2 V
+              2906 B481323-C    Ni                 704 So K2 V
+              2908 E98A301-A    Ni Wa              303 So K9 VI
+White         3001 B877567-C    Ni Ag              211 So K1 V M0 D
+Deserte       3003 E643547-8    Ni Po              322 Na K3 V M2 D
+Zilon         3004 B666554-D    Ni Ag           A  100 Na M4 V
+              3007 C210676-A    Ni Na              212 So K3 VI M5 D
+              3008 C693645-9    Ni                 501 Na G3 V
+              3010 B33278A-E  X Po Na              702 Na M4 V
+              3102 D726742-9                       615 So K0 V M1 D
+              3103 C788020-8    Ni                 300 So M1 V K8 D
+Arwen         3105 C10088C-D    Va Na           A  204 Na M6 V M2 D
+              3110 E62A445-B    Ni Wa              224 So K2 V M8 D
+Degas         3201 D2107CE-A    Na                 512 So G0 V M3 D
+Gambda        3210 C000963-E    Hi In As Na        503 Na K0 V

@@ -1,0 +1,40 @@
+@SUB-SECTOR:Banasdan SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2812 2910 0 -1
+$2812 2915 0 0
+$2915 2517 0 0
+$2517 2218 -1 0
+$2915 0114 1 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dipuska       2513 A662AB8-E    Hi                 220 Im K5 V M3 D
+Mandrake      2514 A366AA9-E    Hi                 313 Im M8 V
+Urizen        2516 C8C8430-C    Ni Fl Mi           223 Im G2 V M3 D
+Murphy        2517 A3449BE-E    Hi In              902 Im K0 V M1 D
+Ganesh        2518 A766A57-E  S Hi                 710 Im M8 V
+Mimiis        2612 B200789-E    Na Va              312 Im A6 V K9 D
+Imkhammash    2617 A25588A-E                       113 Im M0 V
+Cantania      2618 A56898B-F    Hi                 201 Im M3 V
+Khugi         2713 X000000-0    Lo Ni As Ba     R  220 Im G8 III K2 V
+Pinnashdug    2714 B478888-C                       822 Im M0 V
+Nyarlathotep  2720 C000267-E    Lo Ni As           623 Im K2 III
+Nisinasha     2812 A9EA987-E  W Hi Fl Wa           704 Im G1 V
+Immir         2816 C000530-A    Ni As              202 Im K2 III
+Aqilat        2820 B000630-E    Na Ni As           911 Im K0 III
+Sathyos       2911 A479726-E                       734 Im G0 V M3 D
+Rild          2912 XAC7774-9    Fl              R  722 Im M7 V
+Newcomb       2913 D441443-6    Ni Po              502 Im K1 V M4 D
+Pajang        2915 A373772-E  N                    110 Im M8 V M9 D M8 D
+Noricum       2918 A38A7CC-F  N Wa              A  202 Im M9 V
+Banasdan      2920 A653A44-F    Hi Po              523 Im M6 V M2 D
+Ariel         3011 B514735-E    Ic                 805 Im M0 D M9 D
+Uku           3015 B636794-E                    A  813 Im M9 V M9 D
+Altiplano     3017 A8D8864-E    Fl                 215 Im M4 V
+Sashingun     3113 A653865-D    Po                 420 Im M7 V M5 D
+Ludovic       3213 A665977-D    Hi              A  804 Im M3 V M4 D
+Cephesa       3217 B222431-F    Ni Po              602 Im F1 V
+Lakamsal      3218 C545786-A    Ag                 504 Im F7 V M2 D
+Onathy        3219 C5218A7-E    Na Po              700 Im G3 V M0 D

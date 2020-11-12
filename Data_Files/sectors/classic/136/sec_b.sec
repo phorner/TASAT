@@ -1,0 +1,57 @@
+@SUB-SECTOR:McKenzie SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0903 0801 -1 0
+$0903 1002 0 0
+$0903 0804 -1 0
+$1002 1402 0 0
+$1402 1701 1 0
+$1006 1406 0 0
+$1406 1506 0 0
+$1006 0805 -1 0
+#
+#Political borders
+^1210 3
+^1210 4
+^1110 3
+^1110 4
+^1009 3
+^0910 3
+^1509 3
+^1510 1
+^1409 2
+^1410 1
+^1410 2
+^1609 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Endyf         0903 B7A7986-E    Hi                 603 Im G2 V M5 D
+Ychanon       1002 B1009BA-F    Hi In Va Na        310 Im M1 V M2 D
+              1004 C322442-B    Ni Po              705 Im M3 V M8 D
+Phaedrus      1006 B89A410-E    Ni Wa           A  820 Im K0 V M7 D
+Patrent       1101 B8A0ABB-F    Hi De           A  311 Im M1 V M9 D
+              1104 B9A75AC-C    Ni                 124 Im M3 V
+Chapman       1109 C000521-E    Ni As              802 Im K4 IV
+              1205 D310566-A    Ni                 304 Im M4 V M9 D
+              1208 C54A234-D    Ni Wa              703 Im F5 IV
+              1209 C569251-B    Ni                 214 Im K3 V
+              1210 E55679D-6    Ag                 404 Im K4 V
+Fairday       1303 E100A98-E    Hi In Va Na        823 Im G3 V
+              1304 D4458AA-7                       104 Im M2 V
+              1305 E785662-6    Ni Ri Ag           800 Im M3 V
+              1401 C11037A-C    Ni                 805 Im G8 V M0 VI
+              1402 B100344-E  N Ni Va              504 Im K3 V M7 D
+              1406 A000566-F    Ni As              300 Im M8 IV
+              1408 C300136-B    Ni Va              402 Im M2 V K7 D
+              1409 E997432-9    Ni                 512 Im G3 V
+              1505 C200768-A    Va Na              200 Im A2 V M1 D
+Port Royal    1506 A210545-F  N Ni                 303 Im G3 V M7 D
+              1508 E666200-8    Ni                 700 Im G7 V
+              1602 E11069B-A    Ni Na              512 Im K3 V M4 D
+              1603 C676687-A    Ni Ag              900 Im M2 V
+              1605 D654104-A  S Ni                 711 Im G2 V
+              1606 B300303-F  N Ni Va              212 Im M1 V M7 D
+              1608 C792033-8    Ni                 713 Im M3 V M7 D M3 D

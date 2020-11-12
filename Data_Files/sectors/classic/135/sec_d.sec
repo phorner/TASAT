@@ -1,0 +1,46 @@
+@SUB-SECTOR:Harlequin SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2902 2905 0 0
+$2905 3106 0 0
+$3106 0307 1 0
+$2905 2807 0 0
+$2807 2910 0 0
+$2910 2812 0 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Jade          2502 C4758BF-D                       715 Im M6 V
+Gladden       2506 D893200-8    Lo Ni              323 Im M6 VI
+Scaramouche   2509 A7C6503-9    Ni Fl           A  300 Im M4 V M1 D
+Ukarin        2601 B433742-D    Na Po              502 Im G6 V
+Gashurzid     2602 A6568A8-F                       210 Im M2 D
+Miskatonic    2603 A487863-9    Ri                 215 Im M2 V
+Beatus        2608 A688989-E    Hi                 804 Im A2 V M9 D
+Alpher        2703 A866997-E    Hi                 214 Im G0 V M2 D
+Okotah        2704 D325103-B    Lo Ni              400 Im K9 V
+Azure         2708 B3348CF-B                    A  221 Im G2 V M3 D
+Phireene      2807 A469895-D    Ri                 802 Im F7 V
+Umber         2808 B777464-D    Ni                 220 Im M3 V M6 D
+Aosta         2902 A453A26-F    Hi Po              903 Im M4 V
+Arkiirkii     2905 A66A8AD-F  B Wa Cp              500 Im M0 V M3 D
+Kesirisu      2906 A49A502-A    Ni Wa              123 Im M3 V M8 V
+Huy Braseal   2910 A255989-F  N Hi                 420 Im F5 V
+Karpaty       3001 A483954-F    Hi                 813 Im M3 V M6 D
+Syzygy        3006 C100721-8    Na Va              832 Im F0 V
+Janosz        3008 A564978-B  S Hi                 821 Im M4 V M6 D
+Shapam        3009 C232533-C    Ni Po              701 Im F9 V
+Kirillishur   3010 C7A4543-E    Ni Fl              113 Im F5 V M9 D
+Carlyle       3101 B9B5865-C    Fl                 111 Im K8 V M5 D
+Khiggun       3102 B8A3643-E    Ni Fl              735 Im M6 V M5 D
+Rann          3106 A664988-F    Hi                 400 Im K9 V M5 D
+Iipshidan     3107 C544534-A    Ag Ni              334 Im M3 V
+Cambyses      3108 B246988-A    Hi In              322 Im M1 V
+Champa        3109 A6629B9-8  S Hi                 824 Im G8 VI M7 D
+Palnu         3201 A484999-E    Hi                 923 Im G3 V
+Opar          3202 E5AA267-E    Lo Ni Fl Wa        210 Im G7 V M6 D
+Irashnar      3203 B131438-F    Ni Po              802 Im G8 V
+Rith          3204 C536875-C                    A  823 Im M4 V
+Kilennur      3208 B5958BE-B                       522 Im M8 V M2 D
+Pagliacci     3209 C754733-6    Ag                 913 Im M5 V M4 D

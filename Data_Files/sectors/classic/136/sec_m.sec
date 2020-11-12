@@ -1,0 +1,55 @@
+@SUB-SECTOR:Ziusudra SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$0332 0630 0 -1
+$0332 0232 0 0
+$0232 3232 -1 0
+$0232 0233 0 0
+$0233 0234 0 0
+$0234 0137 0 0
+$0137 0139 0 0
+$0139 0240 0 0
+$0240 0540 0 0
+$0540 0840 0 0
+$0840 1039 1 0
+#Political Borders
+^0231 0
+^0331 5
+^0131 0
+^0131 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0131 C000430-D    Ni As              301 So G0 V
+Potose        0133 E446200-A    C0 Ni           A  905 So G5 V M2 D
+              0135 C686687-9    Ni Ri Ag           902 Na M1 V
+              0136 C865588-9    Ni Ag              804 So K0 V
+              0137 A643566-F  X Ni Po              101 So M5 VI M4 D
+              0139 B98A658-D    Ni Ri Wa           904 So M2 III M0 D M7 D
+Scathe        0231 C000A99-F    Hi In As Na        701 So M2 V M2 D
+              0232 A372779-D                       433 So M3 V
+              0233 B100659-E  X Ni Va Na           304 So M4 V K6 D
+Ziusudra      0234 B355797-C  X C6 Ag           A  413 So K0 IV
+              0236 D9C0325-8    Ni De              902 Na M4 V
+Balboa        0240 B573987-C  X Hi In              904 So M1 V
+              0332 E10077A-9    Va Na              905 So G3 IV M4 V
+              0334 B898652-C    Ni Ag              100 Na M1 V
+              0335 C874204-B    Ni                 521 So M3 VI
+              0339 E9E3546-9    Ni                 223 So K0 V M2 D
+              0340 D357584-9    Ni Ag              704 So M8 IV M7 D
+              0435 D322431-A    Ni Po              802 So G8 VI M9 D
+              0436 C1107AF-B    Na                 700 Na G3 V M9 D
+              0437 C564320-9    Ni                 505 So K1 V M6 D
+              0540 B455338-C  X Ni                 604 So K0 VI M1 D
+              0632 E98A110-9    Ni Wa              803 Na K2 V
+              0634 C110664-B    Ni Na              824 So G7 IV
+              0636 A7B4461-F    Ni                 113 Na A4 V M5 D
+              0638 B79A678-D    Ni Wa              100 Na K1 V M6 D
+              0639 A679798-F  X                    523 Na G2 V M5 D
+              0731 D6888DE-6                       910 So K0 V M5 D
+              0734 C100577-C    Ni Va              410 So K0 V M5 D
+              0834 B58A477-D    Ni Wa              225 So M2 V M4 D
+              0840 A766336-F    Ni                 813 Na G8 II

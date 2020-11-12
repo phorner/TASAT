@@ -1,0 +1,60 @@
+@SUB-SECTOR:Veracruz SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$1322 1419 0 -1
+$1322 1023 0 0
+$1023 0822 -1 0
+$1023 0926 0 0
+$0926 0727 -1 0
+$0926 1327 0 0
+$1327 1527 0 0
+$1527 1727 1 0
+$1624 1724 1 0
+$1624 1727 1 0
+$1327 1228 0 0
+$1228 1129 0 0
+$1129 1029 0 0
+$1029 0930 0 0
+$0930 0830 -1 0
+$1228 1429 0 0
+$1429 1629 0 0
+$1629 1531 0 1
+$1327 0926 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 D656342-9    Ni                 702 So A7 V
+              0925 D210261-A    Ni                 904 Na M1 V M7 D
+Dodge         0926 A222798-F    Po Na           A  904 So K3 D
+              0930 B310745-E    Na                 123 So G2 V
+Minot         1023 A100776-F    Va Na              400 So M7 IV M3 D
+              1024 C7668AC-9                       703 So M1 V M8 VI
+Montserrat    1029 C5586BB-A    C1 Ni Ag           400 So K6 IV M9 V
+              1030 D410458-C    Ni                 310 Na K1 V
+              1121 D246633-7    Ni Ag              805 So M0 V M1 D
+              1129 C58559B-B    Ni Ag              310 So M4 V
+              1130 C679332-C    Ni                 304 So M8 III
+              1221 E433203-C    Ni Po              604 So K7 V
+              1223 A85A544-F    Ni Wa              302 Na M1 V M9 D
+Santa Maria   1228 B346541-C    Ni Ag              604 So G2 V M5 D
+              1229 C32279D-A    Po Na              623 So M3 V
+Ashern        1322 B9B4720-B                       912 So M0 V
+              1325 B100554-F    Ni Va              820 So M4 V K9 D
+Tuxpan        1327 A100120-F  X Ni Va              424 So M5 V M6 D
+              1421 C555200-A    Ni                 200 Na F7 V
+              1422 B99989A-D                       320 So G9 IV M9 D
+              1427 B110235-E  X Ni                 123 Na M1 IV
+              1429 B400300-F  X Ni Va              705 So K0 V
+              1524 C100544-E    Ni Va              205 Na M1 V M1 D
+Minitonas     1527 E456527-8    Ni Ag              805 So G1 V
+              1529 E477465-A    Ni                 704 Na M3 V
+Velscur       1530 D100956-D    Hi In Va Na        604 So M1 IV
+              1621 B755766-C  X Ag                 105 Na G0 V M3 D
+Truax         1624 B68766A-C    Ni Ri Ag           302 So M0 V M7 D
+              1625 B100534-F    Ni Va              710 Na K3 D M0 D
+              1626 D78A643-9    Ni Ri Wa           123 Na F2 V M3 D
+              1629 B100110-E  X Ni Va              203 So A2 IV
+              1630 B110558-F    Ni                 821 Na M0 V

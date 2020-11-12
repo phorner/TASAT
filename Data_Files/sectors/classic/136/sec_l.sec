@@ -1,0 +1,49 @@
+@SUB-SECTOR:Addison SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$3124 3020 0 -1
+$3124 0323 1 0
+$3124 2823 0 0
+$2823 2624 0 0
+$2624 2525 0 0
+$2525 2324 -1 0
+$3124 3027 0 0
+$3027 2829 0 0
+$2829 2531 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2522 C75A336-B    Ni Wa              805 So M4 V
+              2523 B363589-E    Ni                 812 Na M0 V M9 D
+Chila         2525 B100100-F    Ni Va           A  724 So K0 IV
+Voragon       2622 E592314-7    Ni              A  210 So G5 V
+Addison       2624 B100999-F    Hi In Va Na        212 Na M2 III M0 D
+              2625 E100889-9    Va Na              103 So M5 VI
+Hachin        2626 D444203-9    C0 Ni           A  504 So K9 V
+              2629 D210532-9    Ni                 414 So M0 V
+              2727 C3008DC-A    Va Na              420 So F0 V M9 D
+              2822 C88689C-A    Ri                 503 So F2 IV M2 D
+Yazuz B       2823 A331276-F    Ni Po              903 So M5 V M4 D
+Monfi         2826 X100533-7    Ni Va           R  304 Na M0 V
+Depanmo       2829 B636200-E  X Ni                 714 So K4 V M2 D
+              2830 E210257-A    Ni                 724 So M8 III
+Quel          2921 E41025A-C    Ni              A  400 So M9 V M6 D
+              2923 B262262-C    Ni                 320 So G9 V
+              2925 B110213-F    Ni                 603 Na M3 V K6 D
+              2926 C6A2022-A    Ni                 914 So K6 V
+              2928 C758442-B    Ni                 923 So M1 V M2 D
+              2929 C252530-A    Ni Po              510 So M2 V
+              2930 C594847-A                       402 So M4 V
+              3021 C563238-9    Ni                 813 Na M3 VI M2 D
+              3027 B98A400-F  X Ni Wa              103 So A1 II G0 D
+              3029 D11079B-B    Na                 204 Na M3 V
+              3123 E100223-B    Ni Va              603 So M2 VI M0 D
+Wettin        3124 A87A788-F  X Wa                 323 Na G2 V
+              3128 D588646-8    Ni Ri Ag           623 Na M0 V
+              3129 B100532-F    Ni Va              923 Na M1 IV
+              3130 B200653-F  X Ni Va Na           803 So M2 V M9 D
+              3225 C100877-C    Va Na              713 So M2 IV M4 D
+              3227 B565441-B    Ni                 700 So M3 V

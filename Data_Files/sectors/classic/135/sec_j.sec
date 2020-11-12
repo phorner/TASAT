@@ -1,0 +1,45 @@
+@SUB-SECTOR:Dingir SECTOR:Solomani Rim
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0921 0919 0 -1
+$0921 1222 0 0
+$1222 1320 0 -1
+$1222 1523 0 0
+$1523 1822 1 0
+$1523 1526 0 0
+$1526 1827 1 0
+$1222 1224 0 0
+$1224 1127 0 0
+$1127 0929 0 0
+$1127 1429 0 0
+$1429 1533 0 1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oudh          0921 A341669-D    Ni Po              622 Im G1 V
+Ishmael       0922 C232310-B    Lo Ni Po           723 Im G9 V
+Sebasta       0923 A666ABD-F    Hi                 920 Im F4 IV
+Alsatia       0924 E53216D-F    Lo Ni Po           920 Im M7 V M9 D
+Ishumled      0926 C577634-9    Ag Ni              211 Im M7 V
+Langelos      0929 A3249A6-F  N Hi In              505 Im A6 V
+Herakles      1022 B535769-D                    A  811 Im M8 V
+Fomalhaut     1024 B8C8469-F    Ni Fl           A  802 Im A3 V K4 V
+Khulampu      1026 B9A7869-C    Fl                 422 Im G6 D M7 D
+Gashidda      1127 A36A969-E  N Hi Wa           A  923 Im F8 V M8 D
+Ishkur        1129 A562997-D    Hi                 613 Im M7 V
+Dingir        1222 AA89A98-F  B Hi                 105 Im K0 V M1 D
+Kinunir       1224 B532799-C    Na Po Cp           105 Im M2 V
+Shulgi        1324 B512855-C    Na Ic              303 Im M7 V M9 D
+Shilgiili     1326 A67A945-E    Hi In Wa           902 Im M2 V M4 V
+Enki Kalamma  1327 C200365-E    Lo Ni Va           613 Im M5 V
+Karkhar       1424 B675769-D    Ag                 913 Im M0 V
+Shuruppak     1427 A000769-9    Na As              833 Im M5 V
+Iilike        1429 A455969-F  N Hi                 424 Im G8 V
+Altair        1522 X000000-0    Lo Ni As Ba     R  420 Im A7 V
+Zaggisi       1523 A79998C-E    Hi In              401 Im M2 V
+Meshan        1526 A4359CF-E  N Hi                 801 Im K5 V
+Markhashi     1529 A3018CB-D    Na Va Ic        A  705 Im M5 V M6 V
+Shulimik      1530 A783969-E    Hi                 502 Im K2 V
+Apishal       1622 B633641-C    Na Ni Po           824 Im M3 D
+Sirius        1629 A000769-E    Na As           A  200 Im A1 V F3 D

@@ -1,0 +1,43 @@
+@SUB-SECTOR:Galloway SECTOR:Alpha Crucis
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+$2531 2829 0 -1
+$2531 2431 -1 0
+$3135 3137 0 0
+$3137 3036 0 0
+$3036 2836 0 0
+$2836 2738 0 0
+$2738 2437 -1 0
+$2738 2740 0 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2531 B541344-B  X Ni Po              121 So G0 V M4 D
+              2532 B556664-C    Ni Ag              610 Na M2 V
+              2535 A9B2144-F  X Ni                 802 Na K0 V
+              2539 C544100-B    Ni                 402 So M8 III
+Galloway      2540 C9A4878-A                    A  924 So G4 V M0 D
+              2631 E659627-8    Ni                 700 So K0 IV
+              2635 B110346-F    Ni                 900 Na G0 IV
+Troygreene    2639 B8B2855-C                    A  500 Na M0 V
+Domingo       2735 D64A626-8    Ni Wa           A  711 So M1 V M6 D K9 D
+Ekrit         2738 B6A0651-C  X Ni De              201 So M3 V
+              2740 B10056A-F  X Ni Va              905 So M2 V
+              2831 D645666-7    Ni Ag              605 Na M4 V M3 D
+              2834 E100775-9    Va Na              413 So K1 V
+              2836 A567200-E    Ni                 704 So M4 VI
+              2931 B347014-C    Ni                 200 Na M0 V M1 D
+              2932 D10079B-B    Va Na              200 Na K4 V M8 D
+Eden          3032 E669375-9    Ni              A  703 Na M6 V
+              3034 C566743-9    Ri Ag              200 So M8 D M9 D
+Billowight    3036 B323424-F    C0 Ni Po        A  402 So K2 V M5 D
+              3038 D56977B-7    C4 Ri              303 Na K2 V M0 D
+              3133 B6848BB-A  X                    722 Na M2 V M0 D
+New Jakarta   3135 BA8A633-E  X Ni Wa              403 So K4 V M1 D M4 D
+Puertovalez   3137 A561500-E  X Ni                 903 So M2 V
+              3140 E100875-B    Va Na              402 So K1 V
+              3235 C400875-A    Va Na              311 So M0 V M5 D M2 D
+Ramadan       3240 C577ADJ-A    Hi In              303 So K1 V M7 D
