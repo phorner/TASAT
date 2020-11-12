@@ -1,0 +1,35 @@
+@SUB-SECTOR:Ienji   SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kiav Ibl      0902 E859663-5    Ni                 603 Zh K3 V                 
+Evrplach      0903 E6749B9-5    Hi In              624 Zh G2 V                 
+Ultwar        0908 D767466-6    Ni C5 An SA        604 Zh M6 V M4 D             
+Lenj          0910 A367644-9  Z Ag Ni Ri           611 Zc M3 V                 
+Peqa'prnch    1002 C683233-5  X Lo Ni S7           813 Zh F1 V M0 V             
+Fieedr        1004 X341AA6-5  X Hi In Po SA     R  400 Zh M5 V M2 D             
+Ovrainj       1005 C94A505-B    Ni Wa An S0     A  733 Zh M8 V M2 D             
+Jashashtiaz   1007 C457130-A  Z Lo Ni S0           412 Zh M1 III M9 V           
+Lengamihm     1009 C856587-6    Ag Ni              104 Na K1 V                 
+Ienji         1101 A423899-D    Na Po SA           203 Zh M7 V M6 D             
+Vestilrnz     1104 B777569-7    Ag Ni S8           302 Zh F2 V M6 D             
+Piadopr       1106 D9A65AA-8    Fl Ni              714 Zh M7 V                 
+Irihdira      1108 C582430-9  X Ni S3              913 Na G6 V M5 D             
+Toz           1201 E788143-6    Lo Ni              912 Zh M3 V                 
+Dadharinend   1210 B000476-8  X As Ni An           701 Na K9 V                 
+Mrzhbal       1305 E87A653-5    Ni Wa              102 Zh M9 V                 
+N'dehralden   1309 C887475-5    Ni                 715 Na M6 V                 
+Insviblienzh  1404 B452445-A  Z Ni Po S6           803 Zh M2 V M9 D             
+Yanelomehkagh 1407 C1508A8-5    De Po S3           804 Na M6 V M6 D             
+Rehnuna       1408 E633775-6    Na Po              200 Na M7 V                 
+Nehrilzas     1410 C633000-0    Ba Po              004 Na M8 V                 
+Ekraylk       1502 C446864-5    C1 S2              703 Zh G0 V M5 D             
+Elachblie     1503 C577200-7    Lo Ni S7        A  104 Zh G4 V M8 D             
+Tese'jdietl   1506 C786687-8    Ag Ni Ri           505 Zh K6 V                 
+Doklinchi     1604 X7879ED-1    Hi S7           R  814 Zh M5 V M6 D             
+Mulzihnene    1610 B42467A-9    Ni SA              800 Na K4 V M4 V             

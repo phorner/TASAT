@@ -1,0 +1,39 @@
+@SUB-SECTOR:Pia   SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zhiafefezh    0111 C200336-B    Lo Ni Va           824 Zh G4 IV                
+Blieplitl     0115 B6639A7-A    Hi                 104 Zh M6 V                 
+Zhans         0116 C464336-8  Z Lo Ni           A  424 Zh G6 V                 
+Ievrchipr     0117 C231575-8  Z Ni Po              804 Zh M1 V                 
+Kitl          0119 E000353-9    As Lo Ni        A  302 Zh M5 V                 
+Tlefiatsekr   0216 X446675-5    Ag Ni S5        R  500 Zh M4 V M7 D             
+Tlabratl      0311 E683422-2    Ni SC              502 Zh M2 V M5 V             
+Shaapl        0312 D6A0867-8    De S8              214 Zh K4 IV M3 V            
+Zdiplil       0315 B672520-6    Ni                 113 Zh M0 V                 
+Chiafchti     0411 C230400-6  X De Ni Po           614 Zh M6 V                 
+Iatsoprrel    0412 C591310-6  Z Lo Ni              810 Zh M0 V                 
+Drrshapl      0414 DA7A231-5    Lo Ni Wa           114 Zh F2 IV                
+Lochtiakr     0415 C696131-9    Lo Ni              302 Zh M7 V                 
+Zdichiaeshda  0416 D110114-9  X Lo Ni S7           605 Zh G4 V M7 D             
+Mei           0419 B422833-B  Z Na Po              205 Zh M7 V                 
+Encheishe     0420 E333699-6    Na Ni Po S2        912 Zh K8 V M6 D             
+Zdetsiz       0519 C68859A-9  Z Ag Ni S0        A  612 Zh G0 V M6 D             
+Shtichnebsta  0520 B523024-7  Z Lo Ni Po           503 Zh M9 V                 
+Stonziats     0611 D62AABG-9    Hi In Wa S1        103 Zh M5 V M7 D             
+Yachblitlianj 0613 B786840-8    Ri S1              203 Zh M6 V M2 D             
+Jdezhsidlaj   0614 E9D4463-7    Fl Ni              814 Zh G4 II                
+Pridrda       0616 C426773-A  Z Cp                 314 Zh G2 V                 
+Chtarpiv      0617 A3247A9-A                       912 Zh F6 V                 
+Zimbir        0620 B400334-8    Lo Ni              501 Na M5 V                 
+Yopliabr      0712 E779866-5                       200 Zh M1 V                 
+Ieantsoz      0714 B7B0885-A    De S9              505 Zh G5 V M4 D             
+Adlshtadl     0716 A411583-E    Ic Ni              704 Zh K1 V                 
+N'dalambihn   0815 C726333-8    Lo Ni              704 Na G9 V                 
+Danodild      0818 C10067A-7    Na Ni Va           720 Na K6 V                 
+Mirihnit      0819 C323220-B    Lo Ni Po           810 Na M4 V                  

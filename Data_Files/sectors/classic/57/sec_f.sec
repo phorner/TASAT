@@ -1,0 +1,36 @@
+@SUB-SECTOR:Retan   SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gazbol        0913 E556000-0    Ba Ni              003 Na M0 V                 
+Zehripan      0915 A77968A-9    Ni S3              303 Zc M3 V M0 D             
+Gerabh        0917 B434121-A    Lo Ni              905 Na M9 V                 
+Zihlzedhe     0918 A867212-8  Z Lo Ni              410 Zc M0 V                 
+Gilihlar      0919 C400520-8    Ni Va              410 Na F2 V                 
+Bangehk       1011 B110345-9    Lo Ni              200 Na M5 V                 
+Zeyr          1012 D000389-9    As Lo Ni           123 Na M2 V                 
+Dihmir        1013 E537798-6    S8                 200 Na K7 II M8 D            
+Tehngu        1015 B779354-9    Lo Ni              212 Na M5 V                 
+Zehlado       1018 D110777-8    Na S5              203 Na G5 V M0 D             
+Barini        1118 EAA656A-8    Fl Ni S7           112 Pt M6 V M1 D             
+U'kihr        1211 B467752-A    Ag Ri SD           902 Na K1 V M8 D             
+N'denes       1212 C64795A-7    Hi In              413 Na M3 V                 
+Rosundal      1217 E634000-7    Ba Ni              300 Pt G7 V                 
+Atssis        1218 B413614-9    Ic Na Ni Co S8     704 Pt M1 V M8 D             
+Remaldo       1219 C303114-A    Ic Lo Ni           605 Pt M5 V                 
+Manarni       1317 E342524-7    Ni Po              303 Pt M7 V                 
+Beratemil     1318 A787315-8    Lo Ni              203 Pt K4 V                 
+Nule          1320 A549311-B    Lo Ni              400 Pt A4 V                 
+Gihlezeni     1411 C302532-7    Ic Ni              704 Na M8 V                 
+Kehr          1415 D446355-6    Lo Ni              424 Na G0 V                 
+N'nene        1511 B512127-8    Ic Lo Ni S8        603 Na M2 V M2 D             
+Zeyiri        1512 A220220-C  Z De Lo Ni Po        720 Zc M6 V                 
+Bolzan        1516 X11059B-7    Ni                 423 Na G7 V                 
+Lunge         1519 C556549-6  N Ag Ni SA           403 Pt A3 V M9 D             
+Nalzul        1617 D435620-7    Ni S9              310 Na G1 V M1 D             
+Bazamir       1619 E8A3835-8    Fl SE              210 Pt F7 V M2 V             

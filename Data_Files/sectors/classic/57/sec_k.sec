@@ -1,0 +1,38 @@
+@SUB-SECTOR:Taemerlyk SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Morlay        1722 D798542-4    Ag Ni              101 Na                     
+Fenner        1723 A230335-D  B Ni Po              101 Na                     
+Excape        1724 D300513-A    Ni                 101 Na                     
+Eshaar        1826 E6C4839-3                       100 Na                     
+Zishilicti    1828 BAA6698-A    Ni              A  101 Fw                     
+Fafris        1830 B6B49A7-9                       100 Na                     
+Bindar        1923 B6A3654-A    Ni                 101 Pt                     
+Uldor         1928 A787A98-B  N                 A  100 Fw                     
+Dloshl        1929 B697998-A    In              A  101 Fw                     
+DiCule        1930 C695643-5    Ag Ni              101 Na                     
+Bigg's World  2021 A797A99-9    In                 101 Pt                     
+Zyra          2024 A9878D9-B                       100 Pt                     
+Hearth        2027 B456798-A    Ag              A  100 Fw                     
+Ulintl        2028 B543885-A  N                    100 Ug                     
+Jacobi        2122 X610000-0                       101 Pt                     
+Amanamanim    2125 A574A46-B  N In                 100 Pt                     
+Agravaine     2127 A5006A9-A    Ni Na              101 Ug                     
+Rellon        2129 B880666-6    Ni Po              101 Ug                     
+Bummer        2221 ACCA489-B    In                 101 Pt                     
+Wa-Lu         2224 A372513-B  S In                 101 Pt                     
+Quitalos      2225 A667889-B  N Ri                 101 Pt                     
+Garth         2228 A669753-B  N Ri                 101 Ug                     
+Pshtaijtlatl  2322 A795974-B  S In                 101 Pt                     
+Yakutz        2323 A885889-B  S Ri                 101 Pt                     
+Bloemtol      2328 E7C3657-A    Ni                 101 Ug                     
+Caractacalla  2422 A793AC9-C  B In                 101 Pt                     
+Calamain      2424 A000460-B  B                 R  101 Pt                     
+Kintara       2425 A454679-9    Ag Ni              101 Pt                     
+Numicta       2428 D9A7A69-6                       101 Ug                     

@@ -1,0 +1,41 @@
+@SUB-SECTOR:Jungleblut SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Thenstor      1731 C9C6488-A  S Ni                 101 Na                     
+Iraaz         1732 C45696A-6  S                 A  100 Dh                     
+Desaekhe      1734 C663739-9  S                 A  100 Dh                     
+Kath          1736 C675777-4  S Ag Ni              101 Az                     
+Dansen        1832 D445667-5  S Ag Ni           A  101 Dh                     
+Qarant        1833 E558260-7    Ni              A  101 Dh                     
+Gniadek       1835 B661AB9-B                       100 Ls                     
+Lazthar       1836 B7A7566-A  N Ni                 101 Az                     
+Harantz       1838 A8859CA-B                       100 Az                     
+Nomael        1932 C767886-8    Ri                 100 Ls                     
+Alzenei       1934 B768895-C  S Ri                 101 Ls                     
+Zylanth       1937 E100233-9    Ni Va              101 Az                     
+Claveer       1938 B55098C-B  N Po De              101 Az                     
+Jenai         2031 E857756-5    Ag                 100 Ls                     
+Nesbitt       2035 C555A94-A  S                    101 Ls                     
+Kraich        2037 B212940-C    In                 101 Az                     
+Mirayn        2134 D989737-7                       101 Na                     
+Kokkelen      2136 B88987A-B  N Ri                 101 Ls                     
+Kalebru       2137 X667404-0    Ni              R  101 Na                     
+Fomor         2139 E68A78A-7    Ri Wa              101 Az                     
+Amaoka        2140 D385523-3    Ag Ni              101 Td                     
+Shattur       2231 C877687-6    Ag Ni              101 Ls                     
+Jaer          2235 C3109BC-9  S Na In              100 Ls                     
+Shadrai       2240 B55799A-A                       100 Td                     
+Price         2333 C888513-8    Ag Ni              101 Ls                     
+Winder        2335 C966697-9  S Ri Ag Ni           101 Na                     
+Lelaek        2336 A767652-B  B Ri Ag Ni           101 Na                     
+Yster         2340 A577511-C  N Ag Ni              101 Td                     
+Welles        2433 E642642-3    Ni Po              101 Na                     
+Assair        2435 C554333-6  S Ni                 100 Na                     
+Sorens        2436 B59998B-9    Ni                 100 Td                     
+Thars         2439 B64298A-B    In Po              101 Td                     

@@ -1,0 +1,37 @@
+@SUB-SECTOR:Qiedrkia   SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Vrezhdafi     2503 C341676-5  Z Ni Po              211 Zh M3 V                 
+Ientspifl     2504 A555773-C  Z Ag S2              502 Zh M5 V M1 D             
+Tlezh A'      2506 E4486A5-5    Ag Ni SC           804 Zh K6 V M0 D             
+Tats Evl      2603 A899899-B    S2                 203 Zh K1 V M3 D             
+Shianzqrie'   2606 A896421-8    Ni                 204 Zh G2 V                 
+Iajnif        2609 B100695-B    Na Ni S5           404 Zh M4 V M9 D             
+Jabrekdrefr   2701 B233435-8    Ni Po              113 Zh M0 V                 
+Fletebr       2702 A746300-8    Lo Ni S3           303 Zh M3 V M7 V             
+Tliente       2709 B674140-9    Lo Ni              500 Zh M0 V                 
+Prevrfri      2710 D7C6765-9    Fl S3              503 Zh G7 V M9 D             
+Jdotsesh      2803 D321546-8    Ni Po           A  605 Zh G6 V                 
+Yodro         2805 A96A79B-A  Z Ri Wa D1           122 Zh M0 V                 
+Iadlkresh     2806 X000533-7    As Ni           R  413 Zh F1 V                 
+Pienzhplanshe 2809 C837667-6    Ni An S3        A  321 Zh G2 II M0 V            
+Briad         2902 B84A464-A    Ni Wa S7           703 Zh K9 V M1 V             
+Dledl I'      2903 A300879-D    Na                 600 Zh F7 V                 
+Zdiietltsia   2904 D100340-8    Lo Ni Va           120 Zh M1 V                 
+Flatlkrrsh    2905 B000210-9    As Lo Ni           803 Zh G2 V                 
+Blenzhrakiavr 2908 C553487-4  Z Ni Po S0B          103 Zh M3 V M0 D M5 D         
+Tsenchoz Ia   2910 B535446-8  Z Ni SA              310 Zh M4 V M7 D             
+Zhar Yens     3002 B687469-7  X Ni                 202 Zh F5 V                 
+Zhar          3003 E233632-8    Na Ni Po           301 Zh M7 V                 
+Dlentsiviepl  3005 A72A100-E  Z Lo Ni Wa Cp        702 Zh G9 IV                
+Oz Dlo        3008 C346688-7  Z Ag Ni S9        A  504 Zh K3 IV M0 V            
+Flam          3009 C635758-8                       304 Zh M0 V                 
+Sieal Prans   3110 B422268-0    Lo Ni Po           200 Zh M0 V                 
+Josh Sotl     3204 C00026B-C    As Lo Ni S1E       902 Zh G2 V M1 D M8 D         
+Chivlja       3209 D200322-7  Z Lo Ni              404 Zh K0 V                 

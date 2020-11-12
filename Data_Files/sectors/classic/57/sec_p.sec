@@ -1,0 +1,37 @@
+@SUB-SECTOR:Mnemosyne SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Welton        2532 D642541-5    Ag Po              101 Na                     
+Thursus       2537 C955873-8                       100 Td                     
+Forst         2540 D694899-7    In Na              101 Td                     
+Alcost        2631 B486976-A    In                 101 Na                     
+Mutat         2635 B812422-9    Ni Na              101 Td                     
+Toppa         2639 E260633-4    De                 100 Td                     
+Pindel        2733 B863440-9                       101 Na                     
+Zylov         2737 A962798-B  N In                 101 Td                     
+Bozel         2738 B938695-A    Ni                 101 Td                     
+Xava          2740 C624730-8    Na                 101 Td                     
+Enima         2834 B38A557-A  S Wa                 101 Td                     
+Pixtome       2835 C1B1589-B                       101 Td                     
+Omniat        2839 B886441-9    Ag                 101 Td                     
+Cartelin      2931 B985589-8    Ni Na              100 Mn                     
+Eureka        2934 B000610-B  S In                 101 Mn                     
+Eorvin        2935 D656878-7    Po                 100 Td                     
+Emulan        2936 C669369-6                    A  101 Tw                     
+Shadmara      2938 E8C1200-9                       100 Td                     
+Kulikov       2939 C721587-A    In Na              101 Td                     
+Dovida        3032 B983657-A    In Ag              101 Mn                     
+Eterra        3033 A8679C9-C  N                    101 Mn                     
+Dictic        3038 E991500-6    Po              A  100 Na                     
+Tintanabulos  3040 X111200-8                       100 Na                     
+Lalandra      3134 B742726-A  S In Ri              101 Mn                     
+Pentalus      3136 C957690-9    Ag                 101 Mn                     
+Piat          3137 D131531-4    Po                 100 Na                     
+Calthustra    3231 D749459-8                       101 Mn                     
+Anathos       3238 E800419-C    Rs              R  101 Na                     

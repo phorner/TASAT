@@ -1,0 +1,34 @@
+@SUB-SECTOR:Cabala SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Clinton       0934 C175882-8    Ni Na              101 Na                     
+Thacker       0936 B294742-9    Na                 101 Na                     
+Balume        0938 A000537-B  S In                 101 Ca                     
+Secundus      1032 B440669-A    De                 100 Zp                     
+Foxe          1135 A521535-C    In Na              101 Hc                     
+Lindsay       1137 A6798C9-B  S                    101 Hc                     
+Norris        1140 A596940-B    In                 101 Hc                     
+Zelpha        1231 A9549B9-B  N                    101 Zp                     
+Primus        1232 B27A769-9    Wa                 101 Zp                     
+Quarcus       1233 B957869-9  S                    101 Zp                     
+Thorn         1235 A632732-B  S In Ri              101 Hc                     
+Chatsworth    1237 A3A15C7-A                       100 Hc                     
+Haladon       1238 A7659C9-C    Ri                 101 Hc                     
+Gosspach      1335 B311427-8    Po                 101 Na                     
+Tertius       1432 C241469-9                       101 Zp                     
+Bosak         1434 A635721-D    Ri In              101 Na                     
+Skela         1437 B564688-A  S Na In              101 Bi                     
+Porton        1439 B000553-B    Na In              100 Bi                     
+Hollader      1535 E6865D9-7                       101 Na                     
+Talak         1537 D687839-6    In                 101 Na                     
+Hyperbelon    1539 A366838-A  N                    101 Bi                     
+DeBeers       1632 D453369-5    Ag Po           A  101 Dh                     
+Locat         1636 X341300-A    Rs                 100 Na                     
+Protalus      1638 B734534-A    In Na              101 Bi                     
+Forbus        1639 C446481-9    Ag                 101 Bi                     

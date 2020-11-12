@@ -1,0 +1,35 @@
+@SUB-SECTOR:Alsas SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Oskol         0923 X300209-A    Ni              A  101 Na                     
+Mackay        0929 C5B3618-A    Ni                 100 Na                     
+Falkirk       1021 E100000-0                       101 Na                     
+Amristar      1024 D493654-7    Ni                 101 Na                     
+Tinahely      1026 B76A786-B    Ri Wa              101 Fa                     
+Odugama       1027 C651564-A    Ni Po              100 Fa                     
+Freemantle    1029 X3B0000-0                       100 Na                     
+Sevilla       1122 E440459-9    Ni Po              101 Na                     
+Katano        1123 D120200-C  N Ni Po              100 Na                     
+Lac Remi      1125 C9648D8-8    In                 101 Fa                     
+McKne's World 1126 C652545-9    Ni Po              100 Fa                     
+Bulawayo      1127 D886563-8    Ag Ni              101 Fa                     
+Katherina     1129 B130300-C    Rs                 101 Na                     
+Afellahlah    1227 A6659C9-C  A                    101 Fa                     
+Encrucijada   1230 X000000-0                       101 Na                     
+Darien        1321 X100000-0                       100 Na                     
+Kaosiung      1324 X6A0510-4                       101 Na                     
+Elyptiya      1326 A664885-B    Ri                 101 Fa                     
+Lachute       1329 C767764-7    Ag Ri              100 Fa                     
+Mafelong      1422 X4C0000-0                       101 Na                     
+Schwennin     1427 B472619-A    Ni                 101 Fa                     
+Krugerschorp  1428 C887569-9    Ag Ni              101 Fa                     
+Antalya       1527 C763645-A    Ri                 101 Fa                     
+Chate Leavult 1529 C661993-9    Ic                 100 Fa                     
+Sint Amsbern  1623 XB76000-0                       101 Na                     
+Azut Leriz    1625 X766000-0                       101 Na                     

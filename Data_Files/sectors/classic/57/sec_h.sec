@@ -1,0 +1,35 @@
+@SUB-SECTOR:Zezhpae  SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Afne          2512 E652468-6    Ni Po              703 Zh M8 V                 
+Zdihl         2515 B211640-8    Ic Na Ni S8        403 Na F2 V M6 D             
+Potldrepiefr  2611 D236116-6    Lo Ni              600 Zh M0 V                 
+Dred          2613 C2006A8-7    Na Ni              301 Zh M5 V                 
+Nebhan        2615 C57A895-6    Wa S3              704 Na G9 V M9 D             
+Degedhi       2617 E435645-7    Ni S0              920 Na G4 V M1 D             
+Ryidhen       2618 B683111-8    Lo Ni S2           703 Na G7 V M4 D             
+Nuleliman     2620 E62587A-7    S3                 820 Pt M4 V M0 D             
+Zhebrtladr    2711 E100652-9    Na Ni Va S8        724 Zh M5 V M0 D             
+Krrl          2713 E8B0527-8    De Ni SA           903 Zh K0 V M5 V             
+Tlodadltse    2715 E555588-3    Ag Ni S9           502 Zh A8 V K9 D             
+Meikadobask   2716 B54678C-9  Z Ag C3 S3           503 Zh M6 II M3 V            
+Entsezzi      2812 C569233-A    Lo Ni S9           414 Zh K0 V M9 D             
+Fiezhtezhde   2814 A634438-D    Ni S0              400 Zh M7 V M9 D             
+Leneh         2816 D245786-6  Z Ag              A  114 Zh M8 V                 
+Vezdinz       2912 EAC6455-9    Fl Ni              402 Zh G2 V                 
+She' I'       3013 C427744-A  Z                    804 Zh M0 V                 
+Ongihlil      3017 B7935A8-A    Ni S9              423 Na F1 V M7 V             
+Therop        3019 A5119BD-B    Hi Ic In Na S39    910 Pt F9 V M4 D M4 D         
+Jant          3116 A859231-D    Lo Ni              604 Zh M3 V                 
+Afrisha Bins  3117 C4308AA-A    De Na Po           820 Zh G0 V                 
+G'kilpheny    3119 B444432-9    Ni                 303 Na M0 V                 
+Dliareq       3213 C335652-8    Ni                 511 Zh M1 V                 
+Iesheqr       3214 B444400-A    Ni                 600 Zh M4 V                 
+Kiat          3218 CAA65A8-9  Z Fl Ni S7           703 Zh G0 V M7 D             
+Deyil         3219 C744654-5    Ag Ni S8           413 Na G6 V M3 D             

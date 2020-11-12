@@ -1,0 +1,37 @@
+@SUB-SECTOR:Detsiaiem  SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Vrialmanj     0101 E373533-7    Ni                 804 Zh K0 V                 
+Jdinz         0105 B4278A8-9    S0                 420 Zh M3 III M1 V           
+Chtanshar     0108 A95A451-E    Ni Wa              301 Zh F1 V                 
+Ishashiel     0109 C774410-8  Z Ni                 403 Zh K1 V                 
+Tsief         0110 C200578-A    Ni                 902 Zh M6 V                 
+Iketlshi'     0205 B200634-B    Na Ni Va           122 Zh M1 V                 
+Jdadlvetl     0207 E300442-9    Ni                 203 Zh G1 V                 
+Iajerekl      0301 C548645-6    Ag Ni S1           204 Zh M0 V M6 D             
+Drprent       0308 C534336-9  Z Lo Ni S8        A  413 Zh G7 III M2 V           
+Pie'a         0310 C20069A-9    Na Ni S1           100 Zh M4 II M0 V            
+Etsseltses    0401 E598332-5    Lo Ni D3 S3        924 Zh F7 III M3 V           
+Vibrie        0406 B22478B-C                       404 Zh K6 V                 
+Olabl         0409 C000578-9    As Ni              302 Zh G6 V                 
+Petszdeneh    0410 B654438-8    Ni S8              822 Zh M2 V M5 D             
+Dinotlbrrmsh  0506 A636626-C  X Ni                 923 Zh K4 V                 
+Yiantsiensh   0507 A7A3AFG-D    Fl Hi S6           214 Zh G7 V M9 D             
+Driar         0508 A886353-B  Z Lo Ni              703 Zh M2 V                 
+Nezhiezh      0509 B668521-9  Z Ag Ni SE           203 Zh M4 V M9 D             
+Iblents       0510 X000757-7    As Na           R  821 Zh M0 V                 
+Jianehzdeneh  0602 D313675-7  X Ic Na Ni           700 Zh G3 V                 
+Zho'prer      0603 XAD6789-2                    R  803 Zh M2 III               
+Raplel        0606 E552431-5    Ni Po Co S8        911 Zh M9 V M8 D             
+Detsia        0609 A99A233-E  Z Lo Ni Wa           400 Zh M4 V                 
+Aehkeiqr      0610 B244457-9    Ni                 904 Zh G9 V                 
+Oviedavla     0702 A787685-7    Ag Ni Ri S1B       924 Zh M0 V M1 D M7 D         
+Bintie        0707 CA8A342-9    Lo Ni Wa S3        622 Zh M4 II M7 V            
+Odrkliapr     0805 C9A6420-8    Fl Ni              223 Zh M2 V                 
+Ku Pryuld     0809 D566645-5  Z Ni Ri Cw An     A  214 Zh M8 V                 

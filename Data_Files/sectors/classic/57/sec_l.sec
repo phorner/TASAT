@@ -1,0 +1,41 @@
+@SUB-SECTOR:Inverness SECTOR:Far Frontiers
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aimar         2521 E972678-3    Ni                 101 Pt                     
+Pergatory     2523 A7A9301-B    In                 101 Pt                     
+Naro-Trevor   2524 A655524-9    Ag Ni              101 Pt                     
+Faro-Trevor   2525 A767745-8    Ag Ri              100 Pt                     
+Shadowsand    2526 C000419-B    Ni                 100 Na X 0                    
+Thieves' World2527 C257567-D    Ag Ni              101 Na                     
+Njisse        2530 C755352-A    Ni                 100 Na                     
+Llywellan     2625 BA6A788-B    Wa Ri              101 Pt                     
+Freedonia     2627 A7686C0-F  N Ag Ri              101 Na                     
+Sequitor      2629 X566459-3    Ni                 100 Na                     
+Rjnevelte     2630 B626557-D    Ni                 100 Na                     
+Malthus       2721 B323501-9  S Ni                 100 Pt                     
+Trebberhorn   2723 C6587D9-8    Ag                 101 Pt                     
+Bestus        2725 A685621-B    Ag Ni              101 Pt                     
+Marsus        2726 A9989B9-A  N In                 101 Pt                     
+Linelit       2730 C000310-7    Ni As              100 Na                     
+Bosslwck      2822 A7958A9-B  N                    101 Pt                     
+Dobbyn        2825 B976775-8    Ag              A  100 Pt                     
+Oakwood       2827 B444411-A    Ni                 101 Na                     
+Sherwood      2829 C584574-5    Ag Ni              101 Na                     
+Kendus        2921 D500889-7    De                 100 Pt                     
+Tallamatrix   2923 A593853-A  N                    101 Pt                     
+Garden Prime  2925 B1314D9-B    Ni                 100 Na                     
+Staci         2927 E300579-5    Ni                 100 Na                     
+Goggic        3021 A694610-B  S Ni                 101 Pt                     
+Padderborn    3024 D444466-7    Ni                 101 Pt                     
+Raskeller     3028 X928440-6                       101 Mn                     
+Saulente      3030 C868755-B  S Ag Ri              101 Mn                     
+Phais Eisert  3123 X210000-0                       101 Pt                     
+Xylon         3130 E6A2426-4    Ni                 101 Mn                     
+Regalia       3221 D521200-7    Po              A  101 Pt                     
+Galatea       3228 E685600-5                       101 Na                     
