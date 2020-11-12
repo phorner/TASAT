@@ -1,0 +1,20 @@
+@SUB-SECTOR:M  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0337 C67A218-B    Lo Ni Wa           900 As M2 IV M6 D
+              0338 EAB9207-6    Lo Ni Fl           205 As M0 V
+              0339 C55721B-6    Lo Ni              713 As M8 III
+              0438 A438127-C  R Lo Ni              804 As M9 V
+              0440 C57188A-E                       400 As F2 IV
+              0536 B552349-9    Lo Ni Po           124 As M6 V M1 D
+              0537 B2307A5-D    Na Po De           402 As M4 V M4 D
+              0540 B78A589-E  R Ni Wa              903 As K8 D
+Yetatla       0637 C88A9D4-9    Hi Wa              604 As M5 IV M1 VI
+              0640 B100788-F    Na Va              102 As M2 V M0 D
+              0738 C77566A-8    Ag Ni              900 As M3 V M2 D

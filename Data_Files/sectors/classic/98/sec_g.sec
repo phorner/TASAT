@@ -1,0 +1,44 @@
+@SUB-SECTOR:Epshu SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Rydberg       1712 A756440-E  N Ni                 303 Im
+Archibaldo    1713 B100433-C    Ni Va              803 Im
+Utrecht       1715 A525677-E    Ni                 404 Im
+Banach        1717 B331721-B    Po Na              802 Im
+De Haukstok   1811 B695754-B  S Ag              A  804 Im
+Josephson     1816 B100434-B    Ni Va              813 Im
+Querl         1818 B465220-E    Ni                 505 Im
+Darvon        1820 C100434-B    Ni Va              224 Im
+De Boynton    1920 A6888CF-F  N                    200 Im
+Roe           2013 B000420-D    Ni As              905 Im
+Carlisle      2015 B100434-D  N Ni Va              204 Im
+Procyon       2018 B465220-B    Ni                 514 Im
+Christopher   2019 C100434-C  S Ni Va              203 Im
+Ogadai        2020 C465220-9    Ni                 921 Im
+Marshall      2111 A639340-C  N Ni                 820 Im
+Muskegon      2112 B8C758B-E    Ni                 624 Im
+Jhena         2113 B310976-A  N Hi In Na           921 Im
+Colmen        2115 B878223-C    Ni                 302 Im
+Roderik       2119 B322311-B    Ni Po              504 Im
+Cheshire      2212 A897554-D    Ni Ag              124 Im
+Mackenzie     2213 A200667-F    Ni Va Na           902 Im
+Feeney        2214 E100433-A    Ni Va              500 Im
+Savon         2216 B525677-B    Ni                 304 Im
+Goroth        2217 B100433-D  N Ni Va              524 Im
+Sarmacid      2219 B100434-C  S Ni Va              903 Im
+Farok         2311 B667253-E    Ni                 724 Im
+Gowerd        2312 B6888CF-B    C4                 812 Im
+Sorsha        2313 D64448B-A    Ni                 603 Im
+Brady         2315 B449895-E  N                    724 Im
+De Ellerton   2318 B300654-D  N Ni Va Na           503 Im
+Astephante    2320 A636321-F    Ni                 803 Im
+Koreth        2412 A527587-F  N Ni                 223 Im
+Langley       2413 A253420-E    Ni Po              512 Im
+Ashida        2415 E639340-9    Ni                 512 Im
+Custancia     2419 D8C758B-9    Ni                 804 Im
+Riley         2420 B487220-D  N Ni                 103 Im

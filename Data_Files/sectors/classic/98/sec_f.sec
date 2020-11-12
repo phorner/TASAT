@@ -1,0 +1,39 @@
+@SUB-SECTOR:Khipge  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Khipge        0914 E756AA6 9    Hi                 114 Im
+Deyis Ii      0917 E874000-8    Ni Ba           A  900 Im
+Hirah         0918 A100433-E  N Ni Va              103 Im
+Belebrat      1011 C7997A7-9                       605 Im
+Resra         1012 B425220-B  S Ni                 332 Im
+Pleru         1019 B100633-A    Ni Va Na           210 Im
+Ramer         1112 B465220-E    Ni                 100 Im
+N'mra         1113 B756440-C    C2 Ni              822 Im
+Rawin         1114 E897554-7    Ni Ag              504 Im
+Odew          1116 A667253-F    Ni                 102 Im
+Rotek         1119 D6888CF-9  S                    204 Im
+Carlson's De  1214 E140434-7    Ni                 905 Im
+Keeli-ho      1314 B639340-E    Ni                 303 Im
+Arneua        1319 B110867-A    Na                 102 Im
+Tree          1320 B9B6454-E    Ni                 404 Im
+Niver         1411 A465220-D    Ni                 402 Im
+Vugaash       1414 D000440-6  S Ni As              513 Im
+Stonie        1415 B100433-B  S Ni Va              623 Im
+Kawa-Kwi      1420 A525677-F    Ni                 903 Im
+Ypse          1511 A465220-F  N Ni                 601 Im
+Seeplis       1512 B756440-E  N Ni                 724 Im
+Tomas         1514 C000554-B  S Ni As              812 Im
+Sheqap        1516 B200667-A  N Ni Va Na           913 Im
+Verza         1519 B100433-D    Ni Va              804 Im
+Fotose        1611 B655636-E    Ni Ag              305 Im
+Cassionia     1612 B465220-D  N Ni                 704 Im
+Pethatone     1614 C756440-A    Ni                 904 Im
+Zigme         1615 E897554-A    Ni Ag              712 Im
+Olavuz        1616 B667253-D    Ni                 825 Im
+Base X        1617 B6888CF-D  N                    603 Im
+Brating       1618 A64448B-F    Ni                 700 Im

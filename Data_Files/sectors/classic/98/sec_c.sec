@@ -1,0 +1,38 @@
+@SUB-SECTOR:Lagaar  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Hadrian       1707 B784532-C  N Ni Ag              903 Im
+Luornu        1708 E100434-8    Ni Va              604 Im
+Seadreamer    1709 A465220-D    Ni                 304 Im
+Elsevier      1802 C8A68AC-8                       904 Im
+Quito         1902 B100434-B  S Ni Va              902 Im
+Clio          1903 B465220-E  N Ni                 201 Im
+Nayda         1904 B100434-E    Ni Va              814 Im
+Nustre        1906 B465220-B  N Ni                 515 Im
+Red Eagle     1907 B756440-E    Ni                 304 Im
+Roise         1908 D897554-9  S Ni Ag              502 Im
+Nome          1910 B667253-E  S Ni                 203 Im
+Come          2001 D100433-8    Ni Va              723 Im
+Deanne        2002 B525677-A    Ni                 204 Im
+Illyria       2005 B331721-B  N Po Na              913 Im
+Fuchsia       2009 B527587-D    Ni                 404 Im
+De Skypwyth   2102 B100433-D  N Ni Va              525 Im
+Renite        2103 B525677-B  N Ni                 103 Im
+Greeth        2105 B331721-C    Po Na              212 Im
+Nanette       2106 D527587-6    Ni                 700 Im
+Walktoft      2110 A253420-F    Ni Po              703 Im
+Libuka        2202 B525966-D  N Hi In              623 Im
+Heufemia      2204 B100434-C  N Ni Va              203 Im
+Wattyf        2207 A465220-F    Ni                 503 Im
+Ptolemaic     2210 C756440-C    Ni                 312 Im
+Asilomar      2304 B465220-D  S Ni                 212 Im
+Zaid          2305 B756440-A    Ni                 514 Im
+Soure         2306 B897554-C    Ni Ag              821 Im
+De Neuson     2402 B100433-E    Ni Va              211 Im
+Borden        2407 B525677-C    Ni                 600 Im
+Urk           2410 E331721-A    Po Na              321 Im

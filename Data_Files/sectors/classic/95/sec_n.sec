@@ -1,0 +1,19 @@
+@SUB-SECTOR:Ioihlehwa SECTOR:Riftspan Reaches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1638 1838 1 0
+#
+#Political borders
+^1638 0
+^1638 4
+^1638 5
+^1639 4
+^1639 5
+^1640 4
+^1640 5
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ftuaktaol     1037 D597448-7    Ni                 815 As M1 V
+Ityerleira    1638 BAF7746-F  R Fl                 522 As G2 V

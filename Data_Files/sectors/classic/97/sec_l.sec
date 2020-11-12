@@ -1,0 +1,44 @@
+@SUB-SECTOR:Gadirur SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2521 D100500-D    Ni Va              314 Im F2 V M3 D M2 D
+              2523 D748557-8    Ag Ni              800 Im F2 D
+              2524 D662862-8    Ri                 623 Im F0 V M7 D M2 D
+              2526 B464526-D  N Ag Ni              123 Im F2 D
+              2527 B5A4225-C    Lo Ni Fl           614 Im F5 V M6 D
+              2528 D5AA677-5    Ni Fl Wa           320 Im K0 V
+              2529 B677665-B    Ag Ni              702 Im F5 D
+              2624 B835412-B    Ni                 711 Im M4 IV
+              2625 B76A510-A    Ni Wa              224 Im F4 V
+              2627 D888452-9    Ni                 214 Im F0 V
+              2629 A426868-C  N                    613 Im M0 V
+              2723 C79A557-C    Ni Wa              922 Im F8 D
+              2728 B789100-B  N Lo Ni           A  200 Im F9 V
+Ghali         2821 C9C9A84-E    Hi Fl              602 Im G1 D M6 D
+              2822 B98A310-E    Lo Ni Wa           404 Im K9 V
+              2824 E898553-7    Ag Ni              102 Im F0 V M5 D
+              2825 B5425AC-8    Ni Po              903 Im G2 V M9 D
+              2826 C3337CB-A    Na Po              604 Im M2 V
+              2828 B646553-A  N Ag Ni              603 Im F1 V
+              2922 B562034-B    Lo Ni              825 Im F2 VI
+              2923 C333857-9    Na Po              201 Im F2 D M9 D
+              2925 B25289D-8  N D0 Po              404 Im F2 D M0 D
+              2929 C576767-5    Ag                 803 Im F0 V
+              3022 B1507CF-9  N Po De              920 Im F9 D
+              3024 B7668CC-8                       515 Im F4 VI
+              3025 B496642-B    Ag Ni              513 Im F4 V M3 D
+              3027 B9A5112-9  W Lo Ni Fl           402 Im M9 IV M8 D
+Gadirur       3121 B4119AD-G    Hi Na In Ic        803 Im G9 D
+              3124 B555444-C    Ni                 224 Im F7 D
+              3127 B000787-F    Na As              703 Im K4 V M0 D
+              3128 A756553-E    Ag Ni              923 Im F3 D M0 D
+              3223 D59679C-4    Ag                 800 Im F5 D
+              3225 C767564-9  S Ag Ni              604 Im F8 D M3 D
+Gunde         3226 D333951-C    Hi Na Po           422 Im F3 D
+              3228 B676310-D    Lo Ni              803 Im F4 VI M3 D

@@ -1,0 +1,19 @@
+@SUB-SECTOR:Ryuhleiea SECTOR:Riftspan Reaches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1816 1615 -1 0
+$1816 2219 0 0
+$2219 2521 1 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1714 A276516-F    Ag Ni              622 As M7 IV M2 D
+              1715 D200588-9    Ni Va              203 As K3 V
+              1716 B683138-D    Lo Ni              812 As K9 V
+              1815 C586258-7    Lo Ni              600 As M6 V
+              1816 B888306-D  T Lo Ni              604 As M3 V M8 D
+              1914 B5A7218-C    Lo Ni Fl           703 As M1 V
+              2219 B241409-C    D1 Ni Po           502 As F0 V M3 D M7 V
+              2419 B639638-B    Ni                 404 As F3 V

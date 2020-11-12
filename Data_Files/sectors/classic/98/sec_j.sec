@@ -1,0 +1,45 @@
+@SUB-SECTOR:Liasdi  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Dixon         0921 B100434-E  N Ni Va              414 Im
+Reid          0922 B465220-C  N Ni                 812 Im
+Arte'         0924 B756440-D    Ni                 914 Im
+Liasdi        0928 A897944-C    Hi                 404 Im
+Nathan        1022 C100434-9  S Ni Va              702 Im
+Varina        1023 D465220-8    C2 Ni              500 Im
+Matar         1024 A756440-F    Ni                 400 Im
+Patrice       1025 E897554-6    Ni Ag              503 Im
+Mishayla      1027 C667253-C    Ni                 811 Im
+Schafer       1029 E6888CF-8                       814 Im
+Mabel         1121 B64448B-C  N Ni                 703 Im
+Tuscarora     1122 A449895-F  S                    904 Im
+Vandy         1125 E446459-7    Ni                 604 Im
+De Watton     1127 E200421-7    Ni Va              123 Im
+Paolo         1129 B878223-A    Ni                 604 Im
+Bell          1223 A465220-F  S Ni                 203 Im
+Furness       1226 B756440-C  S Ni                 924 Im
+Maximo        1227 B100433-E  N Ni Va              302 Im
+Brutus        1322 A100433-D    Ni Va              904 Im
+Ishag         1323 B525966-A  N Hi In              515 Im
+Ullist        1324 A756440-F  N Ni                 424 Im
+Stylyngton    1325 A897554-E    Ni Ag              503 Im
+Rothschild    1326 B667253-B  N Ni                 911 Im
+Rossak        1327 C6888CF-8                       903 Im
+Ampex         1328 B64448B-E    Ni                 515 Im
+Blane         1421 C331721-8  S Po Na              800 Im
+Arnelvedel    1427 B527587-D  N Ni                 211 Im
+Unduine       1428 B253420-D  N Ni Po              500 Im
+Tewdwr        1521 B525677-C    Ni                 621 Im
+Beniamino     1525 B331721-B    Po Na              703 Im
+Telsin        1527 B527587-C    Ni                 320 Im
+Darth         1528 A253420-E    Ni Po              203 Im
+Grady         1529 D639340-9    Ni                 604 Im
+Charleston    1530 B00058B-B    Ni As              303 Im
+Palestine     1623 B449895-C                       203 Im
+Spenserman    1625 B446459-A    Ni                 424 Im
+Bilton        1629 B766502-A    Ni Ag              304 Im

@@ -1,0 +1,46 @@
+@SUB-SECTOR:Bakkula  SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Guim          0903 E4009CD-C    Hi Na In Va        620 Im F5 D
+              0906 B898234-C    Lo Ni              304 Im F1 VI M0 D
+              0908 D673777-3                       404 Im G6 D M5 D
+              0909 B532522-B    Ni Po              723 Im M1 V
+              1001 E899475-5    Ni                 404 Im F4 V M2 D
+              1003 BAD9465-B  S Ni Fl              914 Im M7 VI M1 D
+              1004 A223758-G    Na Po              602 Im M0 V M7 D
+              1005 B554874-9                       702 Im F0 V
+Upsin         1006 B4009BB-F    Hi Na In Va        514 Im K7 D M7 D
+              1009 C9C5000-7    Lo Ni Fl Ba        303 Im M8 V M9 D
+              1101 B245789-A    Ag                 903 Im F6 VI M2 D
+              1102 B4007B9-E    Na Va              200 Im A3 V M0 D
+              1107 B352646-8    Ni Po              604 Im K9 D M4 D
+              1201 B332625-A    Na Ni Po           904 Im F3 V M3 D
+Adia          1203 D859985-B    Hi                 324 Im M1 V
+              1204 B61078A-B    Na                 625 Im M0 IV
+Lukan         1206 B9C6976-B    Hi Fl              914 Im F6 D
+              1209 B64159B-9    Ni Po              113 Im F0 V M0 D
+              1303 B000569-C  A Ni As           A  320 Im M0 V
+              1308 B100412-F    Ni Va              124 Im M4 V
+              1309 A000341-D    Lo Ni As           802 Im M7 D
+              1401 B431463-E    Ni Po              100 Im K6 V
+              1404 B571420-B  N Ni                 811 Im G9 D M3 D
+              1406 C95A101-B    Lo Ni Wa           935 Im F8 V
+              1407 A573421-F  N Ni                 700 Im F8 D
+              1409 D665343-9    Lo Ni              702 Im F5 D M9 D
+              1410 B55177A-B    Po                 701 Im F2 V
+              1501 E586203-7    Lo Ni              304 Im F5 VI
+              1502 A365334-B    Lo Ni              500 Im F0 D
+              1503 A65656A-B    Ag Ni              210 Im M3 V
+              1505 A150565-D    Ni Po De           303 Im K4 V M0 D
+              1510 B000694-B    Na Ni As           303 Im K0 V
+Kapa          1601 B533AEF-F    Hi Na Po           805 Im F7 VI
+              1603 B497633-9  N Ag Ni              202 Im F4 V
+              1604 D424200-A  S Lo Ni              104 Im K7 V
+              1605 E758695-8    C0 Ag Ni           212 Im G0 D M2 D
+              1608 A000487-F    Ni As              703 Im K2 V

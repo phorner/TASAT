@@ -1,0 +1,50 @@
+@SUB-SECTOR:Shillish   SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Shinush       0911 B899A87-F  N Hi In              403 Im F3 V
+              0912 C438441-D    Ni                 923 Im G0 V M3 D
+              0914 A400520-C    Ni Va              803 Im M2 V
+              0915 D30088A-8    Na Va              705 Im F4 V
+              0916 C83A651-C    Ni Wa              204 Im F1 V M5 D
+Kimki         0920 B7B2ABD-E  N Hi Fl              214 Im F3 V M4 D
+              1012 B576598-D  N Ag Ni              914 Im M4 V
+              1013 B300423-E  N Ni Va              535 Im F4 V M9 V
+              1017 A465348-C    Lo Ni              611 Im F9 D
+              1018 B988545-B    Ag Ni              902 Im F5 VI
+              1019 B58859B-A  N Ag Ni              103 Im F1 VI
+              1020 A675876-D    C0                 900 Im F2 V M4 D
+              1111 B552665-7  A Ni Po              902 Im F0 D M9 D
+              1114 A454300-E  N Lo Ni              502 Im F2 VI M7 D
+              1117 A595327-B    Lo Ni              504 Im F7 D
+              1118 B64968A-D    Ni                 505 Im F1 V
+              1119 B889679-A    Ni Ri              704 Im G7 VI M9 D
+              1211 B340641-C    Ni Po De           312 Im F0 V M3 D
+              1212 A432899-C    Na Po              100 Im G2 V
+              1215 B696121-8    Lo Ni              604 Im F6 D
+Nekhi         1217 D647979-A    Hi In              104 Im F3 V
+              1218 B310323-A    Lo Ni              523 Im M1 II M2 D
+              1219 B465333-A  N Lo Ni              814 Im F1 V
+              1220 E100300-B    Lo Ni Va           900 Im G8 V M4 D
+Murda         1311 D766ABD-9    C0 Hi           A  404 Im F9 D
+              1312 B443868-9    Po                 104 Im F2 V
+              1316 B577476-A    Ni                 903 Im F3 D
+              1317 A765662-9    Ag Ni Ri           100 Im G2 V M9 D
+              1318 B320342-C    Lo Ni Po De        500 Im M8 V
+              1320 B66A696-C  N Ni Ri Wa           310 Im F8 D M3 D
+              1412 C663887-A    Ri                 602 Im F8 D M1 D
+              1413 E332311-9    Lo Ni Po           214 Im M7 IV M4 D
+              1418 B729110-D  N Lo Ni              613 Im M1 V
+              1419 B998101-A    Lo Ni              823 Im F8 V M1 D
+              1511 D333697-6  S Na Ni Po           314 Im K0 V M3 D
+              1517 B330342-F    Lo Ni Po De        204 Im K6 V
+              1611 B535464-9    Ni                 400 Im M3 V M4 D
+              1613 E694669-5    Ag Ni              802 Im K3 V
+              1615 B675655-C  A Ag Ni              323 Im F2 V
+              1617 B473562-9  N Ni                 113 Im F3 V
+              1618 B9887BB-A    Ag                 313 Im F9 VI M5 D

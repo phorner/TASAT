@@ -1,0 +1,47 @@
+@SUB-SECTOR:Miitan   SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Base 1701     1701 B325367-E  N Lo Ni              310 Im M2 V
+Drywater      1703 B461555-F  N Ni                 900 Im F3 D
+Beaumonde     1704 A454586-C    Ag Ni              403 Im M2 V M7 D
+Maxwell's Roc 1708 A201487-C  N Ni Va Ic           420 Im M1 V
+Granite       1709 B510233-E    Lo Ni              913 Im M0 V M9 D
+Vesper        1710 A481323-F    Lo Ni              621 Im F4 D
+Ultima Thule  1801 E675743-3    Ag                 202 Im K3 V M0 D
+Ranchero      1807 B578764-C    Ag                 904 Im F5 D M3 D
+Penance       1808 B333475-A    Ni Po              123 Im G3 IV
+Base 1903     1903 B442041-B  N Lo Ni Po           303 Im F7 D M3 D
+Monda Bella   1906 B364653-D    Ag Ni Ri           102 Im G3 D
+Hogan         1907 C1008CC-B    Na Va              705 Im F8 D
+Aramco        1908 B6A7242-9    Lo Ni Fl           302 Im M6 V
+Cornucopia    2001 B667644-B    Ag Ni Ri           405 Im F4 D
+Warhead       2002 B322854-A  N Na Po              310 Im K3 D
+K28           2004 C100420-C  S Ni Va              205 Im M3 V M9 D
+Grubstake     2005 B439400-F    Ni                 300 Im F4 V M7 D
+Shume         2101 B110ACF-G    Hi Na In           904 Im F4 V
+Dyson's World 2102 D100211-7    Lo Ni Va           510 Im K2 V M5 D
+Gobi          2103 A560643-A    Ni Ri De           814 Im K6 D M1 D
+Pax           2105 C68787B-8    Ri                 403 Im F8 D
+Aurora        2106 A665357-E    Lo Ni              403 Im G0 D
+Flora         2108 D564557-8    Ag Ni              304 Im K9 D M4 D
+Migid         2201 C657985-9    Hi                 303 Im F4 V
+Lashaar       2204 E997559-A    Ag Ni              423 Im F0 V
+Retreat       2207 E435410-9    Ni                 501 Im K2 V
+Khirar        2208 B644964-E  N Hi In              700 Im M4 V M6 D
+Islands       2301 E659773-7                       502 Im F1 V M5 D
+Enclave       2302 E542469-7    Ni Po              910 Im G3 D M9 D
+'Tlak         2305 C88A768-9    Ri Wa              103 Im F7 D M9 D
+Wotan         2307 A672252-D    Lo Ni              503 Im F8 D
+Wendover      2310 B430411-B  N Ni Po De           103 Im M2 V
+Hadley        2401 B684477-D    Ni                 612 Im F6 D M1 D
+Cordelia      2402 A574247-A    Lo Ni              720 Im F7 D
+Sony          2403 B200204-C    Lo Ni Va           804 Im M6 II
+Orcim         2404 D3418B6-5    Po                 313 Im F4 V
+'Twee         2408 C55A572-9    Ni Wa              113 Im F6 D M1 D
+Rayaloybex    2410 B546534-9    D5 Ag Ni           815 Im F2 V

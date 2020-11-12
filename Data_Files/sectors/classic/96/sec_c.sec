@@ -1,0 +1,40 @@
+@SUB-SECTOR:C  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1806 D7C4868-4    Fl                 603 Im G0 II M9 D
+              1809 A324658-E    Ni                 504 Im M0 V
+              1810 C531323-9    Lo Ni Po           410 Im M8 III M1 VI
+              1905 E541630-5    Ni Po              612 Im F0 V
+              1906 D786765-7    Ag Ri              505 Im K0 V
+              1909 B575635-7    Ag Ni              801 Im M3 V M0 D
+              2004 C00079B-B    Na As              704 Im M1 V M3 D
+              2005 C8A86BB-8    Ni Fl              800 Im M2 V
+              2006 C544100-C    Lo Ni              414 Im K1 D
+              2008 D565476-9    Ni                 204 Im M1 V
+              2101 B150476-C    Ni Po De           310 Im M9 D
+              2103 C586312-6  S Lo Ni              824 Im K4 V
+              2104 D487423-A    Ni                 224 Im M2 V
+              2107 A662557-E    Ni                 814 Im G4 V
+              2109 X300100-6    Lo Ni Va        R  802 Im M4 V M3 D
+              2110 C998103-7    Lo Ni              700 Im G6 V
+              2201 B400304-F    Lo Ni Va           200 Im M1 V M7 D
+Kuma          2204 D52599B-B    Hi In              912 Im K0 V
+              2207 C675662-9    Ag Ni              632 Im G6 VI M9 D
+              2208 B8AA740-B    Fl Wa              620 Im K3 V
+              2209 B335200-B    Lo Ni              504 Im M2 II
+              2210 B354010-D    Lo Ni              200 Im M4 V M3 D
+              2301 D9AA320-B    Lo Ni Fl Wa        814 Im M9 V M4 D
+              2302 A847124-F    Lo Ni              713 Im M7 D
+              2303 D311487-6    Ni Ic              503 Im G1 V
+              2305 B668479-D  N Ni                 313 Im G1 III M3 VI
+              2306 C524500-D    Ni                 200 Im K0 V
+              2308 B897554-9    Ag Ni              704 Im M0 V
+              2310 B243657-C  N Ni Po              802 Im M0 V
+              2406 C200424-B    Ni Va              504 Im K1 V M6 VI
+              2410 D667546-4    Ag Ni              812 Im M4 V M6 D

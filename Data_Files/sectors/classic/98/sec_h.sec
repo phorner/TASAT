@@ -1,0 +1,43 @@
+@SUB-SECTOR:Gaussi  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Indra         2511 C331721-B    Po Na              604 Im
+Brunihildi    2515 B527587-D    Ni                 715 Im
+Norman        2517 C1009A7-8  S Hi In Va Na        404 Im
+Ojvind        2518 B100633-E    Ni Va Na           822 Im
+Lineal        2611 E4469BD-A    Hi In              801 Im
+Claudette     2615 E659423-8    Ni                 820 Im
+Australia     2616 E200421-9    Ni Va              102 Im
+Yokuts        2617 A878223-F    Ni                 103 Im
+Agamemnon     2712 B310010-D    Ni                 812 Im
+Heuen         2718 B625785-B  N                    403 Im
+Richmond      2814 BA78798-A    Ag                 502 Im
+Colorado      2815 D7997A7-A                       923 Im
+Cluj          2816 B300654-E  N Ni Va Na           704 Im
+Isfahan       2818 C636321-9  S Ni                 812 Im
+Ambrose       2820 B100434-C  S Ni Va              104 Im
+Bercleah      2911 B8A68AC-A                       621 Im
+Galadan       2914 B695754-C  S Ag              A  202 Im
+Eua           2915 DA78798-7    Ag                 704 Im
+Gianina       2917 B7997A7-C                       702 Im
+Sheldon       2918 A425220-F  N Ni                 214 Im
+Curadhan      2919 B434589-A    Ni                 310 Im
+Candor        3011 C100433-8    Ni Va              113 Im
+Bubw          3015 A525677-C    Ni                 414 Im
+Gregoire      3016 A331721-C    Po Na              813 Im
+Heme          3017 B527587-C    Ni                 220 Im
+Maine         3019 B100433-A    Ni Va              803 Im
+Shields       3020 B100434-B    Ni Va              503 Im
+Mccall        3111 D878223-A    Ni                 223 Im
+Boyd          3115 B322311-A    Ni Po              604 Im
+Hetek         3116 B100434-D  S Ni Va              112 Im
+Malla         3117 A465220-E    Ni                 825 Im
+Jeret         3119 A100434-F    Ni Va              112 Im
+Mercia        3120 B465220-B    Ni                 314 Im
+Wang          3214 A100633-F    Ni Va Na           904 Im
+Barfer        3218 C756440-9    Ni                 403 Im

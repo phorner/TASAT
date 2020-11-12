@@ -1,0 +1,45 @@
+@SUB-SECTOR:Shudash  SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2512 B333352-E    Lo Ni Po           702 Im M1 V M3 D
+Yuma          2513 C350000-A    Lo Ni Po De Ba     203 Im F1 D
+Blessed       2516 B658661-9  N Ag Ni              702 Im F4 V M5 D
+Fluorine      2517 B7C37A6-C    Fl                 913 Im A2 V M3 D
+Sandpile      2518 B240346-E  N Lo Ni Po De        625 Im M4 V
+Riverine      2519 C774464-9    Ni                 402 Im F4 V
+Irlariir      2520 B757996-A    Hi                 600 Im K9 VI
+Hell          2613 B9C2235-D    Lo Ni Fl           104 Im K7 V M9 D
+Dilfer Statio 2615 B000100-F    Lo Ni As           202 Im F5 V
+Plateau       2620 B786899-9    Ri              A  320 Im M9 VI M0 D
+Zhiphar       2711 B668976-9  S C3 Hi              824 Im G6 D
+              2712 B553455-A    Ni Po              912 Im M8 VI M6 D M4 D
+Homestead     2715 B876623-7  N C0 Ag Ni           404 Im G2 V
+New Dakota    2716 B688863-8    Ri                 103 Im F1 VI
+Thor          2717 A895898-D  N                    702 Im K2 V M9 D
+              2718 B451686-A    Ni Po              612 Im F8 VI
+Maffei        2812 B465795-8  N Ag Ri              513 Im G1 V
+Goerke's Rock 2813 B110200-D    Lo Ni              802 Im M4 V M2 D
+Viques        2814 B13058A-D  N Ni Po De           202 Im F1 V M7 V
+Poseidon      2815 B77A896-C    Wa                 900 Im F8 VI M1 D
+Shudash       2817 A5269EK-F  N Hi In              822 Im F0 VI
+Target        2819 A40047A-E  N Ni Va              512 Im F0 V M8 D
+Delta 2       2820 B377130-E    Lo Ni              800 Im F4 V M1 D M3 D
+Imur          2911 B5259EC-F    Hi In              313 Im K4 VI
+H 2913        2913 E653002-8    Lo Ni Po           624 Im G6 V M5 D
+Nihon         2915 B67467A-9    C5 Ag Ni           512 Im F1 V M5 D
+Icehouse      2919 BA9A576-D    Ni Wa              114 Im F2 V
+Betio Station 3012 B000300-D    Lo Ni As           304 Im M7 IV
+Jem           3015 B767100-9  N Lo Ni              205 Im F9 VI
+Granery       3016 B344564-D    Ag Ni              302 Im F9 D
+H 3018        3018 B535222-9    Lo Ni              514 Im M8 VI
+Snohomish     3020 B886133-D    Lo Ni              800 Im K1 V
+Sigma Station 3119 B561010-C    Lo Ni              713 Im G5 V
+              3216 C300622-8    Na Ni Va           923 Im F5 III
+Ansha         3218 A787943-G    Hi                 604 Im F1 D
+Zephyr        3219 C150410-A    Ni Po De           203 Im G1 V

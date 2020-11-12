@@ -1,0 +1,45 @@
+@SUB-SECTOR:Ilelish SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kirsten's Roc 2501 B300526-D    Ni Va              904 Im M4 V
+Wilkenson     2503 E644300-6    Lo Ni              913 Im F1 V
+Squee'kak     2506 BA9A48B-B    Ni Wa              515 Im F8 VI
+Freedom       2507 C639444-D    Ni                 305 Im M3 V M6 D
+Tanith        2508 B766326-A  S Lo Ni              612 Im F1 D
+Mordred       2509 AAB87BC-F    Fl                 604 Im M5 III M1 D
+Yard 10       2601 A300466-C    Ni Va              822 Im K6 III M3 V
+Volcano       2604 C376632-A  S Ag Ni              105 Im F1 V
+Colony 8      2606 D759254-9  S C0 Lo Ni           914 Im F6 D
+Barrington    2607 C474756-C    Ag                 122 Im F0 V M6 D
+Rodina        2609 B7956BA-8    Ag Ni              903 Im G6 D
+Garden        2610 B664884-B    Ri                 202 Im K0 V M7 D
+Depot 12      2702 B222588-A  D Ni Po              200 Im F1 V M1 D
+Gamma Lupus 2 2704 B6B4300-F    Lo Ni Fl           201 Im M7 V
+Hardy         2707 B877831-8  N                    611 Im F2 V
+Squee'qua     2708 B58A320-9  N Lo Ni Wa           500 Im F9 V
+Windsong      2803 A240623-E    Ni Po De           103 Im F6 D
+Haven         2806 E669563-5    Ni                 101 Im F4 V M7 D
+Dilipuu       2807 B672968-E    Hi In              514 Im K5 V
+Canyon        2810 A386402-C  N Ni                 402 Im F0 VI
+Ilelish       2907 E674983-A    Hi In              204 Im M0 D
+Haleakala     2909 B558532-B  N Ag Ni              720 Im F2 D
+Locus         3001 A445454-F    Ni                 915 Im K1 V
+Shudiikii     3003 B50099B-F    Hi Na In Va        300 Im F0 V
+Kigaru        3004 D594AEA-C    Hi In              203 Im F0 D M3 D
+Beta Cygnus 4 3006 B500326-A    Lo Ni Va           200 Im M0 V M0 D
+Freya         3008 B785735-7    Ag                 115 Im F5 VI M7 D
+Sean's Landin 3009 B436113-F    Lo Ni              902 Im M0 IV
+Avery         3101 B88778B-A  N Ag Ri              804 Im F5 D
+Squee'tak     3103 E95A68B-8    Ni Wa              304 Im F0 V M8 D
+Spring        3106 B675867-9                       102 Im F0 VI
+Hiroshi       3108 B49547B-B    Ni                 200 Im G0 VI
+Cupertino     3110 B676238-D    Lo Ni              802 Im F7 D
+Halcyon       3203 A656110-A    Lo Ni              804 Im F9 D M9 D
+Khali         3204 B454467-A  N Ni                 103 Im M5 D
+Crystal       3209 E7AA79B-9    Fl Wa              600 Im M3 V

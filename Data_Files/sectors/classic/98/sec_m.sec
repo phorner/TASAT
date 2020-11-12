@@ -1,0 +1,15 @@
+@SUB-SECTOR:Void  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Gwyneviere    0135 B667253-C  M Ni                 824 Cs
+Cayuga        0140 B6888CF-B    D0                 314 Na
+Ibart         0239 B523233-B    Ni Po              623 Cs
+Havre         0338 B525966-E    Hi In              110 Cs
+Tibetan       0432 E639340-8    Ni                 805 Cs
+Solomon       0433 D8C758B-8    Ni                 622 Cs
+Colony Four   0738 B897944-C    Hi                 623 Na

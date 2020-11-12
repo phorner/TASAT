@@ -1,0 +1,48 @@
+@SUB-SECTOR:Mizar  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Scorpio       0121 D625785-8                       923 Im
+Quag          0124 B100434-E    C5 Ni Va           224 Im
+Vesarelict    0126 C465220-B    Ni                 800 Im
+Waytte        0127 B756440-E    Ni                 512 Im
+Ernie         0130 B897554-D    Ni Ag              704 Im
+Dyny          0224 A462433-E  N Ni                 612 Im
+Christian     0227 B586444-D    Ni                 824 Im
+Ibaru         0321 B1009A7-D    Hi In Va Na        203 Im
+Clif          0323 B636321-D    Ni                 802 Im
+Ramrod        0324 D434000-9  S Ni Ba              905 Im
+Resp          0326 B444420-C    Ni                 500 Im
+Sarasota      0328 B667253-C  N Ni                 213 Im
+Byron         0329 B100433-C  N Ni Va              113 Im
+Joanne        0422 A100433-F  S Ni Va              100 Im
+Kelde         0425 C525677-9    Ni                 402 Im
+Rico          0427 E331721-8    Po Na              722 Im
+Chao-Li       0428 B527587-E    Ni                 515 Im
+Kernighan     0430 B253420-B  N Ni Po              803 Im
+Bormor        0522 A331721-E  N Po Na              620 Im
+Anglican      0524 B527587-B    Ni                 604 Im
+Atte Barke    0525 B100433-C    Ni Va              300 Im
+Caris         0527 B525677-A  N Ni                 123 Im
+Kern          0528 D331721-6    Po Na              103 Im
+Leandre       0529 C527587-C    Ni                 204 Im
+Magotson      0621 C756440-A  S Ni                 924 Im
+Lowtheson     0622 C897554-A    Ni Ag              103 Im
+O'Bryon       0624 B200667-E    Ni Va Na           401 Im
+Newhaw        0625 E6888CF-7    C0                 904 Im
+Giovanni      0627 A64448B-C    Ni                 720 Im
+Kaas          0628 B449964-E    Hi In              512 Im
+Aodhagan      0721 B525677-D    Ni                 310 Im
+Nagasaki      0723 B331721-C    Po Na              404 Im
+Feron         0724 A100434-E  N Ni Va              300 Im
+Lammas        0726 B465220-B  N Ni                 103 Im
+Rodriguez     0729 A756440-C    Ni                 901 Im
+Cherlindrea   0821 B639340-B    Ni                 914 Im
+Gymir         0825 B8C758B-E    Ni                 415 Im
+Rowland       0826 B487220-C    Ni                 504 Im
+Dweomer       0827 C5A4622-B    Ni                 805 Im
+Stegosaurus   0829 B5746AC-D    Ni Ag              714 Im

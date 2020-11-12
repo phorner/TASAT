@@ -1,0 +1,45 @@
+@SUB-SECTOR:Arlumer SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0101 B100324-F    Lo Ni Va           120 Im K4 V
+              0102 B446849-8                       600 Im F5 D M5 D
+              0108 B599699-C    Ni                 312 Im F2 D
+              0110 B341533-A    Ni Po              414 Im F4 V
+              0204 B546489-8    Ni                 720 Im M3 V M6 D
+              0205 B444310-E    Lo Ni           A  102 Im F1 D
+              0206 C476530-9    Ag Ni              900 Im M3 V
+Nasi          0207 B200986-F  N Hi Na In Va        102 Im F5 D M9 D M0 D
+              0208 B786540-C    Ag Ni              810 Im F9 D
+              0209 A552758-C    Po                 302 Im M4 D
+              0303 B2228AB-E    Na Po              520 Im F1 V
+              0305 D94A79A-4    Wa                 404 Im G2 VI M4 D
+Tylio         0307 B646A75-F    Hi In              805 Im M1 V
+              0309 B5587AB-A  N Ag                 601 Im F7 D M4 D
+Eggii         0401 B300979-F    Hi Na In Va        905 Im F2 VI M7 D
+              0402 B671547-C    Ni                 210 Im M4 V M1 D
+Ansha         0403 E5529DD-7    Hi Po              805 Im F8 D
+Kkikla        0406 D693AAB-C    Hi In              103 Im G2 V
+              0407 A888533-F    Ag Ni              413 Im F0 V M6 D
+              0409 BAC8033-B    Lo Ni Fl           803 Im M9 III M8 V
+              0410 A2008A8-F    Na Va              504 Im F3 V M8 D M1 D
+Kagaki        0502 B48298A-B    Hi                 500 Im F5 D
+              0505 E476300-8    Lo Ni              820 Im G4 D
+              0506 D469653-6    Ni Ri              321 Im F3 VI M0 D
+Arlumer       0510 A372A9A-G  N Hi In              625 Im M4 D
+              0602 B686354-E  N Lo Ni              910 Im G2 VI
+              0605 A362556-E    Ni                 803 Im F3 VI M8 D
+              0607 C567100-8    Lo Ni              613 Im K4 VI
+              0704 A553314-C    Lo Ni Po           203 Im F8 V
+              0705 B4447AA-A  N Ag                 904 Im F0 D M6 D
+              0706 EAAA303-B    Lo Ni Fl Wa        903 Im F2 II M3 D
+Adia          0708 D347979-B    Hi In              714 Im F7 VI
+              0709 B667578-D  N Ag Ni              214 Im M3 D
+              0806 D85A000-6  S Lo Ni Wa Ba        601 Im F4 D M8 D
+              0808 B3227B8-E  N Na Po              201 Im G3 V
+              0810 B330886-B    Na Po De           400 Im F2 V M5 D

@@ -1,0 +1,58 @@
+@SUB-SECTOR:Wahtoikoeakh SECTOR:Riftspan Reaches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2933 3030 0 -1
+$2933 2936 0 0
+$2936 3038 0 0
+$3038 3039 0 0
+$3039 3239 0 0
+$3039 3240 0 0
+$3039 2840 0 0
+$2840 2539 0 0
+$2639 2640 0 0
+$2640 2501 0 1
+$2539 2437 -1 0
+$2539 2440 -1 0
+#
+#Political borders
+^2538 0
+^2538 1
+^2637 2
+^2637 3
+^2637 4
+^2738 0
+^2837 0
+^2837 5
+^2836 1
+^2836 2
+^2936 0
+^2936 1
+^2936 2
+^2936 4
+^2936 5
+^3036 4
+^3037 0
+^3037 1
+^3138 0
+^3138 1
+^3228 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2539 A73587B-E    D0                 300 As K4 V M6 D
+              2639 B203107-9    Lo Ni Va Ic        312 As M8 D
+              2640 B554872-E                       700 As M4 V M7 D
+              2738 B453467-9    Ni Po              400 As M0 V M8 D
+              2740 B333669-B    Na Ni Po           810 As K3 V
+              2838 B537674-B    Ni                 924 As K1 V M6 D
+              2840 A100155-B    Lo Ni Va           503 As K8 V
+              2933 A9AA89B-G    Fl Wa              414 As G4 V
+Wahtoikoeakh  2936 A773AA9-C    Hi In              902 As M1 V
+              2940 A58087B-G    Ri De           A  913 As G3 VI
+              3038 A65968B-C    Ni                 705 As K4 V
+              3039 A867507-F    Ag Ni              220 As K4 V
+              3131 B7A810A-C    Lo Ni Fl           223 As G1 V M9 D
+              3139 B648146-8  R Lo Ni              602 As M7 V M6 D
+              3239 B68351A-C  R Ni                 810 As M1 V M4 D
+              3240 B56055A-E    Ni De              704 As M4 V

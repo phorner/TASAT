@@ -1,0 +1,47 @@
+@SUB-SECTOR:L  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2526 C778841-7                       625 Im M3 V
+              2529 B435420-E    Ni                 322 Im M3 V
+              2625 A474795-A    Ag                 714 Im M1 V M3 D
+              2627 X87A632-4    Ni Wa           R  203 Im K3 V M4 D
+              2722 A779232-F  N Lo Ni              204 Im G1 V
+              2723 E764687-8    Ag Ni Ri           913 Im A2 III
+              2725 D100663-B  S Na Ni Va           514 Im G2 V
+              2726 B787545-9    Ag Ni              702 Im K0 IV
+              2728 A6835AA-E    Ni                 204 Im K0 V M3 D
+              2730 B697359-D    Lo Ni              323 Im M2 V M9 D
+              2823 E261521-6    Ni                 803 Im M2 V M2 D
+              2826 DA6A520-7    Ni Wa              923 Im K0 V M6 D
+              2827 A300100-F    Lo Ni Va           704 Im K7 V M8 D
+Tiawan        2828 D88AA87-B    Hi Wa              203 Im M3 V
+              2829 A568664-B    Ag Ni Ri           401 Im M3 V
+              2922 A779655-F    Ni                 815 Im M2 V G7 D
+              2924 B478787-B    Ag                 603 Im M0 V
+              2926 C85A555-A    Ni Wa              913 Im K1 V M0 D
+              2927 D673678-4    Ni                 604 Im M0 V M3 D
+              2928 E8C3562-5    Ni Fl           A  303 Im K2 V
+              2929 E345402-9    Ni                 202 Im M0 V M6 D
+              3021 C578664-7    Ag Ni              524 Im M3 V K3 D
+              3024 A23579C-E                       102 Im M2 V
+              3025 D623025-4  S Lo Ni Po           113 Im M8 V
+              3026 D5676B6-6    Ag Ni              302 Im K3 V
+              3028 C000100-D    Lo Ni As           712 Im K4 V M6 D
+              3030 B400466-D  N Ni Va           A  404 Im K1 V M2 D
+              3122 DA5A156-7  S Lo Ni Wa           301 Im G7 III M5 VI M2 V
+              3124 C110779-B    Na                 301 Im M4 V M4 D
+              3125 C310414-B    Ni                 301 Im M2 V M4 D
+              3129 E868554-9    Ag Ni              911 Im M3 V M2 D
+              3222 C7A5120-7    Lo Ni Fl           902 Im M6 V
+              3223 A9C38AC-C    Fl              A  214 Im M9 IV M1 D
+              3224 D4458C9-4                       614 Im M3 V M0 D
+              3226 C87A200-B    Lo Ni Wa           104 Im M6 IV M4 VI
+              3228 B768455-E    Ni                 300 Im G0 V
+              3229 B130768-D  N Na Po De           514 Im K2 V
+              3230 A757231-A    Lo Ni              403 Im M0 V M7 D

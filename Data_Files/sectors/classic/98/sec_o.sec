@@ -1,0 +1,44 @@
+@SUB-SECTOR:Rhamsteppe  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Gugliemo      1731 A434223-F  N Ni                 101 Im
+Thaal         1734 B110867-D    Na                 125 Im
+Lyla          1735 B310010-D  N Ni                 700 Im
+Euphrates     1736 B110589-E  S Ni                 403 Im
+Lisa          1739 B527663-C    Ni                 802 Im
+Tudor         1740 B765656-C  S Ni Ri Ag           204 Im
+Oyko          1835 D1009A7-A    Hi In Va Na        700 Im
+Interpol      1840 B636321-A    Ni                 823 Im
+Aerobacter    1931 B532464-C  N Ni Po              804 Im
+Dungon        1932 B545898-A                       800 Im
+Epshu         1933 D787944-A    Hi                 414 Im
+Cicero        1934 B310010-A    Ni                 624 Im
+Coffman       1935 E625785-7                       300 Im
+Heimdall      1936 B532464-A  N Ni Po              900 Im
+Cutlass       1937 B100433-D    Ni Va              804 Im
+Ovid          1940 D100434-7    Ni Va              113 Im
+Fishlak       2031 B200667-B    Ni Va Na           104 Im
+Oxherde       2032 B100433-B    Ni Va              715 Im
+Wykstow       2039 D525677-8    Ni                 602 Im
+Grabfoot      2131 B310010-E    Ni                 202 Im
+Mervan        2134 B625785-A                       202 Im
+Hill          2135 E100434-9    Ni Va              405 Im
+Kardar        2136 B465220-D    Ni                 513 Im
+Aden          2137 B756440-E  S Ni                 901 Im
+Simmons       2140 B100433-B  S Ni Va              305 Im
+Kargo         2232 B100433-B    Ni Va              514 Im
+Minga         2240 B100434-D    Ni Va              920 Im
+Rollins       2331 B100434-A    Ni Va              201 Im
+Gean          2333 B465220-B    Ni                 303 Im
+Udiid         2335 C756AA6-C    Hi                 205 Im
+Yucatan       2338 B874445-D  N Ni                 402 Im
+Farkas        2339 B574343-B    Ni                 803 Im
+Gweir         2340 B3657CF-E    Ag                 214 Im
+Getty         2435 C000554-C    Ni As              910 Im
+Disi          2436 B54A513-A  N                    600 Im
+Hon           2439 B667253-C  N Ni                 902 Im

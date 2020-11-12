@@ -1,0 +1,49 @@
+@SUB-SECTOR:Steppe SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0113 E32347B-6    Ni Po              901 Im M2 VI M3 D
+              0116 B130437-B    Ni Po De           902 Im M2 V
+              0211 B535304-F  N Lo Ni              924 Im M1 IV
+              0212 A654120-A    Lo Ni              600 Im M6 V
+              0217 A210105-G    Lo Ni              204 Im M5 V M0 D
+              0218 E8D48B9-9    Fl                 222 Im F1 D
+              0220 A110331-E    Lo Ni              300 Im M7 V M3 D
+              0312 B565598-8  N Ag Ni           A  204 Im F9 VI M5 D
+              0313 B210677-A  N Na Ni           A  204 Im M1 V M4 D
+              0314 E210532-A    Ni                 703 Im M0 III
+              0315 B442666-B    Ni Po              604 Im M0 D
+              0316 D557566-9    Ag Ni              112 Im M6 D M6 D
+              0318 B879887-8                       802 Im G7 VI
+              0319 A795424-C  N Ni                 200 Im G4 V M2 D
+              0413 B79A441-A    Ni Wa              114 Im G9 VI M2 D M9 D
+              0417 B414235-A    C1 Lo Ni Ic        602 Im K7 V M3 D
+              0419 B2327AB-E    Na Po              104 Im M9 VI
+              0420 B221445-C    Ni Po              800 Im M0 V M3 D
+              0511 D773668-4    Ni                 124 Im F1 V
+              0512 B35168B-C  N Ni Po           A  723 Im F1 V M8 D
+              0515 B764734-7    Ag                 703 Im F3 V
+              0517 B234100-D  N Lo Ni              404 Im M6 V M8 D
+              0520 B210677-9  W Na Ni              314 Im F9 III M3 VI
+              0613 B342545-9    Ni Po              225 Im F7 D
+              0615 B242411-E    Ni Po              802 Im F3 V M5 D
+              0616 B57367B-9    Ni                 110 Im F4 D
+              0618 C686523-A    Ag Ni              800 Im G4 V M1 D
+              0619 B574453-E    Ni                 821 Im F6 VI
+Shashinke     0620 E686A79-C    Hi                 400 Im K0 D
+Rughl         0712 B000979-F  N Hi Na In As        404 Im F7 D
+              0713 B594769-A  N Ag                 702 Im G4 D
+              0715 B79A203-F    Lo Ni Wa           614 Im M6 D
+              0716 B534386-A    Lo Ni              304 Im M6 V
+Duel          0719 E536ADC-9    Hi                 101 Im K0 D M9 D
+              0720 A546420-A  S C1 Ni              405 Im F3 VI M7 D
+Ekih          0811 E6559CC-A    Hi                 201 Im F4 V
+              0812 C253613-6    Ni Po              703 Im F3 V
+              0813 B464874-A    Ri                 612 Im F1 D
+              0817 E6838A9-7                       822 Im F3 V
+              0819 B437001-D    Lo Ni              500 Im M7 V

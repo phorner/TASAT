@@ -1,0 +1,26 @@
+@SUB-SECTOR:K  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1727 E766100-7    Lo Ni              702 Im M1 V M4 D
+Daddadh       1821 C5339AE-9    Hi Na Po           624 Im M2 V
+              1825 C110030-D    Lo Ni           A  802 Im M8 V
+Ekin          1922 C6989AC-C    Hi In              424 Im M1 IV
+              1929 C76A6AC-B    Ni Wa              125 Im G3 V
+Turin         2023 A561988-D    Hi                 303 Im A8 VI G8 D
+              2121 A373200-F    Lo Ni              824 Im K7 V M4 D
+              2123 A6969BC-F    Hi In              224 Im M1 V M2 D
+              2125 B94A7A9-8  N Wa                 800 Im K1 V
+              2222 E410200-9    Lo Ni              524 Im M6 VI
+              2223 C3118B8-8    Na Ic              603 Im K3 IV
+              2224 E8C28B9-7    Fl                 505 Im M1 V
+              2225 D362642-6    Ni Ri              412 Im M3 IV M2 D
+              2226 C566751-A    Ag Ri           A  623 Im K3 IV M5 V
+              2321 C677100-9    Lo Ni              424 Im K7 VI M6 D
+              2425 A444665-F    Ag Ni              404 Im M7 VI M4 D
+              2426 D96A546-8    Ni Wa              404 Im K6 V

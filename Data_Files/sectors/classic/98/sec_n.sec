@@ -1,0 +1,16 @@
+@SUB-SECTOR:Allegro  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Ayil          0934 A654002-E    Ni                 412 Cs
+Koringap      0937 B8A68AC-E                       400 Na
+Blaunchard    1038 B310010-A  M Ni                 501 Cs
+Klymo         1140 A322311-F    Ni Po              704 Cs
+Lysandra      1239 B525677-A    Ni                 710 Na
+Fistor        1340 B449895-A                       521 Na
+Weinberg      1535 B487220-A    Ni                 414 Na
+Mathilde      1631 A435254-C    Ni                 924 Na

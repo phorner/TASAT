@@ -1,0 +1,46 @@
+@SUB-SECTOR:Dlan SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0921 A768345-D    Lo Ni              700 Im F3 V
+              0923 A210400-E  N Ni                 301 Im M1 V M2 D
+              0925 B423467-E    Ni Po              405 Im G3 III
+              0926 B410753-A    Na                 314 Im M1 V
+              0927 B22576A-C                       600 Im M9 III M5 V
+              0928 C777242-8    Lo Ni              411 Im F8 VI M3 D
+              0929 B211112-F    Lo Ni Ic           913 Im M9 V M8 D
+Dlan          1021 A8D1ADE-G  N Hi Fl              315 Im F8 VI M7 D
+              1022 B362558-C  D Ni                 603 Im F9 D M6 D
+              1024 B432556-C  N Ni Po              201 Im F2 V
+              1122 D37069C-6    Ni De              102 Im F2 V
+              1124 D99A769-4    Wa              A  810 Im F4 V
+              1126 B37346B-E  N Ni                 602 Im F1 V M6 D
+              1129 C410895-8  S Na                 804 Im F3 V M8 D
+              1130 D333651-6    Na Ni Po           333 Im M0 V
+              1221 B757541-D    Ag Ni              304 Im F3 V
+              1224 C000245-E  S Lo Ni As           602 Im M4 V
+              1229 A9B2445-F  W Ni Fl              703 Im M3 V M5 D
+              1230 C300425-A    Ni Va              722 Im K0 V
+Shagipka      1321 B671989-E    Hi In              302 Im F5 D
+Shunim        1323 C768966-B    Hi                 914 Im F4 D M4 D
+              1325 AAAA79D-C  N Fl Wa              113 Im M3 V
+              1326 C879346-B    Lo Ni              313 Im G9 D
+              1328 B887879-B  S Ri                 703 Im F2 V M1 D
+              1329 A400457-F  N Ni Va              100 Im F2 VI M0 D
+              1330 E431479-9    C2 Ni Po           704 Im M4 V
+              1424 B55479B-7  N Ag                 104 Im F0 V
+              1523 C86A56B-8    Ni Wa              823 Im F1 D
+              1525 A120665-F  N Na Ni Po De        903 Im M4 D
+              1526 E484855-9    Ri                 301 Im G4 V M8 D
+              1527 A220573-F    Ni Po De           914 Im M6 III M1 D
+              1530 A8448BC-B                       104 Im F5 D
+              1623 B202000-B  N Lo Ni Va Ic Ba     603 Im M3 V M0 D
+              1624 A300000-C  N Lo Ni Va Ba        900 Im M5 V M9 D
+              1627 C595245-7    Lo Ni              604 Im F2 V M1 D
+Teyle         1628 B8679CG-9    Hi                 825 Im F9 D M9 D
+Lyceum        1630 E23197A-9    Hi Na Po           623 Im F3 D

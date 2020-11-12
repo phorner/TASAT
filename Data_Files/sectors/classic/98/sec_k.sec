@@ -1,0 +1,39 @@
+@SUB-SECTOR:Wolf  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Staring       1721 D527587-7    Ni                 514 Im
+Lianma        1727 A1009A7-F    Hi In Va Na        204 Im
+Ponand        1729 A636321-F    Ni                 614 Im
+Temenee       1821 B465220-D    Ni                 804 Im
+Sagree        1822 C756440-A    Ni                 605 Im
+Tetrini       1823 B897554-C    Ni Ag              812 Im
+Zecu          1826 B667253-D    Ni                 603 Im
+Sensee        1922 B310010-A  N Ni                 715 Im
+Kdept         1924 E625785-9                       623 Im
+Ter-ritt      2023 B756440-A  N Ni                 603 Im
+Alcau         2030 B897554-C  N Ni Ag              100 Im
+Reemen        2129 B77A405-A  S Ni Wa              703 Im
+Mettari       2130 D654002-9  S Ni                 204 Im
+Clavert       2222 B100433-B    Ni Va              914 Im
+Bacelbron     2223 B525677-C  S Ni                 614 Im
+Cossor        2224 B331721-B    Po Na              724 Im
+Reunder       2225 B100434-A    Ni Va              803 Im
+Hepa          2226 D465220-6    Ni                 701 Im
+Farock        2228 B100434-D    Ni Va              820 Im
+Laner         2230 D465984-9    Hi                 404 Im
+Cesall        2321 B434656-D    Ni                 322 Im
+Radema        2323 C444420-C    Ni                 214 Im
+Lonely        2324 B200667-A  S Ni Va Na           402 Im
+Provalan      2325 A6888CF-F                       604 Im
+Yeara         2328 C64448B-B    Ni                 504 Im
+Preserve      2329 E449895-A                       913 Im
+Adni          2330 B300A98-E    Hi In Va Na        122 Im
+Skaob-heti    2422 B5A4622-D  N Ni                 903 Im
+Dust          2424 B0006AC-D  N Ni As Na           604 Im
+Hentier       2426 B100433-B    Ni Va              412 Im
+Corants       2430 E756440-9    Ni                 901 Im

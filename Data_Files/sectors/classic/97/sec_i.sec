@@ -1,0 +1,35 @@
+@SUB-SECTOR:Verran  SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0127 A565200-E    Lo Ni              413 Im F2 V
+              0128 B893249-D  A Lo Ni              603 Im F5 V
+              0226 CA8A230-C    Lo Ni Wa           500 Im F6 D M3 D
+              0227 A798748-E    Ag                 503 Im F2 D
+              0322 DAD6331-7    Lo Ni Fl           504 Im M5 V M7 D
+              0328 B849401-C    Ni                 414 Im F2 V
+Rekagun       0330 D326A85-E  S Hi In              602 Im F3 V M2 D
+              0421 E568447-5    Ni                 812 Im F1 V M7 D
+              0426 B556687-C    Ag Ni              604 Im G9 VI
+              0427 B220683-A  N Na Ni Po De        704 Im F2 V M0 D
+              0521 B000368-F    Lo Ni As           600 Im M8 IV
+              0524 C533674-A    Na Ni Po           712 Im K2 V
+              0525 B65176A-8  W Po                 303 Im F4 V M6 D
+              0526 A84A436-E  N Ni Wa              403 Im F4 V
+              0527 A686888-A    Ri                 612 Im G4 V
+              0623 E32388B-9    Na Po              105 Im F1 V M9 D
+              0625 A669896-A    Ri                 614 Im F2 V
+              0627 A511422-E    Ni Ic              705 Im F1 V M2 D
+              0724 B000100-F    Lo Ni As           202 Im M1 V
+              0729 A000454-F  N Ni As              922 Im M5 III
+Dorbyora      0821 D422AFF-E  S Hi Na In Po        100 Im F2 V M7 D
+              0823 D340662-9    Ni Po De           514 Im G5 D
+Naga          0826 B1209CC-G    Hi Na In Po De     804 Im F1 V
+              0827 C120889-C    Na Po De           704 Im F2 VI M8 D
+              0829 A974864-B                       503 Im F2 D
+              0830 A410565-F    Ni                 802 Im K2 V

@@ -1,0 +1,41 @@
+@SUB-SECTOR:Triton  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Teddy         0901 B466433-A    Ni                 110 Im
+Lluara        0905 B655636-B    Ni Ag              805 Im
+Mailbelle     0909 A465220-F  N Ni                 730 Im
+Nerus         1001 A695754-F    Ag              A  812 Im
+Dyotson       1007 DA78798-A  S Ag                 810 Im
+Omournil      1102 C110589-A    Ni                 803 Im
+Gaspani       1103 B100434-E  N Ni Va              310 Im
+Stefan        1104 C465220-B  S Ni                 704 Im
+Helmholtz     1105 B756440-D    Ni                 510 Im
+Lar           1106 B100433-C    Ni Va              604 Im
+Teodosia      1107 A525677-D    Ni                 603 Im
+Perle         1109 C331721-9    Po Na              613 Im
+Tailour       1110 B100434-A  N Ni Va              900 Im
+De Driffeld   1204 B77A405-E  S Ni Wa              710 Im
+Degan         1205 B000002-D  N Ni As              202 Im
+Samlane       1209 D8A68AC-6                       901 Im
+Du            1210 B695754-E    Ag              A  122 Im
+Duach         1303 B000721-A  N As Na              724 Im
+Alexander     1306 B527587-D    Ni                 903 Im
+Oakley        1309 B253420-E    Ni Po              904 Im
+Tortuero      1406 C446459-A    Ni                 814 Im
+Russo         1407 E766502-6    Ni Ag              200 Im
+Fromabes      1408 B435254-E    Ni                 203 Im
+Valistor      1409 B784532-B    Ni Ag              210 Im
+Havensmist    1410 A100434-F  N Ni Va              323 Im
+Kiarr         1501 B639340-B    Ni                 303 Im
+Haragraf      1502 A8C758B-C  N Ni                 702 Im
+Rufina        1504 B310010-C    Ni                 824 Im
+Gentlewind    1506 A000785-D  N As Na              124 Im
+Charissa      1508 B100434-C    Ni Va              702 Im
+Kunagnos      1602 B5A4622-D    Ni                 503 Im
+Vyblos        1605 B0006AC-E  N Ni As Na           820 Im
+Coluylman     1607 D466433-7    Ni                 911 Im

@@ -1,0 +1,42 @@
+@SUB-SECTOR:Oasis  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Altacen       2522 B756440-C  N Ni                 303 Im
+Ereas         2524 B897554-A    Ni Ag              113 Im
+Reina         2525 A200667-F    Ni Va Na           303 Im
+Pora          2528 B100433-B    Ni Va              524 Im
+Halfway       2621 C322311-B    Ni Po              402 Im
+Irap          2630 B100A99-C    Hi In Va Na        702 Im
+Strabuu       2722 B100434-B    Ni Va              201 Im
+Tarpit        2725 B465220-C  S Ni                 704 Im
+Egama         2729 E756440-9    Ni                 602 Im
+Tibiles       2730 A897554-C  S D0 Ni Ag           703 Im
+S'covo        2822 B465220-D  N Ni                 824 Im
+Oslamool      2824 E756440-9    Ni                 603 Im
+Megalmatree   2826 A897554-F    Ni Ag              614 Im
+Husez         2921 A541530-D  N Ni Po              401 Im
+Harmless      2925 C726510-A    Ni                 714 Im
+Dothama       2928 A584161-F  N Ni                 402 Im
+Dethis        2930 B110867-C    Na                 202 Im
+Sholonois     3021 B100433-B    Ni Va              114 Im
+Arising       3022 E525677-7    Ni                 305 Im
+Sive-Lish     3024 B100433-C    C0 Ni Va           223 Im
+Darks         3025 B525677-C  N Ni                 103 Im
+Hiistan       3028 B100433-B    Ni Va              700 Im
+Tagend        3030 B525677-D  S Ni                 505 Im
+Nar Sumeck    3122 B756440-E    Ni                 822 Im
+Ree Nee Wed   3128 B897554-D  N Ni Ag              913 Im
+Romany        3129 B667253-C    Ni                 904 Im
+Barnet        3130 B6888CF-C    Cp                 804 Im
+Apshaanu      3222 E897554-8    Ni Ag              703 Im
+Pheren        3223 E667253-8    Ni                 404 Im
+Womslete      3224 B6878BF-A                       302 Im
+Thagam        3225 C64448B-A    Ni                 200 Im
+Deralatan     3226 D449895-6  S                    405 Im
+Zeraxt        3229 E446459-9    Ni                 800 Im
+Donsam        3230 B766502-A    Ni Ag              303 Im

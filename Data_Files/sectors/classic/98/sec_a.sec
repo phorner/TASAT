@@ -1,0 +1,45 @@
+@SUB-SECTOR:Ibaru  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kiseti        0101 C100434-8  S Ni Va              603 Im
+Yalta         0106 B100433-A    Ni Va              303 Im
+Hetty         0108 B525677-E    Ni                 202 Im
+Drinny        0109 B331721-A  S Po Na              104 Im
+Dalrei        0110 B527587-B    Ni                 504 Im
+Gaye          0201 B64448B-B    Ni                 614 Im
+Toringad      0204 B449895-B  S                    103 Im
+Rawlinson     0209 B446459-D  N Ni                 703 Im
+Pip           0302 B100433-C    Ni Va              524 Im
+Dowson        0304 A525677-E    Ni                 603 Im
+Segovia       0305 B331721-C  N Po Na              424 Im
+Ainesleah     0306 B527587-B  N Ni                 101 Im
+Goridh        0309 A253420-D    Ni Po              321 Im
+De Bernhyll   0310 B639340-B  N Ni                 924 Im
+Hione         0402 A756440-F  N Ni                 800 Im
+Aton          0404 B897554-E    D3 Ni Ag           531 Im
+Gatlinburg    0405 C667253-C    Ni                 104 Im
+Ogien         0406 B6888CF-D                       904 Im
+Strela        0407 B6449CB-C    Hi In              703 Im
+Trus          0502 E310010-6    Ni                 213 Im
+Dugemaa       0503 D1109CB-6    D1 Hi In Na        104 Im
+Krender       0504 C253420-B    Ni Po              402 Im
+Judson        0507 B639340-A  N Ni                 602 Im
+Chaundeler    0510 B8C758B-D    Ni                 314 Im
+Chaloner      0605 B253420-D    Ni Po              222 Im
+Quickens      0606 E100434-6    Ni Va              803 Im
+Ophiucus      0607 A465220-F    Ni                 402 Im
+Tullaris      0701 B100433-D    Ni Va              901 Im
+Gulgonen      0704 B100434-D    Ni Va              510 Im
+Jargo         0708 D465220-6    Ni                 814 Im
+Pensif        0710 D756440-9    Ni                 211 Im
+Diota         0801 B100433-A  N Ni Va              402 Im
+Groton        0802 A100434-C  N Ni Va              422 Im
+Viking        0803 B100433-E    Ni Va              604 Im
+Gishin        0804 B100A99-B  N Hi In Va Na        202 Im
+Ginshe        0805 C525966-B    Hi In              102 Im
+Alisia        0806 A756440-F    Ni                 422 Im

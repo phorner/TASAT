@@ -1,0 +1,28 @@
+@SUB-SECTOR:Aokiylair SECTOR:Riftspan Reaches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0913 0711 -1 0
+$0913 1115 0 0
+$1115 1415 0 0
+$1415 1615 0 0
+$1615 1716 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0913 C756759-E    Ag                 413 As M2 V
+              1017 B8A7278-8    Lo Ni Fl           213 As K9 IV
+              1113 B9AA368-9    Lo Ni Fl Wa        804 As K9 V
+              1115 B565632-E    Ag Ni              602 As M0 V
+Trahoheair    1118 B663968-E    Hi                 313 As K7 VI M8 D
+              1314 B361259-8    Lo Ni              613 As G4 V M0 D
+              1315 B57A444-E    Ni Wa              500 As M3 III
+              1316 B400797-D  R Na Va              800 As K2 V M1 D
+              1415 B7C6149-B    Lo Ni Fl           511 As K5 V
+              1420 C639205-8    Lo Ni              713 As M7 V K7 D
+              1515 B344367-A    Lo Ni              104 As G8 III
+Ehyeiyaw      1516 D53897A-D    Hi                 410 As F4 V
+Hkurlei       1517 A341974-E    Hi In Po           404 As K2 V
+              1614 C400693-8    Na Ni Va           504 As M1 V
+              1615 C797746-B    Ag                 725 As M1 V

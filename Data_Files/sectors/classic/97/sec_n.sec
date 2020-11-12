@@ -1,0 +1,16 @@
+@SUB-SECTOR:Lyystra SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0932 B7B3699-B    Ni Fl              703 Im M7 IV
+              1031 B9AA352-E    Lo Ni Fl Wa        305 Im M6 V
+              1032 B583248-C    Lo Ni           A  722 Im F3 D M7 D
+              1131 B565378-A    Lo Ni              523 Im K6 V
+              1132 B5748BB-A                       213 Im F0 V
+              1436 B647432-B    Ni                 505 Cs F2 VI M1 D
+              1631 B9A5303-D    Lo Ni Fl           103 Im F3 IV

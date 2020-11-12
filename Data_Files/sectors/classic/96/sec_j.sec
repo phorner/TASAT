@@ -1,0 +1,13 @@
+@SUB-SECTOR:J  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Sigag         0925 D424947-C    Hi In              813 Im G0 IV
+              1124 B361420-E    C2 Ni              523 Im M8 V M5 D
+              1426 B494000-E    Lo Ni Ba           913 Im M4 V
+              1630 X400668-3    Na Ni Va        R  904 Im K1 V

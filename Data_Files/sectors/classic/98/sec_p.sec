@@ -1,0 +1,45 @@
+@SUB-SECTOR:Mongrabi  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Horatio       2531 B100434-C  N Ni Va              202 Im
+Mamin         2532 C465220-A    Ni                 604 Im
+Shenandoah    2539 B756440-E    Ni                 511 Im
+Wndrwynd      2540 B897554-E    Ni Ag              303 Im
+Clyf          2634 B525677-B  N Ni                 423 Im
+Wildwood      2635 B331721-E  N Po Na              613 Im
+Zorn          2640 B527587-E  S Ni                 303 Im
+Sternberg     2731 B667253-D    C3 Ni              223 Im
+Shaffer       2734 B6888CF-B  N                    803 Im
+Bolthorn      2735 C64448B-B  S Ni                 213 Im
+Woodbury      2736 B449895-E                       403 Im
+Audubon       2737 A446459-F  S Ni                 314 Im
+World         2740 D766AA8-8  S Hi                 100 Im
+Strom         2831 A667253-D    Ni                 810 Im
+Garith        2832 B6888CF-D                       205 Im
+Zimila        2838 C6449CB-C    Hi In              113 Im
+Iven          2840 B310010-C    Ni                 904 Im
+Kuparinen     2933 B310010-C    Ni                 902 Im
+Polk          2935 B110589-B    Ni                 405 Im
+Kees          2937 A527986-E    Hi In              424 Im
+Riccardo      2939 E8A68AC-6                       713 Im
+X'Rae         2940 D695754-8    Ag              A  501 Im
+Morgain       3031 A331721-F  N Po Na              700 Im
+Jusite        3032 C100434-C    Ni Va              100 Im
+Gannett       3037 C465220-B    Ni                 205 Im
+Addison       3038 D000440-7    Ni As              705 Im
+Gurney        3039 C897554-8    Ni Ag              405 Im
+Brame         3040 B667253-D  N Ni                 711 Im
+Opimius       3131 B64448B-D    Ni                 611 Im
+Evansville    3133 A100433-F    Ni Va              902 Im
+Eccles        3134 D525677-A    Ni                 403 Im
+Jad           3135 C331721-8  S Po Na              902 Im
+Gaidraa       3136 B5279A9-C  S Hi In              400 Im
+Ermi          3139 E200986-8    Hi In Va Na        203 Im
+Steryar       3233 D435254-7    Ni                 712 Im
+Roy           3236 D784532-9    Ni Ag              105 Im
+Hermite       3239 B462433-D    Ni                 902 Im

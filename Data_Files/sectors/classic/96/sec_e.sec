@@ -1,0 +1,13 @@
+@SUB-SECTOR:E  SECTOR:Verge
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0418 B549449-D    Ni                 502 Im K8 IV M6 D
+              0517 B241837-C    Po                 903 Im M4 V M9 D
+Tremfara      0520 C9D8983-C  N Hi Fl              220 Im K2 V
+              0711 E433523-8    Ni Po              102 Im M4 V M8 D

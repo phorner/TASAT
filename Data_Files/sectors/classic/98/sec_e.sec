@@ -1,0 +1,35 @@
+@SUB-SECTOR:Iimii  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Numdaag       0112 D253A85-A    Hi Po              603 Im
+Tremec        0114 C342640-A  S Ni Po              525 Im
+Mediterranea  0115 B7C679C-D                       612 Im
+Rica          0116 B87A320-E    C6 Ni Wa           213 Im
+Stane         0120 B310010-A    Ni                 314 Im
+Lasey         0217 B766502-B  S Ni Ag              203 Im
+Fayette       0219 B435254-C  N Ni                 502 Im
+Switzer       0220 A784532-F    Ni Ag              405 Im
+Brandybuck    0315 D8C758B-9  S Ni                 304 Im
+Glaucus       0317 D487220-7    Ni                 315 Im
+Thorfinr      0318 C100433-A    Ni Va              605 Im
+Humbilton     0320 B525677-A    Ni                 302 Im
+Chicaned      0411 E4248DA-7                       715 Im
+Swedish       0513 A310010-C    Ni                 602 Im
+Hardep        0517 A110589-D    Ni                 702 Im
+Hludaelf      0518 B000788-E    As Na              803 Im
+Tabbert       0519 B100433-B    Ni Va              102 Im
+Jimmy         0520 C525677-9    Ni                 912 Im
+Pavlov        0614 B100434-E  N Ni Va              803 Im
+Flial         0618 E465220-7    Ni                 613 Im
+Iimii         0715 B897944-C    Hi                 910 Im
+Kens          0719 E100433-6    Ni Va              813 Im
+Darrell       0812 B100433-C    Ni Va              123 Im
+Delaney       0815 D525677-9    Ni                 202 Im
+Maglos        0816 D331721-8    Po Na              830 Im
+Atte Wylowes  0817 B527587-E    Ni                 501 Im
+Canis         0818 B253420-E    Ni Po              623 Im

@@ -1,0 +1,45 @@
+@SUB-SECTOR:Lode  SECTOR:Zarushagar
+#
+# Trade routes within the subsector
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Alarico       2501 A100433-F  N Ni Va              714 Im
+Harken        2504 C525677-8    Ni                 100 Im
+Gardner       2603 B200667-E  N Ni Va Na           804 Im
+Chandra       2606 E6888CF-6                       414 Im
+Role          2609 B64448B-E    Ni                 104 Im
+Moiseyev      2610 B449895-D                       304 Im
+Lagrange      2701 B253420-E  N Ni Po              504 Im
+Winston       2707 B639340-A  N Ni                 313 Im
+Faithe        2708 B8C758B-C    Ni                 303 Im
+Maggie        2801 B100633-D  N Ni Va Na           700 Im
+Coire         2802 A756440-C  N Ni                 404 Im
+Buser         2805 B897554-A    Ni Ag              804 Im
+Kurae         2806 D667989-6    Hi                 714 Im
+Wu            2809 B8A68AC-C  S                    503 Im
+Balfour       2810 B695754-D    Ag              A  502 Im
+Rolande       2901 B625785-B  N                    513 Im
+Caer          2903 B100434-D    Ni Va              500 Im
+Opal          2904 B465220-E  N Ni                 605 Im
+Kalamazoo     2905 A756440-D    Ni                 902 Im
+Lode          2908 B000944-E    Hi In As Na        504 Im
+Litsa         2910 B654002-A  N Ni                 904 Im
+De Staynholme 3001 BA78798-C    Ag                 713 Im
+Castro        3003 E7997A7-7                       304 Im
+Cawod         3005 B425220-C    Ni                 504 Im
+Isacco        3008 B434589-D  N Ni                 804 Im
+Dellingr      3010 B100434-C  N Ni Va              301 Im
+Urak          3101 B6889CE-A    Hi                 403 Im
+Melville      3102 B88467A-C    Ni Ri Ag           913 Im
+Suther        3103 B32159C-E  N Ni Po              504 Im
+Macedonia     3104 A578343-D  N Ni                 802 Im
+Patter        3109 B786658-C  S Ni Ri Ag           523 Im
+Berger        3110 B200421-A    Ni Va              400 Im
+Hattiesburg   3201 B8A68AC-D  S                    713 Im
+Ayremyn       3202 B695754-C    Ag              A  514 Im
+Farley        3206 AA78798-F    Ag                 800 Im
+Allah         3208 B7997A7-C                       214 Im
+Yarmouth      3210 C425220-B  S Ni                 202 Im

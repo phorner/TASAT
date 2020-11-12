@@ -1,0 +1,44 @@
+@SUB-SECTOR:Akkula  SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1711 B4208BD-B  N Na Po De           210 Im F0 V M1 D M7 D
+Squee'twok    1715 D89A300-6  S Lo Ni Wa           203 Im F5 V
+Outpost       1719 A411440-E  N Ni Ic              420 Im M8 IV M8 VI
+Brobdignag    1720 B999201-C    Lo Ni              210 Im F5 D M6 D
+Ganesha       1815 B565754-B    Ag Ri              923 Im F0 V M7 D
+              1817 B786866-C    Ri                 503 Im F2 VI M3 D
+              1820 A3538AA-A    Po                 600 Im F4 D
+              1911 B551779-B    Po                 703 Im G5 D
+              1915 A638305-F    Lo Ni              412 Im M7 V M1 D
+Scirocco      1916 C250555-9    Ni Po De           402 Im M8 D M7 D
+Pomona        1919 E684757-9    Ag Ri              702 Im F1 V
+Atte          2013 B529AAB-F    Hi In              620 Im F2 V
+              2014 B443576-C  N Ni Po              513 Im G1 D M5 D
+              2016 B788123-A    Lo Ni              815 Im F4 D
+Shalud        2019 B360666-9    Ni Ri De           704 Im F6 V
+Krasny Norad  2113 B55679D-7    Ag                 603 Im F7 D M1 D
+Base 271      2114 B302623-B  A Na Ni Va Ic        400 Im M2 V M3 D
+Guardian      2115 B611431-E  N Ni Ic           A  713 Im A3 V
+Talbot        2117 B688775-8  N Ag Ri              103 Im G1 V M4 D
+Mountain Home 2118 D764444-8  S Ni                 623 Im F3 V
+              2213 B435386-E    Lo Ni              404 Im K0 VI M7 D
+              2215 D235564-6    Ni                 701 Im M4 V K7 D
+Imsaggir      2216 B449986-G    Hi In              622 Im F2 V M8 D
+Reserve       2217 B776000-D    Lo Ni Ba           303 Im K7 VI
+Yard 14       2218 A5438C9-E    D3 Po              604 Im F3 V
+              2219 B401158-B    Lo Ni Va Ic        202 Im F7 V
+Tellus Nova   2311 A784774-A    Ag Ri              213 Im G6 VI M8 D M6 D
+Yggsdrasil    2312 E9B5887-7    Fl                 422 Im F9 D
+Chevron       2313 E7C4404-8    Ni Fl              703 Im G0 V M1 D
+N'gorongoro   2314 A796330-E    Lo Ni              303 Im G2 V
+              2315 C577898-8                       200 Im F4 V M5 D
+K'laktash     2316 B67A579-E    Ni Wa              404 Im F0 V
+K'lakt'squa   2320 B98A220-C    Lo Ni Wa           620 Im F6 V M4 D
+Petroleos     2411 B5A9340-B  N Lo Ni Fl           404 Im G2 V
+Ghost Town    2418 C342002-7    Lo Ni Po           913 Im F9 V M3 D

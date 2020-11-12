@@ -1,0 +1,45 @@
+@SUB-SECTOR:Desta  SECTOR:Ilelish
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1721 C6957AA-9    Ag                 623 Im M4 D
+              1723 B432553-B  N Ni Po              614 Im G0 VI M4 D
+              1725 A34448B-E    Ni                 302 Im F9 VI
+              1726 D537647-4    Ni                 704 Im M3 V M8 D
+              1727 C360754-A    Ri De           A  604 Im G4 V
+              1728 E97A546-5    Ni Wa              900 Im F3 V M5 D
+              1729 E526201-B    Lo Ni              404 Im G4 VI
+              1824 D839400-8    Ni                 403 Im K2 V
+              1922 B9C3640-8  S Ni Fl              503 Im F3 V
+Mulyosh       1923 A99A411-E  S Ni Wa D9           202 Im F2 V M4 D
+              1924 BAA8555-B  N Ni Fl           A  913 Im F2 V
+              1925 B673333-C  A Lo Ni              103 Im F9 V M1 D
+              1926 D672300-9  S Lo Ni              722 Im F5 D M7 D
+Druil         1928 B79497A-E  S Hi In              500 Im F1 V M7 D M1 D
+              1929 BAC7525-9    Ni Fl              623 Im M4 V M3 D M4 V
+              1930 B120212-B    Lo Ni Po De        804 Im F6 V M9 D
+              2021 CAA9233-B    Lo Ni Fl           603 Im F9 V M9 D
+Agaru         2024 B330952-G  N Hi Na Po De        923 Im F6 D
+Sashlunsdham  2027 CA8A996-A    Hi Wa              722 Im M3 V M3 D
+              2029 D9AA322-B    Lo Ni Fl Wa        604 Im F6 IV M1 D
+              2030 C2308BA-C    Na Po De           425 Im G6 D
+              2123 D727830-6                       811 Im K1 V
+Aamuri        2127 B4839A9-A  N Hi                 204 Im F4 VI
+              2129 B5447AB-C    Ag                 214 Im F7 VI
+              2221 B7C8497-B    Ni Fl              805 Im K1 V M9 D
+              2222 E448003-7    Lo Ni              402 Im F3 D
+Agari         2224 B462942-E  N Hi                 104 Im F5 D
+              2226 B766211-8    Lo Ni              303 Im K3 D M9 D
+              2323 B7A4889-B  N Fl                 603 Im G4 D
+              2325 B000574-D    Ni As              602 Im M2 D
+              2326 B73A78A-C    Wa                 400 Im M1 V M0 D
+Zaadurar      2330 B302A98-F    Hi Na In Va Ic     300 Im F2 D M3 D M0 D
+              2422 B987786-B  N Ag Ri              614 Im F5 VI
+              2425 B64A7AE-9    Wa                 420 Im F6 D M6 D
+              2427 B401220-E    Lo Ni Va Ic        902 Im M5 V
+              2428 C7A9003-B    Lo Ni Fl           704 Im F2 V M2 D

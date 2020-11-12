@@ -1,0 +1,53 @@
+@SUB-SECTOR:Aulryakh  SECTOR:Riftspan Reaches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0102 0201 0 0
+$0201 0503 0 0
+$0104 3203 -1 0
+$0104 0204 0 0
+$0204 0404 0 0
+$0404 0306 0 0
+$0306 0407 0 0
+$0407 0507 0 0
+$0507 0711 0 1
+#
+#Political Borders
+^0109 2
+^0109 3
+^0109 4
+^0208 2
+^0208 3
+^0308 2
+^0308 3
+^0407 2
+^0407 3
+^0507 2
+^0507 3
+^0606 2
+^0606 3
+^0706 2
+^0706 3
+^0805 2
+^0805 3
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0102 B548463-6    Ni                 900 As M9 VI
+              0103 C783127-8    Lo Ni              820 As G2 V
+              0104 A664757-D    Ag Ri              702 As A4 V
+              0108 B69A62B-C    Ni Wa              712 As M2 V
+              0201 B562438-A    Ni                 903 As M1 V
+              0204 B140319-C    Lo Ni Po De        413 As M1 V
+              0303 C130743-A    Na Po De           204 As K0 V
+              0306 B1108A8-B    Na                 803 As K3 V
+              0402 B633439-D    Ni Po              712 As M0 V
+              0403 C48664B-8    Ag Ni Ri           300 As A3 V G7 D
+              0404 B36253B-A    Ni                 600 As M3 V
+              0407 B200417-A    Ni Va              213 As M0 V M4 D
+              0503 C210739-A    Na                 904 As M4 V M0 D
+Aulryakh      0507 A242AC9-C    Hi In Po           502 As K1 V
+              0602 C367228-6    Lo Ni              504 As G8 V M2 D
+              0701 A7A8795-D    C0 Fl              704 As M4 V
+              0703 B31089B-B    Na                 602 As G4 V M8 D
+              0804 E000768-B    Na As              902 As G4 IV M0 D

@@ -1,0 +1,240 @@
+@SECTOR:Verge
+#
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0337 C67A218-B    Lo Ni Wa           900 As M2 IV M6 D
+              0338 EAB9207-6    Lo Ni Fl           205 As M0 V
+              0339 C55721B-6    Lo Ni              713 As M8 III
+              0410 E424000-5    Lo Ni Ba           820 Na G3 VI M8 D
+              0418 B549449-D    Ni                 502 Im K8 IV M6 D
+              0438 A438127-C  R Lo Ni              804 As M9 V
+              0440 C57188A-E                       400 As F2 IV
+              0517 B241837-C    Po                 903 Im M4 V M9 D
+Tremfara      0520 C9D8983-C  N Hi Fl              220 Im K2 V
+              0526 B561667-A    Ni Ri              503 Im M4 V M5 D
+              0528 E454449-5    Ni                 912 Im M9 III
+              0536 B552349-9    Lo Ni Po           124 As M6 V M1 D
+              0537 B2307A5-D    Na Po De           402 As M4 V M4 D
+              0540 B78A589-E  R Ni Wa              903 As K8 D
+              0622 D667001-9    Lo Ni              413 Im M2 V M6 D
+              0626 C410367-9    Lo Ni              503 Im K3 V
+Yetatla       0637 C88A9D4-9    Hi Wa              604 As M5 IV M1 VI
+              0640 B100788-F    Na Va              102 As M2 V M0 D
+              0711 E433523-8    Ni Po              102 Im M4 V M8 D
+              0738 C77566A-8    Ag Ni              900 As M3 V M2 D
+Sigag         0925 D424947-C    Hi In              813 Im G0 IV
+              1124 B361420-E    C2 Ni              523 Im M8 V M5 D
+              1237 A380563-C    Ni De              810 Im K0 V M4 D
+              1238 B510456-D    Ni                 604 Im G1 V M3 D
+              1339 D225400-B  S Ni                 905 Im K5 VI M6 D
+              1426 B494000-E    Lo Ni Ba           913 Im M4 V
+              1630 X400668-3    Na Ni Va        R  904 Im K1 V
+              1717 C593243-9    Lo Ni              600 Im M9 IV M0 D
+              1718 B575314-C    Lo Ni              912 Im M1 V M9 D
+              1727 E766100-7    Lo Ni              702 Im M1 V M4 D
+              1806 D7C4868-4    Fl                 603 Im G0 II M9 D
+              1809 A324658-E    Ni                 504 Im M0 V
+              1810 C531323-9    Lo Ni Po           410 Im M8 III M1 VI
+              1811 C5357BD-B                       505 Im M2 V
+              1814 C996642-9    Ag Ni              202 Im M4 V
+              1816 B120643-D    Na Ni Po De        404 Im M2 V
+              1817 A958266-E  N Lo Ni              401 Im G9 V M1 D
+              1818 C477525-7    Ag Ni              203 Im M0 V M1 D
+Daddadh       1821 C5339AE-9    Hi Na Po           624 Im M2 V
+              1825 C110030-D    Lo Ni           A  802 Im M8 V
+              1839 C110544-E    Ni                 403 Im M3 V M5 D
+              1905 E541630-5    Ni Po              612 Im F0 V
+              1906 D786765-7    Ag Ri              505 Im K0 V
+              1909 B575635-7    Ag Ni              801 Im M3 V M0 D
+              1911 D7A537C-A  S Lo Ni Fl           324 Im M5 III
+Sirim         1912 B434966-G    Hi                 210 Im K3 V
+              1913 D32249A-7    Ni Po              404 Im A4 V M5 D
+              1915 D75A100-B    Lo Ni Wa           100 Im M6 V
+Ekin          1922 C6989AC-C    Hi In              424 Im M1 IV
+              1929 C76A6AC-B    Ni Wa              125 Im G3 V
+              2004 C00079B-B    Na As              704 Im M1 V M3 D
+              2005 C8A86BB-8    Ni Fl              800 Im M2 V
+              2006 C544100-C    Lo Ni              414 Im K1 D
+              2008 D565476-9    Ni                 204 Im M1 V
+              2012 C260453-D    Ni De              713 Im M0 V
+              2015 C482444-9  S Ni                 214 Im G4 V M9 D
+              2017 A85A351-G    Lo Ni Wa           210 Im K7 V
+              2018 E427143-B    Lo Ni              903 Im M3 V M3 VI
+              2019 E451636-9    Ni Po              505 Im M0 V M6 D
+              2020 B99A100-C    Lo Ni Wa        A  313 Im M3 V M3 D
+Turin         2023 A561988-D    Hi                 303 Im A8 VI G8 D
+              2101 B150476-C    Ni Po De           310 Im M9 D
+              2103 C586312-6  S Lo Ni              824 Im K4 V
+              2104 D487423-A    Ni                 224 Im M2 V
+              2107 A662557-E    Ni                 814 Im G4 V
+              2109 X300100-6    Lo Ni Va        R  802 Im M4 V M3 D
+              2110 C998103-7    Lo Ni              700 Im G6 V
+              2111 D310411-9    Ni                 704 Im K3 V M7 D
+              2112 C537024-A    Lo Ni              703 Im M7 V
+              2114 D10078C-9    Na Va              903 Im M2 V
+              2115 B344759-B  N Ag                 515 Im F0 V
+              2116 B646443-A    Ni                 824 Im K4 III
+              2119 E575679-8    Ag Ni              512 Im M2 V M2 D
+              2121 A373200-F    Lo Ni              824 Im K7 V M4 D
+              2123 A6969BC-F    Hi In              224 Im M1 V M2 D
+              2125 B94A7A9-8  N Wa                 800 Im K1 V
+              2137 B501246-C    Lo Ni Va Ic        814 Im M6 V M0 D
+              2201 B400304-F    Lo Ni Va           200 Im M1 V M7 D
+Kuma          2204 D52599B-B    Hi In              912 Im K0 V
+              2207 C675662-9    Ag Ni              632 Im G6 VI M9 D
+              2208 B8AA740-B    Fl Wa              620 Im K3 V
+              2209 B335200-B    Lo Ni              504 Im M2 II
+              2210 B354010-D    Lo Ni              200 Im M4 V M3 D
+              2212 C687244-7    Lo Ni              603 Im K9 V M1 D
+              2214 X253520-3    Ni Po           R  104 Im M0 V M4 D
+              2215 B69A537-E    Ni Wa              102 Im M4 IV
+              2218 C853898-6    Po                 820 Im K6 III
+              2222 E410200-9    Lo Ni              524 Im M6 VI
+              2223 C3118B8-8    Na Ic              603 Im K3 IV
+              2224 E8C28B9-7    Fl                 505 Im M1 V
+              2225 D362642-6    Ni Ri              412 Im M3 IV M2 D
+              2226 C566751-A    Ag Ri           A  623 Im K3 IV M5 V
+              2301 D9AA320-B    Lo Ni Fl Wa        814 Im M9 V M4 D
+              2302 A847124-F    Lo Ni              713 Im M7 D
+              2303 D311487-6    Ni Ic              503 Im G1 V
+              2305 B668479-D  N Ni                 313 Im G1 III M3 VI
+              2306 C524500-D    Ni                 200 Im K0 V
+              2308 B897554-9    Ag Ni              704 Im M0 V
+              2310 B243657-C  N Ni Po              802 Im M0 V
+              2311 C222423-D    Ni Po              225 Im M2 V
+              2314 A513215-C    Lo Ni Ic           704 Im M0 III M2 V
+              2317 E755203-A    Lo Ni              310 Im M4 V M6 D
+              2318 E2216B9-A    Na Ni Po        A  304 Im M2 V K6 D
+              2319 B756000-D    Lo Ni Ba           603 Im M1 VI
+              2321 C677100-9    Lo Ni              424 Im K7 VI M6 D
+              2406 C200424-B    Ni Va              504 Im K1 V M6 VI
+              2410 D667546-4    Ag Ni              812 Im M4 V M6 D
+              2413 B486796-A    Ag Ri              124 Im M7 V M7 D
+              2415 E895595-7    Ag Ni              924 Im M1 V
+              2417 C544635-7    Ag Ni              204 Im M4 V M0 D
+              2420 B200572-D    Ni Va              404 Im M4 V M0 D
+              2425 A444665-F    Ag Ni              404 Im M7 VI M4 D
+              2426 D96A546-8    Ni Wa              404 Im K6 V
+              2434 E100300-C    Lo Ni Va           103 Im M1 V
+Ariis         2439 A88AAB8-F    Hi Wa              102 Im M2 III M0 D
+              2503 E320401-8    Ni Po De           102 Im M1 V
+              2504 B372667-C    Ni                 400 Im K2 V
+              2507 A645786-9    Ag                 513 Im M1 V M0 D
+              2508 C474033-8    Lo Ni              224 Im K4 V M6 D
+              2510 B310201-E    Lo Ni              502 Im K0 V
+              2515 E333556-8    Ni Po              803 Im K4 II M1 D
+              2517 A869569-C    Ni                 800 Im F1 V
+              2518 B89A368-9    Lo Ni Wa           615 Im M5 V M6 VI
+              2519 B3338BC-E    Na Po              605 Im G2 V
+Aspera        2520 X155975-6    Hi                 302 Im M4 V
+              2526 C778841-7                       625 Im M3 V
+              2529 B435420-E    Ni                 322 Im M3 V
+              2602 E43659A-7    Ni                 324 Im M1 V M2 D
+              2603 A855788-E    Ag                 102 Im M3 III M6 D
+              2604 C000310-E    Lo Ni As           620 Im M1 V
+              2606 A766300-F    Lo Ni              701 Im M2 V M1 D
+Tripolis      2612 B885A98-E  B Hi                 214 Im M9 II M7 VI
+              2620 B685201-9    Lo Ni              813 Im K9 V
+              2625 A474795-A    Ag                 714 Im M1 V M3 D
+              2627 X87A632-4    Ni Wa           R  203 Im K3 V M4 D
+              2637 B310776-C    Na                 712 Im M0 V M0 D
+              2701 B766315-9  N Lo Ni              601 Im M3 V
+              2703 D342362-A  S Lo Ni Po           120 Im K7 V
+              2704 C42659A-8    Ni                 302 Im M3 V M9 D
+              2705 B7A9656-F    Ni Fl              423 Im G6 D
+              2708 A234556-G    Ni                 804 Im M3 V
+              2710 A355874-B                    A  704 Im M9 VI M4 D
+Sulet         2711 B68499B-C    Hi                 823 Im G4 II M5 D
+              2712 E99A489-8    Ni Wa              803 Im M3 V
+              2714 C4637B6-8                       304 Im M0 V
+              2720 B645367-D    Lo Ni              324 Im M7 V
+              2722 A779232-F  N Lo Ni              204 Im G1 V
+              2723 E764687-8    Ag Ni Ri           913 Im A2 III
+              2725 D100663-B  S Na Ni Va           514 Im G2 V
+              2726 B787545-9    Ag Ni              702 Im K0 IV
+              2728 A6835AA-E    Ni                 204 Im K0 V M3 D
+              2730 B697359-D    Lo Ni              323 Im M2 V M9 D
+              2735 C000300-C    Lo Ni As           404 Im M8 V M6 D
+Lagi          2805 B436999-F    Hi                 904 Im K9 III
+              2806 C222853-9    Na Po              610 Im K3 V
+              2807 B657346-A    Lo Ni              205 Im K1 D M9 D
+              2808 A89575A-E    Ag                 503 Im F1 V M4 D
+              2810 B869532-B    Ni                 802 Im K8 III
+              2811 A310746-C  N Na                 503 Im G1 IV
+              2815 C785688-5  S Ag Ni Ri           813 Im K6 D M8 D
+Iedde         2816 E62AA88-E    Hi In Wa           924 Im M8 III
+              2817 C324546-8    Ni                 402 Im M6 V K1 D
+              2818 D543146-5    Lo Ni Po           513 Im M1 V M3 D
+              2819 C638343-A    Lo Ni              302 Im A5 V
+              2820 C77A342-A    Lo Ni Wa           913 Im M7 V
+              2823 E261521-6    Ni                 803 Im M2 V M2 D
+              2826 DA6A520-7    Ni Wa              923 Im K0 V M6 D
+              2827 A300100-F    Lo Ni Va           704 Im K7 V M8 D
+Tiawan        2828 D88AA87-B    Hi Wa              203 Im M3 V
+              2829 A568664-B    Ag Ni Ri           401 Im M3 V
+              2901 A401578-C    Ni Va Ic           501 Im G1 D
+              2902 E681105-8    Lo Ni              712 Im M5 V
+              2903 C538230-B    Lo Ni              913 Im K5 V M9 D
+Amdarush      2905 E531955-B    Hi Na Po           722 Im M1 V
+              2906 CA69667-9    Ni Ri              722 Im A5 IV
+Tlaq          2908 B54A9DD-D    Hi In Wa           801 Im A2 V
+              2910 C76565A-7    Ag Ni Ri           405 Im M1 V M8 VI
+              2911 B332856-F    Na Po              313 Im M4 V M1 D
+Uranion       2916 D2319BD-B  S Hi Na Po           502 Im M7 VI M5 D
+              2917 D525226-A  S Lo Ni              904 Im M7 V
+              2919 A6377BB-D                       504 Im M0 V M8 D
+              2920 X453988-7    Hi Po           R  602 Im F0 V M3 D
+              2922 A779655-F    Ni                 815 Im M2 V G7 D
+              2924 B478787-B    Ag                 603 Im M0 V
+              2926 C85A555-A    Ni Wa              913 Im K1 V M0 D
+              2927 D673678-4    Ni                 604 Im M0 V M3 D
+              2928 E8C3562-5    Ni Fl           A  303 Im K2 V
+              2929 E345402-9    Ni                 202 Im M0 V M6 D
+              2931 E210202-B    Lo Ni              412 Im M2 IV
+              2936 C325354-C    Lo Ni              514 Im M9 V
+              2938 E310545-A    Ni                 303 Im G2 V
+              3001 B464594-D    Ag Ni              223 Im M2 V
+              3006 C689364-8    C4 Lo Ni           204 Im M4 V M4 D
+Tier          3007 C000978-F    Hi Na In As        803 Im K9 VI
+              3008 A200100-F    Lo Ni Va           403 Im A3 V M6 D
+              3009 E654252-7    Lo Ni              913 Im M4 V
+              3010 B755447-C    Ni                 714 Im M2 V
+              3011 D643576-9    Ni Po              123 Im K8 V
+              3013 E482578-6    Ni                 411 Im K3 V
+              3017 D742477-4    Ni Po              814 Im K1 V
+              3021 C578664-7    Ag Ni              524 Im M3 V K3 D
+              3024 A23579C-E                       102 Im M2 V
+              3025 D623025-4  S Lo Ni Po           113 Im M8 V
+              3026 D5676B6-6    Ag Ni              302 Im K3 V
+              3028 C000100-D    Lo Ni As           712 Im K4 V M6 D
+              3030 B400466-D  N Ni Va           A  404 Im K1 V M2 D
+              3101 C556754-6    Ag                 502 Im M4 V
+              3102 C6357BA-8                       413 Im M0 V
+              3106 C89A451-9    Ni Wa              524 Im M3 V M1 D
+              3108 D7497AD-6                       803 Im K1 III
+              3109 C310356-A    Lo Ni              405 Im M7 V M7 D
+              3113 B876355-C    Lo Ni              400 Im K4 V M6 D
+              3114 B210467-A    Ni                 104 Im M8 III
+              3116 E465400-8    Ni                 200 Im M1 V
+              3122 DA5A156-7  S Lo Ni Wa           301 Im G7 III M5 VI M2 V
+              3124 C110779-B    Na                 301 Im M4 V M4 D
+              3125 C310414-B    Ni                 301 Im M2 V M4 D
+              3129 E868554-9    Ag Ni              911 Im M3 V M2 D
+              3132 B492345-C    Lo Ni              814 Im M7 IV
+              3202 X463775-2    Ri              A  310 Im M1 V K5 D
+              3205 D540444-4    Ni Po De           623 Im K0 V
+              3206 E582740-7    Ri                 724 Im M4 V
+              3207 A333401-D    Ni Po              800 Im M0 D M1 D
+Inkha         3210 C4769AA-D    Hi In              224 Im K3 III M6 D M5 D
+              3213 X748532-3    Ag Ni           R  403 Im M2 V M7 D
+              3214 C69A542-8    Ni Wa              902 Im M3 V M4 D
+              3220 E642000-7    Lo Ni Po Ba        405 Im K9 VI M3 D
+              3222 C7A5120-7    Lo Ni Fl           902 Im M6 V
+              3223 A9C38AC-C    Fl              A  214 Im M9 IV M1 D
+              3224 D4458C9-4                       614 Im M3 V M0 D
+              3226 C87A200-B    Lo Ni Wa           104 Im M6 IV M4 VI
+              3228 B768455-E    Ni                 300 Im G0 V
+              3229 B130768-D  N Na Po De           514 Im K2 V
+              3230 A757231-A    Lo Ni              403 Im M0 V M7 D
