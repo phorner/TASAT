@@ -1,15 +1,62 @@
 License
+-------
 
+Traveller
+---------
+The Traveller game in all forms is owned by Far Future Enterprises.
+Copyright 1977 - 2014 Far Future Enterprises. TravellerÂ® is a registered
+trademark of Far Future Enterprises. Far Future permits web sites and
+fanzines for this game, provided it contains this notice, that Far Future
+is notified, and subject to a withdrawal of permission on 90 days notice.
+The use of this program is for personal, non-commercial use only.
+Any use of Far Future Enterprises's copyrighted material or trademarks
+anywhere in this program and its files should not be viewed as a challenge
+to those copyrights or trademarks. In addition, any program/ article/ file
+cannot be republished or distributed without the consent of the author who
+contributed it.
 
+Code
+-----
+The bulk of the code is by Perry Horner (perry1@liberated-technologies.com)
+
+xssv code
+---------
+Permission to use, copy, and modify this software is granted, provided
+that this copyright appears in all copies and that both this copyright
+and permission notice appear in all supporting documentation, and that
+the name of Mark F. Cook and/or Hewlett-Packard not be used in advertising
+without specific, writen prior permission.  Neither Mark F. Cook or
+Hewlett-Packard make any representations about the suitibility of this
+software for any purpose.  It is provided "as is" without express or
+implied warranty."
+
+Planet Code
+-----------
+Copyright 1988--2009 Torben AE. Mogensen
+Adapted for the Traveller's Aid Society Access Terminal by Perry Horner 2014
+
+Text Area
+---------
+Author: Thijs Ferket
+License: Irrlicht engine license
+Date: 15th March 2012
+Irrlicht version: 1.7.2 & 1.8
+
+Video Mode Check
+----------------
+Copyright (C) 2010-2011 Dario Oliveri
+
+Irrlicht Engine
+---------------
 The license of the Irrlicht Engine is based on the zlib/libpng license, only the name and the authors name have been replaced. Even though this license does not require you to mention that you are using the Irrlicht Engine in your product, an acknowledgement would be highly appreciated.
 
-The Irrlicht Engine is based in part on the work of the Independent JPEG Group. This means that if you use the Irrlicht Engine in your product, you must acknowledge somewhere in your documentation that you’ve used the IJG code, unless of course you recompile the engine without support for JPEG images. It would also be nice to mention that you use the Irrlicht Engine, the zlib and libpng. See the README files in the jpeglib and the zlib for further informations.
+The Irrlicht Engine is based in part on the work of the Independent JPEG Group. This means that if you use the Irrlicht Engine in your product, you must acknowledge somewhere in your documentation that youâ€™ve used the IJG code, unless of course you recompile the engine without support for JPEG images. It would also be nice to mention that you use the Irrlicht Engine, the zlib and libpng. See the README files in the jpeglib and the zlib for further informations.
 
 The Irrlicht Engine License
 
-Copyright © 2002-2010 Nikolaus Gebhardt
+Copyright Â© 2002-2010 Nikolaus Gebhardt
 
-This software is provided ‘as-is’, without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+This software is provided â€˜as-isâ€™, without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
 1.The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
