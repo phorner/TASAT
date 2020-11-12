@@ -1,0 +1,1 @@
+base mappings for planet map generation
