@@ -1,0 +1,26 @@
+@SUB-SECTOR:District Nw13 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Siberia       1706 B000865-D    As Na              924 So F2 V
+Maolmuire     1709 A95A557-F  N Ni Wa              114 So G5 V M1 D
+Dort          1808 A000234-G  N As Lo Ni           212 So G8 III M1 V
+Percy         1809 A769442-D  N Ni                 600 So F9 V
+Marcello      1907 B424323-9  S Lo Ni              402 So G4 IV
+Alcia         2001 B242204-C  N Lo Ni Po           303 So F7 V M1 D
+Stormcloud    2009 A400499-C    Ni Va              600 So M7 V
+Sylvane       2106 B799647-8  N Ni                 623 So G0 V
+Isiah         2202 B674633-9  N Ag Ni              804 So F2 V M7 D
+Trojan        2205 B9B7534-7    Fl Ni              201 So M9 V M8 V
+Rhicende      2208 B665168-9    Lo Ni              703 So F9 V
+Lin           2209 A455445-C  N Ni                 834 So F5 V
+Ottoman       2210 A445387-A  N Lo Ni              413 So F8 V
+Dawnwind      2304 B486630-A  N Ag Ni              424 So F5 V M1 D
+Yali          2308 B310485-C    Ni                 803 So K4 V M0 D
+Melinda       2310 B246388-B    Lo Ni              404 So F0 V M7 D
+Foss          2405 B450410-A  N De Ni Po           713 So F3 V M8 D

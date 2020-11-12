@@ -1,0 +1,20 @@
+@SUB-SECTOR:District Nw33 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hraensford    1725 E799641-7    Ni                 103 So F3 V
+Shillana      1923 E673A86-9    Hi In              401 So F8 V M8 D
+2028          2028 X645000-0    Ba Lo Ni           002 Na F8 V
+Leningrad     2121 E000210-6    As Lo Ni           524 So G5 V
+2127          2127 X6A4001-2    Fl Lo Ni           024 Na G3 V M4 D
+Idaho         2221 E401AAB-7    Hi Ic Na Va        302 So F2 V M1 D
+Gandalf       2222 E592654-2    Ni                 724 So F7 V M3 D
+Danielle      2223 E665768-1    Ag Ri              313 So K7 V M2 D
+2425          2425 X300013-2    Lo Ni Va           003 Na K3 V
+2427          2427 X200015-4    Lo Ni Va           004 Na M0 V M6 V
+2429          2429 X7B5010-0    Fl Lo Ni           003 Na M5 III M0 V

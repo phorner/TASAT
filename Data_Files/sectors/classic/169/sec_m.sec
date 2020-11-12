@@ -1,0 +1,40 @@
+@SUB-SECTOR:Mendon SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0131          0131 X120000-0    De Lo Ni Po        002 Na M5 II
+0135          0135 X221000-0    Ba Lo Ni Po        013 Na M6 V
+0231          0231 X65A000-0    Lo Ni Wa           011 Na F5 V
+0238          0238 X100000-0    Lo Ni Va           012 Na M7 V
+0333          0333 X5A1000-0    Fl Lo Ni           022 Na G1 V M5 D
+0334          0334 X62A000-0    Lo Ni Wa           022 Na M4 V
+0335          0335 X547000-0    Lo Ni              004 Na F8 V
+0437          0437 X624000-0    Lo Ni              013 Na K8 V M3 D
+0532          0532 X200000-0    Ba Lo Ni Va        014 Na M6 V M6 D
+0537          0537 X364000-0    Lo Ni              014 Na F2 V
+0540          0540 X332000-0    Lo Ni Po           004 Na G0 V M6 D
+0633          0633 X786000-0    Lo Ni              005 Na G8 V M5 D
+0832          0832 X75A000-0    Lo Ni Wa           014 Na F1 V
+0834          0834 X783000-0    Lo Ni              004 Na F2 V
+0837          0837 X300000-0    Lo Ni Va           020 Na M8 V

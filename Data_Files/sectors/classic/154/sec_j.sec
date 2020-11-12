@@ -1,0 +1,27 @@
+@SUB-SECTOR:District Nw32 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Eashasft      0925 C500122-9    Lo Ni Va           604 So M8 IV
+Aifrid        0930 C987221-5    Lo Ni              204 So F1 V
+Eideann       1023 C243466-9    Ni Po              712 So F3 V M1 D
+Jerobam       1025 C673559-5  S Ni                 903 So F3 V
+Purcell       1026 C88A456-B  S Ni Wa              614 So G1 V
+Ghata         1124 C326674-9  S Ni                 204 So M8 V M3 D
+Indhios       1125 C351454-9  S Ni Po              513 So G2 V
+Shitmo        1221 C535132-8  S Lo Ni              610 So F4 V M6 D
+Erond         1322 C87A464-9    Ni Wa              733 So F7 V
+Valerie       1323 C877462-6    Ni                 511 So F0 V
+Drexel        1325 C484563-8    Ag Ni              902 So F2 V
+Walda         1423 C695361-8  S Lo Ni              204 So F6 V M4 D
+1527          1527 X999000-1    Ba Lo Ni           014 Na F3 V M7 D
+Buick         1622 E353A88-7    Hi Po              402 So K0 V
+Thorneclay    1623 E4827A9-5                       104 So F8 V
+Sclater       1625 E300534-7    Ni Va              604 So M4 V M1 D
+1628          1628 X442000-0    Ba Lo Ni Po        032 Na F1 V M8 D
+1629          1629 X8C2002-1    Fl Lo Ni           004 Na M2 IV

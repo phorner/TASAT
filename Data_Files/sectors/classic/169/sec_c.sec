@@ -1,0 +1,43 @@
+@SUB-SECTOR:Warliyir SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1704          1704 X556000-0    Lo Ni              003 Na F2 V
+1805          1805 X200000-0    Lo Ni Va           005 Na K1 IV M0 D M5 V
+1806          1806 X467000-0    Ba Lo Ni           002 Na F8 V
+1807          1807 X424000-0    Lo Ni              022 Na K2 V M7 D M5 D
+Ftea          1909 B439347-E  A Lo Ni              501 Ww M7 V M7 D
+Iyeaoatrai    1910 B411679-9    Ic Na Ni           402 Ww F8 V M2 V
+Eieal         2006 A1008AB-B    Na Va              324 Ww F4 V M7 D
+2101          2101 X538000-0    Lo Ni              020 Na A3 V G1 D
+2104          2104 X240000-0    Ba De Lo Ni Po     010 Na F9 V
+Eaoihaooaah   2106 C865310-5    Lo Ni              605 Ww F1 V
+Hrelra        2109 A221ABA-F  N Hi In Na Po        902 Ww F7 V M4 D
+Uahkeaarleih  2110 C545314-8    Lo Ni              603 Ww G8 V
+Soioa         2207 A11068A-E    Na Ni              404 Ww M1 V
+Ikharl        2209 C579534-5    Ni                 304 Ww F6 V
+Alreah        2210 C998532-5  S Ag Ni              114 Ww F7 V M2 D
+2301          2301 X566000-0    Lo Ni              002 Na F1 V
+2407          2407 X745000-0    Lo Ni              004 Na F4 V M7 D
+2410          2410 X421000-0    Lo Ni Po           001 Na G7 V

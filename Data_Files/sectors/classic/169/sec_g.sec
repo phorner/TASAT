@@ -1,0 +1,45 @@
+@SUB-SECTOR:Ftaliyi SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Weakh         1714 C678965-9    Hi In              403 Ww G6 V M0 D
+Yaihrewyaou   1715 B542548-7  N Ni Po              324 Ww F0 V M8 D
+Oaeyerl       1813 B8B5445-8  N Fl Ni              702 Ww M6 V M5 D
+Heu           1916 C447744-7    Ag                 704 Ww F4 V
+Ahaiauktyeh   2011 C646201-7  S Lo Ni              205 Ww M9 V M9 D
+Auhwehahikea  2012 B545230-9  N Lo Ni              105 Ww F5 V M3 D
+Kuh           2014 C364520-8    Ag Ni              302 Ww G3 V
+Wotui         2015 B895224-6    Lo Ni              104 Ww F2 V M4 D
+2018          2018 XAD5000-0    Ba Fl Lo Ni        003 Na M5 V
+Hlyeaihteh    2113 C757754-9  S Ag                 724 Ww F6 V
+2116          2116 X663000-0    Lo Ni              001 Na F9 V M6 D
+Eiktaaftor    2211 B576ABB-E  N Hi In              900 Ww F0 V
+Hooustaoa     2213 B657665-5    Ag Ni              610 Ww F1 V
+2220          2220 X371000-0    Lo Ni              004 Na F4 V
+Htyaate       2313 B678331-9    Lo Ni              504 Ww F9 V
+2315          2315 X8A1000-0    Fl Lo Ni           004 Na F8 V
+2416          2416 X587000-0    Ba Lo Ni           003 Na F9 V M8 D
+2417          2417 X300000-0    Ba Lo Ni Va        003 Na K6 V
+2418          2418 X410000-0    Lo Ni              002 Na M2 V
+2419          2419 X344000-0    Lo Ni              004 Na G8 V M6 D

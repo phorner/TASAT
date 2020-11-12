@@ -1,0 +1,30 @@
+@SUB-SECTOR:Kharimbay SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zere          1711 B9D5ABD-A  N Fl Hi              302 So F8 V
+Alhambra      1712 C522886-6    Na Po              624 So F0 V
+Hert          1718 E410855-4    Na                 103 So F2 V
+Damaris       1719 E301313-7    Ic Lo Ni Va        504 So M0 V
+Nilnot        1720 E474200-6    Lo Ni              300 So F8 V
+Agnetis       1813 C7A777A-4    Fl                 213 So M3 V M6 D
+Uhara         1815 C554559-A    Ag Ni              524 So G6 V
+Berchtwald    1818 E000741-8    As Na              610 So M9 V
+Shire         1911 B100AB6-F    Hi Na Va           310 So F6 V
+Daymell       1917 E472413-6    Ni                 934 So G9 V
+Knapp         1919 E757744-5    Ag                 104 So F5 V M6 V
+Lugur         1920 E9D3515-3    Fl Ni              423 So M5 V M9 D
+Nizharu       2012 B84A332-8  2 Lo Ni Wa           803 So F6 V
+Mireya        2117 E998203-5    Lo Ni              324 So G4 V
+Zawld         2211 B55989B-8                       600 So F7 V
+Kettering     2214 E476786-4    Ag                 204 So G0 V
+Picti         2217 E444634-2    Ag Ni              802 So F3 V M1 D
+Frye          2314 E444347-6    Lo Ni              802 So F2 V
+Koni          2316 E310233-7    Lo Ni              433 So M1 V
+Czech         2317 E656510-5    Ag Ni              421 So F7 V
+Magamp        2418 E7B4400-5    Fl Ni              913 So A9 III

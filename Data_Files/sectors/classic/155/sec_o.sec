@@ -1,0 +1,25 @@
+@SUB-SECTOR:Oryx SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1836          1836 X74A031-1    Lo Ni Wa           012 Na G9 V M5 D
+1837          1837 X365033-2    Lo Ni              025 Na F3 V M4 D
+1839          1839 X968035-0    Lo Ni              010 Na F4 V M4 D
+1840          1840 X654021-1    Lo Ni              024 Na K8 V
+2032          2032 X787035-1    Lo Ni              000 Na F6 V M8 D
+2033          2033 X200034-0    Lo Ni Va           004 Na M3 V M6 D
+2035          2035 X564026-0    Lo Ni              022 Na F5 V
+2039          2039 X400033-2    Lo Ni Va           000 Na M9 V
+2136          2136 X200021-3    Lo Ni Va           023 Na K9 V
+2231          2231 B85A884-9  N Wa                 103 Hv F5 V
+2236          2236 X464024-0    Lo Ni              022 Na F3 V
+2240          2240 X547023-0    Lo Ni              003 Na G2 V
+2332          2332 B887673-5    Ag Ni Ri           205 Hv G1 V M4 D
+2436          2436 X493020-2    Lo Ni              002 Na F1 V
+2437          2437 X324020-4    Lo Ni              014 Na M3 V M9 D
+2440          2440 X000023-1    As Lo Ni           003 Na K0 V

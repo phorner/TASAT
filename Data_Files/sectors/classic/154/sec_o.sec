@@ -1,0 +1,20 @@
+@SUB-SECTOR:Oppenheimer SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1735          1735 X688043-0    Lo Ni              005 Na G4 V
+1839          1839 X310000-3    Ba Lo Ni           024 Na M7 V
+1840          1840 X765040-0    Lo Ni              014 Na F6 V
+2038          2038 X412003-1    Ic Lo Ni           002 Na G1 V
+2040          2040 X343000-0    Ba Lo Ni Po        013 Na F4 V
+2137          2137 X482000-1    Ba Lo Ni           014 Na F3 V
+2237          2237 X584003-0    Lo Ni              023 Na G7 V M2 D
+2339          2339 X9B3000-4    Ba Fl Lo Ni        010 Na K7 V M4 D
+2340          2340 X130000-4    Ba De Lo Ni Po     000 Na K7 V M4 D
+2432          2432 X765000-2    Ba Lo Ni           000 Na F7 V M4 D M0 D
+2437          2437 X7A6000-1    Ba Fl Lo Ni        013 Na F0 V

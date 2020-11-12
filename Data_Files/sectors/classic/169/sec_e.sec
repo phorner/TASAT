@@ -1,0 +1,37 @@
+@SUB-SECTOR:Hkaihwya SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0212          0212 X243000-0    Ba Lo Ni Po        013 Na F4 V M6 D
+0214          0214 X8A3000-0    Fl Lo Ni           004 Na K4 V
+0216          0216 X779000-0    Lo Ni              011 Na F5 V
+0319          0319 X371000-0    Lo Ni              004 Na F5 V
+0513          0513 X230000-0    Ba De Lo Ni Po     004 Na M2 IV
+0520          0520 X526000-0    Ba Lo Ni           002 Na M5 V
+0611          0611 X210000-0    Lo Ni              004 Na F0 V
+0612          0612 X697000-0    Lo Ni              004 Na G5 V
+0719          0719 X554000-0    Ba Lo Ni           004 Na G6 V
+0813          0813 X9D5000-0    Fl Lo Ni           004 Na M7 V M6 D
+0814          0814 X100000-0    Lo Ni Va           001 Na A8 V M4 V
+0818          0818 X767000-0    Lo Ni              004 Na F9 V

@@ -1,0 +1,24 @@
+@SUB-SECTOR:Excalibur SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arbagon       2517 C482651-7    Ni Ri              122 So F4 V
+Escherichia   2617 C656648-8    Ag Ni              103 So F4 V M0 D
+Diamanta      2714 C797645-3  S Ag Ni              104 So G8 V
+Wolfe         2811 C688756-5    Ag Ri              304 So F7 V M7 D
+Medici        2812 C444642-5  S Ag Ni              802 So F0 V
+Finland       2813 C9A1212-A    Fl Lo Ni           502 So G5 V
+Avtar         2815 C9D6422-5    Fl Ni              204 So F3 V
+Diotson       2816 C76A646-9    Ni Ri Wa           804 So F3 V M8 D
+Elvira        2819 E526683-5    Ni                 402 So M6 IV
+Gutar         2914 C200259-7  S Lo Ni Va           521 So M1 V
+Rowley        3013 C484588-7    Ag Ni              814 So F7 V
+Kankakee      3119 D45357A-6    Ni Po              900 So F3 V
+Filio Thome   3211 D7A78BC-4  S Fl                 822 So F5 V M2 D
+Ly            3213 D000352-A    As Lo Ni           324 So M1 II
+Netherlands   3217 D9B3687-7  S Fl Ni              404 So K1 V

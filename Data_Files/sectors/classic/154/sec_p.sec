@@ -1,0 +1,25 @@
+@SUB-SECTOR:Dienbach Grupen SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2539          2539 X300000-2    Ba Lo Ni Va        024 Na M2 V
+2636          2636 X345000-0    Ba Lo Ni           022 Na F0 V M3 D
+2638          2638 X400000-0    Ba Lo Ni Va        013 Na M1 V
+2739          2739 X243000-3    Ba Lo Ni Po        003 Na F3 V M9 D M2 D
+Wainwright    2831 B575A8A-E  N Hi In              404 Dg F5 V M5 D
+Dyk           2832 B889641-A    Ni Ri              124 Dg F1 V
+2834          2834 X442000-0    Ba Lo Ni Po        002 Na F6 V
+Rutgers       2933 B446533-8  N Ag Ni              612 Dg G3 V M0 D
+2940          2940 X767013-1    Lo Ni              002 Na F0 V M5 D
+Wendie        3033 B997645-7  2 Ag Ni              834 Dg F3 V M0 D
+3036          3036 X446002-4    Lo Ni              014 Na F8 V
+3038          3038 X000010-1    As Lo Ni           013 Na M2 V
+3040          3040 X551011-0    Lo Ni Po           002 Na F2 V
+Gibbon        3134 B443ADC-8    Hi In Po           403 Dg F4 V
+3231          3231 X576002-1    Lo Ni              014 Na G6 V
+3232          3232 X410002-4    Lo Ni              003 Na M6 V

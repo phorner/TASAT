@@ -1,0 +1,54 @@
+@SUB-SECTOR:Khealakh SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1723          1723 X110000-0    Lo Ni              005 Na G5 V M3 D
+Easeaaase     1725 C12047A-C    De Ni Po           224 Ar K8 V
+Wailaheareh   1726 D57155A-5    Ni                 523 Ar F7 V M8 D M9 D
+Fiw           1727 C656255-A    Lo Ni              720 Ar F8 V
+Aftuakhah     1728 C687588-5    Ag Ni              612 Ar F7 V M5 D
+1730          1730 X647000-0    Lo Ni              004 Na F5 V M1 D
+1821          1821 X100000-0    Lo Ni Va           013 Na G3 V
+Kiouoahel     1824 D996334-3    Lo Ni              814 Ar F3 V
+Hoilea'arles  1826 E7B0540-4    De Ni              703 Ar M9 V M5 D
+Kiftyoaahlou  1924 D679985-4  S Hi In              102 Ar F2 V
+Soiuaeita     1925 C230250-9    De Lo Ni Po        713 Ar A4 V
+Khaeaaihwa    1926 C264695-4  S Ag Ni Ri           802 Ar F0 V M6 D
+Hah           1927 D799878-5  S                    601 Ar G4 V M5 D
+2021          2021 X964000-0    Lo Ni              015 Na G3 V M0 D
+2022          2022 X545000-0    Lo Ni              002 Na F3 V M2 D
+2028          2028 X232000-0    Ba Lo Ni Po        024 Na K0 V M5 D
+2029          2029 X5A5000-0    Fl Lo Ni           013 Na G6 V
+2030          2030 X685000-0    Lo Ni              001 Na F4 V
+2123          2123 X201000-0    Ic Lo Ni Va        024 Na M5 II
+Oeuaaika      2125 D654652-4  S Ag Ni              922 Ar F5 V
+Tye           2126 D230100-6    De Lo Ni Po        215 Ar F0 V M2 D
+2128          2128 X250000-0    Ba De Lo Ni Po     004 Na F7 V M5 D M7 D
+2221          2221 X99A000-0    Lo Ni Wa           003 Na F6 V M3 D
+Iyyeitraaih   2224 X542685-0    Ni Po              803 Ar F0 V
+2230          2230 X787000-0    Lo Ni              003 Na F3 V M6 D
+2321          2321 X672000-0    Lo Ni              022 Na F7 V
+2322          2322 X999000-0    Lo Ni              024 Na F7 V
+Ouaorlihe     2324 D75A545-4    Ni Wa              511 Ar F1 V M0 D
+2430          2430 X7B2000-0    Fl Lo Ni           005 Na M6 V M6 D

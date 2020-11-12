@@ -1,0 +1,39 @@
+@SUB-SECTOR:Sander SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0124          0124 X331000-0    Lo Ni Po           002 Na M5 V
+0126          0126 X410000-0    Ba Lo Ni           014 Na G7 V M7 D
+0222          0222 X000000-0    As Ba Lo Ni        010 Na M5 V
+0224          0224 X000000-0    As Ba Lo Ni        004 Na K9 III M8 V
+0227          0227 X7A5000-0    Ba Fl Lo Ni        012 Na K6 III
+0325          0325 X8B7000-0    Fl Lo Ni           002 Na G8 V
+0426          0426 X471000-0    Ba Lo Ni           013 Na F5 V
+0427          0427 X120000-0    Ba De Lo Ni Po     022 Na M5 V
+0430          0430 X99A000-0    Ba Lo Ni Wa        004 Na F9 V M2 D
+0724          0724 X683000-0    Lo Ni              010 Na F1 V
+0727          0727 X883000-0    Lo Ni              011 Na F1 V M1 D M6 D
+0822          0822 X511000-0    Ic Lo Ni           004 Na K9 V
+0823          0823 X5A2000-0    Fl Lo Ni           004 Na F9 V
+0827          0827 X868000-0    Ba Lo Ni           013 Na G8 V M5 D

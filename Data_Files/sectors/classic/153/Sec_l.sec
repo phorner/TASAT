@@ -1,0 +1,27 @@
+@SUB-SECTOR:L SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Henri         2524 C6A5000-7    Ba Fl Lo Ni        912 So  
+Llwyd         2529 D68536A-5    Lo Ni              912 So  
+Colynson      2622 C320438-A  S De Ni Po           325 So  
+Arequipa      2625 A68545A-C    Ni                 915 So  
+Giorgio       2628 D51247C-7  S Ic Ni              210 So  
+Leonard       2721 C889556-7  S Ni                 714 So  
+Jhyn          2724 C536766-8  S                    201 So  
+Copernicua    2729 D41159B-4    Ic Ni              612 So  
+Gardyner      2826 A447788-B  2 Ag                 804 So  
+Sorgen        2830 C551430-7  S Ni Po              204 So  
+Gnar          2922 C6A3445-8    Fl Ni              700 So  
+Hoireabard    2930 C554542-8    Ag Ni              404 So  
+Tass          3025 C543568-8    Ni Po              930 So  
+Redi          3122 C758458-6  S Ni                 822 So  
+Windwhisper   3123 C755346-9  S Lo Ni              605 So  
+Constantine   3223 C581662-8    Ni Ri              500 So  
+Coilin        3224 C516551-A    Ic Ni              302 So  
+Diana         3228 E23179A-7    Na Po              212 So  

@@ -1,0 +1,28 @@
+@SUB-SECTOR:A SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Batavia       0106 C68A341-6  S Lo Ni Wa           512 So  
+Xeshab        0201 B9C7744-8  N Fl                 920 So  
+Calliope      0203 C336553-7    Ni                 403 So  
+Pesigod       0209 E344300-4    Lo Ni              204 So  
+Enti          0301 B300000-8    Ba Lo Ni Va        714 So  
+Montenegrin   0305 C526567-9  S Ni                 222 So  
+Scotte        0309 E689621-3    Ni                 312 So  
+Latvia        0310 E636101-6    Lo Ni              504 So  
+Atwater       0401 B575478-7    Ni                 805 So  
+Magota        0502 C2337AC-7    Na Po              913 So  
+Kinspiat      0504 C541464-7    Ni Po              103 So  
+Samuelle      0506 A7B0233-D  N De Lo Ni           200 So  
+Stetson       0606 D9D5651-5  S Fl Ni              601 So  
+Duluth        0610 E313A76-8    Hi Ic Na           301 So  
+Ames          0706 D3005AB-5  S Ni Va              403 So  
+Ledebeter     0707 D687156-3    Lo Ni              434 So  
+Cominform     0806 E6856AA-6    Ag Ni              221 So  
+D'aal         0807 D440367-8  S De Lo Ni Po        113 So  
+Theuroik      0809 E75569C-1    Ag Ni              200 So  

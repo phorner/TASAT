@@ -1,0 +1,25 @@
+@SUB-SECTOR:J SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Toshiba       0927 B8A3441-9    Fl Ni              700 So  
+Chadwick      0930 D3509BE-9    De Hi Po           522 So  
+Yaqui         1022 B696536-B    Ag Ni              100 So  
+Nunoo-Quarcoo 1025 B6695AC-C  N Ni                 315 So  
+Morse         1028 B738553-B  N Ni                 901 So  
+Seth          1130 D66567B-1  S Ag Ni Ri           603 So  
+Boden         1221 C74A424-9    Ni Wa              803 So  
+Bourbaki      1225 B100599-D    Ni Va              113 So  
+Wace          1229 B97A767-B  2 Wa                 922 So  
+Fidelio       1421 C450100-9  S De Lo Ni Po        804 So  
+Gorbash       1424 C878364-4    Lo Ni              203 So  
+Estes         1428 C455673-6  S Ag Ni              422 So  
+Dhyana        1430 C5269EE-9    Hi In              604 So  
+Albhaois      1526 C140233-7  S De Lo Ni Po        312 So  
+Necari        1621 C569630-6    Ni                 612 So  
+Bella         1628 CA6A555-7    Ni Wa              204 So  

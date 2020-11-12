@@ -1,0 +1,20 @@
+@SUB-SECTOR:Lothar SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2527          2527 C8C47BC-8  S Fl                 221 Hv F9 V
+2721          2721 E566569-5    Ag Ni              414 Hv F2 V
+2727          2727 C8567BB-5  S Ag                 902 Hv M8 V M7 D
+2728          2728 D363245-5    Lo Ni              323 Hv F2 V M6 D
+2823          2823 E547235-2    Lo Ni              314 Hv G3 V
+2830          2830 C64698B-5    Hi In              612 Hv F2 V
+2924          2924 E000ABC-A    As Hi Na           204 Hv G7 V M9 D
+2927          2927 C77A59B-7  S Ni Wa              323 Hv F4 V M0 D
+3024          3024 E000783-9    As Na              112 Hv A0 V
+3025          3025 C302597-6  S Ic Ni Va           523 Hv K9 V M1 D
+3130          3130 D747352-8  S Lo Ni              714 Hv F9 V

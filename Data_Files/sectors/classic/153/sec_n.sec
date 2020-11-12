@@ -1,0 +1,23 @@
+@SUB-SECTOR:N SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0939          0939 X360004-0    De Lo Ni           004 Na  
+De Thorp      1031 D562431-7  S Ni                 813 So  
+1036          1036 X000000-6    As Ba Lo Ni        013 Na  
+1038          1038 X676000-0    Ba Lo Ni           000 Na  
+1232          1232 X754001-0    Lo Ni              014 Na  
+1233          1233 X574000-3    Ba Lo Ni           004 Na  
+1238          1238 XAA2005-4    Fl Lo Ni           021 Na  
+1333          1333 X685004-0    Lo Ni              003 Na  
+1334          1334 X000000-1    As Ba Lo Ni        000 Na  
+Java          1431 D240168-7  S De Lo Ni Po        723 So  
+1537          1537 X310000-3    Ba Lo Ni           013 Na  
+1538          1538 X543001-1    Lo Ni Po           002 Na  
+1634          1634 X120001-5    De Lo Ni Po        002 Na  
+1638          1638 XAA4003-4    Fl Lo Ni           013 Na  

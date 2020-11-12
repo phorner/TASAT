@@ -1,0 +1,42 @@
+@SUB-SECTOR:Hiyakhyes SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0923          0923 X300000-0    Ba Lo Ni Va        000 Na K2 IV
+0930          0930 X546000-0    Lo Ni              002 Na F7 V
+1021          1021 X310000-0    Lo Ni              004 Na A9 IV M6 V M4 V
+1025          1025 X645000-0    Ba Lo Ni           004 Na F6 V
+1026          1026 X466000-0    Lo Ni              003 Na F1 V M2 D
+Ukh           1123 C7B2686-5    Fl Ni              804 Ar G9 V
+Yerlas        1126 C440474-8  S De Ni Po           300 Ar F5 V M2 D
+1130          1130 X572000-0    Lo Ni              013 Na G2 V
+Eakharl       1223 B769536-8  S Ni                 523 Ar F6 V M8 D M1 D
+Khaoyerlear   1224 C5A3552-8  S Fl Ni              400 Ar M8 V M8 D
+Uakhteaftew   1225 C511896-9    Ic Na              500 Ar G7 V M4 D
+Hroirlo'i     1424 B332586-C  A Ni Po              501 Ar M4 V M3 D
+Oaiyh         1427 C44948A-7  S Ni                 105 Ar G3 V
+1429          1429 X365000-0    Ba Lo Ni           000 Na G0 V M5 D
+Uai'eilehar   1525 D868786-2    Ag Ri              423 Ar F8 V
+Kesyohe       1527 D786564-7    Ag Ni              402 Ar G7 V
+Toyarlaihwai  1627 C472146-A  S Lo Ni              203 Ar G3 V M9 D

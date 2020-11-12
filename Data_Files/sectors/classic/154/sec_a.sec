@@ -1,0 +1,33 @@
+@SUB-SECTOR:Kostov SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Corcurachan   0101 B555410-B  S Ni                 810 So G4 V
+De Holand     0102 B75A244-9  2 Lo Ni Wa           203 So F0 V
+Dawyff        0106 C9A5435-8    Fl Ni              311 So G8 V M5 D
+Merston       0202 B25369B-A  N Ni Po              513 So F9 V M9 D M1 D
+Gerber        0203 B31069B-9  N Na Ni              324 So F8 V
+Amalasand     0210 C796543-4  S Ag Ni              703 So G6 V
+Diconson      0302 B783465-8  S Ni                 824 So F1 V
+Eborane       0304 B555798-7  N Ag                 705 So G7 V M0 D
+Dael          0310 C894541-8    Ag Ni              500 So G4 V M5 D
+Fane          0403 C5119B8-9  S Hi Ic Na           404 So G6 V
+Fitzroy       0404 B4318AA-A  N Na Po              912 So G6 V
+Tim           0406 A795452-C    Ni                 703 So F0 V M2 D
+Banheen       0409 C57888B-8                       522 So F0 V
+Sophia        0505 C100466-A    Ni Va              903 So M6 V M5 D
+Vimo          0507 A341222-9  N Lo Ni Po           304 So G8 V M7 D
+Mathewson     0508 A2349AB-C  N Hi In              504 So F5 V
+Aylwin        0509 C361443-6    Ni                 923 So F9 V
+Babs          0601 A766886-8  N Ri                 102 So F5 V M9 D
+Lotario       0602 A510672-A  N Na Ni              603 So M2 V
+Scolaighe     0603 C898676-7    Ag Ni              602 So F3 V
+Equate        0610 C444377-6    Lo Ni              810 So G4 V M6 D
+Esele         0703 C9D4237-A    Fl Lo Ni           305 So M8 V
+Clyderow      0808 D784389-6  S Lo Ni              810 So G1 V M2 D
+Sethron       0809 D66626A-6  S Lo Ni              405 So F8 V M0 D

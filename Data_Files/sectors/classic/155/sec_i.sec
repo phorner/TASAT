@@ -1,0 +1,17 @@
+@SUB-SECTOR:Last Frontier SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0123          0123 X564000-3    Ba Lo Ni           023 Na F0 V
+0221          0221 X466011-0    Lo Ni              004 Na K5 V M2 D
+0325          0325 X759002-4    Lo Ni              012 Na F4 V
+0326          0326 X676000-0    Ba Lo Ni           001 Na F4 V M7 D
+0421          0421 X74A000-0    Ba Lo Ni Wa        003 Na F4 V
+0422          0422 X383002-0    Lo Ni              023 Na F2 V
+0427          0427 X749000-1    Ba Lo Ni           024 Na F8 V M4 D
+0527          0527 X7A1001-2    Fl Lo Ni           003 Na G9 IV

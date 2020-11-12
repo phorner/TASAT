@@ -1,0 +1,30 @@
+@SUB-SECTOR:O SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Huntington    1731 D435536-6  S Ni                 300 So  
+1738          1738 X510020-2    Lo Ni              004 Na  
+1739          1739 X130023-1    De Lo Ni Po        002 Na  
+Hannah        1931 B100740-9  2 Na Va              103 So  
+1933          1933 X976000-3    Ba Lo Ni           001 Na  
+1934          1934 X202004-1    Ic Lo Ni Va        003 Na  
+1939          1939 X120016-5    De Lo Ni Po        010 Na  
+2033          2033 X100001-5    Lo Ni Va           010 Na  
+2035          2035 X554000-0    Ba Lo Ni           020 Na  
+Vanil         2131 B462520-9  2 Ni                 215 So  
+2134          2134 X557003-0    Lo Ni              012 Na  
+2136          2136 X331000-4    Ba Lo Ni Po        022 Na  
+2139          2139 X888010-0    Lo Ni              003 Na  
+2240          2240 X545010-0    Lo Ni              013 Na  
+Velika        2332 B675844-8  N                    304 So  
+2333          2333 X100000-3    Ba Lo Ni Va        003 Na  
+2335          2335 X372000-0    Ba Lo Ni           002 Na  
+2434          2434 X623000-0    Ba Lo Ni Po        003 Na  
+2435          2435 X574002-0    Lo Ni              002 Na  
+2436          2436 X797005-2    Lo Ni              014 Na  
+2440          2440 X100000-5    Ba Lo Ni Va        004 Na  

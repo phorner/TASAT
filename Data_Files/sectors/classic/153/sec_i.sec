@@ -1,0 +1,22 @@
+@SUB-SECTOR:I SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Jade          0126 C200542-6    Ni Va              704 So  
+Carol         0128 C423434-9  S Ni Po              300 So  
+Uteta         0229 C735769-7                       324 So  
+Brandt        0230 C846533-4    Ag Ni              833 So  
+Hawysia       0321 C150677-6  S De Ni Po           110 So  
+Thrythwig     0324 C685238-8    Lo Ni              614 So  
+Elsie         0424 C723787-7  S Na Po              403 So  
+Madhi         0425 C444443-7    Ni                 314 So  
+Filmaen       0427 C558331-5  S Lo Ni              104 So  
+Lippincott    0527 C150004-7  S De Lo Ni Po        903 So  
+Sherman       0622 E444635-5    Ag Ni              604 So  
+Cyrille       0722 E679967-8    Hi In              713 So  
+Oskar         0821 E7359EH-6    Hi In            A 602 So  

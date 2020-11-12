@@ -1,0 +1,35 @@
+@SUB-SECTOR:F SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Bessel        0911 C747478-8  S Ni                 503 So  
+Sesklos       0916 C501633-5    Ic Na Ni Va        923 So  
+Matew         0919 C764A74-A    Hi                 315 So  
+Gant          1013 D130347-A  S De Lo Ni Po        513 So  
+Ramona        1019 C480020-4  S De Lo Ni           724 So  
+Jewell        1113 D453676-2    Ni Po              604 So  
+Yeats         1114 D505563-6    Ic Ni Va           205 So  
+Jove          1117 A501378-C  S Ic Lo Ni Va        101 So  
+Calff         1211 C300568-A    Ni Va              800 So  
+Bellingham    1213 D668451-5    Ni                 913 So  
+Willeson      1216 A552AFH-F    Hi Po            A 303 So  
+Thalen        1220 B9886AB-8    Ag Ni              913 So  
+Dron          1311 B591334-A  2 Lo Ni              902 So  
+Dar           1313 A97A77A-C  2 Wa                 134 So  
+Mekong        1314 A583549-C  N Ni                 210 So  
+Winters       1315 A140267-F  N De Lo Ni Po        322 So  
+Swerd         1319 B7A38AB-7  S Fl                 604 So  
+Dominic       1320 B320589-A  N De Ni Po           703 So  
+Fagtar        1411 C245556-9    Ag Ni              601 So  
+Aldrich       1415 B98A505-C    Ni Wa              804 So  
+Aiken         1418 B100100-A  N Lo Ni Va           403 So  
+Llyn          1515 B774103-8  N Lo Ni              502 So  
+Ranson        1517 B450A67-A  2 De Hi Po           404 So  
+Lae           1611 C452332-5    Lo Ni Po           320 So  
+Marcy         1612 A77A654-A  N Ni Wa              211 So  
+Kylpyn        1615 B778734-5    Ag                 325 So  

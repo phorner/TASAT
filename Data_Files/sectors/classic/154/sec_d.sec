@@ -1,0 +1,18 @@
+@SUB-SECTOR:District Nw14 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gorth         2502 B667622-8  2 Ag Ni              612 So F0 V M9 D
+Steve         2503 B300736-A    Na Va              104 So M2 V
+Dyddplentyn   2508 C000620-B  S As Na Ni           803 So M7 V
+Losner        2601 B483850-A    Ri                 503 So F9 V
+Esatte        3003 C424569-6    Ni                 512 So M5 II M5 D
+Ramsey        3009 C95A348-B    Lo Ni Wa           834 So G3 V
+Idlane        3104 C7A1220-A    Fl Lo Ni           404 So F2 V
+Forj          3203 C551666-3    Ni Po              920 So G8 V
+Ladhaoise     3204 C666664-7    Ag Ni Ri           702 So G7 V M8 D

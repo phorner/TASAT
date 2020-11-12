@@ -1,0 +1,29 @@
+@SUB-SECTOR:E SECTORAldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fanny         0111 C444552-8  S Ag Ni              724 So  
+Oneida        0112 C546322-9  S Lo Ni              333 So  
+Vicksburg     0116 C3228DE-8  S Na Po              803 So  
+Sturm         0218 B553762-6    Po                 111 So  
+Laertes       0312 D310657-9    Na Ni              204 So  
+Ivette        0317 C21038B-7    Lo Ni              103 So  
+Thebault      0411 D525210-3  S Lo Ni              312 So  
+Atte Frers    0413 A371476-D  N Ni                 814 So  
+Xercon        0414 A4109CF-E  S Hi Na              614 So  
+Derbyshire    0418 B336320-B  S Lo Ni              500 So  
+Billie        0512 D573210-7  S Lo Ni              105 So  
+Viola         0515 B687686-7    Ag Ni Ri           520 So  
+Geltruda      0616 B551231-7  2 Lo Ni Po           210 So  
+Deven         0619 B586223-7    Lo Ni              304 So  
+Canute        0620 B410345-B  N Lo Ni              523 So  
+Quintine      0712 A9A1425-D    Fl Ni              901 So  
+Nelson        0715 B785574-7    Ag Ni              304 So  
+Danilo        0719 B796545-7  S Ag Ni              210 So  
+Allison       0813 A304424-D    Ic Ni Va           702 So  
+Yukiko        0816 B55A78B-7    Wa                 103 So  

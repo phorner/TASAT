@@ -1,0 +1,25 @@
+@SUB-SECTOR:Demos SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0933          0933 X000000-1    As Ba Lo Ni        002 Na M4 V M0 D
+1034          1034 X542000-0    Ba Lo Ni Po        031 Na F6 V
+1133          1133 X573002-0    Lo Ni              023 Na F4 V M1 D
+De Bardelby   1137 C264557-A    Ag Ni              904 Dn F2 V
+Elyndoghter   1138 B473675-A    Ni                 424 Dn F4 V
+1231          1231 X333000-5    Ba Lo Ni Po        014 Na M2 V
+1240          1240 X554000-0    Ba Lo Ni           002 Na G7 V M0 D
+1331          1331 X779000-2    Ba Lo Ni           002 Na F7 V
+1335          1335 X948059-2    Lo Ni              004 Na G1 V
+1339          1339 X481011-0    Lo Ni              013 Na F8 V
+1340          1340 X100000-4    Ba Lo Ni Va        003 Na G9 V
+1433          1433 X221000-1    Ba Lo Ni Po        000 Na G5 V
+1440          1440 X759000-3    Ba Lo Ni           004 Na F1 V
+1531          1531 X785001-0    Lo Ni              004 Na K9 V
+1532          1532 X100000-3    Ba Lo Ni Va        013 Na M8 V
+1637          1637 X555044-2    Lo Ni              004 Na K0 V

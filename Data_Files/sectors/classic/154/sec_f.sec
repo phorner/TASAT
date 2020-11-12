@@ -1,0 +1,41 @@
+@SUB-SECTOR:Mohica SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fala          0912 C887698-7    Ag Ni Ri           123 So G7 V M8 D
+Whatley       0914 C254588-9    Ag Ni              900 So F0 V
+Kram          0916 C44868C-8    Ag Ni              405 So F3 V
+Derthe        0918 A0008AC-E    As Na              824 So F5 V
+Lila          0920 A787676-8  N Ag Ni Ri           403 So F5 V
+Blenheim      1011 C779756-5  S                    325 So F5 V
+Durris        1013 C548255-9  S Lo Ni              904 So F7 V
+Toireasa      1014 C727463-9  S Ni                 503 So M1 IV
+Cleanthe      1016 C300466-9    Ni Va              704 So M4 IV
+Fahey         1019 A627448-A    Ni                 703 So G4 V
+Oceanus       1020 A889563-D  2 Ni                 914 So F7 V M5 D
+Liggett       1111 C88A698-8    Ni Ri Wa           804 So F3 V
+Tharn         1117 C43568B-7    Ni                 223 So M2 V K4 D
+Tamarantha    1118 A100133-D  N Lo Ni Va           632 So M4 V M8 D
+Guldergrance  1120 A442344-A    Lo Ni Po           321 So F6 V M8 D M8 D
+Wallihelm     1212 C783464-9  S Ni                 703 So K7 V
+Minth         1218 A795457-E    Ni                 514 So F1 V
+Wyoming       1219 A436221-F    Lo Ni              102 So G6 V
+Syklyng       1311 C57369B-6  S Ni                 313 So F8 V
+Eadbeorht     1317 A335663-E  N Ni                 503 So G4 V M4 D
+Swynherd      1319 A200555-G  N Ni Va              103 So M7 V
+Elvire        1414 A573888-C  2                    910 So F2 V M4 D
+Myrha         1415 D000165-9  S As Lo Ni           703 So G3 V
+Joseph        1416 A576224-8  N Lo Ni              204 So F1 V M1 D
+Grilik        1417 A260442-D    De Ni              801 So G4 V
+Renuke        1514 D6A238C-8    Fl Lo Ni           414 So G4 IV
+De Bubwyght   1518 E575484-4    Ni                 811 So F1 V
+Fizeau        1520 E261424-7    Ni                 703 So F9 V
+Nailer        1612 D8C58DF-2    Fl                 913 So F4 V
+Duke          1617 E797323-2    Lo Ni              423 So G1 V M9 D
+Ffaber        1619 E73A200-A    Lo Ni Wa           214 So K8 IV
+Riverwind     1620 E546102-7    Lo Ni              712 So F3 V

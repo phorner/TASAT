@@ -1,0 +1,21 @@
+@SUB-SECTOR:Brom SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Montclair     0902 B361543-A  N Ni                 423 So G0 V
+Zaticon       0905 C410467-8    Ni                 102 So F4 V
+Brooks        0906 C7B0744-5    De                 802 So M9 IV M0 V
+Butri         0907 C79879B-5    Ag                 924 So G7 V
+Starr         1005 C474356-7  S Lo Ni              803 So F7 V M3 D
+1108          1108 B65A102-B  2 Lo Ni Wa           502 Hv G7 V
+1201          1201 C9A567B-7    Fl Ni              210 Hv M0 III
+1304          1304 B553854-A  N Po                 904 Hv G1 V
+1403          1403 B310862-7  2 Na                 710 Hv F4 V
+1505          1505 D765110-3  S Lo Ni              601 Hv G4 V M9 D
+1602          1602 B353410-9    Ni Po              601 Hv F2 V M4 D
+1607          1607 D7A0553-8  S De Ni              704 Hv M9 V M6 D

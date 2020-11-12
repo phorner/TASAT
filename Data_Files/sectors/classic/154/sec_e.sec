@@ -1,0 +1,40 @@
+@SUB-SECTOR:Akizuma SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ifni          0115 D000587-A    As Ni              603 So G9 III M3 V
+Tushna        0116 D8B2257-6    Fl Lo Ni           903 So M4 V
+Gouda         0119 D511686-4  S Ic Na Ni           203 So K5 V M9 D
+Peachtree     0212 A573424-D    Ni                 204 So F7 V M5 D
+Arnell        0214 D6667AE-1    Ag                 301 So F3 V M6 D
+Kali          0217 D98A465-5  S Ni Wa              505 So F0 V
+Christie      0311 A000888-B    As Na              602 So G8 V
+Shephird      0312 A200655-E  N Na Ni Va           113 So G9 IV
+Magni         0313 A323200-F  2 Lo Ni Po           523 So M4 V M5 V
+Cano          0314 D5A5645-3    Fl Ni              802 So K4 V M4 D
+Borethane     0411 A747A98-E    Hi In              305 So G3 V
+Malingo       0412 A668535-D  N Ag Ni              610 So F4 V
+De Newton     0417 E325689-7    Ni                 411 So K4 II
+Rokesby       0419 E426565-6    Ni                 923 So M5 IV M3 D
+Seadaidh      0420 E433683-6    Na Ni Po           202 So G1 V M7 D
+Cinderella    0511 A87A652-C  N Ni Wa              802 So G1 V
+Josephene     0512 A566642-8  N Ag Ni Ri           112 So F8 V M1 D
+Hanoi         0515 E43189A-8    Na Po              902 So F9 V
+Araterm       0516 E98A336-6    Lo Ni Wa           304 So F7 V M3 D M5 D
+Baner         0517 E888443-5    Ni                 503 So F1 V
+Tuvor         0518 E668679-2    Ag Ni Ri           203 So F3 V M9 D
+Piper         0520 E595453-4    Ni                 714 So F3 V
+Thonia        0611 A8B6431-A    Fl Ni              104 So M3 V
+Secgleah      0618 E614444-3    Ic Ni              604 So M7 III M6 V
+Houdini       0715 B67A598-9    Ni Wa              104 So F7 V M3 D
+Kiowa         0717 E3316BA-8    Na Ni Po           300 So G5 V
+Serge         0719 E7B1552-4    Fl Ni              103 So M4 V M1 D
+Hunter        0720 E5778DH-0                    A  900 So F8 V
+Reginberaht   0814 B000389-9    As Lo Ni           403 So M0 V
+Diantha       0817 B59649B-7    Ni                 613 So F3 V
+Filio Petri   0819 E222667-3    Na Ni Po           514 So M2 IV M3 V

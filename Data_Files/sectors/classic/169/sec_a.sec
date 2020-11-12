@@ -1,0 +1,36 @@
+@SUB-SECTOR:Htai'asta SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+0109          0109 X374000-0    Lo Ni              010 Na F0 V
+0110          0110 X644000-0    Lo Ni              010 Na F7 V
+0302          0302 X877000-0    Lo Ni              024 Na G9 V
+0306          0306 X77A000-0    Lo Ni Wa           004 Na F3 V
+0502          0502 X586000-0    Lo Ni              001 Na F3 V
+0503          0503 X160000-0    De Lo Ni           004 Na F9 V M1 D
+0505          0505 X200000-0    Lo Ni Va           004 Na M6 V
+0607          0607 X76A000-0    Lo Ni Wa           000 Na F4 V
+0707          0707 X342000-0    Lo Ni Po           000 Na F7 V
+0708          0708 X312000-0    Ic Lo Ni           001 Na M0 V M8 D
+0807          0807 X355000-0    Lo Ni              010 Na F7 V M1 D

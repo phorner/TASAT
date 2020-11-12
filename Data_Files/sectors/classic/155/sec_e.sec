@@ -1,0 +1,20 @@
+@SUB-SECTOR:Even SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Weldig        0214 C7358B9-9  S                    803 So G3 V M5 D
+Magumela      0218 C489666-A    Ni Ri              323 So F9 V
+Danis         0314 X424585-0    Ni                 902 So K2 IV M2 D
+Arminius      0315 C400577-6  S Ni Va              914 So F3 V M7 D M9 D
+Nicollina     0316 C451576-A  S Ni Po              720 So K9 V
+Burundi       0413 X9D2698-0    Fl Ni              204 So G7 III
+Emmaline      0416 C778121-9    Lo Ni              723 So F8 V M2 D
+Holaw         0512 C557654-9    Ag Ni              310 So F1 V M9 D
+Andvarii      0513 D652541-4    Ni Po              814 So F9 V
+Qualis        0613 C000487-A    As Ni              422 So M5 V
+Americana     0711 C52669A-4  S Ni                 404 So M7 IV

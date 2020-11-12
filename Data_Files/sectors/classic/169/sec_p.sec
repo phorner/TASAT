@@ -1,0 +1,43 @@
+@SUB-SECTOR:Harmond SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2539          2539 X554000-0    Lo Ni              002 Na K8 V M1 D
+2632          2632 X237000-0    Ba Lo Ni           014 Na A7 V
+2635          2635 X260000-0    Ba De Lo Ni        003 Na G3 V
+2731          2731 X230000-0    De Lo Ni Po        003 Na M7 V
+2733          2733 X977000-0    Lo Ni              002 Na F8 V
+2734          2734 X999000-0    Lo Ni              003 Na F0 V
+2735          2735 X100000-0    Lo Ni Va           004 Na A9 V
+2737          2737 X120000-0    De Lo Ni Po        004 Na G1 V
+2833          2833 X552000-0    Lo Ni Po           015 Na F6 V M0 D
+2931          2931 X454000-0    Ba Lo Ni           023 Na G9 V M6 D
+2939          2939 X769000-0    Lo Ni              023 Na F6 V M3 D
+3031          3031 X362000-0    Ba Lo Ni           022 Na F8 V
+3034          3034 X302000-0    Ba Ic Lo Ni Va     002 Na G1 V M5 D
+3035          3035 X200000-0    Ba Lo Ni Va        011 Na G1 V
+3134          3134 X734000-0    Lo Ni              002 Na A1 V
+3135          3135 X260000-0    De Lo Ni           023 Na G7 V M7 D
+3139          3139 X411000-0    Ba Ic Lo Ni        025 Na M3 V
+3234          3234 XAC5000-0    Ba Fl Lo Ni        034 Na M6 V

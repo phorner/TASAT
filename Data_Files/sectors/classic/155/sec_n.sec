@@ -1,0 +1,14 @@
+@SUB-SECTOR:District 729 SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1140          1140 X491042-2    Lo Ni              003 Na F5 V
+1231          1231 X220001-1    De Lo Ni Po        003 Na M0 V M9 V
+1440          1440 X000047-1    As Lo Ni           004 Na M6 V
+1539          1539 X8B4032-1    Fl Lo Ni           001 Na M4 V M5 D
+1636          1636 X995030-0    Lo Ni              014 Na F5 V

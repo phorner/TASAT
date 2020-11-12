@@ -1,0 +1,17 @@
+@SUB-SECTOR:Jafr SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1025          1025 X566000-0    Ba Lo Ni           002 Na F1 V M4 D
+1027          1027 X563000-0    Ba Lo Ni           013 Na G0 V M4 D
+1121          1121 B889631-A  2 Ni                 114 Hv G9 V M7 D
+1326          1326 C566541-5  S Ag Ni              720 Hv F2 V
+1526          1526 B221355-C  S Lo Ni Po           213 Hv M9 V
+1623          1623 B2208A9-8  2 De Na Po           900 Hv F7 V M2 D
+1624          1624 B252688-B    Ni Po              104 Hv F0 V
+1628          1628 B354464-A    Ni                 720 Hv F8 V M1 D

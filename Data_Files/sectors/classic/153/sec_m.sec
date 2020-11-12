@@ -1,0 +1,32 @@
+@SUB-SECTOR:M SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fernando      0139 C240679-9    De Ni Po           112 Mu  
+Irk           0140 C100786-6  S Na Va              304 Mu  
+Darkwind      0231 C554973-6  S Hi                 904 So  
+Caspardrug    0237 A985547-B    Ag Ni              703 Mu  
+Kyoto         0238 C672112-6  S Lo Ni              602 Mu  
+Wellesley     0239 C245556-9    Ag Ni              601 Mu  
+Teirn         0331 C653255-5    Lo Ni Po           704 So  
+0334          0334 X302030-1    Ic Lo Ni Va        004 Na  
+Jelena        0340 C545322-4    Lo Ni              103 Mu  
+0433          0433 X753031-2    Lo Ni Po           002 Na  
+0434          0434 X658033-0    Lo Ni              003 Na  
+0435          0435 X98A043-0    Lo Ni Wa           005 Na  
+0437          0437 X466000-2    Ba Lo Ni           000 Na  
+Diahann       0531 D20058A-4  S Ni Va              605 So  
+0535          0535 X536047-2    Lo Ni              024 Na  
+Jamis         0540 C256422-A    Ni                 924 Mu  
+0637          0637 X573031-0    Lo Ni              011 Na  
+0734          0734 X7B4014-0    Fl Lo Ni           023 Na  
+0738          0738 X675035-0    Lo Ni              013 Na  
+0739          0739 X110027-4    Lo Ni              004 Na  
+Jeroboam      0831 D371467-8  S Ni                 403 So  
+0834          0834 X536010-1    Lo Ni              004 Na  
+0836          0836 XA9A023-4    Lo Ni Wa           012 Na  

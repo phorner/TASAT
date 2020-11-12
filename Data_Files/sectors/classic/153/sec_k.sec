@@ -1,0 +1,19 @@
+@SUB-SECTOR:K SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rognuald      1726 C423430-7    Ni Po              403 So  
+Exxon         1826 C310544-9  S Ni                 804 So  
+Emerson       1923 C443256-8    Lo Ni Po           703 So  
+Titius        2026 B555998-B    Hi                 900 So  
+Gertrut       2028 B441333-C  2 Lo Ni Po           202 So  
+Eitis         2222 C787589-6    Ag Ni              804 So  
+Nadeesh       2223 C682001-7  S Lo Ni              104 So  
+Marchita      2328 B421566-9  2 Ni Po              514 So  
+Lucian        2423 C300311-9    Lo Ni Va           203 So  
+Astire        2429 B372577-9  2 Ni                 715 So  

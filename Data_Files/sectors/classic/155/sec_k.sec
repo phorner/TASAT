@@ -1,0 +1,29 @@
+@SUB-SECTOR:Kobol SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1722          1722 C400543-9    Ni Va              913 Hv M0 V
+1725          1725 B201576-C  S Ic Ni Va           922 Hv M7 V M7 D
+1727          1727 BAC2346-7  S Fl Lo Ni           314 Hv M6 V M9 D
+1821          1821 C98A332-6  S Lo Ni Wa           103 Hv F2 V M2 D
+1822          1822 C9B6666-8    Fl Ni              203 Hv G4 V
+1823          1823 C988322-6    Lo Ni              302 Hv G2 V M8 D M4 D
+1827          1827 C74A532-B  S Ni Wa              800 Hv F1 V
+1921          1921 C89A876-7  S Wa                 902 Hv F2 V M5 D
+1922          1922 C7A0544-5  S De Ni              121 Hv M1 V M1 D
+2025          2025 C200426-A  S Ni Va              601 Hv M5 IV
+2121          2121 C323646-A    Na Ni Po           304 Hv M2 V M8 D
+2122          2122 B678899-9  N                    803 Hv F5 V
+2123          2123 B646567-7    Ag Ni              923 Hv F9 V M5 D
+2124          2124 C220758-6    De Na Po           520 Hv M2 V
+2129          2129 B88A556-D    Ni Wa              913 Hv F8 V
+2225          2225 C435533-8    Ni                 814 Hv M1 V
+2321          2321 C300313-7    Lo Ni Va           215 Hv M4 V
+2324          2324 C326534-9    Ni                 122 Hv G1 V M7 D
+2325          2325 B758AB9-E    Hi                 501 Hv G6 V M8 D
+2425          2425 C462861-4    Ri                 903 Hv F0 V

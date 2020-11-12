@@ -1,0 +1,24 @@
+@SUB-SECTOR:Cillacyclon SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1704          1704 E566104-7    Lo Ni              603 Hv F4 V
+1705          1705 C887688-8  S Ag Ni Ri           121 Hv F1 V
+1802          1802 B636ACF-E  S Hi In              403 Hv F4 V
+1803          1803 B77968A-6  N Ni                 303 Hv F5 V M5 D
+1804          1804 D424548-6  S Ni                 704 Hv M8 V M9 D
+1809          1809 E140888-6    De Po              812 Hv F8 V
+1908          1908 C424362-6    Lo Ni              204 Hv G6 V
+1909          1909 E110554-B    Ni                 713 Hv F2 V
+2005          2005 C874577-8    Ag Ni              804 Hv F2 V
+2007          2007 C8498AA-6                       912 Hv G8 V M0 D
+2201          2201 E74A100-6    Lo Ni Wa           601 Hv G0 V
+2203          2203 E767432-6    Ni                 524 Hv F7 V
+2209          2209 C355131-A    Lo Ni              503 Hv F0 V
+2305          2305 E875320-4    Lo Ni              304 Hv M5 V M5 D
+2409          2409 E000323-9    As Lo Ni           121 Hv K5 V M0 V

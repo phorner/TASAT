@@ -1,0 +1,38 @@
+@SUB-SECTOR:Thalkharl SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1020          1020 X666000-0    Ba Lo Ni           005 Na K5 V
+1117          1117 X762000-0    Lo Ni              001 Na G4 V M5 D
+1211          1211 X425000-0    Ba Lo Ni           004 Na M0 V M3 D
+1213          1213 XA5A000-0    Ba Lo Ni Wa        000 Na K0 V
+1215          1215 X521000-0    Ba Lo Ni Po        004 Na K4 V
+1315          1315 X558000-0    Ba Lo Ni           002 Na M5 V M6 D
+1419          1419 X340000-0    Ba De Lo Ni Po     003 Na F8 V
+Ftiylr        1514 B578768-7  S Ag                 913 Ww G7 V M1 D
+1519          1519 X100000-0    Lo Ni Va           024 Na M5 V
+Hko'          1612 B546A9C-9  N Hi In              100 Ww F5 V
+Khtyol        1613 B300322-8    Lo Ni Va           505 Ww F8 IV M4 D
+Iiyoal        1615 B444654-A  S Ag Ni              414 Ww F6 V
+1618          1618 X425000-0    Lo Ni              015 Na A0 V

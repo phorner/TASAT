@@ -1,0 +1,30 @@
+@SUB-SECTOR:C SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Witner        1705 E74A867-5    Wa                 812 So  
+Volvo         1706 D745325-6    Lo Ni              303 So  
+Spaniard      1708 D697A97-5  S Hi In              505 So  
+Jesus         1709 D563569-2  S Ni                 622 So  
+Cei           1804 E558430-3    Ni                 713 So  
+Ruomhildr     1808 E310110-4    Lo Ni              620 So  
+Amadeus       1809 D662ABD-A  S Hi                 403 So  
+Case          1904 E565978-3    Hi                 510 So  
+Symson        1905 E328645-3    Ni                 425 So  
+Alot          1906 E433416-7    Ni Po              104 So  
+Shadow        2010 B435458-D    Ni                 900 So  
+Kora          2106 E747245-6    Lo Ni              202 So  
+Jormunrek     2108 B859032-8  N Lo Ni              704 So  
+Arkfire       2110 B310565-D  N Ni                 122 So  
+Dandy         2201 C533276-6    Lo Ni Po           423 So  
+Pugh          2208 B551243-6    Lo Ni Po           415 So  
+Crockett      2210 B612241-C    Ic Lo Ni           210 So  
+Moldavia      2401 C325541-6    Ni                 200 So  
+Wyeth         2404 C564225-5  S Lo Ni              312 So  
+Trevor        2405 C455331-7  S Lo Ni              514 So  
+Isys          2409 B74478D-A    Ag                 113 So  

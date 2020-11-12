@@ -1,0 +1,35 @@
+@SUB-SECTOR:Gobi SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2622          2622 X545000-0    Lo Ni              013 Na F6 V
+2623          2623 X462000-0    Lo Ni              000 Na G2 V
+2722          2722 X576000-0    Lo Ni              003 Na F8 V M9 D
+2822          2822 X335000-0    Lo Ni              023 Na M3 IV M2 V
+2830          2830 X100000-0    Lo Ni Va           000 Na M4 IV M8 V
+2921          2921 X000000-0    As Lo Ni           012 Na F2 V
+3122          3122 X000000-0    As Lo Ni           012 Na M3 V
+3125          3125 X475000-0    Lo Ni              024 Na F8 V M3 D
+3127          3127 X855000-0    Lo Ni              012 Na G6 V M3 D
+3227          3227 X899000-0    Lo Ni              000 Na F1 V

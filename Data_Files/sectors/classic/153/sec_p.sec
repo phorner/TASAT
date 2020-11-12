@@ -1,0 +1,36 @@
+@SUB-SECTOR:P SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2533          2533 X555005-0    Lo Ni              012 Na  
+2535          2535 X89A001-1    Lo Ni Wa           012 Na  
+2536          2536 X333000-4    Ba Lo Ni Po        014 Na  
+2537          2537 X445000-1    Ba Lo Ni           013 Na  
+2538          2538 X200024-0    Lo Ni Va           004 Na  
+2540          2540 X627010-0    Lo Ni              004 Na  
+2634          2634 X797003-1    Lo Ni              004 Na  
+2638          2638 X97A022-4    Lo Ni Wa           000 Na  
+2640          2640 XAE9011-3    Fl Lo Ni           004 Na  
+2733          2733 X100000-5    Ba Lo Ni Va        011 Na  
+2739          2739 X795012-2    Lo Ni              004 Na  
+2832          2832 X531002-2    Lo Ni Po           003 Na  
+2833          2833 XAE5003-3    Fl Lo Ni           000 Na  
+2840          2840 X8A2010-0    Fl Lo Ni           003 Na  
+2931          2931 X233001-0    Lo Ni Po           004 Na  
+2932          2932 X639001-0    Lo Ni              000 Na  
+2935          2935 X446043-1    Lo Ni              002 Na  
+3034          3034 X443042-0    Lo Ni Po           003 Na  
+Raver         3039 D738555-8  S Ni                 600 Wd  
+3132          3132 XAE7034-2    Fl Lo Ni           004 Na  
+3133          3133 X310031-0    Lo Ni              000 Na  
+3134          3134 X100033-3    Lo Ni Va           014 Na  
+Lyon          3139 C7A0501-B    De Ni              824 Wd  
+Orin          3140 C79869C-8    Ag Ni              900 Wd  
+3234          3234 X665046-0    Lo Ni              014 Na  
+Pape          3238 C598720-5    Ag                 320 Wd  
+Mujo          3239 C210457-9    Ni                 303 Wd  

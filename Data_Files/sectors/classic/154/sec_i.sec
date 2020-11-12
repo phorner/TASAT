@@ -1,0 +1,27 @@
+@SUB-SECTOR:District Nw31 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Torial        0122 D200857-9  S Na Va              523 So F8 V
+Rutledge      0123 D324400-9    Ni                 922 So M0 V
+Ellinas       0229 B511899-9  2 Ic Na              603 So G0 V
+Edith         0321 D666100-6  S Lo Ni              814 So G2 V M6 D
+Fifeda        0323 D611200-4  S Ic Lo Ni           300 So K4 V
+Baden         0327 B000411-B    As Ni              903 So G0 V M7 D
+Maoltuile     0329 B886730-8  S Ag                 103 So F4 V M8 D
+Gerry         0422 D466424-7  S Ni                 903 So F4 V M3 D
+Talbot        0426 B8B4510-9  S Fl Ni              402 So F7 V M0 D
+Zardeth       0522 D887310-6  S Lo Ni              404 So F7 V M5 D
+Boyce         0621 C423487-8  S Ni Po              605 So G8 V
+Revennaugh    0622 D000595-7  S As Ni              104 So M9 V M5 D
+Fogtar        0623 D5636A8-4    Ni                 303 So F4 V
+Voxv          0624 D665435-2    Ni                 802 So G3 V
+Barke         0721 C366279-7  S Lo Ni              203 So F6 V
+Hazel         0728 C2106BE-A  S Na Ni              332 So M9 V M1 D
+Mackey        0822 C4008DE-4  S Na Va              914 So F3 V
+Grymston      0828 C7A3498-5  S Fl Ni              803 So F8 V

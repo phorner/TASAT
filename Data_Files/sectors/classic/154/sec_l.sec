@@ -1,0 +1,25 @@
+@SUB-SECTOR:Liebenraun SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+2526          2526 X223014-0    Lo Ni Po           002 Na M2 III M3 D
+Ans           2722 D400887-3    Na Va              802 So G8 V
+Aemete        2730 B6347AD-7                       101 Dg M3 V
+Brigham       2921 D799565-3  S Ni                 904 So G4 V
+2926          2926 X477011-0    Lo Ni              010 Na F9 V M3 D
+2927          2927 X000000-5    As Ba Lo Ni        000 Na G1 V M5 D
+Daud          2930 B7B3144-8  S Fl Lo Ni           524 Dg M3 V
+Huron         3021 D244457-8    Ni                 503 So K8 V M4 D
+Felicidad     3029 B224243-9    Lo Ni              103 Dg G5 IV M4 V
+Custyn        3122 D340233-4  S De Lo Ni Po        111 So F8 V
+3125          3125 X436000-2    Ba Lo Ni           010 Na M6 V
+3126          3126 X523000-4    Ba Lo Ni Po        003 Na F9 V M9 D
+3224          3224 X6A2013-3    Fl Lo Ni           022 Na M6 V M4 D
+3227          3227 X8C4000-1    Ba Fl Lo Ni        003 Na M8 V
+3228          3228 X995003-0    Lo Ni              013 Na K5 V
+3229          3229 X86A000-1    Ba Lo Ni Wa        014 Na F9 V

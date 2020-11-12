@@ -1,0 +1,26 @@
+@SUB-SECTOR:Langere SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+0917          0917 B858300-9    Lo Ni              204 Hv G9 V
+0920          0920 B321524-B    Ni Po              803 Hv G9 IV
+1013          1013 A466427-A    Ni                 604 Hv F6 V M8 D
+1017          1017 A676851-B  2                    901 Hv F1 V M5 D
+1018          1018 C321775-A  S Na Po              403 Hv M7 V M1 D
+1119          1119 C300331-7    Lo Ni Va           324 Hv M4 IV
+1214          1214 AA88104-C  N Lo Ni              502 Hv F7 V
+1216          1216 B784347-A  N Lo Ni              313 Hv G9 V M0 D
+1311          1311 E98A345-4    Lo Ni Wa           220 Hv F8 V M4 D
+1315          1315 A241646-D    Ni Po              304 Hv F0 V M6 D
+1317          1317 B63778C-7                       402 Hv M8 V
+1416          1416 B210121-8    Lo Ni              615 Hv M3 V M7 V
+1515          1515 A222313-B    Lo Ni Po           215 Hv M9 V
+1518          1518 C200566-9    Ni Va              704 Hv M3 V
+1519          1519 A756411-C  S Ni                 605 Hv F2 V
+1611          1611 E402678-6    Ic Na Ni Va        130 Hv F1 V
+1614          1614 A200645-D  N Na Ni Va           100 Hv M6 V

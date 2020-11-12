@@ -1,0 +1,28 @@
+@SUB-SECTOR:Goby-Nitza SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+1711          1711 D240322-8    De Lo Ni Po        805 Hv F8 V M4 D
+1714          1714 B564577-7    Ag Ni              800 Hv F8 V
+1717          1717 B35478B-8    Ag                 103 Hv F2 V M7 D
+1811          1811 D224766-5                       915 Hv M2 V
+1817          1817 B320457-D    De Ni Po           903 Hv F3 V
+1912          1912 D466769-3    Ag Ri              202 Hv F5 V
+1916          1916 B210ABE-B  N Hi Na              223 Hv F2 V M6 D
+1918          1918 B300679-8  2 Na Ni Va           814 Hv M2 IV
+2018          2018 D535378-5    Lo Ni              804 Hv M0 V M6 D
+2019          2019 D561044-5  S Lo Ni              700 Hv G3 V M0 D
+2020          2020 B637468-8  N Ni                 903 Hv G9 V
+2111          2111 B598ACE-B  N Hi In              200 Hv F5 V
+2112          2112 B9B9588-C  2 Fl Ni              810 Hv G4 V
+2117          2117 DA8A435-7    Ni Wa              100 Hv F4 V
+2118          2118 DAB57BD-2  S Fl                 913 Hv M5 IV M2 D
+2120          2120 D320542-4    De Ni Po           504 Hv K8 V M4 D
+2313          2313 B988143-6  S Lo Ni              720 Hv G9 V
+2314          2314 C693652-5    Ni                 211 Hv G5 V M5 D
+2417          2417 B491686-B  2 Ni                 500 Hv M5 V

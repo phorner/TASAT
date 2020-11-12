@@ -1,0 +1,38 @@
+@SUB-SECTOR:Grange SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2511          2511 X110000-0    Lo Ni              013 Na F5 III M7 D
+2514          2514 X7C5000-0    Ba Fl Lo Ni        003 Na K4 V M2 D
+2518          2518 X7A2000-0    Ba Fl Lo Ni        004 Na M3 V M1 D
+2615          2615 X200000-0    Ba Lo Ni Va        013 Na M8 V M6 D
+2712          2712 X636000-0    Ba Lo Ni           014 Na G8 III
+2719          2719 X000000-0    As Lo Ni           014 Na G8 IV
+2813          2813 X452000-0    Ba Lo Ni Po        004 Na F5 V
+2815          2815 X481000-0    Ba Lo Ni           000 Na F5 V
+2816          2816 X100000-0    Lo Ni Va           022 Na M3 V K9 D
+2911          2911 X9D7000-0    Fl Lo Ni           012 Na F9 V
+2917          2917 X693000-0    Lo Ni              004 Na K2 V
+3016          3016 X554000-0    Lo Ni              003 Na G9 V
+3111          3111 X959000-0    Lo Ni              000 Na F0 V

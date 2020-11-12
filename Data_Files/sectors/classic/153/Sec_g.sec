@@ -1,0 +1,26 @@
+@SUB-SECTOR:G SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Delia         1715 C545322-4    Lo Ni              103 So  
+Veneto        1717 C100540-8    Ni Va              200 So  
+Balboa        1718 C350200-8    De Lo Ni Po        314 So  
+Doolittle     1814 C664638-5  S Ag Ni              524 So  
+Franklin      1920 E536896-4                       114 So  
+Bhutan        2011 E100466-6    Ni Va              102 So  
+Aeccesstane   2012 D433254-6  S Lo Ni Po           203 So  
+Crum          2013 D325255-7    Lo Ni              415 So  
+Shiphard      2018 E22279C-6    Na Po              412 So  
+Akkad         2111 C566455-7  S Ni                 504 So  
+Ffayrell      2112 A110896-E    Na                 814 So  
+Coletta       2313 C676324-5    Lo Ni              214 So  
+Coke          2315 C67398A-5    Hi In              904 So  
+Inter         2317 D495530-8  S Ag Ni              813 So  
+Honolulu      2318 D5889CA-3    Hi                 924 So  
+Manchester    2411 A8B3763-A  S Fl                 420 So  
+Serinda       2419 E35458C-3    Ag Ni              802 So  

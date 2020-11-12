@@ -1,0 +1,40 @@
+@SUB-SECTOR:Dante SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+2502          2502 X374000-0    Ba Lo Ni           032 Na F5 V
+2505          2505 X846000-0    Lo Ni              023 Na F0 V
+2508          2508 X662000-0    Ba Lo Ni           010 Na F9 V
+2605          2605 X484000-0    Lo Ni              004 Na F9 V
+2609          2609 X9B6000-0    Fl Lo Ni           024 Na G8 V
+2704          2704 X355000-0    Lo Ni              025 Na F8 V M2 D
+2902          2902 X697000-0    Ba Lo Ni           013 Na F4 V
+2903          2903 X200000-0    Ba Lo Ni Va        023 Na G8 V
+2908          2908 X669000-0    Lo Ni              013 Na F6 V
+3001          3001 X323000-0    Lo Ni Po           003 Na F6 V M5 D
+3003          3003 X211000-0    Ba Ic Lo Ni        012 Na M0 IV
+3006          3006 X140000-0    Ba De Lo Ni Po     002 Na G8 V
+3109          3109 X876000-0    Ba Lo Ni           024 Na G0 V
+3204          3204 X110000-0    Ba Lo Ni           012 Na M3 III M5 V M9 D
+3207          3207 X533000-0    Lo Ni Po           004 Na M5 V M0 D

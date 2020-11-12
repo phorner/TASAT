@@ -1,0 +1,29 @@
+@SUB-SECTOR:District Nw12 SECTOR:Neworld
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lutz          0908 D79A8C7-6    Wa                 602 So F4 V
+Levine        0909 D3306A7-8  S De Na Ni Po        904 So K3 V M4 D
+Hias          0910 E584267-7    Lo Ni              404 So F4 V
+Slyngkesby    1003 E9A4354-6    Fl Lo Ni           904 So K4 III M8 D
+Sesay         1007 E5107A9-6    Na                 222 So F6 V
+Ely           1101 E795843-5                       703 So F7 V M9 D
+Arnhold       1105 E753257-5    Lo Ni Po           514 So F9 V
+Corbett       1209 B658000-9  N Ba Lo Ni           925 So F6 V
+Christine     1303 D472574-6    Ni                 602 So F0 V M2 D
+Mandricardo   1307 B528450-A  N Ni                 312 So M3 V
+Sherwin       1401 E202404-A    Ic Ni Va           404 So F2 II
+Perez         1405 E654400-4    Ni                 203 So M6 V
+Toto          1408 E8A4443-8    Fl Ni              224 So M3 V M2 V
+Penh          1409 E210200-9    Lo Ni              503 So K0 V M7 D
+Rexor         1410 E978003-2    Lo Ni              924 So F2 V M9 D
+Acorn         1503 E628301-9    Lo Ni              905 So M2 V
+Maildun       1505 E241736-4    Po                 301 So K6 V M1 D
+Kirek         1506 E364840-4    Ri                 704 So F6 V
+Baylor        1510 E484456-7    Ni                 510 So M5 V
+Theseus       1608 A664444-8    Ni                 824 So F2 V

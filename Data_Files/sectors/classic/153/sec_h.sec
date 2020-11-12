@@ -1,0 +1,26 @@
+@SUB-SECTOR:H SECTOR:Aldebaran
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Cushing       2511 C7A4542-9  S Fl Ni              313 So  
+Janos         2519 E467333-7    Lo Ni              300 So  
+Kurt          2615 C7A6524-9  S Fl Ni              204 So  
+Haruald       2619 E75A677-7    Ni Wa              401 So  
+Githeon       2714 C435300-7    Lo Ni              532 So  
+Bess          2715 C64A525-6    Ni Wa              403 So  
+Gode          2719 E684776-2    Ag Ri              811 So  
+Salmo         2811 BAF68DF-7    Fl                 202 So  
+Sloisa        2818 E677110-2    Lo Ni              602 So  
+Ced           2913 C331963-8  S Hi In Na Po        710 So  
+Cerise        2916 C510000-8  S Ba Lo Ni           814 So  
+Stratton      3111 C402311-B    Ic Lo Ni Va        424 So  
+Intejag       3113 B628645-6  S Ni                 504 So  
+Riger         3215 D333234-5    Lo Ni Po           503 So  
+Spem          3216 D22589C-6                       700 So  
+Brownell      3219 C5A0562-6  S De Ni              502 So  
+Maseru        3220 C647445-4  S Ni                 303 So  

@@ -1,0 +1,43 @@
+@SUB-SECTOR:Delsun SECTOR:Banners
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+1035          1035 X574000-0    Ba Lo Ni           001 Na F3 V M2 D
+1038          1038 X310000-0    Ba Lo Ni           003 Na A9 V
+1040          1040 X656000-0    Ba Lo Ni           012 Na F0 V M5 D
+1131          1131 X478001-0    Lo Ni              000 Na F8 V
+1134          1134 X7B1000-3    Ba Fl Lo Ni        004 Na M8 V M9 D
+Mathematik    1137 B684367-6  A Lo Ni              903 Dc F2 V M2 V
+Cormmom       1235 C221887-8    Na Po              622 Dc F0 V M3 D
+1331          1331 X657000-0    Ba Lo Ni           004 Na F2 V M3 D
+1334          1334 X685000-0    Ba Lo Ni           000 Na F2 V M8 D
+Lauderdale    1336 C757120-8  S Lo Ni              410 Dc F0 V M5 D
+Kenobi        1337 C366448-9  S Ni                 313 Dc F0 V
+1432          1432 X000000-0    As Lo Ni           010 Na K5 V
+1433          1433 X8B2000-0    Fl Lo Ni           003 Na G6 V M3 D M4 V
+1434          1434 X83A000-0    Lo Ni Wa           003 Na M8 V
+1536          1536 X686000-0    Lo Ni              013 Na F8 V
+1538          1538 X412000-0    Ic Lo Ni           005 Na A0 V G4 D
+1539          1539 X100000-0    Lo Ni Va           000 Na M8 IV
+1640          1640 X000000-0    As Lo Ni           015 Na G3 V

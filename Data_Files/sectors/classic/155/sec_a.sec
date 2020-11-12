@@ -1,0 +1,28 @@
+@SUB-SECTOR:Langley SECTOR:Langere
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Waht          0107 X465764-2    Ag Ri              921 So G2 V M8 D
+Farnor        0302 C3216A9-6  S Na Ni Po           301 So G7 III
+Koydl         0303 X675545-0    Ag Ni              424 So K7 V
+York          0306 C649AAD-C  S Hi In              100 So F4 V M6 D
+Kessius       0308 B57567A-6  S Ag Ni              704 So F4 V M6 D
+Palmolive     0408 B647687-9    Ag Ni              204 So M3 V
+Christmas     0409 B595135-7    Lo Ni              610 So K2 V M8 D
+Jarrek        0509 B95A345-D  N Lo Ni Wa           322 So G1 V M8 D M8 D
+Effie         0510 B110589-A  2 Ni                 714 So M8 V
+Rodrigo       0601 C759366-5    Lo Ni              323 So G5 V
+Circe         0607 C200445-B    Ni Va              404 So M8 V
+Zin           0610 B8A1486-7    Fl Ni              715 So M4 V M0 D
+Rhea          0706 B336411-9  N Ni                 923 So M5 V M8 D
+Merythe       0708 C200458-7  S Ni Va              501 So M2 V
+Alvarez       0710 A000100-H    As Lo Ni           524 So F8 V M0 D
+Ridge         0801 C46469A-4    Ag Ni Ri           214 So F5 V M7 D
+Fordham       0802 C510587-A  S Ni                 922 So K8 V
+Johnsen       0803 C67447A-6    Ni                 504 So F8 V
+Gwyddno       0809 C66A878-5  S Ri Wa              702 So F3 V M7 D
