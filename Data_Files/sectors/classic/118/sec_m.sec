@@ -1,0 +1,43 @@
+@SUB-SECTOR:Nicosia SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0334 0330 0 -1
+$0732 0330 0 -1
+$0732 0829 0 -1
+$0334 0437 0 0
+$0437 0640 0 0
+$0640 0601 0 1
+$0640 0738 0 0
+$0437 0738 0 0
+$0738 1139 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Arvid         0131 A9C7866-E    Fl                 425 Im M3 VI M7 D
+Keipes        0132 A6778BC-B  N                    311 Im K3 V
+Atrase        0134 A68A357-C    Lo Ni Wa           315 Im M3 V M2 D
+Savjanni      0135 A330764-E  S De Na Po           103 Im K1 V M0 D
+Svarla        0137 B200765-D  S Na Va              201 Im M3 V M4 D
+Nicosia       0138 A56667A-C  N Ag Ni Ri           411 Im K4 V M2 D
+Thorell       0231 X510276-0    Lo Ni           R  720 Im M6 IV
+Kresek        0236 C8C7675-A    Fl Ni              302 Im M0 V M1 D
+Peirsma       0240 A000646-D    As Na Ni           210 Im M0 V
+Buhle         0334 A51099B-F  A Hi In Na           404 Im K2 IV
+Trybec        0336 B443610-E  S Ni Po              603 Im K0 V
+Rohit         0337 C110543-C    Ni                 222 Im M0 V M3 D
+Adrian        0432 A42667A-E    Ni                 103 Im M7 VI
+Fija          0434 C553754-D  S Po                 605 Im K1 V M0 D
+Macis         0436 A8C5856-B  N Fl                 824 Im G2 V M8 D
+Vezina        0437 B344778-F  W Ag              A  804 Im M3 D M3 D
+Lancer        0439 C55A657-A  S Ni Wa              914 Im M3 D M6 D
+Galos         0535 C576664-9  S Ag Ni              504 Im M2 V K7 D
+Zloff         0632 C674666-8    Ag Ni              302 Im K2 V
+Schall        0638 X47A113-5    Lo Ni Wa        R  534 Im G7 V M3 D
+Seliga        0640 A532747-F  A Na Po              801 Im M0 V
+Hite          0732 B4478A9-F  N                    913 Im K4 V
+Kruyter       0735 A000475-B    As Ni              203 Im M2 V
+Fuetz         0737 A267437-C    Ni                 304 Im M4 V M7 D
+Vras          0738 A78A773-F    Wa Ri              704 Im M2 V
+Conner        0840 A31058A-A  S Ni                 303 Im M1 V

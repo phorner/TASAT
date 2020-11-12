@@ -1,0 +1,37 @@
+@SUB-SECTOR:Shumisdi SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Frock         0931 D5A49A9-C    Hi                 711 Im K2 V
+              0932 D696754-9  S Ag                 222 Im F3 V
+              0935 E200767-9    Va Na              204 Im M4 V M5 D
+              0936 C998565-A    D0 Ni Ag           601 Im M4 V
+              0938 E743689-7    Ni Po              302 Im M3 III
+Dilkon        0940 E529675-7                       900 Im 
+              1031 B451510-E    D7 Ni Po           113 Im M3 V
+              1034 E654401-B    Ni                 204 Im M6 D
+              1035 A210227-F    Ni                 603 Im M3 IV
+Frey          1133 B5369B6-E    Hi                 204 Im M5 V
+              1136 B100847-E  N Va Na              704 Im K8 V
+              1138 E534333-B    Ni                 513 Im M3 V
+Adryanne      1139 D530554-7                       711 Im 
+              1233 E344201-C    Ni                 924 Im M8 V
+              1236 B796200-D    Ni                 100 Im M7 V M0 VI
+              1331 E371403-B    C3 Ni           A  504 Im M3 V M7 D
+              1336 C463634-B    C4 Ni              225 Im K5 II
+              1338 E000100-E    Ni As              824 Im M0 V M1 D
+Nape          1339 E000695-6                       524 Im 
+Dawns         1340 B656745-5                       202 Im
+              1433 E2547B8-8    Ag                 503 Im G0 V
+              1435 C100376-E    Ni Va              303 Im A9 V K8 D
+Garaag        1438 D380686-5                       312 Im 
+Obidos        1440 C000754-A                       822 Im 
+              1536 EA887BB-7    Ag                 910 Im K4 V
+Prestwick     1639 C76A558-8                       502 Im 
+Biremeruun    1640 C9867BB-5                       610 Im 
+

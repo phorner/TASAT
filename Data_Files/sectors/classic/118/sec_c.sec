@@ -1,0 +1,49 @@
+@SUB-SECTOR:Ahrhi SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1702 1604 -1 0
+$1702 1802 0 0
+$1802 1803 0 0
+$1803 1904 0 0
+$1904 2204 0 0
+$2204 2405 0 0
+$2405 2605 1 0
+$1904 1805 0 0
+$1805 2006 0 0
+$1805 1806 0 0
+$1806 1909 0 0
+$1909 1809 0 0
+$1909 1911 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dredel        1702 A257110-A    Lo Ni              823 Im A8 III M0 V
+Shilhen       1709 D565220-5  S Lo Ni              921 Im M7 V
+Yestor        1710 C667478-4  S Ni                 904 Im K1 V M8 D M2 D
+Simblent      1802 A57A651-D    Ni Wa              901 Im M3 VI M3 D
+Ahri          1803 C357A95-B  S Hi                 703 Im M4 IV M9 D
+Lhmoore       1804 A122959-A    Hi In Na Po        223 Im F2 D
+Zell          1805 B8A6358-D    Fl Lo Ni           623 Im M1 V
+Abeare        1806 B453543-8  N Ni Po              412 Im K1 V
+Louks         1809 D9DA613-9  S Fl Ni Wa           704 Im M3 V M3 D
+Fulinara      1904 C566336-6    Lo Ni           A  723 Im M2 D M7 D
+Debruler      1906 C9A6200-8  S Fl Lo Ni           104 Im M6 V M5 D
+Algren        1907 E653754-7    Po              A  712 Im M2 V
+Silvis        1909 B34459E-7    Ag Ni              803 Im M8 D
+Biros         1910 B594258-9    Lo Ni              604 Im K7 V
+Ince          2003 D465200-6  S Lo Ni              100 Im G0 VI M0 D
+Arend         2004 EAB8495-8    Fl Ni              300 Im K2 V M0 D
+134-635       2005 X6A5000-0    Ba Fl Lo Ni     R  713 Im K2 VI
+Dese          2006 B57A887-9  N Wa                 624 Im M3 III
+Phoub         2008 E447311-7    Lo Ni              503 Im M6 II
+Drand         2103 B544744-8  S Ag                 501 Im M1 V
+Yeaph         2105 D675349-6  S Lo Ni              104 Im K8 V
+Thal          2203 B599144-9    Lo Ni              601 Im M5 V
+Imdra         2204 D867447-6    Ni                 102 Im M2 V
+Millington    2210 C48A789-7    Wa Ri           A  901 Im G1 V M0 D
+Vate          2305 B22168A-A  N Na Ni Po           403 Im G1 V M4 D
+Tesb          2403 D77A544-7    Ni Wa              603 Im K3 V
+Calan         2405 C834110-9    Lo Ni              404 Im G3 II
+Kize          2410 C100135-B    Lo Ni Va           110 Im M3 V M3 D

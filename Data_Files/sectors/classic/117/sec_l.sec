@@ -1,0 +1,37 @@
+@SUB-SECTOR:Promise SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2521 D7B1430-9    Ni                 103 Im G2 V
+              2524 D454634-8    Ni Ag              305 Im G0 V
+              2528 C342231-D    Ni Po              215 Im G3 V
+              2724 B100165-F    Ni Va              123 Im M3 V
+              2725 D7677A8-7    C1 Ag           A  114 Im M1 V
+              2728 B846647-C    Ni Ag              302 Im M0 V
+              2729 A769895-F    Ri                 524 Im K3 V M9 D
+              2825 B3428C9-C    Po              A  605 Im K4 VI M6 D
+Promise       2827 A542999-F    Hi In Po           502 Im M1 V
+              2830 E232888-A    Po Na              403 Im M4 V
+              2922 B535321-F  N D0 Ni           A  912 Im M4 V M9 D
+              2925 A245666-F    Ni Ag           A  503 Im M5 V
+              2926 B65A577-F    Ni Wa              703 Im M2 V M5 D
+              2927 A000599-F    Ni As              314 Im M0 V
+              2929 A200442-F  N Ni Va              911 Im G1 V
+              2930 C684588-A    Ni Ag              303 Im M1 V
+              3022 C354855-C                       114 Im M7 II
+              3023 B559230-D    Ni                 623 Im M6 V M3 D
+              3027 X443201-7    Ni Po           R  822 Im M3 V M4 D
+              3029 D100577-D    Ni Va              113 Im M3 V
+              3030 C9B6525-C    Ni                 733 Im K2 VI M4 D
+              3121 B110725-F    Na                 203 Im K2 III
+              3123 A456527-F    Ni Ag              104 Im M1 V M9 D M6 D
+              3126 B878322-D    Ni                 703 Im K7 V
+              3129 C766530-A    Ni Ag              405 Im M4 V M3 D
+              3224 B300864-F    Va Na              202 Im M2 V M6 D
+              3225 E100223-B    Ni Va              424 Im G6 V
+              3228 B527485-F    Ni                 312 Im K2 V M2 D

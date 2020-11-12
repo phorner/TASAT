@@ -1,0 +1,69 @@
+@SUB-SECTOR:Quinoid SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1004 1104 0 0
+$1004 1105 0 0
+$1104 1106 0 0
+$1106 1006 0 0
+$1106 1306 0 0
+$1106 1311 0 1
+$1104 1202 0 0
+$1202 1401 0 0
+$1401 1503 0 0
+$1503 1403 0 0
+$1503 1603 0 0
+$1603 1604 0 0
+$1306 1202 0 0
+$1306 1205 0 0
+$1306 1208 0 0
+$1306 1507 0 0
+$1306 1403 0 0
+$1306 1604 0 0
+$1604 1702 1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tarpeian      0908 XA83421-5    Ni              R  600 Im M4 V M4 D
+Paragon       0909 B766655-C    Ag Ni Ri           602 Im M2 V
+Sternway      1002 B784644-A  S Ag Ni Ri           605 Im M2 V M2 D
+Sidrat        1004 A122655-F    Na Ni Po           524 Im M8 VI
+Serpila       1006 A674A98-F  S Hi In              503 Im M4 IV M5 D
+Safire        1007 A96A657-E    Ni Wa Ri           900 Im M3 V
+Kase          1008 C887744-7  S Ag Ri              311 Im M7 VI M5 D
+Montero       1010 A865644-C    Ag Ni Ri           704 Im M4 IV
+Mizar-5       1101 C210500-C    Ni                 602 Im K0 V
+Talien        1104 A84897A-E    Hi In              814 Im K4 V M0 D
+Estrem        1105 B672999-C    Hi In              522 Im M0 V K6 D
+Vaward        1106 A795A99-F  N Hi In              102 Im M0 V M7 D
+Quin          1201 B000665-D    As Na Ni           401 Im M3 V M8 D
+Tricard       1202 A773A89-F    Hi In              214 Im G3 V
+Margate       1203 A689653-D    Ni Ri              420 Im M1 V
+Jone          1205 A310565-F  S Ni                 904 Im M0 V M9 D
+Darby         1206 A465665-D    Ag Ni Ri           604 Im K3 V
+Sygma         1208 A99A699-E  N Ni Wa              110 Im M2 V
+Tantal        1301 C000564-C  S As Ni              800 Im K1 V
+Arzhent       1302 B000564-E  S As Ni              101 Im M4 V
+Farina        1303 A767745-C    Ag Ri              800 Im M4 V
+Thurber       1305 CAA1694-9    Fl Ni              134 Im M2 V M8 D
+Veraq         1306 A86585A-F    Ri                 703 Im M1 V
+Issek         1307 B679634-B  S Ni                 500 Im K1 V M9 D
+Zetta         1309 B221766-B  S Na Po              820 Im M9 VI
+Palique       1310 A4686C8-C    Ag Ni              500 Im K8 IV M9 D
+Pallad        1401 A000665-F    As Na Ni           604 Im K1 V
+Andicotte     1403 B626996-C    Hi In              223 Im M4 V
+Aristera      1405 A567768-C  N Ag Ri              501 Im M1 V M8 D
+Levan         1408 C4128AA-9    Ic Na              303 Im M1 V
+Antres        1502 D839568-7    Ni                 704 Im M3 V M5 D
+Terzin        1503 A444AAA-F  N Hi In              304 Im G3 V
+Scytha        1504 C455511-9  S Ag Ni              310 Im M2 V
+Leome         1507 B672989-A    Hi In              501 Im M3 V
+Treviere      1508 B364743-A    Ag Ri              400 Im K3 V M0 D
+Fezzan        1510 C650644-8    De Ni Po           503 Im K0 V
+Sardis        1602 B554764-A  S Ag                 700 Im G2 V
+Chayne        1603 A211522-F    Ic Ni              605 Im K1 V
+Medallion     1604 A110511-F  N Ni                 403 Im G0 V
+Krupp         1605 C588736-7    Ag                 102 Im G0 V
+Gryphon       1609 A124513-D  S Ni                 401 Im M2 V
+Darius        1610 B455757-A    Ag                 302 Im M1 V M9 D

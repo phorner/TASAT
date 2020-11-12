@@ -1,0 +1,32 @@
+@SUB-SECTOR:Madoc SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1733 BAA7203-E  N Ni                 800 Im G4 V
+              1737 C8D5359-C    Ni                 812 Im M5 V
+Galuuda       1739 E79A883-5                       402 Im 
+Berens        1740 A846143-A                       911 Im 
+Dinklewater   1838 B98A213-B                       514 Im 
+Kinos         1840 E55887A-8                       723 Im 
+              1933 C44858B-D    Ni Ag              314 Im M1 V
+              1934 C996786-A    Ag                 802 Im K0 D
+              1938 D768321-9    Ni                 103 Im M9 V
+              2031 A110748-F    Na                 603 Im G2 V
+              2037 C694896-A                    A  103 Im M4 V M8 D
+Epic          2040 E434745-4                       912 Im 
+              2134 D53A010-C  S Ni Wa              902 Im M4 V
+              2136 A67A338-F    Ni Wa              412 Im K0 II
+              2236 A784220-F    Ni                 605 Im M6 IV K5 V
+              2333 B444736-E    Ag                 514 Im M2 V M0 D
+              2334 C225666-B    Ni              A  524 Im M9 III
+              2338 D559348-9    Ni                 803 Im M2 V
+Kelvin        2340 B6409BB-9                       604 Im M6 V M2 D
+              2434 B100664-F    Ni Va Na           110 Im M3 V M9 D
+Forgotten     2438 E630886-5                       401 Im 
+              2440 E5508C8-5                       500 Im
+

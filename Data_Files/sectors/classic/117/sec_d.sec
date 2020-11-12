@@ -1,0 +1,44 @@
+@SUB-SECTOR:Khavle SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2501 A422553-F    Ni Po              403 Im K1 V
+              2503 C472676-C    Ni                 904 Im M0 V
+Forward       2504 C83899A-D    Hi                 513 Im M2 VI M9 D
+              2508 B7B3204-F    Ni                 504 Im G1 V
+              2509 C654868-A                       711 Im K7 II M3 V
+              2604 B6877A5-D    Ag              A  903 Im G0 V
+Khavle        2605 B334965-F  S Hi                 705 Im M4 V
+              2606 B62A445-F    Ni Wa              403 Im K4 V M0 D
+              2609 E231574-C    Ni Po           A  121 Im M2 V
+              2701 C853724-9    Po                 912 Im K8 IV
+              2707 B782432-E    Ni                 525 Im F4 V
+              2709 C000325-F    Ni As              904 Im M4 V M0 D
+              2802 C867226-C    Ni                 903 Im M6 IV
+              2806 E445575-B    Ni Ag              815 Im A2 V
+              2807 C224578-E  S Ni                 601 Im M3 V M1 D
+              2901 B331479-F    Ni Po              104 Im M2 V M8 D
+              2905 C792033-B    Ni                 513 Im F5 V M0 D M4 D
+              2906 A454578-F    Ni Ag              404 Im M3 V
+              2908 A7B1344-F  N Ni                 804 Im M4 V
+              2910 A100335-F  N Ni Va              503 Im K1 V M7 D M5 D
+              3001 C483141-C    Ni                 304 Im F7 V M8 D
+              3003 E210101-B    Ni                 612 Im M1 V
+              3004 X794423-4    Ni              R  600 Im M2 V
+              3005 A652532-F  N Ni Po              300 Im M4 V
+              3006 D100556-C    Ni Va              500 Im G2 V
+              3008 A577110-F    Ni                 104 Im M5 V M3 D
+              3009 A69A424-F    Ni Wa              603 Im M0 IV M6 D
+              3102 B423474-F    Ni Po              901 Im G3 V M4 D
+              3104 C656622-B    Ni Ag              404 Im M4 V
+              3109 B557320-C    C4 Ni              620 Im M3 IV M6 D
+              3201 X694889-4                    R  312 Im G4 V
+              3202 E444637-9    Ni Ag              703 Im M4 V
+Aight         3203 C752A99-D    D5 Hi Po           701 Im G2 V
+              3204 C541335-A  S D3 Ni Po        A  904 Im M7 V
+              3206 X626023-6    Ni              R  402 Im G5 V

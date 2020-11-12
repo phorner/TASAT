@@ -1,0 +1,38 @@
+@SUB-SECTOR:Vendtup SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2523 2823 0 0
+$2823 2628 0 0
+$2628 2633 0 1
+$2523 2125 -1 0
+$2628 2329 -1 0
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Usinea        2523 A310939-F    Hi In Na           524 Im G7 VI M8 D
+Vreeland      2524 C553624-D    Ni Po              904 Im K0 V
+092-007       2529 B66A133-D    Lo Ni Wa           802 Im M9 IV M5 D
+New Dakar     2621 B8A176A-D    Fl                 601 Im M1 V
+Vendtup Stati 2622 B769457-C    Ni                 114 Im M3 V
+Porrl         2628 B858258-B    Lo Ni              300 Im M2 IV M0 D
+Lannor        2726 C243755-C    Po                 811 Im M0 V
+Republicos    2727 B64A557-B    Ni Wa              212 Im M2 V
+Vendtup       2728 B64A557-B    Ni Wa              814 Im M0 V
+Albach        2823 B458432-E    Ni                 304 Im M3 V
+Burncloud     2824 CAB3613-9    Fl Ni              712 Im M3 V M4 D
+Ayra          2825 B5217A9-E    Na Po              723 Im M3 III
+Scorch        2828 E541946-7    Hi In Po        A  500 Im G2 V
+Cold Rock     2829 E4006A7-5    Na Ni Va           705 Im M2 II
+Reine         2924 B79A677-7    Ni Wa              904 Im M4 V
+Olorna        2928 C35357A-9    Ni Po              701 Im G1 V M0 D
+Chapet        3025 A510410-E    Ni                 901 Ch M4 VI
+New Titan     3125 B100568-C    Ni Va              903 Ch M0 III M2 D
+Neuruhr       3126 C376546-A    Ag Ni              702 Im M8 D M0 D
+Portrine      3128 A261201-B    Lo Ni              111 Po G3 IV M0 D M9 D
+Lorsch        3223 A89A366-A    Lo Ni Wa           903 En G7 V M4 V
+En Livereh    3224 C98A416-7    Ni Wa              502 En M2 V M1 D
+Haven         3225 A537000-0    Ba Lo Ni           113 Im K7 V M9 VI
+Curuna        3226 A7A3461-C    Fl Ni              604 Po K3 V M4 D M7 D
+Urbain        3229 A4538BC-B    Po                 600 Im M3 V M4 D M9 D

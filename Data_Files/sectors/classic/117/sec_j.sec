@@ -1,0 +1,35 @@
+@SUB-SECTOR:Iusea SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0927 DAC9788-A                       602 Im K1 V
+              0928 A10077A-F    Va Na              500 Im K0 V M9 D
+              0929 E667101-B    Ni                 603 Im G8 V M5 D
+              1021 C7647BC-A    Ag                 612 Im K0 VI M1 D
+              1123 C200102-E    Ni Va              804 Im G5 V M6 D
+              1124 B99A888-F    Wa                 213 Im F6 III M2 D
+              1128 A767885-F    Ri              A  503 Im M0 V M8 D
+Ledge         1223 E658A9B-B    Hi                 201 Im M1 V M0 D
+              1229 E657414-9    Ni                 512 Im G1 V M6 D
+              1230 E532420-A    Ni Po              703 Im F4 V M9 D
+              1321 E100554-E    Ni Va              202 Im M0 V M3 D
+              1324 C200003-E    Ni Va              700 Im M7 II
+Iusea         1325 A454985-F    Hi                 114 Im M8 III
+              1328 E200512-C    Ni Va              224 Im M4 V M4 D
+              1422 X6A2022-4    Ni              R  103 Im G3 II
+              1426 B435488-F    Ni                 612 Im M0 V
+              1521 C553410-B    Ni Po              412 Im K2 V
+              1522 B100877-F  N Va Na              310 Im M5 III
+              1524 A663100-F    Ni                 604 Im K9 V
+              1525 E465314-9    Ni              A  312 Im G6 V
+              1530 C69469D-9    Ni Ag           A  801 Im G2 V M6 D
+              1621 B697733-D  N Ag                 804 Im M5 VI M8 D
+              1622 C100533-F    Ni Va              402 Im G9 III
+              1624 C1006B9-D    Ni Va Na           302 Im M8 IV M7 D
+              1628 C989642-A    Ni Ri              802 Im F1 V
+St. Denis     1630 C1109CB-F    Hi In Na           902 Im A3 III

@@ -1,0 +1,44 @@
+@SUB-SECTOR:Rusco SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$3204 0104 1 0
+$2605 2405 -1 0
+$2605 2706 0 0
+$2706 3006 0 0
+$3006 3204 0 0
+$3204 3102 0 0
+$3102 3240 0 -1
+$2706 2607 0 0
+$2607 2609 0 0
+$2609 2511 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Lamber        2502 C875654-A  S Ag Ni              500 Im K9 D M9 D
+Sonfeld       2510 C6AA523-A    Fl Ni Wa           803 Im M3 V M2 D
+Acrolund      2601 X777770-7    Ag              R  623 Im K0 V
+Carmon        2602 C898854-B                       910 Im M4 V
+Loydecal      2603 A2518AB-E    Po                 402 Im M0 V M4 D
+Benson        2605 C2016B6-A    Ic Na Ni Va        704 Im K2 V M0 D
+Polluc        2607 C000700-B    As Na              804 Im M8 IV M4 D M1 D
+Gilway        2609 A845711-E  A Ag                 403 Im G0 V
+Rannow        2704 B430463-B  A De Ni Po           702 Im M4 V
+Daslon        2705 B8766BE-D    Ag Ni              520 Im M4 V K5 D
+Rusco         2706 A646653-B    Ag Ni              423 Im M4 V
+Makan         2707 B66A558-B  A Ni Wa              812 Im M3 V
+Nautz         2801 C852768-9    Po                 901 Im M0 IV M1 D
+Caborn        2803 C733653-9    Na Ni Po           710 Im M4 V M7 D
+Dycarl        2806 B458776-E    Ag                 805 Im M3 V M4 D
+Zin           2807 B9BA231-E  S Fl Lo Ni Wa        302 Im G3 V
+Horejs        2907 B685510-B    Ag Ni              122 Im M4 V
+Straker       2909 C567610-9    Ag Ni              202 Im M0 II
+Crowell       3003 C678637-9    Ag Ni              604 Im M3 V
+Smales        3004 X5867AF-0    Ag              R  603 Im M3 V
+Voskl         3006 B8439BC-A  A Hi In Po           604 Im G6 IV
+Siaj          3102 C440534-8    De Ni Po           200 Im M2 V M4 D
+Engle         3204 BA578AB-F  N                    423 Im M2 V
+Drakenwald    3206 B9AA436-E  N Fl Ni Wa           100 Im A0 V
+Van Cleef     3209 B110627-D  A Na Ni              412 Cs M2 V M7 D
+Crakatoa      3210 B554977-E    Hi                 224 Na F3 V

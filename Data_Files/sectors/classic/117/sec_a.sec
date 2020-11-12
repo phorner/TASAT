@@ -1,0 +1,38 @@
+@SUB-SECTOR:Narquel SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Aladon        0103 B6579CB-F    Hi                 404 Im G0 V
+              0104 A596444-E    Ni                 115 Im M1 IV
+              0108 E874626-9    Ni Ag              104 Im K2 V
+              0202 B7C0743-E  N De                 803 Im M3 V
+Rann          0206 X89A9AB-8    Hi Wa           R  314 Im K4 V
+              0207 B686567-E  S Ni Ag              304 Im M4 V
+Soyuz         0209 B300948-F    Hi In Va Na        401 Im M0 II
+              0303 C000001-E    Ni As              305 Im A8 V
+              0306 B200544-E    Ni Va           A  923 Im K0 V
+Bayse         0310 X6859A8-7    Hi              R  505 Im K1 V
+              0401 B645352-F    Ni                 104 Im K6 V M6 D
+              0402 A542310-F    Ni Po              423 Im M4 V
+              0406 C6A0200-D    Ni De              110 Im M3 V M0 D
+              0407 C110572-E    Ni                 213 Im M0 V
+              0410 B6A38CE-D                    A  300 Im M2 V K4 D
+              0501 C9C3534-D    Ni                 223 Im M1 V
+              0502 D764686-7    Ni Ri Ag           212 Im G4 V
+              0503 E99A620-9    Ni Wa              601 Im M0 IV M6 D
+              0504 A300898-F  N Va Na              912 Im M3 V
+              0510 B253499-F    Ni Po              224 Im K0 V M3 D
+              0601 B110884-F    Na                 100 Im M1 VI
+Gasudarsk     0605 B100ABE-F    Hi In Va Na        102 Im M3 V
+              0607 B473331-D  N Ni                 700 Im K5 V
+              0608 B8D0685-E    Ni De              910 Im G0 V
+              0609 A624753-F                       505 Im G1 V
+              0701 C55177A-A    Po              A  522 Im M2 V M4 D
+              0705 C666200-D    Ni                 324 Im M1 V M2 D
+Narquel       0709 A1109DG-F    Hi In Na           505 Im K4 V
+              0805 A252505-F    Ni Po              700 Im K2 V
+              0807 C588012-A    Ni                 504 Im G1 V

@@ -1,0 +1,43 @@
+@SUB-SECTOR:Shadigi SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0111 C5868A9-9                       401 Im M1 V
+              0113 X674200-5    Ni              R  812 Im K8 V M4 D
+              0114 C777510-B    Ni Ag              704 Im M3 IV M9 D
+              0116 D789655-9    C0 Ni Ri           214 Im G1 V M4 D
+              0117 B100544-F    Ni Va              204 Im A1 V
+              0120 C4247A8-D                    A  513 Im M3 V M6 D
+              0211 D5A0888-8    De                 902 Im M9 IV
+              0213 C327631-B  S Ni                 404 Im K4 V
+              0214 C100120-F    Ni Va              903 Im K5 V
+              0215 E210320-B    Ni                 704 Im K9 V M6 D
+              0218 E435577-A    Ni                 912 Im M3 V
+              0220 E57649D-9    Ni                 103 Im M2 V M2 D
+              0315 C537521-D    Ni                 313 Im K1 V
+              0413 D110400-C    Ni                 303 Im M1 V M8 D M3 D
+              0414 D574400-B  S Ni                 703 Im M1 V
+              0415 C665862-B    Ri              A  303 Im K6 III M1 D
+              0416 A4448AF-F                       113 Im M4 V G5 D
+              0417 C549799-B                       703 Im K3 V
+              0418 E275521-B    Ni Ag              810 Im G3 V
+              0511 A100362-F  N Ni Va              813 Im K2 V
+Ferry         0512 A647955-F    Hi In           A  203 Im F3 V
+              0514 D374373-B    Ni                 800 Im G6 V
+              0515 C110673-E    Ni Na           A  534 Im M0 V M6 D
+              0516 C773559-C    Ni                 803 Im M4 V M7 VI
+              0518 E68758C-A    Ni Ag              615 Im G2 V M8 D
+              0519 B442221-F  N Ni Po              510 Im K1 VI
+              0616 B6A0000-E    Ni De Ba           725 Im F2 V
+              0617 B323244-F    Ni Po              105 Im M3 V
+              0712 D100100-E    Ni Va              302 Im A8 V
+              0713 E341410-9    Ni Po              204 Im M8 IV K3 D
+              0719 C100732-E    Va Na           A  210 Im M3 V
+              0813 B11068A-E    Ni Na              514 Im M4 V M6 D
+              0819 E100223-C    Ni Va              504 Im M5 III M6 D
+              0820 C100410-D    Ni Va              910 Im G3 V M3 D

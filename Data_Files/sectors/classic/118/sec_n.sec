@@ -1,0 +1,39 @@
+@SUB-SECTOR:Sarid SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1131 1229 0 -1
+$1333 1229 0 -1
+$1139 0738 -1 0
+$1139 1235 0 0
+$1235 1035 0 0
+$1235 1636 0 0
+$1636 1726 1 0
+$1235 1333 0 0
+$1333 1532 0 0
+$1532 1629 0 -1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Herring       0931 X686110-2    Lo Ni              604 Im K3 V M2 D
+Dono          0932 C510611-A    Na Ni              602 Im M1 III M3 D
+Spires        0936 X894654-1    Ag Ni              903 Im G0 IV M4 D
+Heppling      1032 CAAA762-B    Fl Wa              202 Im K4 V
+Saloga        1035 A430425-E    De Ni Po           904 Im M3 V M9 D
+Luhtala       1039 C474600-A    Ag Ni              932 Im M0 V
+Bestor        1131 A110663-E    Na Ni              904 Im G1 V
+Hoff          1139 B585441-A  S Ni                 604 Im M2 V M4 D
+Willow        1234 C648301-A    Lo Ni              110 Im K6 V
+Nemyer        1235 B8469CA-C  W Hi In              703 Im K8 IV
+Corrig        1331 C622620-9    Na Ni Po           803 Im F4 V M9 D
+L'steich      1333 A9A4975-F  S Fl Hi              414 Im K4 V
+Spencer       1338 C89A355-9  S Lo Ni Wa           711 Im M6 V
+Kal           1339 C778400-A    Ni                 902 Im G1 V M8 D
+Nex           1431 A554720-C    Ag                 713 Im M0 V M9 D
+Junak         1432 B671789-D                       703 Im M3 V M9 D
+Teldora       1437 C554754-A    Ag                 803 Im M0 V
+Sarid         1532 B0007A5-D    As Na              604 Im K6 D
+Coast         1540 C400320-B    Lo Ni Va           913 Im M3 V M8 D
+Nimz          1633 C222664-B  S Na Ni Po           200 Im G8 V
+Tuer          1636 B8C2733-E  A Fl                 113 Im A1 V

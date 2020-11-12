@@ -1,0 +1,32 @@
+@SUB-SECTOR:The Blight SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1821 X561410-5    Ni              R  203 Im M9 D
+              1826 B557563-C    Ni Ag              802 Im M1 V
+              1923 E100120-D    Ni Va              323 Im M5 V
+              2022 B665432-E    Ni                 211 Im G0 V
+              2023 E596446-8    Ni                 303 Im M3 V M6 D
+              2124 B000541-F    Ni As              703 Im M3 V
+Moncton       2125 E8A3596-A    Ni Rs              704 Im M3 V
+              2127 E578544-9    Ni Ag              802 Im K5 IV
+              2129 C300110-E    Ni Va              235 Im M1 V
+              2130 A686775-E  S Ri Ag              223 Im M1 V M6 D M2 D
+              2221 E554312-A    Ni                 604 Im G8 VI M9 D
+              2224 B200830-D  N Va Na              100 Im K2 V
+              2225 A978143-F    Ni                 513 Im M4 IV
+              2226 C441676-C    Ni Po              302 Im M3 IV
+              2227 D746599-9    Ni Ag              600 Im K0 IV
+              2229 C886755-C    Ri Ag              702 Im M4 V M5 D M6 D
+              2321 BAD3364-F  N Ni                 503 Im K6 V M0 D
+              2322 D5738BD-8                    A  514 Im M0 V
+              2423 C100312-F    Ni Va              701 Im G1 V M3 D
+Thicket       2424 D45199C-A  S Hi Po              914 Im M1 V
+              2426 C11037A-E    Ni                 513 Im K9 V
+              2429 D356443-B    C0 Ni              300 Im K5 III M6 V
+              2430 C978875-B                       823 Im M2 V

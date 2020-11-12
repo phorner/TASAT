@@ -1,0 +1,49 @@
+@SUB-SECTOR:Karse SECTOR:Old Expanses
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2329 2628 1 0
+$2125 2523 1 0
+$2021 2218 0 -1
+$1721 1822 0 0
+$1822 2125 0 0
+$2125 2228 0 0
+$2228 2229 0 0
+$2228 2329 0 0
+$2228 2030 0 0
+$2030 2031 0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rotal         1721 B546849-C  S                 A  302 Im M4 V M0 D
+Bote          1727 A778761-C    Ag                 200 Im K3 VI M8 D
+Ames          1821 B50087B-B    Na Va              810 Im G1 V
+Ropram        1822 B467ABB-B    Hi                 924 Im M3 V
+Mager         1825 C866710-A  S Ag                 915 Im K6 D M4 D
+Antalan       1826 C435440-A    Ni                 813 Im M3 V
+Rolf          1827 C594769-B    Ag                 903 Im K2 V
+Letron        1829 C27287C-8                    A  501 Im M1 II M3 D
+Cupprio       1922 A665200-B    Lo Ni              514 Im K1 V
+Moppo         1925 B83677A-C                       614 Im M2 V
+Phildelia     1928 B100732-E    Na Va              314 Im G4 V
+Villan        2021 A2319CF-F    Hi Na Po           813 Im K8 III
+Bytor         2022 B543634-B    Ni Po              401 Im K3 V M4 D
+Femerial      2030 A665787-E    Ag Ri              410 Im M3 V M2 D
+Sxip          2123 B796732-D    Ag                 510 Im K1 V
+Barsk         2124 B100896-E    Na Va              811 Im M2 V
+Mexit         2125 B455AA6-F  W Hi                 813 Im M1 V
+Lapper        2126 X455773-1    Ag              R  103 Im K3 V
+Elanor        2127 B333715-D    Na Po              504 Im M5 IV
+Darpi         2130 B453620-C  N Ni Po              802 Im G0 V
+Gonzu         2221 X9DA646-1    Fl Ni Wa        R  400 Im K4 IV
+Harple        2225 B100756-E  S Na Va              212 Im G2 V M5 D
+Traynos       2227 C562662-8    Ni Ri              620 Im M0 V
+Welzer        2228 B579864-E  W                    220 Im K4 V M3 D
+Karse         2229 B241876-F  S Po                 604 Im M0 V M3 D
+Kolop         2325 C662622-9  S Ni                 504 Im K6 III M7 VI
+Samosk        2329 A200976-F    Hi In Na Va        312 Im G1 V
+Goldbach      2422 C445310-A    Lo Ni              302 Im G8 VI M9 D
+Kolipio       2424 X226612-4    Ni              R  305 Im M1 VI
+Allenz        2425 B656135-A    Lo Ni              503 Im M3 V M0 D
+Quest         2428 C766665-C    Ag Ni Ri           722 Im M3 V K8 D

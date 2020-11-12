@@ -1,0 +1,40 @@
+@SUB-SECTOR:Kuushga SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              0913 B326353-F    Ni                 913 Im M8 VI
+              0915 B8A5440-E    Ni                 905 Im K0 IV M3 D
+              0917 CA65237-B    Ni                 835 Im M4 IV
+              0918 A4567CD-F  S C8 Ag              122 Im M0 V
+              1012 E879554-B    Ni                 302 Im M6 II
+              1017 B7796BB-D    Ni                 424 Im G2 V M1 D
+              1019 A100776-F    Va Na              103 Im M4 V M8 D
+              1020 E7B4475-B    Ni                 405 Im K7 III
+Messier       1111 B4639AB-E  N Hi                 314 Im G2 V M6 D M3 D
+              1117 C789537-C    C2 Ni              502 Im M0 V
+              1118 B42267B-F    Ni Po Na           202 Im G1 V
+              1213 E7927A9-7                       804 Im M3 V
+              1216 D67A888-A  S Wa                 302 Im M2 V
+              1219 E85A544-B    Ni Wa              110 Im M0 V
+              1313 E585785-7    Ri Ag              505 Im M7 IV
+              1411 A210654-F    Ni Na              404 Im G5 IV
+              1412 C9C5640-B    Ni                 104 Im A1 VI
+              1415 A200899-F  N Va Na              203 Im K3 III
+              1417 A883520-E  N Ni                 402 Im G2 V
+              1419 B200400-F    Ni Va              504 Im K1 V M1 D
+              1512 X110750-7    Na              R  724 Im M4 II
+              1513 E352210-B    Ni Po              112 Im K8 V M5 D
+              1516 B100426-F    Ni Va              804 Im M4 V
+              1518 A386635-F    Ni Ag              801 Im M3 V M3 D
+              1520 E869673-A    Ni Ri           A  304 Im M2 V M7 D
+              1611 D333687-9    Ni Po Na           214 Im M1 V
+Erobi         1612 E8C39CD-A    Hi                 103 Im M4 V
+              1613 C548675-A    Ni Ag              212 Im K1 V
+              1614 A6A3677-F    Ni                 113 Im M0 V
+              1617 B221134-F    Ni Po              200 Im M7 V
+              1620 X5896A9-5    Ni              R  611 Im M0 V

@@ -1,0 +1,35 @@
+@SUB-SECTOR:Sufren SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1701 A896566-E    Ni Ag              400 Im G2 V M4 D
+              1704 C110433-F    Ni                 324 Im M1 IV M6 D M0 D
+              1707 B462546-F    C5 Ni              603 Im M1 V
+              1708 B89688C-C                       902 Im G1 II
+Navar         1804 C5479DG-B    Hi In              805 Im F9 V
+              1805 B421210-F    Ni Po              903 Im K3 V
+              1807 A444203-F  N Ni                 102 Im K0 V
+Tiasle        1901 D656AFF-B    Hi                 224 Im M9 VI
+              1905 C8C4620-C    Ni                 113 Im M0 V M7 D
+              2003 B74A689-F    Ni Wa              700 Im G0 V M7 D
+Sufren        2004 B686973-F  N Hi An              623 Im M1 V
+Gamov         2104 C0009EF-E    Hi In As Na        801 Im K1 V M2 D
+              2105 C300136-D    Ni Va              301 Im M4 V
+              2201 B100510-F    Ni Va              113 Im M0 V
+              2203 C622756-C    Po Na              814 Im M2 V M1 D
+              2207 A22136A-F    Ni Po              104 Im G0 V M5 D
+              2208 E697576-9    Ni Ag              814 Im G0 V M2 D
+Backman       2209 B55497B-D  N Hi                 103 Im K0 V M0 D
+Neefi         2210 D66A978-C    Hi Wa              602 Im G8 II
+              2304 C100537-F    Ni Va              500 Im M3 V
+              2309 E100145-B    Ni Va              914 Im K3 V M7 D
+Hervestia     2310 C554A76-D    Hi                 703 Im K3 V
+              2401 B523648-C    Ni Po Na        A  713 Im K2 V
+              2402 EA7A630-9    Ni Wa              402 Im G0 V
+              2405 B210463-F  N C0 Ni              211 Im M3 V M7 D
+              2407 C544412-C    Ni                 723 Im K4 V

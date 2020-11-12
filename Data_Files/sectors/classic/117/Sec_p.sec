@@ -1,0 +1,37 @@
+@SUB-SECTOR:Khulam SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              2535 E224444-B    Ni                 803 Im M1 V M6 D
+Boley         2539 C434745-4                       111 Im 
+              2631 C000543-D    Ni As              514 Im G2 V M6 D
+              2632 E100424-C    Ni Va              704 Im M1 V
+              2633 D79A322-A    Ni Wa              913 Im K7 III
+              2635 D527222-9    Ni                 602 Im M7 V
+              2636 E100555-C    Ni Va              404 Im K0 V M6 D
+              2731 B788310-D    Ni                 700 Im M5 V K2 D
+              2734 C682425-C    Ni                 221 Im K4 IV
+              2834 B451464-E    Ni Po              604 Im M4 V
+              2835 C100400-F    C1 Ni Va        A  102 Im M1 V
+              2836 B562768-B    Ri                 104 Im K4 V
+Dijon         2838 A234548-A                       634 Im 
+049-949       2839 X620588-5                       813 Im 
+Suudo         2840 D778535-7                       302 Im 
+              2933 B99A343-F    Ni Wa              104 Im M9 V
+Sofar         2939 A8B4575-8  N                    400 Im 
+              3033 X100436-7    Ni Va           R  305 Im F0 V
+              3034 A10078C-F    Va Na              903 Im M3 V
+              3036 C9A3565-C    Ni                 803 Im M9 VI
+              3131 C684675-A    Ni Ri Ag           920 Im M4 V
+              3132 C868552-C  S Ni Ag           A  410 Im G2 V M9 D
+              3134 D110110-B    Ni                 923 Im M3 V
+Gresham       3138 A1109AE-F    Hi In Na           804 Im M1 V
+Uppsala       3139 C9795BB-6                       512 Im 
+Futok         3140 B594633-A                       901 Im 
+              3231 C1006BC-D    Ni Va Na           403 Im M3 V M2 D
+              3236 C657834-9                       213 Im G1 V

@@ -1,0 +1,48 @@
+@SUB-SECTOR:Alurza SECTOR:Diaspora
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+              1713 E200534-C    Ni Va              123 Im M4 V M9 D
+              1717 E437444-A    Ni                 701 Im G7 VI
+              1814 C457002-D    Ni                 804 Im M2 V
+              1815 C672776-A                       913 Im M2 V
+              1816 D41066B-A    Ni Na              121 Dr M4 V M1 D
+              1818 E75969A-8    Ni              A  113 Im M0 V M5 D
+              1819 E300668-A    Ni Va Na           104 Im K3 V
+              1820 A8A6565-F    Ni                 202 Im M4 V M8 D
+              1911 B658332-D  N Ni                 504 Im A1 IV F9 D
+              1912 E356842-A                       112 Im M0 V
+              1914 C53A88B-E    Wa                 813 Im M2 V
+              1916 C5A1597-D    Ni                 200 Im M4 V M0 D
+              1918 A41025A-F    Ni              A  502 Im M0 VI
+              1919 A110644-F    Ni Na              610 Im M2 V M5 D
+              2012 A100333-F    Ni Va           A  515 Im M6 V M3 D
+              2013 C328687-D    Ni                 302 Im K4 V
+              2015 X787369-5    Ni              R  502 Im M9 V M4 D
+              2018 C000765-D  N As Na              912 Im M4 V M5 D
+              2019 B774385-E    Ni                 404 Im K9 V M1 D
+Bifirs        2112 D643976-9  S Hi In Po           420 Im M2 V M4 D
+              2114 C549599-B    Ni                 802 Im M6 V M3 D M2 D
+              2115 D1006A9-C    Ni Va Na        A  404 Im M0 V
+Kandom        2116 B655967-F    Hi                 804 Im M3 V M8 D
+              2117 A110400-F  N Ni                 203 Im G3 V
+              2118 B100245-F    Ni Va              524 Im M1 V
+Gilboa        2211 E647974-B    Hi In              410 Im M3 V
+              2212 D592541-A    Ni              A  104 Im M0 V
+              2213 B9B8434-E    Ni                 213 Im M1 V
+              2216 A100465-F    Ni Va              400 Im M0 V
+              2311 C200459-E    Ni Va              903 Im M1 V
+              2312 C1108BD-E    Na                 103 Im M1 V
+              2314 B679663-E    Ni                 812 Im M4 V M5 D
+              2317 D100796-A  S Va Na              101 Im K0 V
+              2411 B310885-F    Na                 403 Im M2 V
+              2414 A336645-F    Ni                 114 Im K3 V M3 D
+              2415 C110464-E    Ni                 301 Im M4 V M0 D
+              2417 B100246-F    Ni Va              814 Im K0 V
+              2419 D378200-C  S Ni                 803 Im F7 V
+Layne         2420 C796A9C-D    D7 Hi              305 Im G2 V M3 D
