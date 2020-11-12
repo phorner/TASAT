@@ -1,0 +1,42 @@
+@SUB-SECTOR:Riftin  SECTOR:Gateway
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$2630 2429 -1 0 9
+$2630 2531 0 1 9
+$3128 3229 0 0 5
+$2624 2423 -1 0 14
+$2624 2725 0 0 14
+$2725 2824 0 0 14
+$2725 2727 0 0 14
+$2727 2828 0 0 14
+$2828 2629 0 0 14
+$2629 2630 0 0 14
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+RoughhandReady2521 D789668-9    Ni Ri              712 Sw F0 V
+Kenev         2527 D898114-5    Lo Ni              913 Na F0 V
+Finestre      2624 D5A2003-9    Lo Ni Fl           514 Na M9 V M5 D
+Randrell      2628 E980000-4    Ba De              111 Me F7 V
+Athene        2629 B689657-9    Ni Ri              914 Me F7 V
+Sardis        2630 A876999-B    Hi In              100 Me F8 V M8 D
+Freeport      2722 B646410-A    Ni                 923 Sw F5 V
+Goldstar      2725 B658300-A    Lo Ni              914 Na F5 V
+Azuris        2727 B66A610-9    Wa                 201 Me F4 V
+Lucian        2823 C6A9124-9    Lo Ni Fl           711 Na M5 IV M1 D
+Parmentier    2824 D567669-8    Ag Ni Ri           825 Na G2 V M9 D
+Lov Fennaden  2828 D682232-8    Lo Ni              613 Me M1 V M3 D
+Kotar         2921 C554550-9    Ag Ni              824 Sw F8 V
+Holande       2928 C534373-A    Lo Ni              900 Me M2 V M7 D
+Golar         3024 C87A447-6    Ni Wa              903 Na G5 V
+Vulan         3029 C78866A-9    Ag Ni Ri           524 Re F0 V
+Hotemin       3121 D21356A-8    Ni Ic              111 Na M5 V
+Frantest      3122 B66A736-7  N Wa                 211 Na F4 V
+Quiestreen    3125 B48A677-9    Wa Ni Ri           600 Na F3 V
+Plymar        3128 B554469-A  N Ni                 910 Re G8 V M3 D M3 D
+Grovelunda    3223 A439667-B    Ni                 123 Na A0 III
+Pashendelist  3226 C53786C-A                       601 Re F6 V
+Silest        3229 B99A76E-8  N                    511 Re G2 V
+Xabthar       3230 C643569-8    Lo Ni Po           301 Re F1 V

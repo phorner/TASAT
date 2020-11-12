@@ -1,0 +1,28 @@
+@SUB-SECTOR:Lowton SECTOR:Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Alistar       2503 C120555-A    Ni Po De           810 Na G9 V M6 V
+Nng Min Sa    2506 B477976-B    Hi In              724 Ak F3 V
+Nng Min Ha    2508 D454300-9    Lo Ni              622 Ak K1 V M0 D
+X'kuur'qu'io N2605 X747679-0    Ag Ni           R  713 Ak F6 V
+Gneri Mu Nin  2609 C555555-9    Ag Ni              313 Ak F6 V M8 D
+Drasheveen    2701 C230225-9    Lo Ni Po De        312 Na M0 IV
+Holbert       2704 E243442-4    Lo Ni Po           212 Na F9 V M0 D
+Akeen         2708 B66A232-B    Ni Wa              912 Ak F5 V M5 D
+Jh'nng Mu Nu  2806 C683104-9    Lo Ni              913 Ak F5 V
+Hespitar      2810 C446410-A    Ni                 813 Ak F0 V M7 D
+Fartheron     2903 E564320-6    Lo Ni              423 Na F0 V
+Duranel       3006 E32487B-9                       101 Na F6 V
+Coma          3010 E100586-7    Ni Va              423 Na M9 IV M9 V
+Agarn         3102 B66A777-9    Ri Wa              712 Na F4 V
+Tuckjohn      3105 D567200-7    Lo Ni              900 Na F1 V M0 D M8 D
+Randolph      3108 C140899-A    Po De              112 Na F0 V M9 D M0 D
+Boden         3109 C77A565-7    Ni Wa              612 Na G0 V
+Banserada     3110 B512103-B    Lo Ni Ic           313 Na M4 V
+Alechet       3201 C230225-9    Lo Ni Po De        310 Na M7 II
+Caterplan     3203 C140899-A    Po De              100 Na F5 V M6 D
+Bem           3207 AADA000-C    Ba Ni Fl           111 Na G9 V M1 D

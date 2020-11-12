@@ -1,0 +1,34 @@
+@SUB-SECTOR:Arconna SECTOR:Gateway
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0433 0430 0 -1 13
+$0631 0430 0 -1 13
+$0631 0831 0 0 13
+$0831 1030 1 -1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Harper        0135 E647ABC-9    Hi In              115 Na F9 V M9 D
+Brevin        0140 D463310-A    Lo Ni              120 Na F7 V
+Renaldo       0233 C230668-9    Na Ni Po De        323 Na K2 V M6 V
+Hesperinth    0236 E673675-8    Ni                 905 Na F3 V
+Hadley Station0239 CABA200-8    Fl Wa              713 Na M3 V
+Caldwell      0332 A401654-A  N Na Ni Va Ic        323 Na M9 V
+Baker         0334 B87679B-8  N Ag                 105 Na F9 V
+Thomwell      0337 B7768AB-8                       601 Na G3 V M3 D
+Mork          0340 C558445-4    Ni                 711 Na F3 V
+Dumnar        0433 C554511-7    Ag Ni              700 Ga F2 V M3 D
+Pendejest     0437 CAB2358-7    Lo Ni Fl           821 Na M5 V M1 V
+Monopoly      0534 C88889A-5    Ri                 213 Ga F2 V
+Grom          0536 EAA0300-7    De Lo              601 Na M1 V
+Sanderay      0631 C59A578-9    Wa                 911 Ga F5 V
+Jove          0637 C210643-9    Na Ni              912 Na F4 V M0 D
+Basternevis   0639 C575556-8    Ag Ni              521 Na F6 V M4 D
+Basilisk      0732 D750300-9    De Po              224 Ga F3 V
+Shivaree      0735 E768758-7    Ag Ri              812 Na F7 V
+Grosbeak      0831 C7C0200-A    Lo Ni De           710 Ga M9 V M5 D
+Aqua Marina   0832 B58A854-A    Ri Wa              400 Ga G7 V M7 D
+Rock          0837 E420200-6    De Po              112 Na G4 V
+Somberview    0838 B210899-7    Na                 602 Na F2 V

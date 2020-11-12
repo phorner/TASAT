@@ -1,0 +1,11 @@
+@SUB-SECTOR:Fornook SECTOR:Gateway
+#
+# Jump-routes
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Isolation     0407 C7C0200-C    Lo Ni De           714 Na K1 V M8 D
+Winternight   0502 C516254-A    Lo Ni Ic           522 Na M6 II M0 D
+Glee          0801 B130679-A    Na Ni Po De        310 Na K4 V
+Fornook       0804 C100403-A    Na Va              102 Na M0 V

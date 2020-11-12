@@ -1,0 +1,28 @@
+@SUB-SECTOR:Cinder SECTOR:Gateway
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$1739 1637 -1 0 15
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Umbrin        1731 C558445-9    Ni                 912 Vi G9 V
+Catanin       1736 E673000-9    Lo Ni Ba        A  012 Vi F6 V M8 D
+Santee        1739 B777989-A    Hi In              214 Vi F8 V M2 D
+Kever         1832 C558445-6    Ni                 611 Vi F4 V
+Nederen       1834 E631754-9    Na Po              510 Vi M7 II M6 V
+Mast          1835 C20088B-9    Na Va              910 Vi F4 V
+Iceball       1837 E21A321-A    Lo Ni Ic           412 Vi M1 V
+Hold-Your-Brea1839 DACA324-B    Lo Ni Fl Wa        511 Vi M6 V M9 D
+Holidin       1931 B220575-A    Ni Po De           113 Vi G7 V M0 D
+Caster        2035 C150459-9    Ni Po De           222 Na F6 V
+Cloud         2037 D000200-A    Lo Ni As           510 Vi M8 V
+Flemington    2133 B472789-8                       200 Na F1 V
+Thane         2138 C999643-4    Ni                 914 Vi F5 V M0 D
+Cinder        2140 X710000-9    Lo Ni Ba De        011 Vi A7 V
+Paradise of El2231 C757863-6                       913 Na G4 V M6 D M8 D
+Ravashar      2233 C5449CC-8    Hi In Po           823 Na M6 V
+Shin          2235 C400102-A    Lo Ni Va           812 Na M8 V M4 V
+Sinest        2337 B575886-9                       924 Na K4 V
+Waystation    2434 CS00749-A    De Va              410 Na K9 V

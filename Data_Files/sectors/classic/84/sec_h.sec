@@ -1,0 +1,24 @@
+@SUB-SECTOR:Forcett  SECTOR:Gateway
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Fastness      2520 E110772-A    Na                 210 Sw M0 V K0 D
+Lanadhu       2611 C223669-9    Na Ni Po           100 Ak F9 IV
+Zora          2614 C748551-5    Ag Ni              600 Na M3 V
+Freehaven     2618 C624779-6                       601 Sw M0 V
+Hidden Body   2716 E100000-6    Lo Ni Va Ba        613 Na A8 V
+Carlton       2720 B667754-A    Ag Ri              925 Sw F2 V M7 D
+Coriander     2813 C223669-8    Na Ni Po           101 Na M6 V
+Runner's Star 2817 C686654-9    Ag Ni Ri           613 Sw F3 V
+Pirate's Haven2819 C775871-9                       826 Sw F1 V
+Gigas         2915 C577000-9    Lo Ni Ba           900 Na K3 V
+Sandhaven     2918 B000830-A    As Na              322 Sw F8 V
+Mneomon       3012 BA89537-B    Ni                 924 Na F4 V
+Emoress       3117 A66A779-9  N Ri Wa              310 Na F9 V
+Chloran       3213 C9C4100-B    Lo Ni Fl           901 Na M4 V
+Drumhelda     3217 D110330-A    Lo Ni              732 Na M4 V
+Thipister     3219 B769436-A    Ni                 223 Na F3 V

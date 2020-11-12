@@ -1,0 +1,30 @@
+@SUB-SECTOR:Ownsbee  SECTOR:Gateway
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0724 1022 1 0 13
+$0724 0625 0 0 13
+$0625 0825 0 0 13
+$0825 0928 1 0 13
+$0625 0528 0 0 13
+$0528 0430 0 0 13
+$0430 0433 0 1 13
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tanis         0127 DA89654-8    Ni Ri              220 Na F0 V
+Far Portal    0130 A238346-A  N                    823 Na M4 III
+Costavan      0230 C360431-A    Ni De              601 Na G0 V M4 D
+Newpontere    0323 D597488-9    Ni                 724 Na F2 V M8 D
+Castamaria    0327 C64A672-A    Na Ni Wa           201 Na F6 V
+Redstorm      0425 D626888-8                       900 Ga F7 V
+Tamerij       0430 B467998-B    Hi                 305 Ga F2 V M9 D
+Amberinth     0527 C785897-A    Ri                 800 Ga G1 V
+Tharver       0528 B775985-9  N In Hi              111 Ga F3 V
+Ithelu        0622 C675512-A    Ag Ni              933 Na F4 V
+Revonis       0625 B220310-A    Lo Ni Po De        702 Ga M7 V
+Williwaw      0629 E999533-5    Ni                 402 Ga F3 V
+Carper        0724 C000447-B    Ni As              913 Ga F4 V M4 D
+Thermal       0727 D750300-9    De Po              224 Ga G6 V M1 D
+Corstation    0825 CS0A000-7    Ic Ba              011 Ga M7 V M0 D
