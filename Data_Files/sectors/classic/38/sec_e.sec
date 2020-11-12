@@ -1,0 +1,41 @@
+@SUB-SECTOR:Dashipr SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0115 D745486-7    Ni                 904 Zh K4 V
+              0116 D567324-8  Z Ni                 210 Zh F4 V
+              0119 E582674-5    Ni Ri              302 Zh F4 V
+Tiatlieadev   0120 A400AAA-E  Y Va Hi In Na        724 Zh M5 V
+              0212 B77669C-B  Y Ag Ni              104 Zh M0 V  
+              0213 E55A366-6    Wa Lo Ni O:0214    721 Zh F3 V M2 D  
+              0214 A98A659-D    Wa Ri              111 Zh F5 V  
+              0216 E3118A9-8    Ic Na              610 Zh F6 V M5 V
+Vladefef      0315 C100A55-D    Va Hi In Na        824 Zh F0 V  
+              0317 C242435-7    Ni Po              222 Zh G7 V M0 D  
+              0319 B372224-9    Lo Ni              614 Zh K7 V
+              0411 E230511-7    De Ni Po           910 Zh M1 V M4 D  
+              0414 D344356-6    Lo Ni Po           910 Zh G7 V M8 D  
+              0416 C41487C-9    Ic                 520 Zh F2 V
+Dashipr       0418 A675AFC-E  Z Hi In Cp           523 Zh M0 V
+              0419 B303640-C    Va Ic Ni Na        903 Zh M8 V M7 D M1 D 
+              0420 C344735-7    Ag                 504 Zh K7 V
+              0512 A595555-C    Ag Ni              202 Zh F9 V M4 D  
+Yaskekue      0514 B6876X3-E  Q Ag Ni Ri An        523 Dr K7 V
+              0516 C333556-B    Ni Po              722 Zh M0 V  
+              0517 C969375-6  Z Lo Ni              623 Zh F7 V M4 D  
+              0518 B335525-B    Ni D1              504 Zh K7 V
+Safrapl       0611 A370957-E    De Hi In           222 Zh F1 V M4 V  
+              0614 A234471-E  Z Ni                 703 Zh M2 V  
+Enzhiavl      0617 C788A98-A    Hi                 902 Zh F9 V
+              0620 C585200-8    Lo Ni C9           814 Zh F9 V M1 D
+              0711 A377663-B    Ag Ni O:0611       122 Zh K9 V
+              0715 C646123-8    Lo Ni              714 Zh F7 V  
+              0716 D642510-5    Ni Po              412 Zh F4 V  
+              0718 X423000-0    Ba Lo Ni           904 Zh K3 V M9 D  
+              0720 C466651-A  Z Ag Ni Ri           713 Zh F5 V
+Iatiaiepr     0811 C6649C4-5    Hi                 603 Zh F5 V
+              0812 B9C5101-C    Fl Lo Ni           223 Zh G3 V
+              0814 C587655-9    Ag Ni Ri           520 Zh F3 V M9 D  
+              0815 B000457-D  Z As Ni              123 Zh F5 V  
+              0820 E325453-7    Ni                 300 Zh K3 III

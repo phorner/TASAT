@@ -1,0 +1,38 @@
+@SUB-SECTOR:Yevriblrz SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Velieirbe     0931 C2339B9-B    Hi Na Po           205 Zh G4 V
+              0932 B240657-C    De Ni              404 Zh F0 V M4 D  
+Chikrdapr     0934 A666787-C    Ag Ri D2           104 Zh G0 V
+              0937 A793486-A    Ni                 400 Zh F0 V
+Ilaiaiashie   0938 B578ABB-D    Hi In              722 Zh F4 V
+              0939 A466796-C    Ag Ri An           404 Zh K3 V
+              1033 E849333-7    Lo Ni              600 Zh F2 V  
+              1034 B100110-C    Va Lo Ni           912 Zh K0 V  
+              1039 B767642-9    Ag Ni Ri           903 Zh F2 V
+              1131 A58765B-B  Z Ag Ni Ri           804 Zh K4 V
+              1134 C212345-A    Ic Lo Ni           302 Zh A1 V
+              1140 D355652-4    Ag Ni              820 Zh F1 V M4 D M1 D 
+Jesezyienjie  1235 A578956-E  Y Hi In Cp           603 Zh F3 V
+              1236 C344683-8    Ag Ni              104 Zh M0 V
+              1238 C966616-5  Z Ag Ni              111 Zh F9 V  
+              1239 C322245-9    Lo Ni              812 Zh K7 V M6 D  
+              1240 D798796-6    Ag                 421 Zh F6 V M7 D
+Ayssthon      1334 A346856-E  Q                    111 Dr B5 III  
+              1338 E557726-2    Ag                 215 Zh K7 V
+              1340 C758777-7  Z Ag                 812 Zh F1 V M6 D  
+              1431 B556555-B    Ag Ni              204 Zh M0 V
+              1435 C544677-5    Ag Ni              401 Zh F2 V
+              1437 C494516-7    Ag Ni              804 Zh F8 V
+Prie          1531 B2339A6-C    Hi Na              604 Zh G7 V
+              1534 A9A6242-D  Z Fl Lo Ni           814 Zh F7 V
+              1535 C556589-8    Ag Ni              801 Zh M2 V M1 D  
+Qentsvri      1538 B84A9BA-C  Z Wa Hi In           623 Zh F1 V  
+              1539 E564767-1    Ag Ri O:1540       410 Zh M0 V G6 V  
+Iecht'vrnts   1540 A4379AB-E    Hi                 912 Zh G9 V M7 D  
+              1631 B346643-7    Ag Ni              301 Zh K6 V
+Achablshtel   1632 A000ACC-E  Z As Hi In           301 Zh M8 V M3 D  
+Betsapr       1635 C211945-A    Ic Hi In           910 Zh F7 V
+Eke           1636 B658755-B    Ag C2              303 Zh F9 V

@@ -1,0 +1,31 @@
+@SUB-SECTOR:Drevlishienz SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0109 C200431-C    Va Ni              504 Zh M6 V  
+              0110 A687658-D  Z Ag Ni Ri           612 Zh G7 V
+              0203 A4658CC-9  Z                    503 Zh F7 V M6 D  
+              0208 B527786-B    Ni                 603 Zh F9 V M5 V
+Iadvada       0302 A77399B-E  Z Hi In Cp           304 Zh M0 V
+              0303 B534677-B    Ni                 323 Zh G9 V M7 D  
+              0307 B749310-C  Z Lo Ni              302 Zh K3 V M9 D  
+              0308 A574551-E  Z Ag Ni              305 Zh K7 V M7 D
+              0403 D95A400-9    Wa Ni              100 Zh G4 V  
+              0406 A582431-D  Y Ni Po              312 Zh K5 V
+              0409 D77769A-6    Ag Ni              710 Zh K8 V  
+              0507 C362502-A    Ni Po              913 Zh F7 V
+              0602 B68969C-B    Ni Ri              600 Zh G5 V
+Drepadze      0603 B859AAA-D  Z Hi                 925 Zh G4 V
+              0606 E624100-7    Lo Ni              723 Zh G7 V  
+              0607 BA9A576-B    Wa Hi              504 Zh K8 V
+              0609 B132656-C    Wa Ni Po           204 Zh K7 V  
+              0610 B79A454-D  Z Wa Ni              700 Zh K3 V M2 V
+              0701 C738554-B    Ni                 802 Zh M4 III
+              0702 E562441-7    Ni                 903 Zh M0 V M5 V
+              0703 B48486A-D    Ri O:0603          813 Zh F8 V  
+              0707 A966220-B  Z Lo Ni              413 Zh F1 IV  
+              0709 C536441-7    Ni An              222 Zh K7 V
+              0805 CAFA444-C    Fl Wa Ni           301 Zh M0 V
+              0806 C200433-B    Va Ni              301 Zh M3 V
+              0808 C250575-9  Z De Ni Po           203 Zh G5 V

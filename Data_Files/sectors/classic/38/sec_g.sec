@@ -1,0 +1,35 @@
+@SUB-SECTOR:Flonzebrienzh SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              1713 B56567A-A  Z Ag Ni Ri           324 Zh F3 V M1 D  
+              1715 C373201-8    Lo Ni              505 Zh G3 V M7 D  
+              1718 D97A688-7    Wa Ni              423 Zh F0 V
+Enzjdivr      1719 C7C599C-B  Z Fl Hi              902 Zh F9 V
+              1720 C330245-B    Lo Ni Po           804 Zh F8 V M8 V  
+              1813 B513254-A  Z Ic Lo Ni           310 Zh A6 IV F6 D M3 D 
+              1817 B42145A-D    Ni Po              304 Zh G3 IV  
+              1820 C484510-8    Ag Ni              923 Zh F9 V M7 D  
+              1912 E213796-7    Ic Na              724 Zh F2 V
+              1915 A78A656-E  Z Wa Ni Ri C1        113 Zh F6 V M4 D  
+              1916 C300100-D    Va Lo Ni           921 Zh M6 V
+Chivrea       1918 A210975-E  Z Hi In Na           704 Zh M2 V
+              2013 A10058A-E    Va Ni              904 Zh K3 III M8 V  
+              2014 C150162-9    De Lo Ni Po O:???  221 Zh K9 V
+              2016 B577798-8    Ag C1              902 Zh F8 V
+Flonzebrienzh 2017 A344996-E  Z Hi In Cp           204 Zh M0 V M4 D  
+              2019 A684511-A  Z Ag Ni              200 Zh F5 V M1 D
+              2112 C220000-B    De Ba Po           924 Zh F0 II
+              2117 CAA4136-B    Fl Lo Ni           424 Zh M1 V M1 D
+              2213 E210543-8    Ni                 223 Zh K7 V  
+              2216 C487551-9  Z Ag Ni An           401 Zh F4 V  
+Beshenj Frazht2219 A5049A7-E  Z Va Ic Hi In        104 Zh F9 V
+              2220 E360657-5    De Ni              703 Zh G8 V
+              2311 A46988B-D  Y Ri                 103 Zh G4 V  
+              2315 C200578-9    Va Ni              802 Zh M9 V M4 V  
+              2316 A000400-E    As Ni              734 Zh G4 V M5 D
+              2413 X8C0000-0    De Ba              123 Zh K0 IV
+Iablazient    2414 B996ACE-D  Z Hi In              501 Zh F7 V M6 D  
+              2416 B669503-B    Ag Ni              603 Zh F1 V  
+              2420 C746879-7    Ag                 504 Zh F0 V

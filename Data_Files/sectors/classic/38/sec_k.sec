@@ -1,0 +1,41 @@
+@SUB-SECTOR:Zdefrients SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              1721 B300447-C    Va Ni              624 Zh F5 V  
+              1722 C145745-8    Ag                 402 Zh M2 V M0 D  
+              1725 D845579-7    Ag Ni              102 Zh F2 V M7 V  
+Eplzhdepl     1726 A435987-E  Z Hi                 312 Zh G9 V M0 V  
+              1727 B344769-B    Ag O:1727          404 Zh F7 V  
+              1730 C55878A-7  Z Ag                 902 Zh G4 V M7 V  
+              1824 B263412-B    Ni                 510 Zh F1 V  
+              1827 D787544-6    Ag Ni              221 Zh F0 V
+              1829 CA7A757-A    Wa                 301 Zh F2 V
+Shaaika       1830 B744959-D    Hi In              711 Zh F7 V M4 D  
+Tletdovr Zedr 1921 C556AAD-C  Z Hi                 724 Zh G3 V
+              1923 E749479-5    Ni                 103 Zh G7 V
+              1924 A592220-C    Lo Ni              621 Zh F9 V
+              1927 B733586-A    Ni                 610 Zh F9 II
+              1928 C788579-9    Ag Ni Ri           204 Zh F1 V  
+              1929 B435535-B    Ni                 913 Zh A8 III
+              2023 A767753-C  Z Ag Ri              102 Zh F8 V  
+Zdefrients    2025 A77A999-E  Y Wa Hi In Cp        303 Zh F1 V
+              2026 C445503-A    Ag Ni              804 Zh F8 V M8 D  
+              2028 C988371-9  Z Lo Ni              201 Zh F9 V M7 V  
+              2029 C884753-8    Ag Ri              604 Zh G9 V
+              2122 C441322-7    Lo Ni Po           502 Zh M0 V  
+              2123 B423646-B    Ni Na Po           912 Zh F7 V K4 V  
+              2127 E322584-8    Ni Po              403 Zh G3 V
+              2221 B460784-A    De Ri              302 Zh M0 V M7 V  
+Plonzhremo    2222 B526ABB-E    Hi In              904 Zh F3 V
+              2224 E643000-0    Ba Lo Ni Po        802 Zh K5 V M8 D  
+              2228 C350726-7  Z De Po              514 Zh F2 V
+              2230 CAA5100-A    Fl Lo Ni           304 Zh F7 V
+              2321 A769432-E  Z Ni                 923 Zh F3 V M0 D  
+              2327 C54278B-7  Z Po                 212 Zh F4 V  
+              2328 D788798-5    Ag Ri              802 Zh M0 V M8 D  
+              2422 E8866BA-4    Ag Ni Ri           405 Zh F8 V  
+              2424 B464842-A  Z Ri                 500 Zh F8 V
+              2429 D468655-7    Ag Ni Ri           800 Zh K4 V M1 D  
+              2430 A00087B-D  Z As Na              120 Zh K2 V M0 D

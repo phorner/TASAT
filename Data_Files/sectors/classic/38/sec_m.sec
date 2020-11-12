@@ -1,0 +1,38 @@
+@SUB-SECTOR:Mekrashozh SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0132 B87A455-B    Wa Ni              613 Zh K0 V  
+              0133 B8B8574-C  Z Fl Ni              523 Zh M1 V
+              0137 A46A872-C  Z Wa Ri              414 Zh K8 V
+              0232 B9A578A-9    Fl                 401 Zh K4 V M5 D
+Biazims       0234 B586ABB-E    Hi                 113 Zh G5 V
+              0235 E336445-7    Ni Po              514 Zh A5 V
+              0240 A676321-C  Z Lo Ni              210 Zh M2 V
+              0335 C668585-6    Ag Ni              802 Zh M0 V G0 D  
+Mekrash       0336 A768AAA-E  Y Hi Cp              523 Zh K7 V
+              0338 A456426-B    Ni                 601 Zh M2 V M7 V  
+              0339 C667649-6    Ag Ni Ri           710 Zh K9 V
+              0340 B584797-8    Ag Ri              804 Zh F2 V
+              0431 A223325-C  Y Lo Ni Po           124 Zh K3 V M4 V  
+              0432 B234335-A    Lo Ni              404 Zh G7 V  
+              0437 B200484-C  Z Va Ni              613 Zh K6 V
+Fiapr         0440 A442926-E    Hi In An           524 Zh F1 V
+              0531 B354353-A    Lo Ni              504 Zh F5 V  
+              0535 C7C1586-B  Z Fl Ni              803 Zh F5 V
+Aja           0536 A78A986-D    Wa Hi              813 Zh F7 V M4 D  
+              0537 B676876-7    Ri                 204 Zh F4 V
+              0634 C3457A5-7    Ag                 711 Zh F5 V M7 D  
+              0637 CA96304-9    Lo Ni              103 Zh F3 V
+Zhelizhins    0639 X440334-6    De Lo Ni Po        330 Zh M5 II
+              0732 B552431-A    Ni Po              703 Zh F7 V
+              0733 C466653-8    Ag Ni              400 Zh B5 V  
+              0734 C445524-9    Ag Ni              813 Zh K4 V M9 D  
+              0736 B737336-C    Lo Ni              703 Zh M0 V  
+              0737 B589668-9  Z Ni Ri Mr           420 Zh K3 III
+Inzhdepl Driep0738 B5009A9-C    Va Hi In Na        805 Zh F3 D
+              0740 D889678-3    Ni Ri              300 Zh K1 V
+              0831 E0007A9-9    As Na              312 Zh M2 V  
+              0833 D683463-5  Z Ni O:0934          203 Zh K5 V M3 V
+              0836 C367543-8  Z Ag Ni              704 Zh F5 V

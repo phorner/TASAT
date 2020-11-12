@@ -1,0 +1,32 @@
+@SUB-SECTOR:Tliaqbravets SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tlavliei      0913 C586976-A  Z Hi                 511 Zh F5 V
+              0914 B89A769-C    Wa O:0915          112 Zh K3 V
+              0915 A766745-C    Ag Ri              223 Zh K1 IV K8 V  
+              0918 B56A420-C  Z Wa Ni              103 Zh G4 V
+              0919 B200000-A    Va Ba              805 Zh M5 V  
+              1013 D441448-7    Ni Po              124 Zh G2 V
+              1014 D354777-5    Ag                 805 Zh M7 III
+              1018 AAB6855-D  Z Fl                 911 Zh G4 V M9 V  
+              1019 B45769D-A    Ag Ni              523 Zh K7 V K6 V
+              1116 D56587B-3    Ri                 712 Zh G9 V  
+              1119 C230377-A    De Lo Ni Po        814 Zh G4 V
+Fia Vlenchta  1211 B61499C-B  Z Ic Hi In Na        222 Zh K0 V
+Kaythe        1217 A4855X5-E  Q Ag Ni An           424 Dr G0 V
+              1313 B454353-C  Z Lo Ni              302 Zh A1 V
+              1314 E766344-4    Lo Ni              831 Zh A1 V
+              1315 A523136-C  Y Lo Ni Po           714 Zh M0 V M9 V  
+              1316 D323566-9    Ni Po O:1315       512 Zh F3 III M3 D  
+Tliaqbrav     1319 A876974-E  Z Hi In Cp           402 Zh G5 V K8 V
+Chieplans     1412 B597ABB-C  Z Hi In              925 Zh M0 V M5 D F3 V
+              1512 A686356-D  Z Lo Ni              324 Zh M0 V
+              1514 E221522-8    Ni Po              122 Zh G9 V M3 V  
+              1517 E875778-6    Ag                 740 Zh G7 V
+              1519 A766448-D  Z Ni                 602 Zh K3 V K4 V
+              1613 A88878A-A    Ag Ri D1           700 Zh F9 IV G9 III  
+              1617 A545689-B  Z Ag Ni              222 Zh G3 V K9 V  
+              1618 B55769C-6    Ag Ni              612 Zh K6 V K2 V  
+Tlevlblaziakr 1620 A466A98-E  Z Hi                 924 Zh K7 V

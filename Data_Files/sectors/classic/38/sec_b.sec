@@ -1,0 +1,44 @@
+@SUB-SECTOR:Chiashov SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0901 A635243-C  Z Lo Ni              312 Zh M0 V M8 D  
+Etl           0902 AAC597B-E    Fl Hi              313 Zh G5 V
+              0905 C79A78A-A    Wa                 603 Zh F9 V M1 V  
+              0909 A555641-C  Z Ag Ni              302 Zh F6 V M0 D  
+              1004 B776753-9  Z Ag                 410 Zh F7 V
+              1005 A672432-C    Ni                 904 Zh K9 V
+              1008 CAB2547-A    Fl Ni              404 Zh K6 III
+              1102 A566111-C  Z Lo Ni              700 Zh G8 V M7 D  
+              1104 B7B4100-D    Fl Lo Ni           800 Zh F1 V M4 D  
+              1107 A6A5643-E  Z Fl Ni              225 Zh F2 V  
+              1109 C522357-B    Lo Ni Po           600 Zh G2 V  
+              1110 B7A4889-A    Fl                 814 Zh F9 V
+              1201 B477167-8  Z Lo Ni O:1301       305 Zh F0 V  
+              1203 E759451-7    Ni                 403 Zh F6 V
+Chiashov      1204 A534ABA-E  Y Hi Cp              423 Zh F0 V
+              1206 A534333-D    Lo Ni              303 Zh M0 V M0 D  
+              1207 B888655-A    Ag Ni Ri           102 Zh G1 V  
+              1208 C786533-8    Ag Ni D2           623 Zh F1 V M6 V 
+              1210 B334511-C    Ni                 600 Zh G4 V M2 D
+              1301 A77669C-C  Z Ag Ni An           101 Zh F0 V
+              1304 E223211-8    Lo Ni Po           225 Zh F7 V M4 D  
+              1307 B68A651-C    Wa Ri Ni           300 Zh F4 V  
+              1310 A516627-C  Z Ic Ni              904 Zh K6 V
+              1402 AA88594-B    Ag Ni              413 Zh F7 V
+              1403 C446612-8  Z Ag Ni              223 Zh F2 V M4 V M9 D 
+              1406 B242350-D    Lo Ni Po           404 Zh K0 V  
+              1407 B558442-7    Ni                 611 Zh K9 V M9 D  
+              1409 C87A774-9  Z Wa                 104 Zh F8 V M9 V  
+              1410 B513328-A    Ic Lo Ni           620 Zh F2 II
+              1501 B23267C-A  Z Na Ni Po           103 Zh G7 V  
+              1502 D342130-7    Lo Ni Po           900 Zh G8 V
+              1506 A568849-B  Z Ri D2              805 Zh F3 V  
+              1507 C251325-9    Lo Ni Po           711 Zh K3 V  
+Brenzhstel    1508 B4139B7-D  Z Ic Hi In Na        403 Zh F9 V
+              1509 A949471-D    Ni                 320 Zh K7 V M2 D  
+              1510 B987655-B    Ag Ni Ri           300 Zh F4 V M1 D
+              1602 B424553-B  Z Ni                 915 Zh M0 II
+Tiaklienzi    1604 A48666A-E    Ag Ri Mr           123 Zh A7 V F0 D M2 D 
+              1607 A446779-D    Ag                 524 Zh K4 V

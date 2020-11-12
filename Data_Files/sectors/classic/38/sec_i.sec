@@ -1,0 +1,33 @@
+@SUB-SECTOR:Qlentileche SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              0123 B3427AB-A  Z Po                 221 Zh F7 V  
+              0126 A88A6A8-E  Z Wa Ni              603 Zh F1 V  
+Dlivldla      0129 A795ADD-D  Z Hi In              503 Zh F0 V
+              0130 E552312-4    Lo Ni Po           905 Zh F7 V M3 V
+              0223 D211404-9    Ic Na              903 Zh G3 V F6 V  
+              0224 C76A528-A    Wa Ni              504 Zh F1 V
+              0228 E445424-8    Ni                 813 Zh G4 V
+Ieazhizh      0229 B677997-B    Hi In              602 Zh F6 V
+Echshiaanzh   0322 B529ADC-D    Hi In              604 Zh F1 V  
+              0326 D237570-8    Ni                 704 Zh M1 V M4 D
+Zhdintsadr    0421 D628AAB-A  Z Hi In              904 Zh K3 V
+              0425 B65A56A-C    Wa Ni O:0322       303 Zh K2 V M8 D
+              0428 C150559-9  Z De Ni Po           604 Zh K5 V M4 V
+              0521 C9A479C-8    Fl                 223 Zh K7 V
+              0522 E468524-7    Ag Ni              112 Zh G2 IV  
+              0523 A788558-D  Z Ag Ni D3           804 Zh F9 IV  
+              0525 E587321-6    Lo Ni              103 Zh K7 V
+Qlentileche   0526 A887957-E  Y Hi Cp              712 Zh F3 V
+              0528 D687536-7    Ag Ni C5           903 Zh K1 V  
+              0530 A7A6527-D  Z Fl Ni              804 Zh K4 V
+              0622 C538528-9    Ni                 610 Zh G3 V M6 V  
+              0628 C000377-B    As Lo Ni           313 Zh M4 V
+              0629 E468727-5    Ag N1              304 Zh F3 V
+              0721 E7838AB-4    Ri                 304 Zh K7 V M5 D  
+              0728 C678323-7    Lo Po              805 Zh M7 V
+              0822 C7A2776-D    Fl                 612 Zh F7 III
+              0824 AAC97C7-C  Z Fl                 404 Zh F4 V
+              0829 B673885-9  Z                    631 Zh A1 V

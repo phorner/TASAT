@@ -1,0 +1,37 @@
+@SUB-SECTOR:Stieniazhir SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              2536 C546210-9    Lo Ni              914 Zh F3 V M9 D  
+              2538 A5546A8-A    Ag Ni              110 Zh K5 V
+              2540 C462614-7  Z C1                 603 Zh F7 V M0 D
+              2632 A578595-B    Ag Ni              414 Zh F0 V  
+Stieniazhir   2636 A444A50-E  Z Hi In Cp           304 Zh G0 V M3 D M4 D 
+              2637 C77A49C-A    Wa Ni              203 Zh F7 V
+              2733 E444162-5    Lo Ni O:2632       315 Zh G1 V M7 D  
+              2734 A88A756-9    Wa Ri An           404 Zh G4 V
+              2737 C2025A8-B    Va Ic Ni           900 Zh M9 III M8 V  
+Kernapliatl   2739 B767ABF-C  Z Hi                 803 Zh K2 V
+              2740 E658676-4    Ag Ni              301 Zh F9 V M6 D
+              2832 B300214-D    Va Lo Ni           512 Zh M2 V
+              2836 B592245-9    Lo Ni              222 Zh F1 V  
+              2837 D476868-7    O:2737             513 Zh M0 V M4 D  
+              2840 C53866B-8    Ni O:2940          104 Zh K1 V
+              2931 B1308CA-A    De Na Po           213 Zh A9 V G8 V  
+              2936 A795554-E  Y Ni D6              903 Zh F7 V
+              2939 EAB9430-9    Fl Ni              813 Zh M2 II M1 V
+Tsavlinstodr  2940 C5A0ADH-D    De Hi              120 Zh G9 V
+              3031 B597559-B  Z Ag Ni              802 Zh F6 IV
+              3032 C2366A8-9    Ni                 915 Zh G8 V M0 D  
+              3034 E783223-7    Lo Ni              802 Zh G7 V  
+              3035 C798543-8    Ag                 212 Zh F6 V M7 D  
+              3040 C300400-A    Va Ni              401 Zh M3 V
+              3132 B210213-B    Lo Ni              810 Zh K7 V  
+              3133 C000425-C    As Ni              720 Zh G2 IV M3 V  
+              3134 E76A7CD-4    Wa Ri              604 Zh B0 V
+Ienchachtenz  3140 A200988-E  Z Va Hi In Na        901 Zh M2 V
+              3233 B652537-A  Z Ni Po              613 Zh F8 V  
+              3236 D646354-7  Z Lo Ni              202 Zh K1 V
+              3237 C956302-8    Lo Ni              900 Zh F0 V  
+              3239 C452644-9    Ni Po              404 Zh F3 V M2 D

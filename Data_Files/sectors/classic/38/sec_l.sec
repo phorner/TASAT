@@ -1,0 +1,42 @@
+@SUB-SECTOR:Plelinchier SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              2522 C240786-8    De Po              900 Zh F7 V
+              2523 C666000-9    Ba                 304 Zh F8 V  
+              2526 B584322-B    Lo Ni              500 Zh F9 V
+              2528 B348547-C  Z Ag Ni              123 Zh F0 V
+              2529 C465731-6    Ag                 504 Zh F5 V M9 D  
+              2530 C251210-A    Lo Ni Po           403 Zh F3 V M2 D
+              2625 C336699-A    Ni                 604 Zh M2 V M4 D  
+Atlantsia     2628 A577AAA-E    Hi In              724 Zh K8 V M7 D  
+              2721 E542755-7    Po                 110 Zh G3 V
+              2722 C7B5888-9    Fl                 404 Zh F4 V M7 D  
+Zdenche       2725 A538972-D  Z Hi                 303 Zh F7 V M0 V  
+              2726 D7336A5-6    Na Ni Po           900 Zh A3 V K9 D  
+              2727 A99A798-E    Wa                 402 Zh F6 V
+              2728 E9A4000-0    Fl Ba              804 Zh K2 V
+              2729 CA67653-6    Ag Ni Ri           701 Zh F8 V
+Plelinchier   2730 B5859BD-B  Z Hi D0 Cp           925 Zh G1 V M0 V M5 D 
+              2821 A561257-C    Lo Ni              203 Zh F3 V
+              2824 C000874-A    As Na              321 Zh F9 IV M4 V  
+Jdonzh        2827 A000953-E    As Hi In Na        823 Zh G2 III  
+              2828 B76756A-A    Ag O:2827          502 Zh F7 V  
+              2830 D87A8CB-7    Wa                 802 Zh F9 V  
+              2924 E333223-B    Lo Ni Po           923 Zh M9 Zh G6 D  
+              2925 C776432-9    Ni                 304 Zh F9 V
+              2926 A200659-D  Y Va Ni Na           904 Zh M5 V M7 D  
+              2929 E200321-9    Va Lo Ni           202 Zh F8 V M4 D
+              2930 C735586-A    Ni                 200 Zh M0 V
+              3021 C65A220-B    Wa Lo Ni           510 Zh G9 V  
+              3022 C9D3846-9  Z Fl                 223 Zh G3 V M5 D  
+Dritskanzh    3026 C100978-D    Va Hi In Na        904 Zh F1 V
+              3027 B211301-C    Ic Lo Ni           334 Zh K3 V M8 D  
+              3028 B696874-9  Z                    703 Zh F0 V
+              3121 A8C69C7-E  Z Fl Hi              211 Zh K6 V M2 D  
+              3122 B567557-8    Ag Ni              104 Zh F3 V
+              3125 A331555-C  Z Ni Po              703 Zh K0 IV M9 D
+              3126 B5508A6-9    De Po An           403 Zh G7 V  
+              3129 B652779-A    Po                 200 Zh F5 V M3 D
+              3222 D769623-7    Ni                 302 Zh G2 V

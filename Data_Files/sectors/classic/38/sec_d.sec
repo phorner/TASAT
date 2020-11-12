@@ -1,0 +1,44 @@
+@SUB-SECTOR:Chtabra Stonche SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+              2501 A52389C-D  Z Na Po              103 Zh G7 V M1 D  
+              2502 C310667-7    Na Ni O:2501       102 Zh K7 V
+              2506 C130434-C    De Ni Po           303 Zh F6 V  
+              2507 A420356-E  Y De Lo Ni Po        222 Zh K8 V K8 D  
+              2509 C000555-B    As Ni              623 Zh K9 V
+              2510 X975000-0    Ba Lo Ni           500 Zh F2 V M7 D
+              2601 C210447-B    Ni                 110 Zh G3 V M3 D  
+              2602 D75A533-9    Wa Ni              701 Zh F8 V M0 D  
+              2610 C433100-B    Lo Ni              402 Zh G2 V
+              2701 A685797-B    Ag Ri D3           704 Zh F8 V M1 D  
+              2702 A67ABAA-C    Wa                 933 Zh K7 V  
+              2703 D461647-5    Ni Ri              834 Zh F9 V M0 D  
+              2706 C6647BB-7  Z Ag C1              120 Zh G6 V M7 D  
+Avrtlavlom    2708 C74A98B-C    Wa Hi In           524 Zh F5 V M5 D  
+              2709 E573553-6    Ni                 504 Zh F8 V  
+Jesezyien     2710 B7749BF-B    Hi In              613 Zh F9 V
+Pliachatl     2802 BABA9C7-E  X Fl Hi              802 Zh F5 V  
+              2803 C223124-B    Lo Ni Po           203 Zh G9 V M8 D  
+              2804 E535685-7    Ni                 423 Zh A6 V K8 V M3 V 
+Shtonche      2805 A764AED-E    Hi                 604 Zh F0 V  
+              2806 D558353-7    Lo Ni              204 Zh F5 V
+              2807 A576200-D  Z Lo Ni An           105 Zh F8 V  
+              2809 B8A4412-A    Fl Ni              303 Zh K1 IV
+              2902 C373585-8    Ni                 800 Zh F6 V
+              2904 B5A1210-B    Fl Lo Ni           903 Zh G5 V M5 D  
+              2906 C879223-8  Z Lo Ni              800 Zh F6 V
+Zemetiaz      3003 A000952-E  Z As Hi In Na        713 Zh G2 V M1 D  
+              3006 C79559C-9    Ag Ni              402 Zh F2 V  
+              3008 E5457A6-5    Ag                 902 Zh G8 V M5 D  
+Chtabra       3010 A458974-E  Z Hi Cp              503 Zh F7 V
+              3101 E303878-8    Va Ic Na           424 Zh F4 V
+              3106 E854836-5                       322 Zh F9 V  
+              3108 C661100-A    Lo Ni              623 Zh F7 V M4 D  
+              3110 E321367-8    Lo Ni Po           410 Zh K4 V
+              3202 E202652-9    Va Ic Na Ni        303 Zh F0 II
+              3203 A400420-C  Z Va Lo Ni           623 Zh M9 V M7 D  
+              3205 C562311-9    Lo Ni              104 Zh G9 V
+Eloqlezdev    3208 C6969BB-A    Hi In              904 Zh F0 V
+              3209 C7B0623-9    De Ni              105 Zh F2 V

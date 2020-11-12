@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!-- Sector Fleet Data
+MAXIMUM Number of entries: 40
+FILENAME:  fleet.xml
+FILE LOCATION: in the same directory as the sector's all.sec file
+
+Sector Letter Grid Locations	 A B C D
+								 E F G H
+								 I J K L
+								 M N O P
+		
+    Ship Types (for icons)
+	IMPERIAL
+	1  Close Escort
+	2  System Defense Boat
+	3  Patrol Cruiser
+	4  Mercenary Cruiser
+	5  Dreadnought
+	6  Destroyer
+	7  Corvette
+	8  Tender
+	9  Cruiser
+	10 Carrier
+	11 Frigate
+	
+		Aslan
+	12  Close Escort
+	13  System Defense Boat
+	14  Patrol Cruiser
+	15  Mercenary Cruiser
+	16  Dreadnought
+	17  Destroyer
+	18  Corvette
+	19  Tender
+	20  Cruiser
+	21  Carrier
+	22  Frigate
+	
+			Vargr
+	23  Close Escort
+	24  System Defense Boat
+	25  Patrol Cruiser
+	26  Mercenary Cruiser
+	27  Dreadnought
+	28  Destroyer
+	29  Corvette
+	30  Tender
+	31  Cruiser
+	32  Carrier
+	33  Frigate
+	34  Corsair
+	
+		Zhodani
+	35  Close Escort
+	36  System Defense Boat
+	37  Patrol Cruiser
+	38  Mercenary Cruiser
+	39  Dreadnought
+	40  Destroyer
+	41  Corvette
+	42  Tender
+	43  Cruiser
+	44  Carrier
+	45  Frigate
+	
+	Solomani
+	46  Close Escort
+	47  System Defense Boat
+	48  Patrol Cruiser
+	49  Mercenary Cruiser
+	50  Dreadnought
+	51  Destroyer
+	52  Corvette
+	53  Tender
+	54  Cruiser
+	55  Carrier
+	56  Frigate
+	
+FORMAT with max # of characters:	
+<fleet grid="GRIDLETTER[1]" shiptype="[number]" shipcount="[number]" shipdesc="xxxxxxxxx[25]" />
+
+EXAMPLE:
+<?xml version="1.0"?>
+<sectorfleet>
+<fleet grid="A" shiptype="1" shipcount="3" shipdesc="Close Escort" />
+... more entries up to 40 max
+</sectorfleet>
+</xml>
+
+Zhodani 47th squadron by Ronald B. Kline
+-->
+<sectorfleet>
+<fleet grid="H" shiptype="41" shipcount="8" shipdesc="Chiqrr Battleships" />
+<fleet grid="H" shiptype="40" shipcount="8" shipdesc="Dezhdrle Destroyers" />
+<fleet grid="O" shiptype="35" shipcount="8" shipdesc="Zdieench Destroyer Escorts" />
+</sectorfleet>
+</xml>
+

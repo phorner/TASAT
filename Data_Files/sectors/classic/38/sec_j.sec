@@ -1,0 +1,50 @@
+@SUB-SECTOR:Adriantkev SECTOR:Zhodane
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Jdiepleqr     0921 E5239B6-8    Hi In Na Po        401 Zh F9 V
+Dlechfria'    0922 CAC897A-A  Z Fl Hi              804 Zh G7 III
+              0924 B887696-9    Ag Ni Ri           401 Zh G3 V  
+              0925 E353532-4    Ni Po              104 Zh K6 V
+Yashetlavr    0927 C000AFF-E    As Hi In Na        524 Zh M2 D M7 D  
+              0928 B7B4728-B    Fl                 914 Zh G4 V
+              1021 A888876-C    Ri D3              202 Zh K8 V
+              1022 E797666-5    Ag Ni O:1021       702 Zh F2 V M3 D  
+              1024 B67855A-A    Ag Ni C4           400 Zh G4 V M3 D  
+              1025 C675684-8    Ag Ni Ri           615 Zh F2 V
+              1026 C848562-9  Z Ag Ni O:0927       601 Zh F3 V M6 D  
+Sotszhdiao    1029 C7A098C-B    De Hi              605 Zh F2 V M9 D  
+              1030 C53789D-9                       504 Zh F1 V
+              1121 B54477A-8    Ag                 200 Zh F4 V  
+Shtenzh Qlotl 1123 A544A75-E  Z Hi In              702 Zh F1 V
+              1126 B798569-9    Ni O:1127          404 Zh F8 V M4 D M0 D 
+              1127 A558757-C    Ag Ni              300 Zh G4 V
+Tians da' Jefr1128 B494A9C-E  Z Hi In              613 Zh F8 V M9 D M2 D
+              1221 C656659-7    Ag Ni              103 Zh K6 V M4 D  
+              1222 C38487C-A    Ri                 902 Zh M2 V
+              1225 B65458A-A    Ag Ni              400 Zh K9 V  
+              1226 B768676-9    Ag Ni Ri           514 Zh G6 V  
+              1230 C66875A-8    Ag Ri              603 Zh F4 V M0 D
+              1321 E556688-4    Ag Ni              720 Zh F0 V M7 V  
+              1323 A354535-E  Z Ag Ni              203 Zh K0 V  
+              1324 C567687-7    Ag Ni Ri           703 Zh F9 V M8 D  
+              1325 A569697-A  Y Ni Ri              304 Zh F0 V  
+Frianjekrizh  1326 B89AA58-E    Wa Hi In           103 Zh F2 V  
+Zdrint        1328 AA899A6-D    Hi Cp              903 Zh G9 V G1 V  
+Eqashtepli    1329 A8786A7-B  Z Ag Ni              805 Zh K8 V  
+              1330 C89A453-9  Z Wa Ni              421 Zh K8 V M3 V  
+              1421 E364796-5    Ag                 402 Zh G3 V
+              1422 B8B6639-B    Fl Ni An           223 Zh G7 V M9 D  
+              1423 A31236A-E    Ic Ni O:1323       104 Zh M2 V M8 D  
+Mimklefliez   1428 B966A9A-A  Z Hi                 712 Zh F6 V M9 D
+              1523 A677554-C    Ag Ni              703 Zh F7 V
+Jiazshiepr    1525 C446989-D    Hi In              702 Zh F6 V  
+              1526 B566654-A    Ag Ni Ri           602 Zh F4 V
+              1528 B445518-A    Ag Ni              820 Zh F9 V  
+              1529 A877784-B    Ag                 903 Zh F7 V M8 V M7 D
+Lelhtontsa    1624 B8999BF-C  Z Hi In              802 Zh F1 V M2 D  
+              1625 E574449-6    Ni                 514 Zh G8 V M1 D  
+              1626 D481356-8    Lo Ni              800 Zh G9 V
+              1627 E471242-7    Lo Ni              853 Zh F0 V  
+              1628 A6A5500-E    Fl Ni              704 Zh K7 II
