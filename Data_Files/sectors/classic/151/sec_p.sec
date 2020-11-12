@@ -1,0 +1,54 @@
+@SUB-SECTOR:Ehfya SECTOR:Ustral Quadrant
+#
+$2533 2632 0 0
+$2632 2732 0 0
+$2732 2734 0 0
+$2734 2834 0 0
+$2834 2934 0 0
+$2834 3035 0 0
+$3035 3135 0 0
+$3135 3234 0 0
+$3035 3036 0 0
+$3036 2837 0 0
+$2837 2737 0 0
+$2737 2637 0 0
+$2837 2838 0 0
+$3233 3234 0 0
+$2932 2934 0 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Aokhai'       2532 X6887JC-0    Ag                 703 Of F5 V M1 D
+Stisiylr      2533 C2216MC-8  M D0 Na Ni Po        223 Of M3 V
+Hlaktoi       2537 C4003G2-B    Lo Ni Va           104 Of G5 V M1 D
+Orleahea      2538 D4305J2-7    De Ni Po           300 Of M7 V
+Hkua          2631 D8B8787-3    Fl                 603 Na F7 V
+Aheahfyotlare 2632 B2005J7-B    Ni Va              302 Of M1 IV M2 D
+Htyakhtaufah  2636 C9C64J2-9  M Fl Lo Ni           505 Of A4 V K1 D
+FUAWEH        2637 D2109HC-8    Hi In Na           422 Of F2 V
+Tretoi        2639 C5366JC-5    Ni                 725 Of K3 V
+Kye'ealal     2732 A4543J5-A  J Lo Ni              202 Of F7 V
+Eis           2734 C4647MB-7    Ag Ri              502 Of G0 V
+Howeasi       2735 C8965K8-6    Ag Ni              904 Of F3 V M2 D
+OUEAR         2737 D75A9HC-5    Hi Wa              305 Of K8 V
+Keilahuheakh  2832 C7661G2-8  M Lo Ni              800 Of G7 V
+Yeuaiyoiiyliy 2834 A7495M6-A  F Ni                 923 Of G6 V
+Huahfoi       2837 B6443M4-B    Lo Ni              502 Of G3 V
+EHFYA         2838 A4619M7-E    Hi                 705 Of F0 V
+Oktila        2931 C9A47JA-7    Fl                 824 Of K0 V
+Khuhtea'      2932 B4448H7-9  J Ag                 600 Of G0 V
+Faiyeaoo      2934 A2405J3-D    De Po              402 Of G1 V
+E'eis         2938 E7843K8-4    Lo Ni              313 Of F7 V
+Htoutauealah  3032 E2526J7-6    Ni Po              604 Of F5 V
+Trouiykaw     3035 C6458K4-8                       514 Of F0 V
+Khaieahea     3036 A7A47M8-D  M Fl                 202 Of M9 II
+Yeharehi      3040 E3006A9-6    Na Ni Va           104 Na M1 V M2 D
+Steaseaoisoal 3132 C8875J4-9  M Ag Ni              502 Of F2 V
+Ifteaa        3135 B3421G4-7    Lo Ni Po           205 Of G8 V
+Ftyoaokui     3137 C75A457-8    Lo Ni Wa           902 Na F8 V
+Aohyo         3139 B536578-A  M Ni                 725 Na K6 V
+Ahosoieireawa 3232 C5723G7-A    Lo Ni              203 Of F6 V M8 D
+IKHTAR        3233 C8A49KC-9    Fl Hi              100 Of F0 V M9 D
+Aluiwi        3234 B3431J3-8  J Lo Ni Po           302 Of M0 V
+Yul           3236 A422578-F    Ni Po              814 Na M3 III M4 D
+Furlai        3238 C9B6555-B  M Fl Ni              203 Na A5 V K6 D

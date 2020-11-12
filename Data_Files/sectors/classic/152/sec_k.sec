@@ -1,0 +1,54 @@
+@SUB-SECTOR:Lustre SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Margereta     1724 C234873-B                       423 So F8 V
+Rasbin        1725 C444688-8  S Ni                 325 So F2 V
+Angles        1726 E244143-6    Ag Lo Ni           800 So F7 V
+Lynnie        1728 B545761-B  N                    103 So F5 V
+McAdams       1824 E431973-9    Hi In Na Po        124 So F6 V M6 D
+Emmnotson     1826 C000785-C    As Na Va           200 So G9 IV M9 V M2 D
+Brewar        1828 E7827A8-6                       820 So F1 V
+Eadwulf       1829 D775344-7    Ag Lo Ni           614 So F2 V M4 D
+Cokrell       1830 C457323-7  S Ag Lo Ni           913 So F1 V
+Ingram        1923 A61567B-D  N Ic Ni              801 So G6 V
+Endhaan       1926 B9786AB-9    Ni                 415 So G0 V
+Haddad        2024 B88457A-A  N Ag Lo Ni           332 So G4 V M6 D
+Toby          2025 E000687-9    As Na Ni Va        604 So G3 V
+Wilcox        2125 B876AEJ-A  A Hi In              503 So F4 V
+Anglo         2126 D245415-6  S Ag Lo Ni           612 So F9 V
+Vaghe         2127 C320446-A    De Lo Ni Po        403 So F7 V M9 D
+Bart          2129 A685764-B    Ri                 204 So F0 V
+Dughty        2224 C443496-A    Lo Ni Po           914 So F2 V M9 D
+Sybil         2228 AAE1642-E    Ni                 324 So M4 V M6 D
+Yale          2229 C421997-A    Hi In Na Po        504 So F0 V
+Dalyell       2230 C587533-9  S Ag Lo Ni           912 So F3 V
+Hlutheri      2321 B1417A8-D    Po                 513 So F9 V M8 D
+Richter       2322 A100311-E    Lo Ni Va           405 So M1 V
+Galchobhar    2326 E577531-5    Ag Lo Ni           524 So G4 V
+Claudio       2330 A968988-D  N Hi                 700 So G1 V M6 D
+Clathin       2422 B424342-D    Lo Ni              704 So M0 V K8 D
+Balorak       2425 B486220-B  A Ag Lo Ni           313 So F0 V
+Hlithtun      2429 D343653-4    Ni Po              614 So G0 V
+Giustina      2430 B585735-9                       810 So K9 V M4 D

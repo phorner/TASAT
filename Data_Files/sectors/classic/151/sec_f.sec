@@ -1,0 +1,27 @@
+@SUB-SECTOR:Hlol SECTOR:Ustral Quadrant
+#
+$1219 1120 0 0
+$1120 1020 0 0
+$1020 0921 0 1
+$1016 0915 0 0
+$1011 0810 -1 -1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Fi'eayerlrfoi 0915 A8A41MA-D  R Fl Lo Ni           612 As M3 V M7 D M7 D
+Hwuaea        1011 A6687H7-E  U C4 Ag Ri T3        610 As F6 V
+Seihaheieaa'  1016 B7693G7-E    Lo Ni              511 As K9 V
+Akhewiyw      1020 A4474LA-D  T Lo Ni              220 A9 G8 V M8 D
+Ftuakoure'    1116 C4474HC-9  U Lo Ni              403 As F7 V
+Ul            1120 D3006K3-8    Na Ni Va           710 As M8 V
+HLOL          1219 B6879M9-E    Hi                 103 As F7 V M6 D
+Faftyo'ear    1311 C1506L9-A    De Ni Po           104 A4 F1 V M1 D
+Aieilarl      1411 B4515L8-C    Ni Po              814 A6 F7 V
+Ahkalaustu    1414 C6554J9-A  R Lo Ni              104 As G2 V
+AWAHRAKTELYE  1417 E7339H7-8    Hi Na              104 As F3 V M8 D
+Iyuahyehfoai  1511 D6624J6-7    Lo Ni              902 As F9 V
+Uayalfyhiw    1514 C0004K2-C  R As Lo Ni           304 As M2 V M5 D
+Eaeiheilrei   1611 C7395HC-7    Ni                 310 As M6 V M3 D
+Ewyerl        1614 A7445K4-C  R Ag Ni              105 As F7 V
+Ktyeeaeiroaea 1616 C5616J9-B    Ni                 413 As F9 V M4 D
+Aiwyo'iykhoil 1620 C9866M6-A    Ag Ni Ri           213 As G2 V M5 D M2 D

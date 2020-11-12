@@ -1,0 +1,42 @@
+@SUB-SECTOR:Nyssa SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Cutberto      0913 A455246-E  N Ag Lo Ni           110 So F0 V
+Donkan        1012 C642101-A  S Lo Ni Po           612 So F1 V
+De Blaktoft   1020 B613202-B    Ic Lo Ni           804 So G4 V
+Teddy         1113 D333120-9    Lo Ni Po           912 So G8 V M5 D
+Sadyngton     1114 E300333-6    Lo Ni Va           802 So M2 V
+Candace       1117 C875366-7    Ag Lo Ni           412 So F8 V M8 D
+Galis         1120 B98A7AC-C  S Wa                 713 So F7 V
+Toke          1213 B573326-9  A Lo Ni              603 So M9 V
+Agnew         1217 A98A323-E  A Lo Ni Wa           803 So F3 V
+Bolthorn      1316 C432056-7                       210 So M1 V M1 V
+Eaton         1317 C232435-9    Lo Ni Po           324 So F4 V
+Ekeri         1412 A110564-E    Lo Ni              903 So M2 IV M2 V
+Myers         1414 C443520-7  S Lo Ni Po           223 So F3 V M6 D
+Afzal         1420 D8C7277-7    Fl Lo Ni           305 So M0 V M9 D
+Wylie         1512 E874400-6    Ag Lo Ni           300 So F2 V
+Dawnwind      1516 B447123-9  S Ag Lo Ni           220 So F5 V
+Keal          1614 D100424-6    Lo Ni Va           500 So K3 V

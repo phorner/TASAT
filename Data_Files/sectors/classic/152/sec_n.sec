@@ -1,0 +1,53 @@
+@SUB-SECTOR:Trita SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Wier          0932 C523420-9  S Lo Ni Po           924 Na G5 V
+Vladimeer     0933 C100453-A    Lo Ni Va           802 Na K3 V
+Chauncey      0935 D848451-8  S Ag Lo Ni           523 Na F5 V M8 D
+Dubhloach     0938 C35089D-7    De Po              402 Tb F5 V
+Hicks         1031 D0008CC-A  S As Na Va           802 So F5 V M1 D
+Gertrut       1035 C252633-6  M Ni Po              502 Tb F8 V
+Trita         1036 A663A88-D  A Hi                 302 Tb F2 V
+Thorstan      1037 C765455-B    Ag Lo Ni           905 Tb G0 V
+Atte Lane     1132 C257373-8    Ag Lo Ni           213 So F6 V
+Joram         1136 B525431-A    Lo Ni              202 Tb M5 V
+Shelby        1140 C98A976-9  S Hi Wa              220 Na F6 V
+Poe           1238 X744000-0    Ba                 014 Un G9 V M5 D
+Emil          1332 C73A440-8    Lo Ni Wa           713 So M5 IV M7 D
+Brie          1334 C3228A9-B  S Na Po              800 Na F5 V M0 D
+Darry         1335 D421556-B    Lo Ni Po           304 Na K2 V
+Monica        1338 B100140-A    Lo Ni Va           804 Na M0 III
+Zinn          1339 A4739BA-E    Hi In              602 Na F8 V
+Sparta        1438 C678321-5  S Ag Lo Ni           805 Na K8 V M5 D
+Doria         1440 B110A7A-E  M Hi Na              604 Jn F0 V
+D'aal         1532 BAD9344-D  N Lo Ni              803 So G9 V
+Michelanglo   1535 A575673-A  N Ni                 103 Na F1 V
+Willlelmo     1536 D150459-8  S De Lo Ni Po        404 Na F7 V M7 D M0 D
+Tronge        1537 C96A201-C  S Lo Ni Wa           704 Na F5 V
+Avernus       1540 D220300-5    De Lo Ni Po        820 Jn M2 V
+Eneas         1631 B526134-9  N Lo Ni              600 So M7 V M1 D
+Krank         1632 C534668-8    Ni                 404 So G6 V
+Echule        1636 A564653-E  S Ni Ri              402 Na G9 V M7 D
+Payne         1639 C542653-7    Ni Po              403 Jn F8 V M9 D

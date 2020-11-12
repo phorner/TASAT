@@ -1,0 +1,52 @@
+@SUB-SECTOR:Rangiriri SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Nell          1713 C477777-8  S                    902 So F9 V
+Burre         1714 B857742-B                       303 So F4 V
+Christensen   1716 C966563-9  S Ag Lo Ni           224 So F1 V
+Sudan         1717 C537444-B    Lo Ni              613 So G0 V
+Thimbu        1816 B757324-B    Ag Lo Ni           904 So G1 V
+Kyduyll       1819 C9A66AF-8  S Fl Ni              104 So F9 V M0 D
+Goldyng       1911 C8A1336-7    Fl Lo Ni           300 So K0 V
+Mancournes    1915 A100599-D  N Lo Ni Va           315 So M6 IV M4 D
+De Catnay     1916 B120230-C    De Lo Ni Po        715 So A7 III
+Cavendish     1917 C000126-B    As Lo Ni Va        602 So M2 V M1 D
+McClellan     2016 D677200-5    Ag Lo Ni           700 So F5 V
+Fate          2018 B576521-B    Ag Lo Ni           414 So G5 V
+Daeltun       2019 D464752-4  S Ri                 603 So F5 V
+Trem          2112 B4488AD-9  S                    204 So F1 V
+Ar            2115 C573515-8    Lo Ni              320 So F5 V M7 D
+Annubi        2116 E783AC9-7    Hi                 802 So F0 V
+Patter        2117 D227334-8  S Lo Ni              113 So M5 V
+Grindall      2211 C374203-7    Ag Lo Ni           614 So K1 V M5 D M7 D
+Sternberg     2216 B500434-9  N Lo Ni Va           402 So M8 V G6 D
+Tristan       2312 B4417B8-7    Po                 123 So F0 V M8 D
+Stratford     2313 C676545-A    Ag Lo Ni           701 So F8 V M4 D
+Vermpe        2314 D341552-7  S Lo Ni Po           404 So F9 V
+Eisa          2316 B300010-B    Va                 110 So G7 V M5 D
+Cattall       2412 A337875-E                       803 So G2 V M0 D
+Caprice       2413 AAB3986-E  N Fl Hi              413 So F0 V
+Pasadena      2414 B6A3655-9  S Fl Ni              321 So M1 V
+Bannor        2418 C447641-7    Ni                 303 So F5 V

@@ -1,0 +1,51 @@
+@SUB-SECTOR:Cassiopeia SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Propera       2503 C585556-6    Ag Lo Ni           224 So F6 V
+Falthane      2505 C7587A7-7                       412 So F2 V M7 D
+Moncaire      2506 B482525-B  N Lo Ni              302 So F7 V
+Ided          2508 C494574-A  S Ag Lo Ni           100 So F1 V
+Tall Tree     2509 B69366B-9  S Ni                 224 So K1 V
+Erik          2603 A555334-D  N Ag Lo Ni           904 So F3 V M2 D
+Infelice      2605 B9D6745-8  S                    523 So F0 V M4 D
+Siegmund      2606 C776346-6    Ag Lo Ni           413 So F8 V
+Giacomo       2610 B978888-7  S                    603 So F8 V
+Methuselah    2702 A63854A-E    Lo Ni              310 So K2 V M1 V
+Peale         2802 B457366-8  N Ag Lo Ni           803 So F5 V
+Ijaz          2808 A330458-E    De Lo Ni Po        604 So M8 V
+Greneake      2810 E9C0105-9    De Lo Ni           900 So M8 V
+Silverman     2901 C66A338-7    Lo Ni Wa           904 So F0 V M4 D
+Apmond        2906 B545535-8  N Ag Lo Ni           802 So F3 V
+Adalbeort     2908 E320566-5    De Lo Ni Po        415 So M7 V M9 V
+Callipygia    2909 B6589AB-E  S Hi                 302 So G6 V
+Unteel        3003 A120300-E    De Lo Ni Po        400 So M0 V M3 D
+Yar           3101 D897969-9    Hi In              503 So G8 V
+Ramada        3102 A99A58A-C  N Lo Ni Wa           804 So F6 V M9 D
+Sargent       3108 B330354-9  N De Lo Ni Po        203 So M4 V
+Simmons       3109 E52577B-6                       904 So F4 V
+Khan          3201 C728633-8    Ni                 923 So M4 V
+Giorsal       3203 E523688-4    Na Ni Po           603 So G3 V
+Ruel          3207 BA9A521-E  N Lo Ni Wa           804 So K1 V M5 D
+Elliot        3208 E568341-4    Ag Lo Ni           415 So G8 V

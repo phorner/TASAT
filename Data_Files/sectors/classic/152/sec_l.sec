@@ -1,0 +1,48 @@
+@SUB-SECTOR:Kratu SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Jyotsna       2524 C869732-A                       224 So F9 V
+De Grene      2529 D310662-4  S Na Ni              503 So G6 V
+Lawson        2625 A639340-E  N Lo Ni              110 So G2 V
+Benetland     2626 C88A200-A    Lo Ni Wa           902 So G5 V
+Padriac       2722 B5477AC-A  N                    123 So F0 V M0 D
+Toronto       2724 B9C399A-D    Fl Hi              223 So F0 V M3 D
+Sumter        2725 X529346-3    Lo Ni              423 So F8 V M5 D
+Giulietta     2825 B000698-B  N As Na Ni Va        524 So M9 V
+Raoghnait     2827 B433257-C  N Lo Ni Po           725 So M5 V
+Tibet         2828 B794631-9  N Ni                 323 So F7 V M4 D
+Tiomoid       2924 A899102-E  S Lo Ni              204 So F1 V
+Haifa         2928 E401444-8    Ic Lo Ni Va        214 So F2 V M3 D
+Myers         3023 B6A3687-A    Fl Ni              700 So G1 V M3 D
+Jonathan      3026 C635502-C    Lo Ni              603 So M5 V M6 D
+Joesai        3122 B423254-E    Lo Ni Po           711 So K5 V
+Mar           3123 E9B3467-5    Fl Lo Ni           803 So M5 V
+Ronak         3125 E450454-5    De Lo Ni Po        310 So G6 V M4 D
+Caveral       3127 C230050-C  S De                 223 So M3 IV
+Oliviero      3128 D256976-A    Hi                 104 So F8 V
+Acapulco      3221 E6746A5-7    Ni                 102 So F1 V
+Stonehand     3224 C443584-B    Lo Ni Po           204 So F0 V M5 D
+Naw           3228 B885532-7  N Ag Lo Ni           910 So F2 V M7 D
+Odysseus      3229 C56158A-9    Lo Ni              904 So G8 V

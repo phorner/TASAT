@@ -1,0 +1,28 @@
+@SUB-SECTOR:Oolyasiyl SECTOR:Ustral Quadrant
+#
+$2331 2132 0 0
+$2132 2233 0 0
+$2233 2234 0 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tila          1735 X885000-0    Ba              R  004 Na F8 V M1 D
+Eirloikhiyfu  1831 B743846-A    Po                 714 Na K1 V
+Yerehu        1837 E655134-5    Lo Ni              304 Na F7 V M8 D
+Akhoitoireae  1932 C7A27K9-8    Fl                 432 Of F8 V
+Hra           1934 C4346K2-8    Ni                 730 Of K8 V
+Aorlalr       2035 B324462-9    Lo Ni O:(2037)  A  322 Na M7 V M0 V
+Ealyas        2037 B493875-A                    A  903 Na F7 V
+Rai'iyseirei  2038 C000799-B    As Na              404 Na M3 V M7 D K6 D
+Uihateistya   2039 B260738-8  J De                 504 Na F9 V M1 D
+Earyea        2131 X4625H5-1    Ni                 503 Of F3 V M5 D M4 D
+Eafiy         2132 A3002G4-C  F Lo Ni Va           503 Of G9 V
+Heiri         2136 E210463-9    Lo Ni O:(2037)  A  501 Na M2 V M7 D
+Yoktistefouwe 2137 C659463-6  M Lo Ni O:(2037)  A  201 Na F7 V
+Khahwa'eaourl 2232 D3325K5-8    Ni Po              813 Of K0 V
+Staow         2233 B4001G2-D  J Lo Ni Va           303 Of M5 V M1 V
+Eihwouyolahyo 2234 C5428J7-7    Po                 500 Of M4 V
+Trih          2237 A66A638-C    Ni Wa              814 Na F5 V M8 D
+Eioalawiylra  2240 A774110-D    Lo Ni              604 Na F4 V
+OOLYASIYL     2331 D481AH8-6    Hi                 211 Of F8 V M9 D
+Aweaoioiktiha 2335 C3007KB-A  M Na Va              223 Of M3 V K8 D

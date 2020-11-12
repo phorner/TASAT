@@ -1,0 +1,51 @@
+@SUB-SECTOR:Algenudi SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Sumter        2516 A7B7834-B  N Fl                 404 So F3 V M9 D
+Klerak        2518 E9E3962-A    Hi                 923 So F9 V
+Beltene       2612 E410442-8    Lo Ni              804 So M9 V M1 D
+Sandra        2616 A210432-C    Lo Ni              623 So F9 V M1 D
+Berlin        2618 E789453-9    Lo Ni              624 So K3 V
+Tampa         2712 C463552-8  S Lo Ni              802 So G3 V
+Rowland       2713 D87378A-2                       504 So G7 V
+Daynelman     2714 D668583-7    Ag Lo Ni           211 So G6 V
+Plomber       2715 C374146-8    Ag Lo Ni           413 So F5 V
+Sibilla       2716 X444000-E    Ag Ba              012 So F4 V
+Sourte        2719 E000537-6    As Lo Ni Va        604 So K0 III M3 V
+Morag         2811 B200564-C    Lo Ni Va           604 So G0 V M1 D
+Quasar        2815 B56A312-B  A Lo Ni Wa           413 So F3 V
+Ydonea        2816 C512553-8    Ic Lo Ni           101 So F5 II M2 V M8 D
+Mayflower     2819 E79A649-9    Ni Wa              614 So G6 V
+Lysenko       2912 C463010-8                       512 So F7 V
+Wavenhair     2914 D300875-9  S Na Va              322 So F9 V
+Bertie        2915 C478389-9    Ag Lo Ni           803 So F0 V
+Mehos         2919 C300303-B  S Lo Ni Va           104 So M9 V M4 D
+Vaymo         3012 A9699DF-D    Hi                 811 So G8 V M6 D
+Tatoria       3014 C582644-8    Ni Ri              814 So F1 V
+Cayvell       3019 B9588AC-B                       104 So F4 V M1 D
+Hubbell       3112 D758003-7    Ag Ba              333 So F2 V M5 D
+Sarna         3115 B536868-7                       302 So F0 V M7 D
+Engoliothil   3214 C120311-A    De Lo Ni Po        715 So F6 V
+Tylleson      3216 B400353-B    Lo Ni Va           724 So M6 IV M7 D

@@ -1,0 +1,52 @@
+@SUB-SECTOR:Yanos SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gilmesh       0903 D9AA836-A    Fl Wa              623 So M5 V
+Wydouson      0905 C200774-B  S Na Va              714 So F6 V
+Bialystok     0906 B5339EE-C  N Hi In Na Po        403 So F0 V
+Colwyn        0907 D210743-7  S Na                 922 So G7 IV M0 V
+Novel         0909 D320674-6    De Na Ni Po        420 So M0 V
+Mogadiscio    0910 A433A87-E  N Hi In Na Po        222 So F8 V M9 D
+Zaccarrio     1002 E100867-A    Na Va              610 So F4 V
+Laisa         1003 E875462-4    Ag Lo Ni           623 So F0 V M7 V
+Steuben       1005 A342456-D  S Lo Ni Po           304 So F1 V
+Konat-Kale    1101 B88877B-7    Ri                 304 So F3 V
+Ret           1105 C796958-B    Hi In              514 So G5 V M3 D
+Gladstone     1106 B79A744-D  N Wa                 603 So F3 V
+Cael          1107 B425943-D  N Hi In              925 So F5 V
+Aprapo        1109 C785002-7    Ag Ba              710 So F3 V M2 D
+Metshanal     1203 B304565-A  N Ic Lo Ni Va        502 So M1 V
+Hughes        1207 C77A984-9  S Hi In Wa           302 So F3 V
+Elgin         1210 C523A8D-C  S Hi In Na Po        614 So F5 V
+Endra         1306 C424512-7    Lo Ni              603 So M8 V M2 D
+Rinaldo       1308 A671472-C  N Lo Ni              200 So F7 V M3 D
+Sillius       1310 B000575-B  N As Lo Ni Va        802 So M0 V
+Abel          1401 A000455-E    As Lo Ni Va        724 So M3 V M8 D
+Gwayhne       1408 C440464-A  S De Lo Ni Po        505 So F5 V M0 D
+Untari        1510 A646353-B    Ag Lo Ni           310 So F3 V
+Angles        1602 AAB6148-E    Fl Lo Ni           304 So K7 V
+Borne         1605 D43159C-A    Lo Ni Po           903 So A6 V
+Uniroyal      1606 C000200-E  S As Lo Ni Va        504 So M2 V
+Xaviar        1609 A579975-E  N Hi In              423 So M0 V M9 D

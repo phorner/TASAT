@@ -1,0 +1,42 @@
+@SUB-SECTOR:Khteaiwiyftei SECTOR:Ustral Quadrant
+#
+$1432 1333 0 0
+$1333 1433 0 0
+$1433 1432 0 0
+$1433 1335 0 0
+$1433 1534 0 0
+$1534 1633 0 0
+$0931 0831 -1 0
+$0931 1030 0 -1
+$1432 1430 0 -1
+$1132 1333 0 0
+$1132 0931 0 0
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Uaiyeakhiy'   0931 B1205M4-A  M De Ni Po           804 If G3 V M8 V
+Hlisaue       0932 D5902M4-6    De Lo Ni           304 If G5 V M5 D
+Auaueaa       0935 B000511-9  M As Ni              503 Na M0 V
+Oieirouliyla  0939 E541416-7    Lo Ni Po           902 Na F5 V
+Aueawuaoluil  1038 C265200-A    Lo Ni              904 Na F5 V
+Yuiyre        1039 D662279-4    Lo Ni              900 Na F6 V M0 D
+Ateiyrl       1132 A4104J3-E    Lo Ni              123 If M6 V M5 D M1 D
+Hwalote       1134 B1005J3-A    Ni Va              202 If F3 V M6 D
+Tailaihaleie  1136 C5418JB-7    Po                 504 If G8 V M4 D
+Eweaeiakheal  1235 XA7A8J3-1    Wa                 223 If F2 V
+KHTEAIWIYFTEI 1333 A624AK9-E  J Hi In              703 If F4 V
+Eakhai'ou     1335 B3707JC-A  J De                 713 If G3 V
+Iyholroiw     1337 C4254M2-8  M Lo Ni              103 If M5 V
+Tearl         1338 E3006K9-7    Na Ni Va           224 If F6 V M5 D
+AOEREIW       1432 C357AKB-B  M Hi                 404 If F8 V
+Ahyelaiaurei  1433 B3024K8-D  F Ic Lo Ni           501 If M0 V M3 D
+Eiiyha        1434 C5958J4-8                       822 If G9 V M2 D
+Ftea'iyl      1435 C6394H1-9    Lo Ni              334 If M4 IV
+Woiaihyal     1436 E5586H5-4    Ag Ni              700 If K1 V
+Kaoeahoiea    1531 B5943G2-C    C0 Lo Ni           204 If K7 V
+Aoehleiule    1532 B9993M2-9    Lo Ni              513 If F1 V M7 D
+HRAIHKALEAWAO 1534 E886AMC-9    Hi                 713 If G8 V M8 D
+Aheryelyo'    1540 C231786-8    Na Po              500 Na M7 IV M2 V
+Hahyahoirl    1632 B4455K3-8    Ag Ni              200 If F0 V M2 D
+Ailr          1633 A7468K9-B  F                    900 If G3 V
+AIYFIYHYEHKEA 1636 D8D4ABE-9    Hi                 502 Na F0 V M5 D

@@ -1,0 +1,52 @@
+@SUB-SECTOR:Muscida SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Pompeii       2534 E6477AD-2                       314 Na G2 V M5 D
+Hughson       2537 C300ABF-B  S Hi Na Va           710 Na F8 V M3 D
+Karp          2538 CA9A103-C    Lo Ni Wa           903 Na F1 V M9 D
+Gaarn         2631 C22578C-8                       200 So M6 V M4 D
+Flatt         2634 D75878B-6  S                    600 Na F4 V
+Cantse        2635 B510300-D  N Lo Ni              400 Na M1 V
+Harven        2638 C536764-6                       502 Na M5 V M3 V
+Salaidh       2639 B666420-7  N Ag Lo Ni           814 Na F3 V M1 D
+Hyrim         2732 E568530-7    Ag Lo Ni           500 So F1 V M7 D
+Wilkie        2734 C786661-7    Ni Ri              124 Na F0 V M8 D
+Tolde         2735 C795635-4  S Ni                 513 Na F2 V M5 D
+Cabot         2833 C85A978-C  S Hi Wa              604 Na G2 V
+Owle          2836 C9B8787-6  S Fl                 803 Na M4 IV
+Edmonton      2837 C1007BD-A    Na Va              423 Na K2 V
+Witner        2838 B13057A-B  M De Lo Ni Po        300 Mu G9 IV M2 V
+Leopold       2839 E244444-9    Ag Lo Ni           113 Mu K5 V M4 D
+Nixon         2932 C423AC8-E    Hi In Na Po        512 So G6 V
+Midwest       2937 B689330-9    Lo Ni              804 Na K3 V
+Idun          2940 C7C7323-9    Fl Lo Ni           100 Mu M7 V
+Mansfield     3032 B4758AA-9  N                    704 So F2 V M6 D
+MacAllus      3038 C77A87A-9  S Wa                 825 Mu F6 V M7 D
+Wilfred       3132 X222ACA-5    Hi In Na Po        902 So G6 V
+Kasey         3231 B545200-A    Ag Lo Ni           305 So F6 V
+Gimli         3236 DA8AADI-6  S Hi Wa           A  803 Na F0 V
+Montrachet    3237 C679310-9    Lo Ni              204 Na F8 V
+Helring       3239 D200779-7    Na Va              604 Mu M5 III
+Kalem         3240 C544752-A  S                    312 Mu F1 V M2 D

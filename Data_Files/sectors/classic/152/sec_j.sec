@@ -1,0 +1,39 @@
+@SUB-SECTOR:Nanfeng SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Hercules      0922 B537537-D  N Lo Ni              300 So M3 V M7 D
+Khumbanigahsh 1023 C200113-C    Lo Ni Va           301 So A6 IV K9 D M6 D
+Nanfeng       1025 D6846A6-9    Ni                 303 So F5 V M0 D
+Vicars        1122 B9B6630-7  N Fl Ni              612 So M9 V M6 D
+Teimhnean     1127 A500434-E    Lo Ni Va           913 So K4 IV M8 V
+Burgheys      1128 C637566-B    Lo Ni              302 So M5 V
+Caucasus      1224 A656210-C    Ag Lo Ni           424 So F1 V
+Flango        1225 C679430-8    Lo Ni              804 So F8 V
+De Kellek     1325 C333000-8    Ba                 614 So K5 V M0 D
+Keith         1330 C9A6665-5    Fl Ni              324 So M7 V
+Seraphina     1430 A6557A8-D                       323 So F1 V
+Davros        1528 B8D0610-7    De Ni              111 So G6 II M7 V
+Rydberg       1626 B87A420-E    Lo Ni Wa           810 So F3 V M5 D M9 D
+Edaece        1627 C536332-6  S Lo Ni              910 So M7 V

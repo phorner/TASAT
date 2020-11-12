@@ -1,0 +1,37 @@
+@SUB-SECTOR:Iselle SECTOR:Ustral Quadrant
+#
+$2611 2811 0 0
+$2811 3112 0 0
+$3112 2914 0 0
+$2914 2915 0 0
+$2915 2916 0 0
+$2916 2719 0 0
+$2719 2619 0 0
+$2811 2909 0 -1
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+HOLLIE        2611 B586978-B  J Hi                 201 So G2 V
+Iselle        2617 A476756-C    Ag                 804 So F5 V M1 D
+BOWLES        2619 B7B49A6-B  J Fl Hi              525 So G8 V M4 D
+Gurnek        2713 B726667-5  M Ni O:(2611)        103 So M3 V K3 D
+Poul          2714 C4687B8-8  M Ag                 220 So F8 V M7 D
+Hamiss        2717 A657454-C    Lo Ni              704 So F0 V
+Cermara       2719 A5468C9-9    C4                 700 So G6 V
+Tikai         2811 C624462-6    Lo Ni O:(2611)     705 So G5 V M5 D
+Le-tsu        2816 C656542-3  M Ag Ni              821 So G0 V M9 D
+Erice         2819 C3437AB-6  M Po                 323 So F4 V M0 D M1 D
+Ullsom        2820 E300634-6    Na Ni Va           613 So M6 V
+MOLLISON      2914 B5779A8-7    Hi In              803 So F1 V M2 D
+Joelii        2915 A328541-E  J Ni                 313 So K0 V
+PLISKA        2916 C233A65-D  M Hi Na Po           322 So G7 V M1 D
+Izir          2917 D989567-6    Ni O:(2915)        304 So F1 V
+Umak          2920 D345766-2    Ag O:(2819)        320 So G1 V
+Welcin        3112 A425642-B    Ni                 405 So M0 V K7 D
+Sorenson      3117 C997798-5    Ag                 515 So F8 V M5 D M7 D
+Lyttin        3211 C658410-7    Lo Ni              503 So G1 V M2 D
+Bonher        3213 X89566A-0   Ag Ni O:(3112)   R  204 So K1 V M7 D
+Grammle       3214 B357432-9  M Lo Ni              204 So F4 V M1 D M4 D
+Wabaska       3215 B5A0522-A    De Ni              204 So A2 II
+Euase         3217 D63866A-5    Ni O:(3117)        825 So M7 V
+Cavallo       3220 B000120-D  M As Lo Ni           301 So K3 III

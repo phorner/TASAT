@@ -1,0 +1,53 @@
+@SUB-SECTOR:Salient SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Bachylar      1732 E575100-8    Ag Lo Ni           224 So F0 V
+Sparrowhawk   1733 C333857-C    Na Po              912 So F1 V M5 D
+De Moyne      1734 D7B0120-5    De Lo Ni           212 So G5 III M5 V
+Taupo         1737 A564547-E    Ag Lo Ni           151 Na F6 V
+Williamsburg  1832 A33478D-E  N                    814 So M1 V
+Pyersson      1833 E45778A-3                       223 So F8 V M7 D
+Mueller       1834 E666576-6    Ag Lo Ni           715 So F3 V
+Huron         1838 D769723-8                       902 Na G5 V
+Alviss        1932 E221532-8    Lo Ni Po           503 So G1 V
+McNally       1934 C475621-9    Ni                 400 So F1 V
+Lawrence      1936 D69A432-6  S Lo Ni Wa           915 Na G0 V M5 D
+Holden        2033 C333421-9    Lo Ni Po           714 So M0 IV
+Jewish        2034 E566557-4    Ag Lo Ni           804 So G8 V M2 D
+Shmuel        2035 C56A045-7  S Wa                 105 Na F2 V
+Crender       2036 B460101-A  A De Lo Ni           624 Na F5 V
+Fioria        2037 D300342-8  S Lo Ni Va           600 Na M8 II
+Pendragon     2038 C89A332-9    Lo Ni Wa           914 Na F7 V
+Hansel        2131 E100743-7    Na Va              603 So K2 V
+Ambrosius     2135 E100132-9    Lo Ni Va           904 So M8 V M1 V
+Loki          2140 E565224-3    Ag Lo Ni           603 Na F9 V
+Elke          2234 D335200-8  S Lo Ni              704 So G6 V M1 D
+Edmonds       2240 B252001-9    Ba                 322 Na F8 V
+Florence      2332 B313012-8    Ic                 414 So M0 V
+Filio Petri   2333 C6549B9-6    Hi                 401 So G9 V
+Diconson      2340 E300203-8    Lo Ni Va           902 Na G6 V
+Apollyon      2432 B436476-E    Lo Ni              104 So G9 V
+Lincoln       2436 A636A77-D    Hi In              703 Na G0 V M2 D
+Ernst         2437 D84A665-8  S Ni Wa              305 Na F5 V

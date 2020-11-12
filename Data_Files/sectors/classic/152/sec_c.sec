@@ -1,0 +1,53 @@
+@SUB-SECTOR:Castine SECTOR:Canopus
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Newbond       1802 B3009AD-E    Hi Na Va           620 So F0 V M9 D
+Swaedient     1806 C200626-6    Na Ni Va           321 So K2 V M9 D
+Oresteia      1809 C334556-A    Lo Ni              613 So K3 V
+Farrokh       1901 E778454-4    Ag Lo Ni           114 So G4 V
+Howor         1904 B957413-9  N Ag Lo Ni           424 So F6 V
+Waht          1908 CAA6335-8  S Fl Lo Ni           901 So M1 V
+Asha          1909 E200613-7    Na Ni Va           604 So F6 V
+Rilfri        2001 A220A9B-E    De Hi In Na Po     900 So F0 V
+Agsded        2004 D201777-C  S Ic Na Va           410 So M7 V
+Crispino      2007 E682265-4    Lo Ni              604 So G9 V M8 D
+Hakiem        2101 CAD579D-A                       225 So M9 V
+Scanlon       2103 B86AABC-E    Hi Wa              802 So F3 V M7 D
+Dilon         2108 A000677-C  N As Na Ni Va        402 So K5 V
+Riamon        2202 E200123-6    Lo Ni Va           902 So M5 V M0 D
+Edie          2203 C8B3042-5    Fl                 402 So F0 V
+Atalanta      2204 C6448A9-6  S                    623 So F0 V
+Elias         2205 C572443-7  S Lo Ni              902 So F8 V M9 D
+Colin         2209 B8B1221-A    Fl Lo Ni           710 So F7 V
+Pabst         2210 C412420-B    Ic Lo Ni           410 So G7 V
+Bayonne       2304 B232786-C    Na Po              204 So M7 V
+Kaprin        2305 B855761-9                       202 So G9 V
+Lester        2308 C585767-5    Ri                 814 So K3 V
+Bernoulli     2310 C739269-9    Lo Ni              221 So M9 V
+Eldin         2402 B381234-C    Lo Ni              214 So F9 V M2 D
+Gillette      2403 A160300-E  A De Lo Ni           923 So F6 V
+Pynyngg       2404 C243477-6    Lo Ni Po           412 So F7 V
+Sonia         2407 C304447-7  S Ic Lo Ni Va        215 So M1 V M1 D
+Dargo         2410 E877202-9    Ag Lo Ni           125 So K5 V M0 D
