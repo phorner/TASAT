@@ -1,0 +1,33 @@
+@SUB-SECTOR:Uroedhfuez SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Ghaerergvoulor0113 C9A2777-8  H Fl                 920 Ve F6 V 
+Dhuou         0119 B596211-4    Lo Ni              424 Ve F7 V M2 D
+Khuekoekoeksgh0213 B7A4330-B  G Fl Lo Ni           200 Ve F7 V 
+Ikaekoeng     0218 C335643-5    Ni                 502 Ve K0 V K6 V
+Saaetsoukhksae0313 A544115-A  G Lo Ni              801 Ve F5 V
+Saaetsoukhksae0314 A544115-A  G Lo Ni              801 Ve F5 V 
+Gougzagvoe    0319 C736210-6    Lo Ni              705 Ve M3 V M2 D
+Gougzagvoe    0320 C736210-6    Lo Ni              705 Ve M3 V M2 D
+Ksoughzlerrgla0413 C360533-6  G De Ni              702 Ve F0 V M6 D 
+Zakhsounzuekat0415 C210434-B    Ni                 203 Ve G4 V 
+Ngaeknonogh   0419 D400657-6  G Na Ni Va           303 Ve M0 V
+Eloekhrarr    0515 D678696-4  C Ag Ni              805 Ve F8 V
+Knourravoekhs 0517 D000559-9    As Ni              804 Ve M5 V 
+Kaeggaegzukan 0518 B8C5200-C  G Fl Lo Ni           101 Ve M8 V 
+Goenaelkfoungt0613 B340562-B    De Ni Po           802 Ve F4 V 
+Garrarro      0615 CAD647A-4  C Fl Ni              405 Ve M2 V M2 V 
+Dhegu         0617 C460320-8    De Lo Ni           401 Ve F0 V 
+Uroedhfuez    0618 A000786-D  G As Na              924 Ve F2 V M8 D
+Ghikhaers     0712 A7A4302-8    Fl Lo Ni           804 Ve M3 III M8 V
+Dzaersaesae   0812 C542124-6  G Lo Ni Po           211 Ve G6 V
+Goenarrghakhsu0814 E784579-6    Ag Ni              200 Ve F7 V M7 D 
+Kfagonguae    0815 B120548-B    De Ni Po           319 Ve M0 V M0 D
+Rrosokhsaersoe0818 E775001-6  C Lo Ni              110 Ve F6 V M4 D M6 D
+Kaegzzongksuza0819 E665202-6    Lo Ni              300 Ve F3 V M1 V

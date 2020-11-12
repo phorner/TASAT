@@ -1,0 +1,50 @@
+@SUB-SECTOR:B   SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gotsaedz      0902 C1609CD-7  G De Hi In           302 V5 F7 V
+Rouksougho    0909 C200563-6    Ni Va              913 V5 G0 V
+Gorosaekhs    0910 B332120-8    Lo Ni Po           204 V5 M8 V M1 D 
+Kurrouta      1002 D450673-4  G De Ni Po           302 V5 F0 V 
+Thoeoks       1004 C77A230-5    Lo Ni Wa           121 V5 F6 V
+Urzokhurz     1101 C453456-A  G Ni Po              204 Va G5 V 
+Irrorr        1107 E788555-4  C Ag Ni              206 V5 F4 V M4 D M0 D 
+Fukoksa       1108 C549898-2  C                    618 V5 G7 V M3 D
+Kuzoevo       1201 E426978-8    Hi In              103 Va F8 V 
+Osong         1209 C767256-7    Lo Ni              910 V5 G7 V
+Dzaeghaek     1308 CADA500-C  G Fl Ni Wa           514 V5 M0 V M3 D
+Ghaung        1310 C779624-4  G Ni                 103 V5 F7 V M5 D 
+Dhongvoudz    1402 C8B5554-8    Fl Ni              703 V5 K2 V 
+Arzanngaer    1403 B200766-6  G Na Va              102 V5 M1 V M4 D 
+Ksagaegigha   1405 E998102-3    Lo Ni              700 V5 F1 V
+Aekkoekhs     1407 D434643-6  C Ni                 402 V5 M2 V M1 D 
+Korsoghagorz  1410 C67A77B-7    Wa                 212 V5 F5 V 
+Faeksugh      1501 E300234-7    Lo Ni Va           823 VG M8 D M3 D 
+Orzong        1504 B572210-A    Lo Ni              222 V5 F4 V 
+Gzaekeng      1506 C56897A-7    Hi In              100 V5 G5 V 
+Dzekseghzaek  1601 A589310-7    Lo Ni              420 VG F1 V 
+Kseka         1602 C521654-7    Na Ni Po           213 VG F2 V M3 V 
+Kfukhsodz     1604 D321664-3    Na Ni Po           702 V5 M3 V 
+Ughaerrig     1605 D648677-2    Ag Ni              114 V5 F2 V M2 D 
+Rundzer       1607 B330874-9    De Na Po           914 V5 F4 V 

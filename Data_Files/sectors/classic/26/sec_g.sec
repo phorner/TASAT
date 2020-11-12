@@ -1,0 +1,18 @@
+@SUB-SECTOR:Gvaellai SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gaethadhoedhon1715 C689745-7    Ri                 611 Ve F8 V M1 D 
+Gaethadhoedhon1716 C689745-7    Ri                 611 Ve F8 V M1 D
+Khirurs       1911 C9A6898-7  G Fl                 711 Ve F0 V M3 D
+Kothengthek   1912 C342522-5    Ni Po              500 Ve M2 V M7 V
+Ghuekaedzkherr2019 C000974-A  C As Hi Na           323 Va F2 V 
+Range         2020 E769766-3  C Ri                 914 Va F6 V
+Vungaeraraerrg2114 B78A579-B  G Ni Wa              200 Va F9 V
+Gvaellai      2119 C447675-7  G Ag Ni              903 Va F4 V 
+Rueksersaetskn2311 C899200-7  G Lo Ni              802 Ve M6 V M6 D

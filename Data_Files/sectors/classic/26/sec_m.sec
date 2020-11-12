@@ -1,0 +1,34 @@
+@SUB-SECTOR:Agzedz SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Kiou          0131 E534326-5  C Lo Ni              128 Ve M6 V M8 D
+Kiou          0132 E534326-5  C Lo Ni              128 Ve M6 V M8 D 
+Dovo          0133 B748697-6  G Ag Ni              204 Ve F0 V M0 D
+Dovo          0134 B748697-6  G Ag Ni              204 Ve F0 V M0 D
+Kadhaenikhs   0135 C73A100-B  C Lo Ni Wa           601 Ve M7 V 
+Kadhaenikhs   0137 C73A100-B  C Lo Ni Wa           601 Ve M7 V
+Radzaenodztsae0232 D334544-5  C Ni                 707 Ve M1 V M7 D
+Ruekhsaelkodzo0238 B596532-7    Ag Ni              314 Ve F6 V
+Ulliannoerr   0335 B374467-8  G Ni                 207 Ve F5 V M0 D 
+Ulliannoerr   0336 B374467-8  G Ni                 207 Ve F5 V M0 D 
+Duerrkhueth   0338 C573514-8    Ag Ni              413 Ve F0 V M1 D
+Duerrkhueth   0339 C573514-8    Ag Ni              413 Ve F0 V M1 D 
+Onguerrighzoun0433 B546A76-A    Hi In              803 Ve F9 V 
+Onguerrighzoun0434 B546A76-A    Hi In              803 Ve F9 V
+Outsalae      0437 D998689-4  C Ag Ni              300 Ve M1 V 
+Gazrroerak    0438 A225597-D  G Ni                 602 Ve A6 V
+Ikhsorrgrrudz 0537 D510400-3  C Ni                 220 Ve A0 V 
+Odugh         0636 B332247-B    Lo Ni Po           302 Ve M7 II 
+Kfuegvoerrodz 0639 XAE3751-0  C Fl                 604 Ve M2 V 
+Gakhsadall    0732 A645972-D  G Hi In              123 Ve F9 V F7 V 
+Gakhsadall    0733 A645972-D  G Hi In              123 Ve F9 V F7 V
+Khuedorurzvaen0738 E687579-2  C Ag Ni              103 Ve F1 V M6 D
+Llorrargnoksat0740 B997640-7  G Ag Ni              410 Ve F0 V M2 D
+Koeghzongorrae0831 A352101-B  G Lo Ni Po           805 Ve F6 V M0 D 
+Ghaerruekakh  0833 E441788-6    Po                 704 Ve F1 V M5 D

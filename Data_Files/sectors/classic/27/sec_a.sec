@@ -1,0 +1,54 @@
+@SUB-SECTOR:A   SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aekksakhazo   0102 C230211-7  G De Lo Ni Po        401 Ve M0 V 
+Aghzizor      0105 E34559A-2    Ag Ni              900 Ve M6 V
+Khullung      0108 C1007BA-A  G Na Va              601 Ve F5 V
+Uengkikgi     0204 C00046A-8    As Ni              203 Ve F3 V M0 D
+Ghongal       0210 C9C3244-3  C Fl Lo Ni           704 V5 M5 V 
+Gorsakhsang   0306 D1209CB-9    De Hi In Na Po     503 V5 F1 V M5 D M8 D 
+Kfodzours     0310 C469448-6    Ni                 315 V5 F5 V 
+Gnanukhsen    0404 E55A876-5  C Wa                 910 V5 F8 V
+Llakirrg      0405 CA887AD-4    Ag                 211 V5 K3 V 
+Atsngoerr     0407 X242510-0    Ni Po              722 V5 F2 V F5 V M7 D 
+Zououz        0409 E510679-2    Na Ni              301 V5 M2 V 
+Zursgaenoen   0410 E328344-6    Lo Ni              805 V5 G0 V M8 D 
+Kedanksek     0501 D79689C-3                       802 Ve F6 V M7 D 
+Arae          0504 C9768CC-7                       500 V5 F6 V 
+Gvugvatsong   0506 C585446-5  C Ni                 115 V5 F7 V 
+Siedzthokh    0507 E849422-3    Ni                 116 V5 K9 V M8 D
+Ksikhsoloug   0601 AAD8625-B  G Fl Ni              300 Ve K7 V
+Vuvikou       0603 A351438-D    Ni Po              405 V5 F6 V 
+Rreedzredh    0605 E5566BF-4  C Ag Ni              602 V5 F2 V M4 D
+Totsoung      0608 D898640-0    Ag Ni              716 V5 F8 V M4 D 
+Llaangken     0609 B44678B-8    Ag                 714 V5 F5 V
+Gvaengfadz    0701 C412620-6    Ic Na Ni           510 Ve F1 V 
+Kfokfukdae    0703 C473303-8    Lo Ni              307 V5 G5 V M8 D
+Saeghu        0704 C653446-8  C Ni Po              915 V5 M4 V M4 D 
+Kongelvae     0706 C533552-A    Ni Po              503 V5 M1 V 
+Nongdhangae   0708 D88A364-4  C Lo Ni Wa           200 V5 F8 V
+Vaou          0710 C65548A-8    Ni                 604 V5 G7 V
+Douzaaeks     0801 E968475-6    Ni                 312 V5 F9 V 
+Khongaets     0810 B868520-4    Ag Ni              700 V5 G1 V 

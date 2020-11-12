@@ -1,0 +1,62 @@
+@SUB-SECTOR:K  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gvuengkakh    1721 B300575-9    Ni Va              616 V5 M5 V M2 D
+Arriraez      1722 E40055A-4  C Ni Va              901 V5 K1 V M5 D
+Zungaenvor    1723 E584611-3  C Ag Ni              504 V5 F4 V 
+Guekuoe       1724 E000677-4  C As Na Ni           900 V5 M2 III 
+Raeziueg      1821 D97A973-3  C Hi In Wa           500 V5 F5 V
+Rronak        1822 D573796-1  C Ag                 204 V5 K9 V 
+Zuekhfo       1824 E87977A-7  C                    400 V5 F7 V 
+Lloukaeukhs   1825 C150675-4    De Ni Po           914 V5 G0 V 
+Seuo          1827 B79A545-B  G Ni Wa              601 V5 F2 V 
+Foenrars      1828 C646240-2  G Lo Ni              922 V5 F4 V 
+Kazoughgzun   1921 E360448-5    De Ni              412 V5 F1 V 
+Anokang       1923 E312544-4  C Ic Ni              412 V5 G1 V 
+Koerrruell    1925 E785620-2  C Ag Ni              126 V5 F9 V M2 D
+Adharen       1928 C210699-6  G Na Ni              304 V5 F2 V 
+Enakh         2021 E200221-8  C Lo Ni Va           300 V5 F2 IV
+Khuenzakgorr  2023 C9A4874-5    Fl                 613 V5 F5 V M0 D
+Gnurskfonan   2024 A425120-A  C Lo Ni              512 V5 M6 V M5 D 
+Llaedhue      2025 A4638DB-6  G                    512 V5 F8 V M5 D
+Kusath        2124 D575976-3  G Hi In              501 V5 F0 V 
+Aurro         2125 C541440-4    Ni Po              500 V5 K9 V 
+Gogvoeroghz   2126 D757466-6    Ni                 924 V5 F1 V
+Knueraerrun   2128 D100777-3    Na Va              118 V5 M4 V M1 D F9 V M4 D
+Oghtullourro  2129 C257783-8    Ag                 322 V5 F1 V M6 D
+Losose        2222 B585778-7    Ag                 922 V5 F7 V
+Kagzvaeth     2223 C260754-7    De Ri              910 V5 F0 V 
+Soru          2227 C327A75-D  C Hi In              304 V5 F4 V 
+Urrgueursar   2229 C000533-8  C As Ni              302 V5 M6 V
+Gnaetaoerr    2322 C326533-9  G Ni                 206 V5 M7 V M0 D 
+Suzaoen       2323 A200202-B  G Lo Ni Va           313 V5 M1 V M0 V 
+Founuer       2325 A000331-C  C As Lo Ni           900 V5 M7 V 
+Gazoun        2326 D340975-6    De Hi In Po        400 V5 F1 V
+Dhanvuerr     2329 D52447C-8    Ni                 903 V5 M4 V K8 V 
+Zuzaekhuegh   2424 E9C7487-8  C Fl Ni              713 V5 F1 V M2 D
+Oesodhakhs    2425 B72A67A-8    Ni Wa              903 V5 K7 V M3 D 
+Kazzoukal     2426 BAC7746-9    Fl                 802 V5 K3 V M1 D 
+Ongnonggors   2428 E98A495-5  C Ni Wa              101 V5 F9 V 
+Rozuth        2429 C300435-6    Ni Va              804 V5 M4 V 

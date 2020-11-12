@@ -1,0 +1,28 @@
+@SUB-SECTOR:Thaengg  SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Llaengksaesuez2501 B8B7588-7    Fl Ni              804 Ve M7 V 
+Naerraghounglu2508 A896563-B  G Ag Ni              603 Ve G4 V M8 D
+Aknaen        2601 E6557AC-0  C Ag                 801 Ve M2 V M3 D 
+Dhokhgoesgzaen2603 B32065A-B    De Na Ni Po        504 Ve M0 V M0 D
+Kfaengfaegzued2608 C638765-5                       203 Ve M0 V
+Kfuengluengagh2610 A746674-8  G Ag Ni              117 Ve F8 V M8 D M1 D 
+Saenallsogvurs2702 D100643-4    Na Ni Va           100 Ve M4 V
+Fokhgholl     2706 E402678-6  C Ic Na Ni Va        413 Ve F8 V 
+Kaedzorrgansuk2801 EA9A9A8-6  C Hi In Wa           804 Ve F8 V M1 D 
+Kadzghangknaz 2806 E764551-5    Ag Ni              302 Ve M1 V
+Thaenggaerrghr2809 A8B0103-C    De Lo Ni           310 Ve M2 V 
+Ghoknoeghekaek2904 C586977-5  C Hi In              203 Ve M0 V
+Zinnedhon     2907 A562679-7    Ni                 700 Ve K9 V 
+Deiuedourrgh  3008 C98A468-5    Ni Wa              413 Ve F5 V M5 D
+Ozaaeving     3102 A430777-A  G De Na Po           802 Ve G8 V 
+Ksuerazvaegh  3103 A500975-B  G Hi Na Va           903 Ve F5 V 
+Doaekfoe      3107 E564666-4  C Ag Ni Ri           405 Ve F1 V M2 D
+Giknaghaergnoe3203 C200110-5    Lo Ni Va           703 Ve M6 V K8 V 
+Khozkhanueks  3207 C360422-7  C De Ni              614 Ve K9 V 

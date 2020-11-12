@@ -1,0 +1,33 @@
+@SUB-SECTOR:Oughzkur SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Tsavaekelleoka0913 E362322-4  C Lo Ni              402 Ve F0 V M5 D 
+Kfoukhsoeksakh0919 E610878-4    Na                 404 Ve G1 V M3 V 
+Thallaeuekhour1014 B34277B-8  G Po                 702 Ve F5 V  
+Varsarsgoughzk1016 A9A1332-B    Fl Lo Ni           301 Ve M5 V M6 D
+Vaghueoekogkfe1018 C373200-B    Lo Ni              904 Ve M7 V
+Dueknounora   1114 B140566-A    De Ni Po           513 Ve K1 V M7 D F4 V 
+Dueknounora   1115 B140566-A    De Ni Po           513 Ve K1 V M7 D F4 V
+Avathuedztus  1216 A535879-A  G                    403 Ve F9 V 
+Avathuedztus  1217 A535879-A  G                    403 Ve F9 V 
+Avathuedztus  1218 A535879-A  G                    403 Ve F9 V 
+Ksurrghoukurag1219 C569766-7  C Ri                 422 Ve M7 V
+Ksurrghoukurag1220 C569766-7  C Ri                 422 Ve M7 V
+Thakhaen      1311 B697002-9  G Lo Ni              712 Ve F6 V M8 D
+Knadhekhdzourr1314 D656278-3  C Lo Ni              702 Ve F6 V M7 D 
+Ghaengoe      1316 D643101-2    Lo Ni Po           814 Ve F0 V M6 D 
+Kfaeraekhokhag1416 D443545-7    Ag Ni Po           412 Ve F0 V M4 D
+Vezghoutstueg 1418 B100873-8    Na Va              808 Ve F3 V K6 D
+Fazoklael     1512 B200642-7  G Na Ni Va           102 Ve M6 III
+Zige          1518 B556610-8  G Ag Ni              314 Ve F7 V
+Zige          1519 B556610-8  G Ag Ni              314 Ve F7 V
+Khaezvitsllugh1613 C582764-6  C Ri                 410 Ve F9 V
+Ghaeksaraen   1614 D67A001-5    Lo Ni Wa           200 Ve F5 V 
+Ghaeksaraen   1615 D67A001-5    Lo Ni Wa           200 Ve F5 V 
+Oghughafaedzzi1618 D79A459-7    Ni Wa              401 Ve F9 V 

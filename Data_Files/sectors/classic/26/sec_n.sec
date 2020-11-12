@@ -1,0 +1,27 @@
+@SUB-SECTOR:Thalrue SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gherouzdounkha0932 E243566-5    Ag Ni Po           314 Ve F7 V 
+Agaknae       0938 C778554-9  G Ag Ni              513 Ve F6 V 
+Knougthangvuen1036 B626536-9    Ni                 632 Ve M0 V M5 D 
+Thalrueloukhs 1039 A9D0854-9  G De                 204 Ve G9 V
+Thalrueloukhs 1040 A9D0854-9  G De                 204 Ve G9 V
+Khiaeue       1132 C110876-6  C Na                 923 Ve M8 V 
+Llotourzong   1133 C442352-7    Lo Ni Po           402 Ve F1 V
+Ghivokhaka    1139 D555222-4  C Lo Ni              703 Ve M4 V 
+Roetsuetsdharr1234 C798775-2  G Ag                 301 Ve K5 V  
+Anuekhakhsror 1333 C772879-5                       500 Ve F0 V 
+Gneknognorae  1340 D777226-2    Lo Ni              210 Ve F2 V
+Ksuangkharrgh 1432 C150872-4    De Po              535 Ve F0 V M8 D
+Zuzog         1435 B310887-B    Na                 514 Ve F2 V
+Ronzoutslloez 1440 D515000-2  C Ba Ic Lo Ni        303 Ve A8 V M5 V  
+Gaekighdhagh  1532 D7786A9-4    Ag Ni              901 Ve F7 V M5 D 
+Gaekighdhagh  1535 D7786A9-4    Ag Ni              901 Ve F7 V M5 D
+Gaekighdhagh  1536 D7786A9-4    Ag Ni              901 Ve F7 V M5 D 
+Gaekighdhagh  1537 D7786A9-4    Ag Ni              901 Ve F7 V M5 D

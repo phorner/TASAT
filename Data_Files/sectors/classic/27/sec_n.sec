@@ -1,0 +1,42 @@
+@SUB-SECTOR:N  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gzaedhkirrg   1131 X6A0725-0  C De                 924 Va M8 V   
+Aengllog      1234 C444A76-C    Hi In              804 V5 G7 V
+Dalzudoe      1332 E435445-6  C Ni                 705 V5 G2 V
+Lluerzaez     1337 E551630-5  C Ni Po              313 V5 F5 V 
+Ngaeugh       1339 C876430-4    Ni                 100 V5 F0 V 
+Duvarroez     1433 C536554-B  C Ni                 302 V5 M5 V
+Gzugo         1437 A130535-C    De Ni Po           314 V5 F9 V
+Ruthfaegh     1439 BAA6753-8  C Fl                 703 V5 M0 V M5 D
+Aethou        1440 C86A302-B  G Lo Ni Wa           704 V5 M2 V 
+Dzekevaeng    1531 C773644-7    Ag Ni              710 V5 F4 V 
+Duoeng        1537 D667336-5    Lo Ni              622 V5 F9 V  
+Sudhaenga     1538 C100979-D    Hi Na Va           443 V5 F5 V M0 D 
+Saoeng        1540 C51177B-5  C Ic Na              113 V5 M8 V M5 D
+Gzazoevaellu  1632 C300445-7  H Ni Va              218 V5 A1 III K9 V
+Khakhang      1636 A675565-9  G Ag Ni              502 V5 M4 V M5 D 
+Itsarrg       1637 D86A532-5    Ni Wa              114 V5 G9 V M0 D
+Kaetoe        1640 C252232-9  C Lo Ni Po           316 V5 F5 V M6 D 

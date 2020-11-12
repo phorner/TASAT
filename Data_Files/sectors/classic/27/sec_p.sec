@@ -1,0 +1,62 @@
+@SUB-SECTOR:P  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gvonksu       2532 C354620-7  G Ag Ni              111 Va F9 V M7 D
+Akhodon       2533 E2106AC-6    Na Ni              502 Va M2 V 
+Lodaeegzzuen  2536 C66697B-5    Hi In              800 V5 F3 V M2 D
+Tuekheaekgil  2540 D453322-6  C Lo Ni Po           614 V5 F1 V M8 D 
+Soudzae       2632 C558588-3    Ag Ni              800 Va F7 V 
+Ouksgzueue    2633 D858757-2  G Ag                 801 Va F0 V 
+Falulduerr    2635 B300536-9  G Ni Va              301 V5 G4 V
+Ueaeltho      2636 A557110-B    Lo Ni              315 V5 F4 V M6 V 
+Oelkfaezong   2637 C120644-5  C De Na Ni Po        217 V5 K4 V M4 D 
+Ksoegusnoeks  2638 C300978-C  C Hi Na Va           903 V5 G0 V M4 D 
+Ogluaedh      2733 D322633-3    Na Ni Po           214 Va M4 V M5 D
+Roulnoul      2739 C754664-3    Ag Ni              200 V5 K4 V M7 D
+Rudanaeghkue  2832 C561875-5  C                    801 V3 G7 V M5 D
+Adhaeaur      2833 D978877-1  G                    800 V3 F7 V
+Ozkhangouz    2836 C404200-9    Ic Lo Ni Va        100 V3 K0 V
+Gvooull       2837 E556567-3  C Ag Ni              501 V3 F1 V M1 D 
+Oerrgoes      2931 D524875-4  H                    810 V3 K4 V 
+Ksursvuerr    2933 C647400-9  G Ni                 100 V3 F8 V  
+Daegrouruek   2935 B558579-8  G Ag Ni              404 V3 K5 V M1 D
+Gaerzgnis     2937 C8899C9-7    Hi In              203 V3 F1 V
+Tsaeousorrg   2940 C9A59CE-9    Fl Hi In           305 V5 M6 V M6 D 
+Uetae         3032 E664448-5  C Ni                 211 V3 G0 V M0 D 
+Thuge         3033 C333742-8  G Na Po              400 V3 K0 IV  
+Delourruk     3035 B455799-9  G Ag                 401 V3 F5 V
+Gotsalough    3036 E536687-3  C Ni                 402 V3 M8 V 
+Agdzakkfak    3038 B36287A-7                       803 V3 G0 V 
+Eghzsoeghz    3133 C7B5121-7  C Fl Lo Ni           101 V3 F7 V M1 D 
+Daerdzok      3134 X54689C-0  C                    526 V3 F1 V M3 D 
+Gaegogouag    3136 C66938A-A    Lo Ni              213 V3 F5 V
+Soukae        3139 A496432-C  G Ni                 711 V3 F1 V M4 D 
+Fullgnagz     3140 E262563-5  C Ni                 203 V3 F2 V   
+Ozaa          3231 C100658-8  C Na Ni Va           502 V3 M5 V
+Lloeruoe      3233 B40157C-B    Ic Ni Va           200 V3 F4 V M7 D 
+Aghoers       3234 D778624-0  G Ag Ni              224 V3 G3 V M3 D 
+Ueuaz         3236 D575100-1    Lo Ni              302 V3 F2 V 
+Naetsdel      3237 D786657-0    Ag Ni Ri           804 V3 G0 V 
+Ngokharsuegz  3240 C210113-B    Lo Ni              905 V3 K7 V M4 D 

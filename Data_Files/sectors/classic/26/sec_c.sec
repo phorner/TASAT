@@ -1,0 +1,24 @@
+@SUB-SECTOR:Gnokdhis SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zoughzvungran 1702 C546232-6  G Lo Ni              423 Ve F0 V
+Kfagaknu      1708 E636778-6  C                    702 Ve M2 V 
+Sanatsvoekhog 1801 D726000-1  G Ba Lo Ni           714 Ve G8 V
+Nganrounggaegg1808 BAFA543-C    Fl Ni Wa           223 Ve A7 V 
+Kseghgodh     1906 C36848C-6    Ni                 414 Ve G9 V 
+Zidhoorr      2001 C344412-4  G Ni                 913 Ve F9 V M1 D 
+Dhoknaekfuers 2004 A322444-C    Ni Po              312 Ve M2 V 
+Oeoengnokdhis 2107 A524A68-G  G Hi In              121 Ve F2 V
+Nguegovaghek  2110 E638876-0                       402 Ve K7 V M3 D 
+Zarzikhdaeg   2201 B000468-A    As Ni              903 Ve G3 V 
+Ksenganzar    2207 C346879-3                       528 Ve F8 V M3 D M2 D
+Ingaeksllaelar2209 D4946BC-1  C Ag Ni              423 Ve F2 V M0 D M0 D
+Gzaeou        2302 C400977-9    Hi Na Va           626 Ve G0 D M6 D 
+Gvoedzaerug   2307 CAB4AFK-8    Fl Hi In           220 Ve F1 V 
+Naenoetssa    2403 C25057A-5  C De Ni Po           612 Ve F8 V 

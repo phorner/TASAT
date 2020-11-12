@@ -1,0 +1,52 @@
+@SUB-SECTOR:D   SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ulegz         2503 D210400-8    Ni                 104 VG K0 V
+Kuknarr       2507 D301203-5  C Ic Lo Ni Va        106 Va F8 V M2 D
+Engekh        2509 E665202-7  C Lo Ni              402 V5 K9 V 
+Naengorr      2605 B78A578-8  C Ni Wa              114 Va G8 V 
+Fudhzaes      2606 C110324-C    Lo Ni              903 Va M7 V 
+Llusuerrg     2609 D647324-4  G Lo Ni              702 V5 F1 V
+Uegthaerr     2610 A868363-D  G Lo Ni              703 V5 F6 V 
+Knangan       2706 X432344-3  C Lo Ni Po           304 Va M2 V 
+Khaegze       2708 A7B1520-D  C Fl Ni              903 V5 M7 V
+Errkfaekso    2709 E210002-2  C Lo Ni              90: V5 M7 V M1 D M8 V
+Daeakh        2801 E676610-1    Ag Ni              220 Va F5 V M3 D
+Aka           2802 C330A79-9  G De Hi In Na Po     801 Va F2 V 
+Ghatoets      2803 A566369-A    Lo Ni              912 Va F6 V M5 D 
+Orrggudhul    2804 C510586-8  G Ni                 104 Va F3 V 
+Odzkhuegodz   2805 C541875-3    Po                 514 Va K5 V 
+Gangollghaer  2806 B564001-A    Lo Ni              204 Va F6 V 
+Ekaez         2904 A120001-F  G De Lo Ni Po        800 Va M0 V 
+Nezueg        2906 D426104-9  C Lo Ni              412 Va K0 V M5 D 
+Ksodaeourr    3004 C410664-6  C Na Ni              603 Va G8 V M6 D
+Khaeaeng      3007 B737573-8    Ni                 718 VN K9 V M1 D
+Garzuzaedz    3008 B948558-7  G Ag Ni              602 VN F5 V 
+Saeanglon     3009 D454421-4    Ni                 403 VN M8 V 
+Llaeukharung  3010 A454976-B  G Hi In              601 VN K3 V 
+Orruers       3110 CAC3779-2    Fl                 910 VN M8 V
+Aersaedh      3203 D9A6753-2    Fl                 923 Va K0 V 
+Ikfu          3205 A758887-B  G                    115 Va F3 V M8 D 
+Ngarroel      3209 C610988-7    Hi Na              314 VN F7 V M5 D 

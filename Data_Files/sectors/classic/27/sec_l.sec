@@ -1,0 +1,57 @@
+@SUB-SECTOR:L  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ngogae        2521 E2008AE-7    Na Va              214 V5 F8 V
+Orraerz       2528 C946556-A    Ag Ni              804 V5 F6 V
+Tsufuesak     2621 C5767AD-5  G Ag                 702 Va K6 V
+Llellagzkas   2622 B743672-8    Ag Ni Po           903 Va F9 V
+Onotuez       2623 D361424-3  C Ni                 214 Va F3 V
+Gvagfuerue    2624 C88A677-7    Ni Wa              410 Va F1 V
+Aro           2629 B252200-A  G Lo Ni Po           713 Va F1 V M4 D
+Gisghoel      2724 B320532-9    De Ni Po           403 Va K1 V 
+Aeoursfo      2727 D436874-5                       200 V3 F2 V 
+Khaenuerrars  2728 D986340-6    Lo Ni              500 V3 F4 V 
+Orreghzar     2824 B641644-7  G Ni Po              202 V3 K0 V  
+Khoegagva     2825 A554577-A    Ag Ni              402 V3 K5 V 
+Dhaenarrgae   2826 A446878-8                       613 V3 F5 V M5 D 
+Oefaeer       2828 A689476-D  G Ni                 222 V3 F1 V 
+Llaethgir     2829 CA8A000-5    Ba Lo Ni Wa        812 V3 F2 V 
+Tsuegh        2830 E999521-2    Ni                 604 V3 F4 V
+Ngounrek      2925 C466000-5    Ba Lo Ni           710 V3 F9 V 
+Odzo          2926 C590301-7  G De Lo Ni           101 V3 G5 V M0 D 
+Angungo       2927 D563414-3    Ni                 602 V3 F8 V M0 D
+Fakforsuerr   3023 BAA4100-8  G Fl Lo Ni           902 V3 K5 V M6 V 
+Uegoukaue     3025 D237663-3    Ni                 802 V3 M6 V
+Ghaghueo      3026 A231443-E  G Ni Po              804 V3 M1 V M2 D 
+Rrunnaaeng    3027 B210302-8    Lo Ni              101 V3 A0 IV 
+Arroo         3028 C6269DE-8  C Hi In              217 V3 F3 V F0 V
+Uearruen      3029 B452978-6  G Hi In Po           403 V3 F1 V
+Gzosathgur    3121 X8A3446-0  C Fl Ni              921 V3 M2 V 
+Eerrgonrueg   3124 B310977-9  G Hi Na              204 V3 F9 V G7 V 
+Gvueuerrueng  3126 B548200-7  G Lo Ni              610 V3 F0 V M0 D
+Unouzokon     3221 C8988A9-4                       812 V3 F4 V M5 D
+Kuellaae      3225 C69767B-3    Ag Ni              800 V3 K0 V
+Aetsoul       3226 D366369-3    Lo Ni              203 V3 G5 V M7 D 
+Ngoue         3227 A535898-9                       724 V3 F4 V 

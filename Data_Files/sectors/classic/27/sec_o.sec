@@ -1,0 +1,56 @@
+@SUB-SECTOR:O  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aekknegh      1731 B454401-8  G Ni                 106 V5 M8 V M4 D
+Kaengtsekou   1732 E453898-5  C Po                 300 V5 F7 V
+Gvongel       1733 C86878C-6    Ag                 704 V5 F0 V M6 D
+Ngangazae     1735 D55289E-0    Po                 802 V5 F9 V 
+Ougakh        1740 C542743-4    Po                 900 V5 K3 V M2 V 
+Ugzfersung    1834 C696667-1    Ag Ni              303 V5 F9 V M2 D
+Gzongkael     1836 C556637-2  C Ag Ni              411 V5 F3 V
+Ueghaen       1935 D130662-8  G De Na Ni Po        602 V5 G8 V
+Kaeogzghung   1937 B7736A5-8    Ag Ni              501 V5 F9 V M7 D
+Logzagzoeng   1939 E6A1348-2    Fl Lo Ni           400 V5 M6 III G0 D
+Vanknarraegh  1940 C200403-9    Ni Va              701 V5 M0 II
+Ezorzeng      2031 B421899-7    Na Po              307 V5 M3 V M6 D 
+Aeurr         2032 E453888-6  C Po                 204 V5 F0 V M4 D
+Ourksaea      2036 C4358A9-9  C                    203 V5 F2 V
+Onggvaerrgh   2038 D386503-4  C Ag Ni              420 V5 F4 V 
+Verundzogz    2039 B210333-7  G Lo Ni              722 V5 G9 V
+Ougaghzoegz   2131 C470120-5  G De Lo Ni           702 V5 K4 V
+Oungun        2132 D223996-6  H Hi In Na Po        301 V5 F2 V 
+Tsaeggvokez   2133 D768214-6    Lo Ni              301 V5 F9 V 
+Arrgutsurr    2135 C878447-7  C Ni                 304 V5 F4 V M1 V
+Oukhsoureghz  2138 EAA8475-5  C Fl Ni              302 V5 M8 V M6 D
+Ksagval       2140 B563753-A  G Ag Ri              220 V5 F4 V M0 D
+Oaeough       2231 B552431-9  G Ni Po              310 V5 F1 V M4 D
+Aedhoonor     2234 E425226-7    Lo Ni              806 V5 G5 III M5 V M6 D 
+Ogira         2331 C655535-6    Ag Ni              410 V5 M2 V 
+Goutsorga     2333 D140899-6    De Po              835 V5 F1 V M3 D
+Urrguerr      2335 C585777-6  C Ag                 422 V5 G6 V
+Dukaers       2337 A587125-9    Lo Ni              813 V5 F9 V
+Kigukhs       2340 C45597A-6    Hi In              415 V5 F2 V M2 D
+Rothkuroung   2434 D200510-4  C Ni Va              125 V5 G9 V M3 V
+Gnogal        2440 B51055A-A    Ni                 600 V5 M0 V 

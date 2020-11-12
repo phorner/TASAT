@@ -1,0 +1,29 @@
+@SUB-SECTOR:I  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ounnon        0122 B87A976-9    Hi In Wa           602 Va G7 V M0 D 
+Voukhsedz     0428 C44468A-6  G Ag Ni              516 Va K9 V M7 D 
+Koenaers      0529 C538757-5  G                    807 Va G6 IV M7 V M3 D  
+Gheae         0727 B304211-7  C Ic Lo Ni Va        300 Va M8 V  

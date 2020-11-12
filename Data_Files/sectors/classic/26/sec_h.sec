@@ -1,0 +1,14 @@
+@SUB-SECTOR:Noeuekf  SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rratsotsdzeng 2616 E485569-3    Ag Ni              504 Va F0 V M7 D 
+Dzethedzarzgva2812 C251000-5    Ba Lo Ni Po        711 Ve F7 V 
+Fogoeganrron  2911 D7688DG-0                       412 Ve F1 V M6 D
+Noeuekfoungong2913 B768955-9  G Hi In              613 Ve F9 V M5 D
+Adaeokfue     3014 E524330-2  C Lo Ni              303 Ve K7 V 

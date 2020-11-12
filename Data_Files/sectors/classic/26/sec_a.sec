@@ -1,0 +1,23 @@
+@SUB-SECTOR:Veakouna   SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Dzaerangaersoe0201 C655320-4    Lo Ni              525 Ve G0 V M5 D 
+Ksoedhoksikdue0205 C300577-9  G Ni Va              502 Ve M0 V
+Vudhgnaghz    0304 B436977-B    Hi In              312 Ve F4 V M6 D
+Angudhfuegh   0309 A230456-C    De Ni Po           502 Ve M3 V 
+Kfaengozil    0401 E87736A-5    Lo Ni              210 Ve F2 V 
+Dzoeghdzalogkf0404 A232776-9  G Na Po              400 Ve G8 II
+Rronguel      0408 C251622-6    Ni Po              315 Ve F3 V M2 D
+Ragvuoroengvog0606 E542555-1    Ni Po              623 Ve F3 V
+Ruuegzaladh   0608 E342658-8    Ni Po              302 Ve F0 V 
+Nokferrghauekk0702 C988677-3  G Ag Ni              100 V0 F4 V 
+Ghaeakigzuekh 0706 A434589-D    Ni                 102 Ve M2 V M8 V 
+Veakouna      0801 A746200-C  G Lo Ni              703 V0 F4 V 
+Knaengdzouksue0804 D100200-B  C Lo Ni Va           400 V0 M8 V 
+Gaefae        0807 E896301-4    Lo Ni              904 Ve F0 V 

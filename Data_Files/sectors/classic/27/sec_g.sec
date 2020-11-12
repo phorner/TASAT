@@ -1,0 +1,56 @@
+@SUB-SECTOR:G  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gazog         1712 C867403-8  C Ni                 503 V5 G0 V M7 D
+Gnaghaegz     1713 B4257BC-A  G                    302 V5 M5 V 
+Laedaerrgh    1720 C578204-9  H Lo Ni              502 V5 F9 V
+Gnoksuekh     1811 E667000-5    Ba Lo Ni           603 V5 G1 V M7 D
+Eredhok       1815 CAB5144-7  G Fl Lo Ni           322 V5 M3 V 
+Saghangaedz   1817 C455535-9  G Ag Ni              304 V5 F1 V 
+Guenegh       1819 B738588-7    Ni                 713 V5 M8 V 
+Ravoeaesue    1820 E7A2566-7  C Fl Ni              902 V5 M3 V M2 D
+Tekha         1911 E759511-4  C Ni                 300 V5 F6 V
+Dzondhae      1913 C645514-6  C Ag Ni              300 V5 F7 V M5 D 
+Ghallkaegz    1914 B232111-B  G Lo Ni Po           604 V5 M4 V M7 D 
+Riegallonzak  1915 B460367-5  G De Lo Ni           914 V5 F7 V
+Vusarrg       1917 C664244-6  C Lo Ni              416 V5 F5 V M8 D
+Ooo           2012 B9479B6-9    Hi In              224 V5 F1 V 
+Dakhsarrllo   2015 C857663-1  C Ag Ni              803 V5 F0 V M3 D 
+Urrgoen       2016 C43078A-7  H De Na Po           412 V5 F2 IV 
+Uesaen        2017 CAA7210-4  C Fl Lo Ni           212 V5 F1 IV
+Onfan         2018 C344664-5    Ag Ni              903 V5 F0 V M1 D
+Ksoegagoul    2112 E224200-4  C Lo Ni              203 V5 K7 V M8 V 
+Sokhzaenug    2115 C502876-7    Ic Na Va           903 V5 F9 D
+Khuegingazu   2119 D759479-5    Ni                 813 V5 F0 V
+Raalerrzueng  2211 E31058C-7  C Ni                 704 V5 F8 V  
+Ueksu         2212 E304442-2  C Ic Ni Va           102 V5 K3 V 
+Lufighger     2218 B9D7610-4  C Fl Ni              902 V5 M3 V 
+Lefaez        2315 B54A344-B    Lo Ni Wa           206 V5 F7 V M2 V 
+Khaegoth      2317 C210878-4    Na                 904 V5 F5 V M7 D
+Gvaeae        2319 A899744-8                       533 V5 G6 V F5 V
+Aenoen        2411 B8D4532-7  G Fl Ni              214 V5 G2 V K9 D
+Aea           2412 CAB8689-9    Fl Ni              801 V5 F8 V
+Kaaekorr      2413 C370210-5  G De Lo Ni           701 V5 G6 V 
+Gvioengoegh   2414 A884626-6  G Ag Ni              504 V5 F5 V M0 D

@@ -1,0 +1,34 @@
+@SUB-SECTOR:Agzorrue SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Zoullakhael   0927 E884440-6    Ni                 902 Ve G8 V
+Zaaesikhoe    0930 A552576-9    Ni Po              703 Ve F9 V 
+Vuersanuekhuen1024 B672752-A  G                    410 Ve F3 V
+Koeae         1028 E97A7CA-5  C Wa                 301 Ve F7 V M6 D 
+Koutuenakhueng1123 B140300-D    De Lo Ni Po        114 Ve F8 V M0 D
+Llozok        1127 C664444-9  C Ni                 603 Ve F0 V 
+Goekhsikhs    1129 X682000-0  C Ba Lo Ni           002 Ve F8 V
+Loesaego      1222 C541676-5    Ni Po              111 Ve F5 V 
+Loesaego      1223 C541676-5    Ni Po              111 Ve F5 V
+Agzorruekhkfoe1224 C332979-9  G Hi In Na Po        528 Ve G8 V M2 D
+Agzorruekhkfoe1226 C332979-9  G Hi In Na Po        528 Ve G8 V M2 D
+Gueroengksuekh1227 B420688-8  G De Na Ni Po        821 Ve M6 V M1 D 
+Ergur         1324 B510510-8    Ni                 516 Ve M3 V M3 V
+Ergur         1325 B510510-8    Ni                 516 Ve M3 V M3 V
+Azikhsodho    1327 C224212-7    Lo Ni              603 Ve M8 V
+Azikhsodho    1329 C224212-7    Lo Ni              603 Ve M8 V 
+Khueugaenguekz1424 C330979-A    De Hi In Na Po     210 Ve F9 V 
+Ksuangkharrgh 1427 C150872-4    De Po              535 Ve F0 V M8 D
+Ksuangkharrgh 1428 C150872-4    De Po              535 Ve F0 V M8 D 
+Gvatu         1522 B616410-8    Ic Ni              100 Ve M2 III
+Giksrrongoedha1528 B53A778-D  G Wa                 400 Ve M3 V 
+Giksrrongoedha1530 B53A778-D  G Wa                 400 Ve M3 V 
+Uevorrkfodze  1625 A536331-9  G Lo Ni              212 Ve M6 V M1 V 
+Ghurorrakfouga1627 A99A323-C  G Lo Ni Wa           602 Ve F6 V
+Ghurorrakfouga1630 A99A323-C  G Lo Ni Wa           602 Ve F6 V 

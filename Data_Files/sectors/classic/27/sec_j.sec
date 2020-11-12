@@ -1,0 +1,41 @@
+@SUB-SECTOR:J  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Agkuekhougz   1223 C250975-4    De Hi In Po        201 V5 M3 V
+Thaaelgzars   1224 D370621-2  C De Ni              614 V5 F3 V M7 D
+Kharsgugz     1225 C566675-7    Ag Ni              300 V5 F3 V 
+Saesoulou     1321 A44169A-B    Ni Po              700 V5 F2 V
+Kaltour       1325 XAD5A7B-4    Fl Hi In           102 V5 F4 V M6 D
+Koeenaerkoe   1326 C7879CA-7    Hi In              312 V5 F7 V 
+Neguegh       1329 C324444-8    Ni                 500 V5 F2 V M8 D 
+Doudzo        1425 E5699DH-5    Hi In              300 V5 K5 V 
+Faethkhueg    1426 E68A559-3    Ni Wa              117 V5 F9 V M4 D
+Foekhorr      1428 E988584-4  C Ag Ni              302 V5 K6 V 
+Dekhsuerrdou  1523 C586532-7    Ag Ni              311 V5 F7 V 
+Vuenengouz    1526 E585789-4  C Ag                 207 V5 F7 V M1 D F6 V
+Okhukserr     1530 C4449B9-7  C Hi In              404 V5 F7 V 
+Ueruenggoer   1622 C8B29DB-8  C Fl Hi In           224 V5 F1 V
+Ghueuedhars   1628 E250355-4    De Lo Ni Po        101 V5 K5 V M6 D 
+Ithaengkfogh  1630 B342204-9    Lo Ni Po           813 V5 M4 V

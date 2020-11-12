@@ -1,0 +1,25 @@
+@SUB-SECTOR:Dhaerzae SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Rangoenghorar 0124 C240002-8    De Lo Ni Po        202 Ve F6 V M1 D
+Ghaksoenkankfo0221 B361564-8    Ni                 804 Ve F6 V 
+Radzaenodztsae0230 D334544-5  C Ni                 707 Ve M1 V M7 D 
+Llikhun       0323 B767414-9  G Ni                 110 Ve F8 V
+Errfaghgnaekhd0324 A532553-A  G Ni Po              200 Ve M5 V
+Llokhsuezaeloe0424 B738597-B    Ni                 904 Ve M5 V 
+Kiloekithkhik 0523 B325656-8  G Ni                 905 Ve M8 V M6 V 
+Vanaerrglloghz0621 C21087A-3  C Na                 210 Ve F1 V
+Kfoekuthuegvue0623 A8B4114-C  G Fl Lo Ni           903 Ve K2 V
+Laeghaghztaegg0625 E350100-2  C De Lo Ni Po        310 Ve F1 V 
+Fakhsdhaerzae 0628 A332533-C  G Ni Po              602 Ve M3 V 
+Knoghkoughae  0630 C532147-3  G Lo Ni Po           802 Ve M6 V
+Kirraerraellou0726 C754775-1  G Ag                 215 Ve K3 V M6 D
+Kirraerraellou0728 C754775-1  G Ag                 215 Ve K3 V M6 D 
+Guvaer        0821 CA98410-2    Ni                 206 Ve F8 V M6 D
+Kfoksoudhrrigh0826 A422666-9  G Na Ni Po           422 Ve M8 V 

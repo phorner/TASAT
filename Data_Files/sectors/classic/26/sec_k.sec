@@ -1,0 +1,14 @@
+@SUB-SECTOR:Llarrkelkokh  SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Garrgthueghrae1727 D99A353-7  C Lo Ni Wa           422 Ve F9 V
+Ouakour       1830 E338321-4    Lo Ni              713 Ve A2 V M0 D
+Llarrkelkokh  1928 A150575-A    De Ni Po           803 Ve F8 V M4 D 
+Thaellonsuerra1930 E666203-2  C Lo Ni              304 Ve F3 V 
+Uefaekhsoursll2030 E466434-7    Ni                 314 Ve F1 V M2 D

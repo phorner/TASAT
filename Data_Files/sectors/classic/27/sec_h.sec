@@ -1,0 +1,56 @@
+@SUB-SECTOR:H  SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Aenllath      2511 E100578-8    Ni Va              214 V5 M3 III
+Tuoez         2512 C400562-7    Ni Va              603 V5 G8 V M7 V
+Oeldounors    2513 A948667-9    Ag Ni              505 V5 F4 V 
+Tarrgoengouk  2515 B526578-B    Ni                 410 V5 A4 V
+Ourrkazthodz  2517 C422434-B  G Ni Po              813 V5 M8 V 
+Uegaksa       2520 X767841-1    Ri                 604 V5 F3 V
+Ollaerzoerz   2612 EAD4678-1    Fl Ni              123 V5 K9 V M0 D 
+Uzouzllug     2617 C737342-8    Lo Ni              202 V5 M1 V
+Luaghdzon     2711 C699745-3  G                    210 V5 M7 V 
+Khaellou      2715 B659302-8    Lo Ni              414 Va K0 V
+Utsaezu       2813 D546878-1  G                    803 Va F8 V
+Enekhzul      2814 C110458-B  C Ni                 502 Va M3 V
+Gukazo        2815 X200568-0  C Ni Va              104 Va K0 V M0 D
+Ghaeontoeng   2817 C555651-6    Ag Ni              604 Va G4 V M6 D
+Ouaeghuerrou  2818 A76A220-C  G Lo Ni Wa           402 Va M5 V M6 D
+Kfullaerr     2819 D8B8210-6  C Fl Lo Ni           514 Va M7 V M7 V 
+Zogodhaeth    2820 B000478-A    As Ni              302 Va M4 V
+Orsok         3011 E448100-7  C Lo Ni              403 VN F5 V
+Gzitsezoegh   3012 C554234-9    Lo Ni              106 VN F9 V M6 D 
+Llothurr      3014 C544477-8    Ni                 607 Va F4 V M2 D F7 V 
+Duegoukhs     3015 C682777-7                       524 Va F0 V
+Ngalloengats  3018 C100456-7  C Ni Va              103 V3 M6 II 
+Gaegzakhou    3019 D656463-4  H Ni                 120 V3 F1 V
+Langangogzok  3020 C522388-8  C Lo Ni Po           302 V3 K1 V 
+Gheguesae     3112 C456200-9    Lo Ni              200 VN F9 V  
+Uekhseng      3115 E110699-8    Na Ni              404 Va M2 V 
+Raksoghars    3118 C100786-9    Na Va              203 V3 M7 V 
+Knarrvaerrg   3119 C7A6200-B    Fl Lo Ni           920 V3 M4 III
+Ongaerr       3120 B332564-9  G Ni Po              824 V3 K4 V M0 D
+Aaoeou        3212 C89A379-8    Lo Ni Wa           907 VN K9 V M7 D M5 D
+Thalordoaela  3218 C567633-3  G Ag Ni              416 V3 K9 V M8 V M3 D

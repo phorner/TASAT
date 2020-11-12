@@ -1,0 +1,25 @@
+@SUB-SECTOR:Akhorgh SECTOR:Fa Dzaets
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+# $1840 1841  0 1
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Gvaenuekfourr 0901 D540484-6  G De Ni Po           200 V0 F4 V
+Adhagvaedoe   1003 E140001-3  C De Lo Ni Po        521 V0 F1 V 
+Korzoukulkfueg1005 C9C4202-9  C Fl Lo Ni           103 V0 K8 V 
+Foekseaerrkhon1007 X582420-2    Ni                 205 Ve F5 V M2 D
+Zakhsoukhsinfo1010 B696234-9  G Lo Ni              502 Ve F7 V
+Kfoangksoegzks1104 A100224-A    Lo Ni Va           600 V0 M2 V
+Kothongkharz  1107 A436674-9  G Ni                 424 Ve F7 V M7 D M5 D 
+Aengaeghuekhst1202 A432110-8  G Lo Ni Po           214 V0 M8 V 
+Kfaerron      1205 B74A6AA-8    Ni Wa              804 V0 F8 V 
+Sangourrghukdz1301 B854554-7  G Ag Ni              607 Ve G4 V M6 D 
+Toskfurolkaekh1403 B000427-B  G As Ni              610 V0 M2 II 
+Thaeuoenorrnak1504 A476100-D  G Lo Ni              405 V0 K3 V 
+Alers         1506 CADA345-B  G Fl Lo Ni Wa        700 Ve M8 V M3 D 
+Uengriks      1601 D120889-6    De Na Po           902 Ve F5 V 
+Koekhsokhsdole1605 B210501-9  G Ni                 203 Ve F8 V
+Dillanen      1610 C54AA78-9    Hi In Wa           422 Ve F7 V

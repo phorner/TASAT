@@ -1,0 +1,49 @@
+@SUB-SECTOR:C   SECTOR:Gzaekfueg
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Taeurrael     1701 C989876-4                       914 VG F9 V M7 D
+Rekhoghoekh   1703 A659477-C  G Ni                 512 VG G9 V 
+Kooung        1706 C558A78-B  H Hi In              910 V5 F4 V 
+Dhurrknakh    1805 E344556-9  C Ag Ni              224 V5 F4 V M7 D
+Aengthaeg     1806 B41056A-7  G Ni                 804 V5 M5 V M8 D 
+Nakisueth     1809 D400433-7    Ni Va              205 V5 M0 V M3 V
+Gori          1901 B400269-7    Lo Ni Va           411 VG M4 V M6 V
+Foekha        1905 X97A542-1  C Ni Wa              933 V5 F8 V M6 D 
+Kfovodi       1906 C575231-6    Lo Ni              510 V5 F2 V
+Kangzaeg      2006 A150378-C  G De Lo Ni Po        811 V5 F3 V 
+Tadzogar      2009 C200146-5    Lo Ni Va           405 V5 G3 V M5 D M1 V
+Kfoeaengknen  2101 C578120-5    Lo Ni              618 VG K3 V M2 D 
+Gougnuez      2102 C66A667-9  C Ni Ri Wa           205 VG F4 V M3 D
+Akzudhtsaeo   2110 B334766-9                       523 V5 M2 V
+Tsuroeks      2203 C74A234-8    Lo Ni Wa           503 VG F9 V 
+Voguukh       2205 A69777A-7  G Ag                 203 V5 F0 V
+Aekdigh       2206 C346747-5  G Ag                 302 V5 F1 V
+Usgvourzodh   2207 D736749-3  C                    805 V5 M4 V M4 D
+Onungoghz     2210 C42289D-6    Na Po              115 V5 G7 V M8 D
+Ozon          2302 B240978-D  C De Hi In Po        303 VG G7 V 
+Khuaerrerr    2306 X567678-0  C Ag Ni              318 V5 F9 V M2 D
+Dzodzik       2310 D769536-5  H Ni                 203 V5 K8 V 
+Kfelaelung    2402 B784856-9  G Ri                 308 VG M0 V M3 D
+Ouvo          2407 E435445-8    Ni                 100 V5 M5 V 
