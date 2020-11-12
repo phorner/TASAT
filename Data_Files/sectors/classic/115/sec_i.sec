@@ -1,0 +1,35 @@
+@SUB-SECTOR:Keiar SECTOR:Reavers' Deep
+#
+$0221 0120 0 -1 14
+$0221 0320 0 -1 14
+$0221 0324 0 0 14
+$0227 0230 0 0 14
+$0230 0530 0 0 14
+$0230 0131 0 1 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Esekheali     0124 C400573-9    Lo Ni Va           504 Id M5 V M5 D 
+Ekhiwua'ea    0125 D898874-6                       504 Id G8 V
+Khtaao        0127 E5A32G7-8    Fl Lo Ni           314 As M8 V
+Khteaouw      0129 E5314L7-B    Lo Ni Po           301 As F4 V
+Islaiat       0221 A868AA9-D  J Hi                 914 Id F6 V M5 V
+Oloih         0227 B0007L7-E  T As Na Va           304 As M9 V M5 D
+Oihoiei       0230 A8557H8-E  T                    210 As F5 V M7 D
+Oirui'ea      0324 B4648BB-A                       303 Id M5 V M5 D
+Kteieaelal    0328 C9896LB-C    Ni                 714 As G0 V M0 D
+Eihewawei     0423 C110466-9    Lo Ni              413 Id M2 II
+Yaoueai       0424 E260468-7    De Lo Ni           915 Id M4 V
+Phontramus    0426 C87A341-9    Lo Ni Wa           203 Na M7 V
+Atiyr         0429 E4137H4-B    Ic Na              210 As G6 V M6 D M1 D
+Janet         0521 B9995AB-A  J Lo Ni              923 Na M2 III
+Aerin         0523 C896863-8                       320 Na M6 V M4 V
+Therad        0525 B666854-8    Ri                 601 Na M5 V M6 D
+Hrikei        0530 A7887K9-D  T Ag                 415 As G6 III
+Gwalcmai      0623 E543443-5    Lo Ni Po           800 Na G7 V M1 D
+Asden         0624 D443500-7    Lo Ni Po           322 Na M0 V
+Thekar        0626 C353000-0    Ba Lo              202 Na G3 V M0 D
+Abramo        0630 B200722-B  J Na Va              323 Na G5 V
+New Covenant  0722 A5579DE-9  N Hi                 410 Cs M8 V 
+Icarus        0729 C759855-5                       223 Na M5 V K1 D
+Tulena        0827 D746300-7    Lo Ni              523 Na G0 IV

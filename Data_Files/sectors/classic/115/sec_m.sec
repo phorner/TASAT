@@ -1,0 +1,41 @@
+@SUB-SECTOR:Uhtaa SECTOR:Reavers' Deep
+#
+$0131 0230 0 -1 14
+$0131 3031 -1 0 14
+$0234 0135 0 0 14
+$0135 3135 -1 0 14
+$0633 0734 0 0 14
+$0734 0737 0 0 14
+$0737 0738 0 0 14
+$0738 0838 0 0 14
+$0737 0937 1 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tee'airlakho  0131 A9986LB-C    Ni                 504 As M1 V
+Ahyolyo       0135 B2006L7-C    Na Ni Va           704 As M7 V
+Hesiyha       0232 CA9A5K7-9    Lo Ni Wa           623 As G8 V
+Rau           0234 A6997K7-D                       510 As M7 V
+O'Eatoaea     0235 X9899L9-8    Hi              R  614 As G7 V
+Roaa          0237 AA679H7-E  T Hi                 720 As M5 II
+Khtaoreh      0240 C1004L6-7  T Lo                 705 As F3 V
+Khyaleiftaoher0332 D8876H6-B    Ni                 913 As M1 V
+Khaiuiwelra   0335 C7896L8-8    Ni                 604 As M7 V M4 D
+Takhiykhuw    0433 D1207L2-B  T De Na Po           600 As M0 V
+Quentin       0436 E354555-5    Ag Lo Ni           202 Na G9 V
+Vyjid         0437 B9A7358-A    Fl Lo Ni           202 Na M5 V
+Angelika      0440 D4556BC-6    Ag Ni              900 Aw G6 V
+Hrealeiwea'   0531 B5758L9-E                       603 As M0 IV
+Lyo           0534 B889ABC-B    Hi                 220 Aw G3 V
+Tolde         0535 E9D9576-5    Lo Ni              102 Uh A1 V K4 D
+Galloway      0538 C684769-7    Ri Ag              102 Uh M9 II
+Miranda       0539 D5A0766-7    De                 104 Uh G7 V
+Kassia        0633 B566766-7    Ri Ag              405 Uh M1 V K2 D K9 D
+Khea          0733 X977A73-7    Hi In           R  111 Uh F2 V M7 D
+Rose          0734 D244366-5    Ag Lo Ni           420 Uh M0 V M2 D
+Gustave       0737 A9878A9-C  J Cp                 502 Uh G5 V
+Delilah       0738 C486967-4    Hi                 602 Uh M4 V
+Qusen         0834 C525858-6                       203 Na K6 IV
+Zack          0835 D350563-6    De Lo Ni Po        902 Uh G1 V
+Mingo         0838 A764201-7    Ag Lo Ni           901 Uh M8 V
+Alledra       0840 E366576-5    Ag Ni              203 Na M5 V

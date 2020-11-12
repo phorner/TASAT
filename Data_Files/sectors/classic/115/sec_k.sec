@@ -1,0 +1,37 @@
+@SUB-SECTOR:Drexilthar SECTOR:Reavers' Deep
+#
+$2221 2322 0 0 14
+$2322 2421 0 0 14
+$2421 2621 1 0 14
+$2230 2330 0 0 14
+$2330 2431 0 1 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Lajanjigal    1721 DAB6583-3    Ni                 805 Na F8 V
+Coventry      1723 X565733-2    Ag              R  404 Na F8 V
+Traneer       1727 E576679-7    Ni                 323 Na G5 V
+Dakaar        1821 B425612-B  J Ni                 202 Na K0 V D M
+Drexilthar    1826 B46969D-7  S Ni Ri           A  914 Cs G
+Kraan         1828 C501456-8    Ni Va Ic Rs Mi     223 Na A
+Daken         1830 C630233-9    Lo Ni Po De        902 Na F
+Cassandra     1924 B000538-C    Ni As              914 Na F0 V
+Outpost       1926 B110442-E  N Ni                 413 Cs K7 V M5 V
+Tashrakaar    1927 D651695-7    Po                 213 Na F6 V
+Luushakaan    2021 D541513-4    Po Ni              810 Na M1 V
+Dutrissal     2027 CAC4235-8    Ni                 802 Na K3 V
+Drellesarr    2029 B310550-A    Ni              A  502 Na M
+Drenslaar     2030 D453694-7    Ri                 813 Na K5 V
+Grendal       2127 C889855-A  S Ri                 613 Cs G3 V
+Tharril       2128 C885741-9    Ag              A  722 Na G0 V
+Sarrad        2129 D88A300-8    Ni Wa           A  820 Ca G4 V
+Garrison      2221 A35796B-B  N Hi                 412 Im M1 V
+Kaaniir       2223 C688611-6  S Ag Ni              723 Cs G1 V
+Yarhfahl      2228 C658796-6    Ag                 110 Cx K3 V
+Datinar       2230 B431685-A    Ni Po              303 Ca K7 V
+Gaargir       2322 B465304-C  2 Ni                 713 Im K4 V
+Ildrissar     2326 C995836-7                    A  200 Ca F
+Carrill       2330 A0009AE-E  J As In Na Cp        613 Ca A
+Kaanash       2421 B55687A-7  2                    414 Im G5 V
+Diablo        2423 B9C7477-8    Ni                 724 Im F0 V
+Lindritar     2429 C5796A7-8    Ni                 210 Ca G8 V

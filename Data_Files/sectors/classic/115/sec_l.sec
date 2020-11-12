@@ -1,0 +1,45 @@
+@SUB-SECTOR:Urlaggush SECTOR:Reavers' Deep
+#
+#
+$2621 2421 -1 0 14
+$2621 2622 0 0 14
+$2622 3023 0 0 14
+$3023 2724 0 0 14
+$3023 3125 0 0 14
+$3125 3226 0 0 14
+$3226 3223 0 0 14
+$3223 3220 0 -1 14
+$2829 2730 0 0 14
+$2730 2530 0 0 14
+$2530 2431 -1 1 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Inura         2523 C121312-A    Lo Ni Po           812 Im M6 V
+Hope          2526 E65778B-4    Ag              A  200 Im M5 V M4 D
+Yaggoth       2530 B864756-B    Ag Ri              222 Ca M2 V
+Lavinia       2621 A446657-E  N Ag Ni Cp           704 Im M9 IV
+Astoria       2622 B545674-A  N Ag Ni              201 Im M9 IV
+Irlaggur      2624 B6918CE-A                    A  300 Im M7 V M1 D
+Boran         2628 C3135AB-0    Ni Ic           A  300 Ca K6 IV M3 V
+Hela          2721 C331300-9    Lo Ni Po           412 Im F5 V
+Virshash      2724 DA86954-6  S Hi                 403 Im M
+Syreon        2730 C44618C-8  M                    320 Ca M7 V M7 D
+Marianne      2821 C6787C9-8  S Ag                 500 Im M9 V M8 D
+Sharrik       2824 B664896-9    Ri                 804 Im M0 IV M1 V
+Freehold      2825 E555457-7    Ni                 515 Na G3 II M7 V
+Lyresse       2828 C693651-9    Ni              A  810 Ca M2 II
+Rothman       2829 B796855-9  J                    403 Ca G7 V
+Synoff        2927 C3428CC-7    Po              A  315 Na M5 V M0 D
+New Eden      2929 X4626BC-3    Ni              R  203 Na M6 V M5 V
+Herod         2930 C5569CC-A    Hi              A  723 Na M8 V M5 D
+Olympus       3021 A000567-D  N Ni As Va           604 Im G1 III
+Urlaggash     3023 B788777-9  S Ag Ri              412 Im M7 V M0 V
+Ixion         3025 C6A1234-9    Lo Ni Fl        A  704 Im M0 V
+Araby         3027 D3709A9-8    Hi In De           704 Cs M1 V
+Devonia       3125 B566563-A    Ag Ni              213 Im M8 V
+Narisagiir    3127 E100943-8    Hi Na              503 Im M5 V
+Mecca         3129 B858768-8    Ag O:3130          813 Oc M0 V
+Oceanus       3130 A9787BD-A    Ni Wa              402 Oc G5 V
+Kaduggur      3223 C331231-7    Lo Ni Po           804 Im M0 V M8 D
+Nexus         3226 A2105AA-D  N Ni              A  712 Im M1 V

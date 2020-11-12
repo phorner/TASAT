@@ -1,0 +1,48 @@
+There are 5 volcanoes. 
+
+Ores, Crystals, Compounds are natural resources. 
+Recordings, Documents are information resources.
+
+Drellesarr was colonized in the era of the Reavers by the great Reaver
+warlord Blackjack Duquesne as a refuge for his raiders. This original
+settlement for raiders has turned into a a sprawling underground
+settlement called Blackjack.
+
+Blackjack is a Freeport in every sense of the word. A lawless, wide-open
+frontier community, the colony serves as an open port where repairs,
+alterations, and improvements can be performed on visiting starships,
+equipment legal or illegal purchases, goods marketed...all with no
+questions asked.
+
+Drellesarr's government is headed by The Commodore, who commands the
+system forces and enforces the will of The Captain's Council. The
+council grew out of a collection of Reaver ship captains, but today
+represents the leaders of the various technical and commercial factions 
+located in the system. The Commodore is elected by the Council, but is
+historically the current commander of the system defences and also holds
+a prominate position on the Council.
+
+Several subsector corporations have offices in Blackjack, including
+Dakaar Minerals, Caledon Ventures, and Carellines Ltd. Blackjack also
+has hasa factors from at least three Aslan clans. 
+
+
+TRADE & COMMERCE PROFILE                                                        
+------------------------                                                        
+                                                         
+                                                                                
+FREIGHT & CARGO                                                                 
+                                                                                
+Major Cargo Lots: 6 lots  dtons  CR/ton   Warnings                                                     
+1   Currency (Paper)       14     6,000                                
+2   Furniture              11     6,000   Fla 9+                        
+3   Disposables            15     6,000   Fla 11+                       
+4   Nitrogen Compounds     15     6,000   Cor 10+ Exp 9+               
+5   Nitrogen Compounds     16     6,000   Cor 10+ Exp 9+               
+6   Furniture              14     6,000   Fla 9+                        
+                                                                              
+Minor Cargo Lots: 4 lots                                                           
+1   Vegetables              9     6,000   Cor 11+ Fla 9+ Exp 12+ Per 8+
+2   Raw Hydrocarbons        6     6,000   Cor 11+ Fla 9+ Exp 11+        
+3   New Information         8     6,000                                 
+4   Zinc                   10     6,000   Rad 11+                       

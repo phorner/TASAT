@@ -1,0 +1,45 @@
+@SUB-SECTOR:Caledon SECTOR:Reavers' Deep
+#
+$1716 1615 -1 0 14
+$1717 1617 -1 0 14
+$1717 1716 0 0 14
+$1716 1815 0 0 14
+$1716 1917 0 0 14
+$1815 1916 0 0 14
+$1815 1813 0 0 14
+$1813 1913 0 0 14
+$1917 2017 0 0 14
+$2218 2416 0 0 14
+$2416 2616 1 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Tsanesi       1711 D653636-6     Ni Po Rs          200 Na F7 V
+Stuart        1716 A668786-B  C  Ag Ri             323 Cp F
+MacBeth       1717 B573733-A  C                    622 Cp K9 V M3 D
+Linda         1718 C657510-8     Ag Ni             820 Na FO V
+Firth         1813 C52559B-9     Ni             A  200 Cp F7 V
+Caledon       1815 A8688A5-C  C  Ri Cp             913 Cp G2 V
+Hoffman       1818 D3218A8-8     Na Po             902 Na M3 V
+Glenshiel     1912 DA86563-7     Ag Ni             602 Na FO V
+Claverse      1913 B7677BB-9  C  Ag             A  614 Cp FO V M4 D
+Grampia       1914 E132520-5     Po Ni             201 Cp MO V
+Scotia        1916 B789434-B     Ni Lo             124 Cp GO V
+Rob Roy       1917 B6469BA-B  C  Ni Hi          A  702 Cp K9 V
+Fergus        2014 C253304-7     Ni Po Lo          124 Na F7 V
+Victory       2017 A201766-C  C  Na Ic Va          914 Cp KO IV
+Skye          2018 E799751-1                       312 Na F
+Germaine      2019 A986956-D  M  Hi                301 Na F6 V
+Lhshami       2111 C477794-9     Ag Rs             600 Na FO V M1 D M5 V
+Gash          2116 DAF8573-7     Ni Fl             112 Na F1 V
+Rock          2214 B400364-A     Lo Ni Va O:2313   601 Ok M5 V
+Concorde      2218 A999587-E  N  Ni                613 Im F3 V
+Loren         2311 C57459C-7  S  Ag Ni          A  201 Cs MO V
+Kolath        2313 C7678CB-8  J                 A  424 Ok G4 V
+Kurat         2315 CAA7667-7     Fl Ni O:2313      613 Ok A8 V
+Lurammish     2320 C512755-9  S  Na Ic             800 Im M3 III MO V
+Doom          2412 X400200-4     Ni Va Lo       R  901 Na KO V
+Mer           2414 C79A520-8     Ni Wa             424 Im F8 V
+Gerim         2416 A888A97-E  S  Hi                224 Im B1 V
+Bryn          2417 B4268B8-8                       914 Im FO V
+Ikuna         2419 E000410-A     Ni As Lo          312 Im F5 IV MO D

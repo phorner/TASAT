@@ -1,0 +1,45 @@
+@SUB-SECTOR:Scotian Deep SECTOR:Reavers' Deep
+#
+$1020 0921 0 1 14
+$1020 1019 0 0 14
+$1019 1218 0 0 14
+$1218 1217 0 0 14
+$1217 1216 0 0 14
+$1216 1415 0 0 14
+$1415 1214 0 0 14
+$1214 1213 0 0 14
+$1415 1413 0 0 14
+$1415 1615 0 0 14
+$1615 1613 0 0 14
+$1615 1716 1 0 14
+$1617 1717 1 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Chenzen       0911 D747557-6  J  Ag Ni             200 Na F1 V
+Pulou         0915 C343677-7     Ni Po             313 Na G1 V
+Hernne        0917 C778584-9  S  Ag Ni             703 Cs F8 V
+Zabaloc       0919 X675AAc-5     Hi In          R  103 Na F4 V
+Palanay       1014 C462778-8     Ri                305 Na F4 V M2 D
+Rhys          1019 C766896-7  J  Ri                512 Na M7 V
+Brighton      1020 B6959AC-9     In                903 Na F5 V
+Shannon       1113 D65869B-3  J  Ag Ni Ri          604 Na K4 V
+Gavza         1117 E877453-8     Ni                703 Na M3 V
+Kambarage     1211 E5256AB-7     Ni                104 Na G9 V
+Rutherglen    1213 B7788CA-A  J                    302 Cp G2 V
+Knoydart      1214 C322624-B  J  Na Ni Po          904 Cp M7 II
+Glenelg       1216 C567778-8  J  Ag Ri             903 Cp M7 V
+Caithness     1217 A666888-B  J  Ri                102 Cp G5 V
+Rejhappur     1218 B651613-A     Ni Po          A  210 Na F9 V
+Budwick       1317 C887874-8     Ri                601 Cp M7 V
+Annan         1413 C100653-A  J  Na Ni Va          700 Cp F2 IV
+Stirling      1415 A957865-C  J                    203 Cp G7 V M4 D
+Culloden      1417 C220354-9  J  Ni Po De          124 Cp A1 II
+Arrecife      1420 E000301-9     Ni As             300 Na M8 V
+Svalbaed      1512 C202456-9     Ni Ic             302 Na M4 V
+Lanark        1518 C120403-9     Ni Po De          124 Do M3 V
+Mulkins       1520 D9B4358-7     Ni                522 Na M1 V
+Culillin      1613 B648AA9-9     In                204 Cp M3 V
+Dunbarton     1615 A886785-B  J  Ag Ri             813 Cp M6 IV
+Pentland      1616 C413533-8  S  Ni Po Ic          524 Do M0 IV
+Douglass      1617 AA979CA-C  J  In Cp             822 Do M5 V M6 D

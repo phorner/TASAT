@@ -1,0 +1,34 @@
+@SUB-SECTOR:Fahlnar SECTOR:Reavers' Deep
+#
+$2532 2431 -1 0 14
+$2532 2632 0 0 14
+$2632 2732 0 0 14
+$2732 2932 0 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Istieru       2532 A887786-B    Ri Ag              804 Ca M6 V
+Davighar      2536 D999330-4    Lo Ni              121 Na M8 III
+Calcutta      2540 A699896-C  G                    103 So K0 V
+Faranim       2632 A868742-A    Ri Ri              103 Ca M3 III
+Astorga       2633 C6B5521-8    Fl Lo Ni           212 Ca M6 V
+Hiatt         2639 A855733-A    Ag                 414 So K0 II
+Lanisteg      2732 A568569-D    Ag Lo Ni           600 Ca M1 V M9 D
+Dughur        2734 B531100-7  N Lo Ni Po           100 Cs G9 V
+Morenba       2736 D445678-6    Ni                 404 Na G0 V
+Winewood      2838 B338200-C    Lo Ni              822 So M7 IV M3 V
+Ayers         2839 C8A4574-7    Fl Lo Ni           515 So M9 V
+Gramarye      2932 B795663-7  J Ni                 203 Ca M5 II
+Mirlea        2934 C351548-A    Lo Ni Po           105 Na M0 V M8 D
+De Garthe     2937 C25488A-8                       513 Na G9 V
+Moibeal       2939 A333695-D  G Na Ni Po           801 So M1 V
+Doria         3031 B554972-C    Hi                 212 Na G8 V
+De Bilburgh   3033 C752521-5    Lo Ni Po           202 Na F5 V
+Sabana        3034 D432388-7    Lo Ni Po           102 Na M1 III
+Cerer         3036 B200688-C  G Na Ni Va           903 So M4 V M2 D
+Jasyn         3037 B314556-A    Ic Lo Ni           903 So M7 V
+Eilis         3131 C634688-8    Ni                 705 Im F3 V
+Teyl          3134 C100634-8    Na Ni Va           400 Na M2 V M7 D
+Rosemont      3136 C787796-8    Ri                 103 So G5 V M8 D
+Mauve         3232 A667833-A  N                    920 Im M2I V M5 V
+Avalon        3238 A574988-C  G Hi In              324 So F4 V M2 D

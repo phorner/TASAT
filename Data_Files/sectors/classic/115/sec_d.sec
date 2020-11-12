@@ -1,0 +1,18 @@
+@SUB-SECTOR:Gulf SECTOR:Reavers' Deep
+#
+$3209 3211 0 1 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Kyshana       2501 E000000-0    As Ba Va        R  070 Na M7 V A7 V
+Bhasad        2504 E865000-0    Ba                 213 Na G4 V
+Verini        2508 D324578-9    Lo Ni           R  903 Na M3 V F8 V
+Opitan        2510 C65889C-6                    R  403 Na F2 V
+Oloma         2610 C664632-6    Ni              R  310 Na M1 V
+Wisaaran      2803 E858000-0    Ba                 200 Na G5 V K9 V
+Vesech        2810 C764857-4    Ri                 704 Na G8 V
+Dhroma        2909 C788535-7    Ag Lo Ni           110 Na K6 V
+Keltia        3010 B484655-4    Ni Ri              122 Im G6 V G4 V
+Mirinda       3109 C120220-C  S De Lo Ni Po        301 Im M7 V K6 V F9 V
+Yimna         3207 E686720-5                       530 Im F8 V
+Kylian        3209 BA57742-A  A                    113 Im F5 V

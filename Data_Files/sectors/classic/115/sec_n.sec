@@ -1,0 +1,36 @@
+@SUB-SECTOR:Eakoi SECTOR:Reavers' Deep
+#
+$1231 1230 0 -1 14
+$0937 0737 -1 0 14
+$0937 1037 0 0 14
+$1036 0937 0 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Chantrae      0933 E63A48B-7    Ni Wa              404 Na M0 V
+Despite Tears 0937 B779666-9  J Ni                 622 Uh M0 V D M
+Yonder        0940 C997754-8    Ag                 514 Na F0 V
+St. Denis     1031 C243313-8    Lo Ni Po        A  401 Dm M5 V M0 VI
+Ghule         1034 D433677-5    Na Ni Po           102 Na M5 VI
+Freedom       1036 C587966-6    Hi                 603 Uh K5 V D M
+First Law     1037 A887767-8  J Ag Ri              614 Uh K0 V
+Emmaline      1133 E326340-7    Lo Ni           A  903 Na M5 VI
+Danelag       1136 E686889-5    Ri                 423 Na F
+Paradise      1137 E885858-6    Ri                 614 Na G0 VI D M D M
+Dirtball      1138 C200453-A    Ni Va              604 Na M0 VI D M
+Gobi          1139 D4409B9-8    Hi In Po De        102 Na M0 II M0 V
+Pendang       1231 B8769A7-A  J Hi In           A  503 Dm M0 V
+Eakoi         1235 E8579B9-5    Hi                 704 Na K0 V
+Pagosa        1433 D749220-3    Lo Ni              700 Na K
+Ekaftouh      1434 D000686-9    Na Ni As           502 Na M
+Kamloops      1531 D24247A-5    Ni Po              910 Na G
+Venice        1534 C35A995-8    Hi Wa              714 Na M
+Hihlas        1537 C674504-8    Ag Ni              723 Na F
+Soloman       1538 B897A97-B  N Hi In              302 Cs M
+Carlisle      1540 B55948B-A    Ni              A  820 Na M0 V
+Collins World 1631 B20098C-B  N Hi Na In Va     A  604 Cs D
+Brandon       1632 C337322-6    Lo Ni              322 Na M
+Aikhiy        1634 C546616-7    Ag Ni              912 Na K
+Oba           1635 C646200-9    Lo Ni           A  713 Na M
+Kremmling     1636 E796313-7    Lo Ni              722 Na M
+Himalaya      1638 C9D9978-9    Hi Fl              304 Na M0 III

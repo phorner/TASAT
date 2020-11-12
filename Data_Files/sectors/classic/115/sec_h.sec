@@ -1,0 +1,42 @@
+@SUB-SECTOR:Nightrim SECTOR:Reavers' Deep
+#
+$2616 2416 -1 0 14
+$2616 2917 0 0 14
+$2917 3115 0 0 14
+$2616 2516 0 0 14
+$2516 2515 0 0 14
+$2515 2514 0 0 14
+$3212 3211 0 0 14
+$3211 3209 0 -1 14
+$3220 3223 0 1 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Roye          2511 C79A458-A    Lo Ni Wa           202 Na G9 V M7 D
+Sheffield     2513 C667575-8    Ag Lo Ni           214 Im F4 V
+Shetland      2514 B54478A-8  N                    914 Im K7 V
+Scapa         2515 B667784-A    Ri                 703 Im F9 V
+Kaagin        2516 A5659A9-D  N Hi                 504 Im F6 V
+Tower         2519 C5327B8-7    Na Po              710 Im G4 V
+St George     2616 A676AA6-C  N Hi In              314 Im K5 V
+Lore          2619 B668723-8                       700 Im M5 III
+Merisun       2720 E685679-5    Ni Ri           R  701 Im G7 V M8 V
+Ankara        2812 C99947B-9  S Lo Ni           R  411 Im M0 V
+Vetzeal       2813 E423214-7    Lo Ni Po           310 Im M3 V
+Aries         2816 B110444-F  N Lo Ni              214 Im G2 V
+Koath         2819 C301453-A    Ic Lo Ni Va        424 Im F5 V
+Veroch        2912 E6B0101-8    De Lo Ni           713 Im M9 V
+Mull          2916 CAC7312-9    Fl                 611 Im G5 V
+Stonehaven    2917 A9D5422-C  N                    914 Im F4 V
+Orkney        2919 B5888CB-9                    R  302 Dg F7 V
+Maiden        2920 E544567-7    Ag Lo Ni        R  104 Dg G5 IV
+Khishali      3012 C866759-8    Ri                 914 Im M3 V M2 D
+Khagish       3019 D7649DD-8  S Hi                 715 Im K8 V
+815-205       3111 C99A311-9    Lo Ni Wa           204 Im G2 V
+Arthur        3112 E566000-0    Lo Ba              203 Im G7 IV
+Ghost         3115 C685688-5    Ni                 713 Im F5 V
+Dundee        3118 B533133-A  N Lo Ni Po           700 Im G3 V
+Havant        3120 B242524-B    Lo Ni Po           702 Im F2 V
+Wells         3211 A786500-8    Ag Lo Ni           523 Im G8 V
+Petzina       3212 B674767-A    Ag                 824 Im F7 V
+Khakhan       3220 A988AA8-E  N Hi                 903 Im G0 V

@@ -1,0 +1,37 @@
+@SUB-SECTOR:Drinsaar SECTOR:Reavers' Deep
+#
+$2431 2330 0 -1 14
+$2431 2530 1 -1 14
+$2033 2133 0 0 14
+$2133 2234 0 0 14
+$2234 2433 0 0 14
+$2433 2431 0 0 14
+$2431 2532 1 0 14
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ------------
+Khtearie      1733 C595778-5    Ag                 614 Na K
+Botany Bay    1734 E643569-4    Ni Po Cy        A  310 Ga F5 V
+Gralyn        1735 B758899-A  J Cp                 111 Ga M0 V K5 VI
+Carter        1740 A7589A8-B  J Hi Cp              402 Ct M0 III M5 V
+Banff         1831 C516310-A    Lo Ni Ic           601 Na M
+Marion        1832 C7B4352-A    Lo Ni Fl           703 Na M
+Griffin       1839 B8878AC-9  J                    313 Ct M0 V D K
+Jefferson     1840 B000666-9  J Na Ni As           603 Ct D M D F
+Rintarna      1933 B887A99-D    Hi                 313 Na M
+Horste        1937 D767551-7    Ag Ni              804 Ly F5 V D M
+Lanyard       1938 B89A569-B    Ni Wa              314 Ly M5 V M0 V
+Drinsaar      2032 C799435-A    Ni                 803 Na M0 V
+Lanixohn      2033 A789973-D  J Hi              A  700 Ca M0 V
+Kaihadd       2034 C885665-7    Ag Ni Ri           702 Ca K
+Lysiches      2037 B446562-8  J Ag Ni              803 Ly K0 V
+Morgan        2038 B659698-8    Ni Cp              811 Ly M5 V D K G5 VI
+Taraan        2133 B877687-A  J Ag Ni              105 Ca F5 V
+Dran          2136 E323523-5    Ni Po              610 Na M5 V
+Sian          2234 D87A466-8    Ni Wa              505 Ca M5 V D M
+Purgatory     2239 C213367-7    Lo Ni Ic           201 Pu M5 V
+Bakuur        2337 D567585-5  S Ag Ni              904 Cs F5 V D M
+Iskara        2431 B554759-9  J Ag                 421 Ca G5 V M0 V
+Santol        2433 C999563-7  J Ni                 204 Ca M0 V
+Nimbus        2438 E6A1453-8    Ni Fl              212 Na M5 V D M
+Purity        2440 B8889DC-A  J Hi Cp           A  813 Pu M0 V
