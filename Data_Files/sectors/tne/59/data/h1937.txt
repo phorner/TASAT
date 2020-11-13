@@ -1,0 +1,292 @@
+OVERNALE  B45467A-9
+
+Mass=.131, Surface Gravity=.525
+Year=1.328 standard years
+Day=25.81 standard hours
+1 local year=450 local days 
+3 out of 4 years gain a day
+1 leap year out of 40 total years loses a day
+2 leap years out of 25 40 year cycles gain a day
+
+     Overnale was first settled around the same time as Glisten, as  a 
+support base of sorts for the asteroid miners there.  As is often  the 
+case with a new settlement the first colony was built on an island  to 
+limit  interaction with the local ecology. Thus Griffin Island is  the 
+oldest country on the planet.  When the colony was established,  Glis-
+ten was at tech level 10, and Overnale between tech 4 and tech 5.  The 
+problem  that  has developed since then is that Glisten  has  advanced 
+much  faster  than Overnale leading to the current  balance  of  trade 
+difficulties.   The various rulers of Overnale recognize the  problem, 
+and trade with Glisten is limited to importing sustainable base  tech-
+nology  for transportation, communication and industrialization.   Any 
+excess Imperial currency acquired by the sale of agricultural goods at 
+Glisten  is  reinvested in trade with Aki and  Horosho,  which  supply 
+goods in demand on Overnale but not at Glisten.  Overnale  governments 
+are, for the most part, engaged in deliberate slow growth industriali-
+zation  plans,  and are trying fairly successfully to  absorb  changes 
+into society slowly.
+
+     The  usual  pattern of settlement on Overnale  has  involved  the 
+establishment  of an urban/market/manufacture/service center  followed 
+by the establishment of large ranches and farms around this hub.   Hub 
+to  hub communication has largely been by ship or rail until  recently 
+when the new high speed monorail system was established through Parlek 
+and the Sea League.  Ships have always been armed due to the potential 
+threat posed by sea monsters (36 ton swimming and amphibious killers).
+
+     Griffin Island was settled first, followed by the urban hubs  now 
+part  of  the Sea League, followed by Melorn.   Parlek  established  a 
+claim  over  an enormous tract of then unsettled territory in  963  by 
+paying  off the local governments of Melorn and the Sea League.   Much 
+of their territory is still too dry or too remote to be exploited, and 
+they  have  broken the typical Overnale farm pattern  by  establishing 
+plantations  run  by wage employees.  Most recent immigrants  live  in 
+Parlek  territory.  There are international treaties  covering  growth 
+and  immigration,  which Parlek is party to, and  they  are  generally 
+viewed  as  interested and responsible participants  in  the  planet's 
+future.
+
+     The  remaining  countries are fairly  closely  related.   Griffin 
+Island  turned down an offer of membership in the Sea League  when  it 
+was  formed in 916 from the city states of the central isthmus.   Nor-
+land was formed in 978 by ranchers and herders from the Sea League and 
+Melorn who followed the reindeer herds through the northern forest and 
+felt  they had more in common with each other than with their  central 
+governments.
+
+Overnale / Notorious Products and Resources
+
+Monster  Oil:  This mixture of complex organics is the starting  point 
+for  a number of convenient synthetic routes for useful drugs.   Since 
+monsters  have been pretty well hunted out, prices rose to  the  point 
+where  it was cheaper to synthesize the materials.  As a  result,  the 
+oil  can  still be sold, but only at a price level comparable  to  the 
+synthetics,  which makes gathering it on a full time basis  unprofita-
+ble.   Some  oil is still harvested as an incidental  benefit  of  sea 
+travel.
+
+Seawood:   Grown only in the Sea League, this material is  highly  re-
+sistant to sea water and was extensively used for the construction  of 
+watercraft hulls.  Wild seawood groves are about logged out and culti-
+vated seawood at higher prices now dominates the market.  Some seawood 
+is  exported,  either as logs or as furniture, and is prized  for  its 
+durability and rich dark brown color with lighter streaks and  whorls.  
+Seawood smoke imparts a pleasant cinnamon-like taste to food, but  the 
+wood is now too expensive to burn, and cheap artificial seawood  smoke 
+flavoring is manufactured for local consumption.
+
+Fish:   Many varieties of fish are found in Overnale's two seas.   The 
+grale  of  the  Sea of Storms is one of the  most  commonly  exported, 
+favored  for flavor and nutritional value.  It can be shipped  frozen, 
+dried  or  canned, and occasionally live for  gourmet  restaurants  in 
+nearby  systems.   The nutu (new tuna) of the Marak Sea is  a  smaller 
+fish  of extremely high food value which finds its way  into  packaged 
+rations.   The  stingfish  is caught for the toxin,  a  drug  starting 
+material,  and the bluefish can be rendered for an oily dye  giving  a 
+deep blue color to earth-strain cotton.
+
+Pegasus  weapons:  Pegasus Armaments is a growing  company  in  parlek 
+territory  which  manufactures a line of highly  reliable  small  arms 
+exported  to  many or most lower tech worlds in the  subsector.   they 
+have  recently branched out with a line of armored vehicles, still  in 
+limited production.  Their highly automated vehicle production facili-
+ty is a model of flexibility, which, along with a lot of  standardiza-
+tion of parts, allows profitable production in small runs.
+
+Farm products:  Overnale produces a substantial food surplus which  is 
+vigorously exported.  Main products include bulk and processed  earth-
+strain  cotton,  beans, reindeer meat and  hides,  Trinese  omnigrain, 
+neorabbit meat and rice.  The value of all of these on a per ton basis 
+is  fairly low, so most trade is done within one jump of the  Overnale 
+system.
+
+Overnale / Miscellaneous Notes
+
+Kwikbite  is  a  Parlek fast food subsidiary  specializing  in  rabbit 
+products and flavored fried rice cakes. A Kwikbite can be found in any 
+town  of 5000 or more inhabitants in Parlek, and in any town of  10000 
+or more in other countries.
+
+Parlek is notorious as a laissez faire haven, and their data net  will 
+provide any information at a price.
+
+TL10 import goods from Horosho are generally available at 2x the usual 
+prices.   TL11  goods  from New Rome are available  at  3x  the  usual 
+prices,  and TL15 goods from Glisten are not generally available,  and 
+cost  6x the usual prices and up when they can be found.  (This  would 
+include any equipment from the lists rated at TL12-14.)
+
+Dress: Inhabitants of Parlek dress any way they please, with an effect 
+resembling  a  continuous  free form  costume  party  socially.   Work 
+clothes  are the appropriate coveralls etc.  Norlanders wear a lot  of 
+fur  and leather, weather permitting, often highly decorated.   Seamen 
+and aviators favor jumpsuits in all countries.  Formal wear in Melorn, 
+Griffin  Island and the Sea League runs to capes and flowing robes  in 
+solids  and  stripes.   Daily wear tends  toward  loose  trousers  and 
+blouses  with  decoration at the wrists, neck, and blouse  hem.   Cold 
+weather  gear tends toward quilted jackets with attached hoods.   Sur-
+plus  combat environment suits from New Rome were a big hit  when  im-
+ported a few years ago, and can be often be seen in the Sea League  in 
+cold weather. 
+
+Overnale / Specific Locations
+
+Lorton: Population 100,000 (Galt, Tidewell, Mardale, Upperton 15-20
+thousand each)
+
+Star  Island: Only a few hundred inhabitants, but a temporary city  is 
+assembled during the fish harvest season.  Seawood roasted grale  Star 
+Island style can be found on restaurant menus.
+
+Bomaris  Island:  Owned by the Haksurrons; their country  estate.   No 
+overflights.
+
+Bastion  Island: farmland reverting to wild; cleared to construct  the 
+armed forces base and the fusion plant.  The fusion plant was part  of 
+Enias Haksurron's industrial development program.
+
+Bastion  Island Fusion Plant: Built with local resources by Four  Star 
+Power in return for an advantageous tax position.
+
+Tidewell  Maritime  Research Institute:  Devoted  to  investigating  a 
+variety of issues, from breeding sea monsters in captivity to  search-
+ing for new uses for old fish to corrosion prevention to studying  the 
+ecological impact of the introduction of new forms of marine life from 
+other planets.  Watched closely by the Autarch's political police,  as 
+it is a nest of liberal thought.
+
+Seawood  Preserve: Seawood is only grown in the league, but  has  been 
+over  cut.  The preserve is logged selectively, and is supposed to  be 
+managed to benefit other lifeforms dependent on the wood.
+
+Farms: tend to be large, run by extended families with a good deal  of 
+automation.
+
+Political  note: Farmers support of government was wavering  prior  to 
+Griffin  Island  annexation  due to high priority  given  to  military 
+equipment manufacture.  The G.I. factories have since been retooled to 
+provide  farm equipment, and support for the government has  been  in-
+creasing.
+
+City  States of the Sea League: Lorton (oldest), Surron (home of  rul-
+ers),  Port Otto, Enliin, Maraksport (largest), Shelt,  Grace  Harbor, 
+Grand Valley (mining center--only inland city state)
+
+Lorton  Starport: rather small--12 downside commercial  landing  spots 
+plus  a five spot military base, but fairly new (last  upgrade  1098).  
+Startown is very small as the government does not like the extraterri-
+toriality  agreement.  Parlek Port is bigger, so Lorton employees  are 
+very sensitive about remarks about its size.
+
+
+Travel Cost in the Sea League:
+
+Official Exchange Rate: 1 duchek=Cr0.6
+Black Market rate:      1dk=Cr0.35
+Air Travel: 1dk/km, 150dk minimum
+Monorail: 0.04dk/km, 15dk minimum
+Railroad: 0.005dk/km, 5dk minimum
+
+Ground Vehicle rental: 0.25% of the value of the vehicle per day, plus 
+a  2%  of value deposit.  Rental agency counters can be found  in  the 
+main   starport  terminal  building,  with  vehicle  pick-up  in   the 
+parking/passenger  transfer structure.  Possession of a valid  driving 
+license  required  (anyone  with Wheeled Vehicle 0+  and  a  homeworld 
+population  of 5+ has one.  Others can pass Simple test (unskilled  OK 
+at  Routine difficulty) and pay 20dk fee to obtain  license.)   Common 
+vehicles include TL7 passenger cars, TL8 Nomad light trucks, and  TL10 
+Whippets and Huskies (value 2x on these).
+
+Grav and Air Vehicles: The Sea league temporarily suspended overflight 
+privileges  in 1105, so no grav vehicles may be used unless  they  are 
+provided  with  a  local air traffic control package  (1000dk)  and  a 
+locally licensed pilot (100dk/day).
+
+Bicycle: basic 120dk, light weight multigear 360dk.
+
+Overnale / Lorton Starport
+
+Security:  The extrality perimeter is patrolled at irregular intervals 
+on  both sides of the fence.  ConTech security guards inside sweep  in 
+two  man  vehicle mounted teams, usually  wearing  combat  environment 
+suits and carrying gauss rifles.  Two rapid response teams with  Tiger 
+and  Hydra TL10 grav vehicles are maintained at the  ConTech  starship 
+facility.   Patrol teams are equipped with continuous  radio  monitors 
+and  'deadman'  emergency beepers.  Cooperation  with  local  military 
+forces is adequate, and local response would be rapid in the event  of 
+a major threat.
+
+External  perimeter  patrols  are made by three or  four  man  vehicle 
+mounted  teams usually including a driver, a machine gunner,  and  two 
+riflemen.  Local military forces include a platoon of TL8 heavy  tanks 
+onsite.   Grav  mounted forces from the Lorton city  barracks  can  be 
+onsite in ten minutes or less.  At least one space fighter is  usually 
+on the ground at the military space complex.
+
+Per treaty agreement, local forces may enter the extrality area  while 
+in hot pursuit of criminals, and persons reasonably accused of violent 
+crimes may be seized after a warning and notification to port authori-
+ties.   Persons committing property crimes are immune once across  the 
+boundary, but may be detained by port authorities if requested by  the 
+local  government.  Offworld organizations monitor these  extraditions 
+carefully  to  prevent  abuses.  The Sea League is  too  dependent  on 
+foreign  trade to step too far out of bounds.  The League is  required 
+to  post a substantial bond in Imperial currency for each  extraditee, 
+and  it is forfeited if offworld authorities are forced to  intervene.  
+The  League has absolutely no jurisdiction over any  offworld  citizen 
+who arrives by ship and does not leave the starport area.
+
+Currency  Exchange: Official banks will not give credits for  ducheks.  
+Small  quantities  of credits are exchanged at  the  'official'  rate, 
+larger  quantities  heading toward the black  market  values.   Barter 
+trade  tends toward the black market rate, but cash trade  toward  the 
+official  rates.  Non Sea League banks do not generally trade  in  du-
+cheks.
+
+Hotels: 45cr/day, Meeting Rooms 10cr/hour, meals expensive.
+
+ConTech repair facility:  Locally manufactured parts to repair any TL9 
+systems,  provide  temporary hull patches, and so  forth,  are  always 
+available.   Higher  tech parts for drives and computers  are  usually 
+available  (Routine).  Higher tech parts for weapons and  sensors  are 
+seldom  available  (Difficult).  Entire replacement  systems  must  be 
+special  ordered  from Glisten, payment arranged in  advance,  with  a 
+minimum delay of 20 days.
+
+Shuttles: The port has no shuttle services available.
+
+Interface:  A  government agency for facilitating trade  and  tourism.  
+Help for a fee.  Licenses, permits, currency exchange.
+
+Bazaar  Booth: In addition to maintaining permanent shops, the  Inter-
+world  Bazaar maintains the Floating Bazaar, up to 25  portable  sales 
+booths  including  power  and communication which can  be  rented  for 
+Cr200/day (or the equivalent in ducheks at the official rate).   These 
+are  rented by all sorts of people with limited quantities of good  to 
+sell.   Full  customs duties must be paid on anything carried  off  by 
+locals,  of course.  Typical booths might be selling  Norland  leather 
+and  fur coats, hand carved seawood bric-a-brac, offworld music  disks 
+and players, scarce wine, live exotic tropical fish, etc.
+
+Interworld Bazaar Shops:
+
+Kwikbite Fast Food
+Consolidated  Ship  Services (Ship chandlers) (A local  subsidiary  of 
+ConTech partially owned by the League government.)
+Macro's Grocery
+The Ringed Planet Bar and Grill
+Felicia's Fashion Factory
+ConTech Offices (Ship repair and port security)
+LongJumpers (bar/restaurant frequented by Free Traders)
+Jarlan's Catalog Express (Local merchandise within 12-24 hours)
+Informex (books, disks, music, computer hardware and software)
+ParlekComm (local communications access)
+Vacc Suits Unlimited (run by expatriate from Glisten--grav  controlled 
+to 0-G, so watch your step going in.)
+Doc  Johnson's Stellar Clinic (with TL15 medibot  back-up.   Expensive 
+but not nosy)
+Vortex Center for the Performing Arts (movies, lectures, live theater, 
+concerts, available for rental)
+Job Shop (temporary employment office)
+Interface (Department of Trade expediters)
+

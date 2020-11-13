@@ -1,0 +1,383 @@
+
+System Description
+------------------
+
+Inward Clearance
+
+Tavonni considers itself to be on the frontier. Even the
+forcible acquisition of the Sword Worlds has not wiped out the
+memory of their attempted land-grab. This perception shapes
+Tavonni's attitude towards defence and inward clearance. Most
+outsiders often consider Tavonni's defence forces to be overly
+large. However, this allows initial inward clearance to be
+cursory and almost automatic; always remember; the Navy awaits
+insystem. A patrolling naval vessel makes a cursory scan of
+incoming traffic and normally clears it through to Tavonni High.
+It may give special clearance if a vessel has another
+destination (for example, another starport or base insystem).
+Generally, this must be pre-arranged.
+
+Tavonni System Control (TSC) is based at Tavonni High, and
+monitors all in-system traffic. TSC controls the movement of
+ships to and from Tavonni High to all downports, plus any ships
+with special clearance that bypass the highport. It also has the
+authority to declare a civil or military emergency. The
+difference is that a civil emergency causes rescue ships to race
+to the scene, while a military emergency causes warships to race
+to intercept. Either way, TSC vectors civil and military traffic
+throughout the system. All military traffic remains away from
+the civil lanes, unless they enable their transponders.
+
+All incoming ships, unless given special clearance, must dock at
+the Tavonni High orbital port. Classed as "basic" in size, it
+houses up to 500 passengers and 500 work crew. Refined fuel,
+spare parts, armament stocks and annual maintenance are all
+available, plus local foodstuffs and luxuries from across the
+sector. Customs and immigration can clear planet-bound
+passengers either in orbit or on the surface. In-bound cargo has
+a basic inspection performed on it to ensure that its bill of
+lading is accurate. Starport Authority (SPA) customs officers
+sometimes inspect cargoes for contraband, but this occurs less
+frequently for regular goods than for speculative cargo. SPA
+personnel synchronise customs procedures with scheduled shuttle
+flights, allowing passengers and cargo to proceed to the planet
+with little or no waiting.
+
+If a ship wants to land at Beowulf Down, customs officers must
+first inspect it at Tavonni High. Final customs clearance may be
+handled either at Tavonni High or at Beowulf Down.  TSC must
+then give landing clearance before the ship commences re-entry.
+Note that ships with special clearance may undergo inspection,
+customs and immigration at their destination downport.
+
+The Mainworld
+
+Seen from orbit, Tavonni appears untouched by civilisation. A
+deliberately low-key approach to development has left much of
+the planet undeveloped, making it look like a green jewel, lush
+with vegetation. While shuttling to the main starport on
+Bj'rn'ya Island, it is difficult to imagine that advanced
+sophonts live here at all. It is only when nearing The Plateau
+that artificial features begin to emerge from the jungle.
+
+Beowulf Down, the main starport, has excellent facilities for
+both private and commercial travellers. Aircraft and small craft
+are available for charter. Lone Scout Enterprises, an Imperial
+company originally created by ex-Scout commander Mikheil B.
+Powell, provides spaceship construction and starship repair. A
+full Scout base is attached to Beowulf Down, and is open for
+inspection once per month. trendi (Tavonni Research, Engineering
+and Design Inc), a subsidiary of Menelvagor, markets new
+vehicles and equipment.
+
+The main tertiary industry is hosting conventions and meetings
+for members of widespread Regency companies. The consequence of
+catering for these well-to-do travellers means that Tavonni's
+prices are not for the faint-hearted. Accomodation within the
+starport perimeter, for example, is at the Starport Hotel
+(4-star). The capital, Tamoachan City, is located moments away
+from the starport via monorail. Accomodation here ranges from
+the Hotel-at-the-Edge-of-the-World (5-star) through to the TAS
+Hostel (4-diamond). The off-worlder notices immediately that,
+having begun with only pre-fab buildings, Tavonni's population
+now prefers luxurious dwellings. Due to the cultural diversity,
+a number of restaurants provide off-world cuisine. In fact, most
+of the cuisines of three sectors, five species and four major
+races can be sampled in the capital alone.
+
+Tavonni Safari Park (TASP), the next island west of Bj'rn'ya, is
+for exclusive use by safaris. These include both camera shoots
+and big-game hunting expeditions. Visitors can see much of the
+more exotic of Tavonni's wildlife inhabiting the island. The
+Tavonni Beach Resort is the only permanent construction on TASP.
+
+The primary Aslan settlements are located on the eastern
+continent, mainly for historical reasons. Caradoc's base is
+located here, operating out of the original starport (now
+C-class). It was on this continent that Count Leto first granted
+land to members of the Ftai company. One other spaceport in
+known to exist on the planet, but its location is classified -
+as are the locations of Tavonni's deep-site meson guns. At least
+four of these are believed to exist - possibly more.
+
+Infrastructure
+
+Civilisation on Tavonni is widespread, literally! Being a young
+settlement, Tavonni's infrastructure is less than 70 years old,
+and averages out at TL 13 (some at TL 15). This planetary
+infrastructure contributes to the settlement pattern on Tavonni.
+
+The only large population centre is Tamoachan City (located
+close to Beowulf Down), with most of the population living in
+medium sized communities, separated from their nearest
+neighbours by up to 600 km or more. Most of these mid-sized
+communities support smaller communities, based on primary
+industry. This settlement pattern means that there are few
+long-distance ground transport links. Most passenger
+transportation is via grav vehicles, either air/raft taxi for
+short distances, or GCoach for longer distances (for example,
+via the Vargr-owned long-haul bus company, "G-Hound"). These
+long-distance services stress high speed. Rental vehicles are
+also available, ranging from 'Hatchback' style through to Grav
+RV. Bulk cargo trade is via either a few ocean-going merchant
+ships, or small craft/starships.
+
+From early on, the government recognised the need for a good
+communication net to limit the danger of dropping out of
+contact. Without it, help was almost impossible to call for, and
+rescuers would spend a considerable time deploying. Tavonni
+established an excellent and affordable communications network.
+All vehicles must be fitted with emergency beacons. Rental of a
+communications service is available at short notice for Cr1 per
+day plus Cr0.3 per 10 minutes on-line, with Hand Computer access
+at Cr3 per day (long term rentals are lower than these prices).
+The Government also created a rapid deployment emergency service
+facility. In the early days, the easiest way to provide these
+emergency services was to form them from the existing military
+medical and police force. Today, they still retain a
+paramilitary flavour, being staffed predominantly from
+ex-military personnel. For this reason they find it very easy to
+escalate problems to full military support in an emergency (the
+military are obliged to lend a hand in civil emergencies). They
+also have good access to funding, heavy equipment, and the
+Count's ear on major issues.
+
+
+Society
+-------
+
+First Impressions
+
+The streets of Tavonni are very cosmopolitan. Droyne (a few) rub
+shoulders (or shoulder to hip) with Aslan (a large portion of
+the population). Many businesses have been started with
+multi-racial, and multi-species partners. Most such businesses
+find the diversity an encouragement for all their client races.
+Travellers find the population open and friendly. Since most
+people are only first- or second-generation settlers (sometimes
+third), they welcome people from across the Regency.
+
+The Military
+
+Since the very start of development on Tavonni, there has always
+had a strong military presence in the system. Starting by
+settling the Ftai company, Tavonni has constantly reviewed and
+upgraded its defences. The Sword World border was always on the
+mind of Count Leto, and he was the first to recommend annexation
+of the Sword Worlds when they began their land grab.
+
+The need for the military has never been questioned - especially
+in light of the fact that they are citizens with voting rights.
+The Tavonni Planetary Navy and the Ashsiimkir-Ftai regiment
+cemented this need in the hearts of the populace, with their
+heroic defence of the system against the invading Sword World
+fleets.
+
+
+Government
+----------
+
+Democratic government has always been a key part of Tavonni's
+development. Count Leto shrewdly decided that his planet needed
+to be "democratic" in order to attain the "Rich" trade
+classification. Accordingly, he formed a Constitutional
+Committee to create the Tavonni Constitution and system of
+government. The Committee decided that "the people of the planet
+of Tavonni will be governed by a representative democracy,
+elected from either an independent platform or a party system.
+This elected legislative body will be known as the Government of
+Tavonni (hereinafter referred to as the Government)" [excerpt
+from the Tavonni Constitution].
+
+The population of a locality elects 10 local councillors. In
+turn, each local council elects one of its members to be their
+representative on the regional council. Each regional council
+elects two of its members for the planetary government: one for
+the House of Legislation, and one for the House of Review (this
+system was an attempt at preventing a two-party political system
+from forming). Each level of government can pass legislation
+that will take effect in its own area: local councils can pass
+Local Regulations; regional councils can pass Regional
+Ordinances; and the Planetary Government can pass Bills that
+become Planetary Statutes, with the Count having the power of
+veto. If lower laws conflict with higher laws, the lower laws
+are deemed suspended. The Tavonni Police Force enforces all
+three types of law.
+
+Planetary Statutes can also be created by plebescite (a vote of
+the entire population). All "matters of public importance" are
+decided on by plebescite. In most matters of public importance,
+the people tend to vote the same way. In 70 years, the closest
+result of a plebescite has been 60:40 (the Zhodani settlement
+vote). Every citizen of Tavonni over 18 years of age is be
+eligible (but not required) to cast one vote in any election or
+plebiscite that occurs in their locality, and is eligible to
+submit a petition for a general plebiscite. The Count is NOT
+allowed to cast a vote in a plebiscite, unless the matter
+concerns the Count's Household, the County Estate, or the Planet
+of Tavonni as a whole. The Count IS allowed to vote in elections
+for his locality.
+
+Note that non-compulsory voting often allows the Count to
+influence the vote: he grants leave to any member of the
+military who wants to vote. The military personnel, generally
+favourable to the Count anyway, have a course of voting
+suggested to them via a "How To Vote" card and an educational
+campaign.
+
+
+Landholdings
+------------
+
+Originally, the estate of the Count of Tavonni consisted of the
+entire system of Tavonni. This expanse of territory has dwindled
+somewhat, due to the constitutional laws agreed to by the Count.
+
+Crown Land is land directly owned by the Count's Household. This
+is also known collectively as the County Estate. Private
+citizens or companies may purchase freehold real estate from the
+County Estate. This is then considered to be "private land". The
+Government of Tavonni is granted land for public use ("public
+land") by the County Estate. Public land also includes other
+areas of Crown Land specifically set aside by the Count. The
+Government may resume private land, but only by Statute.
+
+Resources beneath the land are NOT the possession of the owner;
+these are possessed by the lessee of the mineral rights for the
+area. If there is no stated lessee, then the implied ownership
+rests with the Count of Tavonni.
+
+ 
+Modern History
+--------------
+
+Modern Tavonni history covers a very short space of time,
+encompassing 1111 to 1201. Caradoc LIC, a Ling Standard Products
+company, purchased the system in 1117. Menelvagor Ltd,
+originally a Sword World company, built the starport. The
+background on both companies provided below explains how this
+seemingly unlikely fusion came about.
+
+Caradoc LIC
+
+Caradoc began when a retired Fleet Admiral (Count Leto
+Khaanraarshuinki) and a retired Army general (Gukushriiken)
+created a trading company in the Outrim Void (Egryn subsector,
+Trojan Reach). In 1099, the pair teamed up with two ex-scouts
+and a merchant. By using their retirement benefits and Leto's
+family fortune, they created a subsector-wide interface line by
+1101. Trading, a lanthanum strike, and the salvage of missing
+frontier cruiser Bright Light built Caradoc's capital to TCr 1
+by 1117. When Leto learned of the Strephon's death, he foresaw
+trouble in the Outrim Void. Guessing at the probable response of
+the ihatei (with knowledge gained from trading), he decided to
+abandon their trading bases and retreat to the Marches. While
+scouring the sector for a new base, Leto cut a deal with LSP to
+become a subsidiary company. This gave Caradoc access to
+much-needed contacts within the Marches, and provided a large
+capital base to draw upon. When his scouts returned, Leto
+decided that Tavonni was the best choice for a base: it provided
+land, it was in an under-developed subsector, and it was in a
+central location in the Marches.
+
+Menelvagor Ltd
+
+Menelvagor Ltd traded throughout the Marches for nearly ten
+years, after being incorporated on Beater/Sword Worlds in 1101.
+Growing from a single free trader to a fledgling company, it
+received a severe setback when pirates destroyed its flagship
+Mithril Wanderer in 1110. The company lost its founder, Beowulf
+Heyerdahl, at the same time. Baroness Heidi Maria Heyerdahl took
+over the company and steered it through the remainder of the
+Fifth Frontier War. Two years later, the shipyards at
+Pixie/Regina completed the company's new flagship Bonaventure, a
+12,810-ton armed merchant cruiser.
+
+The Tavonni Purchase
+
+Leto travelled to Regina personally to petition Archduke Norris
+for the Tavonni system. While attending a function, he met
+Heidi, and they discussed the purchase. Heidi realised the
+potential of the concept and offered to build the starport.
+Together, they approached Norris with a detailed proposal. It
+included the establishment of a Scout base and xboat link
+between Vilis and Lanth, the creation of a starport, and the
+provision of a small planetary defence fleet (partly to be
+comprised of surplus Imperial Navy craft). Norris approved the
+Tavonni Purchase on 261-1117. An extensive system survey began
+as Caradoc's Darrian Aslan company Ftai evacuated its holdings
+in the Outrim Void.
+
+Caradoc immediately constructed a basic D-class starport, while
+Menelvagor raised a MCr 2,000 loan from Hortalez et Cie and
+began building the "real" starport of Beowulf Down. Caradoc also
+recruited refugees from the ihatei invasions as colonists. In a
+joint refuel/repair deal with Al Morai, Caradoc ensured that the
+refugees were transported to Tavonni at a discount rate. In
+turn, Al Morai's dead-end route from Regina to Garda-Vilis
+turned into a circular route to Lanth, connected via Tavonni.
+
+By the completion of Beowulf Down on 100-1121, Tavonni's
+population had reached 117,200. A population boost occurred
+later that year, when a lanthanum strike in the Peanuts belt
+brought miners flocking to the system. A further boost occurred
+when the Domain learned of the AI Virus and forced Tavonni to
+destroy all its robots. The government had to re-start colonist
+recruiting to replace the lost workforce.
+
+The Sword Worlds Land-Grab and the Abandonment
+
+The Imperial Navy supplied a surplus Kokirrak-class dreadnought
+to the Tavonni Planetary Navy (TPN) on extended loan. Together
+with the Bright Light and Bonaventure, the Khtai provided the
+core of the planetary fleet. The TPN increased in size by
+loaning and purchasing numerous smaller ships. The ground forces
+grew from Caradoc's original Aslan company through to regiment
+size by 1130.
+
+In 1130, the Navy reclaimed most of the ships loaned to the TPN
+(including the Khtai). They also nationalised many of the
+military ships owned by the TPN. The Navy re-directed all these
+vessels to assist the Quarantine. This almost proved the undoing
+of Tavonni when the Sword Worlds attempted their land-grab in
+1132. The TPN desperately pressed into service every ship it
+could find, even using private vessels as couriers where
+necessary. The Tavonni forces fought a rear-guard and somewhat
+guerilla-like campaign against the invaders. The Sword Worlders
+managed to gain a foothold on the surface, but sustained heavy
+casualties as the Ashsiimkir-Ftai, now an Imperial-Aslan
+planetary regiment equipped to TL 15 standards, inflicted losses
+far greater than their numbers would suggest. The Sword World
+ground forces could not crack the four tank companies of the
+regiment, having to rely on ortillery that was then vulnerable
+both to the tanks and to some well-placed deep-site meson guns.
+When elements of the 18th Fleet finally relieved Tavonni, they
+drove the Sword Worlders out of the system.
+
+After this, the RQS returned a number of ships to the TPN,
+including the Khtai, Bright Light, and Bonaventure. The Tavonni
+defence forces had their revenge, accompanying the regular
+Regency forces when they annexed the Sword Worlds, supported by
+the 151st Fleet from Sacnoth/Sword Worlds. Baroness Heidi
+personally claimed her homeworld of Tizon in the name of the
+Regency.
+
+The Abandonment (1133) was something of a lifesaver for Tavonni.
+Deprived of its robotic workforce three years earlier, and
+having to rebuild infrastructure destroyed by the Sword World
+invasion, the planet needed more people. With a history of
+recruiting refugees for resettlement, the Tavonni government had
+an edge over other Regency worlds that opened for colonists.
+Tavonni was almost able to pick and choose whomever it wanted to
+bring, welcoming them into its society while cleverly avoiding
+the "Refugee World" tag (some Regency citizens view this label
+with distaste). The young Tavonni society thus succeeded in
+incorporating the refugees, much as it had the original (and
+on-going) colonists for 15 years. However, the citizens of
+Tavonni - normally friendly and accepting - voted recently
+against allowing Zhodani refugees to settle in the system.
+Observers believe that this result derives from the antipathy
+shown to all members of the former Outworld Coalition by the
+families of Count Leto and Baroness Heidi.
+
+
