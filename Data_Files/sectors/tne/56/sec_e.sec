@@ -1,0 +1,102 @@
+@SUB-SECTOR:Izellensjdash SECTOR:Yiklerzdanzh 
+#
+# Trade routes within the subsector
+#
+$0112 0309 0 -1
+$0112 0214 0 0
+$0214 0117 0 0
+$0214 0316 0 0
+$0117 0319 0 0
+$0319 0518 0 0
+$0518 0716 0 0
+$0716 0916 1 0
+$0316 0515 0 0
+$0515 0814 0 0
+$0812 0610 0 -1
+$0814 0916 1 0
+#
+#Political borders
+^0117 3
+^0117 4
+^0217 3
+^0217 4
+^0318 4
+^0319 2
+^0319 3
+^0319 4
+^0319 5
+^0418 2
+^0418 3
+^0518 2
+^0518 3
+^0617 2
+^0617 3
+^0717 2
+^0717 3
+^0816 2
+^0816 3
+^0817 0
+^0817 3
+^0817 4
+^0817 5
+^0818 1
+^0818 2
+^0119 0
+^0119 1
+^0119 3
+^0119 4
+^0119 5
+^0120 1
+^0120 2
+^0218 3
+^0320 0
+^0320 1
+^0419 3
+^0520 0
+^0520 1
+^0520 5
+^0620 0
+^0620 1
+^0720 3
+^0819 1
+^0819 2
+^0820 1
+^0820 2
+^0820 4
+#
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Priatl        0111 X300000-0    Ba Va           F  000 Zh
+Entbieb       0112 A76399B-D  Z Hi C3              304 Zh
+Befta         0113 A452445-D    Ni Po Lo           223 Zh
+Siantaats     0114 C255304-9    Lo Ni              304 Zh
+Iejve         0115 EA967CD-5    Ag                 200 Zh
+Al            0117 B554765-8  Z Ag O:0316          224 Zh
+Enz           0119 C10056E-8  K Ni Va O:0221    A  301 Sr
+Azh           0211 D4359BA-9    Hi                 112 Zh
+Japradlie     0214 C573ACF-D  Z Hi In              323 Zh
+Ielzhola      0217 C6366B9-8    Ni                 323 Zh
+Vrier         0314 C7A4000-0    Ba Fl              020 Zh     f
+Zhelzdatl     0316 A413985-E  Z Hi Ic In Na Cp     122 Zh
+Yidlpiants    0318 B569566-8    Ni O:0518          501 Zh
+Sietiefa      0319 C5245A8-E  Z Ni              F  913 Zh
+Sodliezhafr   0411 E477599-6    Ag Ni              900 Zh
+Yintla        0414 B341424-B    Ni Po Lo           713 Zh
+Anjjedl       0416 C534526-8    Ni                 112 Zh
+Jeprez        0514 A430689-D    De Ni Po Na        211 Zh
+Driapleble    0515 B585997-8  Z Hi                 411 Zh
+Zhdiejtofla   0516 B344656-8    Ag Ni C2           224 Zh
+Chtepryinqrenz0517 B582478-9    Ni Lo              400 Zh
+Kili          0518 A884344-B  Z Lo Ni              224 Zh
+Piaplripref   0520 B87556E-A  K Ag Ni O:0221    A  624 Sr
+Sotiezhojer   0611 C886300-9    Lo Ni              914 Zh
+Adl           0612 CA78635-7    Ag Ni              923 Zh
+Zhanj         0615 D444788-9    Ag                 123 Zh
+Chtej         0711 C566620-7    Ag Ni              624 Zh
+Tle           0715 A5226B9-A    Na Ni Po           925 Zh
+Iepr          0716 C74A776-9  Z Wa                 425 Zh
+Sinchsibrifl  0811 A54667A-B    Ag Ni              313 Zh
+Zdinchij      0812 B6B0955-B  Z Hi De              901 Zh
+Pablants      0814 A669530-C  Z Ni                 513 Zh
+Iebia         0817 A856A97-F  * Hi                 713 Mi

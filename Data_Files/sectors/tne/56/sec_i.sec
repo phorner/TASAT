@@ -1,0 +1,115 @@
+@SUB-SECTOR:Talpaku  SECTOR:Yiklerzdanzh 
+#
+# Trade routes within the subsector
+#
+$0424 0225 0 0
+$0225 0427 0 0
+$0424 0527 0 0
+$0527 0427 0 0
+$0427 0430 0 0
+$0430 0631 0 1
+#
+#Political borders
+#
+^0121 1
+^0221 3
+^0221 4
+^0221 5
+^0322 3
+^0322 4
+^0422 3
+^0422 4
+^0523 2
+^0523 3
+^0523 4
+^0622 3
+^0722 2
+^0723 1
+^0723 2
+^0723 3
+^0723 4
+^0821 0
+^0821 1
+^0821 2
+^0821 3
+^0721 0
+^0721 1
+^0323 0
+^0323 1
+^0323 5
+^0223 0
+^0223 4
+^0223 5
+^0224 4
+^0224 5
+^0225 4
+^0225 5
+^0226 5
+^0230 4
+^0127 0
+^0127 4
+^0127 5
+^0128 4
+^0128 5
+^0129 4
+^0129 5
+^0130 3
+^0130 4
+^0130 5
+^0630 1
+^0630 2
+^0629 2
+^0629 1
+^0628 2
+^0628 1
+^0627 2
+^0727 2
+^0727 3
+^0826 0
+^0826 1
+^0826 2
+^0826 3
+^0825 4
+^0725 3
+^0725 4
+^0725 5
+^0724 4
+^0623 3
+^0623 4
+#--------1---------2---------3---------4---------5---------6---
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
+#----------   ---- ---------  - --------------- -  --- -- --- -
+Poison        0127 C8A8663-A    Fl Ni O:0225       414 TL
+Exile         0130 E573268-5    Lo Ni Ex Pr 0527A  603 TL
+Khaar         0221 B5728CE-A  K Cx              R  812 Sr
+Pearl         0223 C9A7575-B  T Fl Ni              402 TL
+Right Way     0224 D78A241-6    Lo Ni Wa           100 TL
+Quatrain      0225 A373999-C  T Hi In              910 TL
+Broken Promise0226 X330000-0    Ba De Po        R  001 TL
+Longnight     0228 B785340-B    Lo Ni              803 TL
+Swarm         0229 B000310-B    As Lo Ni           703 TL
+Glass Sea     0230 B370421-9    De Ni Lo An        701 TL
+Yenzhshiavr   0322 E6A056E-8  K De Ni O:0221    A  334 Sr
+Pieflip       0323 C4305A7-B  T Ni De Po        A  510 TL
+Bridgeworld   0421 C7B156E-A  K Fl Ni O:0221    A  440 Sr
+Fairwater     0423 CA9A845-B    Wa                 204 TL
+Vivaldi       0424 A624856-A                       714 TL
+Pebble        0426 E100300-8    Lo Ni Va        A  533 TL
+Shallowwater  0427 B431440-B    Ni Po Lo           204 TL
+Salty Tears   0430 B235983-C  T Hi                 513 TL
+Jelobrzech    0523 E87856E-8  K Ag Ni O:0221    A  201 Sr
+Fantasia      0524 B98A697-9  T Ni Wa              202 TL
+Gale          0526 A583AC9-C  T Hi                 400 TL
+Talpakuhome   0527 A7989C8-D  T Hi In Cx           202 TL
+Plenty        0624 A7567BB-B  T Ag                 200 TL
+True Omen     0625 A8A4740-9    Fl                 200 TL
+Haven         0626 B692779-9    Ri                 602 TL
+Bayou         0627 B677977-C  T Hi In              722 TL
+Firestar      0630 C200734-A    Na Va           A  900 TL
+Pezeibifiench 0723 D10066E-8  K Na Ni Va O:0221 A  604 Sr
+Takiwhibl     0725 C5845AB-5    Ag Ni              224 TC
+Tlachefrnin   0730 X666000-0    Ba                 024 Na
+Tietliejdia   0821 B85A76E-8  K Wa O:0221       A  804 Sr
+Twinstar      0826 C463745-B    D3                 332 TL
+Heaven's Scent0828 CAD868D-A    Ni Mr              303 TC
+Jdid Va'      0830 X456000-0    Ba              A  000 Na
