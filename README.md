@@ -5,8 +5,7 @@ The Travellers' Aid Society Access Terminal (TASAT) is an open source computer a
 
 It is written in C/C++/C# and using the Irrlicht3d game engine (http://irrlicht.sourceforge.net/ )
 
-It is recommended that you read the documentation manual and download and install the full application
-installation binary located in the /bin folder to get a good understanding of the TASAT.
+It is recommended that you read the documentation manual and download and install the full application installation package for Windows is located at (http://www.liberated-technologies.com/RPG/traveller/traveller.html) to get a good understanding of the TASAT.
 
 Forward from Perry Horner
 -------------------------
