@@ -1,0 +1,3 @@
+Djinni 
+
+	Upon arriving in-system, an automatic beacon says the system is interdicted. 
