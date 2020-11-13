@@ -1,0 +1,58 @@
+@SUB-SECTOR:P SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Kugu          2533 E525100-2     Lo Ni             604 Im M6 III M3 D    
+Ashurgur      2535 C100312-9     Lo Ni Va          603 Im G1 V           
+Niikhadim     2536 E525134-1     Lo Ni             724 Im M4 V           
+Kasu          2537 D100100-7     Lo Ni Va          524 Im G3 V M4 D      
+Emila         2538 E525376-4     Lo Ni             113 Im A6 VI          
+Khikagalid    2539 C100142-6     Lo Ni Va          804 Im M4 V K4 D      
+Kidashikuba   2632 B465000-A     Ba Lo Ni          005 Im K2 V           
+Gikadamama    2633 C100100-8     Lo Ni Va          902 Im A4 V M7 D      
+Gakhimer      2638 B465220-8     Lo Ni             404 Im G9 V           
+Imashgaamgar  2640 E756455-4     Lo Ni             405 Im M7 VI G4 D     
+Shishkuukash  2733 D110851-6     Ic Na             223 Im G5 IV          
+Khuumligakgar 2735 C9B6122-6     Fl Lo Ni          403 Im M3 V M9 D      
+Shaalikhakhan 2737 E744155-3     Lo Ni             901 Im K6 IV M9 D     
+Amkiigermiime 2740 E251200-6     Lo Ni Po          903 Im K3 V           
+Liiraadmunbush2831 B639000-A     Ba Lo Ni          023 Im G1 V M6 D      
+Shabenumshii  2832 B8C7000-8     Ba Fl Lo Ni       013 Im F4 V           
+Mursumkhamdesh2833 B487000-A     Ba Lo Ni          005 Im M2 V           
+Udkadkida     2839 D5A4654-5     Fl Ni             604 Im G3 V           
+Aguulummikir  2931 C466458-8     Lo Ni             613 Im M3 V M5 D      
+Unkhakimushi  2935 B655775-8     Ag                812 Im M3 V           
+Khushudas     2937 C100000-A     Ba Lo Ni Va       002 Im M3 VI          
+Gikakhurnunun 2938 E525233-2     Lo Ni             904 Im M0 V           
+Numeshala     3034 D100446-5     Lo Ni Va          404 Im K0 V M8 D      
+Breda         3035 B465A89-9     Hi                425 Im M4 V           
+Diimasademku  3037 C000200-A     As Lo Ni Va       905 Im M4 V           
+Kakhakas      3040 B100265-9     Lo Ni Va          700 Im K4 V           
+Khigaashunigem3134 C756376-6     Lo Ni             212 Im M0 V M0 D      
+Iseshuupurur  3137 C89779A-5     Ag                910 Im M2 V           
+Gammishar     3138 A200532-A     Ni Va             604 Im K2 V           
+Shushumdilamid3140 B10057A-8     Ni Va             503 Im M3 V           
+Guusshumiruusi3234 C3319CC-6     Hi In Na Po       924 Im M5 III M5 V    
+Imiikhar      3235 E527656-4     Ni                704 Im G4 V           
+Guumpakakabu  3236 D567776-6     Ag                724 Im K1 V M4 D      

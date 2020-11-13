@@ -1,0 +1,40 @@
+@SUB-SECTOR:F SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Khagam        0916 D343000-5     Ba Lo Ni Po       003 Im K2 V           
+Gigugikurgunu 0918 E325000-3     Ba Lo Ni          022 Im K4 V           
+Kikhida       1013 D584100-5     Lo Ni             512 Im M2 V           
+Khaarambumashi1015 C110699-9     Ic Na Ni          402 Im M1 V           
+Ulishgugi     1016 B9B6100-9     Fl Lo Ni          204 Im M3 V           
+Dikaseshzaduli1018 E744000-4     Ba Lo Ni          003 Im M9 III         
+Zzurvurh      1019 C251797-A     Po                412 Im M0 V           
+Sugilim       1111 C525311-6     Lo Ni             200 Im K3 III         
+Ikakishi      1114 D331520-2     Ni Po             823 Im M1 V           
+Isnalidudgaakh1116 E0006BD-5     As Na Ni Va       802 Im M3 V M0 D      
+Shumdazarkanim1118 B253732-B     Po                903 Im M3 V M8 D      
+Amka          1119 E100000-7     Ba Lo Ni Va       010 Im M1 IV          
+Zudgiiki      1212 B87A000-8     Ba Lo Ni Wa       004 Im K8 II          
+Sabaagiirar   1213 B767BAC-A     Hi                802 Im K4 V M5 D M2 D 
+Liigpi        1315 B525530-7     Ni                203 Im K1 V M8 D      

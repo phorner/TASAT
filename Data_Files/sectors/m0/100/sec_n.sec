@@ -1,0 +1,58 @@
+@SUB-SECTOR:N SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Mushigema     0933 B272599-7     Ni                513 Im M4 V           
+Khaanakukergii0935 E466557-2     Ag Ni             202 Im M0 V           
+Kiggu         0937 E000000-7     As Ba Lo Ni Va    003 Im M8 III M6 D    
+Dubushimakubi 0938 C686000-5     Ba Lo Ni          025 Im K9 V M9 D      
+Umuukiidiir   1031 B527514-9     Ni                303 Im M2 V M6 D M8 D 
+Iikhakimekhish1034 C253000-7     Ba Lo Ni Po       003 Im M1 V           
+Medukuu       1035 E639140-5     Lo Ni             411 Im G3 V           
+Aashi         1036 A110A77-C     Hi Ic Na          713 Im K3 V           
+Gugidar       1039 B9B6510-8     Fl Ni             504 Im G0 V           
+Maalaraar     1133 E756110-3     Lo Ni             824 Im M3 V           
+Kinkalidedpush1134 B89747B-A     Lo Ni             900 Im M9 IV M5 V     
+Kirigugaashash1136 B667000-6     Ba Lo Ni          002 Im K5 V           
+Shuurmim      1137 E688630-1     Ag Ni             900 Im M2 III M0 D    
+Angezikagi    1138 B310000-8     Ba Lo Ni          024 Im K9 D           
+Aadzishankaark1140 D62599A-5     Hi In             203 Im M4 V           
+Ekhigidumkula 1234 C331220-4     Lo Ni Po          720 Im M2 V M5 D      
+Idukhamegi    1235 C527276-4     Lo Ni             414 Im K3 IV M5 D     
+Rigig         1236 C253100-9     Lo Ni Po          901 Im K9 VI          
+Dakaankhashama1239 D639124-8     Lo Ni             903 Im M5 VI M2 D     
+Dunirerkhe    1240 E8C7587-4     Fl Ni             204 Im M1 V           
+Ligu          1335 C100400-A     Lo Ni Va          822 Im M2 V           
+Khilukarkhikhi1337 A100276-C     Lo Ni Va          603 Im G8 IV M8 V     
+Agiinuluka    1340 D465000-5     Ba Lo Ni          000 Im G3 V           
+Khashusakakham1435 B667000-8     Ba Lo Ni          003 Im G0 V M9 D      
+Digesh        1438 C688776-6     Ag                804 Im K4 V           
+Iigadkhuurgada1534 B331420-B     Lo Ni Po          903 Im K3 V           
+Cabot         1536 E100886-9     Na Va             304 Im M4 V           
+Khunaakushar  1539 B525747-A                       300 Im K7 III         
+Gigkiigakarkap1540 C100734-A     Na Va             522 Im M4 V M8 D      
+Irush         1635 E253124-3     Lo Ni Po          621 Im M4 V           
+Khukii        1638 C100215-A     Lo Ni Va          910 Im K3 V           
+Inluu         1639 D100000-9     Ba Lo Ni Va       015 Im M2 V           
+Isdin         1640 E000330-5     As Lo Ni Va       602 Im K3 V           

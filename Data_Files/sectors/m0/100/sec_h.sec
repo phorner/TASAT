@@ -1,0 +1,30 @@
+@SUB-SECTOR:H SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Irnikipagum   2514 C331569-6     Ni Po             901 Im G0 V M5 D      
+Tolananda     2612 D525ACD-6     Hi In             222 Im M2 V           
+Dardirardi    2711 E897000-2     Ba Lo Ni          023 Im M4 V           
+Shunarshalad  2720 D667AAE-6     Hi                403 Im M3 V           
+Laagam        2813 B527253-B     Lo Ni             803 Im G0 V           

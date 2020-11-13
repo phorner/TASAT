@@ -1,0 +1,54 @@
+@SUB-SECTOR:M SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Ashak         0133 C210000-8     Ba Lo Ni          012 Im M6 IV M8 D     
+Iimnime       0134 E767966-2     Hi                523 Im M5 IV          
+Khiigi        0138 C477200-8     Lo Ni             212 Im G0 V M8 V      
+Iikisadagu    0139 C110454-8     Ic Lo Ni          312 Im G2 V           
+Pular         0140 C524433-5     Lo Ni             601 Im M7 V M9 D      
+Kharkhigirraka0238 D200579-3     Ni Va             701 Im A4 V M4 D      
+Ushkham       0332 B583000-5     Ba Lo Ni          023 Im M3 V M1 D      
+Khadu         0334 E655200-5     Lo Ni             603 Im K1 V M4 D      
+Sumin         0339 D491642-5     Ni                703 Im M1 VI          
+Simgigda      0431 E695000-3     Ba Lo Ni          004 Im K1 IV M1 D     
+Kalaskhekhad  0436 C3667C8-7     Ag                303 Im M2 IV          
+Arliigima     0437 D544200-1     Lo Ni             103 Im K3 V M3 D M5 D 
+Gushamad      0438 E200400-8     Lo Ni Va          123 Im M3 V M9 D      
+Khamida       0532 E200000-5     Ba Lo Ni Va       000 Im K4 V M0 D      
+Asluusharur   0533 A332200-A     Lo Ni Po          713 Im F9 D           
+Dakarkhasgii  0534 B73A89A-B     Wa                102 Im A1 V           
+Gumamkhima    0536 C788367-3     Lo Ni             503 Im M0 V           
+Gikir         0537 D110000-6     Ba Ic Lo Ni       005 Im K3 V M5 D      
+Susiirkhe     0631 E896322-3     Lo Ni             815 Im M1 IV M9 D     
+Gudgi         0637 C210300-8     Lo Ni             505 Im M3 V           
+Zakakaaris    0639 C574300-8     Lo Ni             623 Im K7 II          
+Shunar        0731 D100333-7     Lo Ni Va          804 Im K6 III M2 VI   
+Isurgalu      0732 A529357-C     Lo Ni             322 Im K5 VI M9 D     
+Kagshukika    0737 B673100-8     Lo Ni             704 Im K0 V M3 D      
+Anudii        0739 C100524-A     Ni Va             703 Im K2 V           
+Karkarakhamzuk0832 B583379-8     Lo Ni             704 Im M3 V M3 D      
+Wovim         0836 E54A688-5     Ni Wa             614 Im K3 V           
+Menimaamiir   0838 D210000-5     Ba Lo Ni          012 Im M6 IV          
+Kaangigshugash0840 C110778-7     Ic Na             803 Im G3 V M4 D      

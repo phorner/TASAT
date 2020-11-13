@@ -1,0 +1,51 @@
+@SUB-SECTOR:O SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gimesh        1736 E100244-7     Lo Ni Va          103 Im M2 V           
+Shekgiiru     1737 A100526-A     Ni Va             513 Im K0 V           
+Pabarkagi     1739 D756300-6     Lo Ni             802 Im K2 V           
+Gurasugaa     1740 D100000-8     Ba Lo Ni Va       002 Im K2 V M5 V      
+Inashshuzidi  1836 D100000-7     Ba Lo Ni Va       002 Im K3 V M6 D      
+Aasmamadis    1839 C525215-4     Lo Ni             115 Im M4 V M0 D      
+Nushamarka    1840 E331465-5     Lo Ni Po          802 Im M4 V           
+Anise         1935 E100AFF-A     Hi Na Va          804 Im K2 IV          
+Gugurga       1937 C5258CC-9                       202 Im K1 V M7 D      
+Anmish        1939 E3315A9-6     Ni Po             413 Im M1 V           
+Luumalunas    2035 E000200-4     As Lo Ni Va       202 Im M8 D M8 D      
+Ikhamii       2135 D100200-9     Lo Ni Va          313 Im M2 V M0 D      
+Shud          2139 A100479-B     Lo Ni             613 Im M0 V M8 D      
+Imgiikidasa   2234 C100000-9     Ba Lo Ni Va       003 Im F0 D           
+Garashmuumirii2235 E525300-5     Lo Ni             705 Im M2 V           
+Gikiluunmu    2240 C331100-7     Lo Ni Po          601 Im M9 VI          
+Balir         2336 B253458-A     Lo Ni Po          313 Im K1 V M4 D      
+Kiibamaki     2337 D639253-8     Lo Ni             811 Im M1 V M1 D      
+Irashmukikii  2338 D8C7000-4     Ba Fl Lo Ni       023 Im K1 V M1 D      
+Girliinisharku2339 E310000-3     Ba Lo Ni          005 Im K0 V M7 D      
+Sashimam      2340 D625445-4     Lo Ni             410 Im K2 V M1 D      
+Sunager       2433 C532000-4     Ba Lo Ni Po       003 Im M8 III M0 VI   
+Usgudi        2436 D545644-4     Ag Ni             123 Im M2 IV          
+Udushadu      2438 A787597-9     Ag Ni             804 Im G2 V           
+Zaashugi      2439 D100351-7     Lo Ni Va          714 Im M1 V M9 D      
+Murushda      2440 C525000-4     Ba Lo Ni          004 Im G4 V           

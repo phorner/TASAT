@@ -1,0 +1,66 @@
+@SUB-SECTOR:B SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Zasuu         0901 C100575-6     Ni Va             413 Im K1 V M5 D      
+Kamikir       0904 B9BA6AB-A     Fl Ni Wa          804 Im G2 V M2 D      
+Udliigam      0905 B87A988-B     Hi In Wa          804 Im K3 V           
+Magi          0906 B9A1000-8     Ba Fl Lo Ni       014 Im M8 V           
+Kikarkaamas   1001 D8A4000-7     Ba Fl Lo Ni       004 Im M4 V           
+Nuukeshumikhil1002 D878000-3     Ba Lo Ni          010 Im G6 III         
+Kerpakhishkhuk1007 E757234-2     Lo Ni             604 Im M1 V           
+Ursalem       1009 E100A66-A     Hi Na Va          602 Im M2 D K0 D      
+Arashgiidu    1010 E537000-3     Ba Lo Ni          023 Im G0 V           
+Muudnikii     1101 C000400-6     As Lo Ni Va       302 Im K0 V           
+Tsent         1103 B639AFC-B     Hi In             824 Im M9 VI M7 D     
+Namishkhira   1104 C100244-8     Lo Ni Va          604 Im G2 IV          
+Kugiirgir     1109 A100000-B     Ba Lo Ni Va       012 Im M3 V           
+Kemishipni    1202 C532000-8     Ba Lo Ni Po       025 Im M4 V M0 D M8 D 
+Kiguumi       1203 E545555-2     Ag Ni             722 Im M0 IV          
+Urrukali      1205 B78748A-9     Lo Ni             305 Im K0 V           
+Dush          1208 B342467-9     Lo Ni Po          814 Im G4 V M0 D      
+Urerniishmirum1209 C7C669C-7     Fl Ni             704 Im M3 V           
+Ruushigiigimdi1301 D487000-7     Ba Lo Ni          020 Im M1 V           
+Laanugagaas   1305 E100000-5     Ba Lo Ni Va       023 Im M3 V M4 D      
+Akhi          1306 D525461-2     Lo Ni             802 Im F0 V           
+Dishgusamgi   1307 D331151-7     Lo Ni Po          603 Im M0 II          
+Innushma      1308 B527000-8     Ba Lo Ni          004 Im M6 IV M8 D     
+Lasukakashirbu1310 D100322-7     Lo Ni Va          214 Im A8 III K4 D    
+Kiilargishishi1401 E100000-7     Ba Lo Ni Va       003 Im M3 V M0 D      
+Iniimikshu    1404 D465000-5     Ba Lo Ni          001 Im M3 V M0 D      
+Apusni        1405 A100455-E     Lo Ni Va          503 Im M3 V           
+Epkhademu     1407 E465000-2     Ba Lo Ni          001 Im M8 V M4 D      
+Iiddideshirgir1409 E756310-1     Lo Ni             920 Im M1 V M1 D      
+Mamuru        1501 A310000-B     Ba Lo Ni          024 Im G6 V M6 D M4 D 
+Aduu          1502 C625430-5     Lo Ni             403 Im M4 VI          
+Aarshiishakug 1504 A532347-A     Lo Ni Po          625 Im M4 V M0 D      
+Muriigashaka  1505 C100200-8     Lo Ni Va          903 Im K0 V           
+Riki          1506 C525133-9     Lo Ni             700 Im M1 V M0 D      
+Imugirdu      1507 E331414-0     Lo Ni Po          414 Im M0 V           
+Kanshemes     1508 D100000-5     Ba Lo Ni Va       003 Im M4 V           
+Shebakukhim   1601 C100257-B     Lo Ni Va          822 Im M9 II          
+Akimu         1602 B10069D-C     Na Ni Va          705 Im K9 VI          
+Umnaguukikhuu 1603 B5258BF-B                       303 Im K1 V           
+Gidalisha     1605 B331ADC-B     Hi In Na Po       903 Im K3 IV          
+Aamkekha      1607 A527510-B     Ni                223 Im G0 V           

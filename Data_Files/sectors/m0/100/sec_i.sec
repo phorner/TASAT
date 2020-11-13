@@ -1,0 +1,61 @@
+@SUB-SECTOR:I SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Gishiiki      0122 D110100-6     Ic Lo Ni          803 Im M7 III         
+Irdik         0123 C667000-5     Ba Lo Ni          003 Im G0 V           
+Mabishkugii   0127 C8A0000-7     Ba De Lo Ni       003 Im G2 V           
+Umiirashmi    0129 E687153-2     Lo Ni             133 Im G1 V           
+Kiriipukine   0222 B653000-7     Ba Lo Ni Po       004 Im K1 VI M9 D     
+Uugamiggir    0225 D893142-2     Lo Ni             623 Im K6 V M1 D      
+Bishan        0226 E769622-3     Ni                404 Im M1 V           
+Derkhashadukha0228 C7A2142-7     Fl Lo Ni          903 Im M7 IV          
+Shegarad      0328 E423000-4     Ba Lo Ni Po       004 Im M5 IV M3 D     
+Aklan         0329 B47369B-9     Ni                403 Im K2 V M3 D      
+Aadnii        0330 D777658-4     Ag Ni             222 Im M2 V           
+Withern       0421 C100887-9     Na Va             403 Im M2 V M9 D      
+Dunk          0422 C769AA9-9     Hi                213 Im G3 V           
+Uusgikimikag  0423 C300143-A     Lo Ni Va          300 Im A9 V           
+Igim          0425 D632535-3     Ni Po             904 Im F3 V           
+Sakhi         0427 C889200-9     Lo Ni             905 Im M0 V M5 D M2 D 
+Kamikudile    0429 C210442-8     Lo Ni             700 Im M0 V M3 D      
+Ziina         0523 E323636-4     Na Ni Po          903 Im K4 V M9 D      
+Kaakiima      0527 B100320-8     Lo Ni Va          523 Im G7 V           
+Igakidar      0528 B362520-5     Ni                304 Im M1 V           
+Ychea         0623 B327520-C     Ni                302 Im K0 V           
+Kikharakas    0625 B261000-8     Ba Lo Ni          003 Im G3 III         
+Ukadenshas    0627 C555434-6     Lo Ni             903 Im G4 V M4 D      
+Kimapshin     0630 D725000-5     Ba Lo Ni          020 Im M5 V           
+Ulaamkaagag   0721 D571644-4     Ni                404 Im M3 V M5 D      
+Didukakin     0722 BA79226-B     Lo Ni             402 Im K1 V           
+Giibem        0723 A100000-C     Ba Lo Ni Va       024 Im M3 III         
+Imimad        0724 A574100-7     Lo Ni             705 Im M1 V M5 D      
+Darniki       0725 D62447A-6     Lo Ni             804 Im G3 V M7 D      
+Kamgilidam    0730 D435000-5     Ba Lo Ni          024 Im K2 II          
+Nergaza       0821 E310500-6     Ni                904 Im K4 III         
+Kamarka       0823 B100100-D     Lo Ni Va          604 Im M2 V           
+Suuliimamu    0826 E300420-4     Lo Ni Va          313 Im K4 V           
+Lakuga        0827 C444834-7                       105 Im M4 VI M4 D     
+Dugargirki    0829 A9A4210-9     Fl Lo Ni          910 Im F2 V           
+Lashkagur     0830 C74458C-9     Ag Ni             802 Im A1 V           

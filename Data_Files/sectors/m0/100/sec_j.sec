@@ -1,0 +1,39 @@
+@SUB-SECTOR:J SECTOR:Delphi
+#
+# Trade routes within the subsector
+#src.dst.X Y dst.offsets
+# $1840 1841  0 1
+#
+#Political Borders
+#hexnumber hexside(0 - 5)
+#^1840 0
+#^1840 1
+#
+#
+#  1 - 13: Name
+# 15 - 18: HexNbr
+# 20 - 28: UWP
+#      31: Bases
+# 33 - 47: Codes & Comments
+#      49: Zone
+# 52 - 54: PBG
+# 56 - 57: Allegiance
+# 59 - 74: Stellar Data
+#
+#--------1---------2---------3---------4---------5---------6---------7--
+#PlanetName   Loc  UPP Code   B   Remarks       Z  PBG Al   Star(s)
+#----------   ---- ---------  - --------------- -  --- -- --------------
+Lushimgigarar 0922 D64A110-5     Lo Ni Wa          802 Im K4 V           
+Aarkir        0925 C110400-9     Ic Lo Ni          402 Im M3 V           
+Kurerlamar    0926 C7877AD-5     Ag                605 Im M1 V M0 D      
+Urimiipakash  0929 C100A97-9     Hi Na Va          813 Im K3 V M4 D      
+Emkesimamid   1021 D100520-9     Ni Va             811 Im M4 V M1 D      
+Miisagiinagga 1022 B100364-C     Lo Ni Va          203 Im K4 V           
+Kiikii        1024 C525000-5     Ba Lo Ni          003 Im M6 V M4 D      
+Dineshukiimgu 1028 D331531-7     Ni Po             923 Im K3 V M0 D M0 D 
+Khushimashun  1123 E465120-3     Lo Ni             703 Im K9 V           
+Igiigir       1223 B100333-B     Lo Ni Va          623 Im K3 V M2 D      
+Igaridushpuun 1230 B525650-9     Ni                423 Im K9 D           
+Liimaliru     1422 C897569-4     Ag Ni             104 Im K4 V M7 D      
+Lamkikhiiluu  1521 B400000-3     Ba Lo Ni Va       002 Im M7 II M5 VI    
+Ashisesh      1523 E465748-6     Ag                504 Im K4 III         
