@@ -1,8 +1,9 @@
 # TASAT
 Travellers' Aid Society Access Terminal
 
-Open source application for use by Traveller GMs during their in-person gaming sessions.
-Written in C/C++ and using the Irrlicht3d game engine (http://irrlicht.sourceforge.net/ )
+The Travellers' Aid Society Access Terminal (TASAT) is an open source computer application (non-commercial only) for use by players and Referees who want a real-life experience using a TAS terminal in a starport or on a spacecraft.
+
+It is written in C/C++/C# and using the Irrlicht3d game engine (http://irrlicht.sourceforge.net/ )
 
 It is recommended that you read the documentation manual and download and install the full application
 installation binary located in the /bin folder to get a good understanding of the TASAT.
